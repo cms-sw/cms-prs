@@ -6143,5 +6143,42 @@
         "number": 33247, 
         "state": "open", 
         "updated_at": 1616422921
+    }, 
+    "33248": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/CaloTopology/interface/HGCalTopology.h", 
+            "Geometry/HGCalCommonData/data/hgcalCons/v15/hgcalCons.xml", 
+            "Geometry/HGCalCommonData/data/hgcalEE/v15/hgcalEE.xml", 
+            "Geometry/HGCalCommonData/data/hgcalHEmix/v15/hgcalHEmix.xml", 
+            "Geometry/HGCalCommonData/data/hgcalHEsil/v15/hgcalHEsil.xml", 
+            "Geometry/HGCalCommonData/data/hgcalcell/v15/hgcalcell.xml", 
+            "Geometry/HGCalCommonData/data/hgcalwafer/v15f/hgcalwafer.xml", 
+            "Geometry/HGCalCommonData/data/hgcalwafer/v15p/hgcalwafer.xml", 
+            "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h", 
+            "Geometry/HGCalCommonData/interface/HGCalGeomParameters.h", 
+            "Geometry/HGCalCommonData/interface/HGCalGeometryMode.h", 
+            "Geometry/HGCalCommonData/plugins/DDHGCalMixLayer.cc", 
+            "Geometry/HGCalCommonData/plugins/DDHGCalSiliconModule.cc", 
+            "Geometry/HGCalCommonData/plugins/HGCalParametersESModule.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalMixLayer.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalSiliconModule.cc", 
+            "Geometry/HGCalCommonData/python/hgcalParametersInitialization_cfi.py", 
+            "Geometry/HGCalCommonData/python/hgcalParametersV15Initialization_cfi.py", 
+            "Geometry/HGCalCommonData/python/hgcalV6ParametersInitialization_cfi.py", 
+            "Geometry/HGCalCommonData/python/testHGCalV15XML_cfi.py", 
+            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc", 
+            "Geometry/HGCalCommonData/src/HGCalGeomParameters.cc", 
+            "Geometry/HGCalCommonData/src/HGCalGeometryMode.cc", 
+            "Geometry/HGCalCommonData/src/HGCalParametersFromDD.cc", 
+            "Geometry/HGCalCommonData/test/python/testHGCalNumbering_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/testHGCalParametersDDDV15_cfg.py", 
+            "Geometry/HGCalSimData/data/hgcProdCutsv15.xml", 
+            "Geometry/HGCalSimData/data/hgcsensv15.xml"
+        ], 
+        "created_at": 1616449976, 
+        "number": 33248, 
+        "state": "open", 
+        "updated_at": 1616449998
     }
 }
