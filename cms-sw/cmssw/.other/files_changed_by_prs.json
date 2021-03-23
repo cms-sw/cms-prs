@@ -3660,7 +3660,8 @@
         "changed_files_names": [
             "CUDADataFormats/Track/BuildFile.xml", 
             "CUDADataFormats/Track/interface/PixelTrackHeterogeneous.h", 
-            "CUDADataFormats/Track/interface/TrajectoryStateSoA.h", 
+            "CUDADataFormats/Track/interface/TrackSoAHeterogeneousT.h", 
+            "CUDADataFormats/Track/interface/TrajectoryStateSoAT.h", 
             "CUDADataFormats/Track/src/classes.h", 
             "CUDADataFormats/Track/src/classes_def.xml", 
             "CUDADataFormats/Track/test/BuildFile.xml", 
@@ -3689,11 +3690,11 @@
             "RecoPixelVertexing/PixelTrackFitting/python/pixelNtupletsFitter_cfi.py", 
             "RecoPixelVertexing/PixelTrackFitting/src/PixelNtupletsFitter.cc", 
             "RecoPixelVertexing/PixelTrackFitting/test/BuildFile.xml", 
-            "RecoPixelVertexing/PixelTrackFitting/test/PixelTrackRiemannFit.cc", 
+            "RecoPixelVertexing/PixelTrackFitting/test/PixelTrackFits.cc", 
             "RecoPixelVertexing/PixelTrackFitting/test/testEigenGPU.cu", 
             "RecoPixelVertexing/PixelTrackFitting/test/testEigenGPUNoFit.cu", 
             "RecoPixelVertexing/PixelTrackFitting/test/testEigenJacobian.cpp", 
-            "RecoPixelVertexing/PixelTrackFitting/test/testRiemannFit.cpp", 
+            "RecoPixelVertexing/PixelTrackFitting/test/testFits.cpp", 
             "RecoPixelVertexing/PixelTrackFitting/test/test_common.h", 
             "RecoPixelVertexing/PixelTriplets/interface/CAHitQuadrupletGenerator.h", 
             "RecoPixelVertexing/PixelTriplets/interface/CircleEq.h", 
@@ -3715,7 +3716,6 @@
             "RecoPixelVertexing/PixelTriplets/plugins/GPUCACell.h", 
             "RecoPixelVertexing/PixelTriplets/plugins/HelixFitOnGPU.cc", 
             "RecoPixelVertexing/PixelTriplets/plugins/HelixFitOnGPU.h", 
-            "RecoPixelVertexing/PixelTriplets/plugins/RecHitsMap.h", 
             "RecoPixelVertexing/PixelTriplets/plugins/RiemannFitOnGPU.cc", 
             "RecoPixelVertexing/PixelTriplets/plugins/RiemannFitOnGPU.cu", 
             "RecoPixelVertexing/PixelTriplets/plugins/RiemannFitOnGPU.h", 
@@ -3739,7 +3739,7 @@
         "created_at": 1602187257, 
         "number": 31722, 
         "state": "open", 
-        "updated_at": 1615906578
+        "updated_at": 1616531303
     }, 
     "31723": {
         "base_branch": "master", 
