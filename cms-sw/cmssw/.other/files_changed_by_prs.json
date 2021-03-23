@@ -3756,7 +3756,6 @@
             "RecoPixelVertexing/Configuration/python/RecoPixelVertexing_cff.py", 
             "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackDumpCUDA.cc", 
             "RecoPixelVertexing/PixelVertexFinding/plugins/BuildFile.xml", 
-            "RecoPixelVertexing/PixelVertexFinding/plugins/PixelVertexCollectionTrimmer.cc", 
             "RecoPixelVertexing/PixelVertexFinding/plugins/PixelVertexProducerCUDA.cc", 
             "RecoPixelVertexing/PixelVertexFinding/plugins/PixelVertexProducerFromSoA.cc", 
             "RecoPixelVertexing/PixelVertexFinding/plugins/PixelVertexSoAFromCUDA.cc", 
@@ -3779,7 +3778,7 @@
         "created_at": 1602187308, 
         "number": 31723, 
         "state": "open", 
-        "updated_at": 1610700917
+        "updated_at": 1616486875
     }, 
     "31746": {
         "base_branch": "master", 
