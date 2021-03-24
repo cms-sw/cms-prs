@@ -5479,38 +5479,6 @@
         "state": "open", 
         "updated_at": 1615210108
     }, 
-    "33118": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/Integration/python/clients/hcalcalib_dqm_sourceclient-live_cfg.py", 
-            "L1Trigger/Configuration/python/customiseReEmul.py", 
-            "L1Trigger/Configuration/python/customiseSettings.py", 
-            "L1Trigger/Configuration/test/GEMeMapDummy.db", 
-            "L1Trigger/Configuration/test/mc_L1TReEmulMCFromRAW_L1NtupleEMU_fixConfigGEM.py", 
-            "L1Trigger/L1TCalorimeter/python/caloParams_2018_v1_3_cfi.py", 
-            "L1Trigger/L1TCalorimeter/python/caloParams_2019_v1_0_cfi.py", 
-            "L1Trigger/L1TCalorimeter/test/runCaloLayer2MPFWValidation.py", 
-            "L1Trigger/L1TCalorimeter/test/runEmulator-CaloStage2.py", 
-            "L1Trigger/L1TCommon/macros/NtupleDiff.C", 
-            "L1Trigger/L1TCommon/scripts/makeHtml.sh", 
-            "L1Trigger/L1TCommon/scripts/testL1T.pl", 
-            "L1Trigger/L1TGlobal/src/MuCondition.cc", 
-            "L1Trigger/L1TMuon/python/fakeGmtParams_cff.py", 
-            "L1Trigger/L1TMuon/python/simDigis_cff.py", 
-            "L1Trigger/L1TMuon/test/dump_ugmt_luts.py", 
-            "L1Trigger/L1TNtuples/BuildFile.xml", 
-            "L1Trigger/L1TNtuples/interface/L1AnalysisL1UpgradeTfMuon.h", 
-            "L1Trigger/L1TNtuples/interface/L1AnalysisL1UpgradeTfMuonDataFormat.h", 
-            "L1Trigger/L1TNtuples/plugins/L1UpgradeTfMuonTreeProducer.cc", 
-            "L1Trigger/L1TNtuples/python/L1NtupleEMU_cff.py", 
-            "L1Trigger/L1TNtuples/python/l1UpgradeTfMuonTree_cfi.py", 
-            "L1Trigger/L1TNtuples/src/L1AnalysisL1UpgradeTfMuon.cc"
-        ], 
-        "created_at": 1615298928, 
-        "number": 33118, 
-        "state": "open", 
-        "updated_at": 1615981713
-    }, 
     "33120": {
         "base_branch": "CMSSW_11_2_X", 
         "changed_files_names": [
