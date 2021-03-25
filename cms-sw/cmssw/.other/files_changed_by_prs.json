@@ -5535,8 +5535,6 @@
             "CalibPPS/TimingCalibration/python/ALCARECOPPSTimingCalib_Output_cff.py", 
             "CalibPPS/TimingCalibration/python/ALCARECOPPSTimingCalib_cff.py", 
             "CalibPPS/TimingCalibration/python/PPSTimingCalibrationHarvester_cff.py", 
-            "CalibPPS/TimingCalibration/test/step3_RAW2DIGI_RECO_ALCA.py", 
-            "CalibPPS/TimingCalibration/test/step4_ALCAHARVEST.py", 
             "Configuration/AlCa/python/autoPCL.py", 
             "Configuration/EventContent/python/AlCaRecoOutput_cff.py", 
             "Configuration/PyReleaseValidation/python/relval_production.py", 
@@ -5548,7 +5546,7 @@
         "created_at": 1616087861, 
         "number": 33215, 
         "state": "open", 
-        "updated_at": 1616105509
+        "updated_at": 1616677274
     }, 
     "33220": {
         "base_branch": "master", 
