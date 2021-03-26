@@ -5762,12 +5762,13 @@
     "33258": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
-            "PhysicsTools/PatAlgos/plugins/PATLostTracks.cc"
+            "PhysicsTools/PatAlgos/plugins/PATLostTracks.cc", 
+            "PhysicsTools/PatAlgos/python/slimming/lostTracks_cfi.py"
         ], 
         "created_at": 1616596000, 
         "number": 33258, 
         "state": "open", 
-        "updated_at": 1616596027
+        "updated_at": 1616773544
     }, 
     "33259": {
         "base_branch": "master", 
