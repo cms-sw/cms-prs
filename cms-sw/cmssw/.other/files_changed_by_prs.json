@@ -5513,38 +5513,6 @@
         "state": "open", 
         "updated_at": 1616677274
     }, 
-    "33220": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibCalorimetry/EcalTPGTools/plugins/EcalTPGDBCopy.cc", 
-            "CondCore/EcalPlugins/src/plugin.cc", 
-            "CondCore/Utilities/plugins/Module_2XML.cc", 
-            "CondCore/Utilities/src/CondFormats.h", 
-            "CondFormats/DataRecord/interface/EcalTPGOddWeightGroupRcd.h", 
-            "CondFormats/DataRecord/interface/EcalTPGOddWeightIdMapRcd.h", 
-            "CondFormats/DataRecord/interface/EcalTPGTPModeRcd.h", 
-            "CondFormats/DataRecord/src/EcalTPGOddWeightGroupRcd.cc", 
-            "CondFormats/DataRecord/src/EcalTPGOddWeightIdMapRcd.cc", 
-            "CondFormats/DataRecord/src/EcalTPGTPModeRcd.cc", 
-            "CondFormats/EcalObjects/interface/EcalTPGOddWeightGroup.h", 
-            "CondFormats/EcalObjects/interface/EcalTPGOddWeightIdMap.h", 
-            "CondFormats/EcalObjects/interface/EcalTPGTPMode.h", 
-            "CondFormats/EcalObjects/interface/EcalTPGWeightGroup.h", 
-            "CondFormats/EcalObjects/src/EcalTPGOddWeightGroup.cc", 
-            "CondFormats/EcalObjects/src/EcalTPGOddWeightIdMap.cc", 
-            "CondFormats/EcalObjects/src/EcalTPGTPMode.cc", 
-            "CondFormats/EcalObjects/src/T_EventSetup_EcalTPGOddWeightGroup.cc", 
-            "CondFormats/EcalObjects/src/T_EventSetup_EcalTPGOddWeightIdMap.cc", 
-            "CondFormats/EcalObjects/src/T_EventSetup_EcalTPGTPMode.cc", 
-            "CondFormats/EcalObjects/src/classes.h", 
-            "CondFormats/EcalObjects/src/classes_def.xml", 
-            "CondFormats/EcalObjects/src/headers.h"
-        ], 
-        "created_at": 1616157883, 
-        "number": 33220, 
-        "state": "open", 
-        "updated_at": 1616157905
-    }, 
     "33223": {
         "base_branch": "master", 
         "changed_files_names": [
