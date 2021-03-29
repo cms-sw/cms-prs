@@ -5677,8 +5677,10 @@
             "CondCore/SiPixelPlugins/test/BuildFile.xml", 
             "CondCore/SiPixelPlugins/test/testLorentzAngleMap.sh", 
             "CondCore/SiPixelPlugins/test/testMiscellanea.sh", 
+            "CondCore/SiPixelPlugins/test/testSiPixelPayloadInspector.cpp", 
             "CondCore/SiStripPlugins/plugins/SiStripBadStrip_PayloadInspector.cc", 
             "CondCore/SiStripPlugins/plugins/SiStripLorentzAngle_PayloadInspector.cc", 
+            "CondCore/SiStripPlugins/test/testSiStripPayloadInspector.cpp", 
             "DQM/TrackerRemapper/BuildFile.xml", 
             "DQM/TrackerRemapper/README.md", 
             "DQM/TrackerRemapper/interface/Phase1PixelMaps.h", 
@@ -5698,7 +5700,7 @@
         "created_at": 1616777333, 
         "number": 33280, 
         "state": "open", 
-        "updated_at": 1617002227
+        "updated_at": 1617008534
     }, 
     "33281": {
         "base_branch": "CMSSW_11_2_X", 
