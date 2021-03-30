@@ -5916,5 +5916,18 @@
         "number": 33299, 
         "state": "open", 
         "updated_at": 1617109603
+    }, 
+    "33300": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimTracker/SiPhase2Digitizer/plugins/Pixel3DDigitizerAlgorithm.cc", 
+            "SimTracker/SiPhase2Digitizer/python/PixelTestBeamValidation_cfi.py", 
+            "SimTracker/SiPhase2Digitizer/test/PixelTestBeamValidation.cc", 
+            "SimTracker/SiPhase2Digitizer/test/PixelTestBeamValidation.h"
+        ], 
+        "created_at": 1617112253, 
+        "number": 33300, 
+        "state": "open", 
+        "updated_at": 1617112289
     }
 }
