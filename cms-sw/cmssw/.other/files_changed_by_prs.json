@@ -5905,5 +5905,22 @@
         "number": 33296, 
         "state": "open", 
         "updated_at": 1617099438
+    }, 
+    "33298": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/test/HGCalValidHexTester.cc", 
+            "Geometry/HGCalCommonData/test/HGCalWaferTester.cc", 
+            "Geometry/HGCalCommonData/test/python/testHGCalValidHex_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/testHGCalWafer_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalCellDumpDD4Hep_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalCellDumpDDD_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalWaferInFileCheck_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalWaferInFileTest_cfg.py"
+        ], 
+        "created_at": 1617103845, 
+        "number": 33298, 
+        "state": "open", 
+        "updated_at": 1617103870
     }
 }
