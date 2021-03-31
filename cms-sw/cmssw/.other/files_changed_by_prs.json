@@ -5490,36 +5490,6 @@
         "state": "open", 
         "updated_at": 1616684175
     }, 
-    "33270": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMOffline/Ecal/plugins/EcalPileUpDepMonitor.cc", 
-            "DQMOffline/Trigger/src/EgHLTOffHelper.cc", 
-            "EgammaAnalysis/ElectronTools/interface/SuperClusterHelper.h", 
-            "EgammaAnalysis/ElectronTools/src/EGammaMvaEleEstimator.cc", 
-            "EgammaAnalysis/ElectronTools/src/EGammaMvaEleEstimatorCSA14.cc", 
-            "EgammaAnalysis/ElectronTools/src/SuperClusterHelper.cc", 
-            "EgammaAnalysis/ElectronTools/test/ElectronTestAnalyzer.cc", 
-            "PhysicsTools/PatAlgos/plugins/PATElectronProducer.cc", 
-            "PhysicsTools/PatAlgos/plugins/PATElectronSlimmer.cc", 
-            "PhysicsTools/PatAlgos/plugins/PATPhotonSlimmer.cc", 
-            "RecoEcal/EgammaClusterAlgos/src/SCEnergyCorrectorSemiParm.cc", 
-            "RecoEcal/EgammaCoreTools/interface/EcalClusterLazyTools.h", 
-            "RecoEcal/EgammaCoreTools/interface/EcalClusterTools.h", 
-            "RecoEcal/EgammaCoreTools/test/testEcalClusterLazyTools.cc", 
-            "RecoEcal/EgammaCoreTools/test/testEcalClusterTools.cc", 
-            "RecoEgamma/EgammaElectronAlgos/src/GsfElectronAlgo.cc", 
-            "RecoEgamma/EgammaHLTProducers/plugins/EgammaHLTClusterShapeProducer.cc", 
-            "RecoEgamma/EgammaPhotonProducers/src/GEDPhotonProducer.cc", 
-            "RecoEgamma/EgammaPhotonProducers/src/PhotonProducer.cc", 
-            "RecoEgamma/EgammaTools/src/EcalRegressionData.cc", 
-            "RecoEgamma/PhotonIdentification/plugins/PhotonIDValueMapProducer.cc"
-        ], 
-        "created_at": 1616677433, 
-        "number": 33270, 
-        "state": "open", 
-        "updated_at": 1616999681
-    }, 
     "33272": {
         "base_branch": "master", 
         "changed_files_names": [
