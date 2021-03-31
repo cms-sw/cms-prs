@@ -5871,5 +5871,17 @@
         "number": 33308, 
         "state": "open", 
         "updated_at": 1617170803
+    }, 
+    "33309": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Validation/HGCalValidation/interface/CaloParticleSelector.h", 
+            "Validation/HGCalValidation/plugins/HGCalValidator.cc", 
+            "Validation/HGCalValidation/python/CaloParticleSelectionForEfficiency_cfi.py"
+        ], 
+        "created_at": 1617173447, 
+        "number": 33309, 
+        "state": "open", 
+        "updated_at": 1617173467
     }
 }
