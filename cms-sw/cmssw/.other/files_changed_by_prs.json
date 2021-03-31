@@ -5979,5 +5979,25 @@
         "number": 33317, 
         "state": "open", 
         "updated_at": 1617199274
+    }, 
+    "33318": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/HGCalReco/interface/Trackster.h", 
+            "RecoHGCal/Configuration/python/RecoHGCal_EventContent_cff.py", 
+            "RecoHGCal/TICL/plugins/TrackstersFromSimClustersProducer.cc", 
+            "RecoHGCal/TICL/python/SimTracksters_cff.py", 
+            "RecoHGCal/TICL/python/iterativeTICL_cff.py", 
+            "SimDataFormats/Associations/interface/LayerClusterToSimClusterAssociator.h", 
+            "Validation/Configuration/python/globalValidation_cff.py", 
+            "Validation/Configuration/python/hgcalSimValid_cff.py", 
+            "Validation/HGCalValidation/python/HGCalValidator_cfi.py", 
+            "Validation/HGCalValidation/python/PostProcessorHGCAL_cfi.py", 
+            "Validation/HGCalValidation/scripts/makeHGCalValidationPlots.py"
+        ], 
+        "created_at": 1617200303, 
+        "number": 33318, 
+        "state": "open", 
+        "updated_at": 1617200401
     }
 }
