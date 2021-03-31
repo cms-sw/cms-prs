@@ -5454,7 +5454,7 @@
     "33259": {
         "base_branch": "master", 
         "changed_files_names": [
-            "RecoLocalTracker/SiPixelClusterizer/plugins/GPUClusterThresholds.h", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelClusterThresholds.h", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelDigisClustersFromSoA.cc", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterCUDA.cc", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.cu", 
@@ -5465,7 +5465,7 @@
         "created_at": 1616596860, 
         "number": 33259, 
         "state": "open", 
-        "updated_at": 1616864060
+        "updated_at": 1617172389
     }, 
     "33264": {
         "base_branch": "master", 
