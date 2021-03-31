@@ -5592,7 +5592,6 @@
     "33281": {
         "base_branch": "CMSSW_11_2_X", 
         "changed_files_names": [
-            "L1Trigger/L1TMuon/data/bmtf_luts/kalmanLUTs.root", 
             "L1Trigger/L1TMuonBarrel/BuildFile.xml", 
             "L1Trigger/L1TMuonBarrel/interface/L1TMuonBarrelKalmanAlgo.h", 
             "L1Trigger/L1TMuonBarrel/interface/L1TMuonBarrelKalmanLUTs.h", 
@@ -5609,7 +5608,7 @@
         "created_at": 1616794329, 
         "number": 33281, 
         "state": "open", 
-        "updated_at": 1616996763
+        "updated_at": 1617202513
     }, 
     "33282": {
         "base_branch": "master", 
