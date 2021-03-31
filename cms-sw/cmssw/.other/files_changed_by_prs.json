@@ -5306,6 +5306,8 @@
             "DataFormats/RecoCandidate/BuildFile.xml", 
             "DataFormats/RecoCandidate/src/classes.h", 
             "DataFormats/RecoCandidate/src/classes_def.xml", 
+            "RecoHI/HiTracking/BuildFile.xml", 
+            "RecoHI/HiTracking/plugins/BuildFile.xml", 
             "RecoVertex/KalmanVertexFit/interface/VertexFitterResult.h", 
             "SimDataFormats/Associations/interface/TrackAssociation.h", 
             "SimDataFormats/Associations/interface/TrackToGenParticleAssociator.h", 
@@ -5328,7 +5330,7 @@
         "created_at": 1615878914, 
         "number": 33186, 
         "state": "open", 
-        "updated_at": 1616691482
+        "updated_at": 1617174615
     }, 
     "33210": {
         "base_branch": "CMSSW_11_2_X", 
