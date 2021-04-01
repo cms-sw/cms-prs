@@ -3603,6 +3603,7 @@
             "DQMOffline/Configuration/python/DQMOffline_cff.py", 
             "DQMOffline/RecoB/python/PixelVertexMonitor_cff.py", 
             "RecoPixelVertexing/Configuration/python/RecoPixelVertexing_cff.py", 
+            "RecoPixelVertexing/Configuration/python/customizePixelTracksSoAonCPU.py", 
             "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackDumpCUDA.cc", 
             "RecoPixelVertexing/PixelVertexFinding/plugins/BuildFile.xml", 
             "RecoPixelVertexing/PixelVertexFinding/plugins/PixelVertexProducerCUDA.cc", 
@@ -3627,7 +3628,7 @@
         "created_at": 1602187308, 
         "number": 31723, 
         "state": "open", 
-        "updated_at": 1616996224
+        "updated_at": 1617277400
     }, 
     "31746": {
         "base_branch": "master", 
