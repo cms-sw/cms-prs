@@ -5344,9 +5344,11 @@
     "33280": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Alignment/OfflineValidation/plugins/BuildFile.xml", 
             "Alignment/OfflineValidation/plugins/DMRChecker.cc", 
             "Alignment/OfflineValidation/plugins/GeneralPurposeTrackAnalyzer.cc", 
             "CondCore/SiPixelPlugins/BuildFile.xml", 
+            "CondCore/SiPixelPlugins/interface/Phase1PixelMaps.h", 
             "CondCore/SiPixelPlugins/interface/SiPixelGainCalibHelper.h", 
             "CondCore/SiPixelPlugins/interface/SiPixelPayloadInspectorHelper.h", 
             "CondCore/SiPixelPlugins/interface/SiPixelTemplateHelper.h", 
@@ -5361,8 +5363,11 @@
             "CondCore/SiPixelPlugins/test/testLorentzAngleMap.sh", 
             "CondCore/SiPixelPlugins/test/testMiscellanea.sh", 
             "CondCore/SiPixelPlugins/test/testSiPixelPayloadInspector.cpp", 
+            "CondCore/SiStripPlugins/interface/SiStripTkMaps.h", 
+            "CondCore/SiStripPlugins/plugins/BuildFile.xml", 
             "CondCore/SiStripPlugins/plugins/SiStripBadStrip_PayloadInspector.cc", 
             "CondCore/SiStripPlugins/plugins/SiStripLorentzAngle_PayloadInspector.cc", 
+            "CondCore/SiStripPlugins/test/BuildFile.xml", 
             "CondCore/SiStripPlugins/test/testSiStripPayloadInspector.cpp", 
             "DQM/TrackerRemapper/BuildFile.xml", 
             "DQM/TrackerRemapper/README.md", 
@@ -5375,7 +5380,10 @@
             "DQM/TrackerRemapper/plugins/BuildFile.xml", 
             "DQM/TrackerRemapper/plugins/SiPixelPhase1Analyzer.cc", 
             "DQM/TrackerRemapper/plugins/TrackerRemapper.cc", 
+            "DQM/TrackerRemapper/src/Phase1PixelMaps.cc", 
             "DQM/TrackerRemapper/src/Phase1PixelROCMaps.cc", 
+            "DQM/TrackerRemapper/src/Phase1PixelSummaryMap.cc", 
+            "DQM/TrackerRemapper/src/SiStripTkMaps.cc", 
             "DQM/TrackerRemapper/test/PrintTkMap.py", 
             "DQM/TrackerRemapper/test/SiPixelPhase1Analyzer_cfg.py", 
             "DQM/TrackerRemapper/test/TrackerRemapper_cfg.py"
@@ -5383,7 +5391,7 @@
         "created_at": 1616777333, 
         "number": 33280, 
         "state": "open", 
-        "updated_at": 1617628555
+        "updated_at": 1617702425
     }, 
     "33299": {
         "base_branch": "master", 
