@@ -5690,5 +5690,18 @@
         "number": 33346, 
         "state": "open", 
         "updated_at": 1617725772
+    }, 
+    "33347": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "PhysicsTools/HepMCCandAlgos/plugins/MCTruthMatchers.cc", 
+            "PhysicsTools/NanoAOD/plugins/CandMCMatchTableProducerNew.cc", 
+            "PhysicsTools/NanoAOD/plugins/GenJetGenPartMerger.cc", 
+            "PhysicsTools/NanoAOD/python/electrons_cff.py"
+        ], 
+        "created_at": 1617726973, 
+        "number": 33347, 
+        "state": "open", 
+        "updated_at": 1617727032
     }
 }
