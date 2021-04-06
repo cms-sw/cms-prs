@@ -5287,18 +5287,29 @@
     "33259": {
         "base_branch": "master", 
         "changed_files_names": [
+            "RecoLocalTracker/Phase2TrackerRecHits/plugins/Phase2TrackerRecHits.cc", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelClusterThresholds.h", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelDigisClustersFromSoA.cc", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterCUDA.cc", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.cu", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.h", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/gpuClusterChargeCut.h", 
-            "RecoLocalTracker/SiPixelClusterizer/test/gpuClustering_t.h"
+            "RecoLocalTracker/SiPixelClusterizer/test/gpuClustering_t.h", 
+            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEClusterRepair.cc", 
+            "RecoLocalTracker/SubCollectionProducers/interface/PixelClusterSelectorTopBottom.h", 
+            "RecoLocalTracker/SubCollectionProducers/interface/StripClusterSelectorTopBottom.h", 
+            "RecoLocalTracker/SubCollectionProducers/src/HITrackClusterRemover.cc", 
+            "RecoLocalTracker/SubCollectionProducers/src/HLTTrackClusterRemoverNew.cc", 
+            "RecoLocalTracker/SubCollectionProducers/src/JetCoreClusterSplitter.cc", 
+            "RecoLocalTracker/SubCollectionProducers/src/PixelClusterSelectorTopBottom.cc", 
+            "RecoLocalTracker/SubCollectionProducers/src/SeedClusterRemover.cc", 
+            "RecoLocalTracker/SubCollectionProducers/src/SeedClusterRemoverPhase2.cc", 
+            "RecoLocalTracker/SubCollectionProducers/src/StripClusterSelectorTopBottom.cc"
         ], 
         "created_at": 1616596860, 
         "number": 33259, 
         "state": "open", 
-        "updated_at": 1617193650
+        "updated_at": 1617685938
     }, 
     "33266": {
         "base_branch": "master", 
