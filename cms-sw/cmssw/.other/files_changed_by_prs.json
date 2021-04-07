@@ -5764,5 +5764,27 @@
         "number": 33359, 
         "state": "open", 
         "updated_at": 1617793211
+    }, 
+    "33360": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoHGCal/TICL/plugins/HGCDoublet.cc", 
+            "Validation/Configuration/python/hgcalSimValid_cff.py", 
+            "Validation/HGCalValidation/interface/HGCalValidator.h", 
+            "Validation/HGCalValidation/interface/HGVHistoProducerAlgo.h", 
+            "Validation/HGCalValidation/plugins/HGCalValidator.cc", 
+            "Validation/HGCalValidation/plugins/TICLTrackstersEdgesValidation.cc", 
+            "Validation/HGCalValidation/python/CaloParticleSelectionForEfficiency_cfi.py", 
+            "Validation/HGCalValidation/python/HGCalValidator_cfi.py", 
+            "Validation/HGCalValidation/python/hgcalPlots.py", 
+            "Validation/HGCalValidation/python/ticlTrackstersEdgesValidation_cfi.py", 
+            "Validation/HGCalValidation/scripts/makeHGCalValidationPlots.py", 
+            "Validation/HGCalValidation/src/HGVHistoProducerAlgo.cc", 
+            "Validation/RecoTrack/python/plotting/plotting.py"
+        ], 
+        "created_at": 1617795925, 
+        "number": 33360, 
+        "state": "open", 
+        "updated_at": 1617795973
     }
 }
