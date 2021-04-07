@@ -3636,12 +3636,15 @@
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
             "PhysicsTools/NanoAOD/python/isotracks_cff.py", 
-            "PhysicsTools/NanoAOD/python/muons_cff.py"
+            "PhysicsTools/NanoAOD/python/muons_cff.py", 
+            "PhysicsTools/NanoAOD/python/nanoDQM_cff.py", 
+            "PhysicsTools/NanoAOD/python/nanoDQM_cfi.py", 
+            "PhysicsTools/NanoAOD/python/nano_cff.py"
         ], 
         "created_at": 1605102697, 
         "number": 32107, 
         "state": "open", 
-        "updated_at": 1617274168
+        "updated_at": 1617790623
     }, 
     "32167": {
         "base_branch": "master", 
