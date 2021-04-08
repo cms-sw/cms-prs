@@ -5870,5 +5870,27 @@
         "number": 33378, 
         "state": "open", 
         "updated_at": 1617898267
+    }, 
+    "33379": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalWafer8-algorithm.xml", 
+            "Geometry/HGCalCommonData/plugins/DDHGCalCell.cc", 
+            "Geometry/HGCalCommonData/plugins/DDHGCalEEFileAlgo.cc", 
+            "Geometry/HGCalCommonData/plugins/DDHGCalHEFileAlgo.cc", 
+            "Geometry/HGCalCommonData/plugins/DDHGCalWafer8.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalCell.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalHEFileAlgo.cc", 
+            "Geometry/HGCalCommonData/python/testHGCalWafer8XML_cfi.py", 
+            "Geometry/HGCalCommonData/test/cms.xml", 
+            "Geometry/HGCalCommonData/test/python/runHGCalD76DD4Hep_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/runHGCalD76DDD_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/runHGCalWafer8DD4Hep_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/runHGCalWafer8DDD_cfg.py"
+        ], 
+        "created_at": 1617907458, 
+        "number": 33379, 
+        "state": "open", 
+        "updated_at": 1617907506
     }
 }
