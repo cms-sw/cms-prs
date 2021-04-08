@@ -5862,5 +5862,42 @@
         "number": 33370, 
         "state": "open", 
         "updated_at": 1617865185
+    }, 
+    "33371": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CUDADataFormats/SiPixelCluster/interface/gpuClusteringConstants.h", 
+            "CUDADataFormats/TrackingRecHit/interface/TrackingRecHit2DHeterogeneous.h", 
+            "CUDADataFormats/TrackingRecHit/interface/TrackingRecHit2DSOAView.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/FlexiStorage.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/HistoContainer.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/OneToManyAssoc.h", 
+            "HeterogeneousCore/CUDAUtilities/test/BuildFile.xml", 
+            "HeterogeneousCore/CUDAUtilities/test/FlexiStorage_t.cpp", 
+            "HeterogeneousCore/CUDAUtilities/test/HistoContainerRT_t.cu", 
+            "HeterogeneousCore/CUDAUtilities/test/HistoContainer_t.cpp", 
+            "HeterogeneousCore/CUDAUtilities/test/HistoContainer_t.cu", 
+            "HeterogeneousCore/CUDAUtilities/test/OneHistoContainer_t.cu", 
+            "HeterogeneousCore/CUDAUtilities/test/OneToManyAssoc_t.h", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.cu", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/PixelRecHitGPUKernel.cu", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitCUDA.cc", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitFromCUDA.cc", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitSoAFromLegacy.cc", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/gpuPixelRecHits.h", 
+            "RecoPixelVertexing/PixelTriplets/plugins/BrokenLineFitOnGPU.h", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAConstants.h", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.cc", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.cu", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.h", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernelsAlloc.h", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernelsImpl.h", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorOnGPU.cc", 
+            "RecoPixelVertexing/PixelTriplets/plugins/RiemannFitOnGPU.h"
+        ], 
+        "created_at": 1617865639, 
+        "number": 33371, 
+        "state": "open", 
+        "updated_at": 1617865665
     }
 }
