@@ -5604,12 +5604,14 @@
             "SimCalorimetry/EcalTrigPrimAlgos/src/EcalFenixTcpFormatEB.cc", 
             "SimCalorimetry/EcalTrigPrimAlgos/src/EcalFenixTcpFormatEE.cc", 
             "SimCalorimetry/EcalTrigPrimAlgos/src/EcalTrigPrimFunctionalAlgo.cc", 
-            "SimCalorimetry/EcalTrigPrimProducers/plugins/EcalTrigPrimProducer.cc"
+            "SimCalorimetry/EcalTrigPrimProducers/plugins/EcalTrigPrimProducer.cc", 
+            "SimCalorimetry/EcalTrigPrimProducers/python/ecalTrigPrimESDoubleWeights_cff.py", 
+            "SimCalorimetry/EcalTrigPrimProducers/python/ecalTriggerPrimitiveDigis_cff.py"
         ], 
         "created_at": 1617728951, 
         "number": 33349, 
         "state": "open", 
-        "updated_at": 1617728999
+        "updated_at": 1617860338
     }, 
     "33350": {
         "base_branch": "master", 
