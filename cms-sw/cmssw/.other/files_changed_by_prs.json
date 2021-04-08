@@ -5201,22 +5201,6 @@
         "state": "open", 
         "updated_at": 1617138833
     }, 
-    "33259": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelClusterThresholds.h", 
-            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelDigisClustersFromSoA.cc", 
-            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterCUDA.cc", 
-            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.cu", 
-            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.h", 
-            "RecoLocalTracker/SiPixelClusterizer/plugins/gpuClusterChargeCut.h", 
-            "RecoLocalTracker/SiPixelClusterizer/test/gpuClustering_t.h"
-        ], 
-        "created_at": 1616596860, 
-        "number": 33259, 
-        "state": "open", 
-        "updated_at": 1617688722
-    }, 
     "33266": {
         "base_branch": "master", 
         "changed_files_names": [
