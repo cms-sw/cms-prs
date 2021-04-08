@@ -5887,5 +5887,19 @@
         "number": 33374, 
         "state": "open", 
         "updated_at": 1617872324
+    }, 
+    "33375": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.cc", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.cu", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.h", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernelsImpl.h", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorOnGPU.cc"
+        ], 
+        "created_at": 1617878367, 
+        "number": 33375, 
+        "state": "open", 
+        "updated_at": 1617878413
     }
 }
