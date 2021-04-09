@@ -5725,12 +5725,19 @@
             "SimFastTiming/FastTimingCommon/src/BTLElectronicsSim.cc", 
             "SimFastTiming/FastTimingCommon/src/ETLDeviceSim.cc", 
             "SimFastTiming/FastTimingCommon/src/ETLElectronicsSim.cc", 
-            "SimFastTiming/FastTimingCommon/test/MTDDigiDump.cc"
+            "SimFastTiming/FastTimingCommon/test/MTDDigiDump.cc", 
+            "Validation/MtdValidation/plugins/BtlDigiHitsValidation.cc", 
+            "Validation/MtdValidation/plugins/BtlLocalRecoValidation.cc", 
+            "Validation/MtdValidation/plugins/BtlSimHitsValidation.cc", 
+            "Validation/MtdValidation/plugins/EtlDigiHitsValidation.cc", 
+            "Validation/MtdValidation/plugins/EtlLocalRecoValidation.cc", 
+            "Validation/MtdValidation/plugins/EtlSimHitsValidation.cc", 
+            "Validation/MtdValidation/plugins/MtdTracksValidation.cc"
         ], 
         "created_at": 1617872280, 
         "number": 33374, 
         "state": "open", 
-        "updated_at": 1617964391
+        "updated_at": 1617964886
     }, 
     "33375": {
         "base_branch": "master", 
