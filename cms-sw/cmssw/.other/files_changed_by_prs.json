@@ -5712,12 +5712,25 @@
             "RecoMTD/Navigation/test/BuildFile.xml", 
             "RecoMTD/Navigation/test/MTDNavigationTest.cc", 
             "RecoMTD/TrackExtender/plugins/TrackExtenderWithMTD.cc", 
+            "SimFastTiming/FastTimingCommon/interface/BTLDeviceSim.h", 
+            "SimFastTiming/FastTimingCommon/interface/BTLElectronicsSim.h", 
+            "SimFastTiming/FastTimingCommon/interface/ETLDeviceSim.h", 
+            "SimFastTiming/FastTimingCommon/interface/ETLElectronicsSim.h", 
+            "SimFastTiming/FastTimingCommon/interface/MTDDigitizer.h", 
+            "SimFastTiming/FastTimingCommon/interface/MTDDigitizerBase.h", 
+            "SimFastTiming/FastTimingCommon/plugins/MTDDigiProducer.cc", 
+            "SimFastTiming/FastTimingCommon/plugins/MTDDigiProducer.h", 
+            "SimFastTiming/FastTimingCommon/plugins/PreMixingMTDWorker.cc", 
+            "SimFastTiming/FastTimingCommon/src/BTLDeviceSim.cc", 
+            "SimFastTiming/FastTimingCommon/src/BTLElectronicsSim.cc", 
+            "SimFastTiming/FastTimingCommon/src/ETLDeviceSim.cc", 
+            "SimFastTiming/FastTimingCommon/src/ETLElectronicsSim.cc", 
             "SimFastTiming/FastTimingCommon/test/MTDDigiDump.cc"
         ], 
         "created_at": 1617872280, 
         "number": 33374, 
         "state": "open", 
-        "updated_at": 1617872324
+        "updated_at": 1617964391
     }, 
     "33375": {
         "base_branch": "master", 
