@@ -5243,6 +5243,7 @@
         "changed_files_names": [
             "DataFormats/HGCalReco/interface/Trackster.h", 
             "RecoHGCal/Configuration/python/RecoHGCal_EventContent_cff.py", 
+            "RecoHGCal/TICL/plugins/BuildFile.xml", 
             "RecoHGCal/TICL/plugins/TrackstersFromSimClustersProducer.cc", 
             "RecoHGCal/TICL/python/SimTracksters_cff.py", 
             "RecoHGCal/TICL/python/iterativeTICL_cff.py", 
@@ -5256,7 +5257,7 @@
         "created_at": 1617200303, 
         "number": 33318, 
         "state": "open", 
-        "updated_at": 1617621203
+        "updated_at": 1617968055
     }, 
     "33324": {
         "base_branch": "master", 
