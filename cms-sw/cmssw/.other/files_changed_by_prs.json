@@ -5659,9 +5659,12 @@
             "Geometry/MTDCommonData/test/testMTDinDDD.py", 
             "Geometry/MTDGeometryBuilder/test/MTDDigiGeometryAnalyzer.cc", 
             "Geometry/MTDNumberingBuilder/src/CmsMTDStringToEnum.cc", 
+            "Geometry/MTDNumberingBuilder/test/BuildFile.xml", 
             "Geometry/MTDNumberingBuilder/test/DD4hep_MTDTopologyAnalyzer.cc", 
             "Geometry/MTDNumberingBuilder/test/GeometricTimingDetAnalyzer.cc", 
             "Geometry/MTDNumberingBuilder/test/MTDTopologyAnalyzer.cc", 
+            "Geometry/MTDNumberingBuilder/test/dd4hep_mtd_cfg.py", 
+            "Geometry/MTDNumberingBuilder/test/mtd_cfg.py", 
             "RecoLocalFastTime/FTLClusterizer/plugins/MTDClusterProducer.cc", 
             "RecoLocalFastTime/FTLCommonAlgos/interface/RecHitTools.h", 
             "RecoLocalFastTime/FTLCommonAlgos/plugins/MTDRecHitAlgo.cc", 
@@ -5714,7 +5717,7 @@
         "created_at": 1617872280, 
         "number": 33374, 
         "state": "open", 
-        "updated_at": 1617969876
+        "updated_at": 1617972458
     }, 
     "33375": {
         "base_branch": "master", 
