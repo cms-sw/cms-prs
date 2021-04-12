@@ -5182,37 +5182,6 @@
         "state": "open", 
         "updated_at": 1617627006
     }, 
-    "33272": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoMTD/DetLayers/BuildFile.xml", 
-            "RecoMTD/DetLayers/interface/BTLDetLayerGeometryBuilder.h", 
-            "RecoMTD/DetLayers/interface/ETLDetLayerGeometryBuilder.h", 
-            "RecoMTD/DetLayers/interface/MTDDetLayerGeometry.h", 
-            "RecoMTD/DetLayers/plugins/MTDDetLayerGeometryESProducer.cc", 
-            "RecoMTD/DetLayers/src/BTLDetLayerGeometryBuilder.cc", 
-            "RecoMTD/DetLayers/src/ETLDetLayerGeometryBuilder.cc", 
-            "RecoMTD/DetLayers/src/MTDDetLayerGeometry.cc", 
-            "RecoTracker/GeometryESProducer/plugins/TrackerMTDRecoGeometryESProducer.cc", 
-            "RecoTracker/GeometryESProducer/python/TrackerMTDRecoGeometryESProducer_cfi.py", 
-            "RecoTracker/MkFit/plugins/MkFitOutputConverter.cc", 
-            "RecoTracker/Record/interface/TrackerRecoGeometryRecord.h", 
-            "RecoTracker/TkDetLayers/BuildFile.xml", 
-            "RecoTracker/TkDetLayers/interface/GeometricSearchTracker.h", 
-            "RecoTracker/TkDetLayers/interface/GeometricSearchTrackerBuilder.h", 
-            "RecoTracker/TkDetLayers/src/GeometricSearchTracker.cc", 
-            "RecoTracker/TkDetLayers/src/GeometricSearchTrackerBuilder.cc", 
-            "RecoTracker/TkNavigation/plugins/SimpleBarrelNavigableLayer.cc", 
-            "RecoTracker/TkNavigation/plugins/SimpleNavigationSchool.cc", 
-            "RecoTracker/TkNavigation/test/NavigationSchoolAnalyzer.cc", 
-            "RecoTracker/TkNavigation/test/NavigationSchoolAnalyzer_cfg.py", 
-            "TrackingTools/RecoGeometry/src/GlobalDetLayerGeometry.cc"
-        ], 
-        "created_at": 1616685399, 
-        "number": 33272, 
-        "state": "open", 
-        "updated_at": 1617633990
-    }, 
     "33300": {
         "base_branch": "master", 
         "changed_files_names": [
