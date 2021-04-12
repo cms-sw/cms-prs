@@ -5660,8 +5660,10 @@
         "base_branch": "master", 
         "changed_files_names": [
             "Alignment/LaserAlignmentSimulation/plugins/LaserOpticalPhysics.cc", 
+            "SimG4Core/Application/interface/LowEnergyFastSimModel.h", 
             "SimG4Core/Application/interface/RunManagerMT.h", 
             "SimG4Core/Application/python/g4SimHits_cfi.py", 
+            "SimG4Core/Application/src/LowEnergyFastSimModel.cc", 
             "SimG4Core/Application/src/ParametrisedEMPhysics.cc", 
             "SimG4Core/Application/src/RunManagerMT.cc", 
             "SimG4Core/PhysicsLists/interface/CMSEmStandardPhysics.h", 
@@ -5687,7 +5689,7 @@
         "created_at": 1618154189, 
         "number": 33400, 
         "state": "open", 
-        "updated_at": 1618164006
+        "updated_at": 1618243110
     }, 
     "33401": {
         "base_branch": "master", 
