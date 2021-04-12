@@ -5851,12 +5851,14 @@
             "SimCalorimetry/EcalEBTrigPrimAlgos/src/EcalEBFenixPeakFinder.cc", 
             "SimCalorimetry/EcalEBTrigPrimAlgos/src/EcalEBFenixStripFormatEB.cc", 
             "SimCalorimetry/EcalEBTrigPrimAlgos/src/EcalEBFenixTcpFormat.cc", 
-            "SimCalorimetry/EcalEBTrigPrimAlgos/src/EcalEBTrigPrimTestAlgo.cc"
+            "SimCalorimetry/EcalEBTrigPrimAlgos/src/EcalEBTrigPrimTestAlgo.cc", 
+            "SimCalorimetry/EcalEBTrigPrimProducers/plugins/EcalEBTrigPrimProducer.cc", 
+            "SimCalorimetry/EcalEBTrigPrimProducers/plugins/EcalEBTrigPrimProducer.h"
         ], 
         "created_at": 1618174601, 
         "number": 33403, 
         "state": "open", 
-        "updated_at": 1618174625
+        "updated_at": 1618226001
     }, 
     "33404": {
         "base_branch": "master", 
