@@ -5133,31 +5133,6 @@
         "state": "open", 
         "updated_at": 1617292724
     }, 
-    "33250": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/Eras/python/Era_Run2_2016_cff.py", 
-            "Configuration/Eras/python/Era_Run2_2017_cff.py", 
-            "Configuration/Eras/python/Modifier_ctpps_cff.py", 
-            "Configuration/EventContent/python/EventContent_cff.py", 
-            "Configuration/StandardSequences/python/Eras.py", 
-            "Configuration/StandardSequences/python/RawToDigi_cff.py", 
-            "Configuration/StandardSequences/python/Reconstruction_cff.py", 
-            "DQM/CTPPS/python/ctppsDQM_cff.py", 
-            "DQM/CTPPS/test/all_ctpps_dqm_test_from_aod_cfg.py", 
-            "DQM/CTPPS/test/all_ctpps_dqm_test_from_dat_cfg.py", 
-            "DQM/CTPPS/test/all_ctpps_dqm_test_from_raw_cfg.py", 
-            "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py", 
-            "RecoPPS/Configuration/test/raw_data_test.py", 
-            "RecoPPS/Local/plugins/CTPPSLocalTrackLiteProducer.cc", 
-            "RecoPPS/Local/python/ctppsLocalTrackLiteProducer_cff.py", 
-            "RecoPPS/ProtonReconstruction/python/ctppsProtons_cff.py"
-        ], 
-        "created_at": 1616483581, 
-        "number": 33250, 
-        "state": "open", 
-        "updated_at": 1617138833
-    }, 
     "33266": {
         "base_branch": "master", 
         "changed_files_names": [
