@@ -5235,32 +5235,6 @@
         "state": "open", 
         "updated_at": 1617706844
     }, 
-    "33340": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/ForwardDetId/interface/ETLDetId.h", 
-            "Geometry/MTDCommonData/data/mtdParameters/v2/mtdParameters.xml", 
-            "Geometry/MTDGeometryBuilder/interface/MTDTopologyBuilder.h", 
-            "Geometry/MTDGeometryBuilder/interface/RectangularMTDTopology.h", 
-            "Geometry/MTDGeometryBuilder/src/MTDGeomBuilderFromGeometricTimingDet.cc", 
-            "Geometry/MTDGeometryBuilder/src/MTDTopologyBuilder.cc", 
-            "Geometry/MTDGeometryBuilder/src/RectangularMTDTopology.cc", 
-            "Geometry/MTDGeometryBuilder/test/MTDDigiGeometryAnalyzer.cc", 
-            "Geometry/MTDNumberingBuilder/interface/MTDTopology.h", 
-            "Geometry/MTDNumberingBuilder/plugins/MTDTopologyEP.cc", 
-            "Geometry/MTDNumberingBuilder/src/MTDTopology.cc", 
-            "Geometry/MTDNumberingBuilder/test/BuildFile.xml", 
-            "Geometry/MTDNumberingBuilder/test/DD4hep_MTDTopologyAnalyzer.cc", 
-            "Geometry/MTDNumberingBuilder/test/MTDTopologyAnalyzer.cc", 
-            "Geometry/MTDNumberingBuilder/test/dd4hep_mtd_cfg.py", 
-            "Geometry/MTDNumberingBuilder/test/mtd_cfg.py", 
-            "SimFastTiming/FastTimingCommon/src/ETLDeviceSim.cc"
-        ], 
-        "created_at": 1617710497, 
-        "number": 33340, 
-        "state": "open", 
-        "updated_at": 1617710545
-    }, 
     "33347": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
