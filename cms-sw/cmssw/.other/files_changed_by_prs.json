@@ -5505,6 +5505,7 @@
             "Calibration/TkAlCaRecoProducers/plugins/BuildFile.xml", 
             "Calibration/TkAlCaRecoProducers/plugins/NearbyPixelClustersAnalyzer.cc", 
             "Calibration/TkAlCaRecoProducers/plugins/NearbyPixelClustersProducer.cc", 
+            "Calibration/TkAlCaRecoProducers/plugins/TrackDistanceValueMapProducer.cc", 
             "Calibration/TkAlCaRecoProducers/python/ALCARECOSiPixelCalSingleMuonLoose_Output_cff.py", 
             "Calibration/TkAlCaRecoProducers/python/ALCARECOSiPixelCalSingleMuonLoose_cff.py", 
             "Calibration/TkAlCaRecoProducers/python/ALCARECOSiPixelCalSingleMuonTight_Output_cff.py", 
@@ -5512,6 +5513,7 @@
             "Calibration/TkAlCaRecoProducers/python/ALCARECOSiPixelCalSingleMuon_Output_cff.py", 
             "Calibration/TkAlCaRecoProducers/python/ALCARECOSiPixelCalSingleMuon_cff.py", 
             "Calibration/TkAlCaRecoProducers/python/NearbyPixelClustersProducer_cfi.py", 
+            "Calibration/TkAlCaRecoProducers/python/TrackDistanceValueMapProducer_cfi.py", 
             "Calibration/TkAlCaRecoProducers/test/inspectNearByPixelClusters_cfg.py", 
             "Configuration/AlCa/python/autoAlca.py", 
             "Configuration/EventContent/python/AlCaRecoOutput_RelVal_cff.py", 
@@ -5523,7 +5525,7 @@
         "created_at": 1618152493, 
         "number": 33399, 
         "state": "open", 
-        "updated_at": 1618152537
+        "updated_at": 1618327320
     }, 
     "33404": {
         "base_branch": "master", 
