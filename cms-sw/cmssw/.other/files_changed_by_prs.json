@@ -5358,14 +5358,13 @@
             "DataFormats/ParticleFlowReco/interface/HGCalMultiCluster.h", 
             "SimCalorimetry/HGCalAssociatorProducers/interface/AssociatorTools.h", 
             "SimCalorimetry/HGCalAssociatorProducers/plugins/LayerClusterAssociatorByEnergyScoreImpl.cc", 
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/MCToCPAssociatorEDProducer.cc", 
             "SimCalorimetry/HGCalAssociatorProducers/plugins/MultiClusterAssociatorByEnergyScoreImpl.cc", 
             "SimCalorimetry/HGCalAssociatorProducers/plugins/MultiClusterAssociatorByEnergyScoreImpl.h", 
             "SimCalorimetry/HGCalAssociatorProducers/plugins/MultiClusterAssociatorByEnergyScoreProducer.cc", 
             "SimCalorimetry/HGCalAssociatorProducers/python/MCToCPAssociation_cfi.py", 
             "SimDataFormats/Associations/interface/MultiClusterToCaloParticleAssociator.h", 
             "SimDataFormats/Associations/interface/MultiClusterToCaloParticleAssociatorBaseImpl.h", 
-            "SimDataFormats/Associations/plugins/BuildFile.xml", 
-            "SimDataFormats/Associations/plugins/MCToCPAssociatorEDProducer.cc", 
             "SimDataFormats/Associations/src/MultiClusterToCaloParticleAssociator.cc", 
             "SimDataFormats/Associations/src/MultiClusterToCaloParticleAssociatorBaseImpl.cc", 
             "SimDataFormats/Associations/src/classes.h", 
@@ -5374,7 +5373,7 @@
         "created_at": 1617961619, 
         "number": 33384, 
         "state": "open", 
-        "updated_at": 1618312441
+        "updated_at": 1618428637
     }, 
     "33386": {
         "base_branch": "master", 
