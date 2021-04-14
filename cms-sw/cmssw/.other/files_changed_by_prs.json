@@ -5778,5 +5778,17 @@
         "number": 33431, 
         "state": "open", 
         "updated_at": 1618405615
+    }, 
+    "33432": {
+        "base_branch": "CMSSW_10_2_X", 
+        "changed_files_names": [
+            "GeneratorInterface/GenFilters/interface/PythiaFilterMotherSister.h", 
+            "GeneratorInterface/GenFilters/src/PythiaFilterMotherSister.cc", 
+            "GeneratorInterface/GenFilters/src/SealModule.cc"
+        ], 
+        "created_at": 1618405781, 
+        "number": 33432, 
+        "state": "open", 
+        "updated_at": 1618405814
     }
 }
