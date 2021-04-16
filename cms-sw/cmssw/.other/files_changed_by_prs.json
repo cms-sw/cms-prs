@@ -5800,12 +5800,13 @@
             "EventFilter/CSCRawToDigi/python/cscUnpacker_cfi.py", 
             "EventFilter/CSCRawToDigi/src/CSCDigiToRaw.cc", 
             "EventFilter/CSCRawToDigi/src/CSCEventData.cc", 
-            "EventFilter/CSCRawToDigi/src/CSCTMBHeader.cc"
+            "EventFilter/CSCRawToDigi/src/CSCTMBHeader.cc", 
+            "L1Trigger/CSCTriggerPrimitives/python/cscTriggerPrimitiveDigis_cfi.py"
         ], 
         "created_at": 1618501614, 
         "number": 33444, 
         "state": "open", 
-        "updated_at": 1618550849
+        "updated_at": 1618575130
     }, 
     "33445": {
         "base_branch": "master", 
