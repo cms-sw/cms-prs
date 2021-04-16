@@ -5663,12 +5663,14 @@
             "DQM/TrackingMonitor/src/TrackBuildingAnalyzer.cc", 
             "DQM/TrackingMonitor/src/TrackEfficiencyClient.cc", 
             "DQM/TrackingMonitor/src/TrackFoldedOccupancyClient.cc", 
-            "DQM/TrackingMonitorClient/python/TrackingClientConfig_Tier0_cff.py"
+            "DQM/TrackingMonitorClient/python/TrackingClientConfig_Tier0_Cosmic_cff.py", 
+            "DQM/TrackingMonitorClient/python/TrackingClientConfig_Tier0_cff.py", 
+            "DQM/TrackingMonitorClient/python/TrackingDQMClientHeavyIons_cfi.py"
         ], 
         "created_at": 1618397802, 
         "number": 33430, 
         "state": "open", 
-        "updated_at": 1618491220
+        "updated_at": 1618577171
     }, 
     "33431": {
         "base_branch": "master", 
