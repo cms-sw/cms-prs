@@ -5546,6 +5546,8 @@
             "Configuration/StandardSequences/python/RawToDigi_Repacked_cff.py", 
             "Configuration/StandardSequences/python/RawToDigi_cff.py", 
             "Configuration/StandardSequences/python/SimL1EmulatorRepack_GCTGT_cff.py", 
+            "EventFilter/EcalRawToDigi/plugins/EcalCPUDigisProducer.cc", 
+            "EventFilter/EcalRawToDigi/plugins/EcalRawToDigi.cc", 
             "EventFilter/EcalRawToDigi/python/ecalDigis_cff.py", 
             "RecoLocalCalo/Configuration/python/ecalLocalRecoSequence_cff.py", 
             "RecoLocalCalo/EcalRecProducers/python/ecalMultiFitUncalibRecHit_cff.py", 
@@ -5560,7 +5562,7 @@
         "created_at": 1618344161, 
         "number": 33428, 
         "state": "open", 
-        "updated_at": 1618557053
+        "updated_at": 1618583203
     }, 
     "33429": {
         "base_branch": "master", 
