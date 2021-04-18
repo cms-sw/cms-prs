@@ -5851,6 +5851,7 @@
             "CommonTools/ParticleFlow/src/PFClusterWidthAlgo.cc", 
             "RecoEcal/EgammaClusterAlgos/BuildFile.xml", 
             "RecoEcal/EgammaClusterAlgos/src/PFECALSuperClusterAlgo.cc", 
+            "RecoEcal/EgammaClusterProducers/src/SCEnergyCorrectorProducer.cc", 
             "RecoEgamma/EgammaElectronProducers/plugins/BuildFile.xml", 
             "RecoEgamma/EgammaElectronProducers/plugins/LowPtGsfElectronSCProducer.cc", 
             "RecoEgamma/EgammaTools/interface/HGCalShowerShapeHelper.h", 
@@ -5864,6 +5865,6 @@
         "created_at": 1618731096, 
         "number": 33458, 
         "state": "open", 
-        "updated_at": 1618731118
+        "updated_at": 1618755295
     }
 }
