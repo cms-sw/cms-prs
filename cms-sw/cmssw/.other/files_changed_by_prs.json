@@ -5505,6 +5505,8 @@
             "L1Trigger/CSCTriggerPrimitives/src/CSCMuonPortCard.cc", 
             "L1Trigger/CSCTriggerPrimitives/src/CSCUpgradeAnodeLCTProcessor.cc", 
             "L1Trigger/CSCTriggerPrimitives/src/CSCUpgradeCathodeLCTProcessor.cc", 
+            "L1Trigger/CSCTriggerPrimitives/src/CSCUpgradeMotherboardLUT.cc", 
+            "L1Trigger/CSCTriggerPrimitives/src/LCTQualityControl.cc", 
             "L1Trigger/L1TMuon/src/GeometryTranslator.cc", 
             "L1Trigger/L1TMuonEndCap/test/tools/MakeAngleLUT.cc", 
             "L1Trigger/L1TMuonEndCap/test/tools/MakeCoordLUT.cc", 
@@ -5515,7 +5517,7 @@
         "created_at": 1618366168, 
         "number": 33429, 
         "state": "open", 
-        "updated_at": 1618841656
+        "updated_at": 1618847865
     }, 
     "33432": {
         "base_branch": "CMSSW_10_2_X", 
