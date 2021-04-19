@@ -5601,28 +5601,6 @@
         "state": "open", 
         "updated_at": 1618809393
     }, 
-    "33430": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/TrackingMonitor/interface/TrackAnalyzer.h", 
-            "DQM/TrackingMonitor/interface/TrackEfficiencyClient.h", 
-            "DQM/TrackingMonitor/interface/TrackFoldedOccupancyClient.h", 
-            "DQM/TrackingMonitor/interface/TrackingMonitor.h", 
-            "DQM/TrackingMonitor/python/TrackFoldedOccupancyClient_cfi.py", 
-            "DQM/TrackingMonitor/src/GetLumi.cc", 
-            "DQM/TrackingMonitor/src/TrackAnalyzer.cc", 
-            "DQM/TrackingMonitor/src/TrackBuildingAnalyzer.cc", 
-            "DQM/TrackingMonitor/src/TrackEfficiencyClient.cc", 
-            "DQM/TrackingMonitor/src/TrackFoldedOccupancyClient.cc", 
-            "DQM/TrackingMonitorClient/python/TrackingClientConfig_Tier0_Cosmic_cff.py", 
-            "DQM/TrackingMonitorClient/python/TrackingClientConfig_Tier0_cff.py", 
-            "DQM/TrackingMonitorClient/python/TrackingDQMClientHeavyIons_cfi.py"
-        ], 
-        "created_at": 1618397802, 
-        "number": 33430, 
-        "state": "open", 
-        "updated_at": 1618763101
-    }, 
     "33432": {
         "base_branch": "CMSSW_10_2_X", 
         "changed_files_names": [
