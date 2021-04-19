@@ -5667,27 +5667,6 @@
         "state": "open", 
         "updated_at": 1618588336
     }, 
-    "33447": {
-        "base_branch": "CMSSW_11_3_X", 
-        "changed_files_names": [
-            "DataFormats/HGCalReco/interface/Trackster.h", 
-            "RecoHGCal/Configuration/python/RecoHGCal_EventContent_cff.py", 
-            "RecoHGCal/TICL/plugins/BuildFile.xml", 
-            "RecoHGCal/TICL/plugins/TrackstersFromSimClustersProducer.cc", 
-            "RecoHGCal/TICL/python/SimTracksters_cff.py", 
-            "RecoHGCal/TICL/python/iterativeTICL_cff.py", 
-            "SimDataFormats/Associations/interface/LayerClusterToSimClusterAssociator.h", 
-            "Validation/Configuration/python/globalValidation_cff.py", 
-            "Validation/Configuration/python/hgcalSimValid_cff.py", 
-            "Validation/HGCalValidation/python/HGCalValidator_cfi.py", 
-            "Validation/HGCalValidation/python/PostProcessorHGCAL_cfi.py", 
-            "Validation/HGCalValidation/scripts/makeHGCalValidationPlots.py"
-        ], 
-        "created_at": 1618550384, 
-        "number": 33447, 
-        "state": "open", 
-        "updated_at": 1618595148
-    }, 
     "33451": {
         "base_branch": "master", 
         "changed_files_names": [
