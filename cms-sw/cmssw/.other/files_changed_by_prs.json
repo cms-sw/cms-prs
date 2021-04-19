@@ -5108,31 +5108,6 @@
         "state": "open", 
         "updated_at": 1618591953
     }, 
-    "33215": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibPPS/TimingCalibration/interface/TimingCalibrationStruct.h", 
-            "CalibPPS/TimingCalibration/plugins/BuildFile.xml", 
-            "CalibPPS/TimingCalibration/plugins/PPSTimingCalibrationPCLHarvester.cc", 
-            "CalibPPS/TimingCalibration/plugins/PPSTimingCalibrationPCLWorker.cc", 
-            "CalibPPS/TimingCalibration/python/ALCARECOPPSCalTrackBasedSel_Output_cff.py", 
-            "CalibPPS/TimingCalibration/python/ALCARECOPPSCalTrackBasedSel_cff.py", 
-            "CalibPPS/TimingCalibration/python/ALCARECOPPSTimingCalib_Output_cff.py", 
-            "CalibPPS/TimingCalibration/python/ALCARECOPPSTimingCalib_cff.py", 
-            "CalibPPS/TimingCalibration/python/PPSTimingCalibrationHarvester_cff.py", 
-            "Configuration/AlCa/python/autoPCL.py", 
-            "Configuration/EventContent/python/AlCaRecoOutput_cff.py", 
-            "Configuration/PyReleaseValidation/python/relval_production.py", 
-            "Configuration/PyReleaseValidation/python/relval_steps.py", 
-            "Configuration/StandardSequences/python/AlCaHarvesting_cff.py", 
-            "Configuration/StandardSequences/python/AlCaRecoStreams_cff.py", 
-            "HLTrigger/special/plugins/HLTPPSPerPotTrackFilter.cc"
-        ], 
-        "created_at": 1616087861, 
-        "number": 33215, 
-        "state": "open", 
-        "updated_at": 1618565769
-    }, 
     "33300": {
         "base_branch": "master", 
         "changed_files_names": [
