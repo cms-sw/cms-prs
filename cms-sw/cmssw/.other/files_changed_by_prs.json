@@ -5710,5 +5710,20 @@
         "number": 33476, 
         "state": "open", 
         "updated_at": 1618883976
+    }, 
+    "33477": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Validation/HcalHits/plugins/BuildFile.xml", 
+            "Validation/HcalHits/plugins/HcalGeomCheck.cc", 
+            "Validation/HcalHits/plugins/HcalHitValidation.cc", 
+            "Validation/HcalHits/plugins/HcalSimHitCheck.cc", 
+            "Validation/HcalHits/test/HcalHitValidation.h", 
+            "Validation/HcalHits/test/run_SimHitCheck_cfg.py"
+        ], 
+        "created_at": 1618915940, 
+        "number": 33477, 
+        "state": "open", 
+        "updated_at": 1618915983
     }
 }
