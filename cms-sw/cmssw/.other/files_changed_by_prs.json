@@ -3884,10 +3884,6 @@
     "32903": {
         "base_branch": "CMSSW_11_1_X", 
         "changed_files_names": [
-            "HLTrigger/JetMET/plugins/BuildFile.xml", 
-            "HLTrigger/JetMET/plugins/MultiplicityValueProducer.h", 
-            "HLTrigger/JetMET/plugins/MultiplicityValueProducerFromNestedCollection.cc", 
-            "HLTrigger/JetMET/plugins/MultiplicityValueProducerFromNestedCollection.h", 
             "HLTrigger/Phase2/python/HLT_75e33.py", 
             "HLTrigger/Phase2/python/HLT_75e33/eventsetup/AnalyticalPropagatorParabolicMF_cfi.py", 
             "HLTrigger/Phase2/python/HLT_75e33/eventsetup/AnalyticalPropagator_cfi.py", 
@@ -5024,7 +5020,7 @@
         "created_at": 1613165892, 
         "number": 32903, 
         "state": "open", 
-        "updated_at": 1616402076
+        "updated_at": 1618904192
     }, 
     "32930": {
         "base_branch": "CMSSW_10_6_X", 
