@@ -5709,6 +5709,7 @@
     "33488": {
         "base_branch": "master", 
         "changed_files_names": [
+            "RecoHGCal/Configuration/python/RecoHGCal_EventContent_cff.py", 
             "RecoHGCal/TICL/python/EMStep_cff.py", 
             "RecoHGCal/TICL/python/HADStep_cff.py", 
             "RecoHGCal/TICL/python/MIPStep_cff.py", 
@@ -5732,7 +5733,7 @@
         "created_at": 1618986047, 
         "number": 33488, 
         "state": "open", 
-        "updated_at": 1618986099
+        "updated_at": 1618995642
     }, 
     "33489": {
         "base_branch": "master", 
