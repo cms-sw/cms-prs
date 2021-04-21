@@ -5604,12 +5604,13 @@
             "Validation/SiTrackerPhase2V/plugins/Phase2ITValidateRecHit.cc", 
             "Validation/SiTrackerPhase2V/plugins/Phase2OTValidateCluster.cc", 
             "Validation/SiTrackerPhase2V/plugins/Phase2OTValidateRecHit.cc", 
-            "Validation/SiTrackerPhase2V/plugins/Phase2TrackerValidateDigi.cc"
+            "Validation/SiTrackerPhase2V/plugins/Phase2TrackerValidateDigi.cc", 
+            "Validation/SiTrackerPhase2V/plugins/Phase2TrackerValidateDigi.h"
         ], 
         "created_at": 1618954503, 
         "number": 33482, 
         "state": "open", 
-        "updated_at": 1618996488
+        "updated_at": 1619003784
     }, 
     "33483": {
         "base_branch": "master", 
