@@ -5603,39 +5603,6 @@
         "state": "open", 
         "updated_at": 1618864039
     }, 
-    "33476": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCAnodeLCTProcessor.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCCathodeLCTProcessor.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCGEMMotherboard.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCGEMMotherboardME11.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCGEMMotherboardME21.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCMotherboard.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCMotherboardME11.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCUpgradeMotherboard.h", 
-            "L1Trigger/CSCTriggerPrimitives/python/CSCTriggerPrimitivesReader_cfi.py", 
-            "L1Trigger/CSCTriggerPrimitives/python/params/tmbParams.py", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCAnodeLCTProcessor.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCCathodeLCTProcessor.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCGEMMotherboard.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCGEMMotherboardME11.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCGEMMotherboardME21.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCMotherboard.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCMotherboardME11.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCUpgradeAnodeLCTProcessor.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCUpgradeCathodeLCTProcessor.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCUpgradeMotherboard.cc", 
-            "L1Trigger/CSCTriggerPrimitives/test/CSCTPEmulator_cfg.py", 
-            "L1Trigger/CSCTriggerPrimitives/test/CSCTriggerPrimitivesProducerTest_cfg.py", 
-            "L1Trigger/CSCTriggerPrimitives/test/CSCTriggerPrimitivesReader_cfg.py", 
-            "L1Trigger/CSCTriggerPrimitives/test/runCSCTriggerPrimitiveProducer_cfg.py"
-        ], 
-        "created_at": 1618883950, 
-        "number": 33476, 
-        "state": "open", 
-        "updated_at": 1618883976
-    }, 
     "33477": {
         "base_branch": "master", 
         "changed_files_names": [
