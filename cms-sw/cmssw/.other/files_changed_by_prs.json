@@ -5477,29 +5477,6 @@
         "state": "open", 
         "updated_at": 1618932351
     }, 
-    "33458": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CommonTools/ParticleFlow/interface/PFClusterWidthAlgo.h", 
-            "CommonTools/ParticleFlow/src/PFClusterWidthAlgo.cc", 
-            "RecoEcal/EgammaClusterAlgos/BuildFile.xml", 
-            "RecoEcal/EgammaClusterAlgos/src/PFECALSuperClusterAlgo.cc", 
-            "RecoEcal/EgammaClusterProducers/src/SCEnergyCorrectorProducer.cc", 
-            "RecoEgamma/EgammaElectronProducers/plugins/BuildFile.xml", 
-            "RecoEgamma/EgammaElectronProducers/plugins/LowPtGsfElectronSCProducer.cc", 
-            "RecoEgamma/EgammaTools/interface/HGCalShowerShapeHelper.h", 
-            "RecoEgamma/EgammaTools/src/HGCalShowerShapeHelper.cc", 
-            "RecoParticleFlow/PFProducer/BuildFile.xml", 
-            "RecoParticleFlow/PFProducer/plugins/BuildFile.xml", 
-            "RecoParticleFlow/PFProducer/plugins/PFElectronTranslator.cc", 
-            "RecoParticleFlow/PFProducer/plugins/PFPhotonTranslator.cc", 
-            "RecoParticleFlow/PFProducer/src/PFEGammaAlgo.cc"
-        ], 
-        "created_at": 1618731096, 
-        "number": 33458, 
-        "state": "open", 
-        "updated_at": 1618771431
-    }, 
     "33461": {
         "base_branch": "master", 
         "changed_files_names": [
