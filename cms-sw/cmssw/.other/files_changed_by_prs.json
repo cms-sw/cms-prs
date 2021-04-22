@@ -5614,8 +5614,10 @@
             "Validation/HGCalValidation/interface/HGCalValidator.h", 
             "Validation/HGCalValidation/interface/HGVHistoProducerAlgo.h", 
             "Validation/HGCalValidation/plugins/HGCalValidator.cc", 
+            "Validation/HGCalValidation/python/HGCalPostProcessor_cff.py", 
             "Validation/HGCalValidation/python/HGCalValidator_cfi.py", 
             "Validation/HGCalValidation/python/HGVHistoProducerAlgoBlock_cfi.py", 
+            "Validation/HGCalValidation/python/PostProcessorHGCAL_cfi.py", 
             "Validation/HGCalValidation/python/hgcalPlots.py", 
             "Validation/HGCalValidation/scripts/makeHGCalValidationPlots.py", 
             "Validation/HGCalValidation/src/HGVHistoProducerAlgo.cc"
@@ -5623,7 +5625,7 @@
         "created_at": 1618986047, 
         "number": 33488, 
         "state": "open", 
-        "updated_at": 1618995887
+        "updated_at": 1619103090
     }, 
     "33490": {
         "base_branch": "master", 
