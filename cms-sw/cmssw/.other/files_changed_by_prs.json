@@ -5856,11 +5856,14 @@
             "EventFilter/SiPixelRawToDigi/python/SiPixelRawToDigi_cfi.py", 
             "EventFilter/SiPixelRawToDigi/python/siPixelDigis_cff.py", 
             "RecoLocalCalo/Configuration/python/RecoLocalCalo_Cosmics_cff.py", 
+            "RecoLocalCalo/Configuration/python/ecalLocalRecoSequenceCosmics_cff.py", 
             "RecoLocalCalo/Configuration/python/ecalLocalRecoSequence_cff.py", 
             "RecoLocalCalo/Configuration/python/hcalGlobalReco_cff.py", 
             "RecoLocalCalo/Configuration/python/hcalLocalReco_cff.py", 
+            "RecoLocalCalo/EcalRecProducers/python/ecalLocalCustom.py", 
             "RecoLocalCalo/EcalRecProducers/python/ecalMultiFitUncalibRecHit_cff.py", 
             "RecoLocalCalo/EcalRecProducers/python/ecalMultiFitUncalibRecHit_gpu_new_cfi.py", 
+            "RecoLocalCalo/EcalRecProducers/python/ecalRecHit_cff.py", 
             "RecoLocalCalo/EcalRecProducers/test/testEcalRechitProducer_cfg.py", 
             "RecoLocalCalo/EcalRecProducers/test/testEcalUncalibRechitProducer_cfg.py", 
             "RecoLocalCalo/HcalRecProducers/python/HBHE_custom_25nsMethod.py", 
@@ -5881,12 +5884,13 @@
             "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletCUDA.cc", 
             "RecoPixelVertexing/PixelVertexFinding/plugins/PixelVertexProducerCUDA.cc", 
             "RecoPixelVertexing/PixelVertexFinding/python/PixelVertexes_cff.py", 
-            "RecoTracker/Configuration/python/customizePixelOnlyForProfiling.py"
+            "RecoTracker/Configuration/python/customizePixelOnlyForProfiling.py", 
+            "Validation/Configuration/python/ECALHCAL.py"
         ], 
         "created_at": 1619240628, 
         "number": 33519, 
         "state": "open", 
-        "updated_at": 1619240653
+        "updated_at": 1619324436
     }, 
     "33520": {
         "base_branch": "master", 
