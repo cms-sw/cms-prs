@@ -5873,5 +5873,19 @@
         "number": 33522, 
         "state": "open", 
         "updated_at": 1619417081
+    }, 
+    "33523": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibTracker/SiStripChannelGain/interface/SiStripGainsPCLWorker.h", 
+            "CalibTracker/SiStripChannelGain/python/SiStripGainsPCLWorker_cfi.py", 
+            "CalibTracker/SiStripChannelGain/src/SiStripGainsPCLWorker.cc", 
+            "Calibration/TkAlCaRecoProducers/python/ALCARECOPromptCalibProdSiStripGainsAAG_cff.py", 
+            "Calibration/TkAlCaRecoProducers/python/ALCARECOPromptCalibProdSiStripGains_cff.py"
+        ], 
+        "created_at": 1619422433, 
+        "number": 33523, 
+        "state": "open", 
+        "updated_at": 1619422471
     }
 }
