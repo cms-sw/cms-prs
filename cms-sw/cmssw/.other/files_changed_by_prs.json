@@ -5847,5 +5847,21 @@
         "number": 33534, 
         "state": "open", 
         "updated_at": 1619466728
+    }, 
+    "33537": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Validation/HGCalValidation/plugins/HGCGeometryValidation.cc", 
+            "Validation/HGCalValidation/plugins/HGCalBHValidation.cc", 
+            "Validation/HGCalValidation/plugins/HGCalDigiClient.cc", 
+            "Validation/HGCalValidation/plugins/HGCalDigiValidation.cc", 
+            "Validation/HGCalValidation/plugins/HGCalSimHitStudy.cc", 
+            "Validation/HGCalValidation/plugins/HGCalSimHitValidation.cc", 
+            "Validation/HGCalValidation/plugins/HGCalSimHitsClient.cc"
+        ], 
+        "created_at": 1619473625, 
+        "number": 33537, 
+        "state": "open", 
+        "updated_at": 1619473651
     }
 }
