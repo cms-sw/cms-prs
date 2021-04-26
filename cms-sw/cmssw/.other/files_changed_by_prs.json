@@ -5887,5 +5887,24 @@
         "number": 33523, 
         "state": "open", 
         "updated_at": 1619422471
+    }, 
+    "33524": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondCore/GEMPlugins/src/plugins.cc", 
+            "CondFormats/DataRecord/interface/GEMELMapRcd.h", 
+            "CondFormats/DataRecord/src/GEMELMapRcd.cc", 
+            "CondFormats/GEMObjects/interface/GEMELMap.h", 
+            "CondFormats/GEMObjects/interface/GEMROmap.h", 
+            "CondFormats/GEMObjects/src/GEMELMap.cc", 
+            "CondFormats/GEMObjects/src/T_EventSetup_GEMELMap.cc", 
+            "CondFormats/GEMObjects/src/classes_def.xml", 
+            "CondFormats/GEMObjects/src/headers.h", 
+            "CondFormats/GEMObjects/test/test_serialization.cpp"
+        ], 
+        "created_at": 1619423004, 
+        "number": 33524, 
+        "state": "open", 
+        "updated_at": 1619423025
     }
 }
