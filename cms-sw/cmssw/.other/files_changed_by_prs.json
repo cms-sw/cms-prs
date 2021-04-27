@@ -5703,13 +5703,14 @@
             "EventFilter/SiPixelRawToDigi/plugins/SiPixelRawToDigi.h", 
             "EventFilter/SiPixelRawToDigi/python/SiPixelDigiToRaw_cfi.py", 
             "EventFilter/SiPixelRawToDigi/src/PixelDataFormatter.cc", 
+            "EventFilter/SiPixelRawToDigi/test/runHotPixels_cfg.py", 
             "EventFilter/SiPixelRawToDigi/test/runRawDumper_cfg.py", 
             "HLTrigger/Configuration/python/customizeHLTforCMSSW.py"
         ], 
         "created_at": 1619432276, 
         "number": 33526, 
         "state": "open", 
-        "updated_at": 1619508161
+        "updated_at": 1619513701
     }, 
     "33527": {
         "base_branch": "master", 
