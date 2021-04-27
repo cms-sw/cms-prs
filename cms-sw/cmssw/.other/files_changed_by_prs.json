@@ -5590,6 +5590,9 @@
             "RecoPixelVertexing/PixelTrackFitting/python/PixelTracks_cff.py", 
             "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletCUDA.cc", 
             "RecoPixelVertexing/PixelVertexFinding/plugins/PixelVertexProducerCUDA.cc", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/gpuVertexFinder.cc", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/gpuVertexFinder.cu", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/gpuVertexFinderImpl.h", 
             "RecoPixelVertexing/PixelVertexFinding/python/PixelVertexes_cff.py", 
             "RecoTracker/Configuration/python/customizePixelOnlyForProfiling.py", 
             "Validation/Configuration/python/ECALHCAL.py"
@@ -5597,7 +5600,7 @@
         "created_at": 1619240628, 
         "number": 33519, 
         "state": "open", 
-        "updated_at": 1619324436
+        "updated_at": 1619534603
     }, 
     "33520": {
         "base_branch": "master", 
