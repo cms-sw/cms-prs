@@ -6000,5 +6000,19 @@
         "number": 33561, 
         "state": "open", 
         "updated_at": 1619592889
+    }, 
+    "33562": {
+        "base_branch": "CMSSW_11_3_X", 
+        "changed_files_names": [
+            "HeterogeneousCore/CUDAServices/bin/BuildFile.xml", 
+            "HeterogeneousCore/CUDAServices/bin/cudaComputeCapabilities.cpp", 
+            "HeterogeneousCore/CUDAServices/bin/cudaIsEnabled.cpp", 
+            "HeterogeneousCore/CUDAServices/bin/isCudaDeviceSupported.cu", 
+            "HeterogeneousCore/CUDAServices/bin/isCudaDeviceSupported.h"
+        ], 
+        "created_at": 1619593045, 
+        "number": 33562, 
+        "state": "open", 
+        "updated_at": 1619593073
     }
 }
