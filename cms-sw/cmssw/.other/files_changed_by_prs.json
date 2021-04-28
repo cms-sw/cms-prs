@@ -5597,13 +5597,17 @@
     "33531": {
         "base_branch": "master", 
         "changed_files_names": [
+            "DQM/TrackingMonitorSource/python/IterTrackingModules4seedMonitoring_cfi.py", 
+            "DQM/TrackingMonitorSource/python/TrackingSourceConfig_Tier0_cff.py", 
             "RecoTracker/IterativeTracking/python/JetCoreRegionalStep_cff.py", 
-            "RecoTracker/TkSeedGenerator/plugins/DeepCoreSeedGenerator.cc"
+            "RecoTracker/IterativeTracking/python/iterativeTkConfig.py", 
+            "RecoTracker/TkSeedGenerator/plugins/DeepCoreSeedGenerator.cc", 
+            "Validation/RecoTrack/python/TrackValidation_cff.py"
         ], 
         "created_at": 1619459603, 
         "number": 33531, 
         "state": "open", 
-        "updated_at": 1619459626
+        "updated_at": 1619641009
     }, 
     "33532": {
         "base_branch": "master", 
