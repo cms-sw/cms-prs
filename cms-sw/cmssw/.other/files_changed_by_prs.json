@@ -5787,10 +5787,7 @@
             "DataFormats/SiStripCluster/src/classes.h", 
             "DataFormats/SiStripCluster/src/classes_def.xml", 
             "RecoLocalTracker/SiStripClusterizer/BuildFile.xml", 
-            "RecoLocalTracker/SiStripClusterizer/interface/SiStripClusters2ApproxClustersv1.h", 
             "RecoLocalTracker/SiStripClusterizer/plugins/SiStripClusters2ApproxClustersv1.cc", 
-            "RecoLocalTracker/SiStripClusterizer/python/SiStripApproximatedClustersDump_cfi.py", 
-            "RecoLocalTracker/SiStripClusterizer/python/SiStripClusters2ApproxClustersv1_cfi.py", 
             "RecoLocalTracker/SiStripClusterizer/test/SealModules.cc", 
             "RecoLocalTracker/SiStripClusterizer/test/SiStripApproximatedClustersDump.cc", 
             "RecoLocalTracker/SiStripClusterizer/test/SiStripApproximatedClustersDump.h", 
@@ -5800,7 +5797,7 @@
         "created_at": 1619533350, 
         "number": 33546, 
         "state": "open", 
-        "updated_at": 1619534642
+        "updated_at": 1619598724
     }, 
     "33547": {
         "base_branch": "CMSSW_10_2_X", 
