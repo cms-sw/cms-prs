@@ -5926,5 +5926,18 @@
         "number": 33584, 
         "state": "open", 
         "updated_at": 1619767859
+    }, 
+    "33585": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "GeneratorInterface/Herwig7Interface/python/Herwig7_Matchbox_ppToee_cff.py", 
+            "GeneratorInterface/Herwig7Interface/python/Herwig7_Standalone_DYLO_cff.py", 
+            "GeneratorInterface/Herwig7Interface/test/Herwig7_Matchbox_ppToee_cfg.py", 
+            "GeneratorInterface/Herwig7Interface/test/Herwig7_Standalone_DYLO_cfg.py"
+        ], 
+        "created_at": 1619770152, 
+        "number": 33585, 
+        "state": "open", 
+        "updated_at": 1619770179
     }
 }
