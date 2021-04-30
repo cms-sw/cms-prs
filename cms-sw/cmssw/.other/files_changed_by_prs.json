@@ -5951,5 +5951,18 @@
         "number": 33586, 
         "state": "open", 
         "updated_at": 1619771051
+    }, 
+    "33587": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "PhysicsTools/NanoAOD/python/boostedTaus_cff.py", 
+            "PhysicsTools/NanoAOD/python/nanoDQM_cfi.py", 
+            "PhysicsTools/NanoAOD/python/nano_cff.py", 
+            "RecoTauTag/RecoTau/python/tools/runTauIdMVA.py"
+        ], 
+        "created_at": 1619771426, 
+        "number": 33587, 
+        "state": "open", 
+        "updated_at": 1619771449
     }
 }
