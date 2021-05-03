@@ -6216,6 +6216,7 @@
     "33614": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Validation/Configuration/python/hgcalSimValid_cff.py", 
             "Validation/HGCalValidation/plugins/HGCalBHValidation.cc", 
             "Validation/HGCalValidation/plugins/HGCalHitValidation.cc", 
             "Validation/HGCalValidation/python/hgcalHitValidation_cff.py", 
@@ -6228,7 +6229,7 @@
         "created_at": 1620064395, 
         "number": 33614, 
         "state": "open", 
-        "updated_at": 1620064441
+        "updated_at": 1620075530
     }, 
     "33615": {
         "base_branch": "master", 
