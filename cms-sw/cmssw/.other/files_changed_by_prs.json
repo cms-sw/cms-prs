@@ -6831,5 +6831,18 @@
         "number": 33621, 
         "state": "open", 
         "updated_at": 1620137593
+    }, 
+    "33622": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/PatCandidates/interface/PackedCandidate.h", 
+            "DataFormats/PatCandidates/src/PackedCandidate.cc", 
+            "PhysicsTools/PatAlgos/plugins/PATPackedCandidateProducer.cc", 
+            "PhysicsTools/PatAlgos/python/slimming/packedPFCandidates_cfi.py"
+        ], 
+        "created_at": 1620142044, 
+        "number": 33622, 
+        "state": "open", 
+        "updated_at": 1620142093
     }
 }
