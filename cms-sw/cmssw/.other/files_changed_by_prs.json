@@ -6216,7 +6216,7 @@
     "33555": {
         "base_branch": "master", 
         "changed_files_names": [
-            "CalibCalorimetry/EcalLaserCorrection/python/ecalLaserCorrectionServiceMC_cfi.py", 
+            "CalibCalorimetry/EcalLaserCorrection/plugins/EcalLaserCorrectionServiceMC.cc", 
             "Configuration/Applications/python/ConfigBuilder.py", 
             "Configuration/Applications/python/Options.py", 
             "Configuration/ProcessModifiers/python/runDependent_cff.py", 
@@ -6232,7 +6232,7 @@
         "created_at": 1619568848, 
         "number": 33555, 
         "state": "open", 
-        "updated_at": 1619788103
+        "updated_at": 1620144588
     }, 
     "33563": {
         "base_branch": "master", 
