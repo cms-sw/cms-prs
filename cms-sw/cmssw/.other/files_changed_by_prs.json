@@ -6899,5 +6899,19 @@
         "number": 33626, 
         "state": "open", 
         "updated_at": 1620153763
+    }, 
+    "33627": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Validation/HGCalValidation/interface/HGCalValidator.h", 
+            "Validation/HGCalValidation/plugins/HGCalShowerSeparation.cc", 
+            "Validation/HGCalValidation/plugins/HeterogeneousHGCalRecHitsValidator.cc", 
+            "Validation/HGCalValidation/plugins/HeterogeneousHGCalRecHitsValidator.h", 
+            "Validation/HGCalValidation/test/MakePlots.C"
+        ], 
+        "created_at": 1620154293, 
+        "number": 33627, 
+        "state": "open", 
+        "updated_at": 1620154314
     }
 }
