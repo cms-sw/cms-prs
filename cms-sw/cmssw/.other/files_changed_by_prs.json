@@ -4951,10 +4951,6 @@
             "HLTrigger/Phase2/python/HLT_75e33/paths/HLT_PFHT330PT30_QuadPFPuppiJet_75_60_45_40_TriplePFPuppiBTagDeepFlavour_2p4_cfi.py", 
             "HLTrigger/Phase2/python/HLT_75e33/paths/HLT_PFPuppiHT1070_cfi.py", 
             "HLTrigger/Phase2/python/HLT_75e33/paths/HLT_PFPuppiMETTypeOne140_PFPuppiMHT140_cfi.py", 
-            "HLTrigger/Phase2/python/HLT_75e33/paths/HLT_Photon100EB_TightID_TightIso_Open_L1Seeded_cfi.py", 
-            "HLTrigger/Phase2/python/HLT_75e33/paths/HLT_Photon100EB_TightID_TightIso_Open_Unseeded_cfi.py", 
-            "HLTrigger/Phase2/python/HLT_75e33/paths/HLT_Photon100_Open_L1Seeded_cfi.py", 
-            "HLTrigger/Phase2/python/HLT_75e33/paths/HLT_Photon100_Open_Unseeded_cfi.py", 
             "HLTrigger/Phase2/python/HLT_75e33/paths/HLT_Photon108EB_TightID_TightIso_L1Seeded_cfi.py", 
             "HLTrigger/Phase2/python/HLT_75e33/paths/HLT_Photon108EB_TightID_TightIso_Unseeded_cfi.py", 
             "HLTrigger/Phase2/python/HLT_75e33/paths/HLT_Photon187_L1Seeded_cfi.py", 
@@ -4985,6 +4981,10 @@
             "HLTrigger/Phase2/python/HLT_75e33/paths/MC_Ele5_WP70_Open_L1Seeded_cfi.py", 
             "HLTrigger/Phase2/python/HLT_75e33/paths/MC_Ele5_WP70_Open_Unseeded_cfi.py", 
             "HLTrigger/Phase2/python/HLT_75e33/paths/MC_JME_cfi.py", 
+            "HLTrigger/Phase2/python/HLT_75e33/paths/MC_Photon100EB_TightID_TightIso_Open_L1Seeded_cfi.py", 
+            "HLTrigger/Phase2/python/HLT_75e33/paths/MC_Photon100EB_TightID_TightIso_Open_Unseeded_cfi.py", 
+            "HLTrigger/Phase2/python/HLT_75e33/paths/MC_Photon100_Open_L1Seeded_cfi.py", 
+            "HLTrigger/Phase2/python/HLT_75e33/paths/MC_Photon100_Open_Unseeded_cfi.py", 
             "HLTrigger/Phase2/python/HLT_75e33/paths/l1tReconstructionPath_cfi.py", 
             "HLTrigger/Phase2/python/HLT_75e33/paths/runTheL1P2_step_cfi.py", 
             "HLTrigger/Phase2/python/HLT_75e33/psets/CSCSegAlgoDF_cfi.py", 
@@ -5255,7 +5255,7 @@
         "created_at": 1613165892, 
         "number": 32903, 
         "state": "open", 
-        "updated_at": 1620154480
+        "updated_at": 1620156346
     }, 
     "32930": {
         "base_branch": "CMSSW_10_6_X", 
