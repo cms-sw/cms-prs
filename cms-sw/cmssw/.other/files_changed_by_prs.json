@@ -6308,12 +6308,13 @@
         "changed_files_names": [
             "DataFormats/HGCalReco/interface/Trackster.h", 
             "DataFormats/HGCalReco/src/classes_def.xml", 
-            "RecoHGCal/TICL/plugins/TrackstersFromSimClustersProducer.cc"
+            "RecoHGCal/TICL/plugins/TrackstersFromSimClustersProducer.cc", 
+            "RecoHGCal/TICL/python/SimTracksters_cff.py"
         ], 
         "created_at": 1620221132, 
         "number": 33638, 
         "state": "open", 
-        "updated_at": 1620221154
+        "updated_at": 1620227773
     }, 
     "33639": {
         "base_branch": "master", 
