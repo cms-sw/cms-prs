@@ -6519,12 +6519,13 @@
             "L1Trigger/L1CaloTrigger/python/L1CaloJetHTTProducer_cfi.py", 
             "L1Trigger/L1CaloTrigger/python/L1CaloJetProducer_cfi.py", 
             "L1Trigger/L1CaloTrigger/python/L1CaloJets_cff.py", 
-            "L1Trigger/L1CaloTrigger/python/test_L1CaloJets_cfg.py"
+            "L1Trigger/L1CaloTrigger/python/test_L1CaloJets_cfg.py", 
+            "L1Trigger/Phase2L1ParticleFlow/python/pfClustersFromCombinedCalo_cfi.py"
         ], 
         "created_at": 1620052629, 
         "number": 33612, 
         "state": "open", 
-        "updated_at": 1620136094
+        "updated_at": 1620196342
     }, 
     "33615": {
         "base_branch": "master", 
