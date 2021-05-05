@@ -5603,37 +5603,6 @@
         "state": "open", 
         "updated_at": 1619526249
     }, 
-    "33545": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoHGCal/Configuration/python/RecoHGCal_EventContent_cff.py", 
-            "RecoHGCal/TICL/python/EMStep_cff.py", 
-            "RecoHGCal/TICL/python/HADStep_cff.py", 
-            "RecoHGCal/TICL/python/MIPStep_cff.py", 
-            "RecoHGCal/TICL/python/SimTracksters_cff.py", 
-            "RecoHGCal/TICL/python/TrkEMStep_cff.py", 
-            "RecoHGCal/TICL/python/TrkStep_cff.py", 
-            "RecoHGCal/TICL/python/iterativeTICL_cff.py", 
-            "RecoHGCal/TICL/python/ticl_iterations.py", 
-            "RecoParticleFlow/PFClusterProducer/plugins/PFClusterFromHGCalTrackster.cc", 
-            "RecoParticleFlow/PFClusterProducer/plugins/PFClusterFromHGCalTrackster.h", 
-            "RecoParticleFlow/PFClusterProducer/python/particleFlowClusterHGC_cfi.py", 
-            "Validation/HGCalValidation/interface/HGCalValidator.h", 
-            "Validation/HGCalValidation/interface/HGVHistoProducerAlgo.h", 
-            "Validation/HGCalValidation/plugins/HGCalValidator.cc", 
-            "Validation/HGCalValidation/python/HGCalPostProcessor_cff.py", 
-            "Validation/HGCalValidation/python/HGCalValidator_cfi.py", 
-            "Validation/HGCalValidation/python/HGVHistoProducerAlgoBlock_cfi.py", 
-            "Validation/HGCalValidation/python/PostProcessorHGCAL_cfi.py", 
-            "Validation/HGCalValidation/python/hgcalPlots.py", 
-            "Validation/HGCalValidation/scripts/makeHGCalValidationPlots.py", 
-            "Validation/HGCalValidation/src/HGVHistoProducerAlgo.cc"
-        ], 
-        "created_at": 1619532633, 
-        "number": 33545, 
-        "state": "open", 
-        "updated_at": 1619586338
-    }, 
     "33546": {
         "base_branch": "CMSSW_11_3_X", 
         "changed_files_names": [
