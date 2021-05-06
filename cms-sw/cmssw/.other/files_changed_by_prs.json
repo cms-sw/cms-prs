@@ -5749,23 +5749,6 @@
         "state": "open", 
         "updated_at": 1619629115
     }, 
-    "33574": {
-        "base_branch": "CMSSW_11_3_X", 
-        "changed_files_names": [
-            "CalibCalorimetry/EcalTPGTools/plugins/EcalTPGParamBuilder.cc", 
-            "CalibCalorimetry/EcalTPGTools/plugins/EcalTPGParamBuilder.h", 
-            "CondFormats/EcalObjects/interface/EcalCondObjectContainer.h", 
-            "CondFormats/EcalObjects/src/EcalIntercalibConstantsGPU.cc", 
-            "CondFormats/EcalObjects/src/EcalLaserAPDPNRatiosRefGPU.cc", 
-            "CondFormats/EcalObjects/src/EcalLaserAlphasGPU.cc", 
-            "RecoLocalCalo/EcalRecProducers/test/sourceFromRawCmggpu_cff.py", 
-            "RecoLocalCalo/EcalRecProducers/test/testEcalRechitProducer_cfg.py"
-        ], 
-        "created_at": 1619688752, 
-        "number": 33574, 
-        "state": "open", 
-        "updated_at": 1620211025
-    }, 
     "33583": {
         "base_branch": "master", 
         "changed_files_names": [
