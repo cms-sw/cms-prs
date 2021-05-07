@@ -6461,5 +6461,20 @@
         "number": 33659, 
         "state": "open", 
         "updated_at": 1620384148
+    }, 
+    "33660": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondCore/CondDB/interface/Auth.h", 
+            "CondCore/CondDB/interface/CredentialStore.h", 
+            "CondCore/CondDB/plugins/CondDBPyBind11Wrappers.cc", 
+            "CondCore/CondDB/src/CredentialStore.cc", 
+            "CondCore/Utilities/python/conddblib.py", 
+            "CondCore/Utilities/scripts/conddb"
+        ], 
+        "created_at": 1620385631, 
+        "number": 33660, 
+        "state": "open", 
+        "updated_at": 1620385655
     }
 }
