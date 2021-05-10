@@ -6426,8 +6426,13 @@
             "RecoEgamma/EgammaIsolationAlgos/python/egammaHBHERecHitThreshold_cff.py", 
             "RecoEgamma/EgammaIsolationAlgos/src/EgammaHcalIsolation.cc", 
             "RecoEgamma/EgammaPhotonProducers/BuildFile.xml", 
+            "RecoEgamma/EgammaPhotonProducers/python/conversionTrackCandidates_cfi.py", 
+            "RecoEgamma/EgammaPhotonProducers/python/conversions_cfi.py", 
             "RecoEgamma/EgammaPhotonProducers/python/gedPhotons_cfi.py", 
+            "RecoEgamma/EgammaPhotonProducers/python/ootPhotons_cff.py", 
             "RecoEgamma/EgammaPhotonProducers/python/photons_cfi.py", 
+            "RecoEgamma/EgammaPhotonProducers/src/ConversionTrackCandidateProducer.cc", 
+            "RecoEgamma/EgammaPhotonProducers/src/ConvertedPhotonProducer.cc", 
             "RecoEgamma/EgammaPhotonProducers/src/GEDPhotonProducer.cc", 
             "RecoEgamma/EgammaPhotonProducers/src/PhotonProducer.cc", 
             "RecoEgamma/EgammaTools/plugins/EGFull5x5ShowerShapeModifier.cc", 
@@ -6445,6 +6450,8 @@
             "RecoEgamma/PhotonIdentification/python/Identification/cutBasedPhotonID_tools.py", 
             "RecoEgamma/PhotonIdentification/python/isolationCalculator_cfi.py", 
             "RecoEgamma/PhotonIdentification/src/PhotonIsolationCalculator.cc", 
+            "RecoHI/Configuration/python/Reconstruction_hiPF_cff.py", 
+            "RecoHI/HiEgammaAlgos/python/HiElectronSequence_cff.py", 
             "RecoParticleFlow/PFProducer/plugins/PFPhotonTranslator.cc", 
             "Validation/RecoEgamma/plugins/ElectronMcFakeValidator.cc", 
             "Validation/RecoEgamma/plugins/ElectronMcSignalValidator.cc"
@@ -6452,7 +6459,7 @@
         "created_at": 1620419171, 
         "number": 33666, 
         "state": "open", 
-        "updated_at": 1620419214
+        "updated_at": 1620673518
     }, 
     "33671": {
         "base_branch": "master", 
