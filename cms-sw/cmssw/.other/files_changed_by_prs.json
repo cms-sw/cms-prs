@@ -3520,12 +3520,10 @@
             "RecoTracker/DisplacedRegionalTracking/data/FullData_Phi-64-126-256_16-32-64_F-256-128-64_Model.pb", 
             "RecoTracker/DisplacedRegionalTracking/data/FullData_Phi-64-128-256_16-32-64_F-128-64-32_Model.pb", 
             "RecoTracker/DisplacedRegionalTracking/data/MS-15_Phi-64-128-256_16-32-64_F-256-128-32_Model.pb", 
-            "RecoTracker/DisplacedRegionalTracking/interface/DisplacedRegion.h", 
+            "RecoTracker/DisplacedRegionalTracking/interface/DisplacedVertexCluster.h", 
             "RecoTracker/DisplacedRegionalTracking/plugins/BuildFile.xml", 
-            "RecoTracker/DisplacedRegionalTracking/plugins/DisplacedRegionProducer.cc", 
-            "RecoTracker/DisplacedRegionalTracking/plugins/DisplacedRegionProducer.h", 
-            "RecoTracker/DisplacedRegionalTracking/python/displacedRegionProducer_cfi.py", 
-            "RecoTracker/DisplacedRegionalTracking/src/DisplacedRegion.cc", 
+            "RecoTracker/DisplacedRegionalTracking/plugins/DisplacedRegionSeedingVertexProducer.cc", 
+            "RecoTracker/DisplacedRegionalTracking/src/DisplacedVertexCluster.cc", 
             "RecoTracker/FinalTrackSelectors/python/displacedRegionalStepInputTracks_cfi.py", 
             "RecoTracker/FinalTrackSelectors/python/preDuplicateMergingGeneralTracks_cfi.py", 
             "RecoTracker/FinalTrackSelectors/src/trackAlgoPriorityOrder.h", 
@@ -3545,7 +3543,7 @@
         "created_at": 1612371699, 
         "number": 32806, 
         "state": "open", 
-        "updated_at": 1620041839
+        "updated_at": 1620661831
     }, 
     "32845": {
         "base_branch": "CMSSW_11_1_X", 
