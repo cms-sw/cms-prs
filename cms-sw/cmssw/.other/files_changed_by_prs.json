@@ -5564,13 +5564,14 @@
         "updated_at": 1619526249
     }, 
     "33546": {
-        "base_branch": "CMSSW_11_3_X", 
+        "base_branch": "master", 
         "changed_files_names": [
-            "DataFormats/SiStripCluster/interface/SiStripApproximateClusterv1.h", 
+            "DataFormats/SiStripCluster/interface/SiStripApproximateCluster.h", 
             "DataFormats/SiStripCluster/src/classes.h", 
             "DataFormats/SiStripCluster/src/classes_def.xml", 
             "RecoLocalTracker/SiStripClusterizer/BuildFile.xml", 
-            "RecoLocalTracker/SiStripClusterizer/plugins/SiStripClusters2ApproxClustersv1.cc", 
+            "RecoLocalTracker/SiStripClusterizer/plugins/SiStripApprox2ApproxClusters.cc", 
+            "RecoLocalTracker/SiStripClusterizer/plugins/SiStripClusters2ApproxClusters.cc", 
             "RecoLocalTracker/SiStripClusterizer/test/SealModules.cc", 
             "RecoLocalTracker/SiStripClusterizer/test/SiStripApproximatedClustersDump.cc", 
             "RecoLocalTracker/SiStripClusterizer/test/SiStripApproximatedClustersDump.h", 
@@ -5580,7 +5581,7 @@
         "created_at": 1619533350, 
         "number": 33546, 
         "state": "open", 
-        "updated_at": 1620116930
+        "updated_at": 1620661378
     }, 
     "33548": {
         "base_branch": "master", 
