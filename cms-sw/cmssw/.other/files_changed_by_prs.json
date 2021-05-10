@@ -6537,5 +6537,20 @@
         "number": 33669, 
         "state": "open", 
         "updated_at": 1620624609
+    }, 
+    "33670": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/CSCDigi/interface/CSCCLCTDigi.h", 
+            "DataFormats/CSCDigi/interface/CSCCorrelatedLCTDigi.h", 
+            "DataFormats/CSCDigi/src/CSCCLCTDigi.cc", 
+            "DataFormats/CSCDigi/src/CSCCorrelatedLCTDigi.cc", 
+            "L1Trigger/CSCTriggerPrimitives/src/CSCCathodeLCTProcessor.cc", 
+            "L1Trigger/CSCTriggerPrimitives/test/macros/CCLUTLinearFitWriter.cpp"
+        ], 
+        "created_at": 1620624976, 
+        "number": 33670, 
+        "state": "open", 
+        "updated_at": 1620625027
     }
 }
