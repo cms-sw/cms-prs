@@ -6468,8 +6468,10 @@
             "DataFormats/FTLRecHit/src/FTLCluster.cc", 
             "RecoLocalFastTime/FTLClusterizer/BuildFile.xml", 
             "RecoLocalFastTime/FTLClusterizer/interface/MTDCPEBase.h", 
+            "RecoLocalFastTime/FTLClusterizer/interface/MTDThresholdClusterizer.h", 
             "RecoLocalFastTime/FTLClusterizer/plugins/MTDClusterProducer.cc", 
             "RecoLocalFastTime/FTLClusterizer/src/MTDCPEBase.cc", 
+            "RecoLocalFastTime/FTLClusterizer/src/MTDThresholdClusterizer.cc", 
             "RecoLocalFastTime/FTLRecProducers/plugins/MTDTrackingRecHitProducer.cc", 
             "RecoMTD/Configuration/python/mtdGlobalReco_cff.py", 
             "RecoMTD/MeasurementDet/interface/MTDDetLayerMeasurements.h", 
@@ -6479,7 +6481,7 @@
         "created_at": 1620654513, 
         "number": 33680, 
         "state": "open", 
-        "updated_at": 1620654540
+        "updated_at": 1620712019
     }, 
     "33681": {
         "base_branch": "master", 
