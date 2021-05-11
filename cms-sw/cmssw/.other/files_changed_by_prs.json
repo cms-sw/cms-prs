@@ -6359,6 +6359,7 @@
             "DQM/BeamMonitor/python/BeamMonitor_PixelLess_cff.py", 
             "DQM/BeamMonitor/python/BeamMonitor_Pixel_cff.py", 
             "DQM/BeamMonitor/python/BeamMonitor_cff.py", 
+            "DQM/BeamMonitor/python/FakeBeamMonitor_cff.py", 
             "DQM/Integration/python/clients/beam_dqm_sourceclient-live_cfg.py", 
             "DQM/Integration/python/clients/beamfake_dqm_sourceclient-live_cfg.py", 
             "DQM/Integration/python/clients/beamhlt_dqm_sourceclient-live_cfg.py", 
@@ -6368,7 +6369,7 @@
         "created_at": 1620671265, 
         "number": 33684, 
         "state": "open", 
-        "updated_at": 1620724600
+        "updated_at": 1620742573
     }, 
     "33688": {
         "base_branch": "CMSSW_10_6_X", 
