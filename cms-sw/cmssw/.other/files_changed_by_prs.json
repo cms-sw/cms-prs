@@ -6384,6 +6384,7 @@
         "base_branch": "master", 
         "changed_files_names": [
             "Configuration/StandardSequences/python/Reconstruction_cff.py", 
+            "DataFormats/FTLRecHit/interface/FTLCluster.h", 
             "DataFormats/FTLRecHit/src/FTLCluster.cc", 
             "RecoLocalFastTime/FTLClusterizer/BuildFile.xml", 
             "RecoLocalFastTime/FTLClusterizer/interface/MTDCPEBase.h", 
@@ -6402,7 +6403,7 @@
         "created_at": 1620654513, 
         "number": 33680, 
         "state": "open", 
-        "updated_at": 1620719149
+        "updated_at": 1620729564
     }, 
     "33681": {
         "base_branch": "master", 
