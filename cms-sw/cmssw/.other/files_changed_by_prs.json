@@ -6487,5 +6487,22 @@
         "number": 33705, 
         "state": "open", 
         "updated_at": 1620814413
+    }, 
+    "33706": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEFast.h", 
+            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEGeneric.h", 
+            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEGenericBase.h", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/PixelCPEFastESProducer.cc", 
+            "RecoLocalTracker/SiPixelRecHits/python/PixelCPEGeneric_cfi.py", 
+            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEFast.cc", 
+            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEGeneric.cc", 
+            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEGenericBase.cc"
+        ], 
+        "created_at": 1620814476, 
+        "number": 33706, 
+        "state": "open", 
+        "updated_at": 1620814500
     }
 }
