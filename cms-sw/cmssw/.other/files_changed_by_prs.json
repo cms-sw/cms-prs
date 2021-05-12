@@ -6197,12 +6197,13 @@
         "base_branch": "master", 
         "changed_files_names": [
             "RecoEcal/EgammaClusterProducers/python/islandBasicClusters_cfi.py", 
-            "RecoEcal/EgammaClusterProducers/python/particleFlowSuperClusterECALBox_cfi.py"
+            "RecoEcal/EgammaClusterProducers/python/particleFlowSuperClusterECALBox_cfi.py", 
+            "RecoEcal/EgammaClusterProducers/src/PFECALSuperClusterProducer.cc"
         ], 
         "created_at": 1620645071, 
         "number": 33671, 
         "state": "open", 
-        "updated_at": 1620716017
+        "updated_at": 1620816087
     }, 
     "33677": {
         "base_branch": "master", 
