@@ -6030,6 +6030,9 @@
             "DataFormats/EgammaCandidates/src/Photon.cc", 
             "DataFormats/EgammaCandidates/src/classes_def.xml", 
             "PhysicsTools/NanoAOD/python/electrons_cff.py", 
+            "RecoEcal/EgammaCoreTools/interface/EcalClusterLazyTools.h", 
+            "RecoEcal/EgammaCoreTools/interface/EcalClusterTools.h", 
+            "RecoEcal/EgammaCoreTools/interface/EgammaLocalCovParamDefaults.h", 
             "RecoEgamma/EgammaElectronAlgos/interface/ElectronHcalHelper.h", 
             "RecoEgamma/EgammaElectronAlgos/interface/GsfElectronAlgo.h", 
             "RecoEgamma/EgammaElectronAlgos/src/ElectronHcalHelper.cc", 
@@ -6038,6 +6041,7 @@
             "RecoEgamma/EgammaElectronProducers/plugins/GsfElectronProducer.cc", 
             "RecoEgamma/EgammaElectronProducers/python/ecalDrivenElectronSeeds_cfi.py", 
             "RecoEgamma/EgammaElectronProducers/python/gsfElectronProducer_cfi.py", 
+            "RecoEgamma/EgammaHLTProducers/plugins/EgammaHLTClusterShapeProducer.cc", 
             "RecoEgamma/EgammaIsolationAlgos/BuildFile.xml", 
             "RecoEgamma/EgammaIsolationAlgos/interface/EgammaHcalIsolation.h", 
             "RecoEgamma/EgammaIsolationAlgos/python/egammaHBHERecHitThreshold_cff.py", 
@@ -6076,7 +6080,7 @@
         "created_at": 1620419171, 
         "number": 33666, 
         "state": "open", 
-        "updated_at": 1620689569
+        "updated_at": 1620842769
     }, 
     "33671": {
         "base_branch": "master", 
