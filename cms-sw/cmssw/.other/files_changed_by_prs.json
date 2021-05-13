@@ -6314,5 +6314,24 @@
         "number": 33725, 
         "state": "open", 
         "updated_at": 1620913554
+    }, 
+    "33727": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/CSCDigi/interface/CSCCLCTDigi.h", 
+            "DataFormats/CSCDigi/interface/CSCCorrelatedLCTDigi.h", 
+            "DataFormats/CSCDigi/interface/CSCShowerDigi.h", 
+            "DataFormats/CSCDigi/src/CSCCLCTDigi.cc", 
+            "DataFormats/CSCDigi/src/CSCCorrelatedLCTDigi.cc", 
+            "DataFormats/CSCDigi/src/CSCShowerDigi.cc", 
+            "DataFormats/CSCDigi/src/classes_def.xml", 
+            "DataFormats/L1CSCTrackFinder/src/classes_def.xml", 
+            "L1Trigger/CSCTriggerPrimitives/src/CSCMotherboard.cc", 
+            "L1Trigger/L1TMuonEndCap/src/SectorProcessorShower.cc"
+        ], 
+        "created_at": 1620919006, 
+        "number": 33727, 
+        "state": "open", 
+        "updated_at": 1620919046
     }
 }
