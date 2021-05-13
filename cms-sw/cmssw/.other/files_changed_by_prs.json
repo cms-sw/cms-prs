@@ -5826,12 +5826,15 @@
             "DQM/Integration/python/clients/beamfake_dqm_sourceclient-live_cfg.py", 
             "DQM/Integration/python/clients/beamhlt_dqm_sourceclient-live_cfg.py", 
             "DQM/Integration/python/clients/beamhltfake_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/config/inputsource_cfi.py"
+            "DQM/Integration/python/config/fileinputsource_cfi.py", 
+            "DQM/Integration/python/config/inputsource_cfi.py", 
+            "DQM/Integration/python/config/pbsource_cfi.py", 
+            "DQM/Integration/python/config/unittestinputsource_cfi.py"
         ], 
         "created_at": 1620288019, 
         "number": 33644, 
         "state": "open", 
-        "updated_at": 1620708063
+        "updated_at": 1620903442
     }, 
     "33645": {
         "base_branch": "master", 
