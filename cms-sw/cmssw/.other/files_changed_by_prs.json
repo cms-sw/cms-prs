@@ -6035,30 +6035,6 @@
         "state": "open", 
         "updated_at": 1620916670
     }, 
-    "33684": {
-        "base_branch": "CMSSW_11_3_X", 
-        "changed_files_names": [
-            "DQM/BeamMonitor/plugins/BeamMonitor.cc", 
-            "DQM/BeamMonitor/plugins/BeamMonitor.h", 
-            "DQM/BeamMonitor/plugins/FakeBeamMonitor.cc", 
-            "DQM/BeamMonitor/plugins/FakeBeamMonitor.h", 
-            "DQM/BeamMonitor/python/BeamMonitor_Cosmics_cff.py", 
-            "DQM/BeamMonitor/python/BeamMonitor_MC_cff.py", 
-            "DQM/BeamMonitor/python/BeamMonitor_PixelLess_cff.py", 
-            "DQM/BeamMonitor/python/BeamMonitor_Pixel_cff.py", 
-            "DQM/BeamMonitor/python/BeamMonitor_cff.py", 
-            "DQM/BeamMonitor/python/FakeBeamMonitor_cff.py", 
-            "DQM/Integration/python/clients/beam_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/beamfake_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/beamhlt_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/beamhltfake_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/last_lumi.txt"
-        ], 
-        "created_at": 1620671265, 
-        "number": 33684, 
-        "state": "open", 
-        "updated_at": 1620829044
-    }, 
     "33694": {
         "base_branch": "master", 
         "changed_files_names": [
