@@ -6044,30 +6044,6 @@
         "state": "open", 
         "updated_at": 1620912326
     }, 
-    "33699": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/Common/interface/ProductData.h", 
-            "DataFormats/Provenance/BuildFile.xml", 
-            "DataFormats/Provenance/interface/ProductProvenanceLookup.h", 
-            "DataFormats/Provenance/interface/Provenance.h", 
-            "DataFormats/Provenance/interface/ProvenanceFwd.h", 
-            "DataFormats/Provenance/src/ProductProvenanceLookup.cc", 
-            "DataFormats/Provenance/src/ProductProvenanceRetriever.cc", 
-            "DataFormats/Provenance/src/Provenance.cc", 
-            "FWCore/Framework/interface/EventPrincipal.h", 
-            "FWCore/Framework/interface/ProductProvenanceRetriever.h", 
-            "FWCore/Framework/src/ProductProvenanceRetriever.cc", 
-            "FWCore/Framework/src/ProductResolvers.cc", 
-            "FWCore/Integration/test/TestParentage.cc", 
-            "FWCore/TFWLiteSelector/src/TFWLiteSelectorBasic.cc", 
-            "IOPool/Output/src/PoolOutputModule.cc"
-        ], 
-        "created_at": 1620776641, 
-        "number": 33699, 
-        "state": "open", 
-        "updated_at": 1620933410
-    }, 
     "33704": {
         "base_branch": "master", 
         "changed_files_names": [
