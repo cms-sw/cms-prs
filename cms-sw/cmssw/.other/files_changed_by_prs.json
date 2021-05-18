@@ -5696,11 +5696,12 @@
     "33645": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Configuration/ProcessModifiers/python/clue3D_cff.py", 
             "RecoHGCal/TICL/BuildFile.xml", 
             "RecoHGCal/TICL/interface/GlobalCache.h", 
             "RecoHGCal/TICL/interface/PatternRecognitionAlgoBase.h", 
-            "RecoHGCal/TICL/interface/PatternRecognitionPluginFactory.h", 
             "RecoHGCal/TICL/plugins/PatternRecognitionPluginFactory.cc", 
+            "RecoHGCal/TICL/plugins/PatternRecognitionPluginFactory.h", 
             "RecoHGCal/TICL/plugins/PatternRecognitionbyCA.cc", 
             "RecoHGCal/TICL/plugins/PatternRecognitionbyCA.h", 
             "RecoHGCal/TICL/plugins/PatternRecognitionbyCLUE3D.cc", 
@@ -5720,7 +5721,7 @@
         "created_at": 1620294528, 
         "number": 33645, 
         "state": "open", 
-        "updated_at": 1620827621
+        "updated_at": 1621349329
     }, 
     "33666": {
         "base_branch": "master", 
