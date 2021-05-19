@@ -6292,5 +6292,18 @@
         "number": 33776, 
         "state": "open", 
         "updated_at": 1621414363
+    }, 
+    "33777": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "PhysicsTools/PatAlgos/plugins/PATLostTracks.cc", 
+            "PhysicsTools/PatAlgos/plugins/PATPackedCandidateProducer.cc", 
+            "PhysicsTools/PatAlgos/python/slimming/lostTracks_cfi.py", 
+            "PhysicsTools/PatAlgos/python/slimming/packedPFCandidates_cfi.py"
+        ], 
+        "created_at": 1621416858, 
+        "number": 33777, 
+        "state": "open", 
+        "updated_at": 1621416985
     }
 }
