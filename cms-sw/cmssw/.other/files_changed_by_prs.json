@@ -5642,14 +5642,12 @@
         "base_branch": "master", 
         "changed_files_names": [
             "DataFormats/PatCandidates/interface/PackedCandidate.h", 
-            "DataFormats/PatCandidates/src/PackedCandidate.cc", 
-            "PhysicsTools/PatAlgos/plugins/PATPackedCandidateProducer.cc", 
-            "PhysicsTools/PatAlgos/python/slimming/packedPFCandidates_cfi.py"
+            "DataFormats/PatCandidates/src/PackedCandidate.cc"
         ], 
         "created_at": 1620142044, 
         "number": 33622, 
         "state": "open", 
-        "updated_at": 1620891366
+        "updated_at": 1621414845
     }, 
     "33644": {
         "base_branch": "CMSSW_11_3_X", 
