@@ -6394,7 +6394,10 @@
             "DQM/HcalCommon/src/ContainerSingle1D.cc", 
             "DQM/HcalTasks/plugins/DigiTask.cc", 
             "DQM/HcalTasks/plugins/FCDTask.cc", 
+            "DQM/HcalTasks/plugins/HcalOnlineHarvesting.cc", 
             "DQM/HcalTasks/plugins/LEDTask.cc", 
+            "DQM/HcalTasks/plugins/RecHitTask.cc", 
+            "DQM/HcalTasks/plugins/TPTask.cc", 
             "DQM/HcalTasks/plugins/ZDCQIE10Task.cc", 
             "DQM/HcalTasks/plugins/ZDCTask.cc", 
             "DQM/HcalTasks/src/DigiRunSummary.cc"
@@ -6402,7 +6405,7 @@
         "created_at": 1621956359, 
         "number": 33838, 
         "state": "open", 
-        "updated_at": 1621956412
+        "updated_at": 1622034974
     }, 
     "33839": {
         "base_branch": "master", 
