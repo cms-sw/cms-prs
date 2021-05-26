@@ -6451,5 +6451,20 @@
         "number": 33843, 
         "state": "open", 
         "updated_at": 1622017124
+    }, 
+    "33844": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoPixelVertexing/Configuration/python/RecoPixelVertexing_cff.py", 
+            "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackDumpCUDA.cc", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/PixelVertexProducerCUDA.cc", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/PixelVertexProducerFromSoA.cc", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/PixelVertexSoAFromCUDA.cc", 
+            "RecoTracker/Configuration/python/customizePixelOnlyForProfiling.py"
+        ], 
+        "created_at": 1622018221, 
+        "number": 33844, 
+        "state": "open", 
+        "updated_at": 1622018248
     }
 }
