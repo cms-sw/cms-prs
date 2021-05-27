@@ -5660,25 +5660,6 @@
         "state": "open", 
         "updated_at": 1621869528
     }, 
-    "33750": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/L1TCalorimeterPhase2/interface/CaloJet.h", 
-            "L1Trigger/L1CaloTrigger/plugins/L1CaloJetHTTProducer.cc", 
-            "L1Trigger/L1CaloTrigger/plugins/L1CaloJetProducer.cc", 
-            "L1Trigger/L1CaloTrigger/plugins/L1EGammaCrystalsEmulatorProducer.cc", 
-            "L1Trigger/L1CaloTrigger/plugins/L1TowerCalibrator.cc", 
-            "L1Trigger/L1CaloTrigger/python/L1CaloJetHTTProducer_cfi.py", 
-            "L1Trigger/L1CaloTrigger/python/L1CaloJetProducer_cfi.py", 
-            "L1Trigger/L1CaloTrigger/python/L1CaloJets_cff.py", 
-            "L1Trigger/L1CaloTrigger/test/test_L1CaloJets_cfg.py", 
-            "L1Trigger/Phase2L1ParticleFlow/python/pfClustersFromCombinedCalo_cfi.py"
-        ], 
-        "created_at": 1621241306, 
-        "number": 33750, 
-        "state": "open", 
-        "updated_at": 1622024371
-    }, 
     "33758": {
         "base_branch": "master", 
         "changed_files_names": [
