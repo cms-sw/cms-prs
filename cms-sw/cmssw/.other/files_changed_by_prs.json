@@ -6507,5 +6507,18 @@
         "number": 33876, 
         "state": "open", 
         "updated_at": 1622166840
+    }, 
+    "33877": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "PhysicsTools/PatAlgos/plugins/PATLostTracks.cc", 
+            "PhysicsTools/PatAlgos/plugins/PATPackedCandidateProducer.cc", 
+            "PhysicsTools/PatAlgos/python/slimming/lostTracks_cfi.py", 
+            "PhysicsTools/PatAlgos/python/slimming/packedPFCandidates_cfi.py"
+        ], 
+        "created_at": 1622179846, 
+        "number": 33877, 
+        "state": "open", 
+        "updated_at": 1622179919
     }
 }
