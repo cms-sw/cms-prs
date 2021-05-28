@@ -6450,5 +6450,21 @@
         "number": 33879, 
         "state": "open", 
         "updated_at": 1622201737
+    }, 
+    "33880": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibTracker/SiStripChannelGain/src/SiStripGainsPCLHarvester.cc", 
+            "Calibration/TkAlCaRecoProducers/test/BuildFile.xml", 
+            "Calibration/TkAlCaRecoProducers/test/parseFwkJobReport.py", 
+            "Calibration/TkAlCaRecoProducers/test/testAlCaHarvesting.sh", 
+            "Calibration/TkAlCaRecoProducers/test/testCalibrationTkAlCaRecoProducers.cpp", 
+            "Calibration/TkAlCaRecoProducers/test/testPCLAlCaHarvesting.py", 
+            "DQMOffline/CalibTracker/plugins/SiStripQualityHotStripIdentifierRoot.cc"
+        ], 
+        "created_at": 1622206230, 
+        "number": 33880, 
+        "state": "open", 
+        "updated_at": 1622206271
     }
 }
