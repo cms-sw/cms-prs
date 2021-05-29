@@ -5674,25 +5674,6 @@
         "state": "open", 
         "updated_at": 1621433547
     }, 
-    "33792": {
-        "base_branch": "CMSSW_11_3_X", 
-        "changed_files_names": [
-            "Configuration/AlCa/python/autoCondPhase2.py", 
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
-            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEBase.h", 
-            "RecoLocalTracker/SiPixelRecHits/plugins/PixelCPEClusterRepairESProducer.cc", 
-            "RecoLocalTracker/SiPixelRecHits/plugins/PixelCPEFastESProducer.cc", 
-            "RecoLocalTracker/SiPixelRecHits/plugins/PixelCPEGenericESProducer.cc", 
-            "RecoLocalTracker/SiPixelRecHits/plugins/PixelCPETemplateRecoESProducer.cc", 
-            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEBase.cc", 
-            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEClusterRepair.cc", 
-            "RecoLocalTracker/SiPixelRecHits/src/PixelCPETemplateReco.cc"
-        ], 
-        "created_at": 1621489304, 
-        "number": 33792, 
-        "state": "open", 
-        "updated_at": 1621862951
-    }, 
     "33794": {
         "base_branch": "master", 
         "changed_files_names": [
