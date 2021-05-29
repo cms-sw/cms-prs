@@ -5824,16 +5824,20 @@
     "33817": {
         "base_branch": "master", 
         "changed_files_names": [
+            "DataFormats/EgammaCandidates/interface/GsfElectron.h", 
+            "DataFormats/EgammaCandidates/src/GsfElectron.cc", 
             "PhysicsTools/NanoAOD/python/lowPtElectrons_cff.py", 
             "PhysicsTools/NanoAOD/python/nanoDQM_cff.py", 
             "PhysicsTools/NanoAOD/python/nanoDQM_cfi.py", 
             "PhysicsTools/NanoAOD/python/nano_cff.py", 
             "PhysicsTools/PatAlgos/plugins/LeptonUpdater.cc", 
+            "PhysicsTools/PatAlgos/python/slimming/slimmedElectrons_cfi.py", 
             "PhysicsTools/PatAlgos/python/slimming/slimmedLowPtElectrons_cfi.py", 
             "RecoEgamma/EgammaElectronProducers/plugins/LowPtGsfElectronIDProducer.cc", 
             "RecoEgamma/EgammaElectronProducers/src/LowPtGsfElectronFeatures.cc", 
             "RecoEgamma/EgammaTools/BuildFile.xml", 
             "RecoEgamma/EgammaTools/interface/LowPtConversion.h", 
+            "RecoEgamma/EgammaTools/plugins/EGRegressionModifierV3.cc", 
             "RecoEgamma/EgammaTools/plugins/LowPtElectronsModifier.cc", 
             "RecoEgamma/EgammaTools/python/lowPtElectronModifier_cfi.py", 
             "RecoEgamma/EgammaTools/src/LowPtConversion.cc"
@@ -5841,7 +5845,7 @@
         "created_at": 1621627170, 
         "number": 33817, 
         "state": "open", 
-        "updated_at": 1622209622
+        "updated_at": 1622307877
     }, 
     "33818": {
         "base_branch": "master", 
