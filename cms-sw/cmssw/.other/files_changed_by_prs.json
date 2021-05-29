@@ -6583,5 +6583,41 @@
         "number": 33887, 
         "state": "open", 
         "updated_at": 1622226675
+    }, 
+    "33888": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibFormats/SiStripObjects/BuildFile.xml", 
+            "CalibFormats/SiStripObjects/interface/SiStripDetInfo.h", 
+            "CalibFormats/SiStripObjects/interface/SiStripGain.h", 
+            "CalibFormats/SiStripObjects/interface/SiStripQuality.h", 
+            "CalibFormats/SiStripObjects/src/SiStripDelay.cc", 
+            "CalibFormats/SiStripObjects/src/SiStripDetInfo.cc", 
+            "CalibFormats/SiStripObjects/src/SiStripGain.cc", 
+            "CalibFormats/SiStripObjects/src/SiStripQuality.cc", 
+            "CalibFormats/SiStripObjects/test/BuildFile.xml", 
+            "CalibFormats/SiStripObjects/test/UnitTests/TestSiStripGain.cc", 
+            "CalibTracker/SiStripCommon/interface/SiStripDetInfoFileReader.h", 
+            "CalibTracker/SiStripCommon/src/SiStripDetInfoFileReader.cc", 
+            "CalibTracker/SiStripESProducers/plugins/fake/SiStripBadModuleConfigurableFakeESSource.cc", 
+            "CalibTracker/SiStripESProducers/plugins/fake/SiStripQualityFakeESSource.cc", 
+            "CalibTracker/SiStripESProducers/plugins/fake/SiStripQualityFakeESSource.h", 
+            "CalibTracker/SiStripESProducers/plugins/real/SiStripGainESProducer.cc", 
+            "CalibTracker/SiStripESProducers/plugins/real/SiStripGainSimESProducer.cc", 
+            "CalibTracker/SiStripESProducers/plugins/real/SiStripQualityESProducer.cc", 
+            "CalibTracker/SiStripESProducers/src/SiStripQualityHelpers.cc", 
+            "CalibTracker/SiStripESProducers/test/testSiStripQualityESProducer.cc", 
+            "CalibTracker/SiStripHitEfficiency/plugins/SiStripHitEffFromCalibTree.cc", 
+            "CalibTracker/SiStripQuality/plugins/SiStripQualityHotStripIdentifier.cc", 
+            "CondCore/SiStripPlugins/plugins/SiStripBadStrip_PayloadInspector.cc", 
+            "DQM/SiStripMonitorSummary/plugins/SiStripCorrelateBadStripAndNoise.h", 
+            "DQMOffline/CalibTracker/plugins/SiStripQualityHotStripIdentifierRoot.cc", 
+            "OnlineDB/SiStripESSources/src/SiStripCondObjBuilderFromDb.cc", 
+            "RecoLocalTracker/SiStripClusterizer/test/ClusterizerUnitTesterESProducer.cc"
+        ], 
+        "created_at": 1622247153, 
+        "number": 33888, 
+        "state": "open", 
+        "updated_at": 1622247221
     }
 }
