@@ -5417,8 +5417,6 @@
         "changed_files_names": [
             "PhysicsTools/PatAlgos/python/producersLayer1/lowPtElectronProducer_cff.py", 
             "PhysicsTools/PatAlgos/python/selectionLayer1/lowPtElectronSelector_cfi.py", 
-            "PhysicsTools/PatAlgos/python/slimming/MicroEventContent_cff.py", 
-            "RecoEgamma/Configuration/python/RecoEgamma_EventContent_cff.py", 
             "RecoEgamma/EgammaElectronProducers/plugins/LowPtGsfElectronFinalizer.cc", 
             "RecoEgamma/EgammaElectronProducers/python/lowPtGsfElectronID_cff.py", 
             "RecoEgamma/EgammaElectronProducers/python/lowPtGsfElectronSequence_cff.py", 
@@ -5428,7 +5426,7 @@
         "created_at": 1619773292, 
         "number": 33589, 
         "state": "open", 
-        "updated_at": 1622471815
+        "updated_at": 1622478719
     }, 
     "33615": {
         "base_branch": "master", 
