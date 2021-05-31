@@ -6803,5 +6803,19 @@
         "number": 33920, 
         "state": "open", 
         "updated_at": 1622476878
+    }, 
+    "33922": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "PhysicsTools/PatAlgos/python/slimming/MicroEventContent_cff.py", 
+            "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py", 
+            "PhysicsTools/PatAlgos/python/slimming/offlineSlimmedPrimaryVerticesWithBS_cfi.py", 
+            "PhysicsTools/PatAlgos/python/slimming/primaryVertexAssociation_cfi.py", 
+            "PhysicsTools/PatAlgos/python/slimming/slimming_cff.py"
+        ], 
+        "created_at": 1622481895, 
+        "number": 33922, 
+        "state": "open", 
+        "updated_at": 1622481962
     }
 }
