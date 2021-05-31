@@ -6767,5 +6767,19 @@
         "number": 33916, 
         "state": "open", 
         "updated_at": 1622467238
+    }, 
+    "33918": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibCalorimetry/HcalAlgos/interface/HFRecalibration.h", 
+            "CalibCalorimetry/HcalAlgos/src/HFRecalibration.cc", 
+            "CalibCalorimetry/HcalPlugins/src/HcalHardcodeCalibrations.h", 
+            "DataFormats/HcalCalibObjects/BuildFile.xml", 
+            "SimCalorimetry/HcalSimProducers/interface/HcalDigitizer.h"
+        ], 
+        "created_at": 1622471653, 
+        "number": 33918, 
+        "state": "open", 
+        "updated_at": 1622471695
     }
 }
