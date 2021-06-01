@@ -5565,6 +5565,7 @@
     "33801": {
         "base_branch": "master", 
         "changed_files_names": [
+            "HeterogeneousCore/CUDAUtilities/interface/cudaCheck.h", 
             "HeterogeneousCore/SonicCore/src/SonicClientBase.cc", 
             "HeterogeneousCore/SonicTriton/BuildFile.xml", 
             "HeterogeneousCore/SonicTriton/README.md", 
@@ -5588,7 +5589,7 @@
         "created_at": 1621544180, 
         "number": 33801, 
         "state": "open", 
-        "updated_at": 1621894094
+        "updated_at": 1622582218
     }, 
     "33802": {
         "base_branch": "master", 
