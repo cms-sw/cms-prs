@@ -6828,5 +6828,21 @@
         "number": 33955, 
         "state": "open", 
         "updated_at": 1622658626
+    }, 
+    "33956": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondFormats/EcalObjects/interface/EcalMultifitParametersGPU.h", 
+            "CondFormats/EcalObjects/interface/EcalRecHitParametersGPU.h", 
+            "CondFormats/EcalObjects/interface/EcalSRSettings.h", 
+            "CondFormats/EcalObjects/src/EcalMultifitParametersGPU.cc", 
+            "CondFormats/EcalObjects/src/EcalRecHitParametersGPU.cc", 
+            "RecoLocalCalo/EcalRecProducers/plugins/EcalMultifitParametersGPUESProducer.cc", 
+            "RecoLocalCalo/EcalRecProducers/plugins/EcalRecHitParametersGPUESProducer.cc"
+        ], 
+        "created_at": 1622659216, 
+        "number": 33956, 
+        "state": "open", 
+        "updated_at": 1622659237
     }
 }
