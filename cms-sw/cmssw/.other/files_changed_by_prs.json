@@ -6053,14 +6053,17 @@
             "EventFilter/CSCRawToDigi/test/testCSCDigi2Raw_cfg.py", 
             "IORawData/CSCCommissioning/test/readFile_b904_Run3.py", 
             "L1Trigger/CSCTriggerPrimitives/plugins/CSCTriggerPrimitivesProducer.cc", 
+            "L1Trigger/CSCTriggerPrimitives/src/CSCCathodeLCTProcessor.cc", 
+            "L1Trigger/CSCTriggerPrimitives/test/CSCTriggerPrimitivesAnalyzer.cc", 
             "L1Trigger/CSCTriggerPrimitives/test/README.md", 
             "L1Trigger/CSCTriggerPrimitives/test/runCSCL1TDQMClient_cfg.py", 
+            "L1Trigger/CSCTriggerPrimitives/test/runCSCTriggerPrimitiveAnalyzer_cfg.py", 
             "L1Trigger/CSCTriggerPrimitives/test/runCSCTriggerPrimitiveProducer_cfg.py"
         ], 
         "created_at": 1622166799, 
         "number": 33876, 
         "state": "open", 
-        "updated_at": 1622658508
+        "updated_at": 1622682669
     }, 
     "33879": {
         "base_branch": "master", 
