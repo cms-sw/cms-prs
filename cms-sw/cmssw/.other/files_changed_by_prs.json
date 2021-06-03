@@ -5492,16 +5492,19 @@
             "SimTracker/Configuration/python/SimTracker_EventContent_cff.py", 
             "SimTracker/TrackAssociation/plugins/BuildFile.xml", 
             "SimTracker/TrackAssociation/plugins/DigiSimLinkPruner.cc", 
+            "SimTracker/TrackAssociation/plugins/MCTrackMatcher.cc", 
             "SimTracker/TrackAssociation/plugins/PackedCandidateGenAssociationProducer.cc", 
             "SimTracker/TrackAssociation/plugins/TrackingParticleSelectorByGen.cc", 
             "SimTracker/TrackAssociation/python/digiSimLinkPruner_cfi.py", 
+            "SimTracker/TrackAssociation/python/trackMCMatch_cfi.py", 
             "SimTracker/TrackAssociation/python/trackPrunedMCMatchTask_cff.py", 
-            "SimTracker/TrackAssociation/python/trackingParticlePrunerByGen_cfi.py"
+            "SimTracker/TrackAssociation/python/trackingParticlePrunerByGen_cfi.py", 
+            "SimTracker/TrackerHitAssociation/plugins/ClusterTPAssociationProducer.cc"
         ], 
         "created_at": 1621411420, 
         "number": 33774, 
         "state": "open", 
-        "updated_at": 1622714958
+        "updated_at": 1622751408
     }, 
     "33783": {
         "base_branch": "master", 
