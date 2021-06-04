@@ -6781,12 +6781,13 @@
     "33972": {
         "base_branch": "master", 
         "changed_files_names": [
-            "Configuration/EventContent/python/EventContent_cff.py"
+            "Configuration/EventContent/python/EventContent_cff.py", 
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py"
         ], 
         "created_at": 1622769379, 
         "number": 33972, 
         "state": "open", 
-        "updated_at": 1622769405
+        "updated_at": 1622786497
     }, 
     "33973": {
         "base_branch": "CMSSW_10_6_X", 
