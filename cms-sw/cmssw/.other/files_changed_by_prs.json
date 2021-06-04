@@ -6821,5 +6821,18 @@
         "number": 33972, 
         "state": "open", 
         "updated_at": 1622769405
+    }, 
+    "33973": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "SimG4Core/CustomPhysics/data/particle_darkphoton.txt", 
+            "SimG4Core/CustomPhysics/interface/CMSDarkPairProductionProcess.h", 
+            "SimG4Core/CustomPhysics/src/CMSDarkPairProductionProcess.cc", 
+            "SimG4Core/CustomPhysics/src/CustomPDGParser.cc"
+        ], 
+        "created_at": 1622770711, 
+        "number": 33973, 
+        "state": "open", 
+        "updated_at": 1622770738
     }
 }
