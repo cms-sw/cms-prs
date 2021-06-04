@@ -5464,8 +5464,6 @@
     "33759": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
-            "Configuration/Eras/python/Modifier_stage2L1Trigger_2018_cff.py", 
-            "Configuration/StandardSequences/python/Eras.py", 
             "PhysicsTools/NanoAOD/python/nanoDQM_cfi.py", 
             "PhysicsTools/NanoAOD/python/nano_eras_cff.py", 
             "PhysicsTools/NanoAOD/python/triggerObjects_cff.py", 
@@ -5478,7 +5476,7 @@
         "created_at": 1621280506, 
         "number": 33759, 
         "state": "open", 
-        "updated_at": 1622693572
+        "updated_at": 1622832432
     }, 
     "33774": {
         "base_branch": "master", 
