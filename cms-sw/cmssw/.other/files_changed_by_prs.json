@@ -6860,5 +6860,18 @@
         "number": 33984, 
         "state": "open", 
         "updated_at": 1622878736
+    }, 
+    "33985": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/Generator/python/TT_13TeV_Pow_Herwig7_cff.py", 
+            "Configuration/Generator/python/TTbar_Pow_LHE_13TeV_cff.py", 
+            "GeneratorInterface/LHEInterface/plugins/ExternalLHEProducer.cc", 
+            "GeneratorInterface/LHEInterface/scripts/mergeLHE.py"
+        ], 
+        "created_at": 1622891844, 
+        "number": 33985, 
+        "state": "open", 
+        "updated_at": 1622891890
     }
 }
