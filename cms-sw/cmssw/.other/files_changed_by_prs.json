@@ -6825,5 +6825,22 @@
         "number": 33985, 
         "state": "open", 
         "updated_at": 1622891890
+    }, 
+    "33987": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Validation/RecoEgamma/plugins/ElectronConversionRejectionValidator.cc", 
+            "Validation/RecoEgamma/plugins/ElectronMcSignalValidator.cc", 
+            "Validation/RecoEgamma/plugins/PhotonPostprocessing.cc", 
+            "Validation/RecoEgamma/plugins/PhotonValidator.cc", 
+            "Validation/RecoEgamma/plugins/PhotonValidator.h", 
+            "Validation/RecoEgamma/plugins/PhotonValidatorMiniAOD.cc", 
+            "Validation/RecoEgamma/plugins/TkConvValidator.cc", 
+            "Validation/RecoEgamma/plugins/TkConvValidator.h"
+        ], 
+        "created_at": 1622963385, 
+        "number": 33987, 
+        "state": "open", 
+        "updated_at": 1622963412
     }
 }
