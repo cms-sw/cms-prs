@@ -6818,15 +6818,9 @@
             "PhysicsTools/NanoAOD/python/nanoDQM_cff.py", 
             "PhysicsTools/NanoAOD/python/nanoDQM_cfi.py", 
             "PhysicsTools/NanoAOD/python/nano_cff.py", 
-            "PhysicsTools/PatAlgos/python/producersLayer1/lowPtElectronProducer_cff.py", 
-            "PhysicsTools/PatAlgos/python/selectionLayer1/lowPtElectronSelector_cfi.py", 
             "PhysicsTools/PatAlgos/python/slimming/slimmedLowPtElectrons_cfi.py", 
             "RecoEgamma/EgammaElectronProducers/interface/LowPtGsfElectronIDHeavyObjectCache.h", 
-            "RecoEgamma/EgammaElectronProducers/plugins/LowPtGsfElectronFinalizer.cc", 
             "RecoEgamma/EgammaElectronProducers/plugins/LowPtGsfElectronIDProducer.cc", 
-            "RecoEgamma/EgammaElectronProducers/python/lowPtGsfElectronID_cff.py", 
-            "RecoEgamma/EgammaElectronProducers/python/lowPtGsfElectronSequence_cff.py", 
-            "RecoEgamma/EgammaElectronProducers/python/lowPtGsfElectronsPreRegression_cfi.py", 
             "RecoEgamma/EgammaElectronProducers/python/lowPtGsfElectrons_cff.py", 
             "RecoEgamma/EgammaElectronProducers/src/LowPtGsfElectronFeatures.cc", 
             "RecoEgamma/EgammaElectronProducers/src/LowPtGsfElectronIDHeavyObjectCache.cc", 
@@ -6840,7 +6834,7 @@
         "created_at": 1623013273, 
         "number": 33992, 
         "state": "open", 
-        "updated_at": 1623054665
+        "updated_at": 1623054870
     }, 
     "33994": {
         "base_branch": "CMSSW_11_2_X", 
