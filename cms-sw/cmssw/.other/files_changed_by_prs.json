@@ -6828,7 +6828,6 @@
             "RecoEgamma/EgammaElectronProducers/python/lowPtGsfElectronSequence_cff.py", 
             "RecoEgamma/EgammaElectronProducers/python/lowPtGsfElectronsPreRegression_cfi.py", 
             "RecoEgamma/EgammaElectronProducers/python/lowPtGsfElectrons_cff.py", 
-            "RecoEgamma/EgammaElectronProducers/python/lowPtGsfElectrons_cfi.py", 
             "RecoEgamma/EgammaElectronProducers/src/LowPtGsfElectronFeatures.cc", 
             "RecoEgamma/EgammaElectronProducers/src/LowPtGsfElectronIDHeavyObjectCache.cc", 
             "RecoEgamma/EgammaTools/BuildFile.xml", 
@@ -6841,7 +6840,7 @@
         "created_at": 1623013273, 
         "number": 33992, 
         "state": "open", 
-        "updated_at": 1623013297
+        "updated_at": 1623054665
     }, 
     "33994": {
         "base_branch": "CMSSW_11_2_X", 
