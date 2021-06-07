@@ -5324,22 +5324,6 @@
         "state": "open", 
         "updated_at": 1622829047
     }, 
-    "33589": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "PhysicsTools/PatAlgos/python/producersLayer1/lowPtElectronProducer_cff.py", 
-            "PhysicsTools/PatAlgos/python/selectionLayer1/lowPtElectronSelector_cfi.py", 
-            "RecoEgamma/EgammaElectronProducers/plugins/LowPtGsfElectronFinalizer.cc", 
-            "RecoEgamma/EgammaElectronProducers/python/lowPtGsfElectronID_cff.py", 
-            "RecoEgamma/EgammaElectronProducers/python/lowPtGsfElectronSequence_cff.py", 
-            "RecoEgamma/EgammaElectronProducers/python/lowPtGsfElectronsPreRegression_cfi.py", 
-            "RecoEgamma/EgammaElectronProducers/python/lowPtGsfElectrons_cff.py"
-        ], 
-        "created_at": 1619773292, 
-        "number": 33589, 
-        "state": "open", 
-        "updated_at": 1622983603
-    }, 
     "33622": {
         "base_branch": "master", 
         "changed_files_names": [
