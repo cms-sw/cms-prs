@@ -4090,5 +4090,16 @@
         "number": 34007, 
         "state": "open", 
         "updated_at": 1623121184
+    }, 
+    "34008": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "PhysicsTools/PatAlgos/python/slimming/MicroEventContent_cff.py", 
+            "PhysicsTools/PatAlgos/python/slimming/slimmedTrackExtras_cff.py"
+        ], 
+        "created_at": 1623129184, 
+        "number": 34008, 
+        "state": "open", 
+        "updated_at": 1623129248
     }
 }
