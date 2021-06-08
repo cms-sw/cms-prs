@@ -3728,35 +3728,6 @@
         "state": "open", 
         "updated_at": 1622953509
     }, 
-    "33974": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/CSCDigi/interface/CSCConstants.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCALCTCrossCLCT.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCAnodeLCTProcessor.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCCathodeLCTProcessor.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCGEMMatcher.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCTriggerPrimitivesBuilder.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/ComparatorCodeLUT.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/GEMInternalCluster.h", 
-            "L1Trigger/CSCTriggerPrimitives/plugins/CSCTriggerPrimitivesProducer.cc", 
-            "L1Trigger/CSCTriggerPrimitives/plugins/CSCTriggerPrimitivesProducer.h", 
-            "L1Trigger/CSCTriggerPrimitives/python/params/tmbParams.py", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCALCTCrossCLCT.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCAnodeLCTProcessor.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCCathodeLCTProcessor.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCGEMMatcher.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCTriggerPrimitivesBuilder.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCUpgradeCathodeLCTProcessor.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCUpgradeMotherboard.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/ComparatorCodeLUT.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/GEMInternalCluster.cc"
-        ], 
-        "created_at": 1622773385, 
-        "number": 33974, 
-        "state": "open", 
-        "updated_at": 1623056037
-    }, 
     "33976": {
         "base_branch": "CMSSW_11_2_X", 
         "changed_files_names": [
