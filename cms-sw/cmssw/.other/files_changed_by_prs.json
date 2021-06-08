@@ -3890,33 +3890,6 @@
         "state": "open", 
         "updated_at": 1623051448
     }, 
-    "33992": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "DataFormats/EgammaCandidates/interface/GsfElectron.h", 
-            "DataFormats/EgammaCandidates/src/GsfElectron.cc", 
-            "PhysicsTools/NanoAOD/python/lowPtElectrons_cff.py", 
-            "PhysicsTools/NanoAOD/python/nanoDQM_cff.py", 
-            "PhysicsTools/NanoAOD/python/nanoDQM_cfi.py", 
-            "PhysicsTools/NanoAOD/python/nano_cff.py", 
-            "PhysicsTools/PatAlgos/python/slimming/slimmedLowPtElectrons_cfi.py", 
-            "RecoEgamma/EgammaElectronProducers/interface/LowPtGsfElectronIDHeavyObjectCache.h", 
-            "RecoEgamma/EgammaElectronProducers/plugins/LowPtGsfElectronIDProducer.cc", 
-            "RecoEgamma/EgammaElectronProducers/python/lowPtGsfElectrons_cff.py", 
-            "RecoEgamma/EgammaElectronProducers/src/LowPtGsfElectronFeatures.cc", 
-            "RecoEgamma/EgammaElectronProducers/src/LowPtGsfElectronIDHeavyObjectCache.cc", 
-            "RecoEgamma/EgammaTools/BuildFile.xml", 
-            "RecoEgamma/EgammaTools/interface/LowPtConversion.h", 
-            "RecoEgamma/EgammaTools/plugins/EGRegressionModifierV3.cc", 
-            "RecoEgamma/EgammaTools/plugins/LowPtElectronsModifier.cc", 
-            "RecoEgamma/EgammaTools/python/lowPtElectronModifier_cfi.py", 
-            "RecoEgamma/EgammaTools/src/LowPtConversion.cc"
-        ], 
-        "created_at": 1623013273, 
-        "number": 33992, 
-        "state": "open", 
-        "updated_at": 1623069422
-    }, 
     "33994": {
         "base_branch": "CMSSW_11_2_X", 
         "changed_files_names": [
