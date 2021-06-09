@@ -3518,13 +3518,17 @@
             "Validation/RecoEgamma/plugins/ElectronMcFakeValidator.cc", 
             "Validation/RecoEgamma/plugins/ElectronMcMiniAODSignalValidator.cc", 
             "Validation/RecoEgamma/plugins/ElectronMcSignalValidator.cc", 
+            "Validation/RecoEgamma/plugins/PhotonPostprocessing.cc", 
+            "Validation/RecoEgamma/plugins/PhotonValidator.cc", 
+            "Validation/RecoEgamma/plugins/PhotonValidator.h", 
+            "Validation/RecoEgamma/plugins/PhotonValidatorMiniAOD.cc", 
             "Validation/RecoEgamma/plugins/TkConvValidator.cc", 
             "Validation/RecoEgamma/plugins/TkConvValidator.h"
         ], 
         "created_at": 1623055075, 
         "number": 33997, 
         "state": "open", 
-        "updated_at": 1623190488
+        "updated_at": 1623218183
     }, 
     "33999": {
         "base_branch": "master", 
