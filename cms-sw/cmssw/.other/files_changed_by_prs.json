@@ -2736,6 +2736,8 @@
     "33774": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/relval_standard.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
             "Configuration/StandardSequences/python/Digi_cff.py", 
             "Configuration/StandardSequences/python/RecoSim_cff.py", 
             "PhysicsTools/PatAlgos/python/slimming/MicroEventContent_cff.py", 
@@ -2757,7 +2759,7 @@
         "created_at": 1621411420, 
         "number": 33774, 
         "state": "open", 
-        "updated_at": 1623189470
+        "updated_at": 1623249137
     }, 
     "33801": {
         "base_branch": "master", 
