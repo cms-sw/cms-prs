@@ -4239,5 +4239,41 @@
         "number": 34081, 
         "state": "open", 
         "updated_at": 1623322821
+    }, 
+    "34082": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibTracker/Records/interface/SiStripDependentRecords.h", 
+            "CalibTracker/Records/src/SiStripDependentRecords.cc", 
+            "CalibTracker/SiStripESProducers/BuildFile.xml", 
+            "CalibTracker/SiStripESProducers/interface/SiStripQualityHelpers.h", 
+            "CalibTracker/SiStripESProducers/plugins/BuildFile.xml", 
+            "CalibTracker/SiStripESProducers/plugins/real/SiStripQualityESProducer.cc", 
+            "CalibTracker/SiStripESProducers/src/SiStripQualityHelpers.cc", 
+            "CalibTracker/SiStripESProducers/test/fedBadChannelFromNoiseRun_cfg.py", 
+            "CalibTracker/SiStripESProducers/test/mergeBadChannel_cfg.py", 
+            "CalibTracker/SiStripQuality/BuildFile.xml", 
+            "CalibTracker/SiStripQuality/interface/SiStripQualityWithFromFedErrorsHelper.h", 
+            "CalibTracker/SiStripQuality/plugins/SiStripBadStripFromQualityDBWriter.cc", 
+            "CalibTracker/SiStripQuality/plugins/SiStripQualityStatistics.cc", 
+            "CalibTracker/SiStripQuality/plugins/SiStripQualityStatistics.h", 
+            "CalibTracker/SiStripQuality/src/SiStripQualityWithFromFedErrorsHelper.cc", 
+            "CalibTracker/SiStripQuality/test/BuildFile.xml", 
+            "CalibTracker/SiStripQuality/test/TestDriver.cpp", 
+            "CalibTracker/SiStripQuality/test/cfg/getRunStartTime.py", 
+            "CalibTracker/SiStripQuality/test/cfg/makeMergeBadComponentPayload_example_cfg.py", 
+            "CalibTracker/SiStripQuality/test/test_makeMergedBadComponentsWithFedErr.sh", 
+            "DQM/SiStripMonitorClient/plugins/BuildFile.xml", 
+            "DQM/SiStripMonitorClient/plugins/SiStripBadComponentInfo.cc", 
+            "DQM/SiStripMonitorClient/plugins/SiStripBadComponentInfo.h", 
+            "DQM/SiStripMonitorClient/python/SiStripClientConfig_Tier0_Cosmic_cff.py", 
+            "DQM/SiStripMonitorClient/python/SiStripClientConfig_Tier0_HeavyIons_cff.py", 
+            "DQM/SiStripMonitorClient/python/SiStripClientConfig_Tier0_cff.py", 
+            "DQM/SiStripMonitorClient/test/mergeBadChannel_Template_cfg.py"
+        ], 
+        "created_at": 1623323028, 
+        "number": 34082, 
+        "state": "open", 
+        "updated_at": 1623323066
     }
 }
