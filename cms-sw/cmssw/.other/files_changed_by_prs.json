@@ -2970,14 +2970,16 @@
             "Validation/SiTrackerPhase2V/plugins/Phase2OTValidateCluster.cc", 
             "Validation/SiTrackerPhase2V/plugins/Phase2OTValidateRecHit.cc", 
             "Validation/SiTrackerPhase2V/plugins/Phase2OTValidateTrackingRecHit.cc", 
+            "Validation/SiTrackerPhase2V/python/Phase2OTValidateTrackingRecHit_cff.py", 
             "Validation/SiTrackerPhase2V/python/Phase2TrackerMCHarvesting_cff.py", 
+            "Validation/SiTrackerPhase2V/python/Phase2TrackerValidationFirstStep_cff.py", 
             "Validation/SiTrackerPhase2V/src/Phase2ITValidateRecHitBase.cc", 
             "Validation/SiTrackerPhase2V/src/Phase2OTValidateRecHitBase.cc"
         ], 
         "created_at": 1622111910, 
         "number": 33863, 
         "state": "open", 
-        "updated_at": 1623225266
+        "updated_at": 1623389789
     }, 
     "33864": {
         "base_branch": "master", 
