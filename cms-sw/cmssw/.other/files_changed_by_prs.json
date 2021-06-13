@@ -2772,15 +2772,6 @@
             "RecoTracker/IterativeTracking/python/TobTecStep_cff.py", 
             "RecoTracker/MkFit/BuildFile.xml", 
             "RecoTracker/MkFit/README.md", 
-            "RecoTracker/MkFit/data/mkfit-phase1-detachedQuadStep.json", 
-            "RecoTracker/MkFit/data/mkfit-phase1-detachedTripletStep.json", 
-            "RecoTracker/MkFit/data/mkfit-phase1-highPtTripletStep.json", 
-            "RecoTracker/MkFit/data/mkfit-phase1-initialStep.json", 
-            "RecoTracker/MkFit/data/mkfit-phase1-lowPtQuadStep.json", 
-            "RecoTracker/MkFit/data/mkfit-phase1-lowPtTripletStep.json", 
-            "RecoTracker/MkFit/data/mkfit-phase1-mixedTripletStep.json", 
-            "RecoTracker/MkFit/data/mkfit-phase1-pixelLessStep.json", 
-            "RecoTracker/MkFit/data/mkfit-phase1-tobTecStep.json", 
             "RecoTracker/MkFit/interface/MkFitClusterIndexToHit.h", 
             "RecoTracker/MkFit/interface/MkFitEventOfHits.h", 
             "RecoTracker/MkFit/interface/MkFitGeometry.h", 
@@ -2824,7 +2815,7 @@
         "created_at": 1621551067, 
         "number": 33802, 
         "state": "open", 
-        "updated_at": 1623427955
+        "updated_at": 1623584360
     }, 
     "33818": {
         "base_branch": "master", 
