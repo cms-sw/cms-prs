@@ -3402,34 +3402,6 @@
         "state": "open", 
         "updated_at": 1623425188
     }, 
-    "33996": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "Configuration/PyReleaseValidation/python/relval_standard.py", 
-            "Configuration/PyReleaseValidation/python/relval_steps.py", 
-            "Configuration/StandardSequences/python/Digi_cff.py", 
-            "Configuration/StandardSequences/python/RecoSim_cff.py", 
-            "PhysicsTools/PatAlgos/python/slimming/MicroEventContent_cff.py", 
-            "PhysicsTools/PatAlgos/python/slimming/genParticleAssociation_cff.py", 
-            "PhysicsTools/PatAlgos/python/slimming/slimming_cff.py", 
-            "SimTracker/Configuration/python/SimTrackerLinks_cff.py", 
-            "SimTracker/Configuration/python/SimTracker_EventContent_cff.py", 
-            "SimTracker/TrackAssociation/plugins/BuildFile.xml", 
-            "SimTracker/TrackAssociation/plugins/DigiSimLinkPruner.cc", 
-            "SimTracker/TrackAssociation/plugins/MCTrackMatcher.cc", 
-            "SimTracker/TrackAssociation/plugins/PackedCandidateGenAssociationProducer.cc", 
-            "SimTracker/TrackAssociation/plugins/TrackingParticleSelectorByGen.cc", 
-            "SimTracker/TrackAssociation/python/digiSimLinkPruner_cfi.py", 
-            "SimTracker/TrackAssociation/python/trackMCMatch_cfi.py", 
-            "SimTracker/TrackAssociation/python/trackPrunedMCMatchTask_cff.py", 
-            "SimTracker/TrackAssociation/python/trackingParticlePrunerByGen_cfi.py", 
-            "SimTracker/TrackerHitAssociation/plugins/ClusterTPAssociationProducer.cc"
-        ], 
-        "created_at": 1623053817, 
-        "number": 33996, 
-        "state": "open", 
-        "updated_at": 1623431120
-    }, 
     "33999": {
         "base_branch": "master", 
         "changed_files_names": [
