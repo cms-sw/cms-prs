@@ -3852,15 +3852,12 @@
             "Geometry/TrackerGeometryBuilder/test/python/testTrackerMap_cfg.py", 
             "Geometry/TrackerNumberingBuilder/interface/GeometricDet.h", 
             "Geometry/TrackerNumberingBuilder/src/GeometricDet.cc", 
-            "HLTrigger/Configuration/test/OnLine_HLT_GRun.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_HIon.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_PIon.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_PRef.py"
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py"
         ], 
         "created_at": 1623694446, 
         "number": 34120, 
         "state": "open", 
-        "updated_at": 1623766367
+        "updated_at": 1623777776
     }, 
     "34121": {
         "base_branch": "master", 
