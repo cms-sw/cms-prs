@@ -3688,31 +3688,6 @@
         "state": "open", 
         "updated_at": 1623669732
     }, 
-    "34114": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalwaferP-algorithm.xml", 
-            "Geometry/HGCalCommonData/data/hgcalwafer/v15/hgcalwafer.xml", 
-            "Geometry/HGCalCommonData/data/hgcalwafer/v15f/hgcalwafer.xml", 
-            "Geometry/HGCalCommonData/data/hgcalwafer/v15p/hgcalwafer.xml", 
-            "Geometry/HGCalCommonData/data/hgcalwafer/v16/hgcal.xml", 
-            "Geometry/HGCalCommonData/data/hgcalwafer/v16/hgcalwafer.xml", 
-            "Geometry/HGCalCommonData/data/hgcalwafer/v16p/hgcal.xml", 
-            "Geometry/HGCalCommonData/data/hgcalwafer/v16p/hgcalpos.xml", 
-            "Geometry/HGCalCommonData/data/hgcalwafer/v16p/hgcalwafer.xml", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalWaferF.cc", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalWaferP.cc", 
-            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalWaferF.cc", 
-            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalWaferP.cc", 
-            "Geometry/HGCalCommonData/python/testHGCV16XML_cfi.py", 
-            "Geometry/HGCalCommonData/python/testHGCalWaferPXML_cfi.py", 
-            "Geometry/HGCalCommonData/test/HGCalConvert.cpp"
-        ], 
-        "created_at": 1623675709, 
-        "number": 34114, 
-        "state": "open", 
-        "updated_at": 1623675751
-    }, 
     "34115": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
