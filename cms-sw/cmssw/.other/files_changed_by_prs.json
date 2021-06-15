@@ -2689,32 +2689,6 @@
         "state": "open", 
         "updated_at": 1623304796
     }, 
-    "33695": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/SiStripDetSetCompressedCluster/BuildFile.xml", 
-            "DataFormats/SiStripDetSetCompressedCluster/interface/SiStripDetSetCompressedCluster.h", 
-            "DataFormats/SiStripDetSetCompressedCluster/src/SiStripDetSetCompressedCluster.cc", 
-            "DataFormats/SiStripDetSetCompressedCluster/src/classes.h", 
-            "DataFormats/SiStripDetSetCompressedCluster/src/classes_def.xml", 
-            "RecoLocalTracker/SiStripDataCompressor/BuildFile.xml", 
-            "RecoLocalTracker/SiStripDataCompressor/data/model.dat", 
-            "RecoLocalTracker/SiStripDataCompressor/include/anlz4cmssw.h", 
-            "RecoLocalTracker/SiStripDataCompressor/interface/SiStripCompressionAlgorithm.h", 
-            "RecoLocalTracker/SiStripDataCompressor/lib/libanlz4cmssw.a", 
-            "RecoLocalTracker/SiStripDataCompressor/lib/libanlz4cmssw.so", 
-            "RecoLocalTracker/SiStripDataCompressor/plugins/BuildFile.xml", 
-            "RecoLocalTracker/SiStripDataCompressor/plugins/SiStripDataCompressor.cc", 
-            "RecoLocalTracker/SiStripDataCompressor/src/SiStripCompressionAlgorithm.cc", 
-            "RecoLocalTracker/SiStripDataCompressor/test/step2_RAW2DIGI_L1Reco_RECO_DataCompressor.py", 
-            "RecoLocalTracker/SiStripDataCompressor/test/step2_RAW2DIGI_L1Reco_RECO_DataCompressor_streamerOutput.py", 
-            "RecoLocalTracker/SiStripDataCompressor/test/tool.xml"
-        ], 
-        "created_at": 1620738221, 
-        "number": 33695, 
-        "state": "open", 
-        "updated_at": 1623226504
-    }, 
     "33801": {
         "base_branch": "master", 
         "changed_files_names": [
