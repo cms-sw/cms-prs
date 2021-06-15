@@ -3547,34 +3547,6 @@
         "state": "open", 
         "updated_at": 1623652065
     }, 
-    "34071": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondCore/SiPixelPlugins/interface/SiPixelGainCalibHelper.h", 
-            "CondCore/SiPixelPlugins/interface/SiPixelPayloadInspectorHelper.h", 
-            "CondCore/SiPixelPlugins/plugins/SiPixelFEDChannelContainer_PayloadInspector.cc", 
-            "CondCore/SiPixelPlugins/plugins/SiPixelGainCalibrationForHLT_PayloadInspector.cc", 
-            "CondCore/SiPixelPlugins/plugins/SiPixelGainCalibrationOffline_PayloadInspector.cc", 
-            "CondCore/SiPixelPlugins/plugins/SiPixelLorentzAngle_PayloadInspector.cc", 
-            "CondCore/SiPixelPlugins/plugins/SiPixelQuality_PayloadInspector.cc", 
-            "CondCore/SiPixelPlugins/test/SiPixelGainCalibrationComparator_DB.sh", 
-            "CondCore/SiPixelPlugins/test/test.sh", 
-            "CondCore/SiPixelPlugins/test/testLorentzAngleMap.sh", 
-            "CondCore/SiPixelPlugins/test/testMiscellanea.sh", 
-            "CondCore/SiPixelPlugins/test/testSiPixelGainCalibrationForHLT.sh", 
-            "CondCore/SiPixelPlugins/test/testSiPixelGainCalibrationOffline.sh", 
-            "CondCore/SiPixelPlugins/test/testSiPixelLorentzAngle.sh", 
-            "CondCore/SiPixelPlugins/test/testSiPixelQuality.sh", 
-            "CondCore/SiPixelPlugins/test/testSiPixelQualityMap.sh", 
-            "CondCore/SiPixelPlugins/test/testSiPixelTemplateDBObject.sh", 
-            "DQM/TrackerRemapper/interface/Phase1PixelROCMaps.h", 
-            "DQM/TrackerRemapper/src/Phase1PixelROCMaps.cc"
-        ], 
-        "created_at": 1623267860, 
-        "number": 34071, 
-        "state": "open", 
-        "updated_at": 1623318453
-    }, 
     "34082": {
         "base_branch": "master", 
         "changed_files_names": [
