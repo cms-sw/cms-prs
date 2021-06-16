@@ -4059,5 +4059,27 @@
         "number": 34159, 
         "state": "open", 
         "updated_at": 1623849044
+    }, 
+    "34160": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DetectorDescription/Core/interface/DDSolid.h", 
+            "DetectorDescription/Core/interface/DDSolidShapes.h", 
+            "DetectorDescription/Core/interface/Store.h", 
+            "DetectorDescription/Core/python/test/DDAssemblyXML_cfi.py", 
+            "DetectorDescription/Core/src/Assembly.cc", 
+            "DetectorDescription/Core/src/Assembly.h", 
+            "DetectorDescription/Core/src/DDSolid.cc", 
+            "DetectorDescription/Core/test/data/assembly.xml", 
+            "DetectorDescription/Core/test/python/testDDAssembly.py", 
+            "DetectorDescription/Parser/src/DDLAssembly.cc", 
+            "DetectorDescription/Parser/src/DDLAssembly.h", 
+            "DetectorDescription/Parser/src/DDLElementRegistry.cc", 
+            "DetectorDescription/Parser/test/testSolids.xml"
+        ], 
+        "created_at": 1623850545, 
+        "number": 34160, 
+        "state": "open", 
+        "updated_at": 1623850566
     }
 }
