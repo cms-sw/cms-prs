@@ -3766,19 +3766,22 @@
             "RecoEgamma/EgammaTools/interface/MVAValueMapProducer.h", 
             "RecoMuon/MuonIdentification/plugins/MuonSelectionTypeValueMapProducer.h", 
             "RecoParticleFlow/PFClusterProducer/plugins/SimMappers/RealisticHitToClusterAssociator.h", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernelsAlloc.cc", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernelsAlloc.cu", 
             "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernelsAlloc.h", 
             "RecoPixelVertexing/PixelVertexFinding/interface/FindPeakFastPV.h", 
             "RecoTracker/ConversionSeedGenerators/plugins/Conv4HitsReco.h", 
             "RecoTracker/DebugTools/plugins/GluedDetFromDetUnit.h", 
             "RecoVertex/AdaptiveVertexFinder/interface/TrackVertexArbitration.h", 
             "RecoVertex/AdaptiveVertexFinder/plugins/TemplatedVertexArbitrator.h", 
+            "TrackingTools/AnalyticalJacobians/src/AnalyticalCurvilinearJacobianEXT.icc", 
             "TrackingTools/AnalyticalJacobians/src/AnalyticalCurvilinearJacobianSSE.icc", 
             "TrackingTools/TrackFitters/plugins/KFFittingSmoother.h"
         ], 
         "created_at": 1623760002, 
         "number": 34140, 
         "state": "open", 
-        "updated_at": 1623760038
+        "updated_at": 1623852352
     }, 
     "34142": {
         "base_branch": "master", 
