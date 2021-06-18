@@ -3878,6 +3878,11 @@
             "FWCore/MessageService/test/UnitTestClient_Nd.h", 
             "FWCore/MessageService/test/UnitTestClient_Vd.cc", 
             "FWCore/MessageService/test/standAloneTest.cpp", 
+            "FWCore/MessageService/test/unit_test_outputs/standAloneWithMessageLogger.cerr", 
+            "FWCore/MessageService/test/unit_test_outputs/u13d_debugs.log", 
+            "FWCore/MessageService/test/unit_test_outputs/u16_altDebugs.mmlog", 
+            "FWCore/MessageService/test/unit_test_outputs/u1d_debugs.log", 
+            "FWCore/MessageService/test/unit_test_outputs/u33d_all.log", 
             "Geometry/HcalAlgo/plugins/DDHCalTestBeamAlgo.cc", 
             "Geometry/HcalCommonData/test/HcalRecNumberingTester.cc", 
             "Geometry/HcalTestBeamData/plugins/HcalTB02ParametersESModule.cc", 
@@ -3892,7 +3897,7 @@
         "created_at": 1624013581, 
         "number": 34180, 
         "state": "open", 
-        "updated_at": 1624013628
+        "updated_at": 1624029127
     }, 
     "34181": {
         "base_branch": "master", 
