@@ -3937,5 +3937,19 @@
         "number": 34175, 
         "state": "open", 
         "updated_at": 1623992338
+    }, 
+    "34176": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "GeneratorInterface/Core/interface/ConcurrentGeneratorFilter.h", 
+            "GeneratorInterface/Core/test/Pythia8ConcurrentGeneratorFilter_WZ_TuneCP5_13TeV-pythia8_cfg.py", 
+            "GeneratorInterface/Pythia8Interface/plugins/Pythia8Hadronizer.cc", 
+            "GeneratorInterface/Pythia8Interface/test/BuildFile.xml", 
+            "GeneratorInterface/Pythia8Interface/test/test_Pythia8ConcurrentGeneratorFilter_WZ_TuneCP5_13TeV-pythia8.sh"
+        ], 
+        "created_at": 1624001601, 
+        "number": 34176, 
+        "state": "open", 
+        "updated_at": 1624001627
     }
 }
