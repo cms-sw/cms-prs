@@ -3807,6 +3807,7 @@
         "base_branch": "master", 
         "changed_files_names": [
             "DQM/BeamMonitor/python/BeamMonitor_Pixel_cff.py", 
+            "DQM/BeamMonitor/python/BeamMonitor_cff.py", 
             "DQM/CSCMonitorModule/python/csc_dqm_sourceclient_cfi.py", 
             "DQM/Integration/python/clients/beam_dqm_sourceclient-live_cfg.py", 
             "DQM/Integration/python/clients/beamfake_dqm_sourceclient-live_cfg.py", 
@@ -3848,6 +3849,7 @@
             "DQM/Integration/python/config/visualizationPreFilter.py", 
             "DQM/PixelLumi/python/PixelLumiDQM_cfi.py", 
             "DQM/SiStripMonitorClient/python/SiStripClientConfigP5_cff.py", 
+            "DQM/SiStripMonitorClient/python/SiStripClientConfig_Tier0_cff.py", 
             "DQM/SiStripMonitorClient/python/SiStripSourceConfigP5_cff.py", 
             "DQM/TrackingMonitorClient/python/TrackingClientConfigP5_cff.py", 
             "DQM/TrackingMonitorSource/python/TrackingSourceConfigP5_cff.py"
@@ -3855,7 +3857,7 @@
         "created_at": 1623943891, 
         "number": 34170, 
         "state": "open", 
-        "updated_at": 1623943914
+        "updated_at": 1623999874
     }, 
     "34171": {
         "base_branch": "master", 
