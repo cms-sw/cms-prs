@@ -2635,37 +2635,6 @@
         "state": "open", 
         "updated_at": 1623304796
     }, 
-    "33801": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "HeterogeneousCore/CUDAUtilities/interface/cudaCheck.h", 
-            "HeterogeneousCore/SonicCore/src/SonicClientBase.cc", 
-            "HeterogeneousCore/SonicTriton/BuildFile.xml", 
-            "HeterogeneousCore/SonicTriton/README.md", 
-            "HeterogeneousCore/SonicTriton/interface/TritonClient.h", 
-            "HeterogeneousCore/SonicTriton/interface/TritonData.h", 
-            "HeterogeneousCore/SonicTriton/interface/TritonException.h", 
-            "HeterogeneousCore/SonicTriton/interface/TritonMemResource.h", 
-            "HeterogeneousCore/SonicTriton/interface/TritonService.h", 
-            "HeterogeneousCore/SonicTriton/interface/triton_utils.h", 
-            "HeterogeneousCore/SonicTriton/scripts/cmsTriton", 
-            "HeterogeneousCore/SonicTriton/src/TritonClient.cc", 
-            "HeterogeneousCore/SonicTriton/src/TritonData.cc", 
-            "HeterogeneousCore/SonicTriton/src/TritonException.cc", 
-            "HeterogeneousCore/SonicTriton/src/TritonMemResource.cc", 
-            "HeterogeneousCore/SonicTriton/src/TritonService.cc", 
-            "HeterogeneousCore/SonicTriton/src/triton_utils.cc", 
-            "HeterogeneousCore/SonicTriton/test/BuildFile.xml", 
-            "HeterogeneousCore/SonicTriton/test/TritonGraphModules.cc", 
-            "HeterogeneousCore/SonicTriton/test/TritonImageProducer.cc", 
-            "HeterogeneousCore/SonicTriton/test/tritonTest_cfg.py", 
-            "HeterogeneousCore/SonicTriton/test/unittest.sh"
-        ], 
-        "created_at": 1621544180, 
-        "number": 33801, 
-        "state": "open", 
-        "updated_at": 1623399056
-    }, 
     "33818": {
         "base_branch": "master", 
         "changed_files_names": [
