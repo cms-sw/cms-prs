@@ -2774,33 +2774,6 @@
         "state": "open", 
         "updated_at": 1623336047
     }, 
-    "33889": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CUDADataFormats/Track/interface/TrackSoAHeterogeneousT.h", 
-            "CUDADataFormats/Track/test/BuildFile.xml", 
-            "CUDADataFormats/Track/test/TrackSoAHeterogeneous_t.cpp", 
-            "DQM/TrackingMonitorSource/python/pixelTracksMonitoring_cff.py", 
-            "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackProducer.cc", 
-            "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackProducer.h", 
-            "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackProducerFromSoA.cc", 
-            "RecoPixelVertexing/PixelTrackFitting/plugins/SealModule.cc", 
-            "RecoPixelVertexing/PixelTrackFitting/plugins/storeTracks.h", 
-            "RecoPixelVertexing/PixelTrackFitting/src/PixelTrackReconstruction.cc", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.cc", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.cu", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.h", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernelsImpl.h", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorOnGPU.cc", 
-            "RecoPixelVertexing/PixelVertexFinding/plugins/gpuVertexFinder.cc", 
-            "Validation/RecoTrack/plugins/MultiTrackValidator.cc", 
-            "Validation/RecoTrack/python/TrackValidation_cff.py"
-        ], 
-        "created_at": 1622269915, 
-        "number": 33889, 
-        "state": "open", 
-        "updated_at": 1623327122
-    }, 
     "33928": {
         "base_branch": "master", 
         "changed_files_names": [
