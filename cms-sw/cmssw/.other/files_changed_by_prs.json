@@ -3527,18 +3527,22 @@
             "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernelsAlloc.cu", 
             "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernelsAlloc.h", 
             "RecoPixelVertexing/PixelVertexFinding/interface/FindPeakFastPV.h", 
+            "RecoTracker/ConversionSeedGenerators/plugins/Conv4HitsReco.cc", 
             "RecoTracker/ConversionSeedGenerators/plugins/Conv4HitsReco.h", 
+            "RecoTracker/DebugTools/plugins/CkfDebugger.cc", 
             "RecoTracker/DebugTools/plugins/GluedDetFromDetUnit.h", 
             "RecoVertex/AdaptiveVertexFinder/interface/TrackVertexArbitration.h", 
             "RecoVertex/AdaptiveVertexFinder/plugins/TemplatedVertexArbitrator.h", 
+            "RecoVertex/AdaptiveVertexFinder/plugins/VertexArbitrators.cc", 
             "TrackingTools/AnalyticalJacobians/src/AnalyticalCurvilinearJacobianEXT.icc", 
             "TrackingTools/AnalyticalJacobians/src/AnalyticalCurvilinearJacobianSSE.icc", 
-            "TrackingTools/TrackFitters/plugins/KFFittingSmoother.h"
+            "TrackingTools/TrackFitters/plugins/KFFittingSmoother.h", 
+            "TrackingTools/TrackFitters/plugins/KFFittingSmootherESProducer.h"
         ], 
         "created_at": 1623760002, 
         "number": 34140, 
         "state": "open", 
-        "updated_at": 1624076086
+        "updated_at": 1624281866
     }, 
     "34151": {
         "base_branch": "master", 
