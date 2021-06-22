@@ -3587,13 +3587,15 @@
             "DQM/L1TMonitor/src/L1TdeRCT.cc", 
             "DQMOffline/CalibCalo/src/DQMSourcePi0.cc", 
             "DQMOffline/CalibCalo/src/DQMSourcePi0.h", 
+            "DQMOffline/L1Trigger/interface/L1TTauOffline.h", 
+            "DQMOffline/L1Trigger/src/L1TTauOffline.cc", 
             "DQMOffline/Trigger/interface/EgHLTOffHelper.h", 
             "DQMOffline/Trigger/src/EgHLTOffHelper.cc"
         ], 
         "created_at": 1624361957, 
         "number": 34208, 
         "state": "open", 
-        "updated_at": 1624362003
+        "updated_at": 1624376848
     }, 
     "34209": {
         "base_branch": "master", 
