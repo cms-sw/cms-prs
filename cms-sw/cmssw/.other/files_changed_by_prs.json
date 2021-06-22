@@ -2528,35 +2528,6 @@
         "state": "open", 
         "updated_at": 1623929897
     }, 
-    "33583": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/CommonAlignmentAlgorithm/interface/AlignmentAlgorithmBase.h", 
-            "Alignment/CommonAlignmentAlgorithm/interface/AlignmentAlgorithmPluginFactory.h", 
-            "Alignment/CommonAlignmentAlgorithm/plugins/ApeSettingAlgorithm.cc", 
-            "Alignment/CommonAlignmentProducer/interface/AlignmentProducerBase.h", 
-            "Alignment/CommonAlignmentProducer/plugins/AlignmentProducer.cc", 
-            "Alignment/CommonAlignmentProducer/plugins/AlignmentProducerAsAnalyzer.cc", 
-            "Alignment/CommonAlignmentProducer/python/AlignmentProducerAsAnalyzer_cff.py", 
-            "Alignment/CommonAlignmentProducer/python/AlignmentProducer_cff.py", 
-            "Alignment/CommonAlignmentProducer/src/AlignmentProducerBase.cc", 
-            "Alignment/HIPAlignmentAlgorithm/interface/HIPAlignmentAlgorithm.h", 
-            "Alignment/HIPAlignmentAlgorithm/src/HIPAlignmentAlgorithm.cc", 
-            "Alignment/MillePedeAlignmentAlgorithm/plugins/MillePedeAlignmentAlgorithm.cc", 
-            "Alignment/MillePedeAlignmentAlgorithm/plugins/MillePedeAlignmentAlgorithm.h", 
-            "Alignment/MuonAlignmentAlgorithms/plugins/CSCOverlapsAlignmentAlgorithm.cc", 
-            "Alignment/MuonAlignmentAlgorithms/plugins/CSCOverlapsAlignmentAlgorithm.h", 
-            "Alignment/MuonAlignmentAlgorithms/plugins/MuonAlignmentFromReference.cc", 
-            "Alignment/MuonAlignmentAlgorithms/plugins/MuonMillepedeAlgorithm.cc", 
-            "Alignment/MuonAlignmentAlgorithms/plugins/MuonMillepedeAlgorithm.h", 
-            "Alignment/SurveyAnalysis/plugins/SurveyAlignmentAlgorithm.cc", 
-            "Alignment/SurveyAnalysis/plugins/SurveyAlignmentAlgorithm.h"
-        ], 
-        "created_at": 1619760787, 
-        "number": 33583, 
-        "state": "open", 
-        "updated_at": 1623852901
-    }, 
     "33622": {
         "base_branch": "master", 
         "changed_files_names": [
