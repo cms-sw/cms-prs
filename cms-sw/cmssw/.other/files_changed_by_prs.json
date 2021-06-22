@@ -3285,12 +3285,13 @@
             "RecoVertex/AdaptiveVertexFinder/plugins/VertexArbitrators.cc", 
             "TrackingTools/AnalyticalJacobians/src/AnalyticalCurvilinearJacobianEXT.icc", 
             "TrackingTools/AnalyticalJacobians/src/AnalyticalCurvilinearJacobianSSE.icc", 
-            "TrackingTools/TrackFitters/plugins/KFFittingSmoother.h"
+            "TrackingTools/TrackFitters/plugins/KFFittingSmoother.h", 
+            "TrackingTools/TrackFitters/plugins/KFFittingSmootherESProducer.cc"
         ], 
         "created_at": 1623760002, 
         "number": 34140, 
         "state": "open", 
-        "updated_at": 1624284382
+        "updated_at": 1624392552
     }, 
     "34151": {
         "base_branch": "master", 
