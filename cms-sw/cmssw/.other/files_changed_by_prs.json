@@ -3820,5 +3820,16 @@
         "number": 34225, 
         "state": "open", 
         "updated_at": 1624456275
+    }, 
+    "34226": {
+        "base_branch": "CMSSW_11_2_X", 
+        "changed_files_names": [
+            "GeneratorInterface/Pythia8Interface/plugins/Py8PtAndDxyGun.cc", 
+            "GeneratorInterface/Pythia8Interface/test/Py8PtAndDxyGun_displacedTaus_cfg.py"
+        ], 
+        "created_at": 1624456354, 
+        "number": 34226, 
+        "state": "open", 
+        "updated_at": 1624456374
     }
 }
