@@ -3828,5 +3828,25 @@
         "number": 34241, 
         "state": "open", 
         "updated_at": 1624541621
+    }, 
+    "34242": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/CaloEventSetup/plugins/CaloGeometryBuilder.cc", 
+            "Geometry/CaloEventSetup/plugins/CaloGeometryBuilder.h", 
+            "Geometry/CaloGeometry/doc/CaloGeometry.doc", 
+            "Geometry/CaloTopology/interface/EcalEndcapTopology.h", 
+            "Geometry/CaloTopology/interface/EcalPreshowerTopology.h", 
+            "Geometry/CaloTopology/test/CaloTowerMapTester.cc", 
+            "Geometry/CaloTopology/test/CaloTowerTopologyTester.cc", 
+            "Geometry/CaloTopology/test/FastTimeTopologyTester.cc", 
+            "Geometry/CaloTopology/test/HGCalTopologyTester.cc", 
+            "Geometry/CaloTopology/test/HcalDetId2DenseTester.cc", 
+            "Geometry/CaloTopology/test/HcalTopologyTester.cc"
+        ], 
+        "created_at": 1624542153, 
+        "number": 34242, 
+        "state": "open", 
+        "updated_at": 1624542193
     }
 }
