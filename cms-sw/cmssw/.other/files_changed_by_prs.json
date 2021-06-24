@@ -3631,12 +3631,16 @@
             "Configuration/Geometry/python/GeometryDDDRecoDB_cff.py", 
             "Configuration/Geometry/python/GeometryDDDSimDB.py", 
             "Configuration/Geometry/python/GeometryRecoDB_cff.py", 
-            "Configuration/Geometry/python/GeometrySimDB_cff.py"
+            "Configuration/Geometry/python/GeometrySimDB_cff.py", 
+            "DetectorDescription/DDCMS/plugins/DDCompactViewESProducer.cc", 
+            "DetectorDescription/DDCMS/plugins/DDDetectorESProducer.cc", 
+            "DetectorDescription/DDCMS/src/ES_DDDetector.cc", 
+            "Geometry/MuonNumbering/plugins/MuonGeometryConstantsESModule.cc"
         ], 
         "created_at": 1624412539, 
         "number": 34219, 
         "state": "open", 
-        "updated_at": 1624483629
+        "updated_at": 1624566683
     }, 
     "34220": {
         "base_branch": "master", 
