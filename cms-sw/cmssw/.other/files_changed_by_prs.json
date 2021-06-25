@@ -3395,7 +3395,6 @@
             "RecoBTag/Combined/src/HeavyIonCSVTagger.cc", 
             "RecoEgamma/EgammaHLTProducers/plugins/EgammaHLTClusterShapeProducer.cc", 
             "RecoHI/HiJetAlgos/python/HiRecoPFJets_cff.py", 
-            "RecoLocalCalo/Configuration/python/ecalLocalRecoSequence_cff.py", 
             "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitPhase2WeightsProducer.cc", 
             "RecoLocalCalo/EcalRecProducers/python/ecalUncalibRecHitPhase2_cff.py", 
             "RecoLocalCalo/EcalRecProducers/python/ecalUncalibRecHitPhase2_cfi.py", 
@@ -3412,7 +3411,7 @@
         "created_at": 1624372361, 
         "number": 34212, 
         "state": "open", 
-        "updated_at": 1624379644
+        "updated_at": 1624610388
     }, 
     "34215": {
         "base_branch": "master", 
