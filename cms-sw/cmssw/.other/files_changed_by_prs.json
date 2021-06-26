@@ -3069,6 +3069,9 @@
             "CondTools/Geometry/test/writehelpers/createExtended2021DD4hepPayloads.sh", 
             "CondTools/Geometry/test/writehelpers/geometryExtended2021DD4hep_writer.py", 
             "CondTools/Geometry/test/writehelpers/geometryExtended2021DD4hep_xmlwriter.py", 
+            "DetectorDescription/DDCMS/data/cms-test-shapes.xml", 
+            "DetectorDescription/DDCMS/data/testLogicalParts.xml", 
+            "DetectorDescription/DDCMS/data/testPosParts.xml", 
             "DetectorDescription/DDCMS/data/testSolids.xml", 
             "DetectorDescription/DDCMS/interface/DDDetector.h", 
             "DetectorDescription/DDCMS/interface/DDNamespace.h", 
@@ -3089,7 +3092,7 @@
         "created_at": 1623645491, 
         "number": 34111, 
         "state": "open", 
-        "updated_at": 1624482519
+        "updated_at": 1624737189
     }, 
     "34120": {
         "base_branch": "master", 
