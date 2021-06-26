@@ -3789,5 +3789,19 @@
         "number": 34258, 
         "state": "open", 
         "updated_at": 1624711481
+    }, 
+    "34259": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/SiPixelCluster/interface/SiPixelCluster.h", 
+            "DataFormats/VertexReco/interface/Vertex.h", 
+            "DataFormats/VertexReco/src/Vertex.cc", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelDigisClustersFromSoA.cc", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/PixelVertexProducerFromSoA.cc"
+        ], 
+        "created_at": 1624715808, 
+        "number": 34259, 
+        "state": "open", 
+        "updated_at": 1624715830
     }
 }
