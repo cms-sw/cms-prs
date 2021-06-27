@@ -3610,28 +3610,6 @@
         "state": "open", 
         "updated_at": 1624531945
     }, 
-    "34241": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/CMSCommonData/data/caloBase/2026/v6/caloBase.xml", 
-            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalEEV16-algorithm.xml", 
-            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalHEsilV16-algorithm.xml", 
-            "Geometry/HGCalCommonData/data/hgcal/v16/hgcal.xml", 
-            "Geometry/HGCalCommonData/data/hgcalEE/v16/hgcalEE.xml", 
-            "Geometry/HGCalCommonData/data/hgcalHEsil/v16/hgcalHEsil.xml", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalWaferF.cc", 
-            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalWaferF.cc", 
-            "Geometry/HGCalCommonData/python/testHGCalEEV16XML_cfi.py", 
-            "Geometry/HGCalCommonData/python/testHGCalHEsilV16XML_cfi.py", 
-            "Geometry/HGCalCommonData/test/python/dumpHGCalHEsilV16DD4Hep_cfg.py", 
-            "Geometry/HGCalCommonData/test/python/dumpHGCalHEsilV16DDD_cfg.py", 
-            "Geometry/HGCalCommonData/test/python/g4OverlapCheck_cfg.py"
-        ], 
-        "created_at": 1624541579, 
-        "number": 34241, 
-        "state": "open", 
-        "updated_at": 1624541621
-    }, 
     "34245": {
         "base_branch": "master", 
         "changed_files_names": [
