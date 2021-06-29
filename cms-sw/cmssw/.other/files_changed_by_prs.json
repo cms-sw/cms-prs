@@ -2669,29 +2669,6 @@
         "state": "open", 
         "updated_at": 1623725942
     }, 
-    "33865": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CUDADataFormats/Track/interface/TrackSoAHeterogeneousT.h", 
-            "CUDADataFormats/Track/interface/TrajectoryStateSoAT.h", 
-            "RecoPixelVertexing/PixelTrackFitting/interface/BrokenLine.h", 
-            "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackProducer.cc", 
-            "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackProducer.h", 
-            "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackProducerFromSoA.cc", 
-            "RecoPixelVertexing/PixelTrackFitting/plugins/SealModule.cc", 
-            "RecoPixelVertexing/PixelTriplets/plugins/BrokenLineFitOnGPU.h", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.cc", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.cu", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernelsImpl.h", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorOnGPU.cc", 
-            "RecoPixelVertexing/PixelTriplets/plugins/RiemannFitOnGPU.h", 
-            "RecoTracker/TkSeedGenerator/plugins/SeedProducerFromSoA.cc"
-        ], 
-        "created_at": 1622113074, 
-        "number": 33865, 
-        "state": "open", 
-        "updated_at": 1624539243
-    }, 
     "33885": {
         "base_branch": "master", 
         "changed_files_names": [
