@@ -3455,7 +3455,6 @@
         "changed_files_names": [
             "L1Trigger/Configuration/python/customiseReEmul.py", 
             "L1Trigger/L1TCaloLayer1/plugins/L1TCaloSummary.cc", 
-            "L1Trigger/L1TCaloLayer1/python/simCaloStage2Layer1Digis_cfi.py", 
             "L1Trigger/L1TCaloLayer1/python/uct2016EmulatorDigis_cfi.py", 
             "L1Trigger/L1TCaloLayer1/src/UCTGeometry.cc", 
             "L1Trigger/L1TCaloLayer1/src/UCTGeometry.hh", 
@@ -3466,12 +3465,13 @@
             "L1Trigger/L1TCaloLayer1/src/UCTRegion.cc", 
             "L1Trigger/L1TCaloLayer1/src/UCTRegion.hh", 
             "L1Trigger/L1TCaloLayer1/src/UCTSummaryCard.cc", 
-            "L1Trigger/L1TCaloLayer1/src/UCTSummaryCard.hh"
+            "L1Trigger/L1TCaloLayer1/src/UCTSummaryCard.hh", 
+            "L1Trigger/L1TCaloLayer1/test/testL1TCaloLayer1.py"
         ], 
         "created_at": 1624516162, 
         "number": 34235, 
         "state": "open", 
-        "updated_at": 1624521941
+        "updated_at": 1624973939
     }, 
     "34238": {
         "base_branch": "master", 
