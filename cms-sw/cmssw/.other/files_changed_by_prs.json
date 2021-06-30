@@ -3770,5 +3770,17 @@
         "number": 34291, 
         "state": "open", 
         "updated_at": 1625056681
+    }, 
+    "34292": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "EventFilter/EcalRawToDigi/plugins/EcalRawToDigiGPU.cc", 
+            "RecoLocalCalo/EcalRecProducers/plugins/EcalRecHitProducerGPU.cc", 
+            "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitProducerGPU.cc"
+        ], 
+        "created_at": 1625060573, 
+        "number": 34292, 
+        "state": "open", 
+        "updated_at": 1625060616
     }
 }
