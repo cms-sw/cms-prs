@@ -3492,42 +3492,6 @@
         "state": "open", 
         "updated_at": 1624882126
     }, 
-    "34245": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/L1TMonitor/interface/L1TdeCSCTPG.h", 
-            "DQM/L1TMonitor/python/L1TdeCSCTPG_cfi.py", 
-            "DQM/L1TMonitor/src/L1TdeCSCTPG.cc", 
-            "DataFormats/CSCDigi/interface/CSCConstants.h", 
-            "DataFormats/CSCDigi/src/CSCALCTDigi.cc", 
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCBaseboard.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCCathodeLCTProcessor.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCMotherboard.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCMotherboardME11.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCPatternBank.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCUpgradeCathodeLCTProcessor.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCUpgradeMotherboard.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/LCTContainer.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/LCTQualityAssignment.h", 
-            "L1Trigger/CSCTriggerPrimitives/plugins/CSCTriggerPrimitivesProducer.cc", 
-            "L1Trigger/CSCTriggerPrimitives/plugins/CSCTriggerPrimitivesProducer.h", 
-            "L1Trigger/CSCTriggerPrimitives/python/cscTriggerPrimitiveDigis_cfi.py", 
-            "L1Trigger/CSCTriggerPrimitives/python/params/clctParams.py", 
-            "L1Trigger/CSCTriggerPrimitives/python/params/tmbParams.py", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCCathodeLCTProcessor.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCMotherboard.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCMotherboardME11.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCTriggerPrimitivesBuilder.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCUpgradeCathodeLCTProcessor.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCUpgradeMotherboard.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/LCTQualityAssignment.cc", 
-            "L1Trigger/CSCTriggerPrimitives/test/runCSCTriggerPrimitiveProducer_cfg.py"
-        ], 
-        "created_at": 1624577290, 
-        "number": 34245, 
-        "state": "open", 
-        "updated_at": 1624925868
-    }, 
     "34248": {
         "base_branch": "master", 
         "changed_files_names": [
