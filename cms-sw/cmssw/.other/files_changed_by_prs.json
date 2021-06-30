@@ -3782,5 +3782,17 @@
         "number": 34292, 
         "state": "open", 
         "updated_at": 1625060616
+    }, 
+    "34293": {
+        "base_branch": "CMSSW_11_3_X", 
+        "changed_files_names": [
+            "EventFilter/EcalRawToDigi/plugins/EcalRawToDigiGPU.cc", 
+            "RecoLocalCalo/EcalRecProducers/plugins/EcalRecHitProducerGPU.cc", 
+            "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitProducerGPU.cc"
+        ], 
+        "created_at": 1625060891, 
+        "number": 34293, 
+        "state": "open", 
+        "updated_at": 1625060943
     }
 }
