@@ -3741,5 +3741,19 @@
         "number": 34293, 
         "state": "open", 
         "updated_at": 1625060943
+    }, 
+    "34295": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoVertex/BeamSpotProducer/plugins/BeamSpotOnlineProducer.cc", 
+            "RecoVertex/BeamSpotProducer/plugins/OnlineBeamSpotESProducer.cc", 
+            "RecoVertex/BeamSpotProducer/python/BeamSpotOnline_cff.py", 
+            "RecoVertex/BeamSpotProducer/python/BeamSpotOnline_cfi.py", 
+            "RecoVertex/BeamSpotProducer/test/test_scalars.py"
+        ], 
+        "created_at": 1625123128, 
+        "number": 34295, 
+        "state": "open", 
+        "updated_at": 1625123192
     }
 }
