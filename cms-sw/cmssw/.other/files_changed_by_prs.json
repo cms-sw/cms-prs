@@ -3832,6 +3832,13 @@
             "DQM/BeamMonitor/python/AlcaBeamMonitorHeavyIons_cff.py", 
             "DQM/BeamMonitor/python/AlcaBeamMonitor_cff.py", 
             "DQM/BeamMonitor/python/AlcaBeamMonitor_cfi.py", 
+            "DQM/CTPPS/plugins/CTPPSCommonDQMSource.cc", 
+            "DQM/CTPPS/plugins/CTPPSDiamondDQMSource.cc", 
+            "DQM/CTPPS/plugins/TotemTimingDQMSource.cc", 
+            "DQM/CTPPS/python/ctppsCommonDQMSource_cfi.py", 
+            "DQM/CTPPS/python/ctppsDQM_cff.py", 
+            "DQM/CTPPS/python/ctppsDiamondDQMSource_cfi.py", 
+            "DQM/CTPPS/python/totemTimingDQMSource_cfi.py", 
             "DQM/EcalPreshowerMonitorModule/python/es_dqm_source_offline_cff.py", 
             "DQM/L1TMonitor/interface/L1TdeRCT.h", 
             "DQM/L1TMonitor/python/L1TEmulatorMonitor_cff.py", 
@@ -3845,6 +3852,6 @@
         "created_at": 1625147958, 
         "number": 34301, 
         "state": "open", 
-        "updated_at": 1625149009
+        "updated_at": 1625150321
     }
 }
