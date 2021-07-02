@@ -3709,12 +3709,15 @@
             "DQM/SiPixelCommon/python/SiPixelOfflineDQM_source_cff.py", 
             "DQM/SiPixelMonitorDigi/interface/SiPixelDigiSource.h", 
             "DQM/SiPixelMonitorDigi/python/SiPixelMonitorDigi_cfi.py", 
-            "DQM/SiPixelMonitorDigi/src/SiPixelDigiSource.cc"
+            "DQM/SiPixelMonitorDigi/src/SiPixelDigiSource.cc", 
+            "DQMOffline/Trigger/plugins/HigPhotonJetHLTOfflineSource.cc", 
+            "DQMOffline/Trigger/python/DQMOffline_Trigger_cff.py", 
+            "DQMOffline/Trigger/python/HigPhotonJetHLTOfflineSource_cfi.py"
         ], 
         "created_at": 1625147958, 
         "number": 34301, 
         "state": "open", 
-        "updated_at": 1625150321
+        "updated_at": 1625233227
     }, 
     "34302": {
         "base_branch": "master", 
