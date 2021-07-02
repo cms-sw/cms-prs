@@ -3977,5 +3977,19 @@
         "number": 34310, 
         "state": "open", 
         "updated_at": 1625202979
+    }, 
+    "34311": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Validation/HGCalValidation/interface/HGVHistoProducerAlgo.h", 
+            "Validation/HGCalValidation/python/HGVHistoProducerAlgoBlock_cfi.py", 
+            "Validation/HGCalValidation/python/PostProcessorHGCAL_cfi.py", 
+            "Validation/HGCalValidation/python/hgcalPlots.py", 
+            "Validation/HGCalValidation/src/HGVHistoProducerAlgo.cc"
+        ], 
+        "created_at": 1625206013, 
+        "number": 34311, 
+        "state": "open", 
+        "updated_at": 1625206129
     }
 }
