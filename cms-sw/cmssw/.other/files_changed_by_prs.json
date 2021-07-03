@@ -3740,7 +3740,7 @@
             "PhysicsTools/PatAlgos/plugins/GenMETExtractor.h", 
             "PhysicsTools/PatAlgos/plugins/JetCorrFactorsProducer.cc", 
             "PhysicsTools/PatAlgos/plugins/JetCorrFactorsProducer.h", 
-            "PhysicsTools/PatAlgos/plugins/ModifiedObjectProducer.h", 
+            "PhysicsTools/PatAlgos/plugins/ModifiedObjectProducer.cc", 
             "PhysicsTools/PatAlgos/plugins/ModifiedObjectProducers.cc", 
             "PhysicsTools/PatAlgos/plugins/PATCleaner.cc", 
             "PhysicsTools/PatAlgos/plugins/PATCleaner.h", 
@@ -3789,14 +3789,12 @@
             "PhysicsTools/PatAlgos/plugins/RecoMETExtractor.cc", 
             "PhysicsTools/PatAlgos/plugins/RecoMETExtractor.h", 
             "PhysicsTools/PatAlgos/plugins/TauJetCorrFactorsProducer.cc", 
-            "PhysicsTools/PatAlgos/plugins/TauJetCorrFactorsProducer.h", 
-            "PhysicsTools/PatAlgos/python/producersHeavyIons/heavyIonJets_cff.py", 
-            "PhysicsTools/PatAlgos/python/tools/trigTools.py"
+            "PhysicsTools/PatAlgos/plugins/TauJetCorrFactorsProducer.h"
         ], 
         "created_at": 1625169917, 
         "number": 34307, 
         "state": "open", 
-        "updated_at": 1625171338
+        "updated_at": 1625317707
     }, 
     "34308": {
         "base_branch": "master", 
