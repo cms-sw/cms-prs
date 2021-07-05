@@ -3401,7 +3401,7 @@
     "34286": {
         "base_branch": "master", 
         "changed_files_names": [
-            "CUDADataFormats/TrackingRecHit/interface/SiPixelStatus.h", 
+            "CUDADataFormats/TrackingRecHit/interface/SiPixelHitStatus.h", 
             "CUDADataFormats/TrackingRecHit/interface/TrackingRecHit2DHeterogeneous.h", 
             "CUDADataFormats/TrackingRecHit/interface/TrackingRecHit2DReduced.h", 
             "CUDADataFormats/TrackingRecHit/interface/TrackingRecHit2DSOAView.h", 
@@ -3419,7 +3419,7 @@
         "created_at": 1625051721, 
         "number": 34286, 
         "state": "open", 
-        "updated_at": 1625144712
+        "updated_at": 1625463649
     }, 
     "34295": {
         "base_branch": "master", 
