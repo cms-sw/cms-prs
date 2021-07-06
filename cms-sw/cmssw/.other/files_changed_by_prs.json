@@ -3101,6 +3101,7 @@
             "Geometry/Records/interface/PTrackerAdditionalParametersPerDetRcd.h", 
             "Geometry/Records/interface/TrackerDigiGeometryRecord.h", 
             "Geometry/Records/src/PTrackerAdditionalParametersPerDetRcd.cc", 
+            "Geometry/TrackerCommonData/data/PhaseII/Tracker_DD4hep_compatible_IT800_2021_06/pixel.xml", 
             "Geometry/TrackerCommonData/data/PhaseII/Tracker_DD4hep_compatible_IT800_2021_06/pixelStructureTopology.xml", 
             "Geometry/TrackerGeometryBuilder/interface/PixelTopologyBuilder.h", 
             "Geometry/TrackerGeometryBuilder/interface/RectangularPixelTopology.h", 
@@ -3118,7 +3119,7 @@
         "created_at": 1623694446, 
         "number": 34120, 
         "state": "open", 
-        "updated_at": 1625490869
+        "updated_at": 1625585881
     }, 
     "34169": {
         "base_branch": "master", 
