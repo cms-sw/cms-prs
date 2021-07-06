@@ -3980,5 +3980,20 @@
         "number": 34341, 
         "state": "open", 
         "updated_at": 1625523502
+    }, 
+    "34342": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/EcalMonitorTasks/interface/OccupancyTask.h", 
+            "DQM/EcalMonitorTasks/interface/PresampleTask.h", 
+            "DQM/EcalMonitorTasks/python/OccupancyTask_cfi.py", 
+            "DQM/EcalMonitorTasks/python/PresampleTask_cfi.py", 
+            "DQM/EcalMonitorTasks/src/OccupancyTask.cc", 
+            "DQM/EcalMonitorTasks/src/PresampleTask.cc"
+        ], 
+        "created_at": 1625524614, 
+        "number": 34342, 
+        "state": "open", 
+        "updated_at": 1625524649
     }
 }
