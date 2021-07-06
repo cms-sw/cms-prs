@@ -3380,15 +3380,13 @@
             "RecoLocalTracker/SiPixelRecHits/plugins/gpuPixelRecHits.h", 
             "RecoLocalTracker/SiPixelRecHits/src/PixelCPEFast.cc", 
             "RecoPixelVertexing/PixelTriplets/plugins/BrokenLineFitOnGPU.h", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletCUDA.cc", 
             "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernelsImpl.h", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorOnGPU.cc", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorOnGPU.h"
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorOnGPU.cc"
         ], 
         "created_at": 1625051721, 
         "number": 34286, 
         "state": "open", 
-        "updated_at": 1625489363
+        "updated_at": 1625579282
     }, 
     "34296": {
         "base_branch": "master", 
