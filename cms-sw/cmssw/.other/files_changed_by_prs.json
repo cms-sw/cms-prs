@@ -3788,12 +3788,13 @@
             "SimG4Core/Application/plugins/OscarMTProducer.cc", 
             "SimG4Core/Application/plugins/OscarMTProducer.h", 
             "SimG4Core/Application/src/OscarMTMasterThread.cc", 
-            "SimG4Core/Application/src/RunManagerMTWorker.cc"
+            "SimG4Core/Application/src/RunManagerMTWorker.cc", 
+            "SimG4Core/Watcher/interface/SimProducer.h"
         ], 
         "created_at": 1625503051, 
         "number": 34338, 
         "state": "open", 
-        "updated_at": 1625504065
+        "updated_at": 1625558932
     }, 
     "34339": {
         "base_branch": "master", 
