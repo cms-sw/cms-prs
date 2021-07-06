@@ -3986,32 +3986,6 @@
         "state": "open", 
         "updated_at": 1625574585
     }, 
-    "34354": {
-        "base_branch": "CMSSW_11_3_X", 
-        "changed_files_names": [
-            "L1Trigger/L1TGlobal/interface/CorrThreeBodyCondition.h", 
-            "L1Trigger/L1TGlobal/interface/CorrelationThreeBodyTemplate.h", 
-            "L1Trigger/L1TGlobal/interface/GlobalCondition.h", 
-            "L1Trigger/L1TGlobal/interface/GlobalDefinitions.h", 
-            "L1Trigger/L1TGlobal/interface/TriggerMenu.h", 
-            "L1Trigger/L1TGlobal/plugins/L1TGlobalProducer.cc", 
-            "L1Trigger/L1TGlobal/plugins/TriggerMenuParser.cc", 
-            "L1Trigger/L1TGlobal/plugins/TriggerMenuParser.h", 
-            "L1Trigger/L1TGlobal/src/CorrThreeBodyCondition.cc", 
-            "L1Trigger/L1TGlobal/src/CorrelationThreeBodyTemplate.cc", 
-            "L1Trigger/L1TGlobal/src/GlobalBoard.cc", 
-            "L1Trigger/L1TGlobal/src/GlobalCondition.cc", 
-            "L1Trigger/L1TGlobal/src/GlobalDefinitions.cc", 
-            "L1Trigger/L1TGlobal/src/TriggerMenu.cc", 
-            "L1Trigger/L1TGlobal/src/classes.h", 
-            "L1Trigger/L1TGlobal/src/classes_def.xml", 
-            "L1Trigger/L1TGlobal/test/runGlobalFakeInputProducer.py"
-        ], 
-        "created_at": 1625577919, 
-        "number": 34354, 
-        "state": "open", 
-        "updated_at": 1625577982
-    }, 
     "34355": {
         "base_branch": "CMSSW_11_2_X", 
         "changed_files_names": [
