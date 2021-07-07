@@ -3952,5 +3952,22 @@
         "number": 34382, 
         "state": "open", 
         "updated_at": 1625657507
+    }, 
+    "34384": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/SiPixelPhase1Common/python/HistogramManager_cfi.py", 
+            "DQM/SiPixelPhase1Common/src/HistogramManager.cc", 
+            "DQM/SiPixelPhase1Config/python/SiPixelPhase1OfflineDQM_harvesting_cff.py", 
+            "DQM/SiPixelPhase1Config/python/SiPixelPhase1OfflineDQM_source_cff.py", 
+            "DQM/SiPixelPhase1Config/python/SiPixelPhase1OnlineDQM_cff.py", 
+            "DQM/SiPixelPhase1Track/plugins/SiPixelPhase1EfficiencyExtras.cc", 
+            "DQM/SiPixelPhase1Track/python/SiPixelPhase1EfficiencyExtras_cfi.py", 
+            "DQM/SiPixelPhase1Track/python/SiPixelPhase1TrackEfficiency_cfi.py"
+        ], 
+        "created_at": 1625661308, 
+        "number": 34384, 
+        "state": "open", 
+        "updated_at": 1625661544
     }
 }
