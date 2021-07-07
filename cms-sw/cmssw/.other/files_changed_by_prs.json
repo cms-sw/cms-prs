@@ -3934,36 +3934,6 @@
         "state": "open", 
         "updated_at": 1625643023
     }, 
-    "34374": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMServices/Components/python/HTTP.py", 
-            "DQMServices/Components/python/X509.py", 
-            "DQMServices/Components/scripts/dqm-access", 
-            "DQMServices/Components/scripts/dqm-grep", 
-            "DQMServices/Components/scripts/dqm-ls", 
-            "DQMServices/Components/scripts/dqm-mbProfile.py", 
-            "DQMServices/Components/scripts/dqmiodatasetharvest.py", 
-            "DQMServices/Components/scripts/dqmiolumiharvest.py", 
-            "DQMServices/Components/scripts/root2sqlite.py", 
-            "DQMServices/Components/test/test_fastHaddMerge.py", 
-            "DQMServices/Demo/test/dqmiodumpentries.py", 
-            "DQMServices/FileIO/python/DQM.py", 
-            "DQMServices/FileIO/scripts/compareDQMOutput.py", 
-            "DQMServices/FileIO/scripts/compareHistograms.py", 
-            "DQMServices/FileIO/scripts/dqmMemoryStats.py", 
-            "DQMServices/FileIO/scripts/visDQMUpload.py", 
-            "DQMServices/FwkIO/scripts/DQMIO2histo.py", 
-            "DQMServices/StreamerIO/scripts/esMonitoring.py", 
-            "DQMServices/StreamerIO/scripts/personalPlayback.py", 
-            "DQMServices/StreamerIO/scripts/ztail.py", 
-            "DQMServices/StreamerIO/scripts/ztee.py"
-        ], 
-        "created_at": 1625645866, 
-        "number": 34374, 
-        "state": "open", 
-        "updated_at": 1625647642
-    }, 
     "34375": {
         "base_branch": "master", 
         "changed_files_names": [
