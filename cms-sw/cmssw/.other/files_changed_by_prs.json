@@ -4079,5 +4079,32 @@
         "number": 34376, 
         "state": "open", 
         "updated_at": 1625648364
+    }, 
+    "34377": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondTools/CTPPS/plugins/CTPPSPixGainCalibsESAnalyzer.cc", 
+            "CondTools/CTPPS/plugins/CTPPSPixelDAQMappingAnalyzer.cc", 
+            "CondTools/CTPPS/plugins/CTPPSRPAlignmentInfoReader.cc", 
+            "CondTools/CTPPS/plugins/PPSTimingCalibrationAnalyzer.cc", 
+            "CondTools/CTPPS/plugins/PPSTimingCalibrationWriter.cc", 
+            "CondTools/CTPPS/plugins/RetrieveCTPPSBeamParameters.cc", 
+            "CondTools/CTPPS/plugins/WriteCTPPSBeamParameters.cc", 
+            "CondTools/CTPPS/src/CTPPSRPAlignmentInfoAnalyzer.cc", 
+            "CondTools/CTPPS/src/WriteCTPPSPixelAnalysisMask.cc", 
+            "CondTools/CTPPS/src/WriteCTPPSPixelDAQMapping.cc", 
+            "CondTools/CTPPS/test/write-ctpps-pixel-analysismask_cfg.py", 
+            "CondTools/CTPPS/test/write-ctpps-pixel-daqmap_cfg.py", 
+            "CondTools/CTPPS/test/write-ctpps-rpalignmentcorrectionsdata_cfg.py", 
+            "CondTools/CTPPS/test/write-ctpps-rpmisalignedalignment_cfg.py", 
+            "CondTools/CTPPS/test/write-ctpps-rprealalignment_cfg.py", 
+            "CondTools/CTPPS/test/write-ctpps-rprealalignment_singletest.py", 
+            "CondTools/CTPPS/test/write-ctpps-rprealalignment_table_cfg.py", 
+            "CondTools/CTPPS/test/write-ctpps-rprealalignment_table_test.py"
+        ], 
+        "created_at": 1625649913, 
+        "number": 34377, 
+        "state": "open", 
+        "updated_at": 1625649952
     }
 }
