@@ -3958,10 +3958,12 @@
             "DQMServices/Components/scripts/root2sqlite.py", 
             "DQMServices/Components/test/test_fastHaddMerge.py", 
             "DQMServices/Demo/test/dqmiodumpentries.py", 
+            "DQMServices/FileIO/python/DQM.py", 
             "DQMServices/FileIO/scripts/compareDQMOutput.py", 
             "DQMServices/FileIO/scripts/compareHistograms.py", 
             "DQMServices/FileIO/scripts/dqmMemoryStats.py", 
             "DQMServices/FileIO/scripts/visDQMUpload.py", 
+            "DQMServices/FwkIO/scripts/DQMIO2histo.py", 
             "DQMServices/StreamerIO/scripts/esMonitoring.py", 
             "DQMServices/StreamerIO/scripts/personalPlayback.py", 
             "DQMServices/StreamerIO/scripts/ztail.py", 
@@ -3970,7 +3972,7 @@
         "created_at": 1625645866, 
         "number": 34374, 
         "state": "open", 
-        "updated_at": 1625646575
+        "updated_at": 1625647642
     }, 
     "34375": {
         "base_branch": "master", 
