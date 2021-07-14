@@ -3852,5 +3852,29 @@
         "number": 34493, 
         "state": "open", 
         "updated_at": 1626294803
+    }, 
+    "34494": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondCore/L1TPlugins/src/UpgradeRecords2.cc", 
+            "CondFormats/DataRecord/interface/L1TMuonBarrelParamsRcd.h", 
+            "CondFormats/DataRecord/src/L1TMuonBarrelParamsRcd.cc", 
+            "CondFormats/L1TObjects/interface/L1TMuonBarrelKalmanParams.h", 
+            "CondFormats/L1TObjects/src/L1TMuonBarrelKalmanParams.cc", 
+            "CondFormats/L1TObjects/src/T_EventSetup_L1TMuonBarrelParams.cc", 
+            "CondFormats/L1TObjects/src/classes.h", 
+            "CondFormats/L1TObjects/src/classes_def.xml", 
+            "L1Trigger/L1TMuonBarrel/plugins/L1TMuonBarrelKalmanParamsESProducer.cc", 
+            "L1Trigger/L1TMuonBarrel/python/fakeBmtfParams_cff.py", 
+            "L1Trigger/L1TMuonBarrel/python/staticKBmtfParams_cff.py", 
+            "L1TriggerConfig/Utilities/src/L1TMuonBarrelKalmanParamsViewer.cc", 
+            "L1TriggerConfig/Utilities/src/L1TMuonBarrelParamsWriter.cc", 
+            "L1TriggerConfig/Utilities/test/uploadBmtfParams.py", 
+            "L1TriggerConfig/Utilities/test/viewKBmtfParams.py"
+        ], 
+        "created_at": 1626296109, 
+        "number": 34494, 
+        "state": "open", 
+        "updated_at": 1626296150
     }
 }
