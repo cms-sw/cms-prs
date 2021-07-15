@@ -2813,8 +2813,12 @@
             "CondTools/Geometry/test/writehelpers/geometryExtended2021DD4hep_xmlwriter.py", 
             "DetectorDescription/DDCMS/data/cms-test-shapes.xml", 
             "DetectorDescription/DDCMS/interface/DDDetector.h", 
+            "DetectorDescription/DDCMS/interface/DDNamespace.h", 
+            "DetectorDescription/DDCMS/interface/DDParsingContext.h", 
+            "DetectorDescription/DDCMS/plugins/dd4hep/DDDefinitions2Objects.cc", 
             "DetectorDescription/DDCMS/src/DDDetector.cc", 
             "DetectorDescription/DDCMS/src/DDFilteredView.cc", 
+            "DetectorDescription/DDCMS/src/DDNamespace.cc", 
             "DetectorDescription/OfflineDBLoader/BuildFile.xml", 
             "DetectorDescription/OfflineDBLoader/interface/DDCoreToDDXMLOutput.h", 
             "DetectorDescription/OfflineDBLoader/plugins/OutputDD4hepToDDL.cc", 
@@ -2824,7 +2828,7 @@
         "created_at": 1623645491, 
         "number": 34111, 
         "state": "open", 
-        "updated_at": 1626294817
+        "updated_at": 1626385326
     }, 
     "34120": {
         "base_branch": "master", 
