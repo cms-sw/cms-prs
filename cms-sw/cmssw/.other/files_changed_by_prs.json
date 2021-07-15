@@ -3794,5 +3794,19 @@
         "number": 34497, 
         "state": "open", 
         "updated_at": 1626337487
+    }, 
+    "34498": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "SimG4Core/CustomPhysics/interface/CustomPDGParser.h", 
+            "SimG4Core/CustomPhysics/src/CustomPDGParser.cc", 
+            "SimG4Core/CustomPhysics/src/CustomParticleFactory.cc", 
+            "SimG4Core/CustomPhysics/src/CustomPhysicsList.cc", 
+            "SimG4Core/CustomPhysics/src/CustomPhysicsListSS.cc"
+        ], 
+        "created_at": 1626347249, 
+        "number": 34498, 
+        "state": "open", 
+        "updated_at": 1626347353
     }
 }
