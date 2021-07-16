@@ -3972,5 +3972,22 @@
         "number": 34526, 
         "state": "open", 
         "updated_at": 1626459780
+    }, 
+    "34527": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "GeneratorInterface/Core/plugins/ExternalGeneratorFilter.cc", 
+            "GeneratorInterface/Core/python/ExternalGeneratorFilter.py", 
+            "GeneratorInterface/LHEInterface/data/run_generic_tarball_cvmfs_madgraphLO_multithread.sh", 
+            "GeneratorInterface/LHEInterface/data/runcmsgrid_LO_support_multithread.patch", 
+            "GeneratorInterface/LHEInterface/plugins/ExternalLHEProducer.cc", 
+            "GeneratorInterface/LHEInterface/scripts/mergeLHE.py", 
+            "PhysicsTools/JetMCAlgos/plugins/HadronAndPartonSelector.cc", 
+            "TopQuarkAnalysis/TopEventProducers/src/TopDecaySubset.cc"
+        ], 
+        "created_at": 1626460319, 
+        "number": 34527, 
+        "state": "open", 
+        "updated_at": 1626460378
     }
 }
