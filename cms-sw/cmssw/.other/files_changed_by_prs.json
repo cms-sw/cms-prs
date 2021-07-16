@@ -3633,8 +3633,6 @@
             "CondTools/Geometry/test/writehelpers/splitPPS2021Database.sh", 
             "Configuration/Geometry/README.md", 
             "Configuration/Geometry/python/dict2021Geometry.py", 
-            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2021.xml", 
-            "Geometry/CMSCommonData/python/cmsExtendedGeometry2021XML_cfi.py", 
             "Geometry/VeryForwardData/data/CTPPS_2021/Cuts_Per_Region/Reco/v1/RP_Cuts_Per_Region.xml", 
             "Geometry/VeryForwardData/data/CTPPS_2021/Cuts_Per_Region/Simu/v1/CTPPS_Cuts_Per_Region.xml", 
             "Geometry/VeryForwardData/data/CTPPS_2021/RP_Dist_Beam_Cent/Reco/v1/RP_Dist_Beam_Cent.xml", 
@@ -3678,7 +3676,7 @@
         "created_at": 1626348051, 
         "number": 34499, 
         "state": "open", 
-        "updated_at": 1626375449
+        "updated_at": 1626444054
     }, 
     "34501": {
         "base_branch": "master", 
