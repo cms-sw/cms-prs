@@ -3920,5 +3920,37 @@
         "number": 34510, 
         "state": "open", 
         "updated_at": 1626377936
+    }, 
+    "34511": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/ParameterSet/test/runPythonTests.sh", 
+            "RecoTauTag/RecoTau/interface/AntiElectronDeadECAL.h", 
+            "RecoTauTag/RecoTau/interface/AntiElectronIDMVA6.h", 
+            "RecoTauTag/RecoTau/interface/TauDiscriminationProducerBase.h", 
+            "RecoTauTag/RecoTau/plugins/PATTauDiscriminationByMVAIsolationRun2.cc", 
+            "RecoTauTag/RecoTau/plugins/PFRecoTauChargedHadronFromGenericTrackPlugin.cc", 
+            "RecoTauTag/RecoTau/plugins/PFRecoTauChargedHadronFromPFCandidatePlugin.cc", 
+            "RecoTauTag/RecoTau/plugins/PFRecoTauDiscriminationAgainstMuonMVA.cc", 
+            "RecoTauTag/RecoTau/plugins/PFRecoTauDiscriminationByMVAIsolation2.cc", 
+            "RecoTauTag/RecoTau/plugins/PFRecoTauDiscriminationByMVAIsolationRun2.cc", 
+            "RecoTauTag/RecoTau/plugins/PFRecoTauTagInfoProducer.cc", 
+            "RecoTauTag/RecoTau/plugins/PFTauSecondaryVertexProducer.cc", 
+            "RecoTauTag/RecoTau/plugins/PFTauTransverseImpactParameters.cc", 
+            "RecoTauTag/RecoTau/plugins/RecoTauCleaner.cc", 
+            "RecoTauTag/RecoTau/plugins/RecoTauEnergyRecoveryPlugin2.cc", 
+            "RecoTauTag/RecoTau/plugins/RecoTauGenericJetRegionProducer.cc", 
+            "RecoTauTag/RecoTau/plugins/RecoTauImpactParameterSignificancePlugin.cc", 
+            "RecoTauTag/RecoTau/plugins/RecoTauPiZeroProducer.cc", 
+            "RecoTauTag/RecoTau/plugins/RecoTauPileUpVertexSelector.cc", 
+            "RecoTauTag/RecoTau/plugins/RecoTauProducer.cc", 
+            "RecoTauTag/RecoTau/plugins/TauDiscriminantCutMultiplexer.cc", 
+            "RecoTauTag/RecoTau/src/AntiElectronDeadECAL.cc", 
+            "RecoTauTag/RecoTau/src/AntiElectronIDMVA6.cc"
+        ], 
+        "created_at": 1626395111, 
+        "number": 34511, 
+        "state": "open", 
+        "updated_at": 1626395169
     }
 }
