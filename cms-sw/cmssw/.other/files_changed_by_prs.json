@@ -3869,12 +3869,13 @@
             "SimG4CMS/HcalTestBeam/plugins/HcalTB06BeamSD.cc", 
             "SimG4CMS/HcalTestBeam/plugins/HcalTB06BeamSD.h", 
             "SimG4CMS/HcalTestBeam/plugins/module.cc", 
-            "SimG4CMS/HcalTestBeam/test/python/run2002_cfg.py"
+            "SimG4CMS/HcalTestBeam/test/python/run2002_cfg.py", 
+            "SimG4Core/Application/python/g4SimHits_cfi.py"
         ], 
         "created_at": 1626464259, 
         "number": 34528, 
         "state": "open", 
-        "updated_at": 1626464304
+        "updated_at": 1626554086
     }, 
     "34532": {
         "base_branch": "master", 
