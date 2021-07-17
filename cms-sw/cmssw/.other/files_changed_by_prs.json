@@ -2815,6 +2815,7 @@
             "DetectorDescription/DDCMS/interface/DDDetector.h", 
             "DetectorDescription/DDCMS/interface/DDNamespace.h", 
             "DetectorDescription/DDCMS/interface/DDParsingContext.h", 
+            "DetectorDescription/DDCMS/plugins/DDDetectorESProducer.cc", 
             "DetectorDescription/DDCMS/plugins/dd4hep/DDDefinitions2Objects.cc", 
             "DetectorDescription/DDCMS/src/DDDetector.cc", 
             "DetectorDescription/DDCMS/src/DDFilteredView.cc", 
@@ -2822,13 +2823,12 @@
             "DetectorDescription/OfflineDBLoader/BuildFile.xml", 
             "DetectorDescription/OfflineDBLoader/interface/DDCoreToDDXMLOutput.h", 
             "DetectorDescription/OfflineDBLoader/plugins/OutputDD4hepToDDL.cc", 
-            "DetectorDescription/OfflineDBLoader/plugins/OutputDDToDDL.cc", 
             "DetectorDescription/OfflineDBLoader/src/DDCoreToDDXMLOutput.cc"
         ], 
         "created_at": 1623645491, 
         "number": 34111, 
         "state": "open", 
-        "updated_at": 1626385326
+        "updated_at": 1626473402
     }, 
     "34120": {
         "base_branch": "master", 
