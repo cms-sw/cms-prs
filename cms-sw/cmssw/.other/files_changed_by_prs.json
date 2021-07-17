@@ -3773,36 +3773,6 @@
         "state": "open", 
         "updated_at": 1626376802
     }, 
-    "34513": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCGEMMatcher.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCLUTReader.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCMotherboard.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/GEMClusterProcessor.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/GEMInternalCluster.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/LCTQualityAssignment.h", 
-            "L1Trigger/CSCTriggerPrimitives/plugins/CSCTriggerPrimitivesProducer.cc", 
-            "L1Trigger/CSCTriggerPrimitives/python/params/clctParams.py", 
-            "L1Trigger/CSCTriggerPrimitives/python/params/gemcscParams.py", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCGEMMatcher.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCGEMMotherboardME11.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCGEMMotherboardME21.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCLUTReader.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCMotherboard.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCUpgradeMotherboard.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/GEMClusterProcessor.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/GEMInternalCluster.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/LCTQualityAssignment.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/LCTQualityControl.cc", 
-            "L1Trigger/CSCTriggerPrimitives/test/CCLUTLinearFitWriter.cpp", 
-            "L1Trigger/CSCTriggerPrimitives/test/GEMCSCLUTAnalyzer.cc"
-        ], 
-        "created_at": 1626400402, 
-        "number": 34513, 
-        "state": "open", 
-        "updated_at": 1626400510
-    }, 
     "34515": {
         "base_branch": "master", 
         "changed_files_names": [
