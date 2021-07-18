@@ -3271,27 +3271,6 @@
         "state": "open", 
         "updated_at": 1626280976
     }, 
-    "34419": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CUDADataFormats/TrackingRecHit/interface/TrackingRecHit2DHeterogeneous.h", 
-            "CUDADataFormats/TrackingRecHit/interface/TrackingRecHit2DSOAView.h", 
-            "CUDADataFormats/TrackingRecHit/src/TrackingRecHit2DHeterogeneous.cc", 
-            "CUDADataFormats/TrackingRecHit/test/TrackingRecHit2DCUDA_t.cpp", 
-            "RecoLocalTracker/SiPixelRecHits/plugins/PixelRecHitGPUKernel.cu", 
-            "RecoLocalTracker/SiPixelRecHits/plugins/PixelRecHitGPUKernel.h", 
-            "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitCUDA.cc", 
-            "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitFromCUDA.cc", 
-            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEFast.cc", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernelsImpl.h", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorOnGPU.cc", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorOnGPU.h"
-        ], 
-        "created_at": 1625811224, 
-        "number": 34419, 
-        "state": "open", 
-        "updated_at": 1626344469
-    }, 
     "34427": {
         "base_branch": "master", 
         "changed_files_names": [
