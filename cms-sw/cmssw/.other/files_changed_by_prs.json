@@ -3121,7 +3121,6 @@
     "34439": {
         "base_branch": "master", 
         "changed_files_names": [
-            ".gitignore", 
             "DQMOffline/EGamma/python/egammaDQMOffline_cff.py", 
             "DQMOffline/EGamma/python/electronAnalyzerSequence_cff.py", 
             "PhysicsTools/PatAlgos/python/slimming/MicroEventContent_cff.py", 
@@ -3159,12 +3158,13 @@
             "Validation/RecoEgamma/python/ElectronMcFakeValidator_gedGsfElectrons_cfi.py", 
             "Validation/RecoEgamma/python/ElectronMcSignalValidatorMiniAOD_cfi.py", 
             "Validation/RecoEgamma/python/ElectronMcSignalValidatorPt1000_gedGsfElectrons_cfi.py", 
-            "Validation/RecoEgamma/python/ElectronMcSignalValidator_gedGsfElectrons_cfi.py"
+            "Validation/RecoEgamma/python/ElectronMcSignalValidator_gedGsfElectrons_cfi.py", 
+            "replace.py"
         ], 
         "created_at": 1625926833, 
         "number": 34439, 
         "state": "open", 
-        "updated_at": 1626364583
+        "updated_at": 1626684637
     }, 
     "34444": {
         "base_branch": "master", 
