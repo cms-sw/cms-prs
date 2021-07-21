@@ -3683,5 +3683,22 @@
         "number": 34578, 
         "state": "open", 
         "updated_at": 1626889022
+    }, 
+    "34579": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Framework/interface/global/OutputModuleBase.h", 
+            "FWCore/Framework/interface/global/outputmoduleAbilityToImplementor.h", 
+            "FWCore/Framework/src/Worker.h", 
+            "FWCore/Framework/src/WorkerT.cc", 
+            "FWCore/Framework/src/global/OutputModuleBase.cc", 
+            "FWCore/Framework/test/BuildFile.xml", 
+            "FWCore/Framework/test/stubs/TestFilterModule.cc", 
+            "FWCore/Framework/test/testExternalWorkGlobalOutputModule_cfg.py"
+        ], 
+        "created_at": 1626889736, 
+        "number": 34579, 
+        "state": "open", 
+        "updated_at": 1626889759
     }
 }
