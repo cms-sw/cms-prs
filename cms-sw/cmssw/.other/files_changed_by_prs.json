@@ -3716,5 +3716,37 @@
         "number": 34580, 
         "state": "open", 
         "updated_at": 1626893711
+    }, 
+    "34581": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CommonTools/CandAlgos/interface/GenJetParticleSelector.h", 
+            "CommonTools/CandAlgos/plugins/BuildFile.xml", 
+            "CommonTools/CandAlgos/src/GenJetParticleSelector.cc", 
+            "CommonTools/RecoAlgos/src/CandidateProducer.h", 
+            "CommonTools/RecoAlgos/src/MassiveCandidateConverter.cc", 
+            "CommonTools/RecoAlgos/src/MassiveCandidateConverter.h", 
+            "CommonTools/RecoAlgos/src/PFClusterToRefCandidate.h", 
+            "CommonTools/RecoAlgos/src/RecoChargedRefCandidateToTrackRef.h", 
+            "CommonTools/RecoAlgos/src/StandAloneMuonTrackToCandidate.h", 
+            "CommonTools/RecoAlgos/src/SuperClusterToCandidate.h", 
+            "CommonTools/RecoAlgos/src/TrackToCandidate.h", 
+            "CommonTools/RecoAlgos/src/TrackToRefCandidate.h", 
+            "DQM/Physics/BuildFile.xml", 
+            "PhysicsTools/HepMCCandAlgos/interface/PdgEntryReplacer.h", 
+            "PhysicsTools/HepMCCandAlgos/interface/pdgEntryReplace.h", 
+            "PhysicsTools/HepMCCandAlgos/plugins/GenParticleDecaySelector.cc", 
+            "PhysicsTools/HepMCCandAlgos/plugins/GenParticlePruner.cc", 
+            "PhysicsTools/HepMCCandAlgos/plugins/GenPlusSimParticleProducer.cc", 
+            "PhysicsTools/HepMCCandAlgos/src/pdgEntryReplace.cc", 
+            "PhysicsTools/PatAlgos/plugins/PATGenCandsFromSimTracksProducer.cc", 
+            "SimGeneral/HepPDTRecord/interface/PdtEntry.h", 
+            "SimGeneral/HepPDTRecord/src/PdtEntry.cc", 
+            "SimTracker/TrackAssociation/plugins/TrackingParticleSelectorByGen.cc"
+        ], 
+        "created_at": 1626896912, 
+        "number": 34581, 
+        "state": "open", 
+        "updated_at": 1626896960
     }
 }
