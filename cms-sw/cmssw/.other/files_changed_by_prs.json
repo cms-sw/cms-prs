@@ -3017,41 +3017,6 @@
         "state": "open", 
         "updated_at": 1626870007
     }, 
-    "34504": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondFormats/GEMObjects/interface/GEMROMapping.h", 
-            "CondFormats/GEMObjects/interface/GEMeMap.h", 
-            "CondFormats/GEMObjects/src/GEMeMap.cc", 
-            "DataFormats/GEMDigi/interface/AMC13Event.h", 
-            "DataFormats/GEMDigi/interface/AMCdata.h", 
-            "DataFormats/GEMDigi/interface/GEBdata.h", 
-            "DataFormats/GEMDigi/interface/GEMAMC13Status.h", 
-            "DataFormats/GEMDigi/interface/GEMAMC13StatusCollection.h", 
-            "DataFormats/GEMDigi/interface/GEMAMCStatus.h", 
-            "DataFormats/GEMDigi/interface/GEMAMCStatusCollection.h", 
-            "DataFormats/GEMDigi/interface/GEMOHStatus.h", 
-            "DataFormats/GEMDigi/interface/GEMOHStatusCollection.h", 
-            "DataFormats/GEMDigi/interface/GEMVFATStatus.h", 
-            "DataFormats/GEMDigi/interface/GEMVFATStatusCollection.h", 
-            "DataFormats/GEMDigi/interface/VFATdata.h", 
-            "DataFormats/GEMDigi/src/AMCdata.cc", 
-            "DataFormats/GEMDigi/src/VFATdata.cc", 
-            "DataFormats/GEMDigi/src/classes.h", 
-            "DataFormats/GEMDigi/src/classes_def.xml", 
-            "EventFilter/GEMRawToDigi/plugins/BuildFile.xml", 
-            "EventFilter/GEMRawToDigi/plugins/GEMDigiToRawModule.cc", 
-            "EventFilter/GEMRawToDigi/plugins/GEMPackingTester.cc", 
-            "EventFilter/GEMRawToDigi/plugins/GEMRawToDigiModule.cc", 
-            "EventFilter/GEMRawToDigi/python/muonGEMDigis_cfi.py", 
-            "EventFilter/GEMRawToDigi/src/GEMRawToDigi.cc", 
-            "EventFilter/GEMRawToDigi/test/gemUnPackerTester.py"
-        ], 
-        "created_at": 1626359988, 
-        "number": 34504, 
-        "state": "open", 
-        "updated_at": 1626865104
-    }, 
     "34505": {
         "base_branch": "master", 
         "changed_files_names": [
