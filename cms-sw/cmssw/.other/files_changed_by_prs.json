@@ -3622,5 +3622,18 @@
         "number": 35240, 
         "state": "open", 
         "updated_at": 1631449285
+    }, 
+    "35241": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoLocalCalo/HcalRecAlgos/src/HBHEIsolatedNoiseAlgos.cc", 
+            "RecoLocalCalo/HcalRecAlgos/test/HcalRecHitReflagger.cc", 
+            "RecoLocalCalo/HcalRecAlgos/test/HcalSevLvlAnalyzer.cc", 
+            "RecoLocalCalo/HcalRecAlgos/test/MahiDebugger.cc"
+        ], 
+        "created_at": 1631468707, 
+        "number": 35241, 
+        "state": "open", 
+        "updated_at": 1631468794
     }
 }
