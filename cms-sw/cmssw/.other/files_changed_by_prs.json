@@ -3530,34 +3530,6 @@
         "state": "open", 
         "updated_at": 1631299000
     }, 
-    "35234": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibMuon/DTCalibration/test/DBTools/DumpDBToFile.cc", 
-            "CalibMuon/DTCalibration/test/DBTools/DumpDBToFile.h", 
-            "CalibMuon/DTCalibration/test/DBTools/DumpFileToDB.cc", 
-            "CalibMuon/DTCalibration/test/DumpDBToFile_cfg.py", 
-            "CalibMuon/DTCalibration/test/DumpFileToDB_cfg.py", 
-            "GeneratorInterface/SherpaInterface/src/SherpaHadronizer.cc", 
-            "RecoLocalCalo/HcalRecAlgos/src/HBHEIsolatedNoiseAlgos.cc", 
-            "RecoLocalCalo/HcalRecAlgos/test/HcalRecHitReflagger.cc", 
-            "RecoLocalCalo/HcalRecAlgos/test/HcalSevLvlAnalyzer.cc", 
-            "RecoLocalCalo/HcalRecAlgos/test/MahiDebugger.cc", 
-            "SimTracker/SiPhase2Digitizer/plugins/Phase2TrackerDigitizer.cc", 
-            "SimTracker/SiPhase2Digitizer/plugins/Phase2TrackerDigitizer.h", 
-            "SimTracker/SiPhase2Digitizer/plugins/Phase2TrackerDigitizerAlgorithm.cc", 
-            "SimTracker/SiPhase2Digitizer/plugins/Phase2TrackerDigitizerAlgorithm.h", 
-            "SimTracker/SiPhase2Digitizer/plugins/PixelBrickedDigitizerAlgorithm.cc", 
-            "SimTracker/SiPhase2Digitizer/plugins/PixelBrickedDigitizerAlgorithm.h", 
-            "SimTracker/SiPhase2Digitizer/plugins/PixelDigitizerAlgorithm.h", 
-            "SimTracker/SiPhase2Digitizer/python/phase2TrackerDigitizer_cfi.py", 
-            "Validation/DTRecHits/test/DTValidation_RelVal_fromRECO_local_cfg.py"
-        ], 
-        "created_at": 1631319251, 
-        "number": 35234, 
-        "state": "open", 
-        "updated_at": 1631355234
-    }, 
     "35235": {
         "base_branch": "master", 
         "changed_files_names": [
