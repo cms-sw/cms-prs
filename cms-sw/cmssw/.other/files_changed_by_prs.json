@@ -3295,13 +3295,14 @@
     "35222": {
         "base_branch": "master", 
         "changed_files_names": [
+            "CalibCalorimetry/HcalPlugins/src/HcalHardcodeCalibrations.cc", 
             "CalibCalorimetry/HcalTPGAlgos/src/HcaluLUTTPGCoder.cc", 
             "SimCalorimetry/HcalTrigPrimProducers/plugins/HcalTrigPrimDigiProducer.cc"
         ], 
         "created_at": 1631208220, 
         "number": 35222, 
         "state": "open", 
-        "updated_at": 1631208734
+        "updated_at": 1631544033
     }, 
     "35226": {
         "base_branch": "CMSSW_11_3_X", 
