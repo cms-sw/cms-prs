@@ -2630,32 +2630,6 @@
         "state": "open", 
         "updated_at": 1631026882
     }, 
-    "35056": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FastSimulation/Calorimetry/interface/CalorimetryManager.h", 
-            "FastSimulation/Calorimetry/src/CalorimetryManager.cc", 
-            "FastSimulation/EventProducer/interface/FamosManager.h", 
-            "FastSimulation/EventProducer/src/FamosManager.cc", 
-            "FastSimulation/EventProducer/src/FamosProducer.cc", 
-            "FastSimulation/MuonSimHitProducer/plugins/MuonSimHitProducer.cc", 
-            "FastSimulation/ShowerDevelopment/interface/FastHFShowerLibrary.h", 
-            "FastSimulation/ShowerDevelopment/src/FastHFShowerLibrary.cc", 
-            "FastSimulation/SimplifiedGeometryPropagator/interface/Geometry.h", 
-            "FastSimulation/SimplifiedGeometryPropagator/plugins/FastSimProducer.cc", 
-            "FastSimulation/SimplifiedGeometryPropagator/plugins/FastTrackDeDxProducer.cc", 
-            "FastSimulation/SimplifiedGeometryPropagator/src/Geometry.cc", 
-            "FastSimulation/Tracking/plugins/TrackCandidateProducer.cc", 
-            "FastSimulation/TrackingRecHitProducer/interface/TrackingRecHitAlgorithm.h", 
-            "FastSimulation/TrackingRecHitProducer/plugins/FastTrackerRecHitMatcher.cc", 
-            "FastSimulation/TrackingRecHitProducer/plugins/TrackingRecHitProducer.cc", 
-            "FastSimulation/TrackingRecHitProducer/src/TrackingRecHitAlgorithm.cc"
-        ], 
-        "created_at": 1630092739, 
-        "number": 35056, 
-        "state": "open", 
-        "updated_at": 1631014961
-    }, 
     "35058": {
         "base_branch": "master", 
         "changed_files_names": [
