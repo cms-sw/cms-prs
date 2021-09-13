@@ -2451,6 +2451,7 @@
             "L1Trigger/CSCTriggerPrimitives/interface/CSCBaseboard.h", 
             "L1Trigger/CSCTriggerPrimitives/interface/CSCPatternBank.h", 
             "L1Trigger/CSCTriggerPrimitives/interface/ComparatorCodeLUT.h", 
+            "L1Trigger/CSCTriggerPrimitives/plugins/CSCTriggerPrimitivesProducer.cc", 
             "L1Trigger/CSCTriggerPrimitives/python/params/auxiliaryParams.py", 
             "L1Trigger/CSCTriggerPrimitives/src/CSCBaseboard.cc", 
             "L1Trigger/CSCTriggerPrimitives/src/CSCCathodeLCTProcessor.cc", 
@@ -2463,7 +2464,7 @@
         "created_at": 1628092811, 
         "number": 34780, 
         "state": "open", 
-        "updated_at": 1630672436
+        "updated_at": 1631559082
     }, 
     "34788": {
         "base_branch": "master", 
