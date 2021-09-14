@@ -2918,10 +2918,9 @@
             "CondFormats/PPSObjects/src/classes_def.xml", 
             "CondFormats/PPSObjects/src/headers.h", 
             "CondFormats/PPSObjects/test/BuildFile.xml", 
-            "CondFormats/PPSObjects/test/testSerializationPPSAlignmentConfig.cc", 
             "CondFormats/PPSObjects/test/testSerializationPPSAlignmentConfiguration.cc", 
-            "CondTools/CTPPS/plugins/RetrievePPSAlignmentConfig.cc", 
             "CondTools/CTPPS/plugins/RetrievePPSAlignmentConfiguration.cc", 
+            "CondTools/CTPPS/plugins/WritePPSAlignmentConfig.cc", 
             "CondTools/CTPPS/plugins/WritePPSAlignmentConfiguration.cc", 
             "CondTools/CTPPS/test/retrieve_PPSAlignmentConfiguration_cfg.py", 
             "CondTools/CTPPS/test/write_PPSAlignmentConfiguration_cfg.py"
@@ -2929,7 +2928,7 @@
         "created_at": 1630949041, 
         "number": 35174, 
         "state": "open", 
-        "updated_at": 1631038528
+        "updated_at": 1631611954
     }, 
     "35179": {
         "base_branch": "master", 
