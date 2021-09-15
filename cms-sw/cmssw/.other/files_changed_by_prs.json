@@ -2914,12 +2914,14 @@
     "35229": {
         "base_branch": "master", 
         "changed_files_names": [
-            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelDigisClustersFromSoA.cc"
+            "CUDADataFormats/SiPixelCluster/interface/gpuClusteringConstants.h", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelDigisClustersFromSoA.cc", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/gpuClustering.h"
         ], 
         "created_at": 1631281197, 
         "number": 35229, 
         "state": "open", 
-        "updated_at": 1631611031
+        "updated_at": 1631702174
     }, 
     "35235": {
         "base_branch": "master", 
