@@ -3525,5 +3525,31 @@
         "number": 35284, 
         "state": "open", 
         "updated_at": 1631703024
+    }, 
+    "35285": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CUDADataFormats/SiPixelCluster/interface/SiPixelClustersCUDA.h", 
+            "CUDADataFormats/TrackingRecHit/interface/TrackingRecHit2DHeterogeneous.h", 
+            "CUDADataFormats/TrackingRecHit/test/TrackingRecHit2DCUDA_t.cpp", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.cu", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.h", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/PixelRecHitGPUKernel.cu", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitSoAFromLegacy.cc", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAConstants.h", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.cc", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.cu", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.h", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernelsImpl.h", 
+            "RecoPixelVertexing/PixelTriplets/plugins/GPUCACell.h", 
+            "RecoPixelVertexing/PixelTriplets/plugins/gpuFishbone.h", 
+            "RecoPixelVertexing/PixelTriplets/plugins/gpuPixelDoublets.h", 
+            "RecoPixelVertexing/PixelTriplets/plugins/gpuPixelDoubletsAlgos.h", 
+            "RecoPixelVertexing/PixelTriplets/test/CAsizes_t.cpp"
+        ], 
+        "created_at": 1631703298, 
+        "number": 35285, 
+        "state": "open", 
+        "updated_at": 1631703408
     }
 }
