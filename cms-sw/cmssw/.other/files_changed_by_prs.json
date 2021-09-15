@@ -2488,12 +2488,13 @@
         "base_branch": "CMSSW_12_0_X", 
         "changed_files_names": [
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
-            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py"
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
+            "HLTrigger/Configuration/python/customizeHLTforPatatrack.py"
         ], 
         "created_at": 1629711150, 
         "number": 34979, 
         "state": "open", 
-        "updated_at": 1631526983
+        "updated_at": 1631715986
     }, 
     "34991": {
         "base_branch": "master", 
