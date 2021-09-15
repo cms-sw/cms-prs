@@ -2495,31 +2495,6 @@
         "state": "open", 
         "updated_at": 1631526983
     }, 
-    "34985": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibTracker/SiStripCommon/BuildFile.xml", 
-            "CalibTracker/SiStripCommon/interface/SiStripOnTrackClusterTableProducerBase.h", 
-            "CalibTracker/SiStripCommon/plugins/BuildFile.xml", 
-            "CalibTracker/SiStripCommon/plugins/SealModules.cc", 
-            "CalibTracker/SiStripCommon/plugins/SiStripLorentzAngleRunInfoTableProducer.cc", 
-            "CalibTracker/SiStripCommon/plugins/SiStripPositionCorrectionsTableProducer.cc", 
-            "CalibTracker/SiStripCommon/src/SiStripOnTrackClusterTableProducerBase.cc", 
-            "CalibTracker/SiStripCommon/test/MakeCalibrationTrees/produceCalibrationTree_CosmicsLABP_cfg.py", 
-            "Calibration/TkAlCaRecoProducers/python/ALCARECOSiStripCalCosmicsNano_Output_cff.py", 
-            "Calibration/TkAlCaRecoProducers/python/ALCARECOSiStripCalCosmicsNano_cff.py", 
-            "Configuration/Applications/python/ConfigBuilder.py", 
-            "Configuration/DataProcessing/test/run_CfgTest.sh", 
-            "Configuration/EventContent/python/AlCaRecoOutput_cff.py", 
-            "Configuration/PyReleaseValidation/python/relval_steps.py", 
-            "Configuration/StandardSequences/python/AlCaRecoStreams_cff.py", 
-            "PhysicsTools/NanoAOD/test/inspectNanoFile.py"
-        ], 
-        "created_at": 1629728796, 
-        "number": 34985, 
-        "state": "open", 
-        "updated_at": 1631642752
-    }, 
     "34991": {
         "base_branch": "master", 
         "changed_files_names": [
