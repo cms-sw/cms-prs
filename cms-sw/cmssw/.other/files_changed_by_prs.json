@@ -3553,6 +3553,7 @@
         "base_branch": "master", 
         "changed_files_names": [
             "FastSimulation/Tracking/plugins/PixelTracksProducer.cc", 
+            "FastSimulation/Tracking/plugins/PixelTracksProducer.h", 
             "RecoPixelVertexing/PixelLowPtUtilities/interface/TrackFitter.h", 
             "RecoPixelVertexing/PixelLowPtUtilities/src/TrackFitter.cc", 
             "RecoPixelVertexing/PixelTrackFitting/interface/KFBasedPixelFitter.h", 
@@ -3582,7 +3583,7 @@
         "created_at": 1631744526, 
         "number": 35300, 
         "state": "open", 
-        "updated_at": 1631744573
+        "updated_at": 1631825120
     }, 
     "35302": {
         "base_branch": "master", 
