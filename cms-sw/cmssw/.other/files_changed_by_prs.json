@@ -3713,5 +3713,25 @@
         "number": 35307, 
         "state": "open", 
         "updated_at": 1631801199
+    }, 
+    "35308": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibFormats/CaloObjects/src/CaloSamples.cc", 
+            "SimCalorimetry/CaloSimAlgos/interface/CaloHitResponse.h", 
+            "SimCalorimetry/CaloSimAlgos/src/CaloHitResponse.cc", 
+            "SimCalorimetry/HcalSimAlgos/interface/HFSimParameters.h", 
+            "SimCalorimetry/HcalSimAlgos/interface/HcalTDC.h", 
+            "SimCalorimetry/HcalSimAlgos/interface/HcalTDCParameters.h", 
+            "SimCalorimetry/HcalSimAlgos/src/HFSimParameters.cc", 
+            "SimCalorimetry/HcalSimAlgos/src/HcalElectronicsSim.cc", 
+            "SimCalorimetry/HcalSimAlgos/src/HcalTDC.cc", 
+            "SimCalorimetry/HcalSimProducers/python/hcalSimParameters_cfi.py", 
+            "SimCalorimetry/HcalSimProducers/src/HcalDigitizer.cc"
+        ], 
+        "created_at": 1631801510, 
+        "number": 35308, 
+        "state": "open", 
+        "updated_at": 1631801530
     }
 }
