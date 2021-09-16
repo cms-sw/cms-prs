@@ -3690,5 +3690,23 @@
         "number": 35308, 
         "state": "open", 
         "updated_at": 1631801530
+    }, 
+    "35309": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
+            "RecoParticleFlow/PFProducer/interface/PFEGammaFilters.h", 
+            "RecoParticleFlow/PFProducer/python/particleFlow_cff.py", 
+            "RecoParticleFlow/PFProducer/src/PFEGammaFilters.cc", 
+            "TrackingTools/GsfTracking/python/CkfElectronCandidateMaker_cff.py", 
+            "TrackingTools/GsfTracking/python/GsfElectronFittingSmoother_cfi.py", 
+            "TrackingTools/TrackFitters/plugins/KFFittingSmootherESProducer.cc", 
+            "TrackingTools/TrajectoryFiltering/interface/MinHitsTrajectoryFilter.h", 
+            "TrackingTools/TrajectoryFiltering/python/TrajectoryFilter_cff.py"
+        ], 
+        "created_at": 1631807607, 
+        "number": 35309, 
+        "state": "open", 
+        "updated_at": 1631807645
     }
 }
