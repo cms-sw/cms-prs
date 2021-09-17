@@ -3628,5 +3628,24 @@
         "number": 35325, 
         "state": "open", 
         "updated_at": 1631895691
+    }, 
+    "35326": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Concurrency/test/streamGrapher_stallMonitor_cfg.py", 
+            "FWCore/Framework/interface/EventProcessor.h", 
+            "FWCore/Framework/src/EventProcessor.cc", 
+            "FWCore/Framework/test/BuildFile.xml", 
+            "FWCore/Framework/test/run_module_synch_lumiboundary.sh", 
+            "FWCore/Framework/test/test_mayConsumes_deadlocking_cfg.py", 
+            "FWCore/Framework/test/test_module_synch_lumiboundary_cfg.py", 
+            "FWCore/Framework/test/test_no_concurrent_module_cfg.py", 
+            "FWCore/Framework/test/test_one_modules_cfg.py", 
+            "FWCore/Integration/test/TestParentage.cc"
+        ], 
+        "created_at": 1631899064, 
+        "number": 35326, 
+        "state": "open", 
+        "updated_at": 1631899107
     }
 }
