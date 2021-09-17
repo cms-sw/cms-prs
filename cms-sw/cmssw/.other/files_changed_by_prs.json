@@ -2714,34 +2714,6 @@
         "state": "open", 
         "updated_at": 1630994587
     }, 
-    "35174": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibPPS/ESProducers/plugins/PPSAlignmentConfigurationESSource.cc", 
-            "CondCore/CTPPSPlugins/src/plugin.cc", 
-            "CondCore/Utilities/plugins/Module_2XML.cc", 
-            "CondCore/Utilities/src/CondDBFetch.cc", 
-            "CondCore/Utilities/src/CondDBImport.cc", 
-            "CondCore/Utilities/src/CondFormats.h", 
-            "CondFormats/DataRecord/interface/PPSAlignmentConfigurationRcd.h", 
-            "CondFormats/DataRecord/src/PPSAlignmentConfigurationRcd.cc", 
-            "CondFormats/PPSObjects/interface/PPSAlignmentConfiguration.h", 
-            "CondFormats/PPSObjects/src/PPSAlignmentConfiguration.cc", 
-            "CondFormats/PPSObjects/src/T_EventSetup_PPSAlignmentConfiguration.cc", 
-            "CondFormats/PPSObjects/src/classes_def.xml", 
-            "CondFormats/PPSObjects/src/headers.h", 
-            "CondFormats/PPSObjects/test/BuildFile.xml", 
-            "CondFormats/PPSObjects/test/testSerializationPPSAlignmentConfiguration.cc", 
-            "CondTools/CTPPS/plugins/RetrievePPSAlignmentConfiguration.cc", 
-            "CondTools/CTPPS/plugins/WritePPSAlignmentConfiguration.cc", 
-            "CondTools/CTPPS/test/retrieve_PPSAlignmentConfiguration_cfg.py", 
-            "CondTools/CTPPS/test/write_PPSAlignmentConfiguration_cfg.py"
-        ], 
-        "created_at": 1630949041, 
-        "number": 35174, 
-        "state": "open", 
-        "updated_at": 1631630883
-    }, 
     "35181": {
         "base_branch": "master", 
         "changed_files_names": [
