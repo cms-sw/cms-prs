@@ -2382,7 +2382,10 @@
     "34780": {
         "base_branch": "master", 
         "changed_files_names": [
+            "CalibMuon/CSCCalibration/plugins/CSCL1TPLookupTableEP.cc", 
+            "CalibMuon/CSCCalibration/python/CSCL1TPLookupTableEP_cff.py", 
             "DataFormats/CSCDigi/interface/CSCConstants.h", 
+            "IORawData/CSCCommissioning/test/readFile_b904_Run3.py", 
             "L1Trigger/CSCTriggerPrimitives/interface/CSCBaseboard.h", 
             "L1Trigger/CSCTriggerPrimitives/interface/CSCPatternBank.h", 
             "L1Trigger/CSCTriggerPrimitives/interface/ComparatorCodeLUT.h", 
@@ -2394,12 +2397,14 @@
             "L1Trigger/CSCTriggerPrimitives/src/ComparatorCodeLUT.cc", 
             "L1Trigger/CSCTriggerPrimitives/src/GEMClusterProcessor.cc", 
             "L1Trigger/CSCTriggerPrimitives/src/LCTQualityControl.cc", 
-            "L1Trigger/CSCTriggerPrimitives/test/CCLUTLinearFitWriter.cpp"
+            "L1Trigger/CSCTriggerPrimitives/test/CCLUTLinearFitWriter.cpp", 
+            "L1Trigger/CSCTriggerPrimitives/test/runCSCTriggerPrimitiveAnalyzer_cfg.py", 
+            "L1Trigger/CSCTriggerPrimitives/test/runCSCTriggerPrimitiveProducer_cfg.py"
         ], 
         "created_at": 1628092811, 
         "number": 34780, 
         "state": "open", 
-        "updated_at": 1631620556
+        "updated_at": 1631846172
     }, 
     "34788": {
         "base_branch": "master", 
