@@ -3315,42 +3315,6 @@
         "state": "open", 
         "updated_at": 1631833217
     }, 
-    "35300": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FastSimulation/Tracking/plugins/PixelTracksProducer.cc", 
-            "FastSimulation/Tracking/plugins/PixelTracksProducer.h", 
-            "RecoPixelVertexing/PixelLowPtUtilities/interface/TrackFitter.h", 
-            "RecoPixelVertexing/PixelLowPtUtilities/src/TrackFitter.cc", 
-            "RecoPixelVertexing/PixelTrackFitting/interface/KFBasedPixelFitter.h", 
-            "RecoPixelVertexing/PixelTrackFitting/interface/PixelFitter.h", 
-            "RecoPixelVertexing/PixelTrackFitting/interface/PixelFitterBase.h", 
-            "RecoPixelVertexing/PixelTrackFitting/interface/PixelFitterByConformalMappingAndLine.h", 
-            "RecoPixelVertexing/PixelTrackFitting/interface/PixelFitterByHelixProjections.h", 
-            "RecoPixelVertexing/PixelTrackFitting/interface/PixelNtupletsFitter.h", 
-            "RecoPixelVertexing/PixelTrackFitting/interface/PixelTrackReconstruction.h", 
-            "RecoPixelVertexing/PixelTrackFitting/plugins/KFBasedPixelFitterProducer.cc", 
-            "RecoPixelVertexing/PixelTrackFitting/plugins/PixelFitterByConformalMappingAndLineProducer.cc", 
-            "RecoPixelVertexing/PixelTrackFitting/plugins/PixelFitterByHelixProjectionsProducer.cc", 
-            "RecoPixelVertexing/PixelTrackFitting/plugins/PixelNtupletsFitterProducer.cc", 
-            "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackCleanerBySharedHitsESProducer.cc", 
-            "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackDumpCUDA.cc", 
-            "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackProducer.cc", 
-            "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackProducerFromSoA.cc", 
-            "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackSoAFromCUDA.cc", 
-            "RecoPixelVertexing/PixelTrackFitting/plugins/storeTracks.h", 
-            "RecoPixelVertexing/PixelTrackFitting/src/KFBasedPixelFitter.cc", 
-            "RecoPixelVertexing/PixelTrackFitting/src/PixelFitterByConformalMappingAndLine.cc", 
-            "RecoPixelVertexing/PixelTrackFitting/src/PixelFitterByHelixProjections.cc", 
-            "RecoPixelVertexing/PixelTrackFitting/src/PixelNtupletsFitter.cc", 
-            "RecoPixelVertexing/PixelTrackFitting/src/PixelTrackReconstruction.cc", 
-            "RecoPixelVertexing/PixelTrackFitting/test/PixelTrackTest.cc"
-        ], 
-        "created_at": 1631744526, 
-        "number": 35300, 
-        "state": "open", 
-        "updated_at": 1631849899
-    }, 
     "35302": {
         "base_branch": "master", 
         "changed_files_names": [
