@@ -3647,5 +3647,17 @@
         "number": 35333, 
         "state": "open", 
         "updated_at": 1632057843
+    }, 
+    "35334": {
+        "base_branch": "CMSSW_12_0_X", 
+        "changed_files_names": [
+            "RecoVertex/BeamSpotProducer/plugins/OnlineBeamSpotESProducer.cc", 
+            "RecoVertex/BeamSpotProducer/python/BeamSpotOnline_cff.py", 
+            "RecoVertex/BeamSpotProducer/test/test_scalars.py"
+        ], 
+        "created_at": 1632058940, 
+        "number": 35334, 
+        "state": "open", 
+        "updated_at": 1632058960
     }
 }
