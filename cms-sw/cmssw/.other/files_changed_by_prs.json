@@ -3691,5 +3691,18 @@
         "number": 35340, 
         "state": "open", 
         "updated_at": 1632117207
+    }, 
+    "35341": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "RecoEgamma/EgammaElectronProducers/interface/LowPtGsfElectronFeatures.h", 
+            "RecoEgamma/EgammaElectronProducers/plugins/LowPtGsfElectronIDProducer.cc", 
+            "RecoEgamma/EgammaElectronProducers/python/lowPtGsfElectronID_cff.py", 
+            "RecoEgamma/EgammaElectronProducers/src/LowPtGsfElectronFeatures.cc"
+        ], 
+        "created_at": 1632128610, 
+        "number": 35341, 
+        "state": "open", 
+        "updated_at": 1632128671
     }
 }
