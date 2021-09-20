@@ -741,6 +741,8 @@
     "32903": {
         "base_branch": "CMSSW_11_1_X", 
         "changed_files_names": [
+            "Configuration/HLT/python/autoHLT.py", 
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
             "HLTrigger/Configuration/python/HLT_75e33/eventsetup/AnalyticalPropagatorParabolicMF_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/eventsetup/AnalyticalPropagator_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/eventsetup/AnyDirectionAnalyticalPropagator_cfi.py", 
@@ -2261,7 +2263,7 @@
         "created_at": 1613165892, 
         "number": 32903, 
         "state": "open", 
-        "updated_at": 1632047088
+        "updated_at": 1632132781
     }, 
     "33532": {
         "base_branch": "master", 
