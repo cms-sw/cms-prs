@@ -3335,19 +3335,6 @@
         "state": "open", 
         "updated_at": 1631864116
     }, 
-    "35317": {
-        "base_branch": "CMSSW_12_0_X", 
-        "changed_files_names": [
-            "CUDADataFormats/SiPixelCluster/interface/gpuClusteringConstants.h", 
-            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelDigisClustersFromSoA.cc", 
-            "RecoLocalTracker/SiPixelClusterizer/plugins/gpuCalibPixel.h", 
-            "RecoLocalTracker/SiPixelClusterizer/plugins/gpuClustering.h"
-        ], 
-        "created_at": 1631864436, 
-        "number": 35317, 
-        "state": "open", 
-        "updated_at": 1631864504
-    }, 
     "35319": {
         "base_branch": "master", 
         "changed_files_names": [
