@@ -5074,5 +5074,21 @@
         "number": 35354, 
         "state": "open", 
         "updated_at": 1632221269
+    }, 
+    "35355": {
+        "base_branch": "CMSSW_12_0_X", 
+        "changed_files_names": [
+            "CondFormats/HcalObjects/interface/HcalChannelQualityGPU.h", 
+            "CondFormats/HcalObjects/src/HcalChannelQualityGPU.cc", 
+            "RecoLocalCalo/HcalRecProducers/python/hbheRecHitProducerGPUTask_cff.py", 
+            "RecoLocalCalo/HcalRecProducers/src/DeclsForKernels.h", 
+            "RecoLocalCalo/HcalRecProducers/src/HBHERecHitProducerGPU.cc", 
+            "RecoLocalCalo/HcalRecProducers/src/HcalESProducersGPUDefs.cc", 
+            "RecoLocalCalo/HcalRecProducers/src/MahiGPU.cu"
+        ], 
+        "created_at": 1632223640, 
+        "number": 35355, 
+        "state": "open", 
+        "updated_at": 1632223667
     }
 }
