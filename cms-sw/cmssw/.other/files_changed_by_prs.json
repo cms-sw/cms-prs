@@ -3227,13 +3227,16 @@
     "35328": {
         "base_branch": "master", 
         "changed_files_names": [
+            "HeterogeneousCore/SonicTriton/interface/TritonService.h", 
             "HeterogeneousCore/SonicTriton/scripts/cmsTriton", 
+            "HeterogeneousCore/SonicTriton/src/TritonService.cc", 
+            "HeterogeneousCore/SonicTriton/test/tritonTest_cfg.py", 
             "HeterogeneousCore/SonicTriton/test/unittest.sh"
         ], 
         "created_at": 1631914235, 
         "number": 35328, 
         "state": "open", 
-        "updated_at": 1631914276
+        "updated_at": 1632239385
     }, 
     "35329": {
         "base_branch": "master", 
