@@ -3095,6 +3095,16 @@
     "35307": {
         "base_branch": "CMSSW_12_0_X", 
         "changed_files_names": [
+            "DQM/EcalCommon/python/CommonParams_cfi.py", 
+            "DQM/Integration/python/clients/beam_dqm_sourceclient-live_cfg.py", 
+            "DQM/Integration/python/clients/beamhlt_dqm_sourceclient-live_cfg.py", 
+            "DQM/Integration/python/clients/beampixel_dqm_sourceclient-live_cfg.py", 
+            "DQM/Integration/python/clients/hcalcalib_dqm_sourceclient-live_cfg.py", 
+            "DQM/Integration/python/clients/hlt_dqm_clientPB-live_cfg.py", 
+            "DQM/Integration/python/clients/pixellumi_dqm_sourceclient-live_cfg.py", 
+            "DQM/Integration/python/clients/sistrip_dqm_sourceclient-live_cfg.py", 
+            "DQM/Integration/python/clients/visualization-live-secondInstance_cfg.py", 
+            "DQM/Integration/python/clients/visualization-live_cfg.py", 
             "DQM/Integration/scripts/filecollector/commonAnTS.py", 
             "DQM/Integration/scripts/filecollector/fileCollector.py", 
             "DQM/Integration/scripts/filecollector/producerFileCleanner.py", 
@@ -3103,12 +3113,13 @@
             "DQM/Integration/scripts/igfilemgr/zipmerge", 
             "DQMServices/Components/scripts/dqmiodatasetharvest.py", 
             "DQMServices/Components/scripts/root2sqlite.py", 
-            "DQMServices/StreamerIO/scripts/esMonitoring.py"
+            "DQMServices/StreamerIO/scripts/esMonitoring.py", 
+            "DQMServices/StreamerIO/scripts/ztee.py"
         ], 
         "created_at": 1631800730, 
         "number": 35307, 
         "state": "open", 
-        "updated_at": 1631835981
+        "updated_at": 1632211167
     }, 
     "35308": {
         "base_branch": "master", 
