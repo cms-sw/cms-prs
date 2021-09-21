@@ -3331,6 +3331,7 @@
     "35326": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Configuration/HLT/python/addOnTestsHLT.py", 
             "FWCore/Concurrency/test/streamGrapher_stallMonitor_cfg.py", 
             "FWCore/Framework/interface/EventProcessor.h", 
             "FWCore/Framework/src/EventProcessor.cc", 
@@ -3340,12 +3341,13 @@
             "FWCore/Framework/test/test_module_synch_lumiboundary_cfg.py", 
             "FWCore/Framework/test/test_no_concurrent_module_cfg.py", 
             "FWCore/Framework/test/test_one_modules_cfg.py", 
-            "FWCore/Integration/test/TestParentage.cc"
+            "FWCore/Integration/test/TestParentage.cc", 
+            "Utilities/ReleaseScripts/scripts/addOnTests.py"
         ], 
         "created_at": 1631899064, 
         "number": 35326, 
         "state": "open", 
-        "updated_at": 1631899107
+        "updated_at": 1632175280
     }, 
     "35327": {
         "base_branch": "master", 
