@@ -3382,6 +3382,7 @@
     "35329": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Validation/CSCRecHits/python/cscRecHitValidation_cfi.py", 
             "Validation/MuonCSCDigis/interface/CSCBaseValidation.h", 
             "Validation/MuonCSCDigis/interface/CSCStubEfficiencyValidation.h", 
             "Validation/MuonCSCDigis/interface/CSCStubMatcher.h", 
@@ -3396,7 +3397,7 @@
         "created_at": 1631927103, 
         "number": 35329, 
         "state": "open", 
-        "updated_at": 1631927264
+        "updated_at": 1632178450
     }, 
     "35330": {
         "base_branch": "master", 
