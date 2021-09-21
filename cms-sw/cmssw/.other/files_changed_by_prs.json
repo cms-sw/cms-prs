@@ -3105,6 +3105,7 @@
             "DQM/Integration/python/clients/sistrip_dqm_sourceclient-live_cfg.py", 
             "DQM/Integration/python/clients/visualization-live-secondInstance_cfg.py", 
             "DQM/Integration/python/clients/visualization-live_cfg.py", 
+            "DQM/Integration/python/config/inputsource_cfi.py", 
             "DQM/Integration/scripts/filecollector/commonAnTS.py", 
             "DQM/Integration/scripts/filecollector/fileCollector.py", 
             "DQM/Integration/scripts/filecollector/producerFileCleanner.py", 
@@ -3119,7 +3120,7 @@
         "created_at": 1631800730, 
         "number": 35307, 
         "state": "open", 
-        "updated_at": 1632211167
+        "updated_at": 1632211641
     }, 
     "35308": {
         "base_branch": "master", 
