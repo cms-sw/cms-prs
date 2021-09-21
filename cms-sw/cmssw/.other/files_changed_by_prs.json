@@ -3216,24 +3216,6 @@
         "state": "open", 
         "updated_at": 1631826303
     }, 
-    "35312": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Calibration/HcalAlCaRecoProducers/plugins/AlCaHcalIsotrkFilter.cc", 
-            "Calibration/HcalAlCaRecoProducers/plugins/AlCaHcalIsotrkProducer.cc", 
-            "Calibration/HcalAlCaRecoProducers/python/ALCARECOHcalCalIsoTrkProducerFilter_Output_cff.py", 
-            "Calibration/HcalAlCaRecoProducers/python/ALCARECOHcalCalIsoTrkProducerFilter_cff.py", 
-            "Calibration/HcalAlCaRecoProducers/test/AlCaHcalIsoTrk_cfg.py", 
-            "Configuration/EventContent/python/AlCaRecoOutput_cff.py", 
-            "Configuration/StandardSequences/python/AlCaRecoStreams_cff.py", 
-            "DataFormats/HcalCalibObjects/interface/HcalIsoTrkCalibVariables.h", 
-            "DataFormats/HcalCalibObjects/src/classes_def.xml"
-        ], 
-        "created_at": 1631816618, 
-        "number": 35312, 
-        "state": "open", 
-        "updated_at": 1631837438
-    }, 
     "35314": {
         "base_branch": "master", 
         "changed_files_names": [
