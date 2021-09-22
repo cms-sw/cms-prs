@@ -4940,5 +4940,22 @@
         "number": 35366, 
         "state": "open", 
         "updated_at": 1632291858
+    }, 
+    "35367": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoTracker/SpecialSeedGenerators/interface/CRackSeedGenerator.h", 
+            "RecoTracker/SpecialSeedGenerators/interface/CosmicRegionalSeedGenerator.h", 
+            "RecoTracker/SpecialSeedGenerators/interface/CtfSpecialSeedGenerator.h", 
+            "RecoTracker/SpecialSeedGenerators/interface/SeedGeneratorForCRack.h", 
+            "RecoTracker/SpecialSeedGenerators/src/CRackSeedGenerator.cc", 
+            "RecoTracker/SpecialSeedGenerators/src/CosmicRegionalSeedGenerator.cc", 
+            "RecoTracker/SpecialSeedGenerators/src/CtfSpecialSeedGenerator.cc", 
+            "RecoTracker/SpecialSeedGenerators/src/SeedGeneratorForCRack.cc"
+        ], 
+        "created_at": 1632296951, 
+        "number": 35367, 
+        "state": "open", 
+        "updated_at": 1632296951
     }
 }
