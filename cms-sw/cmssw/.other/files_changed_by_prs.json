@@ -4825,27 +4825,6 @@
         "state": "open", 
         "updated_at": 1632228206
     }, 
-    "35360": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Calibration/HcalAlCaRecoProducers/plugins/AlCaHcalHBHEMuonFilter.cc", 
-            "Calibration/HcalAlCaRecoProducers/plugins/AlCaHcalHBHEMuonProducer.cc", 
-            "Calibration/HcalAlCaRecoProducers/python/ALCARECOHcalCalHBHEMuonProducerFilter_Output_cff.py", 
-            "Calibration/HcalAlCaRecoProducers/python/ALCARECOHcalCalHBHEMuonProducerFilter_cff.py", 
-            "Calibration/HcalAlCaRecoProducers/python/ALCARECOHcalCalIsoTrkProducerFilter_Output_cff.py", 
-            "Calibration/HcalAlCaRecoProducers/test/AlCaHBHEMuonFilterProducer_cfg.py", 
-            "Calibration/HcalAlCaRecoProducers/test/AlCaHBHEMuonProducerFilter_cfg.py", 
-            "Calibration/HcalAlCaRecoProducers/test/AlCaHcalIsoTrk_cfg.py", 
-            "Configuration/EventContent/python/AlCaRecoOutput_cff.py", 
-            "Configuration/StandardSequences/python/AlCaRecoStreams_cff.py", 
-            "DataFormats/HcalCalibObjects/interface/HcalHBHEMuonVariables.h", 
-            "DataFormats/HcalCalibObjects/src/classes_def.xml"
-        ], 
-        "created_at": 1632231048, 
-        "number": 35360, 
-        "state": "open", 
-        "updated_at": 1632231067
-    }, 
     "35361": {
         "base_branch": "master", 
         "changed_files_names": [
