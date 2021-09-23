@@ -4820,7 +4820,9 @@
         "changed_files_names": [
             "DQM/EcalCommon/python/CommonParams_cfi.py", 
             "DQM/HcalCommon/interface/DQModule.h", 
+            "DQM/HcalCommon/interface/DQTask.h", 
             "DQM/HcalCommon/src/DQModule.cc", 
+            "DQM/HcalCommon/src/DQTask.cc", 
             "DQM/HcalTasks/interface/QIE11Task.h", 
             "DQM/HcalTasks/plugins/QIE11Task.cc", 
             "DQM/Integration/python/clients/beam_dqm_sourceclient-live_cfg.py", 
@@ -4844,7 +4846,7 @@
         "created_at": 1632291817, 
         "number": 35366, 
         "state": "open", 
-        "updated_at": 1632328287
+        "updated_at": 1632374635
     }, 
     "35367": {
         "base_branch": "master", 
