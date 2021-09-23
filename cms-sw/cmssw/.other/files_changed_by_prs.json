@@ -3064,12 +3064,14 @@
             "Validation/MuonCSCDigis/src/CSCStubEfficiencyValidation.cc", 
             "Validation/MuonCSCDigis/src/CSCStubMatcher.cc", 
             "Validation/MuonCSCDigis/src/CSCStubResolutionValidation.cc", 
-            "Validation/MuonCSCDigis/src/CSCWireDigiValidation.cc"
+            "Validation/MuonCSCDigis/src/CSCWireDigiValidation.cc", 
+            "Validation/MuonCSCDigis/test/runCSCDigiHarvesting_cfg.py", 
+            "Validation/MuonCSCDigis/test/runCSCDigiValidation_cfg.py"
         ], 
         "created_at": 1631927103, 
         "number": 35329, 
         "state": "open", 
-        "updated_at": 1632375268
+        "updated_at": 1632403577
     }, 
     "35330": {
         "base_branch": "master", 
