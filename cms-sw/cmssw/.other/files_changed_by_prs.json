@@ -4925,5 +4925,17 @@
         "number": 35405, 
         "state": "open", 
         "updated_at": 1632484770
+    }, 
+    "35406": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondCore/CondDB/interface/ConnectionPool.h", 
+            "CondCore/CondDB/python/CondDB_cfi.py", 
+            "CondCore/CondDB/src/ConnectionPool.cc"
+        ], 
+        "created_at": 1632485560, 
+        "number": 35406, 
+        "state": "open", 
+        "updated_at": 1632485586
     }
 }
