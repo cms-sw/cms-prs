@@ -4835,12 +4835,20 @@
             "CalibTracker/SiStripESProducers/plugins/fake/SiStripApvGainBuilderFromTag.h", 
             "CalibTracker/SiStripESProducers/plugins/fake/SiStripNoiseNormalizedWithApvGainBuilder.h", 
             "CalibTracker/SiStripHitEfficiency/interface/HitEff.h", 
-            "CommonTools/ConditionDBWriter/interface/ConditionDBWriter.h"
+            "CommonTools/ConditionDBWriter/interface/ConditionDBWriter.h", 
+            "CondFormats/PhysicsToolsObjects/test/SiStripDeDx2DBuilder.cc", 
+            "CondFormats/PhysicsToolsObjects/test/SiStripDeDx3DBuilder.cc", 
+            "CondFormats/PhysicsToolsObjects/test/SiStripDeDxMipBuilder.h", 
+            "CondTools/SiStrip/plugins/SiStripApvGainBuilder.h", 
+            "CondTools/SiStrip/plugins/SiStripNoisesBuilder.h", 
+            "CondTools/SiStrip/plugins/SiStripPedestalsBuilder.h", 
+            "CondTools/SiStrip/plugins/SiStripSummaryBuilder.h", 
+            "CondTools/SiStrip/plugins/SiStripThresholdBuilder.h"
         ], 
         "created_at": 1632479041, 
         "number": 35401, 
         "state": "open", 
-        "updated_at": 1632479088
+        "updated_at": 1632483098
     }, 
     "35402": {
         "base_branch": "CMSSW_12_0_X", 
