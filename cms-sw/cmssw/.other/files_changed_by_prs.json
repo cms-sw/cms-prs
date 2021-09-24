@@ -4568,13 +4568,14 @@
             "DQM/BeamMonitor/python/AlcaBeamMonitorHeavyIons_cff.py", 
             "DQM/BeamMonitor/python/AlcaBeamMonitor_cff.py", 
             "DQM/Integration/python/clients/pixel_dqm_sourceclient-live_cfg.py", 
+            "DQM/Integration/python/clients/sistrip_dqm_sourceclient-live_cfg.py", 
             "RecoVertex/BeamSpotProducer/python/BeamSpotOnline_cff.py", 
             "RecoVertex/BeamSpotProducer/python/BeamSpotOnline_cfi.py"
         ], 
         "created_at": 1632327016, 
         "number": 35373, 
         "state": "open", 
-        "updated_at": 1632474720
+        "updated_at": 1632493908
     }, 
     "35383": {
         "base_branch": "master", 
