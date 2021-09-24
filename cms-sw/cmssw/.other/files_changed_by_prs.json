@@ -4650,6 +4650,7 @@
         "changed_files_names": [
             "Calibration/HcalIsolatedTrackReco/plugins/HITRegionalPixelSeedGenerator.cc", 
             "FastSimulation/Muons/plugins/FastTSGFromL2Muon.cc", 
+            "FastSimulation/Tracking/interface/SeedFinderSelector.h", 
             "FastSimulation/Tracking/src/SeedFinderSelector.cc", 
             "HLTrigger/btau/plugins/L3MumuTrackingRegion.h", 
             "RecoEgamma/EgammaElectronProducers/plugins/TrackingRegionsFromSuperClustersProducer.cc", 
@@ -4665,6 +4666,7 @@
             "RecoMuon/TrackerSeedGenerator/plugins/TSGFromL2Muon.cc", 
             "RecoMuon/TrackerSeedGenerator/src/L1MuonRegionProducer.cc", 
             "RecoPixelVertexing/PixelLowPtUtilities/src/PixelTripletLowPtGenerator.cc", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CombinedHitTripletGenerator.cc", 
             "RecoPixelVertexing/PixelTriplets/plugins/PixelTripletHLTGenerator.cc", 
             "RecoPixelVertexing/PixelTriplets/plugins/PixelTripletLargeTipGenerator.cc", 
             "RecoPixelVertexing/PixelTriplets/plugins/PixelTripletNoTipGenerator.cc", 
@@ -4685,9 +4687,14 @@
             "RecoTracker/SpecialSeedGenerators/src/GenericPairGenerator.cc", 
             "RecoTracker/SpecialSeedGenerators/src/GenericTripletGenerator.cc", 
             "RecoTracker/SpecialSeedGenerators/src/SimpleCosmicBONSeeder.cc", 
+            "RecoTracker/TkHitPairs/interface/CombinedHitPairGenerator.h", 
+            "RecoTracker/TkHitPairs/interface/HitPairGeneratorFromLayerPair.h", 
             "RecoTracker/TkHitPairs/interface/LayerHitMapCache.h", 
+            "RecoTracker/TkHitPairs/plugins/HitPairEDProducer.cc", 
+            "RecoTracker/TkHitPairs/src/CombinedHitPairGenerator.cc", 
             "RecoTracker/TkHitPairs/src/HitPairGeneratorFromLayerPair.cc", 
             "RecoTracker/TkSeedGenerator/interface/MultiHitGeneratorFromPairAndLayers.h", 
+            "RecoTracker/TkSeedGenerator/plugins/CombinedMultiHitGenerator.cc", 
             "RecoTracker/TkSeedGenerator/plugins/MultiHitFromChi2EDProducer.cc", 
             "RecoTracker/TkSeedGenerator/plugins/MultiHitGeneratorFromChi2.cc", 
             "RecoTracker/TkSeedGenerator/plugins/MultiHitGeneratorFromChi2.h", 
@@ -4710,7 +4717,7 @@
         "created_at": 1632440038, 
         "number": 35393, 
         "state": "open", 
-        "updated_at": 1632472665
+        "updated_at": 1632492601
     }, 
     "35396": {
         "base_branch": "master", 
