@@ -4919,6 +4919,8 @@
     "35415": {
         "base_branch": "master", 
         "changed_files_names": [
+            "CondTools/SiStrip/plugins/SiStripApvGainReader.cc", 
+            "CondTools/SiStrip/plugins/SiStripApvGainReader.h", 
             "CondTools/SiStrip/plugins/SiStripBadStripReader.cc", 
             "CondTools/SiStrip/plugins/SiStripCablingTrackerMap.cc", 
             "CondTools/SiStrip/plugins/SiStripCablingTrackerMap.h", 
@@ -4930,6 +4932,8 @@
             "CondTools/SiStrip/plugins/SiStripLorentzAngleReader.cc", 
             "CondTools/SiStrip/plugins/SiStripLorentzAngleReader.h", 
             "CondTools/SiStrip/plugins/SiStripNoisesReader.h", 
+            "CondTools/SiStrip/plugins/SiStripPedestalsReader.cc", 
+            "CondTools/SiStrip/plugins/SiStripPedestalsReader.h", 
             "CondTools/SiStrip/plugins/SiStripSummaryReader.cc", 
             "CondTools/SiStrip/plugins/SiStripSummaryReader.h", 
             "CondTools/SiStrip/plugins/SiStripThresholdReader.cc", 
@@ -4938,6 +4942,6 @@
         "created_at": 1632564428, 
         "number": 35415, 
         "state": "open", 
-        "updated_at": 1632564451
+        "updated_at": 1632564994
     }
 }
