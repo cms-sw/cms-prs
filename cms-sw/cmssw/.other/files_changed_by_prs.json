@@ -4668,18 +4668,21 @@
     "35397": {
         "base_branch": "CMSSW_12_0_X", 
         "changed_files_names": [
+            "Configuration/AlCa/python/autoCond.py", 
             "Configuration/DataProcessing/python/RecoTLR.py", 
             "DQM/BeamMonitor/python/AlcaBeamMonitorHeavyIons_cff.py", 
             "DQM/BeamMonitor/python/AlcaBeamMonitor_cff.py", 
             "DQM/Integration/python/clients/pixel_dqm_sourceclient-live_cfg.py", 
             "DQM/Integration/python/clients/sistrip_dqm_sourceclient-live_cfg.py", 
+            "RecoVertex/BeamSpotProducer/plugins/BeamSpotOnlineProducer.cc", 
+            "RecoVertex/BeamSpotProducer/plugins/OnlineBeamSpotESProducer.cc", 
             "RecoVertex/BeamSpotProducer/python/BeamSpotOnline_cff.py", 
             "RecoVertex/BeamSpotProducer/python/BeamSpotOnline_cfi.py"
         ], 
         "created_at": 1632469486, 
         "number": 35397, 
         "state": "open", 
-        "updated_at": 1632493991
+        "updated_at": 1632670825
     }, 
     "35403": {
         "base_branch": "master", 
