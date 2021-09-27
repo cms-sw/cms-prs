@@ -4881,12 +4881,13 @@
         "changed_files_names": [
             "Calibration/HcalAlCaRecoProducers/plugins/AlCaDiJetsProducer.cc", 
             "Calibration/HcalAlCaRecoProducers/plugins/AlCaEcalHcalReadoutsProducer.cc", 
-            "Calibration/HcalAlCaRecoProducers/python/alcadijets_cfi.py"
+            "Calibration/HcalAlCaRecoProducers/python/alcadijets_cfi.py", 
+            "Calibration/HcalAlCaRecoProducers/python/alcahcalnoise_cfi.py"
         ], 
         "created_at": 1632747280, 
         "number": 35427, 
         "state": "open", 
-        "updated_at": 1632747300
+        "updated_at": 1632769135
     }, 
     "35428": {
         "base_branch": "CMSSW_12_0_X", 
