@@ -4306,6 +4306,7 @@
         "changed_files_names": [
             "CondFormats/HcalObjects/interface/HcalChannelQualityGPU.h", 
             "CondFormats/HcalObjects/src/HcalChannelQualityGPU.cc", 
+            "HLTrigger/Configuration/python/customizeHLTforPatatrack.py", 
             "RecoLocalCalo/HcalRecProducers/python/hbheRecHitProducerGPUTask_cff.py", 
             "RecoLocalCalo/HcalRecProducers/src/DeclsForKernels.h", 
             "RecoLocalCalo/HcalRecProducers/src/HBHERecHitProducerGPU.cc", 
@@ -4315,7 +4316,7 @@
         "created_at": 1632223640, 
         "number": 35355, 
         "state": "open", 
-        "updated_at": 1632749022
+        "updated_at": 1632858885
     }, 
     "35365": {
         "base_branch": "CMSSW_12_0_X", 
