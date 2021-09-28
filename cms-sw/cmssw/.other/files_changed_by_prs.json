@@ -4557,6 +4557,7 @@
         "changed_files_names": [
             "Configuration/AlCa/python/autoCond.py", 
             "Configuration/DataProcessing/python/RecoTLR.py", 
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
             "DQM/BeamMonitor/python/AlcaBeamMonitorHeavyIons_cff.py", 
             "DQM/BeamMonitor/python/AlcaBeamMonitor_cff.py", 
             "DQM/Integration/python/clients/pixel_dqm_sourceclient-live_cfg.py", 
@@ -4569,7 +4570,7 @@
         "created_at": 1632469486, 
         "number": 35397, 
         "state": "open", 
-        "updated_at": 1632719877
+        "updated_at": 1632826026
     }, 
     "35403": {
         "base_branch": "master", 
