@@ -5012,5 +5012,19 @@
         "number": 35452, 
         "state": "open", 
         "updated_at": 1632834375
+    }, 
+    "35454": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/CTPPS/plugins/BuildFile.xml", 
+            "DQM/CTPPS/plugins/CTPPSDiamondDQMSource.cc", 
+            "DQM/CTPPS/python/ctppsDQM_cff.py", 
+            "DQM/CTPPS/python/ctppsDiamondDQMSource_cfi.py", 
+            "DQM/CTPPS/test/diamond_dqm_test_cfg.py"
+        ], 
+        "created_at": 1632841122, 
+        "number": 35454, 
+        "state": "open", 
+        "updated_at": 1632841141
     }
 }
