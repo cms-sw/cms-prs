@@ -5060,5 +5060,18 @@
         "number": 35441, 
         "state": "open", 
         "updated_at": 1632815308
+    }, 
+    "35442": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "CondCore/Utilities/interface/Payload2XMLModule.h", 
+            "CondCore/Utilities/plugins/Module_2XML.cc", 
+            "CondCore/Utilities/python/cond2xml.py", 
+            "CondCore/Utilities/scripts/conddb"
+        ], 
+        "created_at": 1632815260, 
+        "number": 35442, 
+        "state": "open", 
+        "updated_at": 1632815335
     }
 }
