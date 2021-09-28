@@ -5027,5 +5027,38 @@
         "number": 35440, 
         "state": "open", 
         "updated_at": 1632814113
+    }, 
+    "35441": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondFormats/SiPixelTransient/interface/SiPixelUtils.h", 
+            "CondFormats/SiPixelTransient/src/SiPixelUtils.cc", 
+            "Configuration/Eras/python/Era_Phase2C11I13T27M9_cff.py", 
+            "Configuration/Eras/python/Modifier_phase2_brickedPixels_cff.py", 
+            "Configuration/Geometry/python/dict2026Geometry.py", 
+            "Configuration/ProcessModifiers/python/PixelCPEGenericForBricked_cff.py", 
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
+            "Configuration/StandardSequences/python/Eras.py", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/PixelThresholdClusterizer.cc", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/PixelThresholdClusterizer.h", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/PixelThresholdClusterizerForBricked.cc", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/PixelThresholdClusterizerForBricked.h", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelClusterProducer.cc", 
+            "RecoLocalTracker/SiPixelClusterizer/python/SiPixelClusterizer_cfi.py", 
+            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEGeneric.h", 
+            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEGenericForBricked.h", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/PixelCPEGenericESProducer.cc", 
+            "RecoLocalTracker/SiPixelRecHits/python/PixelCPEGeneric_cfi.py", 
+            "RecoLocalTracker/SiPixelRecHits/python/SiPixelRecHits_cfi.py", 
+            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEGeneric.cc", 
+            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEGenericForBricked.cc", 
+            "RecoTracker/MeasurementDet/python/MeasurementTrackerESProducer_cfi.py", 
+            "RecoTracker/TransientTrackingRecHit/python/TTRHBuilderWithTemplate_cfi.py", 
+            "RecoTracker/TransientTrackingRecHit/python/TransientTrackingRecHitBuilder_cfi.py"
+        ], 
+        "created_at": 1632815255, 
+        "number": 35441, 
+        "state": "open", 
+        "updated_at": 1632815308
     }
 }
