@@ -4721,27 +4721,6 @@
         "state": "open", 
         "updated_at": 1632743423
     }, 
-    "35427": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Calibration/HcalAlCaRecoProducers/plugins/AlCaDiJetsProducer.cc", 
-            "Calibration/HcalAlCaRecoProducers/plugins/AlCaEcalHcalReadoutsProducer.cc", 
-            "Calibration/HcalAlCaRecoProducers/python/alcadijets_cfi.py", 
-            "Calibration/HcalAlCaRecoProducers/python/alcahcalnoise_cfi.py", 
-            "RecoTracker/SpecialSeedGenerators/interface/CRackSeedGenerator.h", 
-            "RecoTracker/SpecialSeedGenerators/interface/CosmicRegionalSeedGenerator.h", 
-            "RecoTracker/SpecialSeedGenerators/interface/CtfSpecialSeedGenerator.h", 
-            "RecoTracker/SpecialSeedGenerators/interface/SeedGeneratorForCRack.h", 
-            "RecoTracker/SpecialSeedGenerators/src/CRackSeedGenerator.cc", 
-            "RecoTracker/SpecialSeedGenerators/src/CosmicRegionalSeedGenerator.cc", 
-            "RecoTracker/SpecialSeedGenerators/src/CtfSpecialSeedGenerator.cc", 
-            "RecoTracker/SpecialSeedGenerators/src/SeedGeneratorForCRack.cc"
-        ], 
-        "created_at": 1632747280, 
-        "number": 35427, 
-        "state": "open", 
-        "updated_at": 1632820204
-    }, 
     "35428": {
         "base_branch": "CMSSW_12_0_X", 
         "changed_files_names": [
