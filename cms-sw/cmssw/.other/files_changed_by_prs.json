@@ -3707,5 +3707,16 @@
         "number": 35497, 
         "state": "open", 
         "updated_at": 1633022799
+    }, 
+    "35498": {
+        "base_branch": "CMSSW_12_1_DEVEL_X", 
+        "changed_files_names": [
+            "Utilities/XrdAdaptor/src/XrdRequestManager.cc", 
+            "Utilities/XrdAdaptor/src/XrdRequestManager.h"
+        ], 
+        "created_at": 1633033588, 
+        "number": 35498, 
+        "state": "open", 
+        "updated_at": 1633033613
     }
 }
