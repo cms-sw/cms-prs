@@ -2706,6 +2706,7 @@
             "RecoPixelVertexing/PixelLowPtUtilities/interface/ClusterShapeTrajectoryFilter.h", 
             "RecoPixelVertexing/PixelLowPtUtilities/interface/StripSubClusterShapeTrajectoryFilter.h", 
             "RecoPixelVertexing/PixelLowPtUtilities/plugins/modules.cc", 
+            "RecoPixelVertexing/PixelLowPtUtilities/python/StripSubClusterShapeSeedFilter_cfi.py", 
             "RecoPixelVertexing/PixelLowPtUtilities/src/ClusterShapeTrajectoryFilter.cc", 
             "RecoPixelVertexing/PixelLowPtUtilities/src/StripSubClusterShapeTrajectoryFilter.cc", 
             "RecoTracker/CkfPattern/interface/BaseCkfTrajectoryBuilder.h", 
@@ -2724,6 +2725,7 @@
             "RecoTracker/CkfPattern/src/BaseCkfTrajectoryBuilderFactory.cc", 
             "RecoTracker/CkfPattern/src/CkfTrackCandidateMakerBase.cc", 
             "RecoTracker/CkfPattern/src/CkfTrajectoryBuilder.cc", 
+            "RecoTracker/Configuration/python/RecoTrackerTopBottom_cff.py", 
             "RecoTracker/ConversionSeedGenerators/python/ConversionStep_cff.py", 
             "RecoTracker/IterativeTracking/python/DetachedQuadStep_cff.py", 
             "RecoTracker/IterativeTracking/python/DetachedTripletStep_cff.py", 
@@ -2758,7 +2760,7 @@
         "created_at": 1632402163, 
         "number": 35385, 
         "state": "open", 
-        "updated_at": 1632743737
+        "updated_at": 1632995878
     }, 
     "35393": {
         "base_branch": "master", 
