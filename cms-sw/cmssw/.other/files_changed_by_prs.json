@@ -3362,13 +3362,15 @@
             "CondTools/SiPixel/test/BuildFile.xml", 
             "CondTools/SiPixel/test/SealModules.cc", 
             "CondTools/SiPixel/test/SiPixelBadModuleReader.h", 
+            "CondTools/SiPixel/test/SiPixelDynamicInefficiencyDB_cfg.py", 
+            "CondTools/SiPixel/test/SiPixelGainCalibScaler_cfg.py", 
             "CondTools/SiPixel/test/SiPixelLorentzAngleDB_cfg.py", 
             "CondTools/SiPixel/test/createTestDBObjects.sh"
         ], 
         "created_at": 1633018005, 
         "number": 35495, 
         "state": "open", 
-        "updated_at": 1633068748
+        "updated_at": 1633074394
     }, 
     "35496": {
         "base_branch": "master", 
