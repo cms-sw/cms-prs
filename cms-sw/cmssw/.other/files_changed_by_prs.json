@@ -3234,6 +3234,10 @@
             "CondTools/DQM/python/DQMReferenceHistogramRootFileEventSetupAnalyzer_cfi.py", 
             "CondTools/DQM/src/DQMReferenceHistogramRootFileSourceHandler.cc", 
             "CondTools/DQM/test/DQMReferenceHistogramRootFileEventSetupAnalyzer_OrcoffOnly_cfg.py", 
+            "CondTools/DQM/test/DQMReferenceHistogramRootFileEventSetupAnalyzer_SQLiteOnly_cfg.py", 
+            "CondTools/DQM/test/DQMReferenceHistogramRootFileEventSetupAnalyzer_cfg.py", 
+            "CondTools/DQM/test/DQMReferenceHistogramRootFileTest.py", 
+            "CondTools/DQM/test/DQMReferenceHistogramRootFile_PopCon_cfg.py", 
             "CondTools/DQM/test/DQMXMLFileEventSetupAnalyzer_cfg.py", 
             "DQM/Integration/scripts/harvesting_tools/cmsHarvester.py", 
             "DQMOffline/Muon/test/DQMOffline_SecondStep_cff.py"
@@ -3241,7 +3245,7 @@
         "created_at": 1633007476, 
         "number": 35491, 
         "state": "open", 
-        "updated_at": 1633025190
+        "updated_at": 1633080403
     }, 
     "35492": {
         "base_branch": "master", 
