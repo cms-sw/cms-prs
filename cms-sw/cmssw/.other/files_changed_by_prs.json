@@ -3419,5 +3419,31 @@
         "number": 35506, 
         "state": "open", 
         "updated_at": 1633095096
+    }, 
+    "35507": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibTracker/SiPixelLorentzAngle/BuildFile.xml", 
+            "CalibTracker/SiPixelLorentzAngle/interface/SiPixelLorentzAngleCalibrationStruct.h", 
+            "CalibTracker/SiPixelLorentzAngle/python/SiPixelLorentzAnglePCLHarvester_cfi.py", 
+            "CalibTracker/SiPixelLorentzAngle/python/SiPixelLorentzAnglePCLWorker_cfi.py", 
+            "CalibTracker/SiPixelLorentzAngle/src/SiPixelLorentzAnglePCLHarvester.cc", 
+            "CalibTracker/SiPixelLorentzAngle/src/SiPixelLorentzAnglePCLWorker.cc", 
+            "Calibration/TkAlCaRecoProducers/python/ALCARECOPromptCalibProdSiPixelLorentzAngle_Output_cff.py", 
+            "Calibration/TkAlCaRecoProducers/python/ALCARECOPromptCalibProdSiPixelLorentzAngle_cff.py", 
+            "Calibration/TkAlCaRecoProducers/python/AlcaSiPixelLorentzAngleHarvester_cff.py", 
+            "Calibration/TkAlCaRecoProducers/python/AlcaSiPixelLorentzAngleHarvester_cfi.py", 
+            "Configuration/AlCa/python/autoAlca.py", 
+            "Configuration/AlCa/python/autoPCL.py", 
+            "Configuration/EventContent/python/AlCaRecoOutput_cff.py", 
+            "Configuration/PyReleaseValidation/python/relval_production.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
+            "Configuration/StandardSequences/python/AlCaHarvesting_cff.py", 
+            "Configuration/StandardSequences/python/AlCaRecoStreams_cff.py"
+        ], 
+        "created_at": 1633108451, 
+        "number": 35507, 
+        "state": "open", 
+        "updated_at": 1633108477
     }
 }
