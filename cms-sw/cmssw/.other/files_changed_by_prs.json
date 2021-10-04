@@ -3306,6 +3306,14 @@
             "FWCore/Integration/test/TestParentage.cc", 
             "FWCore/Integration/test/UseValueExampleAnalyzer.cc", 
             "FWCore/Integration/test/WhatsItWatcherAnalyzer.cc", 
+            "FWCore/Integration/test/testRunMergeMERGE2_cfg.py", 
+            "FWCore/Integration/test/testRunMergeMERGE4_cfg.py", 
+            "FWCore/Integration/test/testRunMergeMERGE_cfg.py", 
+            "FWCore/Integration/test/unit_test_outputs/testConsumesInfo_1.log", 
+            "FWCore/Integration/test/unit_test_outputs/testGetBy1.log", 
+            "FWCore/Integration/test/unit_test_outputs/testGetBy2.log", 
+            "FWCore/Integration/test/unit_test_outputs/testProducerWithPsetDesc_briefdoc.txt", 
+            "FWCore/Integration/test/unit_test_outputs/testProducerWithPsetDesc_doc.txt", 
             "FWCore/MessageService/test/MLexampleModule_1.cc", 
             "FWCore/MessageService/test/MLexampleModule_1.h", 
             "FWCore/MessageService/test/MemoryTestClient_A.cc", 
@@ -3331,7 +3339,7 @@
         "created_at": 1633358153, 
         "number": 35526, 
         "state": "open", 
-        "updated_at": 1633358196
+        "updated_at": 1633378871
     }, 
     "35527": {
         "base_branch": "master", 
