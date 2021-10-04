@@ -3332,5 +3332,28 @@
         "number": 35526, 
         "state": "open", 
         "updated_at": 1633358196
+    }, 
+    "35527": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondTools/BeamSpot/plugins/BeamSpotOnlineHLTRcdReader.cc", 
+            "CondTools/BeamSpot/plugins/BeamSpotOnlineHLTRcdWriter.cc", 
+            "CondTools/BeamSpot/plugins/BeamSpotOnlineLegacyRcdWriter.cc", 
+            "CondTools/BeamSpot/plugins/BeamSpotOnlineRecordsReader.cc", 
+            "CondTools/BeamSpot/plugins/BeamSpotOnlineRecordsWriter.cc", 
+            "CondTools/BeamSpot/plugins/BuildFile.xml", 
+            "CondTools/BeamSpot/test/BeamSpotOnlineHLTRcdReader_cfg.py", 
+            "CondTools/BeamSpot/test/BeamSpotOnlineHLTRcdWriter_cfg.py", 
+            "CondTools/BeamSpot/test/BeamSpotOnlineLegacyRcdWriter_cfg.py", 
+            "CondTools/BeamSpot/test/BeamSpotOnlineRecordsReader_cfg.py", 
+            "CondTools/BeamSpot/test/BeamSpotOnlineRecordsWriter_cfg.py", 
+            "CondTools/BeamSpot/test/BuildFile.xml", 
+            "CondTools/BeamSpot/test/testReadWriteOnlineBSFromDB.cpp", 
+            "CondTools/BeamSpot/test/testReadWriteOnlineBSFromDB.sh"
+        ], 
+        "created_at": 1633359568, 
+        "number": 35527, 
+        "state": "open", 
+        "updated_at": 1633359592
     }
 }
