@@ -3205,5 +3205,19 @@
         "number": 35544, 
         "state": "open", 
         "updated_at": 1633447117
+    }, 
+    "35545": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibTracker/SiPixelESProducers/interface/SiPixelCPEGenericDBErrorParametrization.h", 
+            "CalibTracker/SiPixelESProducers/src/SiPixelCPEGenericDBErrorParametrization.cc", 
+            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEFast.h", 
+            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEGeneric.h", 
+            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEGenericForBricked.h"
+        ], 
+        "created_at": 1633455349, 
+        "number": 35545, 
+        "state": "open", 
+        "updated_at": 1633455392
     }
 }
