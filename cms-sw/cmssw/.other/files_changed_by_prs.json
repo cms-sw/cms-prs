@@ -3340,5 +3340,29 @@
         "number": 35556, 
         "state": "open", 
         "updated_at": 1633508949
+    }, 
+    "35557": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondFormats/EcalObjects/src/EcalTPGTPMode.cc", 
+            "CondTools/Ecal/src/EcalTPGOddWeightIdMapHandler.cc", 
+            "CondTools/Ecal/src/EcalTPGTPModeHandler.cc", 
+            "OnlineDB/EcalCondDB/src/FEConfigCokeDat.cc", 
+            "OnlineDB/EcalCondDB/src/FEConfigCokeInfo.cc", 
+            "OnlineDB/EcalCondDB/src/FEConfigMainInfo.cc", 
+            "OnlineDB/EcalCondDB/src/FEConfigOddWeightDat.cc", 
+            "OnlineDB/EcalCondDB/src/FEConfigOddWeightGroupDat.cc", 
+            "OnlineDB/EcalCondDB/src/FEConfigOddWeightInfo.cc", 
+            "OnlineDB/EcalCondDB/src/FEConfigOddWeightModeDat.cc", 
+            "SimCalorimetry/EcalTrigPrimAlgos/interface/EcalTrigPrimFunctionalAlgo.h", 
+            "SimCalorimetry/EcalTrigPrimAlgos/src/EcalFenixAmplitudeFilter.cc", 
+            "SimCalorimetry/EcalTrigPrimAlgos/src/EcalFenixOddAmplitudeFilter.cc", 
+            "SimCalorimetry/EcalTrigPrimAlgos/src/EcalFenixStrip.cc", 
+            "SimCalorimetry/EcalTrigPrimAlgos/src/EcalFenixTcp.cc"
+        ], 
+        "created_at": 1633509173, 
+        "number": 35557, 
+        "state": "open", 
+        "updated_at": 1633509197
     }
 }
