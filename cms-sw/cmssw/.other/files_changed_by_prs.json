@@ -3330,6 +3330,7 @@
             "CondCore/DBOutputService/test/stubs/LumiBasedUpdateAnalyzer.cc", 
             "CondFormats/MFObjects/test/MagFieldConfigDBWriter.cc", 
             "CondTools/SiPixel/plugins/SiPixelGainCalibrationReadDQMFile.cc", 
+            "CondTools/SiPixel/plugins/SiPixelTemplateDBObjectUploader.cc", 
             "CondTools/SiStrip/plugins/SiStripApvSimulationParametersBuilder.cc", 
             "CondTools/SiStrip/plugins/SiStripBadChannelBuilder.cc", 
             "DQM/BeamMonitor/plugins/BeamMonitor.cc", 
@@ -3341,7 +3342,7 @@
         "created_at": 1633508925, 
         "number": 35556, 
         "state": "open", 
-        "updated_at": 1633581302
+        "updated_at": 1633593830
     }, 
     "35557": {
         "base_branch": "master", 
