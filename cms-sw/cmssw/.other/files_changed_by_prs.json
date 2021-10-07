@@ -3435,6 +3435,7 @@
             "Geometry/HGCalCommonData/src/HGCalGeomParameters.cc", 
             "Geometry/HGCalCommonData/src/HGCalParametersFromDD.cc", 
             "Geometry/HGCalGeometry/src/HGCalGeometry.cc", 
+            "Geometry/HGCalGeometry/src/HGCalGeometryLoader.cc", 
             "Geometry/HGCalGeometry/test/HGCalGeometryRotCheck.cc", 
             "Geometry/HGCalGeometry/test/HGCalGeometryRotTest.cc", 
             "Geometry/HGCalGeometry/test/python/testHGCalGeometryRotCheck_cfg.py", 
@@ -3443,7 +3444,7 @@
         "created_at": 1633549205, 
         "number": 35563, 
         "state": "open", 
-        "updated_at": 1633583122
+        "updated_at": 1633611977
     }, 
     "35564": {
         "base_branch": "master", 
