@@ -3331,12 +3331,21 @@
             "HLTrigger/Configuration/scripts/hltGetConfiguration", 
             "HLTrigger/Configuration/scripts/hltIntegrationTests", 
             "HLTrigger/Configuration/scripts/hltListPaths", 
+            "HLTrigger/Configuration/tables/makeCRAFT", 
+            "HLTrigger/Configuration/tables/makeCRUZET", 
+            "HLTrigger/Configuration/tables/makeOnline0T", 
+            "HLTrigger/Configuration/tables/makeOnlineGRun", 
+            "HLTrigger/Configuration/tables/makeOnlineHIon", 
+            "HLTrigger/Configuration/tables/makeOnlinePIon", 
+            "HLTrigger/Configuration/tables/makeOnlinePRef", 
+            "HLTrigger/Configuration/tables/makeSubTables", 
+            "HLTrigger/Configuration/tables/makeTest", 
             "HLTrigger/Configuration/tables/subtables.sh"
         ], 
         "created_at": 1633687659, 
         "number": 35585, 
         "state": "open", 
-        "updated_at": 1633687684
+        "updated_at": 1633694347
     }, 
     "35587": {
         "base_branch": "master", 
