@@ -3322,5 +3322,21 @@
         "number": 35584, 
         "state": "open", 
         "updated_at": 1633687571
+    }, 
+    "35585": {
+        "base_branch": "CMSSW_12_0_X", 
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/Tools/confdb.py", 
+            "HLTrigger/Configuration/python/Tools/confdbOfflineConverter.py", 
+            "HLTrigger/Configuration/python/Tools/options.py", 
+            "HLTrigger/Configuration/scripts/hltGetConfiguration", 
+            "HLTrigger/Configuration/scripts/hltIntegrationTests", 
+            "HLTrigger/Configuration/scripts/hltListPaths", 
+            "HLTrigger/Configuration/tables/subtables.sh"
+        ], 
+        "created_at": 1633687659, 
+        "number": 35585, 
+        "state": "open", 
+        "updated_at": 1633687684
     }
 }
