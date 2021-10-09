@@ -3227,31 +3227,6 @@
         "state": "open", 
         "updated_at": 1633639256
     }, 
-    "35584": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "HLTrigger/Configuration/python/Tools/confdb.py", 
-            "HLTrigger/Configuration/python/Tools/confdbOfflineConverter.py", 
-            "HLTrigger/Configuration/python/Tools/options.py", 
-            "HLTrigger/Configuration/scripts/hltGetConfiguration", 
-            "HLTrigger/Configuration/scripts/hltIntegrationTests", 
-            "HLTrigger/Configuration/scripts/hltListPaths", 
-            "HLTrigger/Configuration/tables/makeCRAFT", 
-            "HLTrigger/Configuration/tables/makeCRUZET", 
-            "HLTrigger/Configuration/tables/makeOnline0T", 
-            "HLTrigger/Configuration/tables/makeOnlineGRun", 
-            "HLTrigger/Configuration/tables/makeOnlineHIon", 
-            "HLTrigger/Configuration/tables/makeOnlinePIon", 
-            "HLTrigger/Configuration/tables/makeOnlinePRef", 
-            "HLTrigger/Configuration/tables/makeSubTables", 
-            "HLTrigger/Configuration/tables/makeTest", 
-            "HLTrigger/Configuration/tables/subtables.sh"
-        ], 
-        "created_at": 1633687520, 
-        "number": 35584, 
-        "state": "open", 
-        "updated_at": 1633694339
-    }, 
     "35585": {
         "base_branch": "CMSSW_12_0_X", 
         "changed_files_names": [
