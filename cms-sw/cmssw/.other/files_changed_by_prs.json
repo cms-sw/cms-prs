@@ -2874,28 +2874,6 @@
         "state": "open", 
         "updated_at": 1633526883
     }, 
-    "35545": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibTracker/SiPixelESProducers/interface/SiPixelCPEGenericDBErrorParametrization.h", 
-            "CalibTracker/SiPixelESProducers/interface/SiPixelFakeCPEGenericErrorParmESSource.h", 
-            "CalibTracker/SiPixelESProducers/plugins/SealModules.cc", 
-            "CalibTracker/SiPixelESProducers/plugins/SiPixelFakeCPEGenericErrorParmESSource.cc", 
-            "CalibTracker/SiPixelESProducers/python/SiPixelFakeCPEGenericErrorParmESSource_cfi.py", 
-            "CalibTracker/SiPixelESProducers/src/SiPixelCPEGenericDBErrorParametrization.cc", 
-            "RecoLocalTracker/Records/interface/TkPixelCPERecord.h", 
-            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEBase.h", 
-            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEFast.h", 
-            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEGeneric.h", 
-            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEGenericForBricked.h", 
-            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEBase.cc", 
-            "RecoLocalTracker/SiPixelRecHits/test/SiPixelDBTest_cfg.py"
-        ], 
-        "created_at": 1633455349, 
-        "number": 35545, 
-        "state": "open", 
-        "updated_at": 1633565901
-    }, 
     "35547": {
         "base_branch": "master", 
         "changed_files_names": [
