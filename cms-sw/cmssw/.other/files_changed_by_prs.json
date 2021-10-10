@@ -3225,6 +3225,7 @@
             "CondFormats/SiPixelObjects/interface/SiPixelGainForHLTonGPU.h", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.cu", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/gpuCalibPixel.h", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/gpuClusterChargeCut.h", 
             "RecoLocalTracker/SiPixelRecHits/interface/pixelCPEforGPU.h", 
             "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.cc", 
             "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernelsImpl.h", 
@@ -3233,7 +3234,7 @@
         "created_at": 1633774663, 
         "number": 35598, 
         "state": "open", 
-        "updated_at": 1633849808
+        "updated_at": 1633876447
     }, 
     "35599": {
         "base_branch": "master", 
