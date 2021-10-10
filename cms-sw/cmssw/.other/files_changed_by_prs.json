@@ -3099,12 +3099,16 @@
     "35579": {
         "base_branch": "CMSSW_12_0_X", 
         "changed_files_names": [
-            "SimG4Core/Application/src/ExceptionHandler.cc"
+            "SimG4Core/Application/interface/ExceptionHandler.h", 
+            "SimG4Core/Application/python/g4SimHits_cfi.py", 
+            "SimG4Core/Application/src/ExceptionHandler.cc", 
+            "SimG4Core/Application/src/RunManagerMT.cc", 
+            "SimG4Core/Application/src/RunManagerMTWorker.cc"
         ], 
         "created_at": 1633625965, 
         "number": 35579, 
         "state": "open", 
-        "updated_at": 1633626042
+        "updated_at": 1633851260
     }, 
     "35581": {
         "base_branch": "master", 
