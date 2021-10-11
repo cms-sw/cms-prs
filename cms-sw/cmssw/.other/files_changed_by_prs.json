@@ -2978,17 +2978,19 @@
             "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h", 
             "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc", 
             "Geometry/HGCalCommonData/src/HGCalParametersFromDD.cc", 
+            "Geometry/HGCalGeometry/interface/HGCalGeometry.h", 
             "Geometry/HGCalGeometry/src/HGCalGeometry.cc", 
             "Geometry/HGCalGeometry/src/HGCalGeometryLoader.cc", 
             "Geometry/HGCalGeometry/test/HGCalGeometryRotCheck.cc", 
             "Geometry/HGCalGeometry/test/HGCalGeometryRotTest.cc", 
             "Geometry/HGCalGeometry/test/python/testHGCalGeometryRotCheck_cfg.py", 
-            "Geometry/HGCalGeometry/test/python/testHGCalGeometryRotTest_cfg.py"
+            "Geometry/HGCalGeometry/test/python/testHGCalGeometryRotTest_cfg.py", 
+            "SimG4CMS/Calo/src/HGCalNumberingScheme.cc"
         ], 
         "created_at": 1633549205, 
         "number": 35563, 
         "state": "open", 
-        "updated_at": 1633956452
+        "updated_at": 1633968512
     }, 
     "35575": {
         "base_branch": "master", 
