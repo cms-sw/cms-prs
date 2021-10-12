@@ -3249,5 +3249,18 @@
         "number": 35617, 
         "state": "open", 
         "updated_at": 1634020956
+    }, 
+    "35618": {
+        "base_branch": "CMSSW_12_0_X", 
+        "changed_files_names": [
+            "DQM/HcalCommon/interface/Constants.h", 
+            "DQM/HcalCommon/src/HashFunctions.cc", 
+            "DQM/HcalCommon/src/Utilities.cc", 
+            "DQM/HcalTasks/plugins/RawTask.cc"
+        ], 
+        "created_at": 1634020945, 
+        "number": 35618, 
+        "state": "open", 
+        "updated_at": 1634021008
     }
 }
