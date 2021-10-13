@@ -3349,12 +3349,13 @@
         "changed_files_names": [
             "RecoTracker/MkFit/README.md", 
             "RecoTracker/MkFit/plugins/BuildFile.xml", 
-            "RecoTracker/MkFit/plugins/MkFitEventOfHitsProducer.cc"
+            "RecoTracker/MkFit/plugins/MkFitEventOfHitsProducer.cc", 
+            "RecoTracker/MkFit/python/customizeHLTIter0ToMkFit.py"
         ], 
         "created_at": 1634121312, 
         "number": 35652, 
         "state": "open", 
-        "updated_at": 1634130663
+        "updated_at": 1634138651
     }, 
     "35653": {
         "base_branch": "CMSSW_12_0_X", 
