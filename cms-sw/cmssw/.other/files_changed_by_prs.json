@@ -3412,5 +3412,26 @@
         "number": 35678, 
         "state": "open", 
         "updated_at": 1634220257
+    }, 
+    "35679": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimTransport/PPSProtonTransport/BuildFile.xml", 
+            "SimTransport/PPSProtonTransport/interface/BaseProtonTransport.h", 
+            "SimTransport/PPSProtonTransport/interface/HectorTransport.h", 
+            "SimTransport/PPSProtonTransport/interface/OpticalFunctionsTransport.h", 
+            "SimTransport/PPSProtonTransport/python/CommonParameters_cfi.py", 
+            "SimTransport/PPSProtonTransport/python/HectorTransport_cfi.py", 
+            "SimTransport/PPSProtonTransport/python/OpticalFunctionsConfig_cfi.py", 
+            "SimTransport/PPSProtonTransport/src/BaseProtonTransport.cc", 
+            "SimTransport/PPSProtonTransport/src/HectorTransport.cc", 
+            "SimTransport/PPSProtonTransport/src/OpticalFunctionsTransport.cc", 
+            "SimTransport/PPSProtonTransport/src/ProtonTransport.cc", 
+            "SimTransport/PPSProtonTransport/src/TotemTransport.cc"
+        ], 
+        "created_at": 1634221853, 
+        "number": 35679, 
+        "state": "open", 
+        "updated_at": 1634221891
     }
 }
