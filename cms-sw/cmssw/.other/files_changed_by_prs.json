@@ -3339,5 +3339,22 @@
         "number": 35672, 
         "state": "open", 
         "updated_at": 1634213620
+    }, 
+    "35673": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DetectorDescription/DDCMS/plugins/DDCMSDetector.cc", 
+            "DetectorDescription/DDCMS/plugins/test/DDTestCompactView.cc", 
+            "DetectorDescription/DDCMS/plugins/test/DDTestDumpFile.cc", 
+            "DetectorDescription/DDCMS/plugins/test/DDTestDumpGeometry.cc", 
+            "DetectorDescription/DDCMS/plugins/test/DDTestFilteredView.cc", 
+            "DetectorDescription/DDCMS/plugins/test/DDTestSpecPars.cc", 
+            "DetectorDescription/DDCMS/plugins/test/DDTestSpecParsFilter.cc", 
+            "DetectorDescription/DDCMS/plugins/test/DDTestVectors.cc"
+        ], 
+        "created_at": 1634216898, 
+        "number": 35673, 
+        "state": "open", 
+        "updated_at": 1634216997
     }
 }
