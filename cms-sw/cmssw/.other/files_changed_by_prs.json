@@ -3057,12 +3057,13 @@
             "DQM/HcalCommon/interface/Constants.h", 
             "DQM/HcalCommon/src/HashFunctions.cc", 
             "DQM/HcalCommon/src/Utilities.cc", 
+            "DQM/HcalTasks/plugins/PedestalTask.cc", 
             "DQM/HcalTasks/plugins/RawTask.cc"
         ], 
         "created_at": 1634020915, 
         "number": 35617, 
         "state": "open", 
-        "updated_at": 1634072642
+        "updated_at": 1634193447
     }, 
     "35618": {
         "base_branch": "CMSSW_12_0_X", 
