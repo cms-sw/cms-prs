@@ -3070,12 +3070,13 @@
             "DQM/HcalCommon/interface/Constants.h", 
             "DQM/HcalCommon/src/HashFunctions.cc", 
             "DQM/HcalCommon/src/Utilities.cc", 
+            "DQM/HcalTasks/plugins/PedestalTask.cc", 
             "DQM/HcalTasks/plugins/RawTask.cc"
         ], 
         "created_at": 1634020945, 
         "number": 35618, 
         "state": "open", 
-        "updated_at": 1634143899
+        "updated_at": 1634193460
     }, 
     "35619": {
         "base_branch": "master", 
