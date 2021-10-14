@@ -3312,12 +3312,14 @@
     "35669": {
         "base_branch": "master", 
         "changed_files_names": [
-            "CondTools/CTPPS/plugins/WritePPSAssociationCuts.cc"
+            "CondTools/CTPPS/plugins/WritePPSAssociationCuts.cc", 
+            "CondTools/CTPPS/test/BuildFile.xml", 
+            "CondTools/CTPPS/test/test_CondToolsCTPPS.sh"
         ], 
         "created_at": 1634209578, 
         "number": 35669, 
         "state": "open", 
-        "updated_at": 1634209619
+        "updated_at": 1634222938
     }, 
     "35671": {
         "base_branch": "master", 
