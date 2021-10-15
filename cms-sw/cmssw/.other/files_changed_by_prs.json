@@ -2474,12 +2474,14 @@
         "base_branch": "CMSSW_12_0_X", 
         "changed_files_names": [
             "DQM/Integration/python/clients/sistrip_dqm_sourceclient-live_cfg.py", 
+            "DQM/Integration/python/clients/visualization-live-secondInstance_cfg.py", 
+            "DQM/Integration/python/clients/visualization-live_cfg.py", 
             "DQM/Integration/python/config/dqmPythonTypes.py"
         ], 
         "created_at": 1632288025, 
         "number": 35365, 
         "state": "open", 
-        "updated_at": 1634045100
+        "updated_at": 1634300451
     }, 
     "35385": {
         "base_branch": "master", 
