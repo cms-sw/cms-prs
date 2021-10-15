@@ -3514,5 +3514,22 @@
         "number": 35691, 
         "state": "open", 
         "updated_at": 1634300429
+    }, 
+    "35692": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Validation/HcalHits/interface/HcalSimHitStudy.h", 
+            "Validation/HcalHits/interface/SimG4HcalValidation.h", 
+            "Validation/HcalHits/interface/ZdcSimHitStudy.h", 
+            "Validation/HcalHits/plugins/BuildFile.xml", 
+            "Validation/HcalHits/plugins/HcalSimHitStudy.cc", 
+            "Validation/HcalHits/plugins/ZdcSimHitStudy.cc", 
+            "Validation/HcalHits/src/SimG4HcalValidation.cc", 
+            "Validation/HcalHits/src/module.cc"
+        ], 
+        "created_at": 1634301985, 
+        "number": 35692, 
+        "state": "open", 
+        "updated_at": 1634302011
     }
 }
