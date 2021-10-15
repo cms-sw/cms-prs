@@ -3098,13 +3098,15 @@
             "RecoTauTag/HLTProducers/python/applyL2TauTag.py", 
             "RecoTauTag/HLTProducers/src/L2TauTagFilter.cc", 
             "RecoTauTag/HLTProducers/src/L2TauTagNNProducer.cc", 
+            "RecoTauTag/HLTProducers/test/BuildFile.xml", 
             "RecoTauTag/HLTProducers/test/README.md", 
+            "RecoTauTag/HLTProducers/test/runtestRecoTauTagHLTProducers.cpp", 
             "RecoTauTag/HLTProducers/test/testL2TauTagNN.py"
         ], 
         "created_at": 1634107877, 
         "number": 35640, 
         "state": "open", 
-        "updated_at": 1634111800
+        "updated_at": 1634290720
     }, 
     "35642": {
         "base_branch": "master", 
