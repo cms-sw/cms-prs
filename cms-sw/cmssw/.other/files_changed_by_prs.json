@@ -3150,35 +3150,6 @@
         "state": "open", 
         "updated_at": 1634305782
     }, 
-    "35665": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "GeneratorInterface/Core/interface/GeneratorFilter.h", 
-            "GeneratorInterface/Core/interface/HadronizerFilter.h", 
-            "GeneratorInterface/Core/interface/PythiaHepMCFilterGammaGamma.h", 
-            "GeneratorInterface/Core/test/FailingGeneratorFilter.cc", 
-            "GeneratorInterface/ExternalDecays/interface/ExternalDecayDriver.h", 
-            "GeneratorInterface/ExternalDecays/src/ExternalDecayDriver.cc", 
-            "GeneratorInterface/Pythia6Interface/plugins/Pythia6EGun.cc", 
-            "GeneratorInterface/Pythia6Interface/plugins/Pythia6Gun.cc", 
-            "GeneratorInterface/Pythia6Interface/plugins/Pythia6Gun.h", 
-            "GeneratorInterface/Pythia6Interface/plugins/Pythia6JetGun.cc", 
-            "GeneratorInterface/Pythia6Interface/plugins/Pythia6PartonEGun.cc", 
-            "GeneratorInterface/Pythia6Interface/plugins/Pythia6PartonPtGun.cc", 
-            "GeneratorInterface/Pythia6Interface/plugins/Pythia6PtGun.cc", 
-            "GeneratorInterface/Pythia6Interface/plugins/Pythia6PtYDistGun.cc", 
-            "GeneratorInterface/Pythia6Interface/test/BasicGenTester.cc", 
-            "GeneratorInterface/Pythia6Interface/test/TauPhotonTester.cc", 
-            "GeneratorInterface/TauolaInterface/interface/TauSpinnerFilter.h", 
-            "GeneratorInterface/TauolaInterface/interface/TauolaFactory.h", 
-            "GeneratorInterface/TauolaInterface/interface/TauolappInterface.h", 
-            "GeneratorInterface/TauolaInterface/plugins/Tauolapp/TauolappInterface.cc"
-        ], 
-        "created_at": 1634153629, 
-        "number": 35665, 
-        "state": "open", 
-        "updated_at": 1634227564
-    }, 
     "35666": {
         "base_branch": "master", 
         "changed_files_names": [
