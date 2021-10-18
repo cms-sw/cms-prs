@@ -3605,5 +3605,41 @@
         "number": 35711, 
         "state": "open", 
         "updated_at": 1634496091
+    }, 
+    "35713": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "HeterogeneousCore/CUDAUtilities/interface/HistoContainer.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/HistoContainerAlgo.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/OneToManyAssoc.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/cudaCompat.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/maxCoopBlocks.h", 
+            "HeterogeneousCore/CUDAUtilities/interface/prefixScan.h", 
+            "HeterogeneousCore/CUDAUtilities/test/BuildFile.xml", 
+            "HeterogeneousCore/CUDAUtilities/test/HistoContainerRT_t.cu", 
+            "HeterogeneousCore/CUDAUtilities/test/HistoContainer_t.cpp", 
+            "HeterogeneousCore/CUDAUtilities/test/HistoContainer_t.cu", 
+            "HeterogeneousCore/CUDAUtilities/test/OneHistoContainer_t.cu", 
+            "HeterogeneousCore/CUDAUtilities/test/OneToManyAssoc_t.h", 
+            "HeterogeneousCore/CUDAUtilities/test/prefixScan_t.cu", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/gpuClustering.h", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/PixelRecHitGPUKernel.cu", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitSoAFromLegacy.cc", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.cc", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.cu", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.h", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernelsAlloc.cc", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernelsImpl.h", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/gpuClusterTracksByDensity.h", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/gpuClusterTracksDBSCAN.h", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/gpuClusterTracksIterative.h", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/gpuFitVertices.h", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/gpuSortByPt2.h", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/gpuSplitVertices.h"
+        ], 
+        "created_at": 1634540249, 
+        "number": 35713, 
+        "state": "open", 
+        "updated_at": 1634540274
     }
 }
