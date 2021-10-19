@@ -3463,5 +3463,26 @@
         "number": 35734, 
         "state": "open", 
         "updated_at": 1634657217
+    }, 
+    "35736": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4CMS/HGCalTestBeam/plugins/HGCalTBMBAnalyzer.cc", 
+            "SimG4CMS/HGCalTestBeam/plugins/HGCalTBMBProducer.cc", 
+            "SimG4CMS/HGCalTestBeam/python/hgcalTBMBAnalyzerCERN18Oct0_cfi.py", 
+            "SimG4CMS/HGCalTestBeam/python/hgcalTBMBAnalyzerCERN18Oct1_cfi.py", 
+            "SimG4CMS/HGCalTestBeam/python/hgcalTBMBAnalyzerCERNBeam18Oct0_cfi.py", 
+            "SimG4CMS/HGCalTestBeam/python/hgcalTBMBAnalyzerCERNBeam18Oct1_cfi.py", 
+            "SimG4CMS/HGCalTestBeam/python/hgcalTBMBAnalyzerCERNBeam_cfi.py", 
+            "SimG4CMS/HGCalTestBeam/python/hgcalTBMBAnalyzerCERN_cfi.py", 
+            "SimG4CMS/HGCalTestBeam/python/hgcalTBMBAnalyzerFNAL_cfi.py", 
+            "SimG4CMS/HGCalTestBeam/python/hgcalTBMBCERNBeam18Oct1_cfi.py", 
+            "SimG4CMS/HGCalTestBeam/test/HGCalTBGenSimMBNew_cfg.py", 
+            "Validation/Geometry/plugins/MaterialBudgetHcalAnalysis.cc"
+        ], 
+        "created_at": 1634659763, 
+        "number": 35736, 
+        "state": "open", 
+        "updated_at": 1634659805
     }
 }
