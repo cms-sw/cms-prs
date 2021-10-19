@@ -807,6 +807,7 @@
             "RecoLocalTracker/Records/interface/SiStripClusterizerConditionsGPURcd.h", 
             "RecoLocalTracker/Records/src/SiStripClusterizerConditionsGPURcd.cc", 
             "RecoLocalTracker/SiStripClusterizer/BuildFile.xml", 
+            "RecoLocalTracker/SiStripClusterizer/interface/StripClusterizerAlgorithmFactory.h", 
             "RecoLocalTracker/SiStripClusterizer/interface/ThreeThresholdAlgorithm.h", 
             "RecoLocalTracker/SiStripClusterizer/plugins/BuildFile.xml", 
             "RecoLocalTracker/SiStripClusterizer/plugins/ChannelLocsGPU.cc", 
@@ -825,12 +826,16 @@
             "RecoLocalTracker/SiStripClusterizer/python/customizeStripClustersFromRaw.py", 
             "RecoLocalTracker/SiStripClusterizer/src/StripClusterizerAlgorithmFactory.cc", 
             "RecoLocalTracker/SiStripClusterizer/src/ThreeThresholdAlgorithm.cc", 
-            "RecoLocalTracker/SiStripClusterizer/test/BuildFile.xml"
+            "RecoLocalTracker/SiStripClusterizer/test/BuildFile.xml", 
+            "RecoLocalTracker/SiStripZeroSuppression/interface/SiStripAPVRestorer.h", 
+            "RecoLocalTracker/SiStripZeroSuppression/interface/SiStripRawProcessingFactory.h", 
+            "RecoLocalTracker/SiStripZeroSuppression/src/SiStripAPVRestorer.cc", 
+            "RecoLocalTracker/SiStripZeroSuppression/src/SiStripRawProcessingFactory.cc"
         ], 
         "created_at": 1627240643, 
         "number": 34618, 
         "state": "open", 
-        "updated_at": 1634104559
+        "updated_at": 1634649135
     }, 
     "34640": {
         "base_branch": "master", 
