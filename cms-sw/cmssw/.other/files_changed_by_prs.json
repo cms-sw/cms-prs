@@ -3368,15 +3368,14 @@
     "35724": {
         "base_branch": "master", 
         "changed_files_names": [
-            "HLTrigger/JetMET/interface/HLTCaloJetTimingFilter.h", 
-            "HLTrigger/JetMET/interface/HLTCaloJetTimingProducer.h", 
-            "HLTrigger/JetMET/src/HLTCaloJetTimingFilter.cc", 
-            "HLTrigger/JetMET/src/HLTCaloJetTimingProducer.cc"
+            "HLTrigger/JetMET/plugins/HLTCaloJetTimingFilter.cc", 
+            "HLTrigger/JetMET/plugins/HLTCaloJetTimingProducer.cc", 
+            "HLTrigger/JetMET/test/hltCaloJetTimingFilter_cfg.py"
         ], 
         "created_at": 1634607005, 
         "number": 35724, 
         "state": "open", 
-        "updated_at": 1634607049
+        "updated_at": 1634681666
     }, 
     "35727": {
         "base_branch": "master", 
