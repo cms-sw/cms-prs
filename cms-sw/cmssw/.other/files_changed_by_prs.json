@@ -3451,5 +3451,21 @@
         "number": 35737, 
         "state": "open", 
         "updated_at": 1634678902
+    }, 
+    "35738": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/ProcessModifiers/python/convertHGCalDigisReco_cff.py", 
+            "DataFormats/HGCDigi/interface/HGCDigiCollections.h", 
+            "DataFormats/HGCDigi/src/classes_def.xml", 
+            "EventFilter/HGCalRawToDigi/plugins/HGCDigiConverter.cc", 
+            "EventFilter/HGCalRawToDigi/python/HGCalRawToDigi_cfi.py", 
+            "L1Trigger/L1THGCal/plugins/veryfrontend/HGCalVFEProcessorSums.cc", 
+            "SimCalorimetry/HGCalSimProducers/src/HGCFEElectronics.cc"
+        ], 
+        "created_at": 1634703079, 
+        "number": 35738, 
+        "state": "open", 
+        "updated_at": 1634703164
     }
 }
