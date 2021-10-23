@@ -3504,5 +3504,18 @@
         "number": 35795, 
         "state": "open", 
         "updated_at": 1634946524
+    }, 
+    "35796": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h", 
+            "Geometry/HGCalGeometry/src/HGCalGeometry.cc", 
+            "Geometry/HGCalGeometry/src/HGCalGeometryLoader.cc", 
+            "Geometry/HGCalGeometry/test/python/testHGCalCellDumpDDD_cfg.py"
+        ], 
+        "created_at": 1634946756, 
+        "number": 35796, 
+        "state": "open", 
+        "updated_at": 1634946779
     }
 }
