@@ -2923,6 +2923,7 @@
             "SimG4Core/Application/interface/RunManagerMTWorker.h", 
             "SimG4Core/Application/plugins/GeometryMTProducer.cc", 
             "SimG4Core/Application/plugins/OscarMTProducer.cc", 
+            "SimG4Core/Application/python/g4SimHits_cfi.py", 
             "SimG4Core/Application/src/RunManagerMT.cc", 
             "SimG4Core/Application/src/RunManagerMTWorker.cc", 
             "SimG4Core/Watcher/interface/SimProducer.h", 
@@ -2933,7 +2934,7 @@
         "created_at": 1634645720, 
         "number": 35732, 
         "state": "open", 
-        "updated_at": 1635067068
+        "updated_at": 1635181703
     }, 
     "35738": {
         "base_branch": "master", 
