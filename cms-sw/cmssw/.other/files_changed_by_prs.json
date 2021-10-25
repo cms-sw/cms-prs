@@ -4293,5 +4293,27 @@
         "number": 35835, 
         "state": "open", 
         "updated_at": 1635168063
+    }, 
+    "35836": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/MuonReco/interface/MuonShowerCSCCluster.h", 
+            "DataFormats/MuonReco/interface/MuonShowerCluster.h", 
+            "DataFormats/MuonReco/interface/MuonShowerDTCluster.h", 
+            "DataFormats/MuonReco/src/MuonShowerCSCCluster.cc", 
+            "DataFormats/MuonReco/src/MuonShowerCluster.cc", 
+            "DataFormats/MuonReco/src/MuonShowerDTCluster.cc", 
+            "DataFormats/MuonReco/src/classes.h", 
+            "DataFormats/MuonReco/src/classes_def.xml", 
+            "RecoMuon/MuonShowerProducer/BuildFile.xml", 
+            "RecoMuon/MuonShowerProducer/plugins/BuildFile.xml", 
+            "RecoMuon/MuonShowerProducer/plugins/CSCRechitClusterProducer.cc", 
+            "RecoMuon/MuonShowerProducer/plugins/DTRechitClusterProducer.cc", 
+            "RecoMuon/MuonShowerProducer/python/cscRechitCluster_cfi.py"
+        ], 
+        "created_at": 1635168064, 
+        "number": 35836, 
+        "state": "open", 
+        "updated_at": 1635168100
     }
 }
