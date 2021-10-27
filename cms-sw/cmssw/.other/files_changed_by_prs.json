@@ -3044,34 +3044,6 @@
         "state": "open", 
         "updated_at": 1635274988
     }, 
-    "35787": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMOffline/L1Trigger/interface/L1TTauOffline.h", 
-            "DQMOffline/L1Trigger/src/L1TMuonDQMOffline.cc", 
-            "L1Trigger/L1TNtuples/interface/L1AnalysisRecoMuon2.h", 
-            "L1Trigger/L1TNtuples/plugins/L1Muon2RecoTreeProducer.cc", 
-            "L1Trigger/L1TNtuples/src/L1AnalysisRecoMuon2.cc", 
-            "MuonAnalysis/MuonAssociators/interface/L1MuonMatcherAlgo.h", 
-            "MuonAnalysis/MuonAssociators/interface/MatcherUsingTracksAlgorithm.h", 
-            "MuonAnalysis/MuonAssociators/interface/PropagateToMuon.h", 
-            "MuonAnalysis/MuonAssociators/plugins/HLTL1MuonMatcher.cc", 
-            "MuonAnalysis/MuonAssociators/plugins/L1MuonMatcher.cc", 
-            "MuonAnalysis/MuonAssociators/plugins/MatcherByPulls.cc", 
-            "MuonAnalysis/MuonAssociators/plugins/MatcherUsingTracks.cc", 
-            "MuonAnalysis/MuonAssociators/plugins/MuonCleanerBySegments.cc", 
-            "MuonAnalysis/MuonAssociators/plugins/MuonMCClassifier.cc", 
-            "MuonAnalysis/MuonAssociators/plugins/TriggerMatcherToHLTDebug.cc", 
-            "MuonAnalysis/MuonAssociators/plugins/TriggerObjectFilterByCollection.cc", 
-            "MuonAnalysis/MuonAssociators/src/L1MuonMatcherAlgo.cc", 
-            "MuonAnalysis/MuonAssociators/src/MatcherUsingTracksAlgorithm.cc", 
-            "MuonAnalysis/MuonAssociators/src/PropagateToMuon.cc"
-        ], 
-        "created_at": 1634906485, 
-        "number": 35787, 
-        "state": "open", 
-        "updated_at": 1635159641
-    }, 
     "35793": {
         "base_branch": "master", 
         "changed_files_names": [
