@@ -3110,27 +3110,6 @@
         "state": "open", 
         "updated_at": 1635184230
     }, 
-    "35835": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibTracker/SiPixelESProducers/src/SiPixelGainCalibrationForHLTService.cc", 
-            "CalibTracker/SiPixelESProducers/src/SiPixelGainCalibrationService.cc", 
-            "CondFormats/SiPixelObjects/interface/SiPixelGainCalibrationForHLT.h", 
-            "CondFormats/SiPixelObjects/interface/SiPixelGainForHLTonGPU.h", 
-            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.cu", 
-            "RecoLocalTracker/SiPixelClusterizer/plugins/gpuCalibPixel.h", 
-            "RecoLocalTracker/SiPixelClusterizer/plugins/gpuClusterChargeCut.h", 
-            "RecoLocalTracker/SiPixelClusterizer/plugins/gpuClustering.h", 
-            "RecoLocalTracker/SiPixelRecHits/interface/pixelCPEforGPU.h", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.cc", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernelsImpl.h", 
-            "RecoPixelVertexing/PixelTriplets/plugins/GPUCACell.h"
-        ], 
-        "created_at": 1635168041, 
-        "number": 35835, 
-        "state": "open", 
-        "updated_at": 1635315912
-    }, 
     "35836": {
         "base_branch": "master", 
         "changed_files_names": [
