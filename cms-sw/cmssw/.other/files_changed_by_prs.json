@@ -3429,5 +3429,24 @@
         "number": 35884, 
         "state": "open", 
         "updated_at": 1635427595
+    }, 
+    "35885": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondTools/Hcal/interface/BoostIODBReader.h", 
+            "CondTools/Hcal/interface/BoostIODBWriter.h", 
+            "CondTools/Hcal/interface/HcalAutoPedestalValidator.h", 
+            "CondTools/Hcal/interface/HcalGainsCheck.h", 
+            "CondTools/Hcal/interface/HcalPedestalWidthsCheck.h", 
+            "CondTools/Hcal/interface/HcalPedestalsCheck.h", 
+            "CondTools/Hcal/interface/HcalQIEDataCheck.h", 
+            "CondTools/Hcal/plugins/BufferedBoostIODBWriter.cc", 
+            "CondTools/Hcal/plugins/HcalDumpConditions.cc", 
+            "CondTools/Hcal/test/HcalConditionsTest.cc"
+        ], 
+        "created_at": 1635428830, 
+        "number": 35885, 
+        "state": "open", 
+        "updated_at": 1635428881
     }
 }
