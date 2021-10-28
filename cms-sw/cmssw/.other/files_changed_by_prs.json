@@ -3304,12 +3304,14 @@
             "CalibPPS/AlignmentGlobal/plugins/PPSAlignmentHarvester.cc", 
             "CalibPPS/AlignmentGlobal/plugins/PPSAlignmentWorker.cc", 
             "CalibPPS/AlignmentGlobal/python/PPSAlignmentHarvester_cff.py", 
+            "Configuration/PyReleaseValidation/python/relval_production.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
             "Configuration/StandardSequences/python/AlCaHarvesting_cff.py"
         ], 
         "created_at": 1635404792, 
         "number": 35874, 
         "state": "open", 
-        "updated_at": 1635404834
+        "updated_at": 1635442070
     }, 
     "35875": {
         "base_branch": "master", 
