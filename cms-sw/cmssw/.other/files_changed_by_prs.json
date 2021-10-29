@@ -2961,31 +2961,6 @@
         "state": "open", 
         "updated_at": 1635279647
     }, 
-    "35765": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HGCalCommonData/data/hgcalCons/v15/hgcalCons.xml", 
-            "Geometry/HGCalCommonData/data/hgcalCons/v16/hgcalCons.xml", 
-            "Geometry/HGCalCommonData/data/hgcalcell/v15/hgcalcell.xml", 
-            "Geometry/HGCalCommonData/data/hgcalcell/v16/hgcalcell.xml", 
-            "Geometry/HGCalCommonData/data/hgcalwafer/v15/hgcalwafer.xml", 
-            "Geometry/HGCalCommonData/data/hgcalwafer/v16/hgcalwafer.xml", 
-            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc", 
-            "Geometry/HGCalCommonData/test/python/dumpHGCalV16_cfg.py", 
-            "Geometry/HGCalGeometry/test/HGCalGeometryRotTest.cc", 
-            "Geometry/HGCalSimData/data/hgcsensv15.xml", 
-            "SimG4CMS/Calo/plugins/HGCalSensitiveDetectorBuilder.cc", 
-            "SimG4CMS/Calo/src/HGCalNumberingScheme.cc", 
-            "SimG4CMS/Calo/src/HGCalSD.cc", 
-            "SimG4CMS/Calo/test/python/runHGC5_cfg.py", 
-            "SimG4CMS/Calo/test/python/runHGC6_cfg.py", 
-            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheck2026_cfg.py"
-        ], 
-        "created_at": 1634807963, 
-        "number": 35765, 
-        "state": "open", 
-        "updated_at": 1635239477
-    }, 
     "35766": {
         "base_branch": "master", 
         "changed_files_names": [
