@@ -3505,12 +3505,13 @@
     "35903": {
         "base_branch": "master", 
         "changed_files_names": [
-            "DQM/BeamMonitor/plugins/Vx3DHLTAnalyzer.cc"
+            "DQM/BeamMonitor/plugins/Vx3DHLTAnalyzer.cc", 
+            "DQM/Integration/python/clients/beampixel_dqm_sourceclient-live_cfg.py"
         ], 
         "created_at": 1635504212, 
         "number": 35903, 
         "state": "open", 
-        "updated_at": 1635504237
+        "updated_at": 1635505470
     }, 
     "35905": {
         "base_branch": "CMSSW_12_1_X", 
