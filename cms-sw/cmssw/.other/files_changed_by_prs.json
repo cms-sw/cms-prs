@@ -3409,12 +3409,15 @@
         "changed_files_names": [
             "CalibCalorimetry/HcalPlugins/test/HcalDbAnalyzer.cc", 
             "CalibCalorimetry/HcalTPGIO/src/HcalLuttoDB.cc", 
-            "Calibration/HcalConnectivity/src/HcalCableMapper.cc"
+            "Calibration/HcalConnectivity/src/HcalCableMapper.cc", 
+            "Configuration/PyReleaseValidation/python/relval_2026.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
+            "Configuration/PyReleaseValidation/scripts/runTheMatrix.py"
         ], 
         "created_at": 1635800759, 
         "number": 35948, 
         "state": "open", 
-        "updated_at": 1635883873
+        "updated_at": 1635888245
     }, 
     "35951": {
         "base_branch": "master", 
