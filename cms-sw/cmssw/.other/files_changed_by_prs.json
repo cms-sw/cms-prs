@@ -3564,5 +3564,19 @@
         "number": 35950, 
         "state": "open", 
         "updated_at": 1635804836
+    }, 
+    "35951": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/Common/interface/SoACommon.h", 
+            "DataFormats/Common/interface/SoAStore.h", 
+            "DataFormats/Common/interface/SoAView.h", 
+            "DataFormats/Common/test/BuildFile.xml", 
+            "DataFormats/Common/test/SoAStoreView_t.cc"
+        ], 
+        "created_at": 1635840509, 
+        "number": 35951, 
+        "state": "open", 
+        "updated_at": 1635840536
     }
 }
