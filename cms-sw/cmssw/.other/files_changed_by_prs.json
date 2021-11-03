@@ -3420,5 +3420,20 @@
         "number": 35968, 
         "state": "open", 
         "updated_at": 1635945237
+    }, 
+    "35970": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoHI/HiTracking/interface/HIPixelTrackFilter.h", 
+            "RecoHI/HiTracking/plugins/HIPixelTrackFilterProducer.cc", 
+            "RecoHI/HiTracking/src/HIPixelTrackFilter.cc", 
+            "RecoPixelVertexing/PixelLowPtUtilities/interface/ClusterShapeTrackFilter.h", 
+            "RecoPixelVertexing/PixelLowPtUtilities/plugins/ClusterShapeTrackFilterProducer.cc", 
+            "RecoPixelVertexing/PixelLowPtUtilities/src/ClusterShapeTrackFilter.cc"
+        ], 
+        "created_at": 1635947308, 
+        "number": 35970, 
+        "state": "open", 
+        "updated_at": 1635947392
     }
 }
