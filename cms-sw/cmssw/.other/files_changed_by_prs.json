@@ -3273,6 +3273,8 @@
             "PhysicsTools/SelectorUtils/src/classes.h", 
             "PhysicsTools/SelectorUtils/src/classes_def.xml", 
             "RecoEgamma/EgammaTools/interface/AnyMVAEstimatorRun2Base.h", 
+            "RecoEgamma/EgammaTools/interface/AnyMVAEstimatorRun2Factory.h", 
+            "RecoEgamma/EgammaTools/interface/MVAValueMapProducer.h", 
             "RecoEgamma/EgammaTools/src/AnyMVAEstimatorRun2Base.cc", 
             "RecoEgamma/ElectronIdentification/interface/ElectronMVAEstimatorRun2.h", 
             "RecoEgamma/ElectronIdentification/python/FWLite.py", 
@@ -3292,7 +3294,7 @@
         "created_at": 1635848924, 
         "number": 35953, 
         "state": "open", 
-        "updated_at": 1635865981
+        "updated_at": 1635949343
     }, 
     "35954": {
         "base_branch": "CMSSW_12_0_X", 
