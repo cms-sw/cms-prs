@@ -3119,12 +3119,14 @@
         "base_branch": "master", 
         "changed_files_names": [
             "RecoBTag/FeatureTools/interface/ChargedCandidateConverter.h", 
-            "RecoBTag/FeatureTools/interface/NeutralCandidateConverter.h"
+            "RecoBTag/FeatureTools/interface/NeutralCandidateConverter.h", 
+            "RecoBTag/FeatureTools/interface/deep_helpers.h", 
+            "RecoBTag/FeatureTools/src/deep_helpers.cc"
         ], 
         "created_at": 1635687768, 
         "number": 35922, 
         "state": "open", 
-        "updated_at": 1635856136
+        "updated_at": 1636018791
     }, 
     "35938": {
         "base_branch": "master", 
