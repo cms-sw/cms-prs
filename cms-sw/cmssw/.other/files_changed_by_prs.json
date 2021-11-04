@@ -3468,5 +3468,21 @@
         "number": 35985, 
         "state": "open", 
         "updated_at": 1636033966
+    }, 
+    "35987": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "HLTrigger/Configuration/common/utils.sh", 
+            "HLTrigger/Configuration/python/Tools/confdb.py", 
+            "HLTrigger/Configuration/python/Tools/confdbOfflineConverter.py", 
+            "HLTrigger/Configuration/python/Tools/options.py", 
+            "HLTrigger/Configuration/scripts/hltGetConfiguration", 
+            "HLTrigger/Configuration/scripts/hltIntegrationTests", 
+            "HLTrigger/Configuration/scripts/hltListPaths"
+        ], 
+        "created_at": 1636040056, 
+        "number": 35987, 
+        "state": "open", 
+        "updated_at": 1636040084
     }
 }
