@@ -3356,7 +3356,6 @@
         "changed_files_names": [
             "DQM/EcalMonitorClient/BuildFile.xml", 
             "DQM/EcalMonitorClient/interface/MLClient.h", 
-            "DQM/EcalMonitorClient/onnxModels/resnet.onnx", 
             "DQM/EcalMonitorClient/python/EcalMonitorClient_cfi.py", 
             "DQM/EcalMonitorClient/python/MLClient_cfi.py", 
             "DQM/EcalMonitorClient/src/MLClient.cc", 
@@ -3368,7 +3367,7 @@
         "created_at": 1636047434, 
         "number": 35990, 
         "state": "open", 
-        "updated_at": 1636047943
+        "updated_at": 1636106632
     }, 
     "35991": {
         "base_branch": "CMSSW_12_0_X", 
