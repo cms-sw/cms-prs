@@ -2851,30 +2851,6 @@
         "state": "open", 
         "updated_at": 1635479098
     }, 
-    "35763": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalCLUEAlgo.h", 
-            "SimCalorimetry/HGCalSimAlgos/interface/HGCalRadiationMap.h", 
-            "SimCalorimetry/HGCalSimAlgos/interface/HGCalSciNoiseMap.h", 
-            "SimCalorimetry/HGCalSimAlgos/interface/HGCalSiNoiseMap.icc", 
-            "SimCalorimetry/HGCalSimAlgos/python/hgcSensorOpParams_cfi.py", 
-            "SimCalorimetry/HGCalSimAlgos/src/HGCalRadiationMap.cc", 
-            "SimCalorimetry/HGCalSimAlgos/src/HGCalSciNoiseMap.cc", 
-            "SimCalorimetry/HGCalSimAlgos/test/HGCHEbackSignalScalerAnalyzer.cc", 
-            "SimCalorimetry/HGCalSimAlgos/test/hgchebacksignalscaler_cfg.py", 
-            "SimCalorimetry/HGCalSimAlgos/test/hgcsiNoiseMapTester_cfg.py", 
-            "SimCalorimetry/HGCalSimProducers/data/sipmParams_all4mm2.txt", 
-            "SimCalorimetry/HGCalSimProducers/interface/HGCFEElectronics.h", 
-            "SimCalorimetry/HGCalSimProducers/plugins/HGCHEbackDigitizer.cc", 
-            "SimCalorimetry/HGCalSimProducers/python/hgcalDigitizer_cfi.py", 
-            "SimCalorimetry/HGCalSimProducers/src/HGCFEElectronics.cc"
-        ], 
-        "created_at": 1634805524, 
-        "number": 35763, 
-        "state": "open", 
-        "updated_at": 1635933985
-    }, 
     "35779": {
         "base_branch": "master", 
         "changed_files_names": [
