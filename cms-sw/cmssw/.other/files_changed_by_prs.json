@@ -3610,26 +3610,6 @@
         "state": "open", 
         "updated_at": 1636123802
     }, 
-    "36015": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibFormats/SiStripObjects/test/plugins/module.cc", 
-            "CalibFormats/SiStripObjects/test/plugins/testSiStripHashedDetId.cc", 
-            "CalibFormats/SiStripObjects/test/plugins/testSiStripHashedDetId.h", 
-            "CalibTracker/SiStripESProducers/test/CheckPhase2Cabling.cc", 
-            "CalibTracker/SiStripESProducers/test/SealModules.cc", 
-            "CalibTracker/SiStripESProducers/test/testSiStripQualityESProducer.cc", 
-            "CalibTracker/SiStripESProducers/test/testSiStripQualityESProducer.h", 
-            "CondFormats/PhysicsToolsObjects/test/SiStripDeDx2DReader.cc", 
-            "CondFormats/PhysicsToolsObjects/test/SiStripDeDx3DReader.cc", 
-            "CondFormats/PhysicsToolsObjects/test/SiStripDeDxMipReader.cc", 
-            "CondFormats/PhysicsToolsObjects/test/SiStripDeDxMipReader.h"
-        ], 
-        "created_at": 1636141034, 
-        "number": 36015, 
-        "state": "open", 
-        "updated_at": 1636143004
-    }, 
     "36018": {
         "base_branch": "master", 
         "changed_files_names": [
