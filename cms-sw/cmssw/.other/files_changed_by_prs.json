@@ -2782,29 +2782,6 @@
         "state": "open", 
         "updated_at": 1636052581
     }, 
-    "35711": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/CommonAlignmentAlgorithm/plugins/SiPixelLorentzAngleCalibration.cc", 
-            "Alignment/CommonAlignmentAlgorithm/plugins/SiStripBackplaneCalibration.cc", 
-            "Alignment/CommonAlignmentAlgorithm/plugins/SiStripLorentzAngleCalibration.cc", 
-            "Alignment/CommonAlignmentProducer/plugins/GlobalTrackerMuonAlignment.cc", 
-            "Alignment/CommonAlignmentProducer/src/AlignmentProducerBase.cc", 
-            "Alignment/LaserAlignment/plugins/LaserAlignment.cc", 
-            "Alignment/MuonAlignment/plugins/MuonMisalignedProducer.cc", 
-            "Alignment/MuonAlignment/src/MuonAlignment.cc", 
-            "Alignment/OfflineValidation/plugins/TrackerGeometryCompare.cc", 
-            "Alignment/SurveyAnalysis/plugins/SurveyDBUploader.cc", 
-            "Alignment/SurveyAnalysis/plugins/SurveyInputTrackerFromDB.cc", 
-            "Alignment/TrackerAlignment/plugins/MisalignedTrackerESProducer.cc", 
-            "Alignment/TrackerAlignment/plugins/TrackerSystematicMisalignments.cc", 
-            "Alignment/TrackerAlignment/src/TrackerAlignment.cc"
-        ], 
-        "created_at": 1634496044, 
-        "number": 35711, 
-        "state": "open", 
-        "updated_at": 1635479094
-    }, 
     "35713": {
         "base_branch": "master", 
         "changed_files_names": [
