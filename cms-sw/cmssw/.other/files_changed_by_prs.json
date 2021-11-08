@@ -2906,14 +2906,12 @@
         "base_branch": "CMSSW_12_0_X", 
         "changed_files_names": [
             "DQM/BeamMonitor/plugins/BeamSpotDipServer.cc", 
-            "DQM/BeamMonitor/test/beamspotdip_dqm_sourceclient-file_cfg.py", 
-            "DQM/Integration/python/clients/beamspotdip_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/log4cplus.properties"
+            "DQM/Integration/python/clients/beamspotdip_dqm_sourceclient-live_cfg.py"
         ], 
         "created_at": 1635318579, 
         "number": 35860, 
         "state": "open", 
-        "updated_at": 1636043516
+        "updated_at": 1636370104
     }, 
     "35872": {
         "base_branch": "master", 
