@@ -3832,5 +3832,19 @@
         "number": 36040, 
         "state": "open", 
         "updated_at": 1636392534
+    }, 
+    "36041": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoLocalCalo/HGCalRecAlgos/interface/RecHitTools.h", 
+            "RecoLocalCalo/HGCalRecAlgos/src/RecHitTools.cc", 
+            "RecoLocalCalo/HGCalRecAlgos/test/BuildFile.xml", 
+            "RecoLocalCalo/HGCalRecAlgos/test/HGCalTestRecHitTools.cc", 
+            "RecoLocalCalo/HGCalRecAlgos/test/testHGCalRecHitTools_cfg.py"
+        ], 
+        "created_at": 1636392655, 
+        "number": 36041, 
+        "state": "open", 
+        "updated_at": 1636392680
     }
 }
