@@ -3763,5 +3763,20 @@
         "number": 36041, 
         "state": "open", 
         "updated_at": 1636392680
+    }, 
+    "36045": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h", 
+            "Geometry/HGCalCommonData/interface/HGCalGeomParameters.h", 
+            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc", 
+            "Geometry/HGCalCommonData/src/HGCalGeomParameters.cc", 
+            "Geometry/HGCalGeometry/test/HGCalValidScintTest.cc", 
+            "Geometry/HGCalGeometry/test/python/testHGCalValidScintTest_cfg.py"
+        ], 
+        "created_at": 1636420635, 
+        "number": 36045, 
+        "state": "open", 
+        "updated_at": 1636420682
     }
 }
