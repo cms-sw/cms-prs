@@ -3577,6 +3577,7 @@
             "DPGAnalysis/HcalTools/macros/rmt/RemoteMonitoringMAP.cc", 
             "DPGAnalysis/HcalTools/macros/rmt/RemoteMonitoringMAPTEST.cc", 
             "DPGAnalysis/HcalTools/macros/rmt/RemoteMonitoringMAPnoPSM.cc", 
+            "DPGAnalysis/HcalTools/plugins/BuildFile.xml", 
             "DPGAnalysis/HcalTools/plugins/CMTRawAnalyzer.cc", 
             "DPGAnalysis/HcalTools/python/getInfo.py", 
             "DPGAnalysis/HcalTools/python/remoteMonitoring_LASER_era2018_cfg.py", 
@@ -3622,12 +3623,13 @@
             "DPGAnalysis/HcalTools/scripts/rmt/update_rdmpage_new.csh", 
             "DPGAnalysis/HcalTools/test/ZZZALCARECOHcalCalPedestalLocal_cff.py", 
             "DPGAnalysis/HcalTools/test/readme", 
-            "DPGAnalysis/HcalTools/test/remoteMonitoring_LED_eraTEST2019_cfg.py"
+            "DPGAnalysis/HcalTools/test/remoteMonitoring_LED_eraTEST2019_cfg.py", 
+            "DPGAnalysis/HcalTools/test/remoteMonitoring_LED_eraTEST2021_cfg.py"
         ], 
         "created_at": 1636442133, 
         "number": 36049, 
         "state": "open", 
-        "updated_at": 1636442157
+        "updated_at": 1636534887
     }, 
     "36050": {
         "base_branch": "master", 
