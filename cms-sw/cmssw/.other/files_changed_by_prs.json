@@ -3833,5 +3833,20 @@
         "number": 36078, 
         "state": "open", 
         "updated_at": 1636562450
+    }, 
+    "36079": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Framework/interface/stream/EDAnalyzerAdaptor.h", 
+            "FWCore/Framework/interface/stream/EDAnalyzerAdaptorBase.h", 
+            "FWCore/Framework/interface/stream/ProducingModuleAdaptor.h", 
+            "FWCore/Framework/interface/stream/ProducingModuleAdaptorBase.h", 
+            "FWCore/Framework/src/stream/EDAnalyzerAdaptorBase.cc", 
+            "FWCore/Framework/src/stream/ProducingModuleAdaptorBase.cc"
+        ], 
+        "created_at": 1636565848, 
+        "number": 36079, 
+        "state": "open", 
+        "updated_at": 1636565884
     }
 }
