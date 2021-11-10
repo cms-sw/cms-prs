@@ -3507,6 +3507,7 @@
             "CondTools/SiPixel/plugins/SiPixelCondObjOfflineBuilder.h", 
             "CondTools/SiPixel/plugins/SiPixelDynamicInefficiencyDB.cc", 
             "CondTools/SiPixel/plugins/SiPixelGainCalibScaler.cc", 
+            "CondTools/SiPixel/plugins/SiPixelGainCalibrationReadDQMFile.cc", 
             "CondTools/SiPixel/plugins/SiPixelGainCalibrationRejectNoisyAndDead.cc", 
             "CondTools/SiPixel/plugins/SiPixelGainCalibrationRejectNoisyAndDead.h", 
             "CondTools/SiPixel/plugins/SiPixelLorentzAngleDB.cc", 
@@ -3518,7 +3519,7 @@
         "created_at": 1636392510, 
         "number": 36040, 
         "state": "open", 
-        "updated_at": 1636393222
+        "updated_at": 1636535573
     }, 
     "36041": {
         "base_branch": "master", 
