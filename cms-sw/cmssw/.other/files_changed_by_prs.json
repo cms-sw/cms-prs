@@ -3214,22 +3214,6 @@
         "state": "open", 
         "updated_at": 1636107128
     }, 
-    "36001": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "RecoTracker/TrackProducer/plugins/TrackExtraRekeyer.cc", 
-            "RecoTracker/TrackProducer/plugins/TrackProducerFromPatMuons.cc", 
-            "RecoTracker/TrackProducer/test/BuildFile.xml", 
-            "RecoTracker/TrackProducer/test/refitFromAOD.py", 
-            "RecoTracker/TrackProducer/test/refitFromMINIAOD.py", 
-            "RecoTracker/TrackProducer/test/testMuonTrackRefitting.cpp", 
-            "RecoTracker/TrackProducer/test/testMuonTrackRefitting.sh"
-        ], 
-        "created_at": 1636068365, 
-        "number": 36001, 
-        "state": "open", 
-        "updated_at": 1636068490
-    }, 
     "36018": {
         "base_branch": "master", 
         "changed_files_names": [
