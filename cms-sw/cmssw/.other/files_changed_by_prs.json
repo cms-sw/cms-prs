@@ -3658,5 +3658,24 @@
         "number": 36096, 
         "state": "open", 
         "updated_at": 1636662166
+    }, 
+    "36097": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4Core/Application/interface/RunManagerMTWorker.h", 
+            "SimG4Core/Application/plugins/OscarMTProducer.cc", 
+            "SimG4Core/Application/python/g4SimHits_cfi.py", 
+            "SimG4Core/Application/src/RunManagerMT.cc", 
+            "SimG4Core/Application/src/RunManagerMTWorker.cc", 
+            "SimG4Core/GeometryProducer/interface/GeometryProducer.h", 
+            "SimG4Core/GeometryProducer/src/GeometryProducer.cc", 
+            "SimG4Core/Watcher/interface/SimWatcher.h", 
+            "SimG4Core/Watcher/interface/SimWatcherMaker.h", 
+            "SimG4Core/Watcher/interface/SimWatcherMakerBase.h"
+        ], 
+        "created_at": 1636665161, 
+        "number": 36097, 
+        "state": "open", 
+        "updated_at": 1636665187
     }
 }
