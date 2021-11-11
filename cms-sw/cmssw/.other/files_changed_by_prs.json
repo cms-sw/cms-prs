@@ -3669,24 +3669,6 @@
         "state": "open", 
         "updated_at": 1636531346
     }, 
-    "36066": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "CondFormats/BTauObjects/interface/BTagCalibration.h", 
-            "CondFormats/BTauObjects/interface/BTagEntry.h", 
-            "CondFormats/BTauObjects/src/BTagCalibration.cc", 
-            "CondFormats/BTauObjects/src/BTagEntry.cc", 
-            "CondFormats/BTauObjects/test/testBTagCalibration.cpp", 
-            "CondFormats/BTauObjects/test/testBTagEntry.cpp", 
-            "CondTools/BTau/plugins/BTagCalibrationDbCreator.cc", 
-            "CondTools/BTau/test/testBTagCalibrationReader.cpp", 
-            "PhysicsTools/NanoAOD/plugins/BTagSFProducer.cc"
-        ], 
-        "created_at": 1636485295, 
-        "number": 36066, 
-        "state": "open", 
-        "updated_at": 1636531041
-    }, 
     "36067": {
         "base_branch": "master", 
         "changed_files_names": [
