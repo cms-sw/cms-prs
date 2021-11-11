@@ -3267,12 +3267,13 @@
             "L1Trigger/CSCTriggerPrimitives/python/params/tmbParams.py", 
             "L1Trigger/CSCTriggerPrimitives/src/CSCGEMMotherboard.cc", 
             "L1Trigger/CSCTriggerPrimitives/src/CSCMotherboard.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/GEMClusterProcessor.cc"
+            "L1Trigger/CSCTriggerPrimitives/src/GEMClusterProcessor.cc", 
+            "L1Trigger/CSCTriggerPrimitives/test/runCSCTriggerPrimitiveProducer_cfg.py"
         ], 
         "created_at": 1636427778, 
         "number": 36046, 
         "state": "open", 
-        "updated_at": 1636470011
+        "updated_at": 1636656641
     }, 
     "36049": {
         "base_branch": "master", 
