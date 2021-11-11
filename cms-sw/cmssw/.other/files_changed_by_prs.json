@@ -3122,24 +3122,6 @@
         "state": "open", 
         "updated_at": 1636359970
     }, 
-    "35990": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/EcalMonitorClient/BuildFile.xml", 
-            "DQM/EcalMonitorClient/interface/MLClient.h", 
-            "DQM/EcalMonitorClient/python/EcalMonitorClient_cfi.py", 
-            "DQM/EcalMonitorClient/python/MLClient_cfi.py", 
-            "DQM/EcalMonitorClient/src/MLClient.cc", 
-            "DQM/EcalMonitorTasks/interface/OccupancyTask.h", 
-            "DQM/EcalMonitorTasks/python/OccupancyTask_cfi.py", 
-            "DQM/EcalMonitorTasks/src/OccupancyTask.cc", 
-            "DQM/Integration/python/clients/ecal_dqm_sourceclient-live_cfg.py"
-        ], 
-        "created_at": 1636047434, 
-        "number": 35990, 
-        "state": "open", 
-        "updated_at": 1636497217
-    }, 
     "35991": {
         "base_branch": "CMSSW_12_0_X", 
         "changed_files_names": [
