@@ -3357,42 +3357,6 @@
         "state": "open", 
         "updated_at": 1636501560
     }, 
-    "36040": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibTracker/SiPixelConnectivity/test/SiPixelFedCablingMapWriter.cc", 
-            "CalibTracker/SiPixelGainCalibration/plugins/SiPixelGainCalibrationAnalysis.cc", 
-            "CalibTracker/SiPixelLorentzAngle/src/SiPixelLorentzAnglePCLHarvester.cc", 
-            "CalibTracker/SiPixelQuality/plugins/SiPixelStatusHarvester.cc", 
-            "CalibTracker/SiPixelQuality/plugins/SiPixelStatusHarvester.h", 
-            "CondFormats/SiPixelObjects/test/FastSiPixelFEDChannelContainerFromQuality.cc", 
-            "CondFormats/SiPixelObjects/test/SiPixelFEDChannelContainerFromQualityConverter.cc", 
-            "CondFormats/SiPixelObjects/test/SiPixelFedCablingMapTestWriter.cc", 
-            "CondFormats/SiPixelObjects/test/SiPixelQualityProbabilitiesTestWriter.cc", 
-            "CondFormats/SiPixelObjects/test/SiPixelQualityProbabilitiesWriteFromASCII.cc", 
-            "CondTools/SiPixel/plugins/SiPixelCalibConfigurationObjectMaker.cc", 
-            "CondTools/SiPixel/plugins/SiPixelCondObjBuilder.cc", 
-            "CondTools/SiPixel/plugins/SiPixelCondObjBuilder.h", 
-            "CondTools/SiPixel/plugins/SiPixelCondObjForHLTBuilder.cc", 
-            "CondTools/SiPixel/plugins/SiPixelCondObjForHLTBuilder.h", 
-            "CondTools/SiPixel/plugins/SiPixelCondObjOfflineBuilder.cc", 
-            "CondTools/SiPixel/plugins/SiPixelCondObjOfflineBuilder.h", 
-            "CondTools/SiPixel/plugins/SiPixelDynamicInefficiencyDB.cc", 
-            "CondTools/SiPixel/plugins/SiPixelGainCalibScaler.cc", 
-            "CondTools/SiPixel/plugins/SiPixelGainCalibrationReadDQMFile.cc", 
-            "CondTools/SiPixel/plugins/SiPixelGainCalibrationRejectNoisyAndDead.cc", 
-            "CondTools/SiPixel/plugins/SiPixelGainCalibrationRejectNoisyAndDead.h", 
-            "CondTools/SiPixel/plugins/SiPixelLorentzAngleDB.cc", 
-            "CondTools/SiPixel/plugins/SiPixelPerformanceSummaryBuilder.cc", 
-            "CondTools/SiPixel/plugins/SiPixelVCalDB.cc", 
-            "CondTools/SiPixel/plugins/SiPixelVCalDB.h", 
-            "CondTools/SiPixel/src/PixelPopConCalibSourceHandler.cc"
-        ], 
-        "created_at": 1636392510, 
-        "number": 36040, 
-        "state": "open", 
-        "updated_at": 1636541367
-    }, 
     "36041": {
         "base_branch": "master", 
         "changed_files_names": [
