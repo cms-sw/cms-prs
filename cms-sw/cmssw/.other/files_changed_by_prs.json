@@ -3236,30 +3236,6 @@
         "state": "open", 
         "updated_at": 1636541111
     }, 
-    "36078": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibCalorimetry/EcalCorrectionModules/test/stubs/EcalContainmentCorrectionAnalyzer.cc", 
-            "CalibCalorimetry/EcalLaserCorrection/test/EcalLaserDbAnalyzer.cc", 
-            "CalibCalorimetry/EcalLaserCorrection/test/EcalLaserTestAnalyzer.cc", 
-            "Calibration/Tools/test/testEcalRingCalibrationTools.cc", 
-            "CondFormats/EcalObjects/test/stubs/EcalObjectAnalyzer.cc", 
-            "CondTools/Ecal/test/stubs/EcalTestConditionAnalyzer.cc", 
-            "RecoCaloTools/Navigation/test/stubs/CaloNavigationAnalyzer.cc", 
-            "RecoEcal/EgammaCoreTools/test/filterProbClusters.cc", 
-            "RecoEcal/EgammaCoreTools/test/testEcalClusterSeverityAlgo-relVal.py", 
-            "RecoEcal/EgammaCoreTools/test/testEcalClusterSeverityAlgo.cc", 
-            "RecoEcal/EgammaCoreTools/test/testEcalClusterTools.cc", 
-            "RecoLocalCalo/EcalRecAlgos/test/stubs/testEcalSeverityLevelAlgo.cc", 
-            "RecoLocalCalo/EcalRecProducers/test/EcalLocalRecoTask.cc", 
-            "RecoLocalCalo/EcalRecProducers/test/EcalLocalRecoTask.h", 
-            "RecoTBCalo/EcalTBAnalysisCoreTools/test/stubs/EcalShowerContainmentAnalyzer.cc"
-        ], 
-        "created_at": 1636562424, 
-        "number": 36078, 
-        "state": "open", 
-        "updated_at": 1636562450
-    }, 
     "36080": {
         "base_branch": "master", 
         "changed_files_names": [
