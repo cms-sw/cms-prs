@@ -2773,24 +2773,20 @@
     "35836": {
         "base_branch": "master", 
         "changed_files_names": [
-            "DataFormats/MuonReco/interface/MuonCSCRecHitCluster.h", 
-            "DataFormats/MuonReco/interface/MuonDTRecHitCluster.h", 
             "DataFormats/MuonReco/interface/MuonRecHitCluster.h", 
-            "DataFormats/MuonReco/src/MuonCSCRecHitCluster.cc", 
-            "DataFormats/MuonReco/src/MuonDTRecHitCluster.cc", 
             "DataFormats/MuonReco/src/MuonRecHitCluster.cc", 
             "DataFormats/MuonReco/src/classes.h", 
             "DataFormats/MuonReco/src/classes_def.xml", 
             "RecoMuon/MuonRechitClusterProducer/BuildFile.xml", 
             "RecoMuon/MuonRechitClusterProducer/plugins/BuildFile.xml", 
-            "RecoMuon/MuonRechitClusterProducer/plugins/CSCRechitClusterProducer.cc", 
-            "RecoMuon/MuonRechitClusterProducer/plugins/DTRechitClusterProducer.cc", 
+            "RecoMuon/MuonRechitClusterProducer/plugins/RechitClusterProducer.cc", 
+            "RecoMuon/MuonRechitClusterProducer/plugins/RechitClusterProducer.h", 
             "RecoMuon/MuonRechitClusterProducer/python/cscRechitCluster_cfi.py"
         ], 
         "created_at": 1635168064, 
         "number": 35836, 
         "state": "open", 
-        "updated_at": 1636510475
+        "updated_at": 1637129310
     }, 
     "35839": {
         "base_branch": "master", 
