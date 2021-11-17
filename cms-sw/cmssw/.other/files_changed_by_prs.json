@@ -3501,5 +3501,35 @@
         "number": 36153, 
         "state": "open", 
         "updated_at": 1637140661
+    }, 
+    "36154": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CUDADataFormats/Track/interface/TrackSoAHeterogeneousT.h", 
+            "DataFormats/Math/interface/choleskyInversion.h", 
+            "DataFormats/Math/test/CholeskyInvert_t.cpp", 
+            "DataFormats/Math/test/CholeskyInvert_t.cu", 
+            "Geometry/TrackerGeometryBuilder/interface/phase1PixelTopology.h", 
+            "Geometry/TrackerGeometryBuilder/test/BuildFile.xml", 
+            "Geometry/TrackerGeometryBuilder/test/phase1PixelTopology_t.cu", 
+            "RecoPixelVertexing/PixelTrackFitting/interface/BrokenLine.h", 
+            "RecoPixelVertexing/PixelTriplets/plugins/BrokenLineFitOnGPU.cc", 
+            "RecoPixelVertexing/PixelTriplets/plugins/BrokenLineFitOnGPU.cu", 
+            "RecoPixelVertexing/PixelTriplets/plugins/BrokenLineFitOnGPU.h", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAConstants.h", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.cc", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.cu", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.h", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernelsImpl.h", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorOnGPU.cc", 
+            "RecoPixelVertexing/PixelTriplets/plugins/GPUCACell.h", 
+            "RecoPixelVertexing/PixelTriplets/plugins/gpuFishbone.h", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/gpuVertexFinder.cc", 
+            "Validation/RecoTrack/python/TrackValidation_cff.py"
+        ], 
+        "created_at": 1637159732, 
+        "number": 36154, 
+        "state": "open", 
+        "updated_at": 1637159760
     }
 }
