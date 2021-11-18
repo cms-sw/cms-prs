@@ -2809,42 +2809,6 @@
         "state": "open", 
         "updated_at": 1636096764
     }, 
-    "35876": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondCore/L1TPlugins/src/UpgradeRecords2.cc", 
-            "CondCore/Utilities/plugins/Module_2XML.cc", 
-            "CondCore/Utilities/src/CondFormats.h", 
-            "CondFormats/DataRecord/interface/L1TMuonOverlapFwVersionO2ORcd.h", 
-            "CondFormats/DataRecord/interface/L1TMuonOverlapFwVersionRcd.h", 
-            "CondFormats/DataRecord/src/L1TMuonOverlapFwVersionO2ORcd.cc", 
-            "CondFormats/DataRecord/src/L1TMuonOverlapFwVersionRcd.cc", 
-            "CondFormats/L1TObjects/interface/L1TMuonOverlapFwVersion.h", 
-            "CondFormats/L1TObjects/src/L1TMuonOverlapFwVersion.cc", 
-            "CondFormats/L1TObjects/src/T_EventSetup_L1TMuonOverlapFwVersion.cc", 
-            "CondFormats/L1TObjects/src/classes.h", 
-            "CondFormats/L1TObjects/src/classes_def.xml", 
-            "CondTools/L1TriggerExt/plugins/SealModule.cc", 
-            "CondTools/L1TriggerExt/python/L1CondEnumExt_cfi.py", 
-            "CondTools/L1TriggerExt/python/L1ConfigTSCPayloadsExt_cff.py", 
-            "CondTools/L1TriggerExt/python/L1O2OTagsExt_cfi.py", 
-            "CondTools/L1TriggerExt/python/L1SubsystemParamsExt_cfi.py", 
-            "L1Trigger/L1TMuonOverlap/plugins/L1TMuonOverlapFwVersionESProducer.cc", 
-            "L1Trigger/L1TMuonOverlap/plugins/L1TMuonOverlapFwVersionESProducer.h", 
-            "L1Trigger/L1TMuonOverlap/python/fakeOmtfFwVersion_cff.py", 
-            "L1TriggerConfig/L1TConfigProducers/python/L1TMuonOverlapFwVersionOnline_cfi.py", 
-            "L1TriggerConfig/L1TConfigProducers/src/L1TMuonOverlapFwVersionOnlineProd.cc", 
-            "L1TriggerConfig/L1TConfigProducers/src/L1TMuonOverlapObjectKeysOnlineProd.cc", 
-            "L1TriggerConfig/Utilities/src/L1TMuonOverlapFwVersionTester.cc", 
-            "L1TriggerConfig/Utilities/test/dumpL1TMuonOverlapFwVersion.py", 
-            "L1TriggerConfig/Utilities/test/uploadOmtfFwVersion.py", 
-            "L1TriggerConfig/Utilities/test/viewOmtfFwVersion.py"
-        ], 
-        "created_at": 1635405777, 
-        "number": 35876, 
-        "state": "open", 
-        "updated_at": 1636536473
-    }, 
     "35939": {
         "base_branch": "CMSSW_11_0_X", 
         "changed_files_names": [
