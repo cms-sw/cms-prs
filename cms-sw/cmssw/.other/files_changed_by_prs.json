@@ -3930,5 +3930,16 @@
         "number": 36173, 
         "state": "open", 
         "updated_at": 1637258429
+    }, 
+    "36174": {
+        "base_branch": "CMSSW_12_1_X", 
+        "changed_files_names": [
+            "Validation/HGCalValidation/plugins/HGCalWaferValidation.cc", 
+            "Validation/HGCalValidation/test/python/testHGCalWaferValidation_cfg.py"
+        ], 
+        "created_at": 1637269093, 
+        "number": 36174, 
+        "state": "open", 
+        "updated_at": 1637269117
     }
 }
