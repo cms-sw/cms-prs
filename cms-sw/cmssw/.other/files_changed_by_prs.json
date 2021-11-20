@@ -3514,13 +3514,17 @@
     "36187": {
         "base_branch": "master", 
         "changed_files_names": [
-            "CondTools/HLT/BuildFile.xml", 
             "CondTools/HLT/README.md", 
             "CondTools/HLT/plugins/AlCaRecoTriggerBitsRcdRead.cc", 
             "CondTools/HLT/plugins/AlCaRecoTriggerBitsRcdUpdate.cc", 
             "CondTools/HLT/plugins/BuildFile.xml", 
+            "CondTools/HLT/python/AlCaRecoTriggerBitsRcdRead_cfi.py", 
+            "CondTools/HLT/python/AlCaRecoTriggerBitsRcdUpdate_cfi.py", 
             "CondTools/HLT/scripts/run_AlCaRecoTriggerBitsUpdateWorkflow.py", 
+            "CondTools/HLT/test/AlCaRecoTriggerBitsRcdRead_TEMPL_cfg.py", 
+            "CondTools/HLT/test/AlCaRecoTriggerBitsRcdRead_cfg.py", 
             "CondTools/HLT/test/AlCaRecoTriggerBitsRcdUpdate_TEMPL_cfg.py", 
+            "CondTools/HLT/test/AlCaRecoTriggerBitsRcdUpdate_cfg.py", 
             "CondTools/HLT/test/BuildFile.xml", 
             "CondTools/HLT/test/run_wf.py", 
             "CondTools/HLT/test/testWriteReadAlCaRecoTriggerBits.sh"
@@ -3528,7 +3532,7 @@
         "created_at": 1637359879, 
         "number": 36187, 
         "state": "open", 
-        "updated_at": 1637359900
+        "updated_at": 1637405892
     }, 
     "36189": {
         "base_branch": "CMSSW_12_1_X", 
