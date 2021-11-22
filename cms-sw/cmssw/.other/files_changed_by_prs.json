@@ -2737,6 +2737,7 @@
             "DataFormats/MuonReco/src/MuonRecHitCluster.cc", 
             "DataFormats/MuonReco/src/classes.h", 
             "DataFormats/MuonReco/src/classes_def.xml", 
+            "HLTrigger/special/plugins/HLTMuonRechitClusterFilter.cc", 
             "RecoMuon/MuonRechitClusterProducer/plugins/BuildFile.xml", 
             "RecoMuon/MuonRechitClusterProducer/plugins/RechitClusterProducer.cc", 
             "RecoMuon/MuonRechitClusterProducer/python/rechitCluster_cff.py"
@@ -2744,7 +2745,7 @@
         "created_at": 1635168064, 
         "number": 35836, 
         "state": "open", 
-        "updated_at": 1637461335
+        "updated_at": 1637560230
     }, 
     "35839": {
         "base_branch": "master", 
