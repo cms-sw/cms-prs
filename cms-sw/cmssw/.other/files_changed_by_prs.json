@@ -3520,5 +3520,31 @@
         "number": 36227, 
         "state": "open", 
         "updated_at": 1637699588
+    }, 
+    "36228": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibTracker/SiStripESProducers/test/python/SiStripBadAPVListBuilder_byHand_cfg.py", 
+            "CondTools/SiStrip/test/SiStripApvSimulationParametersBuilder_cfg.py", 
+            "CondTools/SiStrip/test/SiStripBadChannelBuilder_cfg.py", 
+            "CondTools/SiStrip/test/SiStripBadChannelFromASCIIFile_cfg.py", 
+            "CondTools/SiStrip/test/SiStripBadFiberBuilder_cfg.py", 
+            "CondTools/SiStrip/test/SiStripBadModuleByHandBuilder_cfg.py", 
+            "CondTools/SiStrip/test/SiStripBadStripReader_cfg.py", 
+            "CondTools/SiStrip/test/SiStripCablingTrackerMap_cfg.py", 
+            "CondTools/SiStrip/test/SiStripDetVOffFakeBuilder_cfg.py", 
+            "CondTools/SiStrip/test/SiStripFedCablingBuilder_cfg.py", 
+            "CondTools/SiStrip/test/SiStripFedCablingReader_cfg.py", 
+            "CondTools/SiStrip/test/SiStripNoiseBuilder_cfg.py", 
+            "CondTools/SiStrip/test/SiStripSummaryBuilder_cfg.py", 
+            "CondTools/SiStrip/test/SiStripSummaryReader_cfg.py", 
+            "CondTools/SiStrip/test/SiStripThresholdBuilder_cfg.py", 
+            "CondTools/SiStrip/test/SiStripThresholdReader_cfg.py", 
+            "CondTools/SiStrip/test/testBuildersReaders.sh"
+        ], 
+        "created_at": 1637701499, 
+        "number": 36228, 
+        "state": "open", 
+        "updated_at": 1637701544
     }
 }
