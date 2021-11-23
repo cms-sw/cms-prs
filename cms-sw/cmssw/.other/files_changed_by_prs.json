@@ -3496,5 +3496,19 @@
         "number": 36225, 
         "state": "open", 
         "updated_at": 1637691234
+    }, 
+    "36226": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/L1TMonitor/interface/L1TdeCSCTPG.h", 
+            "DQM/L1TMonitor/python/L1TdeCSCTPG_cfi.py", 
+            "DQM/L1TMonitor/src/L1TdeCSCTPG.cc", 
+            "DQM/L1TMonitorClient/interface/L1TdeCSCTPGClient.h", 
+            "DQM/L1TMonitorClient/src/L1TdeCSCTPGClient.cc"
+        ], 
+        "created_at": 1637697145, 
+        "number": 36226, 
+        "state": "open", 
+        "updated_at": 1637697186
     }
 }
