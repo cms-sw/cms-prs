@@ -3646,5 +3646,25 @@
         "number": 36243, 
         "state": "open", 
         "updated_at": 1637787152
+    }, 
+    "36244": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "DataFormats/PatCandidates/interface/IsolatedTrack.h", 
+            "DataFormats/PatCandidates/src/classes_def_objects.xml", 
+            "DataFormats/TrackReco/interface/SiPixelTrackProbQXY.h", 
+            "DataFormats/TrackReco/src/classes.h", 
+            "DataFormats/TrackReco/src/classes_def.xml", 
+            "PhysicsTools/PatAlgos/plugins/PATIsolatedTrackProducer.cc", 
+            "PhysicsTools/PatAlgos/python/slimming/isolatedTracks_cfi.py", 
+            "RecoTracker/Configuration/python/RecoTracker_EventContent_cff.py", 
+            "RecoTracker/Configuration/python/RecoTracker_cff.py", 
+            "RecoTracker/DeDx/plugins/SiPixelTrackProbQXYProducer.cc", 
+            "RecoTracker/DeDx/python/siPixelTrackProbQXYProducer_cff.py"
+        ], 
+        "created_at": 1637790031, 
+        "number": 36244, 
+        "state": "open", 
+        "updated_at": 1637790059
     }
 }
