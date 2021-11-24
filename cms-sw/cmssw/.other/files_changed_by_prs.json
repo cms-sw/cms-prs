@@ -3539,5 +3539,41 @@
         "number": 36234, 
         "state": "open", 
         "updated_at": 1637759877
+    }, 
+    "36235": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CUDADataFormats/SiPixelCluster/interface/gpuClusteringConstants.h", 
+            "CUDADataFormats/TrackingRecHit/interface/TrackingRecHit2DHeterogeneous.h", 
+            "CUDADataFormats/TrackingRecHit/interface/TrackingRecHit2DSOAView.h", 
+            "CUDADataFormats/TrackingRecHit/src/TrackingRecHit2DHeterogeneous.cc", 
+            "CUDADataFormats/TrackingRecHit/test/TrackingRecHit2DCUDA_t.cpp", 
+            "CalibTracker/SiPixelLorentzAngle/src/SiPixelLorentzAnglePCLWorker.cc", 
+            "Geometry/TrackerGeometryBuilder/interface/pixelTopology.h", 
+            "Geometry/TrackerGeometryBuilder/test/phase1PixelTopology_t.cpp", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelClusterThresholds.h", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelDigisClustersFromSoA.cc", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterCUDA.cc", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.cu", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.h", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/gpuCalibPixel.h", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/gpuClusterChargeCut.h", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/gpuClustering.h", 
+            "RecoLocalTracker/SiPixelClusterizer/test/gpuClustering_t.h", 
+            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEFast.h", 
+            "RecoLocalTracker/SiPixelRecHits/interface/pixelCPEforGPU.h", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/PixelRecHitGPUKernel.cu", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/PixelRecHitGPUKernel.h", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitCUDA.cc", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitFromCUDA.cc", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitSoAFromLegacy.cc", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/gpuPixelRecHits.h", 
+            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEFast.cc", 
+            "RecoPixelVertexing/PixelTriplets/plugins/gpuFishbone.h"
+        ], 
+        "created_at": 1637761142, 
+        "number": 36235, 
+        "state": "open", 
+        "updated_at": 1637761182
     }
 }
