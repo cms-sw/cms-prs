@@ -3635,5 +3635,21 @@
         "number": 36241, 
         "state": "open", 
         "updated_at": 1637777462
+    }, 
+    "36242": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoHI/HiTracking/plugins/HIBestVertexProducer.cc", 
+            "RecoHI/HiTracking/plugins/HIMultiTrackSelector.cc", 
+            "RecoHI/HiTracking/plugins/HIPixelMedianVtxProducer.cc", 
+            "RecoHI/HiTracking/plugins/HIProtoTrackFilterProducer.cc", 
+            "RecoHI/HiTracking/plugins/HITrackingRegionProducer.h", 
+            "RecoHI/HiTracking/src/HICaloCompatibleTrackSelector.cc", 
+            "RecoHI/HiTracking/test/HIPixelClusterVtxAnalyzer.cc"
+        ], 
+        "created_at": 1637784280, 
+        "number": 36242, 
+        "state": "open", 
+        "updated_at": 1637784319
     }
 }
