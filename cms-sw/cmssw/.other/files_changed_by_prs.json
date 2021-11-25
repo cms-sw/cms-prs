@@ -3392,40 +3392,6 @@
         "state": "open", 
         "updated_at": 1637841831
     }, 
-    "36232": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/HcalCommon/interface/Utilities.h", 
-            "DQM/HcalCommon/interface/ValueQuantity.h", 
-            "DQM/HcalTasks/interface/DigiComparisonTask.h", 
-            "DQM/HcalTasks/interface/DigiTask.h", 
-            "DQM/HcalTasks/interface/LEDTask.h", 
-            "DQM/HcalTasks/interface/LaserTask.h", 
-            "DQM/HcalTasks/interface/PedestalTask.h", 
-            "DQM/HcalTasks/interface/RawRunSummary.h", 
-            "DQM/HcalTasks/interface/RawTask.h", 
-            "DQM/HcalTasks/interface/RecHitTask.h", 
-            "DQM/HcalTasks/interface/TPComparisonTask.h", 
-            "DQM/HcalTasks/interface/TPTask.h", 
-            "DQM/HcalTasks/plugins/DigiComparisonTask.cc", 
-            "DQM/HcalTasks/plugins/DigiTask.cc", 
-            "DQM/HcalTasks/plugins/LEDTask.cc", 
-            "DQM/HcalTasks/plugins/LaserTask.cc", 
-            "DQM/HcalTasks/plugins/PedestalTask.cc", 
-            "DQM/HcalTasks/plugins/RawTask.cc", 
-            "DQM/HcalTasks/plugins/RecHitTask.cc", 
-            "DQM/HcalTasks/plugins/TPComparisonTask.cc", 
-            "DQM/HcalTasks/plugins/TPTask.cc", 
-            "DQM/HcalTasks/python/DigiComparisonTask.py", 
-            "DQM/HcalTasks/python/TPComparisonTask.py", 
-            "DQM/HcalTasks/src/RawRunSummary.cc", 
-            "DQM/Integration/python/clients/hcalreco_dqm_sourceclient-live_cfg.py"
-        ], 
-        "created_at": 1637757861, 
-        "number": 36232, 
-        "state": "open", 
-        "updated_at": 1637757902
-    }, 
     "36234": {
         "base_branch": "master", 
         "changed_files_names": [
