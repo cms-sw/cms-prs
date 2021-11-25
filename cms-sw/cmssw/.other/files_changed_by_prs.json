@@ -3613,5 +3613,20 @@
         "number": 36251, 
         "state": "open", 
         "updated_at": 1637857465
+    }, 
+    "36252": {
+        "base_branch": "CMSSW_12_1_X", 
+        "changed_files_names": [
+            "Configuration/Applications/python/ConfigBuilder.py", 
+            "HLTrigger/Configuration/python/customizeHLTforALL.py", 
+            "HLTrigger/Configuration/python/customizeHLTforNewDatasetDefinition.py", 
+            "HLTrigger/Configuration/python/customizeHLTforPatatrack.py", 
+            "RecoTauTag/HLTProducers/test/testL2TauTagNN.py", 
+            "SLHCUpgradeSimulations/Geometry/test/phase2_digi_reco_pixelntuple_cfg.py"
+        ], 
+        "created_at": 1637857533, 
+        "number": 36252, 
+        "state": "open", 
+        "updated_at": 1637857560
     }
 }
