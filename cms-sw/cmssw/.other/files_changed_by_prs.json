@@ -3684,5 +3684,20 @@
         "number": 36273, 
         "state": "open", 
         "updated_at": 1638131017
+    }, 
+    "36274": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "GeneratorInterface/RivetInterface/interface/RivetAnalysis.h", 
+            "GeneratorInterface/RivetInterface/python/particleLevel_cfi.py", 
+            "PhysicsTools/NanoAOD/plugins/GenJetGenPartMerger.cc", 
+            "PhysicsTools/NanoAOD/python/electrons_cff.py", 
+            "PhysicsTools/NanoAOD/python/lowPtElectrons_cff.py", 
+            "PhysicsTools/NanoAOD/python/particlelevel_cff.py"
+        ], 
+        "created_at": 1638172023, 
+        "number": 36274, 
+        "state": "open", 
+        "updated_at": 1638172048
     }
 }
