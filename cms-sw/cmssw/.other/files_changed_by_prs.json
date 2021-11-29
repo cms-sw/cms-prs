@@ -3433,6 +3433,7 @@
         "base_branch": "master", 
         "changed_files_names": [
             "CalibTracker/SiPixelESProducers/plugins/SiPixelQualityESProducer.cc", 
+            "CalibTracker/SiPixelESProducers/python/SiPixelQualityESProducer_cfi.py", 
             "Configuration/ProcessModifiers/python/siPixelQualityRawToDigi_cff.py", 
             "EventFilter/SiPixelRawToDigi/plugins/SiPixelRawToDigi.cc", 
             "EventFilter/SiPixelRawToDigi/python/SiPixelRawToDigi_cfi.py"
@@ -3440,7 +3441,7 @@
         "created_at": 1637916405, 
         "number": 36255, 
         "state": "open", 
-        "updated_at": 1637916460
+        "updated_at": 1638201368
     }, 
     "36257": {
         "base_branch": "master", 
