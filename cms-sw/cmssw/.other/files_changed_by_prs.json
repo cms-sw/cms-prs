@@ -3587,6 +3587,7 @@
     "36275": {
         "base_branch": "master", 
         "changed_files_names": [
+            "DQM/CTPPS/plugins/CTPPSDiamondDQMSource.cc", 
             "DQM/CTPPS/python/ctppsDQM_cff.py", 
             "DQM/CTPPS/python/diamondSampicDQMSource_cfi.py", 
             "DQMServices/Core/python/nanoDQMIO_perLSoutput_cff.py"
@@ -3594,7 +3595,7 @@
         "created_at": 1638179825, 
         "number": 36275, 
         "state": "open", 
-        "updated_at": 1638184627
+        "updated_at": 1638207213
     }, 
     "36276": {
         "base_branch": "master", 
