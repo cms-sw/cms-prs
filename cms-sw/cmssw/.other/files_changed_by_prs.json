@@ -3734,5 +3734,21 @@
         "number": 36286, 
         "state": "open", 
         "updated_at": 1638209211
+    }, 
+    "36287": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/DataProcessing/python/Merge.py", 
+            "Configuration/DataProcessing/test/RunMerge.py", 
+            "IOPool/Output/interface/PoolOutputModule.h", 
+            "IOPool/Output/src/PoolOutputModule.cc", 
+            "IOPool/Output/src/RootOutputFile.cc", 
+            "IOPool/Output/src/RootOutputTree.cc", 
+            "IOPool/Output/src/RootOutputTree.h"
+        ], 
+        "created_at": 1638209874, 
+        "number": 36287, 
+        "state": "open", 
+        "updated_at": 1638209894
     }
 }
