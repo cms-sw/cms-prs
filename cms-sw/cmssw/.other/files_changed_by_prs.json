@@ -2903,14 +2903,12 @@
             "L1Trigger/CSCTriggerPrimitives/src/CSCGEMMotherboard.cc", 
             "L1Trigger/CSCTriggerPrimitives/src/CSCMotherboard.cc", 
             "L1Trigger/CSCTriggerPrimitives/src/GEMClusterProcessor.cc", 
-            "L1Trigger/CSCTriggerPrimitives/test/runCSCTriggerPrimitiveProducer_cfg.py", 
-            "Validation/MuonCSCDigis/python/cscDigiValidation_cfi.py", 
-            "Validation/MuonCSCDigis/src/CSCCorrelatedLCTDigiValidation.cc"
+            "L1Trigger/CSCTriggerPrimitives/test/runCSCTriggerPrimitiveProducer_cfg.py"
         ], 
         "created_at": 1636427778, 
         "number": 36046, 
         "state": "open", 
-        "updated_at": 1638203577
+        "updated_at": 1638205136
     }, 
     "36080": {
         "base_branch": "master", 
