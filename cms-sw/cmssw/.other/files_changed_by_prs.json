@@ -3429,40 +3429,6 @@
         "state": "open", 
         "updated_at": 1638285588
     }, 
-    "36293": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondTools/Ecal/interface/EcalChannelStatusHandler.h", 
-            "CondTools/Ecal/interface/EcalErrorMask.h", 
-            "CondTools/Ecal/src/EcalChannelStatusHandler.cc", 
-            "CondTools/Ecal/src/EcalDAQHandler.cc", 
-            "CondTools/Ecal/src/EcalDCSHandler.cc", 
-            "CondTools/Ecal/src/EcalErrorMask.cc", 
-            "CondTools/Ecal/src/EcalTPGBadStripHandler.cc", 
-            "CondTools/Ecal/src/EcalTPGBadTTHandler.cc", 
-            "CondTools/Ecal/src/EcalTPGBadXTHandler.cc", 
-            "CondTools/Ecal/src/EcalTPGFineGrainEBGroupHandler.cc", 
-            "CondTools/Ecal/src/EcalTPGFineGrainEBIdMapHandler.cc", 
-            "CondTools/Ecal/src/EcalTPGFineGrainStripEEHandler.cc", 
-            "CondTools/Ecal/src/EcalTPGFineGrainTowerEEHandler.cc", 
-            "CondTools/Ecal/src/EcalTPGLinConstHandler.cc", 
-            "CondTools/Ecal/src/EcalTPGLutGroupHandler.cc", 
-            "CondTools/Ecal/src/EcalTPGLutIdMapHandler.cc", 
-            "CondTools/Ecal/src/EcalTPGOddWeightGroupHandler.cc", 
-            "CondTools/Ecal/src/EcalTPGOddWeightIdMapHandler.cc", 
-            "CondTools/Ecal/src/EcalTPGPedestalsHandler.cc", 
-            "CondTools/Ecal/src/EcalTPGPhysicsConstHandler.cc", 
-            "CondTools/Ecal/src/EcalTPGSlidingWindowHandler.cc", 
-            "CondTools/Ecal/src/EcalTPGSpikeThresholdHandler.cc", 
-            "CondTools/Ecal/src/EcalTPGTPModeHandler.cc", 
-            "CondTools/Ecal/src/EcalTPGWeightGroupHandler.cc", 
-            "CondTools/Ecal/src/EcalTPGWeightIdMapHandler.cc"
-        ], 
-        "created_at": 1638260332, 
-        "number": 36293, 
-        "state": "open", 
-        "updated_at": 1638363824
-    }, 
     "36294": {
         "base_branch": "master", 
         "changed_files_names": [
