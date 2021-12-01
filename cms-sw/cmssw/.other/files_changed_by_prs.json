@@ -3005,18 +3005,23 @@
         "changed_files_names": [
             "CUDADataFormats/SiPixelCluster/interface/SiPixelClustersCUDA.h", 
             "CUDADataFormats/SiPixelCluster/src/SiPixelClustersCUDA.cc", 
+            "CUDADataFormats/SiPixelDigi/interface/SiPixelDigiErrorsCUDA.h", 
             "CUDADataFormats/SiPixelDigi/interface/SiPixelDigisCUDA.h", 
             "CUDADataFormats/SiPixelDigi/interface/SiPixelDigisCUDASOAView.h", 
+            "CUDADataFormats/SiPixelDigi/src/SiPixelDigiErrorsCUDA.cc", 
             "CUDADataFormats/SiPixelDigi/src/SiPixelDigisCUDA.cc", 
+            "EventFilter/SiPixelRawToDigi/plugins/SiPixelDigiErrorsSoAFromCUDA.cc", 
             "EventFilter/SiPixelRawToDigi/plugins/SiPixelDigisSoAFromCUDA.cc", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterCUDA.cc", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.cu", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/PixelRecHitGPUKernel.cu", 
             "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitSoAFromLegacy.cc", 
             "RecoLocalTracker/SiPixelRecHits/plugins/gpuPixelRecHits.h"
         ], 
         "created_at": 1637310734, 
         "number": 36176, 
         "state": "open", 
-        "updated_at": 1638357782
+        "updated_at": 1638369560
     }, 
     "36179": {
         "base_branch": "master", 
