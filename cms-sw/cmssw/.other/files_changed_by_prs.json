@@ -3469,20 +3469,6 @@
         "state": "open", 
         "updated_at": 1638300702
     }, 
-    "36286": {
-        "base_branch": "CMSSW_12_1_X", 
-        "changed_files_names": [
-            "CalibTracker/SiPixelESProducers/plugins/SiPixelQualityESProducer.cc", 
-            "CalibTracker/SiPixelESProducers/python/SiPixelQualityESProducer_cfi.py", 
-            "Configuration/ProcessModifiers/python/siPixelQualityRawToDigi_cff.py", 
-            "EventFilter/SiPixelRawToDigi/plugins/SiPixelRawToDigi.cc", 
-            "EventFilter/SiPixelRawToDigi/python/SiPixelRawToDigi_cfi.py"
-        ], 
-        "created_at": 1638209192, 
-        "number": 36286, 
-        "state": "open", 
-        "updated_at": 1638299769
-    }, 
     "36287": {
         "base_branch": "master", 
         "changed_files_names": [
