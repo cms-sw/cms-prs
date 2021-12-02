@@ -3330,6 +3330,8 @@
             "DQM/DTMonitorModule/python/dtTnPEfficiencyTask_cfi.py", 
             "DQM/RPCMonitorClient/python/RPCTier0Client_cff.py", 
             "DQM/RPCMonitorClient/python/RPCTier0Source_cff.py", 
+            "DQMOffline/Configuration/python/DQMOfflineCosmics_SecondStep_cff.py", 
+            "DQMOffline/Configuration/python/DQMOfflineCosmics_cff.py", 
             "DQMOffline/MuonDPG/BuildFile.xml", 
             "DQMOffline/MuonDPG/interface/BaseTnPEfficiencyTask.h", 
             "DQMOffline/MuonDPG/plugins/BuildFile.xml", 
@@ -3342,7 +3344,6 @@
             "DQMOffline/MuonDPG/python/dtTnPEfficiencyTask_cfi.py", 
             "DQMOffline/MuonDPG/python/rpcTnPEfficiencyClient_cfi.py", 
             "DQMOffline/MuonDPG/python/rpcTnPEfficiencyTask_cfi.py", 
-            "DQMOffline/MuonDPG/python/tnpEfficiencyClient_cfi.py", 
             "DQMOffline/MuonDPG/src/BaseTnPEfficiencyTask.cc", 
             "DQMOffline/MuonDPG/src/CSCTnPEfficiencyTask.cc", 
             "DQMOffline/MuonDPG/src/CSCTnPEfficiencyTask.h", 
@@ -3354,7 +3355,7 @@
         "created_at": 1638183696, 
         "number": 36276, 
         "state": "open", 
-        "updated_at": 1638194120
+        "updated_at": 1638451487
     }, 
     "36287": {
         "base_branch": "master", 
