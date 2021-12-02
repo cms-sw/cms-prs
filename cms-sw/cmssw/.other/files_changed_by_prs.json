@@ -2924,6 +2924,7 @@
             "DataFormats/PatCandidates/interface/Jet.h", 
             "DataFormats/PatCandidates/src/Jet.cc", 
             "DataFormats/PatCandidates/src/MET.cc", 
+            "DataFormats/PatCandidates/src/classes_def_objects.xml", 
             "JetMETCorrections/Type1MET/interface/PFJetMETcorrInputProducerT.h", 
             "PhysicsTools/PatUtils/interface/SmearedJetProducerT.h", 
             "PhysicsTools/PatUtils/plugins/PATPFJetMETcorrInputProducer.cc"
@@ -2931,7 +2932,7 @@
         "created_at": 1637224051, 
         "number": 36165, 
         "state": "open", 
-        "updated_at": 1638447325
+        "updated_at": 1638471486
     }, 
     "36168": {
         "base_branch": "master", 
