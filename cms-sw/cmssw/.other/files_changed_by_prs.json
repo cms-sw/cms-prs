@@ -3482,36 +3482,6 @@
         "state": "open", 
         "updated_at": 1638384635
     }, 
-    "36314": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4Core/Application/interface/GFlashEMShowerModel.h", 
-            "SimG4Core/Application/interface/RunManagerMT.h", 
-            "SimG4Core/Application/interface/RunManagerMTWorker.h", 
-            "SimG4Core/Application/src/GFlashEMShowerModel.cc", 
-            "SimG4Core/Application/src/GFlashHadronShowerModel.cc", 
-            "SimG4Core/Application/src/RunManagerMT.cc", 
-            "SimG4Core/Application/src/RunManagerMTWorker.cc", 
-            "SimG4Core/CustomPhysics/interface/CustomParticleFactory.h", 
-            "SimG4Core/CustomPhysics/src/CustomParticleFactory.cc", 
-            "SimG4Core/CustomPhysics/src/CustomPhysicsList.cc", 
-            "SimG4Core/CustomPhysics/src/CustomPhysicsListSS.cc", 
-            "SimG4Core/CustomPhysics/src/G4ProcessHelper.cc", 
-            "SimG4Core/GFlash/interface/GflashEMShowerModel.h", 
-            "SimG4Core/GFlash/src/GflashEMShowerModel.cc", 
-            "SimG4Core/GFlash/src/GflashHadronShowerModel.cc", 
-            "SimG4Core/Geometry/interface/CustomUIsession.h", 
-            "SimG4Core/Geometry/src/CustomUIsession.cc", 
-            "SimG4Core/Geometry/src/DDDWorld.cc", 
-            "SimG4Core/Geometry/src/DDG4ProductionCuts.cc", 
-            "SimG4Core/MagneticField/src/Field.cc", 
-            "SimG4Core/PhysicsLists/src/MonopoleTransportation.cc"
-        ], 
-        "created_at": 1638357015, 
-        "number": 36314, 
-        "state": "open", 
-        "updated_at": 1638453569
-    }, 
     "36315": {
         "base_branch": "CMSSW_12_1_X", 
         "changed_files_names": [
