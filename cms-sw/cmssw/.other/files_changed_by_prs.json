@@ -2800,21 +2800,13 @@
     "36018": {
         "base_branch": "master", 
         "changed_files_names": [
-            "DataFormats/CSCDigi/interface/CSCConstants.h", 
             "DataFormats/L1TGlobal/interface/GlobalObject.h", 
             "DataFormats/L1TGlobal/src/GlobalObject.cc", 
             "L1Trigger/CSCTriggerPrimitives/README.md", 
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCGEMMotherboard.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/LCTQualityControl.h", 
-            "L1Trigger/CSCTriggerPrimitives/interface/PulseArray.h", 
             "L1Trigger/CSCTriggerPrimitives/plugins/CSCTriggerPrimitivesProducer.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCBaseboard.cc", 
             "L1Trigger/CSCTriggerPrimitives/src/CSCGEMMatcher.cc", 
             "L1Trigger/CSCTriggerPrimitives/src/CSCGEMMotherboard.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/CSCMotherboard.cc", 
             "L1Trigger/CSCTriggerPrimitives/src/GEMClusterProcessor.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/GEMInternalCluster.cc", 
-            "L1Trigger/CSCTriggerPrimitives/src/LCTQualityAssignment.cc", 
             "L1Trigger/L1TGlobal/interface/GlobalBoard.h", 
             "L1Trigger/L1TGlobal/interface/GlobalDefinitions.h", 
             "L1Trigger/L1TGlobal/interface/MuonShowerCondition.h", 
@@ -2850,7 +2842,7 @@
         "created_at": 1636159159, 
         "number": 36018, 
         "state": "open", 
-        "updated_at": 1638477001
+        "updated_at": 1638478138
     }, 
     "36037": {
         "base_branch": "master", 
