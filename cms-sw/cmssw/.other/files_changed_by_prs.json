@@ -3726,5 +3726,19 @@
         "number": 36333, 
         "state": "open", 
         "updated_at": 1638440739
+    }, 
+    "36334": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondTools/SiStrip/plugins/SiStripChannelGainFromDBMiscalibrator.cc", 
+            "CondTools/SiStrip/plugins/SiStripNoisesFromDBMiscalibrator.cc", 
+            "CondTools/SiStrip/test/SiStripChannelGainFromDBMiscalibrator_cfg.py", 
+            "CondTools/SiStrip/test/SiStripNoiseFromDBMiscalibrator_cfg.py", 
+            "CondTools/SiStrip/test/testBuildersReaders.sh"
+        ], 
+        "created_at": 1638445833, 
+        "number": 36334, 
+        "state": "open", 
+        "updated_at": 1638445858
     }
 }
