@@ -4511,5 +4511,16 @@
         "number": 36350, 
         "state": "open", 
         "updated_at": 1638547244
+    }, 
+    "36352": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "FastSimulation/SimplifiedGeometryPropagator/interface/ParticleManager.h", 
+            "FastSimulation/SimplifiedGeometryPropagator/src/ParticleManager.cc"
+        ], 
+        "created_at": 1638548638, 
+        "number": 36352, 
+        "state": "open", 
+        "updated_at": 1638548686
     }
 }
