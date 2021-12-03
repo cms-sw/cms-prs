@@ -2679,12 +2679,14 @@
             "RecoEcal/EgammaClusterProducers/src/SCEnergyCorrectorDRNProducer.cc", 
             "RecoEcal/EgammaClusterProducers/test/BuildFile.xml", 
             "RecoEcal/EgammaClusterProducers/test/DRNTestNTuplizer.cc", 
-            "RecoEcal/EgammaClusterProducers/test/DRNTest_cfg.py"
+            "RecoEcal/EgammaClusterProducers/test/DRNTest_cfg.py", 
+            "RecoEcal/EgammaClusterProducers/test/runtestRecoEcalEgammaClusterProducers.cpp", 
+            "RecoEcal/EgammaClusterProducers/test/runtests.sh"
         ], 
         "created_at": 1635173687, 
         "number": 35839, 
         "state": "open", 
-        "updated_at": 1638446576
+        "updated_at": 1638536376
     }, 
     "35850": {
         "base_branch": "master", 
