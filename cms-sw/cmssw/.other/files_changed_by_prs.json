@@ -3208,14 +3208,10 @@
             "CalibPPS/ESProducers/plugins/BuildFile.xml", 
             "CalibPPS/ESProducers/plugins/PPSAlignmentConfigESSource.cc", 
             "CalibPPS/ESProducers/plugins/PPSAlignmentConfigurationESSource.cc", 
-            "CondCore/Utilities/plugins/Module_2XML.cc", 
             "CondCore/Utilities/src/CondDBFetch.cc", 
             "CondCore/Utilities/src/CondDBImport.cc", 
-            "CondCore/Utilities/src/CondFormats.h", 
             "CondFormats/PPSObjects/interface/PPSAlignmentConfig.h", 
             "CondFormats/PPSObjects/src/PPSAlignmentConfig.cc", 
-            "CondFormats/PPSObjects/test/BuildFile.xml", 
-            "CondFormats/PPSObjects/test/testSerializationPPSAlignmentConfig.cc", 
             "CondTools/CTPPS/plugins/RetrievePPSAlignmentConfig.cc", 
             "CondTools/CTPPS/plugins/WritePPSAlignmentConfig.cc", 
             "CondTools/CTPPS/test/retrieve_PPSAlignmentConfig_cfg.py", 
@@ -3224,7 +3220,7 @@
         "created_at": 1637934635, 
         "number": 36257, 
         "state": "open", 
-        "updated_at": 1638030576
+        "updated_at": 1638797270
     }, 
     "36259": {
         "base_branch": "master", 
