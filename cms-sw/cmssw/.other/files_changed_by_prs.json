@@ -3550,8 +3550,10 @@
     "36338": {
         "base_branch": "master", 
         "changed_files_names": [
-            "Geometry/GEMGeometryBuilder/data/v4x/GEMSpecs.xml", 
-            "Geometry/GEMGeometryBuilder/data/v4x/GEMSpecsFilter.xml", 
+            "Geometry/GEMGeometryBuilder/data/GEMSpecs/2021/v1/GEMSpecs.xml", 
+            "Geometry/GEMGeometryBuilder/data/GEMSpecs/2021/v2/GEMSpecs.xml", 
+            "Geometry/GEMGeometryBuilder/data/GEMSpecsFilter/2021/v1/GEMSpecsFilter.xml", 
+            "Geometry/GEMGeometryBuilder/data/GEMSpecsFilter/2021/v2/GEMSpecsFilter.xml", 
             "Geometry/MuonCommonData/data/gem21/2021/v1/gem21.xml", 
             "Geometry/MuonCommonData/data/mf/2021/v3/mf.xml", 
             "Geometry/MuonCommonData/data/muonNumbering/2021/v4/muonNumbering.xml", 
@@ -3562,7 +3564,7 @@
         "created_at": 1638456537, 
         "number": 36338, 
         "state": "open", 
-        "updated_at": 1638897703
+        "updated_at": 1638911801
     }, 
     "36343": {
         "base_branch": "master", 
