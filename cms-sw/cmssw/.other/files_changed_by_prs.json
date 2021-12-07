@@ -4034,12 +4034,13 @@
         "base_branch": "master", 
         "changed_files_names": [
             "CondTools/L1Trigger/plugins/L1CondDBPayloadWriter.cc", 
-            "CondTools/L1TriggerExt/plugins/L1CondDBPayloadWriterExt.cc"
+            "CondTools/L1TriggerExt/plugins/L1CondDBPayloadWriterExt.cc", 
+            "CondTools/L1TriggerExt/plugins/L1CondDBPayloadWriterExt.h"
         ], 
         "created_at": 1638833737, 
         "number": 36383, 
         "state": "open", 
-        "updated_at": 1638834264
+        "updated_at": 1638879754
     }, 
     "36384": {
         "base_branch": "master", 
