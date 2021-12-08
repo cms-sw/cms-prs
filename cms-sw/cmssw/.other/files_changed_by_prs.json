@@ -3300,6 +3300,7 @@
             "GeneratorInterface/Hydjet2Interface/test/testHydjet.py", 
             "GeneratorInterface/HydjetInterface/python/hydjetDefaultParameters_cff.py", 
             "GeneratorInterface/HydjetInterface/src/HydjetHadronizer.cc", 
+            "GeneratorInterface/HydjetInterface/test/HydjetAnalyzer.cc", 
             "GeneratorInterface/HydjetInterface/test/testHydjet.py", 
             "GeneratorInterface/PyquenInterface/python/pyquenDefault_cfi.py", 
             "GeneratorInterface/PyquenInterface/src/PyquenHadronizer.cc", 
@@ -3309,7 +3310,7 @@
         "created_at": 1638358158, 
         "number": 36316, 
         "state": "open", 
-        "updated_at": 1638821846
+        "updated_at": 1638958579
     }, 
     "36320": {
         "base_branch": "master", 
