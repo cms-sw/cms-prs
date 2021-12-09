@@ -3766,39 +3766,6 @@
         "state": "open", 
         "updated_at": 1638981162
     }, 
-    "36398": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/Framework/interface/EDConsumerBase.h", 
-            "FWCore/Framework/interface/EventProcessor.h", 
-            "FWCore/Framework/interface/OutputModuleCore.h", 
-            "FWCore/Framework/interface/Schedule.h", 
-            "FWCore/Framework/interface/StreamSchedule.h", 
-            "FWCore/Framework/interface/SubProcess.h", 
-            "FWCore/Framework/interface/global/OutputModuleBase.h", 
-            "FWCore/Framework/interface/limited/OutputModuleBase.h", 
-            "FWCore/Framework/interface/one/OutputModuleBase.h", 
-            "FWCore/Framework/src/EventProcessor.cc", 
-            "FWCore/Framework/src/OutputModuleCore.cc", 
-            "FWCore/Framework/src/ProductResolvers.cc", 
-            "FWCore/Framework/src/Schedule.cc", 
-            "FWCore/Framework/src/StreamSchedule.cc", 
-            "FWCore/Framework/src/global/OutputModuleBase.cc", 
-            "FWCore/Framework/src/limited/OutputModuleBase.cc", 
-            "FWCore/Framework/src/one/OutputModuleBase.cc", 
-            "FWCore/Integration/test/BuildFile.xml", 
-            "FWCore/Integration/test/test_finalpath.sh", 
-            "FWCore/Integration/test/test_finalpath_cfg.py", 
-            "FWCore/Modules/src/GetProductCheckerOutputModule.cc", 
-            "FWCore/ParameterSet/python/Config.py", 
-            "FWCore/ParameterSet/python/SequenceTypes.py", 
-            "FWCore/ParameterSet/python/SequenceVisitors.py"
-        ], 
-        "created_at": 1638898324, 
-        "number": 36398, 
-        "state": "open", 
-        "updated_at": 1639056728
-    }, 
     "36406": {
         "base_branch": "master", 
         "changed_files_names": [
