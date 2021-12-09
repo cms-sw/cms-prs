@@ -3937,6 +3937,8 @@
         "base_branch": "master", 
         "changed_files_names": [
             "CondCore/ESSources/test/SiStripTest/noiseanalyzer.cc", 
+            "CondCore/ESSources/test/TestConcurrentIOVsCondCore.sh", 
+            "CondCore/ESSources/test/TestConcurrentIOVsCondCore_cfg.py", 
             "CondCore/ESSources/test/stubs/EfficiencyByLabelAnalyzer.cc", 
             "CondCore/ESSources/test/stubs/KeyListAnalyzer.cc", 
             "CondCore/ESSources/test/stubs/LumiTestReadAnalyzer.cc", 
@@ -3948,7 +3950,7 @@
         "created_at": 1639037715, 
         "number": 36429, 
         "state": "open", 
-        "updated_at": 1639059252
+        "updated_at": 1639088381
     }, 
     "36430": {
         "base_branch": "master", 
