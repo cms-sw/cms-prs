@@ -2805,10 +2805,6 @@
         "changed_files_names": [
             "CommonTools/CandAlgos/interface/CandDecaySelector.h", 
             "CommonTools/CandAlgos/interface/CompositeCandSelector.h", 
-            "CommonTools/CandAlgos/interface/ObjectShallowCloneSelector.h", 
-            "CommonTools/CandAlgos/interface/SingleObjectShallowCloneSelector.h", 
-            "CommonTools/CandAlgos/plugins/CandViewCombiner.cc", 
-            "CommonTools/CandAlgos/plugins/CandViewShallowCloneProducer.cc", 
             "CommonTools/CandAlgos/plugins/CompositeCandAndSelector.cc", 
             "CommonTools/CandAlgos/plugins/DeltaPhiMinCandCombiner.cc", 
             "CommonTools/CandAlgos/plugins/DeltaRMinCandCombiner.cc", 
@@ -2816,12 +2812,14 @@
             "CommonTools/CandAlgos/plugins/NamedCandViewShallowCloneCombiner.cc", 
             "CommonTools/CandAlgos/plugins/NamedCandViewShallowClonePtrCombiner.cc", 
             "CommonTools/CandAlgos/plugins/PdgIdAndStatusCandDecaySelector.cc", 
+            "CommonTools/CandAlgos/test/BuildFile.xml", 
+            "CommonTools/CandAlgos/test/candview_tester.py", 
             "CommonTools/RecoAlgos/plugins/CompositeDimuonAndSelector.cc"
         ], 
         "created_at": 1637140636, 
         "number": 36153, 
         "state": "open", 
-        "updated_at": 1638821816
+        "updated_at": 1639144852
     }, 
     "36165": {
         "base_branch": "master", 
