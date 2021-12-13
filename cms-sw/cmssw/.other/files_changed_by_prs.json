@@ -3407,43 +3407,6 @@
         "state": "open", 
         "updated_at": 1639042768
     }, 
-    "36419": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/OfflineValidation/plugins/PixelBaryCentreAnalyzer.cc", 
-            "Calibration/TkAlCaRecoProducers/plugins/AlcaBeamSpotFromDB.cc", 
-            "Calibration/TkAlCaRecoProducers/plugins/AlcaBeamSpotHarvester.cc", 
-            "CondCore/BeamSpotPlugins/interface/BeamSpotPayloadInspectorHelper.h", 
-            "CondCore/BeamSpotPlugins/plugins/BeamSpot_PayloadInspector.cc", 
-            "CondCore/DBOutputService/test/stubs/LumiBasedUpdateAnalyzer.cc", 
-            "CondCore/ESSources/test/stubs/LumiTestReadAnalyzer.cc", 
-            "CondCore/ESSources/test/stubs/TestConcurrentIOVsCondCore.cc", 
-            "CondFormats/BeamSpotObjects/interface/BeamSpotObjects.h", 
-            "CondFormats/BeamSpotObjects/src/BeamSpotObjects.cc", 
-            "CondFormats/BeamSpotObjects/src/BeamSpotOnlineObjects.cc", 
-            "CondTools/BeamSpot/plugins/BeamSpotOnlineRecordsReader.cc", 
-            "CondTools/BeamSpot/plugins/BeamSpotOnlineRecordsWriter.cc", 
-            "CondTools/BeamSpot/plugins/BeamSpotRcdReader.cc", 
-            "DQM/BeamMonitor/plugins/AlcaBeamMonitor.cc", 
-            "DQM/BeamMonitor/plugins/BeamConditionsMonitor.cc", 
-            "DQM/BeamMonitor/plugins/BeamMonitor.cc", 
-            "DQM/BeamMonitor/plugins/BeamSpotDipServer.cc", 
-            "DQM/BeamMonitor/plugins/FakeBeamMonitor.cc", 
-            "DQM/BeamMonitor/plugins/OnlineBeamMonitor.cc", 
-            "RecoVertex/BeamSpotProducer/plugins/BeamSpotFakeConditions.cc", 
-            "RecoVertex/BeamSpotProducer/plugins/BeamSpotOnlineProducer.cc", 
-            "RecoVertex/BeamSpotProducer/plugins/BeamSpotProducer.cc", 
-            "RecoVertex/BeamSpotProducer/plugins/BeamSpotWrite2DB.cc", 
-            "RecoVertex/BeamSpotProducer/plugins/OnlineBeamSpotESProducer.cc", 
-            "RecoVertex/BeamSpotProducer/src/BeamFitter.cc", 
-            "SimTransport/PPSProtonTransport/src/HectorTransport.cc", 
-            "SimTransport/PPSProtonTransport/src/OpticalFunctionsTransport.cc"
-        ], 
-        "created_at": 1638979641, 
-        "number": 36419, 
-        "state": "open", 
-        "updated_at": 1639164092
-    }, 
     "36420": {
         "base_branch": "master", 
         "changed_files_names": [
