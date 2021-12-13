@@ -3004,6 +3004,8 @@
             "Configuration/PyReleaseValidation/python/relval_standard.py", 
             "Configuration/PyReleaseValidation/python/relval_steps.py", 
             "GeneratorInterface/Hydjet2Interface/BuildFile.xml", 
+            "GeneratorInterface/Hydjet2Interface/data/particles.data", 
+            "GeneratorInterface/Hydjet2Interface/data/tabledecay.txt", 
             "GeneratorInterface/Hydjet2Interface/interface/DatabasePDG.h", 
             "GeneratorInterface/Hydjet2Interface/interface/DecayChannel.h", 
             "GeneratorInterface/Hydjet2Interface/interface/EquationSolver.h", 
@@ -3012,10 +3014,8 @@
             "GeneratorInterface/Hydjet2Interface/interface/HYJET_COMMONS.h", 
             "GeneratorInterface/Hydjet2Interface/interface/HadronDecayer.h", 
             "GeneratorInterface/Hydjet2Interface/interface/HankelFunction.h", 
-            "GeneratorInterface/Hydjet2Interface/interface/Hydjet2.h", 
             "GeneratorInterface/Hydjet2Interface/interface/Hydjet2GeneratorFilter.h", 
             "GeneratorInterface/Hydjet2Interface/interface/Hydjet2Hadronizer.h", 
-            "GeneratorInterface/Hydjet2Interface/interface/InitialParams.h", 
             "GeneratorInterface/Hydjet2Interface/interface/InitialState.h", 
             "GeneratorInterface/Hydjet2Interface/interface/MathUtil.h", 
             "GeneratorInterface/Hydjet2Interface/interface/Particle.h", 
@@ -3062,7 +3062,7 @@
         "created_at": 1638358158, 
         "number": 36316, 
         "state": "open", 
-        "updated_at": 1639162850
+        "updated_at": 1639422243
     }, 
     "36320": {
         "base_branch": "master", 
