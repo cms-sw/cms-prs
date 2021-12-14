@@ -2707,6 +2707,7 @@
         "base_branch": "master", 
         "changed_files_names": [
             "Configuration/ProcessModifiers/python/fastJetTICL_cff.py", 
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
             "RecoHGCal/TICL/plugins/BuildFile.xml", 
             "RecoHGCal/TICL/plugins/PatternRecognitionPluginFactory.cc", 
             "RecoHGCal/TICL/plugins/PatternRecognitionbyFastJet.cc", 
@@ -2718,7 +2719,7 @@
         "created_at": 1637253243, 
         "number": 36172, 
         "state": "open", 
-        "updated_at": 1639064447
+        "updated_at": 1639464925
     }, 
     "36179": {
         "base_branch": "master", 
