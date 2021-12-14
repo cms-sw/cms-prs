@@ -3675,29 +3675,6 @@
         "state": "open", 
         "updated_at": 1639418296
     }, 
-    "36466": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibMuon/DTCalibration/interface/DTCalibDBUtils.h", 
-            "CalibMuon/DTCalibration/plugins/DTNoiseCalibration.cc", 
-            "CalibMuon/DTCalibration/plugins/DTT0Correction.cc", 
-            "CalibMuon/DTCalibration/plugins/DTTTrigCorrection.cc", 
-            "CalibMuon/DTCalibration/plugins/DTTTrigCorrectionFirst.cc", 
-            "CalibMuon/DTCalibration/plugins/DTVDriftCalibration.cc", 
-            "CalibMuon/DTCalibration/plugins/DTVDriftWriter.cc", 
-            "CalibMuon/DTCalibration/test/DBTools/DumpFileToDB.cc", 
-            "CalibMuon/DTCalibration/test/DBTools/FakeTTrig.cc", 
-            "CalibMuon/DTCalibration/test/DBTools/ShiftTTrigDB.cc", 
-            "CondCore/DBOutputService/interface/OnlineDBOutputService.h", 
-            "CondCore/DBOutputService/interface/PoolDBOutputService.h", 
-            "DQM/DTMonitorClient/src/DTLocalTriggerSynchTest.cc", 
-            "RecoEgamma/EgammaTools/test/GBRWrapperMaker.cc"
-        ], 
-        "created_at": 1639387350, 
-        "number": 36466, 
-        "state": "open", 
-        "updated_at": 1639411919
-    }, 
     "36467": {
         "base_branch": "master", 
         "changed_files_names": [
