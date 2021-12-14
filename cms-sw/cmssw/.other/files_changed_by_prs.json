@@ -3932,5 +3932,29 @@
         "number": 36495, 
         "state": "open", 
         "updated_at": 1639495877
+    }, 
+    "36496": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/Geometry/python/dict2026Geometry.py", 
+            "DetectorDescription/DDCMS/interface/DDParsingContext.h", 
+            "DetectorDescription/DDCMS/plugins/dd4hep/DDDefinitions2Objects.cc", 
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D77.xml", 
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D83.xml", 
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D84.xml", 
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D85.xml", 
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D86.xml", 
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D88.xml", 
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D77XML_cfi.py", 
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D83XML_cfi.py", 
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D84XML_cfi.py", 
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D85XML_cfi.py", 
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D86XML_cfi.py", 
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D88XML_cfi.py"
+        ], 
+        "created_at": 1639497012, 
+        "number": 36496, 
+        "state": "open", 
+        "updated_at": 1639497031
     }
 }
