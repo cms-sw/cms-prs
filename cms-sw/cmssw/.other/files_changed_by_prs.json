@@ -3704,24 +3704,6 @@
         "state": "open", 
         "updated_at": 1639461221
     }, 
-    "36483": {
-        "base_branch": "CMSSW_12_2_X", 
-        "changed_files_names": [
-            "DQM/DTMonitorClient/src/DTDataIntegrityTest.cc", 
-            "DQM/DTMonitorClient/src/DTSegmentAnalysisTest.cc", 
-            "DQM/DTMonitorModule/interface/DTDataIntegrityTask.h", 
-            "DQM/DTMonitorModule/interface/DTDataIntegrityUrosOffline.h", 
-            "DQM/DTMonitorModule/plugins/plugins.cc", 
-            "DQM/DTMonitorModule/python/dtDataIntegrityTask_cfi.py", 
-            "DQM/DTMonitorModule/src/DTDataIntegrityTask.cc", 
-            "DQM/DTMonitorModule/src/DTDataIntegrityUrosOffline.cc", 
-            "DQMServices/Components/plugins/DQMFEDIntegrityClient.cc"
-        ], 
-        "created_at": 1639465728, 
-        "number": 36483, 
-        "state": "open", 
-        "updated_at": 1639465787
-    }, 
     "36484": {
         "base_branch": "master", 
         "changed_files_names": [
