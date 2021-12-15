@@ -3337,39 +3337,6 @@
         "state": "open", 
         "updated_at": 1638987938
     }, 
-    "36434": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibMuon/DTCalibration/interface/DTCalibMuonSelection.h", 
-            "CalibMuon/DTCalibration/interface/DTSegmentSelector.h", 
-            "CalibMuon/DTCalibration/interface/DTTMax.h", 
-            "CalibMuon/DTCalibration/plugins/DTMapGenerator.h", 
-            "CalibMuon/DTCalibration/plugins/DTNoiseCalibration.h", 
-            "CalibMuon/DTCalibration/plugins/DTNoiseComputation.h", 
-            "CalibMuon/DTCalibration/plugins/DTResidualCalibration.h", 
-            "CalibMuon/DTCalibration/plugins/DTT0Calibration.h", 
-            "CalibMuon/DTCalibration/plugins/DTT0CalibrationRMS.h", 
-            "CalibMuon/DTCalibration/plugins/DTT0Correction.h", 
-            "CalibMuon/DTCalibration/plugins/DTTPDeadWriter.h", 
-            "CalibMuon/DTCalibration/plugins/DTTTrigCorrection.cc", 
-            "CalibMuon/DTCalibration/plugins/DTTTrigCorrection.h", 
-            "CalibMuon/DTCalibration/plugins/DTTTrigCorrectionFirst.h", 
-            "CalibMuon/DTCalibration/plugins/DTTTrigOffsetCalibration.h", 
-            "CalibMuon/DTCalibration/plugins/DTTTrigWriter.h", 
-            "CalibMuon/DTCalibration/plugins/DTVDriftSegmentCalibration.h", 
-            "CalibMuon/DTCalibration/plugins/DTVDriftWriter.h", 
-            "CalibMuon/DTCalibration/src/DTCalibMuonSelection.cc", 
-            "CalibMuon/DTCalibration/test/DBTools/DTT0Analyzer.h", 
-            "CalibMuon/DTCalibration/test/DBTools/DTTTrigAnalyzer.h", 
-            "CalibMuon/DTCalibration/test/DBTools/DTVDriftAnalyzer.h", 
-            "CalibMuon/DTCalibration/test/DBTools/FakeTTrig.h", 
-            "CalibMuon/DTCalibration/test/DBTools/ShiftTTrigDB.h"
-        ], 
-        "created_at": 1639056533, 
-        "number": 36434, 
-        "state": "open", 
-        "updated_at": 1639155762
-    }, 
     "36437": {
         "base_branch": "master", 
         "changed_files_names": [
