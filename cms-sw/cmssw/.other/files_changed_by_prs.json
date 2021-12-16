@@ -3774,12 +3774,15 @@
             "FWCore/Framework/test/eventsetup_t.cppunit.cc", 
             "FWCore/Framework/test/eventsetupplugin_t.cppunit.cc", 
             "FWCore/Framework/test/eventsetuprecord_t.cppunit.cc", 
-            "FWCore/Integration/test/unit_test_outputs/testSubProcess.grep2.txt"
+            "FWCore/Integration/test/unit_test_outputs/testSubProcess.grep2.txt", 
+            "Geometry/MTDCommonData/test/testMTDinDD4hep.py", 
+            "Geometry/MTDCommonData/test/testMTDinDDD.py", 
+            "RecoMTD/DetLayers/test/mtd_cfg.py"
         ], 
         "created_at": 1639582016, 
         "number": 36507, 
         "state": "open", 
-        "updated_at": 1639582052
+        "updated_at": 1639665600
     }, 
     "36508": {
         "base_branch": "master", 
