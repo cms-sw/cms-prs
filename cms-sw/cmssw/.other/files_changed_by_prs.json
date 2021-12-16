@@ -2814,34 +2814,6 @@
         "state": "open", 
         "updated_at": 1639328191
     }, 
-    "36247": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/ProcessModifiers/python/miniAOD_skip_probQXY_cff.py", 
-            "Configuration/ProcessModifiers/python/run2_miniAOD_UL_preWinter22_cff.py", 
-            "DataFormats/PatCandidates/interface/IsolatedTrack.h", 
-            "DataFormats/PatCandidates/src/classes_def_objects.xml", 
-            "DataFormats/TrackReco/interface/SiPixelTrackProbQXY.h", 
-            "DataFormats/TrackReco/src/classes.h", 
-            "DataFormats/TrackReco/src/classes_def.xml", 
-            "PhysicsTools/PatAlgos/plugins/PATIsolatedTrackProducer.cc", 
-            "PhysicsTools/PatAlgos/python/slimming/isolatedTracks_cfi.py", 
-            "RecoTracker/Configuration/python/RecoTracker_EventContent_cff.py", 
-            "RecoTracker/Configuration/python/RecoTracker_cff.py", 
-            "RecoTracker/DeDx/plugins/SiPixelTrackProbQXYProducer.cc", 
-            "RecoTracker/DeDx/python/siPixelTrackProbQXYProducer_cff.py", 
-            "RecoTracker/DeDx/test/BuildFile.xml", 
-            "RecoTracker/DeDx/test/ProbQXYAna.cc", 
-            "RecoTracker/DeDx/test/ProbQXYFromMiniAOD_cfg.py", 
-            "RecoTracker/DeDx/test/testDeDxScripts.cpp", 
-            "RecoTracker/DeDx/test/testProbQXY.sh", 
-            "RecoTracker/TrackProducer/test/BuildFile.xml"
-        ], 
-        "created_at": 1637806635, 
-        "number": 36247, 
-        "state": "open", 
-        "updated_at": 1639575049
-    }, 
     "36259": {
         "base_branch": "master", 
         "changed_files_names": [
