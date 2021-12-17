@@ -3655,6 +3655,7 @@
             "CalibPPS/ESProducers/plugins/PPSTimingCalibrationLUTESSource.cc", 
             "CalibPPS/TimingCalibration/data/LUT_test.json", 
             "CalibPPS/TimingCalibration/test/BuildFile.xml", 
+            "CalibPPS/TimingCalibration/test/test_timing_LUT_cal.sh", 
             "CondCore/CTPPSPlugins/src/plugin.cc", 
             "CondFormats/DataRecord/interface/PPSTimingCalibrationLUTRcd.h", 
             "CondFormats/DataRecord/src/PPSTimingCalibrationLUTRcd.cc", 
@@ -3671,7 +3672,7 @@
         "created_at": 1639746108, 
         "number": 36537, 
         "state": "open", 
-        "updated_at": 1639769407
+        "updated_at": 1639774373
     }, 
     "36538": {
         "base_branch": "master", 
