@@ -3142,39 +3142,6 @@
         "state": "open", 
         "updated_at": 1638798357
     }, 
-    "36372": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HcalCommonData/plugins/CaloSimulationConstantsESModule.cc", 
-            "Geometry/HcalCommonData/plugins/HcalDDDRecConstantsESMoudle.cc", 
-            "Geometry/HcalCommonData/plugins/HcalDDDSimConstantsESModule.cc", 
-            "Geometry/HcalCommonData/plugins/HcalSimulationConstantsESModule.cc", 
-            "Geometry/HcalCommonData/src/HcalDDDRecConstants.cc", 
-            "Geometry/HcalCommonData/src/HcalDDDSimConstants.cc", 
-            "Geometry/HcalCommonData/src/HcalLayerDepthMap.cc", 
-            "Geometry/HcalCommonData/test/CaloSimParameterAnalyzer.cc", 
-            "Geometry/HcalCommonData/test/HcalParametersAnalyzer.cc", 
-            "Geometry/HcalCommonData/test/HcalRecNumberingTester.cc", 
-            "Geometry/HcalCommonData/test/HcalSimNumberingTester.cc", 
-            "Geometry/HcalCommonData/test/HcalSimParametersAnalyzer.cc", 
-            "Geometry/HcalCommonData/test/python/hcalforwardshower_cfg.py", 
-            "Geometry/HcalCommonData/test/python/runCaloPararemetrsDDD_cfg.py", 
-            "Geometry/HcalCommonData/test/python/runHcalParametersFromDBAnalyzer_cfg.py", 
-            "Geometry/HcalCommonData/test/python/runHcalParametersFromDDDAnalyzer_cfg.py", 
-            "Geometry/HcalCommonData/test/python/runHcalRecNumberingDD4hepTester_cfg.py", 
-            "Geometry/HcalCommonData/test/python/runHcalRecNumberingDDDTester_cfg.py", 
-            "Geometry/HcalCommonData/test/python/runHcalScintillatorTester_cfg.py", 
-            "Geometry/HcalCommonData/test/python/runHcalSimNumberingDD4hepTester_cfg.py", 
-            "Geometry/HcalCommonData/test/python/runHcalSimNumberingDDDTester_cfg.py", 
-            "Geometry/HcalCommonData/test/python/runHcalSimParametersDDD_cfg.py", 
-            "Geometry/HcalCommonData/test/python/runOverlap_cfg.py", 
-            "Geometry/HcalCommonData/test/python/testPhase1_cfg.py"
-        ], 
-        "created_at": 1638794486, 
-        "number": 36372, 
-        "state": "open", 
-        "updated_at": 1638908160
-    }, 
     "36383": {
         "base_branch": "master", 
         "changed_files_names": [
