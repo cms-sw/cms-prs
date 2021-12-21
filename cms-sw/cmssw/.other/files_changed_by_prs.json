@@ -3137,34 +3137,6 @@
         "state": "open", 
         "updated_at": 1640089175
     }, 
-    "36457": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/Geometry/README.md", 
-            "Configuration/Geometry/python/GeometryDD4hepExtended2026D89Reco_cff.py", 
-            "Configuration/Geometry/python/GeometryDD4hepExtended2026D89_cff.py", 
-            "Configuration/Geometry/python/GeometryDD4hepExtended2026D90Reco_cff.py", 
-            "Configuration/Geometry/python/GeometryDD4hepExtended2026D90_cff.py", 
-            "Configuration/Geometry/python/GeometryExtended2026D89Reco_cff.py", 
-            "Configuration/Geometry/python/GeometryExtended2026D89_cff.py", 
-            "Configuration/Geometry/python/GeometryExtended2026D90Reco_cff.py", 
-            "Configuration/Geometry/python/GeometryExtended2026D90_cff.py", 
-            "Configuration/Geometry/python/dict2026Geometry.py", 
-            "Configuration/PyReleaseValidation/python/relval_2026.py", 
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
-            "Configuration/StandardSequences/python/GeometryConf.py", 
-            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D89.xml", 
-            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D90.xml", 
-            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D89XML_cfi.py", 
-            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D90XML_cfi.py", 
-            "Geometry/TrackerCommonData/data/PhaseII/Tracker_DD4hep_compatible_IT802_2021_12/pixelStructureTopology.xml", 
-            "Geometry/TrackerCommonData/data/PhaseII/Tracker_DD4hep_compatible_IT803_2021_12/pixelStructureTopology.xml"
-        ], 
-        "created_at": 1639164909, 
-        "number": 36457, 
-        "state": "open", 
-        "updated_at": 1639822142
-    }, 
     "36459": {
         "base_branch": "master", 
         "changed_files_names": [
