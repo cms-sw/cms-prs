@@ -3411,33 +3411,6 @@
         "state": "open", 
         "updated_at": 1639724404
     }, 
-    "36537": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibPPS/ESProducers/plugins/PPSTimingCalibrationLUTESSource.cc", 
-            "CalibPPS/TimingCalibration/data/LUT_test.json", 
-            "CalibPPS/TimingCalibration/test/BuildFile.xml", 
-            "CalibPPS/TimingCalibration/test/test_timing_LUT_cal.sh", 
-            "CondCore/CTPPSPlugins/src/plugin.cc", 
-            "CondCore/Utilities/plugins/Module_2XML.cc", 
-            "CondCore/Utilities/src/CondFormats.h", 
-            "CondFormats/DataRecord/interface/PPSTimingCalibrationLUTRcd.h", 
-            "CondFormats/DataRecord/src/PPSTimingCalibrationLUTRcd.cc", 
-            "CondFormats/PPSObjects/interface/PPSTimingCalibrationLUT.h", 
-            "CondFormats/PPSObjects/src/PPSTimingCalibrationLUT.cc", 
-            "CondFormats/PPSObjects/src/T_EventSetup_PPSTimingCalibrationLUT.cc", 
-            "CondFormats/PPSObjects/src/classes_def.xml", 
-            "CondFormats/PPSObjects/src/headers.h", 
-            "CondTools/CTPPS/plugins/PPSTimingCalibrationLUTAnalyzer.cc", 
-            "CondTools/CTPPS/plugins/PPSTimingCalibrationLUTWriter.cc", 
-            "CondTools/CTPPS/test/ppsTimingCalibrationLUTAnalyzer_cfg.py", 
-            "CondTools/CTPPS/test/ppsTimingCalibrationLUTWriter_cfg.py"
-        ], 
-        "created_at": 1639746108, 
-        "number": 36537, 
-        "state": "open", 
-        "updated_at": 1640014972
-    }, 
     "36539": {
         "base_branch": "master", 
         "changed_files_names": [
