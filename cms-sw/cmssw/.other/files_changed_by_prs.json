@@ -3041,7 +3041,7 @@
     "36352": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
-            "Configuration/ProcessModifiers/python/fastSimDisableLongLivedBug_cff.py", 
+            "Configuration/ProcessModifiers/python/fastSimFixLongLivedBug_cff.py", 
             "FastSimulation/SimplifiedGeometryPropagator/interface/Decayer.h", 
             "FastSimulation/SimplifiedGeometryPropagator/interface/ParticleManager.h", 
             "FastSimulation/SimplifiedGeometryPropagator/plugins/FastSimProducer.cc", 
@@ -3052,7 +3052,7 @@
         "created_at": 1638548638, 
         "number": 36352, 
         "state": "open", 
-        "updated_at": 1639978262
+        "updated_at": 1640096031
     }, 
     "36353": {
         "base_branch": "CMSSW_10_2_X", 
