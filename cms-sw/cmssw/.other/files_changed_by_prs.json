@@ -3747,14 +3747,16 @@
         "base_branch": "master", 
         "changed_files_names": [
             "CalibTracker/SiPixelLorentzAngle/interface/SiPixelLorentzAngleCalibrationStruct.h", 
+            "CalibTracker/SiPixelLorentzAngle/python/SiPixelLorentzAnglePCLHarvester_cfi.py", 
             "CalibTracker/SiPixelLorentzAngle/python/SiPixelLorentzAnglePCLWorker_cfi.py", 
+            "CalibTracker/SiPixelLorentzAngle/src/SiPixelLorentzAngle.cc", 
             "CalibTracker/SiPixelLorentzAngle/src/SiPixelLorentzAnglePCLHarvester.cc", 
             "CalibTracker/SiPixelLorentzAngle/src/SiPixelLorentzAnglePCLWorker.cc"
         ], 
         "created_at": 1640104463, 
         "number": 36565, 
         "state": "open", 
-        "updated_at": 1640104509
+        "updated_at": 1640205870
     }, 
     "36568": {
         "base_branch": "master", 
