@@ -3905,5 +3905,23 @@
         "number": 36574, 
         "state": "open", 
         "updated_at": 1640185562
+    }, 
+    "36575": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Validation/HGCalValidation/plugins/HGCalDigiClient.cc", 
+            "Validation/HGCalValidation/plugins/HGCalDigiValidation.cc", 
+            "Validation/HGCalValidation/plugins/HGCalHitValidation.cc", 
+            "Validation/HGCalValidation/plugins/HGCalRecHitValidation.cc", 
+            "Validation/HGCalValidation/plugins/HGCalRecHitsClient.cc", 
+            "Validation/HGCalValidation/plugins/HGCalSimHitValidation.cc", 
+            "Validation/HGCalValidation/test/HGCHitValidation.cc", 
+            "Validation/HGCalValidation/test/HGCalDigiStudy.cc", 
+            "Validation/HGCalValidation/test/HGCalRecHitStudy.cc"
+        ], 
+        "created_at": 1640187731, 
+        "number": 36575, 
+        "state": "open", 
+        "updated_at": 1640187788
     }
 }
