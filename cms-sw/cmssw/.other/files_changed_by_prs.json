@@ -3881,5 +3881,22 @@
         "number": 36582, 
         "state": "open", 
         "updated_at": 1640269476
+    }, 
+    "36583": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoTracker/NuclearSeedGenerator/interface/NuclearInteractionFinder.h", 
+            "RecoTracker/NuclearSeedGenerator/interface/NuclearSeedsEDProducer.h", 
+            "RecoTracker/NuclearSeedGenerator/interface/SeedFromNuclearInteraction.h", 
+            "RecoTracker/NuclearSeedGenerator/plugins/NuclearSeedsEDProducer.cc", 
+            "RecoTracker/NuclearSeedGenerator/plugins/NuclearTrackCorrector.cc", 
+            "RecoTracker/NuclearSeedGenerator/plugins/NuclearTrackCorrector.h", 
+            "RecoTracker/NuclearSeedGenerator/src/NuclearInteractionFinder.cc", 
+            "RecoTracker/NuclearSeedGenerator/src/SeedFromNuclearInteraction.cc"
+        ], 
+        "created_at": 1640278727, 
+        "number": 36583, 
+        "state": "open", 
+        "updated_at": 1640278769
     }
 }
