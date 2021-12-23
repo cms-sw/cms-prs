@@ -3285,6 +3285,7 @@
         "base_branch": "master", 
         "changed_files_names": [
             "RecoTracker/MkFit/BuildFile.xml", 
+            "RecoTracker/MkFit/plugins/BuildFile.xml", 
             "RecoTracker/MkFit/plugins/MkFitEventOfHitsProducer.cc", 
             "RecoTracker/MkFit/plugins/MkFitGeometryESProducer.cc", 
             "RecoTracker/MkFit/plugins/MkFitIterationConfigESProducer.cc", 
@@ -3541,7 +3542,7 @@
         "created_at": 1639777688, 
         "number": 36546, 
         "state": "open", 
-        "updated_at": 1640029692
+        "updated_at": 1640233464
     }, 
     "36547": {
         "base_branch": "CMSSW_10_6_X", 
