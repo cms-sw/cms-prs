@@ -4018,5 +4018,19 @@
         "number": 36601, 
         "state": "open", 
         "updated_at": 1640638565
+    }, 
+    "36602": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimTracker/SiPixelDigitizer/plugins/SiPixelDigitizer.cc", 
+            "SimTracker/SiPixelDigitizer/test/PixelDigisTest.cc", 
+            "SimTracker/SiPixelDigitizer/test/PixelMixedSimHitsTest.cc", 
+            "SimTracker/SiPixelDigitizer/test/PixelSimHitsTest.cc", 
+            "SimTracker/SiPixelDigitizer/test/PixelSimHitsTestForward.cc"
+        ], 
+        "created_at": 1640640253, 
+        "number": 36602, 
+        "state": "open", 
+        "updated_at": 1640640274
     }
 }
