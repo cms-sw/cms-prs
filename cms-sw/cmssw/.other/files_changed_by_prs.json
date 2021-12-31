@@ -4019,5 +4019,24 @@
         "number": 36619, 
         "state": "open", 
         "updated_at": 1640965184
+    }, 
+    "36620": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "L1Trigger/GlobalCaloTrigger/plugins/L1GctEmulator.cc", 
+            "L1Trigger/GlobalCaloTrigger/plugins/L1GctPrintLuts.h", 
+            "L1Trigger/GlobalCaloTrigger/plugins/L1GctValidation.cc", 
+            "L1Trigger/GlobalCaloTrigger/plugins/L1GctValidation.h", 
+            "L1Trigger/GlobalCaloTrigger/test/L1GctTest.cc", 
+            "L1Trigger/GlobalCaloTrigger/test/L1GctTest.h", 
+            "L1Trigger/GlobalCaloTrigger/test/L1GctTestAnalyzer.cc", 
+            "L1Trigger/GlobalCaloTrigger/test/L1GctTestAnalyzer.h", 
+            "L1Trigger/GlobalCaloTrigger/test/gctTestFunctions.cc", 
+            "L1Trigger/GlobalCaloTrigger/test/gctTestFunctions.h"
+        ], 
+        "created_at": 1640978461, 
+        "number": 36620, 
+        "state": "open", 
+        "updated_at": 1640978502
     }
 }
