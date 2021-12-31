@@ -4079,33 +4079,6 @@
         "state": "open", 
         "updated_at": 1640793326
     }, 
-    "36615": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/SiStripMonitorHardware/interface/SiStripFEDEmulator.h", 
-            "DQM/SiStripMonitorHardware/interface/SiStripSpyEventMatcher.h", 
-            "DQM/SiStripMonitorHardware/interface/SiStripSpyUnpacker.h", 
-            "DQM/SiStripMonitorHardware/src/BuildTrackerMap.cc", 
-            "DQM/SiStripMonitorHardware/src/SiStripFEDDataCheck.cc", 
-            "DQM/SiStripMonitorHardware/src/SiStripFEDDump.cc", 
-            "DQM/SiStripMonitorHardware/src/SiStripFEDEmulator.cc", 
-            "DQM/SiStripMonitorHardware/src/SiStripFEDEmulatorModule.cc", 
-            "DQM/SiStripMonitorHardware/src/SiStripShotFilter.cc", 
-            "DQM/SiStripMonitorHardware/src/SiStripSpyDigiConverterModule.cc", 
-            "DQM/SiStripMonitorHardware/src/SiStripSpyDisplayModule.cc", 
-            "DQM/SiStripMonitorHardware/src/SiStripSpyEventMatcher.cc", 
-            "DQM/SiStripMonitorHardware/src/SiStripSpyEventMatcherModule.cc", 
-            "DQM/SiStripMonitorHardware/src/SiStripSpyEventSummaryProducer.cc", 
-            "DQM/SiStripMonitorHardware/src/SiStripSpyExtractRunModule.cc", 
-            "DQM/SiStripMonitorHardware/src/SiStripSpyIdentifyRuns.cc", 
-            "DQM/SiStripMonitorHardware/src/SiStripSpyUnpacker.cc", 
-            "DQM/SiStripMonitorHardware/src/SiStripSpyUnpackerModule.cc"
-        ], 
-        "created_at": 1640806523, 
-        "number": 36615, 
-        "state": "open", 
-        "updated_at": 1640806566
-    }, 
     "36617": {
         "base_branch": "master", 
         "changed_files_names": [
