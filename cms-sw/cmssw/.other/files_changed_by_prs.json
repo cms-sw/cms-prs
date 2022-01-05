@@ -2752,6 +2752,7 @@
             "DQM/RPCMonitorClient/python/RPCTier0Source_cff.py", 
             "DQMOffline/Configuration/python/DQMOfflineCosmics_SecondStep_cff.py", 
             "DQMOffline/Configuration/python/DQMOfflineCosmics_cff.py", 
+            "DQMOffline/Configuration/python/DQMOfflineHeavyIons_cff.py", 
             "DQMOffline/MuonDPG/BuildFile.xml", 
             "DQMOffline/MuonDPG/interface/BaseTnPEfficiencyTask.h", 
             "DQMOffline/MuonDPG/plugins/BuildFile.xml", 
@@ -2775,7 +2776,7 @@
         "created_at": 1638183696, 
         "number": 36276, 
         "state": "open", 
-        "updated_at": 1640423570
+        "updated_at": 1641376318
     }, 
     "36313": {
         "base_branch": "master", 
