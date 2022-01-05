@@ -3702,6 +3702,8 @@
             "RecoLocalTracker/SiStripClusterizer/test/SiStripApproximatedClustersDump.h", 
             "RecoLocalTracker/SiStripClusterizer/test/StripByStripTestDriver.cc", 
             "RecoLocalTracker/SiStripClusterizer/test/StripByStripTestDriver.h", 
+            "RecoLocalTracker/SiStripZeroSuppression/interface/SiStripAPVRestorer.h", 
+            "RecoLocalTracker/SiStripZeroSuppression/src/SiStripAPVRestorer.cc", 
             "RecoLocalTracker/SiStripZeroSuppression/test/SiStripBaselineAnalyzer.cc", 
             "RecoLocalTracker/SiStripZeroSuppression/test/SiStripBaselineComparator.cc", 
             "RecoLocalTracker/SiStripZeroSuppression/test/SiStripHybridFormatAnalyzer.cc", 
@@ -3712,7 +3714,7 @@
         "created_at": 1640204465, 
         "number": 36579, 
         "state": "open", 
-        "updated_at": 1640376003
+        "updated_at": 1641395827
     }, 
     "36580": {
         "base_branch": "CMSSW_8_0_X", 
