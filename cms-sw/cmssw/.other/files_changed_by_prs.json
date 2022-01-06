@@ -4050,11 +4050,13 @@
     "36639": {
         "base_branch": "master", 
         "changed_files_names": [
+            "CommonTools/ParticleFlow/interface/PFPileUpAlgo.h", 
             "CommonTools/ParticleFlow/plugins/PFNoPileUpPacked.cc", 
             "CommonTools/ParticleFlow/plugins/PFPileUp.cc", 
             "CommonTools/ParticleFlow/python/pfCHS_cff.py", 
             "CommonTools/ParticleFlow/python/pfNoPileUpJME_cff.py", 
             "CommonTools/ParticleFlow/python/pfPileUp_cfi.py", 
+            "CommonTools/ParticleFlow/src/PFPileUpAlgo.cc", 
             "CommonTools/PileupAlgos/plugins/PuppiProducer.cc", 
             "CommonTools/PileupAlgos/python/Puppi_cff.py", 
             "CommonTools/RecoAlgos/interface/PrimaryVertexAssignment.h", 
@@ -4071,6 +4073,6 @@
         "created_at": 1641472302, 
         "number": 36639, 
         "state": "open", 
-        "updated_at": 1641472345
+        "updated_at": 1641501969
     }
 }
