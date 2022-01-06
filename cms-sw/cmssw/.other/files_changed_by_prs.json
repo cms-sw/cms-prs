@@ -599,7 +599,9 @@
     "32167": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Configuration/StandardSequences/python/Generator_cff.py", 
             "DataFormats/NanoAOD/src/classes_def.xml", 
+            "GeneratorInterface/Configuration/python/GeneratorInterface_EventContent_cff.py", 
             "GeneratorInterface/Core/BuildFile.xml", 
             "GeneratorInterface/Core/interface/GenWeightHelper.h", 
             "GeneratorInterface/Core/interface/LHEWeightHelper.h", 
@@ -611,9 +613,7 @@
             "GeneratorInterface/Core/src/LHEWeightHelper.cc", 
             "GeneratorInterface/Core/src/WeightHelper.cc", 
             "GeneratorInterface/Core/test/dumpWeightInfo.py", 
-            "GeneratorInterface/Core/test/testGenWeightProducer_cfg.py", 
             "GeneratorInterface/LHEInterface/plugins/BuildFile.xml", 
-            "GeneratorInterface/LHEInterface/plugins/ExternalLHEProducer.cc", 
             "GeneratorInterface/LHEInterface/test/createLHEFormatFromROOTFile.py", 
             "PhysicsTools/NanoAOD/interface/GenWeightCounters.h", 
             "PhysicsTools/NanoAOD/plugins/GenWeightsTableProducer.cc", 
@@ -627,10 +627,10 @@
             "PhysicsTools/NanoAOD/python/nano_cff.py", 
             "PhysicsTools/NanoAOD/python/nanogen_cff.py", 
             "PhysicsTools/NanoAOD/test/testNanoWeights.py", 
+            "PhysicsTools/PatAlgos/python/slimming/MicroEventContent_cff.py", 
             "SimDataFormats/GeneratorProducts/BuildFile.xml", 
             "SimDataFormats/GeneratorProducts/interface/GenWeightInfoProduct.h", 
             "SimDataFormats/GeneratorProducts/interface/GenWeightProduct.h", 
-            "SimDataFormats/GeneratorProducts/interface/LHEEventProduct.h", 
             "SimDataFormats/GeneratorProducts/interface/MEParamWeightGroupInfo.h", 
             "SimDataFormats/GeneratorProducts/interface/PartonShowerWeightGroupInfo.h", 
             "SimDataFormats/GeneratorProducts/interface/PdfWeightGroupInfo.h", 
@@ -650,7 +650,7 @@
         "created_at": 1605645236, 
         "number": 32167, 
         "state": "open", 
-        "updated_at": 1638821773
+        "updated_at": 1641468869
     }, 
     "32632": {
         "base_branch": "master", 
