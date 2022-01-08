@@ -3916,5 +3916,18 @@
         "number": 36651, 
         "state": "open", 
         "updated_at": 1641670659
+    }, 
+    "36652": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4CMS/Muon/interface/MuonSensitiveDetector.h", 
+            "SimG4CMS/Muon/plugins/MuonSensitiveDetectorBuilder.cc", 
+            "SimG4CMS/Muon/src/MuonSensitiveDetector.cc", 
+            "SimG4Core/Application/python/g4SimHits_cfi.py"
+        ], 
+        "created_at": 1641676462, 
+        "number": 36652, 
+        "state": "open", 
+        "updated_at": 1641676516
     }
 }
