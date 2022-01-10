@@ -3606,13 +3606,6 @@
     "36582": {
         "base_branch": "master", 
         "changed_files_names": [
-            "RecoTracker/CkfPattern/interface/BaseCkfTrajectoryBuilder.h", 
-            "RecoTracker/DebugTools/plugins/CkfDebugTrackCandidateMaker.cc", 
-            "RecoTracker/DebugTools/plugins/CkfDebugTrackCandidateMaker.h", 
-            "RecoTracker/DebugTools/plugins/CkfDebugTrajectoryBuilder.h", 
-            "RecoTracker/DebugTools/plugins/CkfDebugger.cc", 
-            "RecoTracker/DebugTools/plugins/CkfDebugger.h", 
-            "RecoTracker/DebugTools/plugins/Modules.cc", 
             "RecoTracker/DebugTools/plugins/TestHits.cc", 
             "RecoTracker/DebugTools/plugins/TestHits.h", 
             "RecoTracker/DebugTools/plugins/TestOutliers.cc", 
@@ -3626,7 +3619,7 @@
         "created_at": 1640269454, 
         "number": 36582, 
         "state": "open", 
-        "updated_at": 1640362493
+        "updated_at": 1641830274
     }, 
     "36624": {
         "base_branch": "master", 
