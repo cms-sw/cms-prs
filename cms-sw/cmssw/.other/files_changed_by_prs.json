@@ -3135,12 +3135,14 @@
     "36508": {
         "base_branch": "master", 
         "changed_files_names": [
+            "CondTools/SiStrip/plugins/SiStripApvGainRescaler.cc", 
+            "CondTools/SiStrip/test/SiStripApvGainRescaler_cfg.py", 
             "CondTools/SiStrip/test/testBuildersReaders.sh"
         ], 
         "created_at": 1639590289, 
         "number": 36508, 
         "state": "open", 
-        "updated_at": 1639907935
+        "updated_at": 1641829760
     }, 
     "36526": {
         "base_branch": "master", 
