@@ -3552,6 +3552,7 @@
             "RecoLocalTracker/SiPhase2VectorHitBuilder/test/VectorHitsBuilderValidation.h", 
             "RecoLocalTracker/SiPixelClusterizer/test/ReadPixClusters.cc", 
             "RecoLocalTracker/SiPixelClusterizer/test/TestClusters.cc", 
+            "RecoLocalTracker/SiPixelClusterizer/test/TestPixTracks.cc", 
             "RecoLocalTracker/SiPixelClusterizer/test/TestWithTracks.cc", 
             "RecoLocalTracker/SiPixelClusterizer/test/Triplet.cc", 
             "RecoLocalTracker/SiPixelRecHits/test/CPEAccessTester.cc", 
@@ -3582,7 +3583,7 @@
         "created_at": 1640204465, 
         "number": 36579, 
         "state": "open", 
-        "updated_at": 1641395827
+        "updated_at": 1641819733
     }, 
     "36580": {
         "base_branch": "CMSSW_8_0_X", 
