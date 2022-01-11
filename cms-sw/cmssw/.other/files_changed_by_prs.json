@@ -3620,7 +3620,9 @@
             "CommonTools/PileupAlgos/plugins/PuppiProducer.cc", 
             "CommonTools/PileupAlgos/python/Puppi_cff.py", 
             "CommonTools/RecoAlgos/interface/PrimaryVertexAssignment.h", 
+            "CommonTools/RecoAlgos/plugins/PrimaryVertexSorter.h", 
             "CommonTools/RecoAlgos/python/sortedPFPrimaryVertices_cfi.py", 
+            "CommonTools/RecoAlgos/python/sortedPackedPrimaryVertices_cfi.py", 
             "CommonTools/RecoAlgos/python/sortedPrimaryVertices_cfi.py", 
             "CommonTools/RecoAlgos/src/PrimaryVertexAssignment.cc", 
             "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py", 
@@ -3633,7 +3635,7 @@
         "created_at": 1641472302, 
         "number": 36639, 
         "state": "open", 
-        "updated_at": 1641501969
+        "updated_at": 1641922863
     }, 
     "36641": {
         "base_branch": "master", 
