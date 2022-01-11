@@ -3763,42 +3763,6 @@
         "state": "open", 
         "updated_at": 1641880550
     }, 
-    "36658": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoHI/HiTracking/python/hiDetachedQuadStep_cff.py", 
-            "RecoHI/HiTracking/python/hiDetachedTripletStep_cff.py", 
-            "RecoHI/HiTracking/python/hiHighPtTripletStep_cff.py", 
-            "RecoHI/HiTracking/python/hiJetCoreRegionalStep_cff.py", 
-            "RecoHI/HiTracking/python/hiLowPtQuadStep_cff.py", 
-            "RecoHI/HiTracking/python/hiLowPtTripletStep_cff.py", 
-            "RecoHI/HiTracking/python/hiPixelPairStep_cff.py", 
-            "RecoTracker/CkfPattern/python/GroupedCkfTrajectoryBuilder_cfi.py", 
-            "RecoTracker/ConversionSeedGenerators/python/ConversionStep2_cff.py", 
-            "RecoTracker/IterativeTracking/python/DetachedQuadStep_cff.py", 
-            "RecoTracker/IterativeTracking/python/DetachedTripletStep_cff.py", 
-            "RecoTracker/IterativeTracking/python/DisplacedGeneralStep_cff.py", 
-            "RecoTracker/IterativeTracking/python/HighPtTripletStep_cff.py", 
-            "RecoTracker/IterativeTracking/python/InitialStepPreSplitting_cff.py", 
-            "RecoTracker/IterativeTracking/python/InitialStep_cff.py", 
-            "RecoTracker/IterativeTracking/python/JetCoreRegionalStep_cff.py", 
-            "RecoTracker/IterativeTracking/python/LowPtBarrelTripletStep_cff.py", 
-            "RecoTracker/IterativeTracking/python/LowPtForwardTripletStep_cff.py", 
-            "RecoTracker/IterativeTracking/python/LowPtQuadStep_cff.py", 
-            "RecoTracker/IterativeTracking/python/LowPtTripletStep_cff.py", 
-            "RecoTracker/IterativeTracking/python/MixedTripletStep_cff.py", 
-            "RecoTracker/IterativeTracking/python/MuonSeededStep_cff.py", 
-            "RecoTracker/IterativeTracking/python/PixelLessStep_cff.py", 
-            "RecoTracker/IterativeTracking/python/PixelPairStep_cff.py", 
-            "RecoTracker/IterativeTracking/python/TobTecStep_cff.py", 
-            "RecoTracker/SpecialSeedGenerators/python/cosmicDC_cff.py", 
-            "TrackingTools/GsfTracking/python/CkfElectronCandidateMaker_cff.py"
-        ], 
-        "created_at": 1641768153, 
-        "number": 36658, 
-        "state": "open", 
-        "updated_at": 1641768198
-    }, 
     "36660": {
         "base_branch": "master", 
         "changed_files_names": [
