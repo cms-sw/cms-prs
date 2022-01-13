@@ -3888,15 +3888,18 @@
         "base_branch": "master", 
         "changed_files_names": [
             "CalibPPS/AlignmentGlobal/python/ALCARECOPPSAlignment_Output_cff.py", 
+            "CalibPPS/AlignmentGlobal/python/ALCARECOPromptCalibProdPPSAlignment_Output_cff.py", 
+            "CalibPPS/AlignmentGlobal/python/ALCARECOPromptCalibProdPPSAlignment_cff.py", 
             "CalibPPS/AlignmentGlobal/python/ALCARECOPPSAlignment_cff.py", 
             "Configuration/AlCa/python/autoPCL.py", 
+            "Configuration/EventContent/python/AlCaRecoOutput_cff.py", 
             "Configuration/PyReleaseValidation/python/relval_steps.py", 
             "Configuration/StandardSequences/python/AlCaRecoStreams_cff.py"
         ], 
         "created_at": 1642007103, 
         "number": 36698, 
         "state": "open", 
-        "updated_at": 1642007128
+        "updated_at": 1642079621
     }, 
     "36699": {
         "base_branch": "master", 
