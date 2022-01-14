@@ -3956,5 +3956,19 @@
         "number": 36712, 
         "state": "open", 
         "updated_at": 1642180639
+    }, 
+    "36713": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoPPS/Local/data/LUT_cal_test.json", 
+            "RecoPPS/Local/interface/CTPPSDiamondRecHitProducerAlgorithm.h", 
+            "RecoPPS/Local/plugins/CTPPSDiamondRecHitProducer.cc", 
+            "RecoPPS/Local/python/ctppsDiamondLocalReconstruction_cff.py", 
+            "RecoPPS/Local/src/CTPPSDiamondRecHitProducerAlgorithm.cc"
+        ], 
+        "created_at": 1642181365, 
+        "number": 36713, 
+        "state": "open", 
+        "updated_at": 1642181384
     }
 }
