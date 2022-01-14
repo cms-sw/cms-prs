@@ -3930,5 +3930,31 @@
         "number": 36711, 
         "state": "open", 
         "updated_at": 1642173026
+    }, 
+    "36712": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQMServices/Components/plugins/DQMGenericClient.cc", 
+            "DataFormats/HGCalReco/interface/Trackster.h", 
+            "RecoHGCal/TICL/interface/commons.h", 
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyCA.cc", 
+            "RecoHGCal/TICL/plugins/SimTrackstersProducer.cc", 
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToCPAssociatorByEnergyScoreImpl.cc", 
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToSCAssociatorByEnergyScoreImpl.cc", 
+            "Validation/HGCalValidation/interface/HGCalValidator.h", 
+            "Validation/HGCalValidation/interface/HGVHistoProducerAlgo.h", 
+            "Validation/HGCalValidation/plugins/HGCalValidator.cc", 
+            "Validation/HGCalValidation/python/HGCalValidator_cfi.py", 
+            "Validation/HGCalValidation/python/HGVHistoProducerAlgoBlock_cfi.py", 
+            "Validation/HGCalValidation/python/PostProcessorHGCAL_cfi.py", 
+            "Validation/HGCalValidation/python/hgcalPlots.py", 
+            "Validation/HGCalValidation/scripts/makeHGCalValidationPlots.py", 
+            "Validation/HGCalValidation/src/HGVHistoProducerAlgo.cc", 
+            "Validation/RecoTrack/python/plotting/plotting.py"
+        ], 
+        "created_at": 1642180616, 
+        "number": 36712, 
+        "state": "open", 
+        "updated_at": 1642180639
     }
 }
