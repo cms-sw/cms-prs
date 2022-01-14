@@ -3970,5 +3970,16 @@
         "number": 36713, 
         "state": "open", 
         "updated_at": 1642181384
+    }, 
+    "36714": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.cu", 
+            "RecoLocalTracker/SiPixelRecHits/python/SiPixelRecHits_cfi.py"
+        ], 
+        "created_at": 1642184060, 
+        "number": 36714, 
+        "state": "open", 
+        "updated_at": 1642184086
     }
 }
