@@ -3948,5 +3948,20 @@
         "number": 36710, 
         "state": "open", 
         "updated_at": 1642172785
+    }, 
+    "36711": {
+        "base_branch": "CMSSW_12_2_X", 
+        "changed_files_names": [
+            "CalibTracker/SiPixelLorentzAngle/interface/SiPixelLorentzAngleCalibrationStruct.h", 
+            "CalibTracker/SiPixelLorentzAngle/python/SiPixelLorentzAnglePCLHarvester_cfi.py", 
+            "CalibTracker/SiPixelLorentzAngle/python/SiPixelLorentzAnglePCLWorker_cfi.py", 
+            "CalibTracker/SiPixelLorentzAngle/src/SiPixelLorentzAngle.cc", 
+            "CalibTracker/SiPixelLorentzAngle/src/SiPixelLorentzAnglePCLHarvester.cc", 
+            "CalibTracker/SiPixelLorentzAngle/src/SiPixelLorentzAnglePCLWorker.cc"
+        ], 
+        "created_at": 1642173005, 
+        "number": 36711, 
+        "state": "open", 
+        "updated_at": 1642173026
     }
 }
