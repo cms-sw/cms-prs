@@ -2960,27 +2960,6 @@
         "state": "open", 
         "updated_at": 1639645479
     }, 
-    "36446": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibCalorimetry/EcalTPGTools/plugins/EcalTPGDBApp.cc", 
-            "CalibCalorimetry/EcalTPGTools/plugins/EcalTPGDBApp.h", 
-            "CalibCalorimetry/EcalTPGTools/plugins/EcalTPGParamBuilder.cc", 
-            "CalibCalorimetry/EcalTPGTools/plugins/EcalTPGParamBuilder.h", 
-            "CalibCalorimetry/EcalTPGTools/test/fillOfflineTPGDBfromFile_beamv7.py", 
-            "CalibCalorimetry/EcalTPGTools/test/produceTPGParameters_beamv7.py", 
-            "OnlineDB/EcalCondDB/sql/trigger_add_doubleweights.sql", 
-            "SimCalorimetry/EcalTrigPrimProducers/plugins/EcalTrigPrimESProducer.cc", 
-            "SimCalorimetry/EcalTrigPrimProducers/plugins/EcalTrigPrimESProducer.h", 
-            "SimCalorimetry/EcalTrigPrimProducers/python/ecalTrigPrimESProducer_cff.py", 
-            "SimCalorimetry/EcalTrigPrimProducers/python/ecalTrigPrimESProducer_craft_cff.py", 
-            "SimCalorimetry/EcalTrigPrimProducers/python/ecalTrigPrimESProducer_mc_cff.py"
-        ], 
-        "created_at": 1639125241, 
-        "number": 36446, 
-        "state": "open", 
-        "updated_at": 1641373244
-    }, 
     "36465": {
         "base_branch": "master", 
         "changed_files_names": [
