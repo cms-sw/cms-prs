@@ -3425,6 +3425,7 @@
             "CommonTools/ParticleFlow/plugins/PFNoPileUpPacked.cc", 
             "CommonTools/ParticleFlow/plugins/PFPileUp.cc", 
             "CommonTools/ParticleFlow/python/PFBRECO_cff.py", 
+            "CommonTools/ParticleFlow/python/Tools/enablePileUpCorrection.py", 
             "CommonTools/ParticleFlow/python/pfCHS_cff.py", 
             "CommonTools/ParticleFlow/python/pfNoPileUpJME_cff.py", 
             "CommonTools/ParticleFlow/python/pfPileUp_cfi.py", 
@@ -3449,7 +3450,7 @@
         "created_at": 1641472302, 
         "number": 36639, 
         "state": "open", 
-        "updated_at": 1642194088
+        "updated_at": 1642259635
     }, 
     "36641": {
         "base_branch": "master", 
