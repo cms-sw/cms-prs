@@ -613,7 +613,7 @@
             "GeneratorInterface/Core/src/LHEWeightHelper.cc", 
             "GeneratorInterface/Core/src/WeightHelper.cc", 
             "GeneratorInterface/Core/test/dumpWeightInfo.py", 
-            "GeneratorInterface/LHEInterface/plugins/BuildFile.xml", 
+            "GeneratorInterface/LHEInterface/BuildFile.xml", 
             "GeneratorInterface/LHEInterface/test/createLHEFormatFromROOTFile.py", 
             "PhysicsTools/NanoAOD/interface/GenWeightCounters.h", 
             "PhysicsTools/NanoAOD/plugins/GenWeightsTableProducer.cc", 
@@ -626,11 +626,14 @@
             "PhysicsTools/NanoAOD/python/genWeights_cff.py", 
             "PhysicsTools/NanoAOD/python/nano_cff.py", 
             "PhysicsTools/NanoAOD/python/nanogen_cff.py", 
+            "PhysicsTools/NanoAOD/python/particlelevel_cff.py", 
             "PhysicsTools/NanoAOD/test/testNanoWeights.py", 
             "PhysicsTools/PatAlgos/python/slimming/MicroEventContent_cff.py", 
             "SimDataFormats/GeneratorProducts/BuildFile.xml", 
+            "SimDataFormats/GeneratorProducts/interface/GenEventInfoProduct.h", 
             "SimDataFormats/GeneratorProducts/interface/GenWeightInfoProduct.h", 
             "SimDataFormats/GeneratorProducts/interface/GenWeightProduct.h", 
+            "SimDataFormats/GeneratorProducts/interface/LHEEventProduct.h", 
             "SimDataFormats/GeneratorProducts/interface/MEParamWeightGroupInfo.h", 
             "SimDataFormats/GeneratorProducts/interface/PartonShowerWeightGroupInfo.h", 
             "SimDataFormats/GeneratorProducts/interface/PdfWeightGroupInfo.h", 
@@ -650,7 +653,7 @@
         "created_at": 1605645236, 
         "number": 32167, 
         "state": "open", 
-        "updated_at": 1641468869
+        "updated_at": 1642369212
     }, 
     "32632": {
         "base_branch": "master", 
