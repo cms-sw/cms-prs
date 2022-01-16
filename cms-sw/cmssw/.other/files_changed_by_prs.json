@@ -3907,5 +3907,27 @@
         "number": 36715, 
         "state": "open", 
         "updated_at": 1642207770
+    }, 
+    "36717": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4Core/Application/interface/ExceptionHandler.h", 
+            "SimG4Core/Application/plugins/OscarMTProducer.cc", 
+            "SimG4Core/Application/python/g4SimHits_cfi.py", 
+            "SimG4Core/Application/src/ExceptionHandler.cc", 
+            "SimG4Core/Application/src/OscarMTMasterThread.cc", 
+            "SimG4Core/Application/src/RunManagerMT.cc", 
+            "SimG4Core/Application/src/RunManagerMTWorker.cc", 
+            "SimG4Core/Notification/interface/TrackInformationExtractor.h", 
+            "SimG4Core/Notification/src/GenParticleInfoExtractor.cc", 
+            "SimG4Core/Notification/src/NewTrackAction.cc", 
+            "SimG4Core/Notification/src/TrackInformationExtractor.cc", 
+            "SimG4Core/Notification/src/TrackWithHistory.cc", 
+            "SimG4Core/SensitiveDetector/src/SensitiveDetector.cc"
+        ], 
+        "created_at": 1642334921, 
+        "number": 36717, 
+        "state": "open", 
+        "updated_at": 1642334941
     }
 }
