@@ -3747,32 +3747,6 @@
         "state": "open", 
         "updated_at": 1642343410
     }, 
-    "36720": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Calibration/HcalAlCaRecoProducers/plugins/AlCaHcalIsotrkProducer.cc", 
-            "Calibration/HcalAlCaRecoProducers/plugins/AlCaIsoTracksFilter.cc", 
-            "Calibration/HcalAlCaRecoProducers/python/alcaHcalIsotrkProducer_cff.py", 
-            "Calibration/HcalAlCaRecoProducers/python/alcaIsoTracksFilter_cff.py", 
-            "Calibration/HcalCalibAlgos/plugins/HcalIsoTrkAnalyzer.cc", 
-            "Calibration/HcalCalibAlgos/plugins/HcalIsoTrkSimAnalyzer.cc", 
-            "Calibration/HcalCalibAlgos/python/hcalIsoTrackStudy_cff.py", 
-            "Calibration/HcalCalibAlgos/python/hcalIsoTrkAnalyzer_cff.py", 
-            "Calibration/HcalCalibAlgos/python/HcalIsoTrkAnalyzer_cff.py", 
-            "Calibration/HcalCalibAlgos/python/hcalTestThreshold_cff.py", 
-            "Calibration/HcalCalibAlgos/test/HcalIsoTrackAnalysis.cc", 
-            "Calibration/HcalCalibAlgos/test/HcalIsoTrackStudy.cc", 
-            "Calibration/HcalCalibAlgos/test/python/isoTrackAlCaAnalysis_cfg.py", 
-            "Calibration/HcalCalibAlgos/test/python/isoTrackAlCaRecoAnalysis_cfg.py", 
-            "Calibration/HcalCalibAlgos/test/python/isoTrackNoHLTAnalysis_cfg.py", 
-            "Calibration/HcalCalibAlgos/test/python/isoTrackRecoAnalysis_cfg.py", 
-            "Configuration/Eras/python/Modifier_run2_ECAL_2018_cff.py"
-        ], 
-        "created_at": 1642381225, 
-        "number": 36720, 
-        "state": "open", 
-        "updated_at": 1642381248
-    }, 
     "36721": {
         "base_branch": "master", 
         "changed_files_names": [
