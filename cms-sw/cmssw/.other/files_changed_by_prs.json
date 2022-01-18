@@ -2826,22 +2826,6 @@
         "state": "open", 
         "updated_at": 1640158909
     }, 
-    "36353": {
-        "base_branch": "CMSSW_10_2_X", 
-        "changed_files_names": [
-            "Configuration/ProcessModifiers/python/fastSimFixLongLivedBug_cff.py", 
-            "FastSimulation/SimplifiedGeometryPropagator/interface/Decayer.h", 
-            "FastSimulation/SimplifiedGeometryPropagator/interface/ParticleManager.h", 
-            "FastSimulation/SimplifiedGeometryPropagator/plugins/FastSimProducer.cc", 
-            "FastSimulation/SimplifiedGeometryPropagator/python/fastSimProducer_cff.py", 
-            "FastSimulation/SimplifiedGeometryPropagator/src/Decayer.cc", 
-            "FastSimulation/SimplifiedGeometryPropagator/src/ParticleManager.cc"
-        ], 
-        "created_at": 1638548910, 
-        "number": 36353, 
-        "state": "open", 
-        "updated_at": 1641829825
-    }, 
     "36388": {
         "base_branch": "master", 
         "changed_files_names": [
