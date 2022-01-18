@@ -3856,5 +3856,26 @@
         "number": 36731, 
         "state": "open", 
         "updated_at": 1642502414
+    }, 
+    "36732": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "HLTrigger/HLTcore/interface/TriggerExpressionConstant.h", 
+            "HLTrigger/HLTcore/interface/TriggerExpressionData.h", 
+            "HLTrigger/HLTcore/interface/TriggerExpressionEvaluator.h", 
+            "HLTrigger/HLTcore/interface/TriggerExpressionOperators.h", 
+            "HLTrigger/HLTcore/interface/TriggerExpressionPathReader.h", 
+            "HLTrigger/HLTcore/src/TriggerExpressionData.cc", 
+            "HLTrigger/HLTfilters/plugins/TriggerResultsFilter.cc", 
+            "HLTrigger/HLTfilters/plugins/TriggerResultsFilter.h", 
+            "HLTrigger/HLTfilters/test/BuildFile.xml", 
+            "HLTrigger/HLTfilters/test/triggerResultsFilter_by_PathStatus.py", 
+            "HLTrigger/HLTfilters/test/triggerResultsFilter_by_TriggerResults.py", 
+            "HLTrigger/HLTfilters/test/triggerResultsFilter.py"
+        ], 
+        "created_at": 1642505192, 
+        "number": 36732, 
+        "state": "open", 
+        "updated_at": 1642505213
     }
 }
