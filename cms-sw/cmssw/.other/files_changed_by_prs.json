@@ -3690,12 +3690,14 @@
             "Geometry/HGCalCommonData/interface/HGCalGeometryMode.h", 
             "Geometry/HGCalCommonData/interface/HGCalWafer.h", 
             "Geometry/HGCalCommonData/src/HGCalGeometryMode.cc", 
-            "Geometry/HGCalCommonData/src/HGCalWafer.cc"
+            "Geometry/HGCalCommonData/src/HGCalWafer.cc", 
+            "Geometry/HGCalCommonData/test/HGCalCellPositionTester.cc", 
+            "Geometry/HGCalCommonData/test/python/testHGCalCellPositionTester_cfg.py"
         ], 
         "created_at": 1642426825, 
         "number": 36723, 
         "state": "open", 
-        "updated_at": 1642426848
+        "updated_at": 1642625078
     }, 
     "36724": {
         "base_branch": "master", 
