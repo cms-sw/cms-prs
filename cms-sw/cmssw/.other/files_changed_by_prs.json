@@ -4093,5 +4093,16 @@
         "number": 36753, 
         "state": "open", 
         "updated_at": 1642609745
+    }, 
+    "36754": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "GeneratorInterface/GenFilters/interface/LHEGenericMassFilter.h", 
+            "GeneratorInterface/GenFilters/src/LHEGenericMassFilter.cc"
+        ], 
+        "created_at": 1642610922, 
+        "number": 36754, 
+        "state": "open", 
+        "updated_at": 1642610948
     }
 }
