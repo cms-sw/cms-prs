@@ -3977,6 +3977,8 @@
             "CalibTracker/SiStripChannelGain/interface/APVGainStruct.h", 
             "CalibTracker/SiStripChannelGain/interface/SiStripGainsPCLHarvester.h", 
             "CalibTracker/SiStripChannelGain/interface/SiStripGainsPCLWorker.h", 
+            "CalibTracker/SiStripChannelGain/plugins/SiStripGainFromCalibTree.cc", 
+            "CalibTracker/SiStripChannelGain/plugins/SiStripGainFromData.cc", 
             "CalibTracker/SiStripChannelGain/plugins/SiStripGainsCalibTreeWorker.cc", 
             "CalibTracker/SiStripChannelGain/src/SiStripGainsPCLHarvester.cc", 
             "CalibTracker/SiStripChannelGain/src/SiStripGainsPCLWorker.cc", 
@@ -3989,7 +3991,7 @@
         "created_at": 1642597160, 
         "number": 36747, 
         "state": "open", 
-        "updated_at": 1642597178
+        "updated_at": 1642681974
     }, 
     "36748": {
         "base_branch": "master", 
