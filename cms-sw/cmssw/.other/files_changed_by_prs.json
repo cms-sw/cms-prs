@@ -4261,5 +4261,30 @@
         "number": 36772, 
         "state": "open", 
         "updated_at": 1642769894
+    }, 
+    "36773": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CUDADataFormats/Track/interface/TrackSoAHeterogeneousT.h", 
+            "CUDADataFormats/TrackingRecHit/interface/TrackingRecHit2DSOAView.h", 
+            "CUDADataFormats/TrackingRecHit/test/TrackingRecHit2DCUDA_t.cpp", 
+            "CalibTracker/SiPixelLorentzAngle/src/SiPixelLorentzAnglePCLWorker.cc", 
+            "CondFormats/SiPixelObjects/interface/SiPixelGainForHLTonGPU.h", 
+            "Geometry/CommonTopologies/interface/pixelTopology.h", 
+            "Geometry/TrackerGeometryBuilder/interface/pixelTopology.h", 
+            "Geometry/TrackerGeometryBuilder/test/phase1PixelTopology_t.cu", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelDigisClustersFromSoA.cc", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/gpuCalibPixel.h", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/gpuClusterChargeCut.h", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/gpuClustering.h", 
+            "RecoLocalTracker/SiPixelRecHits/interface/pixelCPEforGPU.h", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitSoAFromLegacy.cc", 
+            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEFast.cc", 
+            "RecoPixelVertexing/PixelTriplets/plugins/gpuFishbone.h"
+        ], 
+        "created_at": 1642784825, 
+        "number": 36773, 
+        "state": "open", 
+        "updated_at": 1642784852
     }
 }
