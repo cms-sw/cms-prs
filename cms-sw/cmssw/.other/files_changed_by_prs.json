@@ -3814,24 +3814,6 @@
         "state": "open", 
         "updated_at": 1642683818
     }, 
-    "36739": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/Framework/interface/EventPrincipal.h", 
-            "FWCore/Framework/src/EventPrincipal.cc", 
-            "FWCore/Framework/src/ProductResolvers.cc", 
-            "FWCore/Framework/test/stubs/ToyModules.cc", 
-            "FWCore/Integration/test/BuildFile.xml", 
-            "FWCore/Integration/test/DelayedReaderThrowingSource.cc", 
-            "FWCore/Integration/test/delayedreader_throw_cfg.py", 
-            "FWCore/Integration/test/delayedreader_throw_test.sh", 
-            "FWCore/Sources/interface/IDGeneratorSourceBase.h"
-        ], 
-        "created_at": 1642527831, 
-        "number": 36739, 
-        "state": "open", 
-        "updated_at": 1642597735
-    }, 
     "36740": {
         "base_branch": "CMSSW_12_2_X", 
         "changed_files_names": [
