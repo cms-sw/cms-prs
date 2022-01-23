@@ -3743,29 +3743,6 @@
         "state": "open", 
         "updated_at": 1642711468
     }, 
-    "36747": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibTracker/SiStripChannelGain/BuildFile.xml", 
-            "CalibTracker/SiStripChannelGain/interface/APVGainStruct.h", 
-            "CalibTracker/SiStripChannelGain/interface/SiStripGainsPCLHarvester.h", 
-            "CalibTracker/SiStripChannelGain/interface/SiStripGainsPCLWorker.h", 
-            "CalibTracker/SiStripChannelGain/plugins/SiStripGainFromCalibTree.cc", 
-            "CalibTracker/SiStripChannelGain/plugins/SiStripGainFromData.cc", 
-            "CalibTracker/SiStripChannelGain/plugins/SiStripGainsCalibTreeWorker.cc", 
-            "CalibTracker/SiStripChannelGain/src/SiStripGainsPCLHarvester.cc", 
-            "CalibTracker/SiStripChannelGain/src/SiStripGainsPCLWorker.cc", 
-            "CalibTracker/SiStripChannelGain/test/BuildFile.xml", 
-            "CalibTracker/SiStripChannelGain/test/Gains_CT_step1.py", 
-            "CalibTracker/SiStripChannelGain/test/Gains_CT_step2.py", 
-            "CalibTracker/SiStripChannelGain/test/testSSTGain_PCL_FromCalibTree.cpp", 
-            "CalibTracker/SiStripChannelGain/test/testSSTGain_PCL_FromCalibTree.sh"
-        ], 
-        "created_at": 1642597160, 
-        "number": 36747, 
-        "state": "open", 
-        "updated_at": 1642693633
-    }, 
     "36748": {
         "base_branch": "master", 
         "changed_files_names": [
