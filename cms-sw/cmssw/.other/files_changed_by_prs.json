@@ -3993,32 +3993,6 @@
         "state": "open", 
         "updated_at": 1642924102
     }, 
-    "36784": {
-        "base_branch": "CMSSW_12_2_X", 
-        "changed_files_names": [
-            "CalibPPS/AlignmentGlobal/python/ALCARECOPPSAlignment_Output_cff.py", 
-            "CalibPPS/AlignmentGlobal/python/ALCARECOPromptCalibProdPPSAlignment_Output_cff.py", 
-            "CalibPPS/AlignmentGlobal/python/ALCARECOPromptCalibProdPPSAlignment_cff.py", 
-            "CalibPPS/AlignmentGlobal/python/ALCARECOPPSAlignment_cff.py", 
-            "CalibPPS/TimingCalibration/python/ALCARECOPPSDiamondSampicTimingCalib_Output_cff.py", 
-            "CalibPPS/TimingCalibration/python/ALCARECOPPSTimingCalib_Output_cff.py", 
-            "CalibPPS/TimingCalibration/python/ALCARECOPromptCalibProdPPSDiamondSampicTimingCalib_Output_cff.py", 
-            "CalibPPS/TimingCalibration/python/ALCARECOPromptCalibProdPPSDiamondSampicTimingCalib_cff.py", 
-            "CalibPPS/TimingCalibration/python/ALCARECOPPSDiamondSampicTimingCalib_cff.py", 
-            "CalibPPS/TimingCalibration/python/ALCARECOPromptCalibProdPPSTimingCalib_Output_cff.py", 
-            "CalibPPS/TimingCalibration/python/ALCARECOPromptCalibProdPPSTimingCalib_cff.py", 
-            "CalibPPS/TimingCalibration/python/ALCARECOPPSTimingCalib_cff.py", 
-            "Configuration/AlCa/python/autoAlca.py", 
-            "Configuration/AlCa/python/autoPCL.py", 
-            "Configuration/EventContent/python/AlCaRecoOutput_cff.py", 
-            "Configuration/PyReleaseValidation/python/relval_steps.py", 
-            "Configuration/StandardSequences/python/AlCaRecoStreams_cff.py"
-        ], 
-        "created_at": 1642924209, 
-        "number": 36784, 
-        "state": "open", 
-        "updated_at": 1642924233
-    }, 
     "36785": {
         "base_branch": "CMSSW_12_2_X", 
         "changed_files_names": [
