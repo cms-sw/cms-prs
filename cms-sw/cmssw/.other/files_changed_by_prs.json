@@ -3783,5 +3783,20 @@
         "number": 36797, 
         "state": "open", 
         "updated_at": 1643118703
+    }, 
+    "36798": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Concurrency/scripts/edmStreamStallGrapher.py", 
+            "FWCore/Concurrency/test/streamGrapher_stallMonitor_cfg.py", 
+            "FWCore/Framework/src/EventSetupProvider.cc", 
+            "FWCore/ServiceRegistry/interface/ActivityRegistry.h", 
+            "FWCore/ServiceRegistry/src/ActivityRegistry.cc", 
+            "FWCore/Services/plugins/StallMonitor.cc"
+        ], 
+        "created_at": 1643121414, 
+        "number": 36798, 
+        "state": "open", 
+        "updated_at": 1643121433
     }
 }
