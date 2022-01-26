@@ -3674,12 +3674,18 @@
             "DQMOffline/Trigger/python/Tau3MuMonitor_cfi.py", 
             "DQMOffline/Trigger/python/TrackToTrackMonitoring_cff.py", 
             "DQMOffline/Trigger/python/TrackingMonitoringPA_Client_cff.py", 
-            "DQMOffline/Trigger/python/TrackingMonitoringPA_cff.py"
+            "DQMOffline/Trigger/python/TrackingMonitoringPA_cff.py", 
+            "DQMOffline/Trigger/python/TrackingMonitoring_Client_cff.py", 
+            "DQMOffline/Trigger/python/TrackingMonitoring_cff.py", 
+            "DQMOffline/Trigger/python/VBFMETMonitor_cff.py", 
+            "DQMOffline/Trigger/python/VBFSUSYMonitor_cff.py", 
+            "DQMOffline/Trigger/python/VBFTauMonitor_cff.py", 
+            "DQMOffline/Trigger/python/susyHLTEleCaloJets_cff.py"
         ], 
         "created_at": 1642924078, 
         "number": 36783, 
         "state": "open", 
-        "updated_at": 1643042818
+        "updated_at": 1643177813
     }, 
     "36785": {
         "base_branch": "CMSSW_12_2_X", 
