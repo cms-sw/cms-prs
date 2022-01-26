@@ -3528,7 +3528,7 @@
             "CUDADataFormats/TrackingRecHit/test/TrackingRecHit2DCUDA_t.cpp", 
             "CalibTracker/SiPixelLorentzAngle/src/SiPixelLorentzAnglePCLWorker.cc", 
             "CondFormats/SiPixelObjects/interface/SiPixelGainForHLTonGPU.h", 
-            "Geometry/CommonTopologies/interface/pixelTopology.h", 
+            "Geometry/CommonTopologies/interface/SimplePixelTopology.h", 
             "Geometry/TrackerGeometryBuilder/interface/pixelTopology.h", 
             "Geometry/TrackerGeometryBuilder/test/phase1PixelTopology_t.cu", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelDigisClustersFromSoA.cc", 
@@ -3543,7 +3543,7 @@
         "created_at": 1642784825, 
         "number": 36773, 
         "state": "open", 
-        "updated_at": 1643013792
+        "updated_at": 1643186472
     }, 
     "36780": {
         "base_branch": "CMSSW_12_2_X", 
