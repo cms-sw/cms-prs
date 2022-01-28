@@ -3479,9 +3479,7 @@
         "base_branch": "CMSSW_12_2_X", 
         "changed_files_names": [
             "DQM/GEM/interface/GEMDQMBase.h", 
-            "DQM/GEM/interface/GEMOfflineDQMBase.h", 
             "DQM/GEM/src/GEMDQMBase.cc", 
-            "DQM/GEM/src/GEMOfflineDQMBase.cc", 
             "Geometry/GEMGeometry/test/testGE0Geometry_cfg.py", 
             "Geometry/GEMGeometryBuilder/src/GEMGeometryBuilder.cc", 
             "Geometry/GEMGeometryBuilder/src/GEMGeometryBuilder.h", 
@@ -3491,7 +3489,7 @@
         "created_at": 1642912715, 
         "number": 36781, 
         "state": "open", 
-        "updated_at": 1643043717
+        "updated_at": 1643387162
     }, 
     "36782": {
         "base_branch": "CMSSW_12_2_X", 
