@@ -3455,8 +3455,6 @@
     "36780": {
         "base_branch": "CMSSW_12_2_X", 
         "changed_files_names": [
-            "Configuration/Eras/python/Modifier_run2_ECAL_2018_cff.py", 
-            "Configuration/Eras/python/Modifier_run3_geomOld_cff.py", 
             "SimG4CMS/Forward/interface/ForwardName.h", 
             "SimG4CMS/Forward/src/BHMNumberingScheme.cc", 
             "SimG4CMS/Forward/src/Bcm1fSD.cc", 
@@ -3475,7 +3473,7 @@
         "created_at": 1642867875, 
         "number": 36780, 
         "state": "open", 
-        "updated_at": 1642970349
+        "updated_at": 1643384409
     }, 
     "36781": {
         "base_branch": "CMSSW_12_2_X", 
