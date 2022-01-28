@@ -3702,12 +3702,13 @@
         "changed_files_names": [
             "RecoTracker/TkSeedingLayers/interface/SeedingHitSet.h", 
             "RecoTracker/TkSeedingLayers/test/BuildFile.xml", 
-            "RecoTracker/TkSeedingLayers/test/SeedingHitSet_t.cpp"
+            "RecoTracker/TkSeedingLayers/test/test_catch2_SeedingHitSet.cpp", 
+            "RecoTracker/TkSeedingLayers/test/test_catch2_main.cpp"
         ], 
         "created_at": 1643289919, 
         "number": 36819, 
         "state": "open", 
-        "updated_at": 1643289956
+        "updated_at": 1643384878
     }, 
     "36825": {
         "base_branch": "master", 
