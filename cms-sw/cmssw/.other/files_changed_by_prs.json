@@ -3843,5 +3843,22 @@
         "number": 36842, 
         "state": "open", 
         "updated_at": 1643634211
+    }, 
+    "36843": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "L1Trigger/L1TGlobal/plugins/L1TExtCondProducer.cc", 
+            "L1Trigger/L1TGlobal/plugins/TriggerMenuParser.cc", 
+            "L1Trigger/L1TGlobal/test/runGlobalFakeInputProducer.py", 
+            "L1Trigger/L1TNtuples/plugins/L1EventTreeProducer.cc", 
+            "L1Trigger/L1TNtuples/plugins/L1HOTreeProducer.cc", 
+            "L1Trigger/L1TNtuples/plugins/L1UpgradeTfMuonTreeProducer.cc", 
+            "L1Trigger/L1TNtuples/plugins/L1UpgradeTreeProducer.cc", 
+            "L1TriggerConfig/Utilities/src/L1MenuViewer.cc"
+        ], 
+        "created_at": 1643647430, 
+        "number": 36843, 
+        "state": "open", 
+        "updated_at": 1643647454
     }
 }
