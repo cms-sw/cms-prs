@@ -3347,25 +3347,6 @@
         "state": "open", 
         "updated_at": 1642779078
     }, 
-    "36748": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
-            "Configuration/StandardSequences/python/DigiToRaw_cff.py", 
-            "Configuration/StandardSequences/python/Reconstruction_cff.py", 
-            "DQMOffline/Configuration/python/DQMOffline_cff.py", 
-            "RecoLocalCalo/Configuration/python/ecalLocalRecoSequence_cff.py", 
-            "RecoLocalCalo/EcalRecProducers/plugins/EcalRecHitProducer.cc", 
-            "RecoLocalCalo/EcalRecProducers/plugins/EcalRecHitProducer.h", 
-            "RecoLocalCalo/EcalRecProducers/python/ecalRecHit_cfi.py", 
-            "SimCalorimetry/Configuration/python/SimCalorimetry_EventContent_cff.py", 
-            "Validation/Configuration/python/globalValidation_cff.py"
-        ], 
-        "created_at": 1642597320, 
-        "number": 36748, 
-        "state": "open", 
-        "updated_at": 1643035226
-    }, 
     "36749": {
         "base_branch": "master", 
         "changed_files_names": [
