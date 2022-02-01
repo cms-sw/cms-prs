@@ -3122,6 +3122,7 @@
             "Geometry/TrackerCommonData/data/PhaseII/Tracker_DD4hep_compatible_OT801_IT640/pixelStructureTopology.xml", 
             "Geometry/TrackerCommonData/data/PhaseII/Tracker_DD4hep_compatible_OT801_IT640/tracker.xml", 
             "Geometry/TrackerCommonData/plugins/DDTrackerIrregularRingAlgo.cc", 
+            "Geometry/TrackerCommonData/plugins/dd4hep/DDTrackerIrregularRingAlgo.cc", 
             "Geometry/TrackerNumberingBuilder/README.md", 
             "Geometry/TrackerNumberingBuilder/interface/GeometricDet.h", 
             "Geometry/TrackerNumberingBuilder/plugins/CmsTrackerPixelPhase2DoubleDiskBuilder.cc", 
@@ -3136,6 +3137,8 @@
             "Geometry/TrackerSimData/data/PhaseII/Tracker_DD4hep_compatible_OT801_IT640/pixelsens.xml", 
             "L1Trigger/TrackerDTC/python/ProducerES_cfi.py", 
             "RecoTracker/TkDetLayers/src/GeometricSearchTrackerBuilder.cc", 
+            "RecoTracker/TkDetLayers/src/Phase2EndcapLayer.cc", 
+            "RecoTracker/TkDetLayers/src/Phase2EndcapLayer.h", 
             "RecoTracker/TkDetLayers/src/Phase2EndcapLayerDoubleDisk.cc", 
             "RecoTracker/TkDetLayers/src/Phase2EndcapLayerDoubleDisk.h", 
             "RecoTracker/TkDetLayers/src/Phase2EndcapLayerDoubleDiskBuilder.cc", 
@@ -3148,12 +3151,14 @@
             "RecoTracker/TkDetLayers/src/Phase2EndcapSubDisk.h", 
             "RecoTracker/TkDetLayers/src/Phase2EndcapSubDiskBuilder.cc", 
             "RecoTracker/TkDetLayers/src/Phase2EndcapSubDiskBuilder.h", 
-            "RecoTracker/TkDetLayers/src/SubLayerCrossings.h"
+            "RecoTracker/TkDetLayers/src/SubLayerCrossings.h", 
+            "RecoTracker/TkDetLayers/src/TkDetUtil.cc", 
+            "RecoTracker/TkDetLayers/src/TkDetUtil.h"
         ], 
         "created_at": 1641807260, 
         "number": 36660, 
         "state": "open", 
-        "updated_at": 1643047495
+        "updated_at": 1643731666
     }, 
     "36699": {
         "base_branch": "master", 
