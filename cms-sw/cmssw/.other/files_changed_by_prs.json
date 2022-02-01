@@ -3798,18 +3798,17 @@
     "36840": {
         "base_branch": "master", 
         "changed_files_names": [
-            "DataFormats/Scouting/interface/Run3ScoutingParticleV2.h", 
-            "DataFormats/Scouting/src/classes.h", 
+            "DataFormats/Scouting/interface/Run3ScoutingParticle.h", 
             "DataFormats/Scouting/src/classes_def.xml", 
             "HLTrigger/JetMET/plugins/BuildFile.xml", 
-            "HLTrigger/JetMET/plugins/HLTScoutingPFProducerV2.cc", 
+            "HLTrigger/JetMET/plugins/HLTScoutingPFProducer.cc", 
             "HLTrigger/JetMET/plugins/HLTScoutingPrimaryVertexProducer.cc", 
             "HLTrigger/Muon/plugins/HLTScoutingTrackProducer.cc"
         ], 
         "created_at": 1643615598, 
         "number": 36840, 
         "state": "open", 
-        "updated_at": 1643615622
+        "updated_at": 1643703223
     }, 
     "36841": {
         "base_branch": "master", 
