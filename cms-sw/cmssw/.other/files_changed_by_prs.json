@@ -3902,5 +3902,22 @@
         "number": 36881, 
         "state": "open", 
         "updated_at": 1643922562
+    }, 
+    "36882": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Framework/interface/EventProcessor.h", 
+            "FWCore/Framework/interface/Schedule.h", 
+            "FWCore/Framework/interface/StreamSchedule.h", 
+            "FWCore/Framework/src/EventProcessor.cc", 
+            "FWCore/Framework/src/Schedule.cc", 
+            "FWCore/Framework/src/StreamSchedule.cc", 
+            "FWCore/Framework/test/test_deleteEarly.sh", 
+            "FWCore/Framework/test/test_nonConsumedModuleEarlyDelete_cfg.py"
+        ], 
+        "created_at": 1643938121, 
+        "number": 36882, 
+        "state": "open", 
+        "updated_at": 1643938150
     }
 }
