@@ -3716,13 +3716,15 @@
     "36871": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Configuration/PyReleaseValidation/README.md", 
             "Configuration/PyReleaseValidation/python/relval_2026.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
             "Configuration/PyReleaseValidation/scripts/runTheMatrix.py"
         ], 
         "created_at": 1643853060, 
         "number": 36871, 
         "state": "open", 
-        "updated_at": 1643853084
+        "updated_at": 1644063213
     }, 
     "36872": {
         "base_branch": "CMSSW_12_2_X", 
