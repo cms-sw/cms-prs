@@ -3669,30 +3669,6 @@
         "state": "open", 
         "updated_at": 1643876553
     }, 
-    "36877": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/L1Trigger/interface/MuonShower.h", 
-            "DataFormats/L1Trigger/src/MuonShower.cc", 
-            "DataFormats/L1Trigger/src/classes_def.xml", 
-            "EventFilter/L1TRawToDigi/plugins/implementations_stage2/GTCollections.cc", 
-            "EventFilter/L1TRawToDigi/plugins/implementations_stage2/GTCollections.h", 
-            "EventFilter/L1TRawToDigi/plugins/implementations_stage2/GTSetup.cc", 
-            "EventFilter/L1TRawToDigi/plugins/implementations_stage2/GTTokens.cc", 
-            "EventFilter/L1TRawToDigi/plugins/implementations_stage2/MuonPacker.cc", 
-            "EventFilter/L1TRawToDigi/plugins/implementations_stage2/MuonUnpacker.cc", 
-            "EventFilter/L1TRawToDigi/plugins/implementations_stage2/MuonUnpacker.h", 
-            "EventFilter/L1TRawToDigi/python/gtStage2Raw_cfi.py", 
-            "L1Trigger/L1TMuon/interface/MuonRawDigiTranslator.h", 
-            "L1Trigger/L1TMuon/interface/RegionalMuonRawDigiTranslator.h", 
-            "L1Trigger/L1TMuon/src/MuonRawDigiTranslator.cc", 
-            "L1Trigger/L1TMuon/src/RegionalMuonRawDigiTranslator.cc"
-        ], 
-        "created_at": 1643902045, 
-        "number": 36877, 
-        "state": "open", 
-        "updated_at": 1643996916
-    }, 
     "36878": {
         "base_branch": "master", 
         "changed_files_names": [
