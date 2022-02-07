@@ -3217,39 +3217,6 @@
         "state": "open", 
         "updated_at": 1643902064
     }, 
-    "36740": {
-        "base_branch": "CMSSW_12_2_X", 
-        "changed_files_names": [
-            "Geometry/ForwardCommonData/data/bcm1f/2021/v1/bcm1f.xml", 
-            "Geometry/ForwardCommonData/data/dd4hep/testForwardGeometry.xml", 
-            "Geometry/ForwardCommonData/data/pixfwd/2021/v1/pixfwd.xml", 
-            "Geometry/ForwardCommonData/data/plt/2021/v1/plt.xml", 
-            "Geometry/ForwardCommonData/data/pltbcm/2021/v1/pltbcm.xml", 
-            "Geometry/ForwardCommonData/plugins/dd4hep/DDBHMAngular.cc", 
-            "Geometry/ForwardCommonData/python/testForwardXML_cfi.py", 
-            "Geometry/ForwardCommonData/test/g4OverlapCheckForwardDD4hep_cfg.py", 
-            "Geometry/ForwardCommonData/test/g4OverlapCheckForwardDDD_cfg.py", 
-            "Geometry/GEMGeometryBuilder/data/GEMSpecs/2021/v1/GEMSpecs.xml", 
-            "Geometry/GEMGeometryBuilder/data/GEMSpecs/2021/v2/GEMSpecs.xml", 
-            "Geometry/GEMGeometryBuilder/data/GEMSpecsFilter/2021/v1/GEMSpecsFilter.xml", 
-            "Geometry/GEMGeometryBuilder/data/GEMSpecsFilter/2021/v2/GEMSpecsFilter.xml", 
-            "Geometry/MuonCommonData/data/gem21/2021/v1/gem21.xml", 
-            "Geometry/MuonCommonData/data/mf/2021/v3/mf.xml", 
-            "Geometry/MuonCommonData/data/muonNumbering/2021/v4/muonNumbering.xml", 
-            "Geometry/MuonCommonData/data/muonNumbering/2021/v5/muonNumbering.xml", 
-            "Geometry/MuonCommonData/data/rpcf/2021/v1/rpcf.xml", 
-            "Geometry/MuonSimData/data/muonProdCuts/2021/v3/muonProdCuts.xml", 
-            "Geometry/MuonSimData/data/muonProdCuts/2021/v4/muonProdCuts.xml", 
-            "Geometry/MuonSimData/data/muonSens/2021/v3/muonSens.xml", 
-            "Geometry/MuonSimData/data/muonSens/2021/v4/muonSens.xml", 
-            "Geometry/RPCGeometryBuilder/data/2021/v1/RPCSpecs.xml", 
-            "Geometry/TrackerCommonData/data/PhaseI/v3/pixfwd.xml"
-        ], 
-        "created_at": 1642529986, 
-        "number": 36740, 
-        "state": "open", 
-        "updated_at": 1643832842
-    }, 
     "36742": {
         "base_branch": "master", 
         "changed_files_names": [
