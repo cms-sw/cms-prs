@@ -3417,17 +3417,16 @@
     "36862": {
         "base_branch": "master", 
         "changed_files_names": [
+            "HLTrigger/btau/plugins/BuildFile.xml", 
             "HLTrigger/btau/plugins/HLTSumJetTag.cc", 
             "HLTrigger/btau/plugins/HLTSumJetTag.h", 
-            "HLTrigger/btau/plugins/HLTSumJetTagWithMatching.cc", 
-            "HLTrigger/btau/plugins/HLTSumJetTagWithMatching.h", 
             "HLTrigger/btau/plugins/modules.cc", 
             "RecoBTag/FeatureTools/plugins/DeepBoostedJetTagInfoProducer.cc"
         ], 
         "created_at": 1643807731, 
         "number": 36862, 
         "state": "open", 
-        "updated_at": 1644227237
+        "updated_at": 1644333665
     }, 
     "36878": {
         "base_branch": "master", 
