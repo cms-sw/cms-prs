@@ -3650,5 +3650,16 @@
         "number": 36929, 
         "state": "open", 
         "updated_at": 1644521389
+    }, 
+    "36930": {
+        "base_branch": "CMSSW_12_2_X", 
+        "changed_files_names": [
+            "HLTriggerOffline/Exotica/python/hltExoticaValidator_cfi.py", 
+            "L1Trigger/Configuration/python/L1TReco_cff.py"
+        ], 
+        "created_at": 1644523639, 
+        "number": 36930, 
+        "state": "open", 
+        "updated_at": 1644523679
     }
 }
