@@ -3277,29 +3277,13 @@
     "36830": {
         "base_branch": "master", 
         "changed_files_names": [
-            "RecoPixelVertexing/PixelLowPtUtilities/interface/PixelTripletLowPtGenerator.h", 
-            "RecoPixelVertexing/PixelLowPtUtilities/interface/TripletFilter.h", 
-            "RecoPixelVertexing/PixelLowPtUtilities/src/PixelTripletLowPtGenerator.cc", 
-            "RecoPixelVertexing/PixelLowPtUtilities/src/TripletFilter.cc", 
             "RecoPixelVertexing/PixelLowPtUtilities/test/ClusterShapeExtractor.cc", 
-            "RecoPixelVertexing/PixelTriplets/interface/HitTripletGenerator.h", 
-            "RecoPixelVertexing/PixelTriplets/interface/HitTripletGeneratorFromPairAndLayers.h", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CombinedHitTripletGenerator.cc", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CombinedHitTripletGenerator.h", 
-            "RecoPixelVertexing/PixelTriplets/plugins/PixelTripletHLTGenerator.cc", 
-            "RecoPixelVertexing/PixelTriplets/plugins/PixelTripletHLTGenerator.h", 
-            "RecoPixelVertexing/PixelTriplets/plugins/PixelTripletLargeTipGenerator.cc", 
-            "RecoPixelVertexing/PixelTriplets/plugins/PixelTripletLargeTipGenerator.h", 
-            "RecoPixelVertexing/PixelTriplets/plugins/PixelTripletNoTipGenerator.cc", 
-            "RecoPixelVertexing/PixelTriplets/plugins/PixelTripletNoTipGenerator.h", 
-            "RecoPixelVertexing/PixelTriplets/src/HitTripletGenerator.cc", 
-            "RecoPixelVertexing/PixelTriplets/test/HitTripletProducer.cc", 
-            "RecoTracker/TkTrackingRegions/interface/OrderedHitsGenerator.h"
+            "RecoPixelVertexing/PixelTriplets/test/HitTripletProducer.cc"
         ], 
         "created_at": 1643390783, 
         "number": 36830, 
         "state": "open", 
-        "updated_at": 1643716076
+        "updated_at": 1644493708
     }, 
     "36841": {
         "base_branch": "master", 
