@@ -3547,14 +3547,7 @@
     "36935": {
         "base_branch": "master", 
         "changed_files_names": [
-            "HLTrigger/Configuration/python/HLT_FULL_cff.py", 
-            "HLTrigger/Configuration/python/HLT_GRun_cff.py", 
-            "HLTrigger/Configuration/python/HLT_HIon_cff.py", 
-            "HLTrigger/Configuration/python/HLT_PRef_cff.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_FULL.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_GRun.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_HIon.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_PRef.py", 
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
             "RecoEgamma/EgammaHLTProducers/python/HLTEgPhaseIITestSequence_cff.py", 
             "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitWorkerMultiFit.cc", 
             "RecoLocalCalo/EcalRecProducers/python/ecalMultiFitUncalibRecHit_cfi.py", 
@@ -3565,7 +3558,7 @@
         "created_at": 1644584838, 
         "number": 36935, 
         "state": "open", 
-        "updated_at": 1644584859
+        "updated_at": 1644592798
     }, 
     "36936": {
         "base_branch": "master", 
