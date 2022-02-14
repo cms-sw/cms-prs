@@ -2975,6 +2975,7 @@
     "36699": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Configuration/StandardSequences/python/Accelerators_cff.py", 
             "Configuration/StandardSequences/python/Services_cff.py", 
             "FWCore/Framework/interface/ensureAvailableAccelerators.h", 
             "FWCore/Framework/src/EventProcessor.cc", 
@@ -3019,7 +3020,7 @@
         "created_at": 1642019790, 
         "number": 36699, 
         "state": "open", 
-        "updated_at": 1643679243
+        "updated_at": 1644867072
     }, 
     "36712": {
         "base_branch": "master", 
