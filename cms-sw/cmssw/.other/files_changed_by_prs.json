@@ -3563,5 +3563,23 @@
         "number": 36969, 
         "state": "open", 
         "updated_at": 1644920627
+    }, 
+    "36970": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DetectorDescription/DDCMS/src/DDFilteredView.cc", 
+            "Geometry/MTDCommonData/test/testMTDGeometry.py", 
+            "Geometry/MTDCommonData/test/testMTDinDD4hep.py", 
+            "Geometry/MTDCommonData/test/testMTDinDDD.py", 
+            "Geometry/MTDGeometryBuilder/test/dd4hep_mtd_cfg.py", 
+            "Geometry/MTDGeometryBuilder/test/mtd_cfg.py", 
+            "Geometry/MTDNumberingBuilder/test/dd4hep_mtd_cfg.py", 
+            "Geometry/MTDNumberingBuilder/test/mtd_cfg.py", 
+            "RecoMTD/DetLayers/test/mtd_cfg.py"
+        ], 
+        "created_at": 1644921822, 
+        "number": 36970, 
+        "state": "open", 
+        "updated_at": 1644921841
     }
 }
