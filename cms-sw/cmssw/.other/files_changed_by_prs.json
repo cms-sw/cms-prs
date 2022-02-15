@@ -3219,31 +3219,6 @@
         "state": "open", 
         "updated_at": 1644339591
     }, 
-    "36918": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/Generator/python/Hydjet_Quenched_MinBias_XeXe_5442GeV_cfi.py", 
-            "Configuration/Generator/python/Pyquen2013Settings_cff.py", 
-            "Configuration/Generator/python/Pyquen2015Settings_cff.py", 
-            "Configuration/Generator/python/PyquenDefaultSettings_cff.py", 
-            "Configuration/Generator/python/Pyquen_GammaJet_pt20_2760GeV_cfi.py", 
-            "Configuration/Generator/python/Pyquen_ZeemumuJets_pt10_2760GeV_ExtGen_cfi.py", 
-            "Configuration/Generator/python/Pyquen_ZeemumuJets_pt10_2760GeV_cfi.py", 
-            "Configuration/Generator/python/hydjet2DefaultParameters2015_cff.py", 
-            "GeneratorInterface/Hydjet2Interface/interface/Hydjet2Hadronizer.h", 
-            "GeneratorInterface/Hydjet2Interface/src/Hydjet2Hadronizer.cc", 
-            "GeneratorInterface/HydjetInterface/interface/HydjetHadronizer.h", 
-            "GeneratorInterface/HydjetInterface/python/hydjetDefaultParameters_cff.py", 
-            "GeneratorInterface/HydjetInterface/src/HydjetHadronizer.cc", 
-            "GeneratorInterface/PyquenInterface/python/Pyquen_Zmumu_2760GeV_dimuonAcc_cfi.py", 
-            "GeneratorInterface/PyquenInterface/python/pyquenEcalTrig_cfi.py", 
-            "GeneratorInterface/PyquenInterface/src/PyquenHadronizer.cc"
-        ], 
-        "created_at": 1644415030, 
-        "number": 36918, 
-        "state": "open", 
-        "updated_at": 1644754399
-    }, 
     "36919": {
         "base_branch": "master", 
         "changed_files_names": [
