@@ -3556,35 +3556,6 @@
         "state": "open", 
         "updated_at": 1644850274
     }, 
-    "36962": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibTracker/SiPixelGainCalibration/test/SimpleTestPrintOutPixelCalibAnalyzer.cc", 
-            "CalibTracker/SiPixelTools/plugins/SiPixelCalibDigiFilter.cc", 
-            "CalibTracker/SiPixelTools/plugins/SiPixelCalibDigiFilter.h", 
-            "CalibTracker/SiStripCommon/plugins/ShallowExampleProducer.h", 
-            "CalibTracker/SiStripCommon/test/BuildFile.xml", 
-            "CalibTracker/SiStripCommon/test/plugins/module.cc", 
-            "CalibTracker/SiStripCommon/test/plugins/testSiStripFedIdListReader.cc", 
-            "CalibTracker/SiStripCommon/test/plugins/testSiStripFedIdListReader.h", 
-            "CalibTracker/SiStripCommon/test/testSiStripFedIdListReader.cc", 
-            "CalibTracker/SiStripDCS/test/plugins/SealModules.cc", 
-            "CalibTracker/SiStripDCS/test/plugins/dpLocationMap.cc", 
-            "CalibTracker/SiStripDCS/test/plugins/dpLocationMap.h", 
-            "CalibTracker/SiStripDCS/test/plugins/testbuilding.cc", 
-            "CalibTracker/SiStripDCS/test/plugins/testbuilding.h", 
-            "CalibTracker/SiStripESProducers/test/SiStripGainReader.cc", 
-            "CalibTracker/SiStripESProducers/test/SiStripGainReader.cpp", 
-            "CalibTracker/SiStripLorentzAngle/interface/SiStripCalibLorentzAngle.h", 
-            "CalibTracker/SiStripLorentzAngle/plugins/SiStripCalibLorentzAngle.cc", 
-            "CondFormats/PhysicsToolsObjects/test/TFormulaWriter.h", 
-            "CondFormats/PhysicsToolsObjects/test/TGraphWriter.h"
-        ], 
-        "created_at": 1644857723, 
-        "number": 36962, 
-        "state": "open", 
-        "updated_at": 1644857743
-    }, 
     "36963": {
         "base_branch": "master", 
         "changed_files_names": [
