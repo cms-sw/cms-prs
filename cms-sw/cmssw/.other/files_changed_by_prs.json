@@ -3445,5 +3445,18 @@
         "number": 36995, 
         "state": "open", 
         "updated_at": 1645125749
+    }, 
+    "36996": {
+        "base_branch": "CMSSW_12_3_ROOT6_X", 
+        "changed_files_names": [
+            "DataFormats/METReco/src/CSCHaloData.cc", 
+            "DataFormats/METReco/src/GlobalHaloData.cc", 
+            "DataFormats/ParticleFlowReco/interface/PFCluster.h", 
+            "DataFormats/TauReco/interface/PFTauTransverseImpactParameter.h"
+        ], 
+        "created_at": 1645128378, 
+        "number": 36996, 
+        "state": "open", 
+        "updated_at": 1645128401
     }
 }
