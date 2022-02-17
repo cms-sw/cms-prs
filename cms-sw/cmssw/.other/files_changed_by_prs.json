@@ -2983,6 +2983,7 @@
     "36742": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Configuration/ProcessModifiers/python/gpuValidationEcal_cff.py", 
             "Configuration/ProcessModifiers/python/gpuValidation_cff.py", 
             "DQM/EcalMonitorTasks/interface/Collections.h", 
             "DQM/EcalMonitorTasks/interface/GpuTask.h", 
@@ -2996,7 +2997,7 @@
         "created_at": 1642536083, 
         "number": 36742, 
         "state": "open", 
-        "updated_at": 1644971195
+        "updated_at": 1645110769
     }, 
     "36749": {
         "base_branch": "master", 
