@@ -3419,5 +3419,21 @@
         "number": 36997, 
         "state": "open", 
         "updated_at": 1645167893
+    }, 
+    "36998": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/HcalCommon/interface/ValueQuantity.h", 
+            "DQM/HcalTasks/interface/HcalGPUComparisonTask.h", 
+            "DQM/HcalTasks/plugins/HcalGPUComparisonTask.cc", 
+            "DQM/HcalTasks/python/HcalGPUComparisonTask.py", 
+            "DQM/HcalTasks/python/OfflineSourceSequence_pp.py", 
+            "DQMOffline/Configuration/python/DQMOffline_cff.py", 
+            "DQMOffline/Configuration/python/autoDQM.py"
+        ], 
+        "created_at": 1645173967, 
+        "number": 36998, 
+        "state": "open", 
+        "updated_at": 1645173989
     }
 }
