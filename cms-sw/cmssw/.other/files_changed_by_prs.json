@@ -3756,5 +3756,24 @@
         "number": 37005, 
         "state": "open", 
         "updated_at": 1645423986
+    }, 
+    "37006": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/HLT_FULL_cff.py", 
+            "HLTrigger/Configuration/python/HLT_GRun_cff.py", 
+            "HLTrigger/Configuration/python/HLT_HIon_cff.py", 
+            "HLTrigger/Configuration/python/HLT_PIon_cff.py", 
+            "HLTrigger/Configuration/python/HLT_PRef_cff.py", 
+            "HLTrigger/Configuration/test/OnLine_HLT_FULL.py", 
+            "HLTrigger/Configuration/test/OnLine_HLT_GRun.py", 
+            "HLTrigger/Configuration/test/OnLine_HLT_HIon.py", 
+            "HLTrigger/Configuration/test/OnLine_HLT_PIon.py", 
+            "HLTrigger/Configuration/test/OnLine_HLT_PRef.py"
+        ], 
+        "created_at": 1645440548, 
+        "number": 37006, 
+        "state": "open", 
+        "updated_at": 1645440570
     }
 }
