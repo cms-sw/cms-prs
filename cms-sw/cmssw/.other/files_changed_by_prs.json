@@ -3848,5 +3848,32 @@
         "number": 37040, 
         "state": "open", 
         "updated_at": 1645565600
+    }, 
+    "37041": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "HeterogeneousCore/SonicCore/README.md", 
+            "HeterogeneousCore/SonicCore/interface/SonicAcquirer.h", 
+            "HeterogeneousCore/SonicCore/interface/SonicClientBase.h", 
+            "HeterogeneousCore/SonicCore/interface/SonicEDFilter.h", 
+            "HeterogeneousCore/SonicCore/interface/SonicEDProducer.h", 
+            "HeterogeneousCore/SonicCore/interface/SonicOneEDAnalyzer.h", 
+            "HeterogeneousCore/SonicCore/src/SonicClientBase.cc", 
+            "HeterogeneousCore/SonicCore/test/SonicDummyFilter.cc", 
+            "HeterogeneousCore/SonicCore/test/SonicDummyOneAnalyzer.cc", 
+            "HeterogeneousCore/SonicCore/test/SonicDummyProducer.cc", 
+            "HeterogeneousCore/SonicTriton/interface/TritonEDFilter.h", 
+            "HeterogeneousCore/SonicTriton/interface/TritonEDProducer.h", 
+            "HeterogeneousCore/SonicTriton/interface/TritonOneEDAnalyzer.h", 
+            "HeterogeneousCore/SonicTriton/src/TritonClient.cc", 
+            "HeterogeneousCore/SonicTriton/test/TritonGraphModules.cc", 
+            "HeterogeneousCore/SonicTriton/test/TritonImageProducer.cc", 
+            "HeterogeneousCore/SonicTriton/test/tritonTest_cfg.py", 
+            "RecoEcal/EgammaClusterProducers/src/SCEnergyCorrectorDRNProducer.cc"
+        ], 
+        "created_at": 1645566665, 
+        "number": 37041, 
+        "state": "open", 
+        "updated_at": 1645566687
     }
 }
