@@ -3779,5 +3779,16 @@
         "number": 37027, 
         "state": "open", 
         "updated_at": 1645527043
+    }, 
+    "37028": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/ProcessModifiers/python/enableXTalkInPhase2Pixel_cff.py", 
+            "SimTracker/SiPhase2Digitizer/python/phase2TrackerDigitizer_cfi.py"
+        ], 
+        "created_at": 1645531235, 
+        "number": 37028, 
+        "state": "open", 
+        "updated_at": 1645531258
     }
 }
