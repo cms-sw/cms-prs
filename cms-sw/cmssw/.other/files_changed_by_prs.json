@@ -2857,6 +2857,8 @@
     "36998": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Configuration/ProcessModifiers/python/gpuValidationHcal_cff.py", 
+            "Configuration/ProcessModifiers/python/gpuValidation_cff.py", 
             "DQM/HcalCommon/interface/ValueQuantity.h", 
             "DQM/HcalTasks/interface/HcalGPUComparisonTask.h", 
             "DQM/HcalTasks/plugins/HcalGPUComparisonTask.cc", 
@@ -2866,7 +2868,7 @@
         "created_at": 1645173967, 
         "number": 36998, 
         "state": "open", 
-        "updated_at": 1645544165
+        "updated_at": 1645635970
     }, 
     "37001": {
         "base_branch": "master", 
