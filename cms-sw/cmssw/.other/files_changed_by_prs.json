@@ -3875,5 +3875,22 @@
         "number": 37045, 
         "state": "open", 
         "updated_at": 1645617398
+    }, 
+    "37046": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "L1Trigger/L1TGlobal/plugins/L1TGlobalPrescalesVetosFractESProducer.cc", 
+            "L1Trigger/L1TGlobal/plugins/L1TGlobalProducer.cc", 
+            "L1Trigger/L1TGlobal/plugins/L1TGlobalProducer.h", 
+            "L1Trigger/L1TGlobal/python/PrescalesVetosFract_cff.py", 
+            "L1Trigger/L1TGlobal/python/hackConditions_cff.py", 
+            "L1Trigger/L1TGlobal/test/l1tGlobalEmulation_FromDigi.py", 
+            "L1Trigger/L1TGlobal/test/l1tGlobalEmulation_FromRAW.py", 
+            "L1Trigger/L1TGlobal/test/runGlobalFakeInputProducer.py"
+        ], 
+        "created_at": 1645619541, 
+        "number": 37046, 
+        "state": "open", 
+        "updated_at": 1645619564
     }
 }
