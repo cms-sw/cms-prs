@@ -3773,35 +3773,6 @@
         "state": "open", 
         "updated_at": 1645564044
     }, 
-    "37040": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "HLTrigger/Configuration/python/HLT_FULL_cff.py", 
-            "HLTrigger/Configuration/python/HLT_Fake2_cff.py", 
-            "HLTrigger/Configuration/python/HLT_GRun_cff.py", 
-            "HLTrigger/Configuration/python/HLT_HIon_cff.py", 
-            "HLTrigger/Configuration/python/HLT_PIon_cff.py", 
-            "HLTrigger/Configuration/python/HLT_PRef_cff.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_FULL.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_Fake2.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_GRun.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_HIon.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_PIon.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_PRef.py", 
-            "L1Trigger/L1TGlobal/plugins/L1TGlobalPrescalesVetosFractESProducer.cc", 
-            "L1Trigger/L1TGlobal/plugins/L1TGlobalProducer.cc", 
-            "L1Trigger/L1TGlobal/plugins/L1TGlobalProducer.h", 
-            "L1Trigger/L1TGlobal/python/PrescalesVetosFract_cff.py", 
-            "L1Trigger/L1TGlobal/python/hackConditions_cff.py", 
-            "L1Trigger/L1TGlobal/test/l1tGlobalEmulation_FromDigi.py", 
-            "L1Trigger/L1TGlobal/test/l1tGlobalEmulation_FromRAW.py", 
-            "L1Trigger/L1TGlobal/test/runGlobalFakeInputProducer.py"
-        ], 
-        "created_at": 1645565574, 
-        "number": 37040, 
-        "state": "open", 
-        "updated_at": 1645565600
-    }, 
     "37041": {
         "base_branch": "master", 
         "changed_files_names": [
