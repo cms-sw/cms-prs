@@ -2727,12 +2727,14 @@
             "Calibration/LumiAlCaRecoProducers/python/ALCARECORawPCCProducer_Output_cff.py", 
             "Calibration/LumiAlCaRecoProducers/python/ALCARECORawPCCProducer_cff.py", 
             "Calibration/LumiAlCaRecoProducers/python/alcaPCCIntegrator_cfi.py", 
-            "Calibration/LumiAlCaRecoProducers/python/alcaRawPCCProducer_cfi.py"
+            "Calibration/LumiAlCaRecoProducers/python/alcaRawPCCProducer_cfi.py", 
+            "Configuration/PyReleaseValidation/python/relval_production.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py"
         ], 
         "created_at": 1644797491, 
         "number": 36952, 
         "state": "open", 
-        "updated_at": 1645564764
+        "updated_at": 1645659060
     }, 
     "36954": {
         "base_branch": "master", 
