@@ -3105,5 +3105,21 @@
         "number": 37070, 
         "state": "open", 
         "updated_at": 1645794515
+    }, 
+    "37071": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/BeamMonitor/plugins/AlcaBeamMonitorClient.cc", 
+            "DQM/BeamMonitor/plugins/AlcaBeamMonitorClient.h", 
+            "DQM/BeamMonitor/plugins/BeamConditionsMonitor.cc", 
+            "DQM/BeamMonitor/plugins/BeamConditionsMonitor.h", 
+            "DQM/BeamMonitor/plugins/BeamMonitorBx.h", 
+            "DQM/BeamMonitor/plugins/PixelVTXMonitor.h", 
+            "DQM/BeamMonitor/plugins/Vx3DHLTAnalyzer.h"
+        ], 
+        "created_at": 1645818727, 
+        "number": 37071, 
+        "state": "open", 
+        "updated_at": 1645818751
     }
 }
