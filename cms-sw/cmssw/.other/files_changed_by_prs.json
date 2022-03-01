@@ -3243,5 +3243,17 @@
         "number": 37095, 
         "state": "open", 
         "updated_at": 1646088072
+    }, 
+    "37098": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondFormats/RunInfo/interface/LHCInfo.h", 
+            "CondFormats/RunInfo/src/LHCInfo.cc", 
+            "CondTools/RunInfo/src/LHCInfoPopConSourceHandler.cc"
+        ], 
+        "created_at": 1646136484, 
+        "number": 37098, 
+        "state": "open", 
+        "updated_at": 1646136511
     }
 }
