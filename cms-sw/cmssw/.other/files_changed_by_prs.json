@@ -3117,12 +3117,14 @@
     "37100": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Configuration/Eras/python/Era_Run3_cff.py", 
+            "Configuration/Eras/python/Modifier_run3_egamma_cff.py", 
             "RecoEgamma/EgammaTools/python/regressionModifier_cfi.py"
         ], 
         "created_at": 1646141367, 
         "number": 37100, 
         "state": "open", 
-        "updated_at": 1646141388
+        "updated_at": 1646225929
     }, 
     "37101": {
         "base_branch": "master", 
