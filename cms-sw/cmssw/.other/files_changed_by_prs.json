@@ -3077,6 +3077,7 @@
     "37117": {
         "base_branch": "master", 
         "changed_files_names": [
+            "DQMOffline/Configuration/python/DQMOfflineHeavyIons_cff.py", 
             "DQMOffline/Trigger/python/HLTMuonOfflineAnalyzer_cff.py", 
             "DQMOffline/Trigger/python/HLTMuonOfflineAnalyzer_cfi.py", 
             "DQMOffline/Trigger/src/HLTMuonMatchAndPlot.cc"
@@ -3084,7 +3085,7 @@
         "created_at": 1646229925, 
         "number": 37117, 
         "state": "open", 
-        "updated_at": 1646229949
+        "updated_at": 1646315418
     }, 
     "37119": {
         "base_branch": "master", 
