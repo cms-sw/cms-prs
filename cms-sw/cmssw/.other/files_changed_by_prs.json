@@ -2650,27 +2650,6 @@
         "state": "open", 
         "updated_at": 1645620917
     }, 
-    "36901": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/EgammaCandidates/interface/Photon.h", 
-            "DataFormats/EgammaCandidates/src/Photon.cc", 
-            "DataFormats/EgammaCandidates/src/classes_def.xml", 
-            "DataFormats/PatCandidates/src/classes_def_objects.xml", 
-            "RecoEgamma/EgammaPhotonProducers/python/gedPhotons_cfi.py", 
-            "RecoEgamma/EgammaPhotonProducers/python/photons_cfi.py", 
-            "RecoEgamma/EgammaPhotonProducers/src/GEDPhotonProducer.cc", 
-            "RecoEgamma/EgammaPhotonProducers/src/PhotonProducer.cc", 
-            "RecoEgamma/PhotonIdentification/BuildFile.xml", 
-            "RecoEgamma/PhotonIdentification/interface/PhotonMVABasedHaloTagger.h", 
-            "RecoEgamma/PhotonIdentification/python/mvaHaloVariable_cfi.py", 
-            "RecoEgamma/PhotonIdentification/src/PhotonMVABasedHaloTagger.cc"
-        ], 
-        "created_at": 1644190689, 
-        "number": 36901, 
-        "state": "open", 
-        "updated_at": 1645601541
-    }, 
     "36926": {
         "base_branch": "master", 
         "changed_files_names": [
