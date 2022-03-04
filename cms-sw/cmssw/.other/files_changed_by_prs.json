@@ -2830,6 +2830,8 @@
         "base_branch": "master", 
         "changed_files_names": [
             "PhysicsTools/NanoAOD/python/boostedTaus_cff.py", 
+            "PhysicsTools/NanoAOD/python/nanoDQM_cff.py", 
+            "PhysicsTools/NanoAOD/python/nanoDQM_cfi.py", 
             "PhysicsTools/NanoAOD/python/nano_cff.py", 
             "PhysicsTools/NanoAOD/python/taus_cff.py", 
             "PhysicsTools/PatAlgos/python/producersLayer1/tauProducer_cfi.py", 
@@ -2842,7 +2844,7 @@
         "created_at": 1646077857, 
         "number": 37091, 
         "state": "open", 
-        "updated_at": 1646077877
+        "updated_at": 1646404653
     }, 
     "37093": {
         "base_branch": "master", 
