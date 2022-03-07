@@ -3104,10 +3104,12 @@
     "37149": {
         "base_branch": "master", 
         "changed_files_names": [
+            "DataFormats/Scouting/BuildFile.xml", 
             "DataFormats/Scouting/interface/Run3ScoutingHitPatternPOD.h", 
             "DataFormats/Scouting/interface/Run3ScoutingMuon.h", 
             "DataFormats/Scouting/src/classes.h", 
             "DataFormats/Scouting/src/classes_def.xml", 
+            "DataFormats/TrackReco/BuildFile.xml", 
             "DataFormats/TrackReco/interface/HitPattern.h", 
             "DataFormats/TrackReco/src/HitPattern.cc", 
             "HLTrigger/Muon/plugins/HLTScoutingMuonProducer.cc", 
@@ -3116,7 +3118,7 @@
         "created_at": 1646505052, 
         "number": 37149, 
         "state": "open", 
-        "updated_at": 1646505074
+        "updated_at": 1646663273
     }, 
     "37151": {
         "base_branch": "master", 
