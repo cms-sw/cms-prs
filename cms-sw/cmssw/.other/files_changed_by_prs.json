@@ -2487,38 +2487,6 @@
         "state": "open", 
         "updated_at": 1639415608
     }, 
-    "36557": {
-        "base_branch": "CMSSW_11_0_X", 
-        "changed_files_names": [
-            "Validation/RecoTau/README.md", 
-            "Validation/RecoTau/Tools/CreateSqliteForCondDB_cfg.py", 
-            "Validation/RecoTau/Tools/makeLayoutFileForGui.py", 
-            "Validation/RecoTau/interface/TauValidationMiniAOD.h", 
-            "Validation/RecoTau/python/RecoTauValidationMiniAOD_cfi.py", 
-            "Validation/RecoTau/python/RecoTauValidation_cff.py", 
-            "Validation/RecoTau/python/RecoTauValidation_cfi.py", 
-            "Validation/RecoTau/python/config_costom.py", 
-            "Validation/RecoTau/python/dataTypes/ValidateTausOnQCD_cff.py", 
-            "Validation/RecoTau/python/dataTypes/ValidateTausOnRealData_cff.py", 
-            "Validation/RecoTau/python/dataTypes/ValidateTausOnRealElectronsData_cff.py", 
-            "Validation/RecoTau/python/dataTypes/ValidateTausOnRealMuonsData_cff.py", 
-            "Validation/RecoTau/python/dataTypes/ValidateTausOnZEEFastSim_cff.py", 
-            "Validation/RecoTau/python/dataTypes/ValidateTausOnZEE_cff.py", 
-            "Validation/RecoTau/python/dataTypes/ValidateTausOnZMM_cff.py", 
-            "Validation/RecoTau/python/dataTypes/ValidateTausOnZTTFastSim_cff.py", 
-            "Validation/RecoTau/python/dataTypes/ValidateTausOnZTT_cff.py", 
-            "Validation/RecoTau/src/TauTagValidation.cc", 
-            "Validation/RecoTau/src/TauValidationMiniAOD.cc", 
-            "Validation/RecoTau/test/UsualValidation.sh", 
-            "Validation/RecoTau/test/config.py", 
-            "Validation/RecoTau/test/harvesting.py", 
-            "Validation/RecoTau/test/recipe.sh"
-        ], 
-        "created_at": 1640032444, 
-        "number": 36557, 
-        "state": "open", 
-        "updated_at": 1643881489
-    }, 
     "36884": {
         "base_branch": "master", 
         "changed_files_names": [
