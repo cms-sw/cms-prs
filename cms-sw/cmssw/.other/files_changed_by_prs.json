@@ -4016,5 +4016,21 @@
         "number": 37173, 
         "state": "open", 
         "updated_at": 1646742921
+    }, 
+    "37174": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/SiPixelPhase1Heterogeneous/BuildFile.xml", 
+            "DQM/SiPixelPhase1Heterogeneous/plugins/BuildFile.xml", 
+            "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1MonitorRecHitsSoABase.cc", 
+            "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1MonitorRecHitsSoABase.h", 
+            "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1MonitorRecHitsSoACPU.cc", 
+            "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1MonitorRecHitsSoAGPU.cc", 
+            "DQM/SiPixelPhase1Heterogeneous/python/SiPixelPhase1HeterogenousDQM_FirstStep_cff.py"
+        ], 
+        "created_at": 1646744114, 
+        "number": 37174, 
+        "state": "open", 
+        "updated_at": 1646744142
     }
 }
