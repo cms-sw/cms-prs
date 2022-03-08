@@ -2597,41 +2597,6 @@
         "state": "open", 
         "updated_at": 1645564326
     }, 
-    "37081": {
-        "base_branch": "CMSSW_12_2_X", 
-        "changed_files_names": [
-            "DQM/Integration/python/clients/beamhlt_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/beamspotdip_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/bril_dqm_clientPB-live_cfg.py", 
-            "DQM/Integration/python/clients/castor_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/csc_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/dt4ml_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/dt_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/es_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/fed_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/gem_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/hlt_dqm_clientPB-live_cfg.py", 
-            "DQM/Integration/python/clients/hltrates_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/hlx_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/info_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/l1t_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/l1temulator_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/l1tstage1_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/l1tstage1emulator_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/lumi_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/mutracking_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/physics_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/pixellumi_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/ramdisk_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/rpc_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/scal_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/sistriplas_dqm_sourceclient-live_cfg.py"
-        ], 
-        "created_at": 1645981536, 
-        "number": 37081, 
-        "state": "open", 
-        "updated_at": 1645981561
-    }, 
     "37115": {
         "base_branch": "master", 
         "changed_files_names": [
