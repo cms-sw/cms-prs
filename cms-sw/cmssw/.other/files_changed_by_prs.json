@@ -4076,5 +4076,25 @@
         "number": 37164, 
         "state": "open", 
         "updated_at": 1646703567
+    }, 
+    "37165": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Validation/HcalHits/interface/HcalSimHitsClient.h", 
+            "Validation/HcalHits/interface/HcalSimHitsValidation.h", 
+            "Validation/HcalHits/interface/SimHitsValidationHcal.h", 
+            "Validation/HcalHits/plugins/HcalGeomCheck.cc", 
+            "Validation/HcalHits/plugins/HcalHitValidation.cc", 
+            "Validation/HcalHits/plugins/HcalSimHitCheck.cc", 
+            "Validation/HcalHits/plugins/HcalSimHitStudy.cc", 
+            "Validation/HcalHits/plugins/ZdcSimHitStudy.cc", 
+            "Validation/HcalHits/src/HcalSimHitsClient.cc", 
+            "Validation/HcalHits/src/HcalSimHitsValidation.cc", 
+            "Validation/HcalHits/src/SimHitsValidationHcal.cc"
+        ], 
+        "created_at": 1646720044, 
+        "number": 37165, 
+        "state": "open", 
+        "updated_at": 1646720067
     }
 }
