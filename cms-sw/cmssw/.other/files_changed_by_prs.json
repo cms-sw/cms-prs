@@ -4306,5 +4306,26 @@
         "number": 37223, 
         "state": "open", 
         "updated_at": 1647102827
+    }, 
+    "37224": {
+        "base_branch": "CMSSW_12_2_X", 
+        "changed_files_names": [
+            "DQM/BeamMonitor/plugins/BuildFile.xml", 
+            "DQM/BeamMonitor/plugins/TKStatus.cc", 
+            "DQM/BeamMonitor/plugins/TKStatus.h", 
+            "DQM/BeamMonitor/test/2011_44X_Test_beam_dqm_sourceclient-live_cfg.py", 
+            "DQM/BeamMonitor/test/2012_PixelTracksVertices_44XOnwards_Test_beam_dqm_sourceclient-live_cfg.py", 
+            "DQM/BeamMonitor/test/2012_ReducedTrackingSteps_44XOnwards_Test_beam_dqm_sourceclient-live_cfg.py", 
+            "DQM/BeamMonitor/test/42X_beam_dqm_sourceclient-live_cfg.py", 
+            "DQM/BeamMonitor/test/44X_HI_beam_dqm_sourceclient-live_cfg.py", 
+            "DQM/BeamMonitor/test/44X_beam_dqm_sourceclient-live_cfg.py", 
+            "DQM/BeamMonitor/test/DQM_RECO_cfg.py", 
+            "DQM/BeamMonitor/test/HeavyIonTest_cfg.py", 
+            "DQM/Integration/python/clients/beam_dqm_sourceclient-live_cfg.py"
+        ], 
+        "created_at": 1647103847, 
+        "number": 37224, 
+        "state": "open", 
+        "updated_at": 1647103870
     }
 }
