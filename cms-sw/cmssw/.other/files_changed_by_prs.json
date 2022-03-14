@@ -4331,5 +4331,27 @@
         "number": 37236, 
         "state": "open", 
         "updated_at": 1647245474
+    }, 
+    "37237": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "L1Trigger/DTTriggerPhase2/interface/MPCleanHitsFilter.h", 
+            "L1Trigger/DTTriggerPhase2/interface/MPQualityEnhancerFilterBayes.h", 
+            "L1Trigger/DTTriggerPhase2/interface/MuonPathAnalyzerInChamber.h", 
+            "L1Trigger/DTTriggerPhase2/plugins/DTTrigPhase2Prod.cc", 
+            "L1Trigger/DTTriggerPhase2/python/dtTriggerPhase2PrimitiveDigis_cfi.py", 
+            "L1Trigger/DTTriggerPhase2/src/MPCleanHitsFilter.cc", 
+            "L1Trigger/DTTriggerPhase2/src/MPQualityEnhancerFilter.cc", 
+            "L1Trigger/DTTriggerPhase2/src/MPQualityEnhancerFilterBayes.cc", 
+            "L1Trigger/DTTriggerPhase2/src/MuonPathAnalyticAnalyzer.cc", 
+            "L1Trigger/DTTriggerPhase2/src/MuonPathAnalyzerInChamber.cc", 
+            "L1Trigger/DTTriggerPhase2/src/MuonPathAssociator.cc", 
+            "L1Trigger/DTTriggerPhase2/src/RPCIntegrator.cc", 
+            "L1Trigger/DTTriggerPhase2/test/test_primitivesPhase2Prod.py"
+        ], 
+        "created_at": 1647247241, 
+        "number": 37237, 
+        "state": "open", 
+        "updated_at": 1647247263
     }
 }
