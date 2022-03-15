@@ -704,6 +704,57 @@
         "state": "open", 
         "updated_at": 1646982097
     }, 
+    "34618": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CUDADataFormats/SiStripCluster/BuildFile.xml", 
+            "CUDADataFormats/SiStripCluster/interface/SiStripClustersCUDA.h", 
+            "CUDADataFormats/SiStripCluster/src/SiStripClustersCUDA.cc", 
+            "CUDADataFormats/SiStripCluster/src/classes.h", 
+            "CUDADataFormats/SiStripCluster/src/classes_def.xml", 
+            "CalibFormats/SiStripObjects/BuildFile.xml", 
+            "CalibFormats/SiStripObjects/interface/SiStripClusterizerConditionsGPU.h", 
+            "CalibFormats/SiStripObjects/src/EventSetup_Registration.cc", 
+            "CalibFormats/SiStripObjects/src/SiStripClusterizerConditionsGPU.cc", 
+            "DataFormats/SiStripCluster/interface/SiStripClustersSOA.h", 
+            "DataFormats/SiStripCluster/interface/SiStripClustersSOABase.h", 
+            "DataFormats/SiStripCluster/interface/SiStripTypes.h", 
+            "DataFormats/SiStripCluster/src/SiStripClustersSOA.cc", 
+            "DataFormats/SiStripCluster/src/classes.h", 
+            "DataFormats/SiStripCluster/src/classes_def.xml", 
+            "RecoLocalTracker/Records/interface/SiStripClusterizerConditionsGPURcd.h", 
+            "RecoLocalTracker/Records/src/SiStripClusterizerConditionsGPURcd.cc", 
+            "RecoLocalTracker/SiStripClusterizer/BuildFile.xml", 
+            "RecoLocalTracker/SiStripClusterizer/interface/StripClusterizerAlgorithmFactory.h", 
+            "RecoLocalTracker/SiStripClusterizer/interface/ThreeThresholdAlgorithm.h", 
+            "RecoLocalTracker/SiStripClusterizer/plugins/BuildFile.xml", 
+            "RecoLocalTracker/SiStripClusterizer/plugins/ChannelLocsGPU.cc", 
+            "RecoLocalTracker/SiStripClusterizer/plugins/ChannelLocsGPU.h", 
+            "RecoLocalTracker/SiStripClusterizer/plugins/ClustersFromRawProducer.cc", 
+            "RecoLocalTracker/SiStripClusterizer/plugins/ClustersFromRawProducerGPU.cc", 
+            "RecoLocalTracker/SiStripClusterizer/plugins/SiStripClusterizerConditionsGPUESProducer.cc", 
+            "RecoLocalTracker/SiStripClusterizer/plugins/SiStripClustersFromSOA.cc", 
+            "RecoLocalTracker/SiStripClusterizer/plugins/SiStripClustersSOAtoHost.cc", 
+            "RecoLocalTracker/SiStripClusterizer/plugins/SiStripRawToClusterGPUKernel.cc", 
+            "RecoLocalTracker/SiStripClusterizer/plugins/SiStripRawToClusterGPUKernel.cu", 
+            "RecoLocalTracker/SiStripClusterizer/plugins/SiStripRawToClusterGPUKernel.h", 
+            "RecoLocalTracker/SiStripClusterizer/plugins/StripDataView.cuh", 
+            "RecoLocalTracker/SiStripClusterizer/python/DefaultClusterizer_cff.py", 
+            "RecoLocalTracker/SiStripClusterizer/python/SiStripClusterizerOnDemand_cfi.py", 
+            "RecoLocalTracker/SiStripClusterizer/python/customizeStripClustersFromRaw.py", 
+            "RecoLocalTracker/SiStripClusterizer/src/StripClusterizerAlgorithmFactory.cc", 
+            "RecoLocalTracker/SiStripClusterizer/src/ThreeThresholdAlgorithm.cc", 
+            "RecoLocalTracker/SiStripClusterizer/test/BuildFile.xml", 
+            "RecoLocalTracker/SiStripZeroSuppression/interface/SiStripAPVRestorer.h", 
+            "RecoLocalTracker/SiStripZeroSuppression/interface/SiStripRawProcessingFactory.h", 
+            "RecoLocalTracker/SiStripZeroSuppression/src/SiStripAPVRestorer.cc", 
+            "RecoLocalTracker/SiStripZeroSuppression/src/SiStripRawProcessingFactory.cc"
+        ], 
+        "created_at": 1627240643, 
+        "number": 34618, 
+        "state": "open", 
+        "updated_at": 1647327656
+    }, 
     "34812": {
         "base_branch": "master", 
         "changed_files_names": [
@@ -728,7 +779,7 @@
         "created_at": 1630132405, 
         "number": 35058, 
         "state": "open", 
-        "updated_at": 1646982101
+        "updated_at": 1647251811
     }, 
     "35342": {
         "base_branch": "master", 
@@ -2255,7 +2306,7 @@
         "created_at": 1632138114, 
         "number": 35342, 
         "state": "open", 
-        "updated_at": 1646982102
+        "updated_at": 1647325934
     }, 
     "35684": {
         "base_branch": "master", 
@@ -2361,7 +2412,7 @@
         "created_at": 1638450595, 
         "number": 36335, 
         "state": "open", 
-        "updated_at": 1646982107
+        "updated_at": 1647282713
     }, 
     "36390": {
         "base_branch": "master", 
@@ -2434,7 +2485,7 @@
         "created_at": 1644857876, 
         "number": 36963, 
         "state": "open", 
-        "updated_at": 1646988283
+        "updated_at": 1647008783
     }, 
     "36988": {
         "base_branch": "master", 
@@ -2489,7 +2540,7 @@
         "created_at": 1646202336, 
         "number": 37115, 
         "state": "open", 
-        "updated_at": 1646982114
+        "updated_at": 1647259922
     }, 
     "37119": {
         "base_branch": "master", 
@@ -2500,7 +2551,7 @@
         "created_at": 1646238336, 
         "number": 37119, 
         "state": "open", 
-        "updated_at": 1646982114
+        "updated_at": 1647246899
     }, 
     "37134": {
         "base_branch": "master", 
@@ -2519,7 +2570,7 @@
         "created_at": 1646325593, 
         "number": 37134, 
         "state": "open", 
-        "updated_at": 1647011324
+        "updated_at": 1647286709
     }, 
     "37137": {
         "base_branch": "master", 
@@ -2534,7 +2585,7 @@
         "created_at": 1646342459, 
         "number": 37137, 
         "state": "open", 
-        "updated_at": 1646982119
+        "updated_at": 1647282993
     }, 
     "37138": {
         "base_branch": "master", 
@@ -3762,7 +3813,7 @@
         "created_at": 1646765760, 
         "number": 37180, 
         "state": "open", 
-        "updated_at": 1647290090
+        "updated_at": 1647325737
     }, 
     "37187": {
         "base_branch": "master", 
@@ -3776,7 +3827,7 @@
         "created_at": 1646850542, 
         "number": 37187, 
         "state": "open", 
-        "updated_at": 1646982131
+        "updated_at": 1647304990
     }, 
     "37189": {
         "base_branch": "master", 
@@ -3863,7 +3914,7 @@
         "created_at": 1646900668, 
         "number": 37189, 
         "state": "open", 
-        "updated_at": 1646988298
+        "updated_at": 1647180494
     }, 
     "37194": {
         "base_branch": "master", 
@@ -3879,7 +3930,7 @@
         "created_at": 1646919320, 
         "number": 37194, 
         "state": "open", 
-        "updated_at": 1646988098
+        "updated_at": 1647268754
     }, 
     "37197": {
         "base_branch": "master", 
@@ -3922,7 +3973,7 @@
         "created_at": 1646977627, 
         "number": 37201, 
         "state": "open", 
-        "updated_at": 1646982142
+        "updated_at": 1647060810
     }, 
     "37202": {
         "base_branch": "master", 
@@ -3932,7 +3983,7 @@
         "created_at": 1646980327, 
         "number": 37202, 
         "state": "open", 
-        "updated_at": 1646982607
+        "updated_at": 1647060960
     }, 
     "37208": {
         "base_branch": "master", 
@@ -3942,7 +3993,7 @@
         "created_at": 1646990356, 
         "number": 37208, 
         "state": "open", 
-        "updated_at": 1646990408
+        "updated_at": 1647326071
     }, 
     "37210": {
         "base_branch": "master", 
@@ -3954,7 +4005,7 @@
         "created_at": 1646997430, 
         "number": 37210, 
         "state": "open", 
-        "updated_at": 1646997453
+        "updated_at": 1647005948
     }, 
     "37212": {
         "base_branch": "CMSSW_12_2_X", 
@@ -3967,7 +4018,7 @@
         "created_at": 1647002930, 
         "number": 37212, 
         "state": "open", 
-        "updated_at": 1647003011
+        "updated_at": 1647275824
     }, 
     "37218": {
         "base_branch": "master", 
@@ -3980,7 +4031,7 @@
         "created_at": 1647029439, 
         "number": 37218, 
         "state": "open", 
-        "updated_at": 1647029459
+        "updated_at": 1647041922
     }, 
     "37219": {
         "base_branch": "master", 
@@ -3990,7 +4041,7 @@
         "created_at": 1647029558, 
         "number": 37219, 
         "state": "open", 
-        "updated_at": 1647029578
+        "updated_at": 1647241479
     }, 
     "37220": {
         "base_branch": "master", 
@@ -4002,7 +4053,7 @@
         "created_at": 1647032004, 
         "number": 37220, 
         "state": "open", 
-        "updated_at": 1647032028
+        "updated_at": 1647046335
     }, 
     "37221": {
         "base_branch": "master", 
@@ -4013,7 +4064,7 @@
         "created_at": 1647047531, 
         "number": 37221, 
         "state": "open", 
-        "updated_at": 1647047555
+        "updated_at": 1647063581
     }, 
     "37222": {
         "base_branch": "master", 
@@ -4024,7 +4075,7 @@
         "created_at": 1647050473, 
         "number": 37222, 
         "state": "open", 
-        "updated_at": 1647050498
+        "updated_at": 1647064818
     }, 
     "37226": {
         "base_branch": "CMSSW_12_3_X", 
@@ -4037,7 +4088,7 @@
         "created_at": 1647196099, 
         "number": 37226, 
         "state": "open", 
-        "updated_at": 1647196119
+        "updated_at": 1647275823
     }, 
     "37229": {
         "base_branch": "master", 
@@ -4047,7 +4098,7 @@
         "created_at": 1647201401, 
         "number": 37229, 
         "state": "open", 
-        "updated_at": 1647201424
+        "updated_at": 1647326112
     }, 
     "37231": {
         "base_branch": "master", 
@@ -4071,7 +4122,7 @@
         "created_at": 1647219659, 
         "number": 37231, 
         "state": "open", 
-        "updated_at": 1647306634
+        "updated_at": 1647325053
     }, 
     "37237": {
         "base_branch": "master", 
@@ -4093,7 +4144,7 @@
         "created_at": 1647247241, 
         "number": 37237, 
         "state": "open", 
-        "updated_at": 1647247263
+        "updated_at": 1647247673
     }, 
     "37238": {
         "base_branch": "master", 
@@ -4114,7 +4165,7 @@
         "created_at": 1647258382, 
         "number": 37238, 
         "state": "open", 
-        "updated_at": 1647258400
+        "updated_at": 1647277215
     }, 
     "37241": {
         "base_branch": "master", 
@@ -4124,7 +4175,7 @@
         "created_at": 1647270703, 
         "number": 37241, 
         "state": "open", 
-        "updated_at": 1647271626
+        "updated_at": 1647303371
     }, 
     "37242": {
         "base_branch": "CMSSW_12_3_X", 
@@ -4137,7 +4188,7 @@
         "created_at": 1647282961, 
         "number": 37242, 
         "state": "open", 
-        "updated_at": 1647282979
+        "updated_at": 1647326616
     }, 
     "37244": {
         "base_branch": "master", 
@@ -4154,7 +4205,7 @@
         "created_at": 1647323689, 
         "number": 37244, 
         "state": "open", 
-        "updated_at": 1647323724
+        "updated_at": 1647324223
     }, 
     "37245": {
         "base_branch": "master", 
@@ -4175,7 +4226,7 @@
         "created_at": 1647324706, 
         "number": 37245, 
         "state": "open", 
-        "updated_at": 1647324731
+        "updated_at": 1647325179
     }, 
     "37246": {
         "base_branch": "master", 
@@ -4185,7 +4236,7 @@
         "created_at": 1647325642, 
         "number": 37246, 
         "state": "open", 
-        "updated_at": 1647325663
+        "updated_at": 1647326600
     }, 
     "37247": {
         "base_branch": "master", 
@@ -4196,6 +4247,6 @@
         "created_at": 1647326350, 
         "number": 37247, 
         "state": "open", 
-        "updated_at": 1647326374
+        "updated_at": 1647327157
     }
 }
