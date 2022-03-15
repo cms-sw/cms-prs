@@ -4096,10 +4096,7 @@
         "changed_files_names": [
             "CalibTracker/SiStripChannelGain/plugins/DeDxDiscriminatorLearner.cc", 
             "FastSimulation/SimplifiedGeometryPropagator/plugins/FastTrackDeDxProducer.cc", 
-            "HLTrigger/Configuration/python/HLT_FULL_cff.py", 
-            "HLTrigger/Configuration/python/HLT_GRun_cff.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_FULL.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_GRun.py", 
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
             "PhysicsTools/PatAlgos/plugins/PATIsolatedTrackProducer.cc", 
             "RecoTracker/DeDx/interface/ASmirnovDeDxDiscriminator.h", 
             "RecoTracker/DeDx/interface/BTagLikeDeDxDiscriminator.h", 
@@ -4116,7 +4113,7 @@
         "created_at": 1647219659, 
         "number": 37231, 
         "state": "open", 
-        "updated_at": 1647219681
+        "updated_at": 1647306634
     }, 
     "37237": {
         "base_branch": "master", 
