@@ -4248,5 +4248,22 @@
         "number": 37247, 
         "state": "open", 
         "updated_at": 1647327157
+    }, 
+    "37248": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQMOffline/EGamma/interface/ElectronDqmAnalyzerBase.h", 
+            "DQMOffline/EGamma/plugins/ElectronAnalyzer.cc", 
+            "DQMOffline/EGamma/plugins/ElectronGeneralAnalyzer.cc", 
+            "DQMOffline/EGamma/plugins/ElectronTagProbeAnalyzer.cc", 
+            "Validation/RecoEgamma/test/ElectronMcFakePostValidation_cfg.py", 
+            "Validation/RecoEgamma/test/ElectronMcSignalPostValidationMiniAOD_cfg.py", 
+            "Validation/RecoEgamma/test/ElectronMcSignalPostValidationPt1000_cfg.py", 
+            "Validation/RecoEgamma/test/ElectronMcSignalPostValidation_cfg.py"
+        ], 
+        "created_at": 1647333766, 
+        "number": 37248, 
+        "state": "open", 
+        "updated_at": 1647333790
     }
 }
