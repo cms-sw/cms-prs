@@ -2484,30 +2484,6 @@
         "state": "open", 
         "updated_at": 1647348720
     }, 
-    "37231": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibTracker/SiStripChannelGain/plugins/DeDxDiscriminatorLearner.cc", 
-            "FastSimulation/SimplifiedGeometryPropagator/plugins/FastTrackDeDxProducer.cc", 
-            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
-            "PhysicsTools/PatAlgos/plugins/PATIsolatedTrackProducer.cc", 
-            "RecoTracker/DeDx/interface/ASmirnovDeDxDiscriminator.h", 
-            "RecoTracker/DeDx/interface/BTagLikeDeDxDiscriminator.h", 
-            "RecoTracker/DeDx/interface/DeDxTools.h", 
-            "RecoTracker/DeDx/interface/ProductDeDxDiscriminator.h", 
-            "RecoTracker/DeDx/interface/SmirnovDeDxDiscriminator.h", 
-            "RecoTracker/DeDx/interface/TruncatedAverageDeDxEstimator.h", 
-            "RecoTracker/DeDx/plugins/DeDxEstimatorProducer.cc", 
-            "RecoTracker/DeDx/plugins/DeDxHitInfoProducer.cc", 
-            "RecoTracker/DeDx/plugins/DeDxHitInfoProducer.h", 
-            "RecoTracker/DeDx/python/dedxEstimators_cff.py", 
-            "RecoTracker/DeDx/src/DeDxTools.cc"
-        ], 
-        "created_at": 1647219659, 
-        "number": 37231, 
-        "state": "open", 
-        "updated_at": 1647457723
-    }, 
     "37237": {
         "base_branch": "master", 
         "changed_files_names": [
