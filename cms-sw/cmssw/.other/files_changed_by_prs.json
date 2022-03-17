@@ -1043,20 +1043,23 @@
     "37134": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Configuration/ProcessModifiers/python/photonDRN_cff.py", 
             "Configuration/PyReleaseValidation/README.md", 
             "Configuration/PyReleaseValidation/python/relval_2017.py", 
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
             "PhysicsTools/PatAlgos/python/slimming/enableDRN.py", 
             "PhysicsTools/PatAlgos/python/slimming/patElectronDRNCorrector_cfi.py", 
             "PhysicsTools/PatAlgos/python/slimming/patPhotonDRNCorrector_cfi.py", 
+            "PhysicsTools/PatAlgos/python/slimming/slimming_cff.py", 
             "RecoEgamma/EgammaTools/BuildFile.xml", 
             "RecoEgamma/EgammaTools/plugins/DRNCorrectionProducerT.cc", 
-            "RecoEgamma/EgammaTools/plugins/EGRegressionModifierDRN.cc"
+            "RecoEgamma/EgammaTools/plugins/EGRegressionModifierDRN.cc", 
+            "RecoEgamma/EgammaTools/python/egammaObjectModificationsInMiniAOD_cff.py"
         ], 
         "created_at": 1646325593, 
         "number": 37134, 
         "state": "open", 
-        "updated_at": 1647495444
+        "updated_at": 1647523289
     }, 
     "37137": {
         "base_branch": "master", 
