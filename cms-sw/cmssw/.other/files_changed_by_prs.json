@@ -2624,42 +2624,5 @@
         "number": 37260, 
         "state": "open", 
         "updated_at": 1647529114
-    }, 
-    "37261": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/MillePedeAlignmentAlgorithm/test/BuildFile.xml", 
-            "Alignment/MillePedeAlignmentAlgorithm/test/TestDriver.cpp", 
-            "Alignment/MillePedeAlignmentAlgorithm/test/test_pede.py", 
-            "Alignment/MillePedeAlignmentAlgorithm/test/test_pede.sh", 
-            "CondTools/SiStrip/scripts/o2oRun_SiStripDAQ.py", 
-            "Configuration/PyReleaseValidation/python/relval_steps.py", 
-            "DQM/BeamMonitor/plugins/BuildFile.xml", 
-            "DQM/BeamMonitor/plugins/TKStatus.cc", 
-            "DQM/BeamMonitor/plugins/TKStatus.h", 
-            "DQM/BeamMonitor/test/2011_44X_Test_beam_dqm_sourceclient-live_cfg.py", 
-            "DQM/BeamMonitor/test/2012_PixelTracksVertices_44XOnwards_Test_beam_dqm_sourceclient-live_cfg.py", 
-            "DQM/BeamMonitor/test/2012_ReducedTrackingSteps_44XOnwards_Test_beam_dqm_sourceclient-live_cfg.py", 
-            "DQM/BeamMonitor/test/42X_beam_dqm_sourceclient-live_cfg.py", 
-            "DQM/BeamMonitor/test/44X_HI_beam_dqm_sourceclient-live_cfg.py", 
-            "DQM/BeamMonitor/test/44X_beam_dqm_sourceclient-live_cfg.py", 
-            "DQM/BeamMonitor/test/DQM_RECO_cfg.py", 
-            "DQM/BeamMonitor/test/HeavyIonTest_cfg.py", 
-            "DQM/GEM/interface/GEMDAQStatusSource.h", 
-            "DQM/GEM/plugins/BuildFile.xml", 
-            "DQM/GEM/plugins/GEMDAQStatusSource.cc", 
-            "DQM/GEM/plugins/GEMDQMHarvester.cc", 
-            "DQM/GEM/test/decomposeStatus.py", 
-            "DQM/Integration/python/clients/beam_dqm_sourceclient-live_cfg.py", 
-            "HLTrigger/Configuration/python/Tools/options.py", 
-            "PhysicsTools/PatAlgos/python/slimming/slimming_cff.py", 
-            "RecoEgamma/EgammaPhotonProducers/python/reducedEgamma_cfi.py", 
-            "RecoHI/HiJetAlgos/plugins/HiBadParticleCleaner.cc", 
-            "Validation/MuonCSCDigis/src/CSCStubMatcher.cc"
-        ], 
-        "created_at": 1647530236, 
-        "number": 37261, 
-        "state": "open", 
-        "updated_at": 1647530257
     }
 }
