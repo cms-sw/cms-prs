@@ -2693,5 +2693,23 @@
         "number": 37277, 
         "state": "open", 
         "updated_at": 1647635978
+    }, 
+    "37278": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Catalog/interface/FileLocator.h", 
+            "FWCore/Catalog/interface/InputFileCatalog.h", 
+            "FWCore/Catalog/interface/SiteLocalConfig.h", 
+            "FWCore/Catalog/src/FileLocator.cc", 
+            "FWCore/Catalog/src/InputFileCatalog.cc", 
+            "FWCore/Catalog/test/FileLocator_t.cpp", 
+            "FWCore/Services/src/SiteLocalConfigService.cc", 
+            "FWCore/Services/src/SiteLocalConfigService.h", 
+            "FWCore/Services/test/test_catch2_SiteLocalConfigService.cc"
+        ], 
+        "created_at": 1647638527, 
+        "number": 37278, 
+        "state": "open", 
+        "updated_at": 1647638547
     }
 }
