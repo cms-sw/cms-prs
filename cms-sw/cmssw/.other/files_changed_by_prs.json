@@ -2666,5 +2666,20 @@
         "number": 37270, 
         "state": "open", 
         "updated_at": 1647596629
+    }, 
+    "37271": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "GeneratorInterface/ExhumeInterface/test/ExhumeAnalyzer.cc", 
+            "GeneratorInterface/LHEInterface/plugins/ExternalLHEAsciiDumper.cc", 
+            "GeneratorInterface/LHEInterface/plugins/LHE2HepMCConverter.cc", 
+            "GeneratorInterface/LHEInterface/plugins/LHECOMWeightProducer.cc", 
+            "GeneratorInterface/LHEInterface/plugins/LHEFilter.cc", 
+            "GeneratorInterface/LHEInterface/plugins/LHEWriter.cc"
+        ], 
+        "created_at": 1647608118, 
+        "number": 37271, 
+        "state": "open", 
+        "updated_at": 1647608144
     }
 }
