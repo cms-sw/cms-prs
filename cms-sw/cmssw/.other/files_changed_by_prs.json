@@ -2763,5 +2763,18 @@
         "number": 37282, 
         "state": "open", 
         "updated_at": 1647781236
+    }, 
+    "37283": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "HLTrigger/Configuration/scripts/hltCompareResults", 
+            "HLTrigger/Configuration/scripts/hltIntegrationTests", 
+            "HLTrigger/Configuration/scripts/hltListPaths", 
+            "HLTrigger/Configuration/test/cmsDriver.csh"
+        ], 
+        "created_at": 1647809044, 
+        "number": 37283, 
+        "state": "open", 
+        "updated_at": 1647809062
     }
 }
