@@ -2641,12 +2641,13 @@
     "37292": {
         "base_branch": "CMSSW_12_2_X", 
         "changed_files_names": [
+            "Configuration/HLT/python/addOnTestsHLT.py", 
             "HLTrigger/Configuration/test/cmsDriver.csh"
         ], 
         "created_at": 1647879806, 
         "number": 37292, 
         "state": "open", 
-        "updated_at": 1647946579
+        "updated_at": 1647984299
     }, 
     "37295": {
         "base_branch": "CMSSW_12_0_X", 
