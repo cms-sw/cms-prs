@@ -2727,5 +2727,20 @@
         "number": 37296, 
         "state": "open", 
         "updated_at": 1647911453
+    }, 
+    "37297": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/src/HGCalParametersFromDD.cc", 
+            "Geometry/HGCalCommonData/test/FastTimeNumberingTester.cc", 
+            "Geometry/HGCalCommonData/test/HGCalNumberingTester.cc", 
+            "Geometry/HGCalCommonData/test/HGCalParameterTester.cc", 
+            "Geometry/HGCalCommonData/test/HGCalParametersAnalyzer.cc", 
+            "Geometry/HGCalCommonData/test/python/hgcalParameters_cfg.py"
+        ], 
+        "created_at": 1647929932, 
+        "number": 37297, 
+        "state": "open", 
+        "updated_at": 1647929953
     }
 }
