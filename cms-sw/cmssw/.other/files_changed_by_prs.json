@@ -2755,5 +2755,20 @@
         "number": 37295, 
         "state": "open", 
         "updated_at": 1647891710
+    }, 
+    "37296": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Validation/HcalDigis/interface/ZDCDigiStudy.h", 
+            "Validation/HcalDigis/src/HcalDigisClient.cc", 
+            "Validation/HcalDigis/src/ZDCDigiStudy.cc", 
+            "Validation/HcalDigis/test/ZdcSimHitStudy_cfg.py", 
+            "Validation/HcalRecHits/src/HcalRecHitsValidation.cc", 
+            "Validation/HcalRecHits/src/NoiseRatesClient.cc"
+        ], 
+        "created_at": 1647911429, 
+        "number": 37296, 
+        "state": "open", 
+        "updated_at": 1647911453
     }
 }
