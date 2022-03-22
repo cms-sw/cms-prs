@@ -2782,6 +2782,7 @@
     "37304": {
         "base_branch": "CMSSW_12_3_X", 
         "changed_files_names": [
+            "Configuration/HLT/python/addOnTestsHLT.py", 
             "HLTrigger/Configuration/scripts/hltCompareResults", 
             "HLTrigger/Configuration/scripts/hltIntegrationTests", 
             "HLTrigger/Configuration/scripts/hltListPaths", 
@@ -2790,7 +2791,7 @@
         "created_at": 1647955122, 
         "number": 37304, 
         "state": "open", 
-        "updated_at": 1647955187
+        "updated_at": 1647984720
     }, 
     "37305": {
         "base_branch": "master", 
