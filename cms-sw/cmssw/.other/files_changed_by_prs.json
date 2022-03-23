@@ -2841,5 +2841,22 @@
         "number": 37310, 
         "state": "open", 
         "updated_at": 1647970579
+    }, 
+    "37312": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalGeometry/test/HGCalSizeTester.cc", 
+            "Geometry/HGCalGeometry/test/HGCalTestNeighbor.cc", 
+            "Geometry/HGCalGeometry/test/HGCalWaferCell.cc", 
+            "Geometry/HGCalGeometry/test/HGCalWaferCheck.cc", 
+            "Geometry/HGCalGeometry/test/HGCalWaferTypeTester.cc", 
+            "Geometry/HGCalGeometry/test/python/testHGCalNeighbor_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalSize_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalWafer_cfg.py"
+        ], 
+        "created_at": 1648013832, 
+        "number": 37312, 
+        "state": "open", 
+        "updated_at": 1648013857
     }
 }
