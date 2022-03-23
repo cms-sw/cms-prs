@@ -2878,5 +2878,17 @@
         "number": 37326, 
         "state": "open", 
         "updated_at": 1648067323
+    }, 
+    "37327": {
+        "base_branch": "CMSSW_8_0_X", 
+        "changed_files_names": [
+            "Utilities/StorageFactory/BuildFile.xml", 
+            "Utilities/StorageFactory/src/StatisticsSenderService.cc", 
+            "Utilities/StorageFactory/test/test_file_statistics_sender.sh"
+        ], 
+        "created_at": 1648074596, 
+        "number": 37327, 
+        "state": "open", 
+        "updated_at": 1648074621
     }
 }
