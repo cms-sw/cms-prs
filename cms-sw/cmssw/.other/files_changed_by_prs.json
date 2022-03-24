@@ -996,38 +996,6 @@
         "state": "open", 
         "updated_at": 1648048642
     }, 
-    "36988": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Calibration/EcalCalibAlgos/interface/EcalPhiSymInfo.h", 
-            "Calibration/EcalCalibAlgos/interface/EcalPhiSymRecHit.h", 
-            "Calibration/EcalCalibAlgos/interface/PhiSymmetryCalibration.h", 
-            "Calibration/EcalCalibAlgos/plugins/BuildFile.xml", 
-            "Calibration/EcalCalibAlgos/plugins/EcalPhiSymFlatTableProducers.cc", 
-            "Calibration/EcalCalibAlgos/plugins/EcalPhiSymRecHitProducers.cc", 
-            "Calibration/EcalCalibAlgos/plugins/SealModule.cc", 
-            "Calibration/EcalCalibAlgos/python/ALCARECOEcalPhiSym_Output_cff.py", 
-            "Calibration/EcalCalibAlgos/python/ALCARECOEcalPhiSym_cff.py", 
-            "Calibration/EcalCalibAlgos/python/EcalPhiSymFlatTableProducers_cfi.py", 
-            "Calibration/EcalCalibAlgos/python/EcalPhiSymRecHitProducers_cfi.py", 
-            "Calibration/EcalCalibAlgos/python/EcalPhiSymRecoSequence_cff.py", 
-            "Calibration/EcalCalibAlgos/src/EcalPhiSymRecHit.cc", 
-            "Calibration/EcalCalibAlgos/src/PhiSymmetryCalibration.cc", 
-            "Calibration/EcalCalibAlgos/src/PhiSymmetryCalibration_step2.cc", 
-            "Calibration/EcalCalibAlgos/src/PhiSymmetryCalibration_step2.h", 
-            "Calibration/EcalCalibAlgos/src/PhiSymmetryCalibration_step2_SM.cc", 
-            "Calibration/EcalCalibAlgos/src/PhiSymmetryCalibration_step2_SM.h", 
-            "Calibration/EcalCalibAlgos/src/classes.h", 
-            "Calibration/EcalCalibAlgos/src/classes_def.xml", 
-            "Calibration/EcalCalibAlgos/test/EcalPhiSymReco_cfg.py", 
-            "Configuration/EventContent/python/AlCaRecoOutput_cff.py", 
-            "Configuration/StandardSequences/python/AlCaRecoStreams_cff.py"
-        ], 
-        "created_at": 1645050175, 
-        "number": 36988, 
-        "state": "open", 
-        "updated_at": 1648057720
-    }, 
     "37115": {
         "base_branch": "master", 
         "changed_files_names": [
