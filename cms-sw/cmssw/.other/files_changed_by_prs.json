@@ -2887,5 +2887,17 @@
         "number": 37340, 
         "state": "open", 
         "updated_at": 1648138837
+    }, 
+    "37341": {
+        "base_branch": "CMSSW_12_2_X", 
+        "changed_files_names": [
+            "RecoLocalMuon/GEMCSCSegment/plugins/GEMCSCSegmentProducer.cc", 
+            "RecoLocalMuon/GEMCSCSegment/plugins/GEMCSCSegmentProducer.h", 
+            "RecoLocalMuon/GEMCSCSegment/test/TestGEMCSCSegmentAnalyzer.cc"
+        ], 
+        "created_at": 1648189684, 
+        "number": 37341, 
+        "state": "open", 
+        "updated_at": 1648189797
     }
 }
