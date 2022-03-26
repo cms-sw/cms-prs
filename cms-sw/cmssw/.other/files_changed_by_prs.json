@@ -2903,5 +2903,16 @@
         "number": 37355, 
         "state": "open", 
         "updated_at": 1648279531
+    }, 
+    "37356": {
+        "base_branch": "CMSSW_12_2_X", 
+        "changed_files_names": [
+            "Validation/MuonCSCDigis/interface/CSCStubResolutionValidation.h", 
+            "Validation/MuonCSCDigis/src/CSCStubResolutionValidation.cc"
+        ], 
+        "created_at": 1648281573, 
+        "number": 37356, 
+        "state": "open", 
+        "updated_at": 1648281600
     }
 }
