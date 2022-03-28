@@ -3011,5 +3011,16 @@
         "number": 37378, 
         "state": "open", 
         "updated_at": 1648462625
+    }, 
+    "37379": {
+        "base_branch": "CMSSW_12_2_X", 
+        "changed_files_names": [
+            "DQM/Integration/python/clients/beamfake_dqm_sourceclient-live_cfg.py", 
+            "DQM/Integration/python/clients/beamhltfake_dqm_sourceclient-live_cfg.py"
+        ], 
+        "created_at": 1648462631, 
+        "number": 37379, 
+        "state": "open", 
+        "updated_at": 1648462655
     }
 }
