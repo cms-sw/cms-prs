@@ -3010,5 +3010,28 @@
         "number": 37381, 
         "state": "open", 
         "updated_at": 1648463163
+    }, 
+    "37382": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "L1Trigger/VertexFinder/BuildFile.xml", 
+            "L1Trigger/VertexFinder/interface/AlgoSettings.h", 
+            "L1Trigger/VertexFinder/interface/RecoVertex.h", 
+            "L1Trigger/VertexFinder/interface/VertexFinder.h", 
+            "L1Trigger/VertexFinder/interface/VertexProducer.h", 
+            "L1Trigger/VertexFinder/plugins/TPStubValueMapProducer.cc", 
+            "L1Trigger/VertexFinder/plugins/VertexNTupler.cc", 
+            "L1Trigger/VertexFinder/plugins/VertexProducer.cc", 
+            "L1Trigger/VertexFinder/python/VertexNTupler_cff.py", 
+            "L1Trigger/VertexFinder/python/VertexProducer_cff.py", 
+            "L1Trigger/VertexFinder/src/AlgoSettings.cc", 
+            "L1Trigger/VertexFinder/src/InputData.cc", 
+            "L1Trigger/VertexFinder/src/VertexFinder.cc", 
+            "L1Trigger/VertexFinder/test/vertexNTupler_cfg.py"
+        ], 
+        "created_at": 1648465188, 
+        "number": 37382, 
+        "state": "open", 
+        "updated_at": 1648465213
     }
 }
