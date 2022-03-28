@@ -2397,25 +2397,6 @@
         "state": "open", 
         "updated_at": 1648462283
     }, 
-    "37281": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CUDADataFormats/Track/interface/TrackSoAHeterogeneousT.h", 
-            "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackProducerFromSoA.cc", 
-            "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackSoAFromCUDA.cc", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.cc", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.cu", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernelsImpl.h", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorOnGPU.cc", 
-            "RecoPixelVertexing/PixelVertexFinding/plugins/PixelVertexProducerCUDA.cc", 
-            "RecoPixelVertexing/PixelVertexFinding/plugins/gpuVertexFinder.cc", 
-            "RecoPixelVertexing/PixelVertexFinding/plugins/gpuVertexFinder.h"
-        ], 
-        "created_at": 1647770370, 
-        "number": 37281, 
-        "state": "open", 
-        "updated_at": 1648466253
-    }, 
     "37285": {
         "base_branch": "master", 
         "changed_files_names": [
