@@ -2958,5 +2958,25 @@
         "number": 37372, 
         "state": "open", 
         "updated_at": 1648454040
+    }, 
+    "37374": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/CaloTopology/src/HGCalTopology.cc", 
+            "Geometry/HGCalCommonData/interface/HGCalCell.h", 
+            "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h", 
+            "Geometry/HGCalCommonData/interface/HGCalTypes.h", 
+            "Geometry/HGCalCommonData/plugins/DDHGCalWaferFullRotated.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalWaferFullRotated.cc", 
+            "Geometry/HGCalCommonData/src/HGCalCell.cc", 
+            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc", 
+            "Geometry/HGCalCommonData/test/HGCGeometryTester.cc", 
+            "Geometry/HGCalCommonData/test/HGCalCellPositionTester.cc", 
+            "Geometry/HGCalCommonData/test/python/testHGCGeometry_cfg.py"
+        ], 
+        "created_at": 1648454917, 
+        "number": 37374, 
+        "state": "open", 
+        "updated_at": 1648454938
     }
 }
