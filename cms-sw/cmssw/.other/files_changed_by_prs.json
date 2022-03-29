@@ -2978,5 +2978,32 @@
         "number": 37395, 
         "state": "open", 
         "updated_at": 1648527081
+    }, 
+    "37396": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "L1Trigger/DTTriggerPhase2/interface/GlobalCoordsObtainer.h", 
+            "L1Trigger/DTTriggerPhase2/interface/MPCleanHitsFilter.h", 
+            "L1Trigger/DTTriggerPhase2/interface/MPFilter.h", 
+            "L1Trigger/DTTriggerPhase2/interface/MPQualityEnhancerFilterBayes.h", 
+            "L1Trigger/DTTriggerPhase2/interface/MotherGrouping.h", 
+            "L1Trigger/DTTriggerPhase2/interface/MuonPathAnalyzer.h", 
+            "L1Trigger/DTTriggerPhase2/interface/RPCIntegrator.h", 
+            "L1Trigger/DTTriggerPhase2/plugins/CalibratedDigis.cc", 
+            "L1Trigger/DTTriggerPhase2/plugins/DTTrigPhase2Prod.cc", 
+            "L1Trigger/DTTriggerPhase2/python/CalibratedDigis_cfi.py", 
+            "L1Trigger/DTTriggerPhase2/python/dtTriggerPhase2PrimitiveDigis_cfi.py", 
+            "L1Trigger/DTTriggerPhase2/src/MPCleanHitsFilter.cc", 
+            "L1Trigger/DTTriggerPhase2/src/MPQualityEnhancerFilter.cc", 
+            "L1Trigger/DTTriggerPhase2/src/MPQualityEnhancerFilterBayes.cc", 
+            "L1Trigger/DTTriggerPhase2/src/MuonPathAnalyticAnalyzer.cc", 
+            "L1Trigger/DTTriggerPhase2/src/MuonPathAnalyzerInChamber.cc", 
+            "L1Trigger/DTTriggerPhase2/src/MuonPathAssociator.cc", 
+            "L1Trigger/DTTriggerPhase2/src/RPCIntegrator.cc"
+        ], 
+        "created_at": 1648535991, 
+        "number": 37396, 
+        "state": "open", 
+        "updated_at": 1648536015
     }
 }
