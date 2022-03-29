@@ -2452,12 +2452,15 @@
             "FWCore/Framework/test/test_conditionaltasks_cfg.py", 
             "FWCore/ParameterSet/python/Config.py", 
             "FWCore/ParameterSet/python/SequenceTypes.py", 
-            "FWCore/ParameterSet/python/SequenceVisitors.py"
+            "FWCore/ParameterSet/python/SequenceVisitors.py", 
+            "HLTrigger/HLTcore/src/HLTConfigData.cc", 
+            "HLTrigger/HLTcore/test/BuildFile.xml", 
+            "HLTrigger/HLTcore/test/test_catch2_HLTConfigData.cc"
         ], 
         "created_at": 1647955365, 
         "number": 37305, 
         "state": "open", 
-        "updated_at": 1648490744
+        "updated_at": 1648575126
     }, 
     "37309": {
         "base_branch": "master", 
