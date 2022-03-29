@@ -2580,8 +2580,6 @@
         "changed_files_names": [
             "Configuration/Eras/python/Era_Run3_FastSim_cff.py", 
             "Configuration/PyReleaseValidation/README.md", 
-            "Configuration/PyReleaseValidation/python/relval_standard.py", 
-            "Configuration/PyReleaseValidation/python/relval_steps.py", 
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
             "Configuration/StandardSequences/python/Eras.py", 
             "SimGeneral/MixingModule/python/aliases_cfi.py", 
@@ -2590,7 +2588,7 @@
         "created_at": 1648220940, 
         "number": 37347, 
         "state": "open", 
-        "updated_at": 1648426742
+        "updated_at": 1648526636
     }, 
     "37353": {
         "base_branch": "master", 
