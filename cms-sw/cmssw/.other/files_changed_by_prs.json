@@ -2453,6 +2453,8 @@
             "FWCore/ParameterSet/python/Config.py", 
             "FWCore/ParameterSet/python/SequenceTypes.py", 
             "FWCore/ParameterSet/python/SequenceVisitors.py", 
+            "FWCore/Utilities/interface/path_configuration.h", 
+            "FWCore/Utilities/src/path_configuration.cc", 
             "HLTrigger/HLTcore/src/HLTConfigData.cc", 
             "HLTrigger/HLTcore/test/BuildFile.xml", 
             "HLTrigger/HLTcore/test/test_catch2_HLTConfigData.cc"
@@ -2460,7 +2462,7 @@
         "created_at": 1647955365, 
         "number": 37305, 
         "state": "open", 
-        "updated_at": 1648575126
+        "updated_at": 1648650418
     }, 
     "37309": {
         "base_branch": "master", 
