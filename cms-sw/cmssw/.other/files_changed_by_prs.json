@@ -2334,10 +2334,11 @@
             "EventFilter/CSCRawToDigi/interface/CSCTMBHeader2020_TMB.h", 
             "EventFilter/CSCRawToDigi/interface/CSCVTMBHeaderFormat.h", 
             "EventFilter/CSCRawToDigi/plugins/CSCDCCUnpacker.cc", 
+            "EventFilter/CSCRawToDigi/plugins/CSCDigiAnalyzer.cc", 
+            "EventFilter/CSCRawToDigi/plugins/DigiAnalyzer.cc", 
             "EventFilter/CSCRawToDigi/plugins/CSCDigiToPattern.cc", 
             "EventFilter/CSCRawToDigi/plugins/CSCDigiToRawModule.cc", 
             "EventFilter/CSCRawToDigi/plugins/CSCViewDigi.cc", 
-            "EventFilter/CSCRawToDigi/plugins/DigiAnalyzer.cc", 
             "EventFilter/CSCRawToDigi/python/cscPacker_cfi.py", 
             "EventFilter/CSCRawToDigi/python/cscUnpacker_cfi.py", 
             "EventFilter/CSCRawToDigi/python/viewDigi_cfi.py", 
@@ -2355,12 +2356,13 @@
             "EventFilter/CSCRawToDigi/src/CSCTMBHeader2020_GEM.cc", 
             "EventFilter/CSCRawToDigi/src/CSCTMBHeader2020_TMB.cc", 
             "EventFilter/CSCRawToDigi/test/README.md", 
+            "EventFilter/CSCRawToDigi/test/cscRawToDigiTest.cpp", 
             "EventFilter/CSCRawToDigi/test/testCSCDigi2Raw_cfg.py"
         ], 
         "created_at": 1647650979, 
         "number": 37279, 
         "state": "open", 
-        "updated_at": 1648462283
+        "updated_at": 1648737345
     }, 
     "37285": {
         "base_branch": "master", 
