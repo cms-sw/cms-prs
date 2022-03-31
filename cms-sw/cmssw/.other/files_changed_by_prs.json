@@ -2827,6 +2827,13 @@
             "CondTools/SiPhase2Tracker/test/SiPhase2BadStripChannelBuilder_cfg.py", 
             "CondTools/SiPhase2Tracker/test/SiPhase2BadStripChannelReader_cfg.py", 
             "CondTools/SiPhase2Tracker/test/test_CondToolsSiPhase2Tracker.sh", 
+            "Configuration/Geometry/python/GeometryDD4hepExtended2026D49_cff.py", 
+            "Configuration/Geometry/python/GeometryDD4hepExtended2026D60_cff.py", 
+            "Configuration/Geometry/python/GeometryDD4hepExtended2026D68_cff.py", 
+            "Configuration/Geometry/python/GeometryDD4hepExtended2026D70_cff.py", 
+            "Configuration/Geometry/python/GeometryDD4hepExtended2026D76_cff.py", 
+            "Configuration/Geometry/python/GeometryDD4hepExtended2026D77_cff.py", 
+            "Configuration/Geometry/python/GeometryDD4hepExtended2026D78_cff.py", 
             "Configuration/Geometry/python/GeometryDD4hepExtended2026D79_cff.py", 
             "Configuration/Geometry/python/GeometryDD4hepExtended2026D80_cff.py", 
             "Configuration/Geometry/python/GeometryDD4hepExtended2026D81_cff.py", 
@@ -2868,7 +2875,7 @@
         "created_at": 1648541843, 
         "number": 37397, 
         "state": "open", 
-        "updated_at": 1648541869
+        "updated_at": 1648702975
     }, 
     "37398": {
         "base_branch": "master", 
