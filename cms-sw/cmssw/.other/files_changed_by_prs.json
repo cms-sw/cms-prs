@@ -3008,26 +3008,6 @@
         "state": "open", 
         "updated_at": 1648677354
     }, 
-    "37420": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondTools/SiStrip/macros/compareFiles.C", 
-            "CondTools/SiStrip/macros/makeNoisePedestalScatterPlot.C", 
-            "CondTools/SiStrip/macros/noise_analysis.C", 
-            "CondTools/SiStrip/macros/plotHistogramsTogether.C", 
-            "CondTools/SiStrip/macros/readSiStripDBTrees.C", 
-            "CondTools/SiStrip/plugins/SiStripCondVisualizer.cc", 
-            "CondTools/SiStrip/plugins/SiStripDB2Tree.cc", 
-            "CondTools/SiStrip/test/SiStripCondVisualizer_cfg.py", 
-            "CondTools/SiStrip/test/db_tree_dump.py", 
-            "CondTools/SiStrip/test/db_tree_dump_wrapper.py", 
-            "CondTools/SiStrip/test/testBuildersReaders.sh"
-        ], 
-        "created_at": 1648699226, 
-        "number": 37420, 
-        "state": "open", 
-        "updated_at": 1648699251
-    }, 
     "37421": {
         "base_branch": "CMSSW_12_3_X", 
         "changed_files_names": [
