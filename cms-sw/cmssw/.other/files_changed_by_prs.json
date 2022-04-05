@@ -2693,28 +2693,6 @@
         "state": "open", 
         "updated_at": 1648860699
     }, 
-    "37444": {
-        "base_branch": "CMSSW_12_3_X", 
-        "changed_files_names": [
-            "CUDADataFormats/Track/interface/TrackSoAHeterogeneousT.h", 
-            "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackProducerFromSoA.cc", 
-            "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackSoAFromCUDA.cc", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.cc", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.cu", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.h", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernelsImpl.h", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorOnGPU.cc", 
-            "RecoPixelVertexing/PixelTriplets/plugins/GPUCACell.h", 
-            "RecoPixelVertexing/PixelTriplets/plugins/gpuFishbone.h", 
-            "RecoPixelVertexing/PixelVertexFinding/plugins/PixelVertexProducerCUDA.cc", 
-            "RecoPixelVertexing/PixelVertexFinding/plugins/gpuVertexFinder.cc", 
-            "RecoPixelVertexing/PixelVertexFinding/plugins/gpuVertexFinder.h"
-        ], 
-        "created_at": 1648889693, 
-        "number": 37444, 
-        "state": "open", 
-        "updated_at": 1648940092
-    }, 
     "37448": {
         "base_branch": "master", 
         "changed_files_names": [
