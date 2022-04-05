@@ -2825,5 +2825,16 @@
         "number": 37462, 
         "state": "open", 
         "updated_at": 1649144409
+    }, 
+    "37463": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondTools/SiPhase2Tracker/plugins/SiPhase2BadStripChannelBuilder.cc", 
+            "SimTracker/SiPhase2Digitizer/python/customizeForOTInefficiency.py"
+        ], 
+        "created_at": 1649145083, 
+        "number": 37463, 
+        "state": "open", 
+        "updated_at": 1649145102
     }
 }
