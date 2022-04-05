@@ -2812,5 +2812,18 @@
         "number": 37461, 
         "state": "open", 
         "updated_at": 1649144349
+    }, 
+    "37462": {
+        "base_branch": "CMSSW_12_3_X", 
+        "changed_files_names": [
+            "L1Trigger/L1TGlobal/interface/GlobalBoard.h", 
+            "L1Trigger/L1TGlobal/plugins/L1TGlobalProducer.cc", 
+            "L1Trigger/L1TGlobal/plugins/L1TGlobalProducer.h", 
+            "L1Trigger/L1TGlobal/src/GlobalBoard.cc"
+        ], 
+        "created_at": 1649144387, 
+        "number": 37462, 
+        "state": "open", 
+        "updated_at": 1649144409
     }
 }
