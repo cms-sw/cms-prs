@@ -2999,5 +2999,18 @@
         "number": 37465, 
         "state": "open", 
         "updated_at": 1649156888
+    }, 
+    "37466": {
+        "base_branch": "CMSSW_12_3_X", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h", 
+            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc", 
+            "Geometry/HGCalGeometry/interface/HGCalGeometry.h", 
+            "Geometry/HGCalGeometry/src/HGCalGeometry.cc"
+        ], 
+        "created_at": 1649158851, 
+        "number": 37466, 
+        "state": "open", 
+        "updated_at": 1649158874
     }
 }
