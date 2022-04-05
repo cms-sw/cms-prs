@@ -2465,13 +2465,14 @@
         "base_branch": "master", 
         "changed_files_names": [
             "RecoTracker/DeDx/interface/GenericTruncatedAverageDeDxEstimator.h", 
+            "RecoTracker/DeDx/plugins/DeDxEstimatorProducer.cc", 
             "RecoTracker/DeDx/plugins/DeDxHitInfoProducer.cc", 
             "RecoTracker/DeDx/python/dedxEstimators_cff.py"
         ], 
         "created_at": 1648491038, 
         "number": 37387, 
         "state": "open", 
-        "updated_at": 1648728147
+        "updated_at": 1649189823
     }, 
     "37394": {
         "base_branch": "master", 
