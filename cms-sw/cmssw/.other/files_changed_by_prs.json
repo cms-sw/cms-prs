@@ -3008,5 +3008,24 @@
         "number": 37475, 
         "state": "open", 
         "updated_at": 1649220456
+    }, 
+    "37476": {
+        "base_branch": "CMSSW_12_2_X", 
+        "changed_files_names": [
+            "DQM/GEM/interface/GEMDQMEfficiencyCalculator.h", 
+            "DQM/GEM/plugins/GEMEffByGEMCSCSegmentClient.cc", 
+            "DQM/GEM/plugins/GEMEffByGEMCSCSegmentClient.h", 
+            "DQM/GEM/plugins/GEMEffByGEMCSCSegmentSource.cc", 
+            "DQM/GEM/plugins/GEMEffByGEMCSCSegmentSource.h", 
+            "DQM/GEM/plugins/SealModule.cc", 
+            "DQM/GEM/python/gemEffByGEMCSCSegment_cff.py", 
+            "DQM/GEM/src/GEMDQMEfficiencyCalculator.cc", 
+            "DQM/GEM/test/testGEMEffByGEMCSCSegment.py", 
+            "DQM/Integration/python/clients/gem_dqm_sourceclient-live_cfg.py"
+        ], 
+        "created_at": 1649224413, 
+        "number": 37476, 
+        "state": "open", 
+        "updated_at": 1649224437
     }
 }
