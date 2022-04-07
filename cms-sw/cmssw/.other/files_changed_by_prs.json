@@ -2869,5 +2869,23 @@
         "number": 37491, 
         "state": "open", 
         "updated_at": 1649334849
+    }, 
+    "37492": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondCore/AlignmentPlugins/plugins/TrackerAlignment_PayloadInspector.cc", 
+            "CondCore/SiStripPlugins/interface/SiStripCondObjectRepresent.h", 
+            "CondCore/SiStripPlugins/interface/SiStripPayloadInspectorHelper.h", 
+            "CondCore/SiStripPlugins/plugins/SiStripApvGain_PayloadInspector.cc", 
+            "CondCore/SiStripPlugins/plugins/SiStripDetVOff_PayloadInspector.cc", 
+            "CondCore/SiStripPlugins/plugins/SiStripLorentzAngle_PayloadInspector.cc", 
+            "CondCore/SiStripPlugins/plugins/SiStripNoises_PayloadInspector.cc", 
+            "CondCore/SiStripPlugins/plugins/SiStripPedestals_PayloadInspector.cc", 
+            "CondCore/SiStripPlugins/scripts/testCompare.sh"
+        ], 
+        "created_at": 1649337075, 
+        "number": 37492, 
+        "state": "open", 
+        "updated_at": 1649337098
     }
 }
