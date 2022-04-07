@@ -2321,39 +2321,6 @@
         "state": "open", 
         "updated_at": 1648573191
     }, 
-    "37305": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/Provenance/interface/ProductResolverIndexHelper.h", 
-            "DataFormats/Provenance/src/ProductResolverIndexHelper.cc", 
-            "FWCore/Framework/interface/Path.h", 
-            "FWCore/Framework/interface/StreamSchedule.h", 
-            "FWCore/Framework/interface/TriggerNamesService.h", 
-            "FWCore/Framework/interface/WorkerInPath.h", 
-            "FWCore/Framework/src/Path.cc", 
-            "FWCore/Framework/src/Schedule.cc", 
-            "FWCore/Framework/src/StreamSchedule.cc", 
-            "FWCore/Framework/src/TriggerNamesService.cc", 
-            "FWCore/Framework/src/TriggerReport.h", 
-            "FWCore/Framework/test/BuildFile.xml", 
-            "FWCore/Framework/test/stubs/ToyAnalyzers.cc", 
-            "FWCore/Framework/test/stubs/ToyIntProducers.cc", 
-            "FWCore/Framework/test/stubs/ToyModules.cc", 
-            "FWCore/Framework/test/test_conditionaltasks_cfg.py", 
-            "FWCore/ParameterSet/python/Config.py", 
-            "FWCore/ParameterSet/python/SequenceTypes.py", 
-            "FWCore/ParameterSet/python/SequenceVisitors.py", 
-            "FWCore/Utilities/interface/path_configuration.h", 
-            "FWCore/Utilities/src/path_configuration.cc", 
-            "HLTrigger/HLTcore/src/HLTConfigData.cc", 
-            "HLTrigger/HLTcore/test/BuildFile.xml", 
-            "HLTrigger/HLTcore/test/test_catch2_HLTConfigData.cc"
-        ], 
-        "created_at": 1647955365, 
-        "number": 37305, 
-        "state": "open", 
-        "updated_at": 1649126748
-    }, 
     "37309": {
         "base_branch": "master", 
         "changed_files_names": [
