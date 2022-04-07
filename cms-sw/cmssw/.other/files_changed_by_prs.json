@@ -2734,12 +2734,14 @@
             "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h", 
             "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc", 
             "Geometry/HGCalGeometry/interface/HGCalGeometry.h", 
-            "Geometry/HGCalGeometry/src/HGCalGeometry.cc"
+            "Geometry/HGCalGeometry/src/HGCalGeometry.cc", 
+            "Geometry/HGCalGeometry/test/HGCalGeometryNewCornersTest.cc", 
+            "Geometry/HGCalGeometry/test/python/testHGCalGeometryNewCorners_cfg.py"
         ], 
         "created_at": 1649158851, 
         "number": 37466, 
         "state": "open", 
-        "updated_at": 1649175906
+        "updated_at": 1649334255
     }, 
     "37470": {
         "base_branch": "master", 
