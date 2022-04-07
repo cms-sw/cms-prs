@@ -2831,12 +2831,13 @@
             "CondCore/SiStripPlugins/plugins/SiStripLorentzAngle_PayloadInspector.cc", 
             "CondCore/SiStripPlugins/plugins/SiStripNoises_PayloadInspector.cc", 
             "CondCore/SiStripPlugins/plugins/SiStripPedestals_PayloadInspector.cc", 
-            "CondCore/SiStripPlugins/scripts/testCompare.sh"
+            "CondCore/SiStripPlugins/scripts/testCompare.sh", 
+            "CondTools/SiStrip/plugins/BuildFile.xml"
         ], 
         "created_at": 1649337075, 
         "number": 37492, 
         "state": "open", 
-        "updated_at": 1649337603
+        "updated_at": 1649352060
     }, 
     "37493": {
         "base_branch": "master", 
