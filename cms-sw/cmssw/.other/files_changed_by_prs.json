@@ -1065,6 +1065,7 @@
         "base_branch": "master", 
         "changed_files_names": [
             "Configuration/HLT/python/autoHLT.py", 
+            "HLTrigger/Configuration/python/HLTPhase2TDR_EventContent_cff.py", 
             "HLTrigger/Configuration/python/HLT_75e33/eventsetup/highPtTripletStepChi2Est_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/eventsetup/highPtTripletStepTrajectoryCleanerBySharedHits_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/eventsetup/hltCandidateJetBProbabilityComputer_cfi.py", 
@@ -2180,13 +2181,12 @@
             "HLTrigger/Configuration/python/HLT_75e33/tasks/ticlTrkStepTask_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/tasks/trackerlocalrecoTask_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/tasks/vertexRecoTask_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33_cff.py", 
-            "HLTrigger/Configuration/test/HLT_75e33_cfg.py"
+            "HLTrigger/Configuration/python/HLT_75e33_cff.py"
         ], 
         "created_at": 1646677154, 
         "number": 37162, 
         "state": "open", 
-        "updated_at": 1649219142
+        "updated_at": 1649422399
     }, 
     "37187": {
         "base_branch": "master", 
