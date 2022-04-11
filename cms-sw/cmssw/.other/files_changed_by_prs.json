@@ -2876,5 +2876,16 @@
         "number": 37520, 
         "state": "open", 
         "updated_at": 1649660811
+    }, 
+    "37521": {
+        "base_branch": "CMSSW_12_3_X", 
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/CustomConfigs.py", 
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py"
+        ], 
+        "created_at": 1649661324, 
+        "number": 37521, 
+        "state": "open", 
+        "updated_at": 1649661359
     }
 }
