@@ -2844,5 +2844,30 @@
         "number": 37525, 
         "state": "open", 
         "updated_at": 1649665700
+    }, 
+    "37530": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibFormats/SiStripObjects/interface/SiStripQuality.h", 
+            "CalibFormats/SiStripObjects/src/SiStripQuality.cc", 
+            "CalibTracker/SiStripHitEfficiency/BuildFile.xml", 
+            "CalibTracker/SiStripHitEfficiency/plugins/BuildFile.xml", 
+            "CalibTracker/SiStripHitEfficiency/plugins/HitEff.cc", 
+            "CalibTracker/SiStripHitEfficiency/src/HitEff.cc", 
+            "CalibTracker/SiStripHitEfficiency/plugins/HitEff.h", 
+            "CalibTracker/SiStripHitEfficiency/interface/HitEff.h", 
+            "CalibTracker/SiStripHitEfficiency/plugins/SiStripHitEffFromCalibTree.cc", 
+            "CalibTracker/SiStripHitEfficiency/plugins/SiStripHitEfficiencyHarvester.cc", 
+            "CalibTracker/SiStripHitEfficiency/plugins/SiStripHitEfficiencyWorker.cc", 
+            "CalibTracker/SiStripHitEfficiency/test/testHitEffHarvester.py", 
+            "CalibTracker/SiStripHitEfficiency/test/testHitEffWorker.py", 
+            "CalibTracker/SiStripHitEfficiency/test/testSiStripHitEffFromCalibTree_cfg.py", 
+            "DQM/SiStripCommon/interface/TkHistoMap.h", 
+            "DQM/SiStripCommon/src/TkHistoMap.cc"
+        ], 
+        "created_at": 1649685118, 
+        "number": 37530, 
+        "state": "open", 
+        "updated_at": 1649685146
     }
 }
