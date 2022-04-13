@@ -2274,12 +2274,15 @@
             "FWCore/Catalog/test/FileLocator_t.cpp", 
             "FWCore/Services/src/SiteLocalConfigService.cc", 
             "FWCore/Services/src/SiteLocalConfigService.h", 
+            "FWCore/Services/test/full-site-local-config.testfile", 
+            "FWCore/Services/test/no-source-site-local-config.testfile", 
+            "FWCore/Services/test/source-site-local-config.testfile", 
             "FWCore/Services/test/test_catch2_SiteLocalConfigService.cc"
         ], 
         "created_at": 1647638527, 
         "number": 37278, 
         "state": "open", 
-        "updated_at": 1649337434
+        "updated_at": 1649841197
     }, 
     "37285": {
         "base_branch": "master", 
