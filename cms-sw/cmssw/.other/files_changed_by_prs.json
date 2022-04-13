@@ -2856,12 +2856,13 @@
     "37539": {
         "base_branch": "master", 
         "changed_files_names": [
-            "HLTrigger/JetMET/plugins/HLTHFJetCleaner.cc"
+            "HLTrigger/JetMET/interface/HLTHFJetCleaner.h", 
+            "HLTrigger/JetMET/plugins/SealModule.cc"
         ], 
         "created_at": 1649772516, 
         "number": 37539, 
         "state": "open", 
-        "updated_at": 1649783026
+        "updated_at": 1649861509
     }, 
     "37540": {
         "base_branch": "master", 
