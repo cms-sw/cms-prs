@@ -2902,5 +2902,19 @@
         "number": 37546, 
         "state": "open", 
         "updated_at": 1649833162
+    }, 
+    "37547": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/interface/HGCalCell.h", 
+            "Geometry/HGCalCommonData/interface/HGCalProperty.h", 
+            "Geometry/HGCalCommonData/interface/HGCalTypes.h", 
+            "Geometry/HGCalCommonData/src/HGCalProperty.cc", 
+            "Geometry/HGCalCommonData/test/HGCalConvert.cpp"
+        ], 
+        "created_at": 1649835202, 
+        "number": 37547, 
+        "state": "open", 
+        "updated_at": 1649835225
     }
 }
