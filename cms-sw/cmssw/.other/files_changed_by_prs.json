@@ -3010,5 +3010,27 @@
         "number": 37562, 
         "state": "open", 
         "updated_at": 1649882854
+    }, 
+    "37563": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Framework/src/Schedule.cc", 
+            "FWCore/Framework/src/StreamSchedule.cc", 
+            "FWCore/Framework/src/processEDAliases.cc", 
+            "FWCore/Framework/src/processEDAliases.h", 
+            "FWCore/Integration/test/run_TestSwitchProducer.sh", 
+            "FWCore/Integration/test/testSwitchProducerConditionalTaskEDAlias_cfg.py", 
+            "FWCore/Integration/test/testSwitchProducerConditionalTask_cfg.py", 
+            "FWCore/Integration/test/testSwitchProducerPath_cfg.py", 
+            "FWCore/Integration/test/testSwitchProducerTaskInput_cfg.py", 
+            "FWCore/Integration/test/testSwitchProducerTask_cfg.py", 
+            "FWCore/ParameterSet/python/Config.py", 
+            "FWCore/ParameterSet/python/Modules.py", 
+            "FWCore/ParameterSet/python/SequenceTypes.py"
+        ], 
+        "created_at": 1649888463, 
+        "number": 37563, 
+        "state": "open", 
+        "updated_at": 1649888487
     }
 }
