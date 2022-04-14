@@ -3032,5 +3032,20 @@
         "number": 37565, 
         "state": "open", 
         "updated_at": 1649894794
+    }, 
+    "37566": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "L1Trigger/L1CaloTrigger/test/ntuples/L1TriggerNtupleTrackTrigger.cc", 
+            "L1Trigger/L1THGCal/interface/HGCalTriggerTools.h", 
+            "L1Trigger/L1THGCal/src/HGCalTriggerTools.cc", 
+            "L1Trigger/L1THGCal/test/HGCalTriggerGeomTesterV9Imp2.cc", 
+            "L1Trigger/L1THGCal/test/HGCalTriggerGeomTesterV9Imp3.cc", 
+            "Validation/HGCalValidation/plugins/HGCalTriggerValidator.cc"
+        ], 
+        "created_at": 1649904107, 
+        "number": 37566, 
+        "state": "open", 
+        "updated_at": 1649904126
     }
 }
