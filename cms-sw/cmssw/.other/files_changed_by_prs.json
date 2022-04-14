@@ -2509,6 +2509,7 @@
             "CalibFormats/SiStripObjects/interface/SiStripQuality.h", 
             "CalibFormats/SiStripObjects/src/SiStripQuality.cc", 
             "CalibTracker/SiStripHitEfficiency/BuildFile.xml", 
+            "CalibTracker/SiStripHitEfficiency/interface/SiStripHitEfficiencyHelpers.h", 
             "CalibTracker/SiStripHitEfficiency/plugins/BuildFile.xml", 
             "CalibTracker/SiStripHitEfficiency/plugins/HitEff.cc", 
             "CalibTracker/SiStripHitEfficiency/src/HitEff.cc", 
@@ -2529,7 +2530,7 @@
         "created_at": 1649685118, 
         "number": 37530, 
         "state": "open", 
-        "updated_at": 1649777746
+        "updated_at": 1649924607
     }, 
     "37531": {
         "base_branch": "master", 
