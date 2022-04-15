@@ -2945,14 +2945,16 @@
             "L1Trigger/L1CaloTrigger/test/ntuples/L1TriggerNtupleTrackTrigger.cc", 
             "L1Trigger/L1THGCal/interface/HGCalTriggerTools.h", 
             "L1Trigger/L1THGCal/src/HGCalTriggerTools.cc", 
+            "L1Trigger/L1THGCal/src/backend/HGCalClusteringImpl.cc", 
             "L1Trigger/L1THGCal/test/HGCalTriggerGeomTesterV9Imp2.cc", 
             "L1Trigger/L1THGCal/test/HGCalTriggerGeomTesterV9Imp3.cc", 
-            "Validation/HGCalValidation/plugins/HGCalTriggerValidator.cc"
+            "Validation/HGCalValidation/plugins/HGCalTriggerValidator.cc", 
+            "Validation/HGCalValidation/src/classes.h"
         ], 
         "created_at": 1649904107, 
         "number": 37566, 
         "state": "open", 
-        "updated_at": 1649904126
+        "updated_at": 1650017242
     }, 
     "37568": {
         "base_branch": "master", 
