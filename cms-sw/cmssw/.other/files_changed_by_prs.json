@@ -3336,11 +3336,12 @@
     "37602": {
         "base_branch": "master", 
         "changed_files_names": [
-            "CondTools/L1Trigger/interface/WriterProxy.h"
+            "CondTools/L1Trigger/interface/WriterProxy.h", 
+            "L1TriggerConfig/L1TConfigProducers/test/runL1-O2O-iov.sh"
         ], 
         "created_at": 1650203114, 
         "number": 37602, 
         "state": "open", 
-        "updated_at": 1650203138
+        "updated_at": 1650203300
     }
 }
