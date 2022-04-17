@@ -3287,5 +3287,27 @@
         "number": 37596, 
         "state": "open", 
         "updated_at": 1650135384
+    }, 
+    "37597": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HcalCommonData/data/cmsExtendedGeometry2018.xml", 
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2018.xml", 
+            "Geometry/HcalCommonData/python/GeometryDD4HepExtended2018Reco_cff.py", 
+            "Geometry/HcalCommonData/python/GeometryDD4HepExtended2018_cff.py", 
+            "Geometry/HcalCommonData/python/GeometryExtended2018Reco_cff.py", 
+            "Geometry/HcalCommonData/python/GeometryExtended2018_cff.py", 
+            "Geometry/HcalCommonData/python/cmsExtendedGeometry2018XML_cfi.py", 
+            "Geometry/HcalCommonData/test/python/TTbar_13TeV_TuneCUETP8M1_cfi_GEN_SIM_10824.0.py", 
+            "Geometry/HcalCommonData/test/python/TTbar_13TeV_TuneCUETP8M1_cfi_GEN_SIM_10824.911.py", 
+            "Geometry/HcalCommonData/test/python/step2_DIGI_L1_DIGI2RAW_HLT_10824.0.py", 
+            "Geometry/HcalCommonData/test/python/step2_DIGI_L1_DIGI2RAW_HLT_10824.911.py", 
+            "Geometry/HcalCommonData/test/python/step3_RAW2DIGI_L1Reco_RECO_RECOSIM_PAT_VALIDATION_DQM_10824.0.py", 
+            "Geometry/HcalCommonData/test/python/step3_RAW2DIGI_L1Reco_RECO_RECOSIM_PAT_VALIDATION_DQM_10824.911.py"
+        ], 
+        "created_at": 1650172371, 
+        "number": 37597, 
+        "state": "open", 
+        "updated_at": 1650172395
     }
 }
