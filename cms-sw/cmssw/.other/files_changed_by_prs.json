@@ -3291,8 +3291,9 @@
     "37597": {
         "base_branch": "master", 
         "changed_files_names": [
-            "Geometry/HcalCommonData/data/cmsExtendedGeometry2018.xml", 
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2018Plan0.xml", 
             "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2018.xml", 
+            "Geometry/HcalCommonData/data/cmsExtendedGeometry2018.xml", 
             "Geometry/HcalCommonData/python/GeometryDD4HepExtended2018Reco_cff.py", 
             "Geometry/HcalCommonData/python/GeometryDD4HepExtended2018_cff.py", 
             "Geometry/HcalCommonData/python/GeometryExtended2018Reco_cff.py", 
@@ -3308,6 +3309,6 @@
         "created_at": 1650172371, 
         "number": 37597, 
         "state": "open", 
-        "updated_at": 1650172395
+        "updated_at": 1650172650
     }
 }
