@@ -3086,5 +3086,22 @@
         "number": 37610, 
         "state": "open", 
         "updated_at": 1650350293
+    }, 
+    "37611": {
+        "base_branch": "CMSSW_12_4_DEVEL_X", 
+        "changed_files_names": [
+            "GeneratorInterface/CascadeInterface/BuildFile.xml", 
+            "GeneratorInterface/CascadeInterface/plugins/BuildFile.xml", 
+            "GeneratorInterface/CascadeInterface/plugins/Cascade2GeneratorFilter.cc", 
+            "GeneratorInterface/CascadeInterface/plugins/Cascade2Hadronizer.cc", 
+            "GeneratorInterface/CascadeInterface/plugins/Cascade2Hadronizer.h", 
+            "GeneratorInterface/CascadeInterface/plugins/CascadeWrapper.h", 
+            "GeneratorInterface/CascadeInterface/python/Cascade2Parameters_cfi.py", 
+            "GeneratorInterface/CascadeInterface/python/Cascade2_example_test_cff.py"
+        ], 
+        "created_at": 1650350512, 
+        "number": 37611, 
+        "state": "open", 
+        "updated_at": 1650350532
     }
 }
