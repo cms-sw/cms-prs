@@ -3107,6 +3107,8 @@
     "37612": {
         "base_branch": "CMSSW_12_4_DEVEL_X", 
         "changed_files_names": [
+            "FWCore/Concurrency/interface/SharedResourceNames.h", 
+            "FWCore/Concurrency/src/SharedResourceNames.cc", 
             "GeneratorInterface/Herwig6Interface/BuildFile.xml", 
             "GeneratorInterface/Herwig6Interface/interface/Herwig6Instance.h", 
             "GeneratorInterface/Herwig6Interface/interface/herwig.h", 
@@ -3184,12 +3186,15 @@
             "GeneratorInterface/PomwigInterface/test/Z2muAnalyzer.cc", 
             "GeneratorInterface/PomwigInterface/test/Z2muAnalyzer.h", 
             "GeneratorInterface/PomwigInterface/test/analyzeSDDY_cfg.py", 
-            "GeneratorInterface/PomwigInterface/test/analyzeSDDijets_cfg.py"
+            "GeneratorInterface/PomwigInterface/test/analyzeSDDijets_cfg.py", 
+            "PhysicsTools/JetMCAlgos/interface/Herwig6PartonSelector.h", 
+            "PhysicsTools/JetMCAlgos/plugins/HadronAndPartonSelector.cc", 
+            "PhysicsTools/JetMCAlgos/src/Herwig6PartonSelector.cc"
         ], 
         "created_at": 1650351442, 
         "number": 37612, 
         "state": "open", 
-        "updated_at": 1650351468
+        "updated_at": 1650352049
     }, 
     "37613": {
         "base_branch": "master", 
