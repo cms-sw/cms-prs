@@ -2019,12 +2019,14 @@
             "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1CompareVertexSoA.cc", 
             "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1MonitorTrackSoA.cc", 
             "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1MonitorVertexSoA.cc", 
+            "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1TrackComparisonHarvester.cc", 
+            "DQM/SiPixelPhase1Heterogeneous/python/SiPixelPhase1HeterogenousDQMHarvesting_cff.py", 
             "DQM/SiPixelPhase1Heterogeneous/python/SiPixelPhase1HeterogenousDQM_FirstStep_cff.py"
         ], 
         "created_at": 1650359401, 
         "number": 37619, 
         "state": "open", 
-        "updated_at": 1650440575
+        "updated_at": 1650465090
     }, 
     "37621": {
         "base_branch": "master", 
