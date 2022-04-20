@@ -2029,6 +2029,8 @@
             "CUDADataFormats/TrackingRecHit/src/TrackingRecHit2DHeterogeneous.cc", 
             "Configuration/ProcessModifiers/python/gpuValidationPixel_cff.py", 
             "Configuration/ProcessModifiers/python/gpuValidation_cff.py", 
+            "Configuration/PyReleaseValidation/python/relval_2017.py", 
+            "Configuration/PyReleaseValidation/python/relval_2026.py", 
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
             "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1MonitorRecHitsSoA.cc", 
             "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1MonitorTrackSoA.cc", 
@@ -2041,7 +2043,7 @@
         "created_at": 1650356226, 
         "number": 37617, 
         "state": "open", 
-        "updated_at": 1650363583
+        "updated_at": 1650453160
     }, 
     "37618": {
         "base_branch": "CMSSW_12_3_X", 
