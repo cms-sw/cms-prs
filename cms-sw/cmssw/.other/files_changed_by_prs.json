@@ -2254,5 +2254,21 @@
         "number": 37645, 
         "state": "open", 
         "updated_at": 1650543971
+    }, 
+    "37646": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/Scouting/interface/Run3ScoutingElectron.h", 
+            "DataFormats/Scouting/interface/Run3ScoutingParticle.h", 
+            "DataFormats/Scouting/interface/Run3ScoutingPhoton.h", 
+            "DataFormats/Scouting/src/classes_def.xml", 
+            "HLTrigger/Egamma/plugins/HLTScoutingEgammaProducer.cc", 
+            "HLTrigger/Egamma/plugins/HLTScoutingEgammaProducer.h", 
+            "HLTrigger/JetMET/plugins/HLTScoutingPFProducer.cc"
+        ], 
+        "created_at": 1650545249, 
+        "number": 37646, 
+        "state": "open", 
+        "updated_at": 1650545266
     }
 }
