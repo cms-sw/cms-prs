@@ -2228,11 +2228,14 @@
     "37650": {
         "base_branch": "master", 
         "changed_files_names": [
-            "CondTools/Hcal/interface/BoostIODBReader.h"
+            "CondTools/Hcal/interface/BoostIODBReader.h", 
+            "CondTools/Hcal/test/BuildFile.xml", 
+            "CondTools/Hcal/test/HFPhase1PMTParams_unittest.cc", 
+            "CondTools/Hcal/test/testHFPhase1PMTParams.sh"
         ], 
         "created_at": 1650563627, 
         "number": 37650, 
         "state": "open", 
-        "updated_at": 1650563644
+        "updated_at": 1650572568
     }
 }
