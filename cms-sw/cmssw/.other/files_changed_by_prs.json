@@ -1752,7 +1752,6 @@
             "CondTools/L1TriggerExt/python/L1CondDBPayloadWriterExt_cfi.py", 
             "CondTools/L1TriggerExt/src/DataWriterExt.cc", 
             "CondTools/L1TriggerExt/test/L1ConfigWritePayloadOnlineExt_cfg.py", 
-            "L1TriggerConfig/L1TConfigProducers/data/l1config.db", 
             "L1TriggerConfig/L1TConfigProducers/scripts/runL1-O2O-scramTests.sh", 
             "L1TriggerConfig/L1TConfigProducers/src/L1TGlobalPrescalesVetosOnlineProd.cc", 
             "L1TriggerConfig/L1TConfigProducers/src/L1TMuonBarrelParamsOnlineProd.cc", 
@@ -1761,7 +1760,7 @@
         "created_at": 1650203114, 
         "number": 37602, 
         "state": "open", 
-        "updated_at": 1650766230
+        "updated_at": 1650798628
     }, 
     "37616": {
         "base_branch": "CMSSW_12_4_DEVEL_X", 
