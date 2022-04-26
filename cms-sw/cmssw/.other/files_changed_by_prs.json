@@ -1491,12 +1491,13 @@
         "base_branch": "master", 
         "changed_files_names": [
             "Calibration/LumiAlCaRecoProducers/plugins/AlcaPCCIntegrator.cc", 
-            "Configuration/AlCa/python/autoAlca.py"
+            "Configuration/AlCa/python/autoAlca.py", 
+            "DataFormats/Luminosity/interface/PixelClusterCounts.h"
         ], 
         "created_at": 1649758595, 
         "number": 37538, 
         "state": "open", 
-        "updated_at": 1650883998
+        "updated_at": 1650959458
     }, 
     "37548": {
         "base_branch": "master", 
