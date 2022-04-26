@@ -1041,16 +1041,21 @@
     "37237": {
         "base_branch": "master", 
         "changed_files_names": [
+            "L1Trigger/DTTriggerPhase2/interface/DTPattern.h", 
             "L1Trigger/DTTriggerPhase2/interface/GlobalCoordsObtainer.h", 
+            "L1Trigger/DTTriggerPhase2/interface/HoughGrouping.h", 
+            "L1Trigger/DTTriggerPhase2/interface/InitialGrouping.h", 
             "L1Trigger/DTTriggerPhase2/interface/MPCleanHitsFilter.h", 
             "L1Trigger/DTTriggerPhase2/interface/MPFilter.h", 
             "L1Trigger/DTTriggerPhase2/interface/MPQualityEnhancerFilter.h", 
             "L1Trigger/DTTriggerPhase2/interface/MPQualityEnhancerFilterBayes.h", 
+            "L1Trigger/DTTriggerPhase2/interface/MPRedundantFilter.h", 
             "L1Trigger/DTTriggerPhase2/interface/MotherGrouping.h", 
             "L1Trigger/DTTriggerPhase2/interface/MuonPathAnalyticAnalyzer.h", 
             "L1Trigger/DTTriggerPhase2/interface/MuonPathAnalyzer.h", 
             "L1Trigger/DTTriggerPhase2/interface/MuonPathAnalyzerInChamber.h", 
             "L1Trigger/DTTriggerPhase2/interface/MuonPathAssociator.h", 
+            "L1Trigger/DTTriggerPhase2/interface/PseudoBayesGrouping.h", 
             "L1Trigger/DTTriggerPhase2/interface/RPCIntegrator.h", 
             "L1Trigger/DTTriggerPhase2/plugins/CalibratedDigis.cc", 
             "L1Trigger/DTTriggerPhase2/plugins/DTTrigPhase2Prod.cc", 
@@ -1058,11 +1063,20 @@
             "L1Trigger/DTTriggerPhase2/python/HoughGrouping_cfi.py", 
             "L1Trigger/DTTriggerPhase2/python/PseudoBayesGrouping_cfi.py", 
             "L1Trigger/DTTriggerPhase2/python/dtTriggerPhase2PrimitiveDigis_cfi.py", 
+            "L1Trigger/DTTriggerPhase2/src/CandidateGroup.cc", 
+            "L1Trigger/DTTriggerPhase2/src/DTPattern.cc", 
+            "L1Trigger/DTTriggerPhase2/src/DTprimitive.cc", 
             "L1Trigger/DTTriggerPhase2/src/HoughGrouping.cc", 
+            "L1Trigger/DTTriggerPhase2/src/InitialGrouping.cc", 
             "L1Trigger/DTTriggerPhase2/src/MPCleanHitsFilter.cc", 
+            "L1Trigger/DTTriggerPhase2/src/MPFilter.cc", 
             "L1Trigger/DTTriggerPhase2/src/MPQualityEnhancerFilter.cc", 
             "L1Trigger/DTTriggerPhase2/src/MPQualityEnhancerFilterBayes.cc", 
+            "L1Trigger/DTTriggerPhase2/src/MPRedundantFilter.cc", 
+            "L1Trigger/DTTriggerPhase2/src/MotherGrouping.cc", 
+            "L1Trigger/DTTriggerPhase2/src/MuonPath.cc", 
             "L1Trigger/DTTriggerPhase2/src/MuonPathAnalyticAnalyzer.cc", 
+            "L1Trigger/DTTriggerPhase2/src/MuonPathAnalyzer.cc", 
             "L1Trigger/DTTriggerPhase2/src/MuonPathAnalyzerInChamber.cc", 
             "L1Trigger/DTTriggerPhase2/src/MuonPathAssociator.cc", 
             "L1Trigger/DTTriggerPhase2/src/PseudoBayesGrouping.cc", 
@@ -1078,7 +1092,7 @@
         "created_at": 1647247241, 
         "number": 37237, 
         "state": "open", 
-        "updated_at": 1650889166
+        "updated_at": 1650950287
     }, 
     "37245": {
         "base_branch": "master", 
@@ -1131,7 +1145,7 @@
         "created_at": 1647848302, 
         "number": 37285, 
         "state": "open", 
-        "updated_at": 1650893607
+        "updated_at": 1650906766
     }, 
     "37359": {
         "base_branch": "master", 
@@ -1285,7 +1299,7 @@
         "created_at": 1649695935, 
         "number": 37532, 
         "state": "open", 
-        "updated_at": 1650591985
+        "updated_at": 1650942524
     }, 
     "37534": {
         "base_branch": "master", 
@@ -1559,7 +1573,7 @@
         "created_at": 1650037396, 
         "number": 37586, 
         "state": "open", 
-        "updated_at": 1650897653
+        "updated_at": 1650949080
     }, 
     "37590": {
         "base_branch": "master", 
@@ -1570,7 +1584,7 @@
         "created_at": 1650052218, 
         "number": 37590, 
         "state": "open", 
-        "updated_at": 1650893609
+        "updated_at": 1650928800
     }, 
     "37592": {
         "base_branch": "master", 
@@ -1605,7 +1619,7 @@
         "created_at": 1650192682, 
         "number": 37599, 
         "state": "open", 
-        "updated_at": 1650879065
+        "updated_at": 1650909663
     }, 
     "37601": {
         "base_branch": "CMSSW_12_3_X", 
@@ -1643,7 +1657,7 @@
         "created_at": 1650203114, 
         "number": 37602, 
         "state": "open", 
-        "updated_at": 1650892415
+        "updated_at": 1650948493
     }, 
     "37617": {
         "base_branch": "master", 
@@ -1767,7 +1781,7 @@
         "created_at": 1650464739, 
         "number": 37635, 
         "state": "open", 
-        "updated_at": 1650543006
+        "updated_at": 1650949635
     }, 
     "37640": {
         "base_branch": "CMSSW_12_3_X", 
@@ -1778,7 +1792,7 @@
         "created_at": 1650494526, 
         "number": 37640, 
         "state": "open", 
-        "updated_at": 1650894693
+        "updated_at": 1650907938
     }, 
     "37644": {
         "base_branch": "master", 
@@ -1810,7 +1824,7 @@
         "created_at": 1650543949, 
         "number": 37645, 
         "state": "open", 
-        "updated_at": 1650891895
+        "updated_at": 1650930088
     }, 
     "37646": {
         "base_branch": "master", 
@@ -1836,7 +1850,7 @@
         "created_at": 1650550712, 
         "number": 37647, 
         "state": "open", 
-        "updated_at": 1650889380
+        "updated_at": 1650945596
     }, 
     "37648": {
         "base_branch": "master", 
@@ -1861,7 +1875,7 @@
         "created_at": 1650556768, 
         "number": 37648, 
         "state": "open", 
-        "updated_at": 1650653027
+        "updated_at": 1650904699
     }, 
     "37651": {
         "base_branch": "master", 
@@ -2025,7 +2039,7 @@
         "created_at": 1650784805, 
         "number": 37667, 
         "state": "open", 
-        "updated_at": 1650895321
+        "updated_at": 1650947081
     }, 
     "37669": {
         "base_branch": "master", 
@@ -2048,7 +2062,7 @@
         "created_at": 1650897703, 
         "number": 37670, 
         "state": "open", 
-        "updated_at": 1650898026
+        "updated_at": 1650913514
     }, 
     "37671": {
         "base_branch": "CMSSW_12_3_X", 
@@ -2059,7 +2073,7 @@
         "created_at": 1650898581, 
         "number": 37671, 
         "state": "open", 
-        "updated_at": 1650899247
+        "updated_at": 1650926493
     }, 
     "37672": {
         "base_branch": "master", 
@@ -2080,7 +2094,7 @@
         "created_at": 1650901903, 
         "number": 37672, 
         "state": "open", 
-        "updated_at": 1650901925
+        "updated_at": 1650915633
     }, 
     "37673": {
         "base_branch": "master", 
@@ -2090,7 +2104,7 @@
         "created_at": 1650909188, 
         "number": 37673, 
         "state": "open", 
-        "updated_at": 1650909208
+        "updated_at": 1650931939
     }, 
     "37674": {
         "base_branch": "master", 
@@ -2104,7 +2118,7 @@
         "created_at": 1650928703, 
         "number": 37674, 
         "state": "open", 
-        "updated_at": 1650928724
+        "updated_at": 1650946223
     }, 
     "37675": {
         "base_branch": "master", 
@@ -2131,7 +2145,7 @@
         "created_at": 1650939393, 
         "number": 37675, 
         "state": "open", 
-        "updated_at": 1650939418
+        "updated_at": 1650939741
     }, 
     "37676": {
         "base_branch": "master", 
@@ -2158,7 +2172,7 @@
         "created_at": 1650942048, 
         "number": 37676, 
         "state": "open", 
-        "updated_at": 1650942073
+        "updated_at": 1650942440
     }, 
     "37677": {
         "base_branch": "master", 
