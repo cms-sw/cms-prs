@@ -2147,29 +2147,6 @@
         "state": "open", 
         "updated_at": 1650965808
     }, 
-    "37683": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CUDADataFormats/EcalRecHitSoA/interface/EcalUncalibratedRecHit.h", 
-            "RecoLocalCalo/EcalRecProducers/plugins/DeclsForKernelsPh2.h", 
-            "RecoLocalCalo/EcalRecProducers/plugins/EcalCPUUncalibRecHitProducer.cc", 
-            "RecoLocalCalo/EcalRecProducers/plugins/EcalPh2DigiToGPUProducer.cc", 
-            "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitConvertGPU2CPUFormat.cc", 
-            "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitPhase2WeightsAlgoGPU.cu", 
-            "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitPhase2WeightsAlgoGPU.h", 
-            "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitPhase2WeightsKernels.cu", 
-            "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitPhase2WeightsKernels.h", 
-            "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitPhase2WeightsProducerGPU.cc", 
-            "RecoLocalCalo/EcalRecProducers/python/ecalUncalibRecHitPhase2GPU_cfi.py", 
-            "RecoLocalCalo/EcalRecProducers/python/ecalUncalibRecHitPhase2_cff.py", 
-            "RecoLocalCalo/EcalRecProducers/test/testEcalUncalibRecHitPhase2WeightsProducerGPU.py", 
-            "RecoLocalCalo/EcalRecProducers/test/testEcalUncalibRecHitPhase2WeightsProducerGPU_harvesting.py"
-        ], 
-        "created_at": 1650973894, 
-        "number": 37683, 
-        "state": "open", 
-        "updated_at": 1650973920
-    }, 
     "37684": {
         "base_branch": "CMSSW_10_2_X", 
         "changed_files_names": [
