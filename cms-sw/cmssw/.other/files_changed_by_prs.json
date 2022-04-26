@@ -2181,10 +2181,8 @@
         "changed_files_names": [
             "GeneratorInterface/GenFilters/interface/MCLongLivedParticles.h", 
             "GeneratorInterface/GenFilters/interface/PythiaFilterMotherGrandMother.h", 
-            "GeneratorInterface/GenFilters/interface/PythiaFilterMotherSister.h", 
             "GeneratorInterface/GenFilters/src/MCLongLivedParticles.cc", 
             "GeneratorInterface/GenFilters/src/PythiaFilterMotherGrandMother.cc", 
-            "GeneratorInterface/GenFilters/src/PythiaFilterMotherSister.cc", 
             "GeneratorInterface/GenFilters/src/SealModule.cc", 
             "GeneratorInterface/GenFilters/test/test_MCLongLivedFilter_cfg.py", 
             "GeneratorInterface/Pythia8Interface/BuildFile.xml", 
@@ -2194,6 +2192,6 @@
         "created_at": 1650960751, 
         "number": 37680, 
         "state": "open", 
-        "updated_at": 1650960781
+        "updated_at": 1650961245
     }
 }
