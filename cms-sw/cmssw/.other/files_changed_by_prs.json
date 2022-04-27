@@ -1587,25 +1587,6 @@
         "state": "open", 
         "updated_at": 1650825777
     }, 
-    "37602": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondTools/L1Trigger/interface/WriterProxy.h", 
-            "CondTools/L1TriggerExt/interface/DataWriterExt.h", 
-            "CondTools/L1TriggerExt/plugins/L1CondDBPayloadWriterExt.cc", 
-            "CondTools/L1TriggerExt/python/L1CondDBPayloadWriterExt_cfi.py", 
-            "CondTools/L1TriggerExt/src/DataWriterExt.cc", 
-            "CondTools/L1TriggerExt/test/L1ConfigWritePayloadOnlineExt_cfg.py", 
-            "L1TriggerConfig/L1TConfigProducers/scripts/runL1-O2O-scramTests.sh", 
-            "L1TriggerConfig/L1TConfigProducers/src/L1TGlobalPrescalesVetosOnlineProd.cc", 
-            "L1TriggerConfig/L1TConfigProducers/src/L1TMuonBarrelParamsOnlineProd.cc", 
-            "L1TriggerConfig/L1TConfigProducers/test/BuildFile.xml"
-        ], 
-        "created_at": 1650203114, 
-        "number": 37602, 
-        "state": "open", 
-        "updated_at": 1650963866
-    }, 
     "37617": {
         "base_branch": "master", 
         "changed_files_names": [
