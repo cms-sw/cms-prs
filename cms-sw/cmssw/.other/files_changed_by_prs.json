@@ -1932,33 +1932,6 @@
         "state": "open", 
         "updated_at": 1650931939
     }, 
-    "37676": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/Geometry/python/GeometryDD4hepExtended2018DD4hepReco_cff.py", 
-            "Geometry/HcalCommonData/python/GeometryDD4HepExtended2018Reco_cff.py", 
-            "Configuration/Geometry/python/GeometryDD4hepExtended2018DD4hep_cff.py", 
-            "Geometry/HcalCommonData/python/GeometryDD4HepExtended2018_cff.py", 
-            "Configuration/Geometry/python/GeometryExtended2018DDDReco_cff.py", 
-            "Geometry/HcalCommonData/python/GeometryExtended2018Reco_cff.py", 
-            "Configuration/Geometry/python/GeometryExtended2018DDD_cff.py", 
-            "Geometry/HcalCommonData/python/GeometryExtended2018_cff.py", 
-            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2018DD4hep.xml", 
-            "Geometry/HcalCommonData/data/cmsExtendedGeometry2018.xml", 
-            "Geometry/CMSCommonData/python/cmsExtendedGeometry2018DDDXML_cfi.py", 
-            "Geometry/HcalCommonData/python/cmsExtendedGeometry2018XML_cfi.py", 
-            "Geometry/HcalCommonData/test/python/TTbar_13TeV_TuneCUETP8M1_cfi_GEN_SIM_10824.0.py", 
-            "Geometry/HcalCommonData/test/python/TTbar_13TeV_TuneCUETP8M1_cfi_GEN_SIM_10824.911.py", 
-            "Geometry/HcalCommonData/test/python/step2_DIGI_L1_DIGI2RAW_HLT_10824.0.py", 
-            "Geometry/HcalCommonData/test/python/step2_DIGI_L1_DIGI2RAW_HLT_10824.911.py", 
-            "Geometry/HcalCommonData/test/python/step3_RAW2DIGI_L1Reco_RECO_RECOSIM_PAT_VALIDATION_DQM_10824.0.py", 
-            "Geometry/HcalCommonData/test/python/step3_RAW2DIGI_L1Reco_RECO_RECOSIM_PAT_VALIDATION_DQM_10824.911.py"
-        ], 
-        "created_at": 1650942048, 
-        "number": 37676, 
-        "state": "open", 
-        "updated_at": 1650956513
-    }, 
     "37678": {
         "base_branch": "CMSSW_12_3_X", 
         "changed_files_names": [
