@@ -2158,5 +2158,18 @@
         "number": 37720, 
         "state": "open", 
         "updated_at": 1651103529
+    }, 
+    "37721": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimCalorimetry/HcalSimProducers/interface/HcalDigitizer.h", 
+            "SimCalorimetry/HcalSimProducers/plugins/HcalDigiAnalyzer.cc", 
+            "SimCalorimetry/HcalSimProducers/plugins/HcalHitAnalyzer.cc", 
+            "SimCalorimetry/HcalSimProducers/src/HcalDigitizer.cc"
+        ], 
+        "created_at": 1651110231, 
+        "number": 37721, 
+        "state": "open", 
+        "updated_at": 1651110263
     }
 }
