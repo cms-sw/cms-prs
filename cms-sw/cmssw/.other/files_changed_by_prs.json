@@ -2177,5 +2177,21 @@
         "number": 37729, 
         "state": "open", 
         "updated_at": 1651156765
+    }, 
+    "37731": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Framework/interface/ModuleRegistry.h", 
+            "FWCore/Framework/interface/ModuleTypeResolverBase.h", 
+            "FWCore/Framework/src/Factory.cc", 
+            "FWCore/Framework/src/Factory.h", 
+            "FWCore/Framework/src/ModuleRegistry.cc", 
+            "FWCore/Framework/test/BuildFile.xml", 
+            "FWCore/Framework/test/test_catch2_Factory.cc"
+        ], 
+        "created_at": 1651170919, 
+        "number": 37731, 
+        "state": "open", 
+        "updated_at": 1651170942
     }
 }
