@@ -2131,5 +2131,39 @@
         "number": 37725, 
         "state": "open", 
         "updated_at": 1651137480
+    }, 
+    "37726": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "EventFilter/L1GlobalTriggerRawToDigi/test/L1GtEvmPacker_cfg.py", 
+            "EventFilter/L1GlobalTriggerRawToDigi/test/L1GtEvmUnpacker_cfg.py", 
+            "EventFilter/L1GlobalTriggerRawToDigi/test/L1GtPacker_cfg.py", 
+            "EventFilter/L1GlobalTriggerRawToDigi/test/L1GtRecord_cfg.py", 
+            "EventFilter/L1GlobalTriggerRawToDigi/test/L1GtTriggerMenuLite_cfg.py", 
+            "EventFilter/L1GlobalTriggerRawToDigi/test/L1GtUnpacker_cfg.py", 
+            "L1Trigger/CSCTrackFinder/test/csctfAnaData_cfg.py", 
+            "L1Trigger/CSCTrackFinder/test/csctfEfficiencySim_cfg.py", 
+            "L1Trigger/CSCTrackFinder/test/makeLUTs.py", 
+            "L1Trigger/DTTrigger/test/PrimitivesProdFromDB_cfg.py", 
+            "L1Trigger/DTTrigger/test/PrimitivesProd_cfg.py", 
+            "L1Trigger/DTTrigger/test/PrimitivesTest_cfg.py", 
+            "L1Trigger/GlobalCaloTrigger/test/gctValidationTest_cfg.py", 
+            "L1Trigger/GlobalCaloTrigger/test/writeGctDigis_cfg.py", 
+            "L1Trigger/GlobalTriggerAnalyzer/test/L1GtBeamModeFilter_cfg.py", 
+            "L1Trigger/GlobalTriggerAnalyzer/test/L1GtDataEmulAnalyzer_cfg.py", 
+            "L1Trigger/GlobalTriggerAnalyzer/test/L1GtDataFromRawEmulAnalyzer_cfg.py", 
+            "L1Trigger/GlobalTriggerAnalyzer/test/L1GtPackUnpackAnalyzer_cfg.py", 
+            "L1Trigger/GlobalTriggerAnalyzer/test/L1GtTechTrigL1GtEmulTrigReport_cfg.py", 
+            "L1Trigger/HardwareValidation/test/testL1HardwareValidation_cfg.py", 
+            "L1Trigger/RPCTechnicalTrigger/test/rpcTechnicalTriggerCosmics_cfg.py", 
+            "L1Trigger/RPCTechnicalTrigger/test/rpcTechnicalTriggerData_cfg.py", 
+            "L1Trigger/RPCTechnicalTrigger/test/rpcTechnicalTrigger_cfg.py", 
+            "L1Trigger/RegionalCaloTrigger/test/testRCTEmulator.py", 
+            "L1Trigger/RegionalCaloTrigger/test/testTPGManipulation_cfg.py"
+        ], 
+        "created_at": 1651144727, 
+        "number": 37726, 
+        "state": "open", 
+        "updated_at": 1651144750
     }
 }
