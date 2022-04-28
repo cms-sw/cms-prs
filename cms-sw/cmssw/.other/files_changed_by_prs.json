@@ -2193,5 +2193,20 @@
         "number": 37731, 
         "state": "open", 
         "updated_at": 1651170942
+    }, 
+    "37732": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/CSCMonitorModule/data/emuDQMBooking.xml", 
+            "DQM/CSCMonitorModule/plugins/CSCDQM_EventProcessor_processCSC.cc", 
+            "DQM/CSCMonitorModule/plugins/CSCDQM_HistoNames.icc", 
+            "DQM/CSCMonitorModule/plugins/CSCDQM_StripClusterFinder.cc", 
+            "DQM/CSCMonitorModule/plugins/CSCDQM_StripClusterFinder.h", 
+            "DQM/CSCMonitorModule/python/csc_dqm_sourceclient_offline_cfi.py"
+        ], 
+        "created_at": 1651181953, 
+        "number": 37732, 
+        "state": "open", 
+        "updated_at": 1651181974
     }
 }
