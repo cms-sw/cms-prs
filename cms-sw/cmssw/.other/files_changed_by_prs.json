@@ -2191,6 +2191,8 @@
     "37729": {
         "base_branch": "master", 
         "changed_files_names": [
+            "L1Trigger/L1THGCalUtilities/plugins/BuildFile.xml", 
+            "L1Trigger/L1THGCalUtilities/test/BuildFile.xml", 
             "L1Trigger/L1THGCalUtilities/test/ntuples/HGCalTriggerNtupleEvent.cc", 
             "L1Trigger/L1THGCalUtilities/plugins/ntuples/HGCalTriggerNtupleEvent.cc", 
             "L1Trigger/L1THGCalUtilities/test/ntuples/HGCalTriggerNtupleGen.cc", 
@@ -2219,6 +2221,6 @@
         "created_at": 1651155575, 
         "number": 37729, 
         "state": "open", 
-        "updated_at": 1651155599
+        "updated_at": 1651156765
     }
 }
