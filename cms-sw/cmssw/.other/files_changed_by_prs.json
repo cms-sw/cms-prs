@@ -1517,11 +1517,14 @@
             "CUDADataFormats/TrackingRecHit/src/TrackingRecHit2DHeterogeneous.cc", 
             "Configuration/ProcessModifiers/python/gpuValidationPixel_cff.py", 
             "Configuration/ProcessModifiers/python/gpuValidation_cff.py", 
-            "Configuration/PyReleaseValidation/python/relval_2017.py", 
-            "Configuration/PyReleaseValidation/python/relval_2026.py", 
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
+            "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1CompareTrackSoA.cc", 
+            "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1CompareVertexSoA.cc", 
             "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1MonitorRecHitsSoA.cc", 
             "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1MonitorTrackSoA.cc", 
+            "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1MonitorVertexSoA.cc", 
+            "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1TrackComparisonHarvester.cc", 
+            "DQM/SiPixelPhase1Heterogeneous/python/SiPixelPhase1HeterogenousDQMHarvesting_cff.py", 
             "DQM/SiPixelPhase1Heterogeneous/python/SiPixelPhase1HeterogenousDQM_FirstStep_cff.py", 
             "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitSoAFromCUDA.cc", 
             "RecoLocalTracker/SiPixelRecHits/python/SiPixelRecHits_cfi.py", 
@@ -1531,7 +1534,7 @@
         "created_at": 1650356226, 
         "number": 37617, 
         "state": "open", 
-        "updated_at": 1650876265
+        "updated_at": 1651220278
     }, 
     "37624": {
         "base_branch": "master", 
