@@ -2205,5 +2205,24 @@
         "number": 37736, 
         "state": "open", 
         "updated_at": 1651217960
+    }, 
+    "37737": {
+        "base_branch": "CMSSW_12_3_X", 
+        "changed_files_names": [
+            "Configuration/ProcessModifiers/python/gpuValidationPixel_cff.py", 
+            "Configuration/ProcessModifiers/python/gpuValidation_cff.py", 
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
+            "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1CompareTrackSoA.cc", 
+            "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1CompareVertexSoA.cc", 
+            "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1MonitorTrackSoA.cc", 
+            "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1MonitorVertexSoA.cc", 
+            "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1TrackComparisonHarvester.cc", 
+            "DQM/SiPixelPhase1Heterogeneous/python/SiPixelPhase1HeterogenousDQMHarvesting_cff.py", 
+            "DQM/SiPixelPhase1Heterogeneous/python/SiPixelPhase1HeterogenousDQM_FirstStep_cff.py"
+        ], 
+        "created_at": 1651218343, 
+        "number": 37737, 
+        "state": "open", 
+        "updated_at": 1651218366
     }
 }
