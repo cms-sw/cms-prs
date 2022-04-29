@@ -2105,5 +2105,24 @@
         "number": 37746, 
         "state": "open", 
         "updated_at": 1651252995
+    }, 
+    "37747": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQMServices/Components/plugins/DQMEventInfo.cc", 
+            "DQMServices/Components/plugins/DQMLumiMonitor.cc", 
+            "DQMServices/Components/plugins/DQMLumiMonitor.h", 
+            "DQMServices/Components/plugins/DQMMessageLogger.cc", 
+            "DQMServices/Components/plugins/DQMMessageLogger.h", 
+            "DQMServices/Components/plugins/DQMScalInfo.cc", 
+            "DQMServices/Components/plugins/DQMScalInfo.h", 
+            "DQMServices/Components/plugins/DQMStoreStats.cc", 
+            "DQMServices/Components/plugins/DQMStoreStats.h", 
+            "DQMServices/Components/plugins/SealModule.cc"
+        ], 
+        "created_at": 1651260321, 
+        "number": 37747, 
+        "state": "open", 
+        "updated_at": 1651260345
     }
 }
