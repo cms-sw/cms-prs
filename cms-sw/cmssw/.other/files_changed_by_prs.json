@@ -1681,7 +1681,9 @@
             "DQMServices/Core/src/DQMNet.cc", 
             "DQMServices/Core/src/LegacyIOHelper.cc", 
             "DQMServices/Core/src/MonitorElement.cc", 
+            "DQMServices/Demo/test/TestDQMEDAnalyzer.cc", 
             "DQMServices/Demo/test/dqmiodumpentries.py", 
+            "DQMServices/Demo/test/runtests.sh", 
             "DQMServices/FwkIO/plugins/DQMRootOutputModule.cc", 
             "DQMServices/FwkIO/plugins/DQMRootSource.cc", 
             "DQMServices/FwkIO/plugins/format.h", 
@@ -1692,7 +1694,7 @@
         "created_at": 1650711135, 
         "number": 37665, 
         "state": "open", 
-        "updated_at": 1651135136
+        "updated_at": 1651213640
     }, 
     "37669": {
         "base_branch": "master", 
