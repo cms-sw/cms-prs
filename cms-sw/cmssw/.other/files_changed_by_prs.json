@@ -1515,9 +1515,6 @@
         "changed_files_names": [
             "CUDADataFormats/TrackingRecHit/interface/TrackingRecHit2DHeterogeneous.h", 
             "CUDADataFormats/TrackingRecHit/src/TrackingRecHit2DHeterogeneous.cc", 
-            "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1MonitorRecHitsSoA.cc", 
-            "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1MonitorTrackSoA.cc", 
-            "DQM/SiPixelPhase1Heterogeneous/python/SiPixelPhase1HeterogenousDQM_FirstStep_cff.py", 
             "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitSoAFromCUDA.cc", 
             "RecoLocalTracker/SiPixelRecHits/python/SiPixelRecHits_cfi.py", 
             "RecoPixelVertexing/Configuration/python/RecoPixelVertexing_cff.py", 
@@ -1526,7 +1523,7 @@
         "created_at": 1650356226, 
         "number": 37617, 
         "state": "open", 
-        "updated_at": 1651220494
+        "updated_at": 1651221044
     }, 
     "37624": {
         "base_branch": "master", 
