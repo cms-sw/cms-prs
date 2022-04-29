@@ -1565,6 +1565,7 @@
             "DataFormats/Scouting/interface/Run3ScoutingParticle.h", 
             "DataFormats/Scouting/interface/Run3ScoutingPhoton.h", 
             "DataFormats/Scouting/src/classes_def.xml", 
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
             "HLTrigger/Egamma/plugins/HLTScoutingEgammaProducer.cc", 
             "HLTrigger/Egamma/plugins/HLTScoutingEgammaProducer.h", 
             "HLTrigger/JetMET/plugins/HLTScoutingPFProducer.cc"
@@ -1572,7 +1573,7 @@
         "created_at": 1650545249, 
         "number": 37646, 
         "state": "open", 
-        "updated_at": 1650627753
+        "updated_at": 1651234636
     }, 
     "37648": {
         "base_branch": "master", 
