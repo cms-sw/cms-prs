@@ -2033,6 +2033,7 @@
             "HLTrigger/Configuration/python/HLT_75e33/modules/particleFlowSuperClusterHGCalFromTICLL1Seeded_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/particleFlowSuperClusterHGCalFromTICLUnseeded_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/particleFlowSuperClusterHGCal_cfi.py", 
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
             "RecoEcal/EgammaClusterProducers/python/particleFlowSuperClusterECALBox_cfi.py", 
             "RecoEcal/EgammaClusterProducers/python/particleFlowSuperClusteringSequence_cff.py", 
             "RecoEcal/EgammaClusterProducers/src/PFECALSuperClusterProducer.cc"
@@ -2040,7 +2041,7 @@
         "created_at": 1651361549, 
         "number": 37756, 
         "state": "open", 
-        "updated_at": 1651361567
+        "updated_at": 1651491712
     }, 
     "37757": {
         "base_branch": "master", 
