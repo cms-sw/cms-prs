@@ -2057,5 +2057,18 @@
         "number": 37791, 
         "state": "open", 
         "updated_at": 1651614045
+    }, 
+    "37792": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "GeneratorInterface/GenFilters/plugins/PythiaFilterMultiAncestor.cc", 
+            "GeneratorInterface/Herwig6Interface/plugins/Herwig6Filter.cc", 
+            "GeneratorInterface/TauolaInterface/interface/TauSpinnerFilter.h", 
+            "GeneratorInterface/TauolaInterface/plugins/TauSpinner/TauSpinnerFilter.cc"
+        ], 
+        "created_at": 1651622934, 
+        "number": 37792, 
+        "state": "open", 
+        "updated_at": 1651622953
     }
 }
