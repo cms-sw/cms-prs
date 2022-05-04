@@ -1581,6 +1581,7 @@
             "CalibTracker/SiStripHitEfficiency/plugins/SiStripHitEfficiencyHarvester.cc", 
             "CalibTracker/SiStripHitEfficiency/plugins/SiStripHitEfficiencyWorker.cc", 
             "CalibTracker/SiStripHitEfficiency/test/testHitEffHarvester.py", 
+            "CalibTracker/SiStripHitEfficiency/test/testHitEffWorker.py", 
             "Calibration/TkAlCaRecoProducers/python/ALCARECOPromptCalibProdSiStripHitEfficiency_Output_cff.py", 
             "Calibration/TkAlCaRecoProducers/python/ALCARECOPromptCalibProdSiStripHitEfficiency_cff.py", 
             "Calibration/TkAlCaRecoProducers/python/AlcaSiStripHitEfficiencyHarvester_cff.py", 
@@ -1597,7 +1598,7 @@
         "created_at": 1651061599, 
         "number": 37708, 
         "state": "open", 
-        "updated_at": 1651487912
+        "updated_at": 1651650954
     }, 
     "37716": {
         "base_branch": "master", 
