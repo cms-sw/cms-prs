@@ -2096,5 +2096,31 @@
         "number": 37819, 
         "state": "open", 
         "updated_at": 1651752571
+    }, 
+    "37823": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimDataFormats/TrackerDigiSimLink/BuildFile.xml", 
+            "SimDataFormats/TrackerDigiSimLink/interface/PixelSimHitExtraInfo.h", 
+            "SimDataFormats/TrackerDigiSimLink/src/classes.h", 
+            "SimDataFormats/TrackerDigiSimLink/src/classes_def.xml", 
+            "SimGeneral/MixingModule/python/SiPixelSimParameters_cfi.py", 
+            "SimGeneral/MixingModule/python/aliases_cfi.py", 
+            "SimGeneral/MixingModule/python/pixelDigitizer_cfi.py", 
+            "SimGeneral/PreMixingModule/python/mixOne_premix_on_sim_cfi.py", 
+            "SimTracker/Common/interface/SimHitInfoForLinks.h", 
+            "SimTracker/SiPixelDigitizer/plugins/PixelDigiAddTempInfo.h", 
+            "SimTracker/SiPixelDigitizer/plugins/PreMixingSiPixelWorker.cc", 
+            "SimTracker/SiPixelDigitizer/plugins/SiPixelChargeReweightingAlgorithm.cc", 
+            "SimTracker/SiPixelDigitizer/plugins/SiPixelChargeReweightingAlgorithm.h", 
+            "SimTracker/SiPixelDigitizer/plugins/SiPixelDigitizer.cc", 
+            "SimTracker/SiPixelDigitizer/plugins/SiPixelDigitizer.h", 
+            "SimTracker/SiPixelDigitizer/plugins/SiPixelDigitizerAlgorithm.cc", 
+            "SimTracker/SiPixelDigitizer/plugins/SiPixelDigitizerAlgorithm.h"
+        ], 
+        "created_at": 1651759462, 
+        "number": 37823, 
+        "state": "open", 
+        "updated_at": 1651759488
     }
 }
