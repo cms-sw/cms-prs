@@ -2209,5 +2209,23 @@
         "number": 37830, 
         "state": "open", 
         "updated_at": 1651771920
+    }, 
+    "37831": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Framework/src/ScheduleItems.cc", 
+            "FWCore/Services/plugins/CPU.cc", 
+            "FWCore/Services/plugins/ResourceInformationService.cc", 
+            "FWCore/Services/test/BuildFile.xml", 
+            "FWCore/Services/test/test_resourceInformationService.sh", 
+            "FWCore/Services/test/test_resourceInformationService_cfg.py", 
+            "FWCore/Utilities/interface/ResourceInformation.h", 
+            "FWCore/Utilities/src/ResourceInformation.cc", 
+            "HeterogeneousCore/CUDAServices/src/CUDAService.cc"
+        ], 
+        "created_at": 1651780468, 
+        "number": 37831, 
+        "state": "open", 
+        "updated_at": 1651780489
     }
 }
