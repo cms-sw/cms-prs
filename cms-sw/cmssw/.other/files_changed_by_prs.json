@@ -2222,5 +2222,20 @@
         "number": 37840, 
         "state": "open", 
         "updated_at": 1651840147
+    }, 
+    "37842": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Validation/MtdValidation/plugins/MtdTracksHarvester.cc", 
+            "Validation/MtdValidation/plugins/MtdTracksValidation.cc", 
+            "Validation/MtdValidation/plugins/Primary4DVertexHarvester.cc", 
+            "Validation/MtdValidation/plugins/Primary4DVertexValidation.cc", 
+            "Validation/MtdValidation/test/mtdHarvesting_cfg.py", 
+            "Validation/MtdValidation/test/mtdValidation_cfg.py"
+        ], 
+        "created_at": 1651842311, 
+        "number": 37842, 
+        "state": "open", 
+        "updated_at": 1651842332
     }
 }
