@@ -1459,9 +1459,7 @@
             "HeterogeneousCore/AlpakaInterface/BuildFile.xml", 
             "HeterogeneousCore/AlpakaInterface/README.md", 
             "HeterogeneousCore/AlpakaInterface/interface/alpaka/config.h", 
-            "HeterogeneousCore/AlpakaInterface/interface/alpaka/device.h", 
             "HeterogeneousCore/AlpakaInterface/interface/alpaka/host.h", 
-            "HeterogeneousCore/AlpakaInterface/interface/alpaka/queue.h", 
             "HeterogeneousCore/AlpakaServices/interface/alpaka/AlpakaService.h", 
             "HeterogeneousCore/AlpakaServices/plugins/alpaka/plugins.cc", 
             "HeterogeneousCore/AlpakaServices/src/alpaka/AlpakaService.cc", 
@@ -1498,7 +1496,7 @@
         "created_at": 1651088372, 
         "number": 37716, 
         "state": "open", 
-        "updated_at": 1652110028
+        "updated_at": 1652124661
     }, 
     "37718": {
         "base_branch": "CMSSW_10_6_X", 
