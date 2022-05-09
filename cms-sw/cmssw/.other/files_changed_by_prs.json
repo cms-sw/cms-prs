@@ -1633,6 +1633,8 @@
             "PhysicsTools/PatAlgos/python/slimming/slimmedDisplacedMuons_cfi.py", 
             "PhysicsTools/PatAlgos/python/slimming/slimmedTrackExtras_cff.py", 
             "PhysicsTools/PatAlgos/python/slimming/slimming_cff.py", 
+            "PhysicsTools/PatAlgos/test/IntegrationTest_cfg.py", 
+            "PhysicsTools/PatAlgos/test/patTuple_addTriggerInfo_cfg.py", 
             "RecoMuon/Configuration/python/RecoMuonPPonly_cff.py", 
             "RecoMuon/Configuration/python/RecoMuon_EventContent_cff.py", 
             "RecoMuon/Configuration/python/RecoMuon_cff.py", 
@@ -1649,7 +1651,7 @@
         "created_at": 1651680859, 
         "number": 37805, 
         "state": "open", 
-        "updated_at": 1652028136
+        "updated_at": 1652094597
     }, 
     "37806": {
         "base_branch": "master", 
