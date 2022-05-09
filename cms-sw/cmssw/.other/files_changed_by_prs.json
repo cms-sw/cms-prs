@@ -2281,23 +2281,5 @@
         "number": 37853, 
         "state": "open", 
         "updated_at": 1651903487
-    }, 
-    "37855": {
-        "base_branch": "CMSSW_12_3_X", 
-        "changed_files_names": [
-            "CondCore/GEMPlugins/src/plugins.cc", 
-            "CondFormats/DataRecord/interface/GEMChMapRcd.h", 
-            "CondFormats/DataRecord/src/GEMChMapRcd.cc", 
-            "CondFormats/GEMObjects/interface/GEMChMap.h", 
-            "CondFormats/GEMObjects/src/GEMChMap.cc", 
-            "CondFormats/GEMObjects/src/T_EventSetup_GEMChMap.cc", 
-            "CondFormats/GEMObjects/src/classes_def.xml", 
-            "CondFormats/GEMObjects/src/headers.h", 
-            "CondFormats/GEMObjects/test/test_serialization.cpp"
-        ], 
-        "created_at": 1652008066, 
-        "number": 37855, 
-        "state": "open", 
-        "updated_at": 1652008094
     }
 }
