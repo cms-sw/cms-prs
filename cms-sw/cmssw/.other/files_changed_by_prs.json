@@ -2242,11 +2242,15 @@
     "37895": {
         "base_branch": "master", 
         "changed_files_names": [
-            "DetectorDescription/DDCMS/plugins/dd4hep/DDDefinitions2Objects.cc"
+            "DetectorDescription/DDCMS/interface/DDDetector.h", 
+            "DetectorDescription/DDCMS/interface/DDParsingContext.h", 
+            "DetectorDescription/DDCMS/plugins/dd4hep/DDDefinitions2Objects.cc", 
+            "DetectorDescription/DDCMS/src/DDDetector.cc", 
+            "MagneticField/GeomBuilder/plugins/dd4hep/DD4hep_VolumeBasedMagneticFieldESProducerFromDB.cc"
         ], 
         "created_at": 1652192020, 
         "number": 37895, 
         "state": "open", 
-        "updated_at": 1652192042
+        "updated_at": 1652203683
     }
 }
