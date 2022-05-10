@@ -2161,7 +2161,6 @@
             "CUDADataFormats/Common/interface/HostProduct.h", 
             "CUDADataFormats/SiPixelDigi/interface/SiPixelDigiErrorsCUDA.h", 
             "CUDADataFormats/SiPixelDigi/interface/SiPixelDigisCUDA.h", 
-            "CUDADataFormats/SiPixelDigi/interface/SiPixelDigisCUDAImpl.h", 
             "CUDADataFormats/SiPixelDigi/interface/SiPixelDigisCUDASOAView.h", 
             "CUDADataFormats/SiPixelDigi/src/SiPixelDigiErrorsCUDA.cc", 
             "CUDADataFormats/SiPixelDigi/src/SiPixelDigisCUDA.cc", 
@@ -2170,7 +2169,6 @@
             "CUDADataFormats/Track/src/classes.h", 
             "CUDADataFormats/Track/src/classes_def.xml", 
             "CUDADataFormats/TrackingRecHit/interface/TrackingRecHit2DHeterogeneous.h", 
-            "CUDADataFormats/TrackingRecHit/interface/TrackingRecHit2DHeterogeneousImpl.h", 
             "CUDADataFormats/TrackingRecHit/interface/TrackingRecHit2DReduced.h", 
             "CUDADataFormats/TrackingRecHit/interface/TrackingRecHit2DSOAView.h", 
             "CUDADataFormats/TrackingRecHit/src/TrackingRecHit2DHeterogeneous.cc", 
@@ -2209,7 +2207,7 @@
         "created_at": 1652175312, 
         "number": 37887, 
         "state": "open", 
-        "updated_at": 1652177392
+        "updated_at": 1652186375
     }, 
     "37889": {
         "base_branch": "master", 
