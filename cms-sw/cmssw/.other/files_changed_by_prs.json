@@ -2161,14 +2161,20 @@
     "37876": {
         "base_branch": "master", 
         "changed_files_names": [
+            "CondCore/Utilities/interface/PayloadInspectorModule.h", 
+            "FWCore/PluginManager/interface/PluginFactory.h", 
             "FWCore/ServiceRegistry/interface/ServiceMaker.h", 
+            "FWCore/ServiceRegistry/test/stubs/Modules.cc", 
             "FWCore/Utilities/interface/CMSUnrollLoop.h", 
-            "FWCore/Utilities/interface/stringize.h"
+            "FWCore/Utilities/interface/concatenate.h", 
+            "FWCore/Utilities/interface/stringize.h", 
+            "Fireworks/Core/interface/register_dataproxybuilder_macro.h", 
+            "Fireworks/Core/interface/register_itemaccessorbase_macro.h"
         ], 
         "created_at": 1652128611, 
         "number": 37876, 
         "state": "open", 
-        "updated_at": 1652128686
+        "updated_at": 1652157930
     }, 
     "37877": {
         "base_branch": "CMSSW_12_3_X", 
