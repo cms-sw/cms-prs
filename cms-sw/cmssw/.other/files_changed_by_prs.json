@@ -2245,6 +2245,7 @@
         "changed_files_names": [
             "DetectorDescription/DDCMS/interface/DDDetector.h", 
             "DetectorDescription/DDCMS/interface/DDParsingContext.h", 
+            "DetectorDescription/DDCMS/plugins/DDDetectorESProducer.cc", 
             "DetectorDescription/DDCMS/plugins/dd4hep/DDDefinitions2Objects.cc", 
             "DetectorDescription/DDCMS/src/DDDetector.cc", 
             "MagneticField/GeomBuilder/plugins/dd4hep/DD4hep_VolumeBasedMagneticFieldESProducerFromDB.cc"
@@ -2252,7 +2253,7 @@
         "created_at": 1652192020, 
         "number": 37895, 
         "state": "open", 
-        "updated_at": 1652203683
+        "updated_at": 1652206094
     }, 
     "37896": {
         "base_branch": "master", 
