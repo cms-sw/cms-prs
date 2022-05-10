@@ -2252,5 +2252,21 @@
         "number": 37895, 
         "state": "open", 
         "updated_at": 1652203683
+    }, 
+    "37896": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "HeterogeneousCore/SonicTriton/README.md", 
+            "HeterogeneousCore/SonicTriton/interface/TritonEDFilter.h", 
+            "HeterogeneousCore/SonicTriton/interface/TritonEDProducer.h", 
+            "HeterogeneousCore/SonicTriton/interface/TritonOneEDAnalyzer.h", 
+            "HeterogeneousCore/SonicTriton/interface/TritonService.h", 
+            "HeterogeneousCore/SonicTriton/src/TritonService.cc", 
+            "HeterogeneousCore/SonicTriton/test/unittest.sh"
+        ], 
+        "created_at": 1652204723, 
+        "number": 37896, 
+        "state": "open", 
+        "updated_at": 1652204744
     }
 }
