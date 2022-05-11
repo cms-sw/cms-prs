@@ -2176,43 +2176,5 @@
         "number": 37903, 
         "state": "open", 
         "updated_at": 1652265929
-    }, 
-    "37904": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalEEV17-algorithm.xml", 
-            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalHEsilV17-algorithm.xml", 
-            "Geometry/HGCalCommonData/data/hgcalCons/v17/hgcalCons.xml", 
-            "Geometry/HGCalCommonData/data/hgcalConsData/v17/hgcalConsData.xml", 
-            "Geometry/HGCalCommonData/data/hgcalEE/v17/hgcalEE.xml", 
-            "Geometry/HGCalCommonData/data/hgcalHEmix/v17/hgcalHEmix.xml", 
-            "Geometry/HGCalCommonData/data/hgcalHEsil/v17/hgcalHEsil.xml", 
-            "Geometry/HGCalCommonData/data/hgcalcell/v17/hgcalcell.xml", 
-            "Geometry/HGCalCommonData/data/hgcalwafer/v17/hgcalwafer.xml", 
-            "Geometry/HGCalCommonData/data/hgcalwafer/v17f/hgcalwafer.xml", 
-            "Geometry/HGCalCommonData/interface/HGCalGeomParameters.h", 
-            "Geometry/HGCalCommonData/interface/HGCalParameters.h", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalMixRotatedLayer.cc", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalSiliconRotatedModule.cc", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalWaferFullRotated.cc", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalWaferPartialRotated.cc", 
-            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalSiliconRotatedModule.cc", 
-            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalWaferFullRotated.cc", 
-            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalWaferPartialRotated.cc", 
-            "Geometry/HGCalCommonData/python/testHGCalHEmixV17XML_cfi.py", 
-            "Geometry/HGCalCommonData/python/testHGCalHEsilV17XML_cfi.py", 
-            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc", 
-            "Geometry/HGCalCommonData/src/HGCalGeomParameters.cc", 
-            "Geometry/HGCalCommonData/src/HGCalParametersFromDD.cc", 
-            "Geometry/HGCalCommonData/test/HGCalConvert.cpp", 
-            "Geometry/HGCalCommonData/test/python/dumpHGCalEEV17DD4hep_cfg.py", 
-            "Geometry/HGCalCommonData/test/python/dumpHGCalHEmixV17DDD_cfg.py", 
-            "Geometry/HGCalCommonData/test/python/dumpHGCalHEsilV17DD4hep_cfg.py", 
-            "Geometry/HGCalCommonData/test/python/dumpHGCalHEsilV17DDD_cfg.py"
-        ], 
-        "created_at": 1652266668, 
-        "number": 37904, 
-        "state": "open", 
-        "updated_at": 1652266691
     }
 }
