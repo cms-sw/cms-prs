@@ -2184,5 +2184,18 @@
         "number": 37905, 
         "state": "open", 
         "updated_at": 1652269413
+    }, 
+    "37907": {
+        "base_branch": "CMSSW_11_2_X", 
+        "changed_files_names": [
+            "CommonTools/ParticleFlow/python/pfEGammaToCandidateRemapper_cfi.py", 
+            "PhysicsTools/PatAlgos/python/slimming/slimming_cff.py", 
+            "RecoEgamma/EgammaPhotonProducers/python/reducedEgamma_cfi.py", 
+            "RecoHI/HiJetAlgos/plugins/HiBadParticleCleaner.cc"
+        ], 
+        "created_at": 1652272184, 
+        "number": 37907, 
+        "state": "open", 
+        "updated_at": 1652272209
     }
 }
