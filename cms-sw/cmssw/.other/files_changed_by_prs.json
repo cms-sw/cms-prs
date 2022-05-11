@@ -2218,5 +2218,18 @@
         "number": 37897, 
         "state": "open", 
         "updated_at": 1652230994
+    }, 
+    "37898": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/hgcalHEmix/v17/hgcalHEmix.xml", 
+            "Geometry/HGCalCommonData/plugins/DDHGCalMixRotatedLayer.cc", 
+            "Geometry/HGCalCommonData/python/testHGCalHEmixV17XML_cfi.py", 
+            "Geometry/HGCalCommonData/test/python/dumpHGCalHEmixV17DDD_cfg.py"
+        ], 
+        "created_at": 1652233149, 
+        "number": 37898, 
+        "state": "open", 
+        "updated_at": 1652233174
     }
 }
