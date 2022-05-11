@@ -1433,7 +1433,8 @@
             "HeterogeneousCore/AlpakaServicesSerialSync/plugins/plugins.cc", 
             "HeterogeneousCore/AlpakaServicesSerialSync/src/AlpakaService.cc", 
             "HeterogeneousCore/AlpakaServicesSerialSync/src/alpaka", 
-            "HeterogeneousCore/AlpakaTest/plugins/alpaka/XyzIdAlpakaAnalyzer.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/BuildFile.xml", 
+            "HeterogeneousCore/AlpakaTest/plugins/XyzIdAlpakaAnalyzer.cc", 
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/XyzIdAlpakaProducer.cc", 
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/XyzIdAlpakaTranscriber.cc", 
             "HeterogeneousCore/AlpakaTest/test/reader.py", 
@@ -1445,14 +1446,13 @@
             "HeterogeneousCore/AlpakaTestCudaAsync/plugins/alpaka", 
             "HeterogeneousCore/AlpakaTestSerialSync/README.md", 
             "HeterogeneousCore/AlpakaTestSerialSync/plugins/BuildFile.xml", 
-            "HeterogeneousCore/AlpakaTestSerialSync/plugins/XyzIdAnalyzer.cc", 
             "HeterogeneousCore/AlpakaTestSerialSync/plugins/XyzIdProducer.cc", 
             "HeterogeneousCore/AlpakaTestSerialSync/plugins/alpaka"
         ], 
         "created_at": 1651088372, 
         "number": 37716, 
         "state": "open", 
-        "updated_at": 1652242076
+        "updated_at": 1652242791
     }, 
     "37718": {
         "base_branch": "CMSSW_10_6_X", 
