@@ -2222,5 +2222,21 @@
         "number": 37908, 
         "state": "open", 
         "updated_at": 1652273328
+    }, 
+    "37909": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Validation/RecoEgamma/plugins/ElectronMcSignalPostValidator.cc", 
+            "Validation/RecoEgamma/plugins/ElectronMcSignalValidator.cc", 
+            "Validation/RecoEgamma/plugins/ElectronMcSignalValidator.h", 
+            "Validation/RecoEgamma/python/ElectronMcSignalValidator_gedGsfElectrons_cfi.py", 
+            "Validation/RecoEgamma/test/ElectronMcSignalPostValidation_cfg.py", 
+            "Validation/RecoEgamma/test/ElectronMcSignalValidation_gedGsfElectrons_cfg.py", 
+            "Validation/RecoEgamma/test/electronValidationCheck_Env.py"
+        ], 
+        "created_at": 1652276578, 
+        "number": 37909, 
+        "state": "open", 
+        "updated_at": 1652276598
     }
 }
