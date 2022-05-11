@@ -1385,7 +1385,6 @@
     "37716": {
         "base_branch": "master", 
         "changed_files_names": [
-            "CondCore/Utilities/interface/PayloadInspectorModule.h", 
             "DataFormats/Portable/interface/AlpakaCollection.h", 
             "DataFormats/Portable/interface/AlpakaHostCollection.h", 
             "DataFormats/Portable/interface/alpaka/AlpakaDeviceCollection.h", 
@@ -1406,14 +1405,11 @@
             "DataFormats/XyzIdSerialSync/BuildFile.xml", 
             "DataFormats/XyzIdSerialSync/src/classes_serial.h", 
             "DataFormats/XyzIdSerialSync/src/classes_serial_def.xml", 
-            "FWCore/PluginManager/interface/PluginFactory.h", 
             "FWCore/ServiceRegistry/interface/ServiceMaker.h", 
             "FWCore/ServiceRegistry/test/stubs/Modules.cc", 
             "FWCore/Utilities/interface/CMSUnrollLoop.h", 
             "FWCore/Utilities/interface/concatenate.h", 
             "FWCore/Utilities/interface/stringize.h", 
-            "Fireworks/Core/interface/register_dataproxybuilder_macro.h", 
-            "Fireworks/Core/interface/register_itemaccessorbase_macro.h", 
             "HeterogeneousCore/AlpakaCore/BuildFile.xml", 
             "HeterogeneousCore/AlpakaCore/interface/MakerMacros.h", 
             "HeterogeneousCore/AlpakaInterface/BuildFile.xml", 
@@ -1456,7 +1452,7 @@
         "created_at": 1651088372, 
         "number": 37716, 
         "state": "open", 
-        "updated_at": 1652193520
+        "updated_at": 1652239710
     }, 
     "37718": {
         "base_branch": "CMSSW_10_6_X", 
