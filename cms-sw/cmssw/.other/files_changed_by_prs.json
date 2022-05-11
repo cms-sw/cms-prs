@@ -1385,14 +1385,14 @@
     "37716": {
         "base_branch": "master", 
         "changed_files_names": [
-            "DataFormats/Portable/interface/AlpakaCollection.h", 
-            "DataFormats/Portable/interface/AlpakaHostCollection.h", 
-            "DataFormats/Portable/interface/alpaka/AlpakaDeviceCollection.h", 
+            "DataFormats/Portable/interface/PortableCollection.h", 
+            "DataFormats/Portable/interface/PortableHostCollection.h", 
+            "DataFormats/Portable/interface/alpaka/PortableDeviceCollection.h", 
             "DataFormats/XyzId/BuildFile.xml", 
             "DataFormats/XyzId/README.md", 
-            "DataFormats/XyzId/interface/XyzIdAlpakaHostCollection.h", 
+            "DataFormats/XyzId/interface/XyzIdHostCollection.h", 
             "DataFormats/XyzId/interface/XyzIdSoA.h", 
-            "DataFormats/XyzId/interface/alpaka/XyzIdAlpakaDeviceCollection.h", 
+            "DataFormats/XyzId/interface/alpaka/XyzIdDeviceCollection.h", 
             "DataFormats/XyzId/src/alpaka/classes_cuda.h", 
             "DataFormats/XyzId/src/alpaka/classes_cuda_def.xml", 
             "DataFormats/XyzId/src/alpaka/classes_serial.h", 
@@ -1452,7 +1452,7 @@
         "created_at": 1651088372, 
         "number": 37716, 
         "state": "open", 
-        "updated_at": 1652239710
+        "updated_at": 1652242076
     }, 
     "37718": {
         "base_branch": "CMSSW_10_6_X", 
