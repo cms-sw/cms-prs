@@ -2359,12 +2359,13 @@
         "changed_files_names": [
             "FWCore/Utilities/interface/FileInPath.h", 
             "FWCore/Utilities/src/FileInPath.cc", 
-            "MagneticField/GeomBuilder/src/DD4hep_MagGeoBuilder.cc"
+            "MagneticField/GeomBuilder/src/DD4hep_MagGeoBuilder.cc", 
+            "MagneticField/GeomBuilder/src/DD4hep_MagGeoBuilder.h"
         ], 
         "created_at": 1652371855, 
         "number": 37934, 
         "state": "open", 
-        "updated_at": 1652371880
+        "updated_at": 1652376263
     }, 
     "37935": {
         "base_branch": "CMSSW_12_3_X", 
