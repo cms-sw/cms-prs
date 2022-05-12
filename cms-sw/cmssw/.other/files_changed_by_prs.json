@@ -2382,5 +2382,18 @@
         "number": 37928, 
         "state": "open", 
         "updated_at": 1652357644
+    }, 
+    "37929": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalHEmixV17-algorithm.xml", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalMixRotatedLayer.cc", 
+            "Geometry/HGCalCommonData/test/python/dumpHGCalHEmixV17DD4hep_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/g4OverlapCheckLayer_cfg.py"
+        ], 
+        "created_at": 1652361670, 
+        "number": 37929, 
+        "state": "open", 
+        "updated_at": 1652361695
     }
 }
