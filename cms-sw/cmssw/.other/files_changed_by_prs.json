@@ -1672,6 +1672,7 @@
             "DQMOffline/Trigger/python/BTaggingMonitor_cfi.py", 
             "DQMOffline/Trigger/python/BTaggingMonitoring_Client_cff.py", 
             "DQMOffline/Trigger/python/BTaggingMonitoring_cff.py", 
+            "DQMOffline/Trigger/python/DQMOffline_HLT_Client_cff.py", 
             "DQMOffline/Trigger/python/DQMOffline_Trigger_cff.py", 
             "HLTriggerOffline/Btag/python/HltBtagValidation_cff.py", 
             "HLTriggerOffline/Common/python/HLTValidationHarvest_cff.py", 
@@ -1680,7 +1681,7 @@
         "created_at": 1651794164, 
         "number": 37832, 
         "state": "open", 
-        "updated_at": 1652124278
+        "updated_at": 1652314133
     }, 
     "37833": {
         "base_branch": "master", 
