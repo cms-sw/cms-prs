@@ -2258,5 +2258,23 @@
         "number": 37942, 
         "state": "open", 
         "updated_at": 1652420491
+    }, 
+    "37943": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimMuon/MCTruth/interface/CSCTruthTest.h", 
+            "SimMuon/MCTruth/interface/MuonTruth.h", 
+            "SimMuon/MCTruth/interface/TrackerMuonHitExtractor.h", 
+            "SimMuon/MCTruth/src/CSCTruthTest.cc", 
+            "SimMuon/MCTruth/src/MuonAssociatorByHits.cc", 
+            "SimMuon/MCTruth/src/MuonTruth.cc", 
+            "SimMuon/MCTruth/src/TrackerMuonHitExtractor.cc", 
+            "SimMuon/MCTruth/test/testReader.cc", 
+            "SimMuon/MCTruth/test/testReader.h"
+        ], 
+        "created_at": 1652441838, 
+        "number": 37943, 
+        "state": "open", 
+        "updated_at": 1652441863
     }
 }
