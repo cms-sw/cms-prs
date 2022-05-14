@@ -1461,39 +1461,6 @@
         "state": "open", 
         "updated_at": 1652097888
     }, 
-    "37805": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "PhysicsTools/PatAlgos/plugins/DisplacedMuonFilterProducer.cc", 
-            "PhysicsTools/PatAlgos/python/producersLayer1/displacedMuonProducer_cff.py", 
-            "PhysicsTools/PatAlgos/python/producersLayer1/patCandidates_cff.py", 
-            "PhysicsTools/PatAlgos/python/recoLayer0/filteredDisplacedMuons_cfi.py", 
-            "PhysicsTools/PatAlgos/python/selectionLayer1/displacedMuonSelector_cfi.py", 
-            "PhysicsTools/PatAlgos/python/selectionLayer1/selectedPatCandidates_cff.py", 
-            "PhysicsTools/PatAlgos/python/slimming/MicroEventContent_cff.py", 
-            "PhysicsTools/PatAlgos/python/slimming/slimmedDisplacedMuons_cfi.py", 
-            "PhysicsTools/PatAlgos/python/slimming/slimmedTrackExtras_cff.py", 
-            "PhysicsTools/PatAlgos/python/slimming/slimming_cff.py", 
-            "PhysicsTools/PatAlgos/test/IntegrationTest_cfg.py", 
-            "PhysicsTools/PatAlgos/test/patTuple_addTriggerInfo_cfg.py", 
-            "RecoMuon/Configuration/python/RecoMuonPPonly_cff.py", 
-            "RecoMuon/Configuration/python/RecoMuon_EventContent_cff.py", 
-            "RecoMuon/Configuration/python/RecoMuon_cff.py", 
-            "RecoMuon/MuonIdentification/python/displacedMuonReducedTrackExtras_cfi.py", 
-            "RecoMuon/MuonIdentification/python/displacedMuons_cfi.py", 
-            "RecoMuon/MuonIsolation/python/displacedMuonPFIsolationDeposits_cff.py", 
-            "RecoMuon/MuonIsolation/python/displacedMuonPFIsolationValues_cff.py", 
-            "RecoMuon/MuonIsolation/python/muonPFIsolation_cff.py", 
-            "RecoMuon/MuonIsolationProducers/python/muIsoDepositCopies_cfi.py", 
-            "RecoMuon/MuonIsolationProducers/python/muIsoDeposits_cff.py", 
-            "RecoMuon/MuonIsolationProducers/python/muIsolation_EventContent_cff.py", 
-            "RecoMuon/MuonIsolationProducers/python/muIsolation_cff.py"
-        ], 
-        "created_at": 1651680859, 
-        "number": 37805, 
-        "state": "open", 
-        "updated_at": 1652342935
-    }, 
     "37808": {
         "base_branch": "master", 
         "changed_files_names": [
