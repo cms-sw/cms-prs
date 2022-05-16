@@ -1369,23 +1369,6 @@
         "state": "open", 
         "updated_at": 1652323170
     }, 
-    "37739": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/Configuration/python/customiseReEmul.py", 
-            "L1Trigger/Configuration/python/customiseSettings.py", 
-            "L1Trigger/L1TCalorimeter/python/caloParams_2022_v0_1_cfi.py", 
-            "L1Trigger/L1TMuon/plugins/BuildFile.xml", 
-            "L1Trigger/L1TNtuples/interface/L1AnalysisL1UpgradeTfMuon.h", 
-            "L1Trigger/L1TNtuples/python/L1NtupleEMU_cff.py", 
-            "SimG4Core/Application/python/g4SimHits_cfi.py", 
-            "SimG4Core/Application/src/ParametrisedEMPhysics.cc"
-        ], 
-        "created_at": 1651230883, 
-        "number": 37739, 
-        "state": "open", 
-        "updated_at": 1651393763
-    }, 
     "37744": {
         "base_branch": "master", 
         "changed_files_names": [
