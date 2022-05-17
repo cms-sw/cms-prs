@@ -2408,5 +2408,17 @@
         "number": 37988, 
         "state": "open", 
         "updated_at": 1652797936
+    }, 
+    "37989": {
+        "base_branch": "CMSSW_12_3_X", 
+        "changed_files_names": [
+            "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1CompareRecHitsSoA.cc", 
+            "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1MonitorRecHitsSoA.cc", 
+            "DQM/SiPixelPhase1Heterogeneous/python/SiPixelPhase1HeterogenousDQM_FirstStep_cff.py"
+        ], 
+        "created_at": 1652798558, 
+        "number": 37989, 
+        "state": "open", 
+        "updated_at": 1652798577
     }
 }
