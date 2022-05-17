@@ -2090,5 +2090,37 @@
         "number": 37965, 
         "state": "open", 
         "updated_at": 1652745004
+    }, 
+    "37966": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "DQM/GEM/interface/GEMDQMEfficiencyCalculator.h", 
+            "DQM/GEM/interface/GEMDQMEfficiencyClientBase.h", 
+            "DQM/GEM/interface/GEMDQMEfficiencySourceBase.h", 
+            "DQM/GEM/interface/GEMOfflineDQMBase.h", 
+            "DQM/GEM/plugins/GEMEffByGEMCSCSegmentClient.cc", 
+            "DQM/GEM/plugins/GEMEffByGEMCSCSegmentClient.h", 
+            "DQM/GEM/plugins/GEMEffByGEMCSCSegmentSource.cc", 
+            "DQM/GEM/plugins/GEMEffByGEMCSCSegmentSource.h", 
+            "DQM/GEM/plugins/GEMEfficiencyAnalyzer.cc", 
+            "DQM/GEM/plugins/GEMEfficiencyAnalyzer.h", 
+            "DQM/GEM/plugins/GEMEfficiencyHarvester.cc", 
+            "DQM/GEM/plugins/GEMEfficiencyHarvester.h", 
+            "DQM/GEM/python/gemEfficiencyAnalyzerCosmics_cff.py", 
+            "DQM/GEM/python/gemEfficiencyAnalyzer_cff.py", 
+            "DQM/GEM/python/gemEfficiencyAnalyzer_cfi.py", 
+            "DQM/GEM/python/gemEfficiencyHarvesterCosmics_cff.py", 
+            "DQM/GEM/python/gemEfficiencyHarvester_cff.py", 
+            "DQM/GEM/python/gem_dqm_offline_client_cosmics_cff.py", 
+            "DQM/GEM/python/gem_dqm_offline_source_cosmics_cff.py", 
+            "DQM/GEM/src/GEMDQMEfficiencyCalculator.cc", 
+            "DQM/GEM/src/GEMDQMEfficiencyClientBase.cc", 
+            "DQM/GEM/src/GEMDQMEfficiencySourceBase.cc", 
+            "DQM/GEM/src/GEMOfflineDQMBase.cc"
+        ], 
+        "created_at": 1652751107, 
+        "number": 37966, 
+        "state": "open", 
+        "updated_at": 1652751148
     }
 }
