@@ -2323,5 +2323,17 @@
         "number": 37983, 
         "state": "open", 
         "updated_at": 1652790689
+    }, 
+    "37984": {
+        "base_branch": "CMSSW_11_2_X", 
+        "changed_files_names": [
+            "Configuration/ProcessModifiers/python/run2_miniAOD_pp_on_AA_103X_Bugfix_cff.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
+            "RecoHI/HiJetAlgos/plugins/HiPuRhoProducer.cc"
+        ], 
+        "created_at": 1652791255, 
+        "number": 37984, 
+        "state": "open", 
+        "updated_at": 1652791275
     }
 }
