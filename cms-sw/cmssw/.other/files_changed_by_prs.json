@@ -1801,20 +1801,6 @@
         "state": "open", 
         "updated_at": 1652741802
     }, 
-    "37931": {
-        "base_branch": "CMSSW_12_2_X", 
-        "changed_files_names": [
-            "Configuration/Generator/python/QCD_Pt_30_80_BCtoE_8TeV_TuneCUETP8M1_cfi.py", 
-            "Configuration/Generator/python/QCD_Pt_80_170_BCtoE_8TeV_TuneCUETP8M1_cfi.py", 
-            "GeneratorInterface/GenFilters/plugins/BCToEFilterAlgo.cc", 
-            "GeneratorInterface/GenFilters/plugins/BCToEFilterAlgo.h", 
-            "GeneratorInterface/GenFilters/python/BCToEFilter_cfi.py"
-        ], 
-        "created_at": 1652367111, 
-        "number": 37931, 
-        "state": "open", 
-        "updated_at": 1652426293
-    }, 
     "37934": {
         "base_branch": "master", 
         "changed_files_names": [
