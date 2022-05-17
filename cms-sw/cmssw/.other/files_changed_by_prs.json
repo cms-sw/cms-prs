@@ -1831,12 +1831,15 @@
             "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalHEmixV17-algorithm.xml", 
             "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalMixRotatedLayer.cc", 
             "Geometry/HGCalCommonData/test/python/dumpHGCalHEmixV17DD4hep_cfg.py", 
-            "Geometry/HGCalCommonData/test/python/g4OverlapCheckLayer_cfg.py"
+            "Geometry/HGCalCommonData/test/python/g4OverlapCheckLayer_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/g4OverlapCheckWaferFR_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/g4OverlapCheckWafer_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/g4OverlapCheck_cfg.py"
         ], 
         "created_at": 1652361670, 
         "number": 37929, 
         "state": "open", 
-        "updated_at": 1652681862
+        "updated_at": 1652741802
     }, 
     "37931": {
         "base_branch": "CMSSW_12_2_X", 
