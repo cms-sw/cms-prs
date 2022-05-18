@@ -2288,5 +2288,18 @@
         "number": 37996, 
         "state": "open", 
         "updated_at": 1652861843
+    }, 
+    "37997": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondFormats/Common/data/SiStripBadStripFromHitEffRcd_prep.json", 
+            "CondFormats/Common/data/SiStripBadStripFromHitEffRcd_prod.json", 
+            "CondFormats/Common/test/DropBoxMetadataReader.py", 
+            "CondFormats/Common/test/ProduceDropBoxMetadata.py"
+        ], 
+        "created_at": 1652868039, 
+        "number": 37997, 
+        "state": "open", 
+        "updated_at": 1652868064
     }
 }
