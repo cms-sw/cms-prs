@@ -1299,8 +1299,8 @@
             "HeterogeneousCore/AlpakaCore/interface/MakerMacros.h", 
             "HeterogeneousCore/AlpakaInterface/BuildFile.xml", 
             "HeterogeneousCore/AlpakaInterface/README.md", 
-            "HeterogeneousCore/AlpakaInterface/interface/alpaka/config.h", 
-            "HeterogeneousCore/AlpakaInterface/interface/alpaka/host.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/config.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/host.h", 
             "HeterogeneousCore/AlpakaServices/interface/alpaka/AlpakaService.h", 
             "HeterogeneousCore/AlpakaServices/plugins/alpaka/plugins.cc", 
             "HeterogeneousCore/AlpakaServices/src/alpaka/AlpakaService.cc", 
@@ -1338,7 +1338,7 @@
         "created_at": 1651088372, 
         "number": 37716, 
         "state": "open", 
-        "updated_at": 1652851017
+        "updated_at": 1652853720
     }, 
     "37744": {
         "base_branch": "master", 
