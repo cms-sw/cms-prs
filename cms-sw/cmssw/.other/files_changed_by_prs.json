@@ -2311,5 +2311,15 @@
         "number": 38000, 
         "state": "open", 
         "updated_at": 1652872082
+    }, 
+    "38001": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "PhysicsTools/NanoAOD/plugins/GenWeightsTableProducer.cc"
+        ], 
+        "created_at": 1652880567, 
+        "number": 38001, 
+        "state": "open", 
+        "updated_at": 1652880588
     }
 }
