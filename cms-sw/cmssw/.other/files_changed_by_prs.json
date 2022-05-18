@@ -1920,38 +1920,6 @@
         "state": "open", 
         "updated_at": 1652765969
     }, 
-    "37971": {
-        "base_branch": "CMSSW_12_3_X", 
-        "changed_files_names": [
-            "DQMServices/Components/plugins/DQMStoreStats.cc", 
-            "DQMServices/Components/plugins/DQMStoreStats.h", 
-            "DQMServices/Components/plugins/EDMtoMEConverter.cc", 
-            "DQMServices/Components/plugins/EDMtoMEConverter.h", 
-            "DQMServices/Components/plugins/MEtoEDMConverter.cc", 
-            "DQMServices/Components/plugins/MEtoEDMConverter.h", 
-            "DQMServices/Components/scripts/dqmiolistmes.py", 
-            "DQMServices/Components/test/test_reharvest_from_dqmio.sh", 
-            "DQMServices/Core/interface/DQMNet.h", 
-            "DQMServices/Core/interface/DQMStore.h", 
-            "DQMServices/Core/interface/MonitorElement.h", 
-            "DQMServices/Core/src/DQMNet.cc", 
-            "DQMServices/Core/src/LegacyIOHelper.cc", 
-            "DQMServices/Core/src/MonitorElement.cc", 
-            "DQMServices/Demo/test/TestDQMEDAnalyzer.cc", 
-            "DQMServices/Demo/test/dqmiodumpentries.py", 
-            "DQMServices/Demo/test/runtests.sh", 
-            "DQMServices/FwkIO/plugins/DQMRootOutputModule.cc", 
-            "DQMServices/FwkIO/plugins/DQMRootSource.cc", 
-            "DQMServices/FwkIO/plugins/format.h", 
-            "DQMServices/StreamerIO/plugins/DQMProtobufReader.cc", 
-            "DataFormats/Histograms/interface/MonitorElementCollection.h", 
-            "DataFormats/Histograms/src/classes_def.xml"
-        ], 
-        "created_at": 1652768945, 
-        "number": 37971, 
-        "state": "open", 
-        "updated_at": 1652768997
-    }, 
     "37977": {
         "base_branch": "CMSSW_12_3_X", 
         "changed_files_names": [
