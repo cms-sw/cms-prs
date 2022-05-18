@@ -2357,5 +2357,18 @@
         "number": 38005, 
         "state": "open", 
         "updated_at": 1652899381
+    }, 
+    "38006": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Framework/src/StreamSchedule.cc", 
+            "FWCore/Integration/test/run_TestSwitchProducer.sh", 
+            "FWCore/Integration/test/testSwitchProducerConditionalTaskEDAliasConsumeAllCases_cfg.py", 
+            "FWCore/Integration/test/testSwitchProducerConditionalTaskEDAlias_cfg.py"
+        ], 
+        "created_at": 1652903085, 
+        "number": 38006, 
+        "state": "open", 
+        "updated_at": 1652903104
     }
 }
