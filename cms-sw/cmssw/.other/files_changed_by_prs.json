@@ -1273,8 +1273,9 @@
         "base_branch": "master", 
         "changed_files_names": [
             "DataFormats/Portable/interface/PortableCollection.h", 
+            "DataFormats/Portable/interface/PortableDeviceCollection.h", 
             "DataFormats/Portable/interface/PortableHostCollection.h", 
-            "DataFormats/Portable/interface/alpaka/PortableDeviceCollection.h", 
+            "DataFormats/Portable/interface/alpaka/PortableCollection.h", 
             "DataFormats/XyzId/BuildFile.xml", 
             "DataFormats/XyzId/README.md", 
             "DataFormats/XyzId/interface/XyzIdHostCollection.h", 
@@ -1337,7 +1338,7 @@
         "created_at": 1651088372, 
         "number": 37716, 
         "state": "open", 
-        "updated_at": 1652728350
+        "updated_at": 1652851017
     }, 
     "37744": {
         "base_branch": "master", 
