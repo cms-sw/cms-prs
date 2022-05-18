@@ -2359,5 +2359,18 @@
         "number": 37992, 
         "state": "open", 
         "updated_at": 1652835567
+    }, 
+    "37993": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimTracker/TrackerHitAssociation/plugins/ClusterTPAssociationProducer.cc", 
+            "SimTracker/TrackerHitAssociation/test/myTrackAnalyzer.cc", 
+            "SimTracker/TrackerHitAssociation/test/myTrackAnalyzer.h", 
+            "SimTracker/VertexAssociation/test/testVertexAssociator.cc"
+        ], 
+        "created_at": 1652835626, 
+        "number": 37993, 
+        "state": "open", 
+        "updated_at": 1652835647
     }
 }
