@@ -1885,8 +1885,11 @@
     "37968": {
         "base_branch": "master", 
         "changed_files_names": [
+            "PhysicsTools/TensorFlow/BuildFile.xml", 
             "PhysicsTools/TensorFlow/interface/TfGraphDefWrapper.h", 
             "RecoTracker/FinalTrackSelectors/interface/TfGraphDefWrapper.h", 
+            "PhysicsTools/TensorFlow/interface/TfGraphRecord.h", 
+            "TrackingTools/Records/interface/TfGraphRecord.h", 
             "PhysicsTools/TensorFlow/plugins/BuildFile.xml", 
             "PhysicsTools/TensorFlow/plugins/TfGraphDefProducer.cc", 
             "RecoTracker/FinalTrackSelectors/plugins/TfGraphDefProducer.cc", 
@@ -1894,6 +1897,8 @@
             "RecoTracker/FinalTrackSelectors/src/ES_TfGraphDefWrapper.cc", 
             "PhysicsTools/TensorFlow/src/TfGraphDefWrapper.cc", 
             "RecoTracker/FinalTrackSelectors/src/TfGraphDefWrapper.cc", 
+            "PhysicsTools/TensorFlow/src/TfGraphRecord.cc", 
+            "TrackingTools/Records/src/TfGraphRecord.cc", 
             "RecoHGCal/TICL/plugins/TrackstersMergeProducer.cc", 
             "RecoHGCal/TICL/plugins/TrackstersProducer.cc", 
             "RecoHGCal/TICL/python/tracksterSelectionTf_cfi.py", 
@@ -1906,7 +1911,7 @@
         "created_at": 1652764995, 
         "number": 37968, 
         "state": "open", 
-        "updated_at": 1652765020
+        "updated_at": 1652862087
     }, 
     "37969": {
         "base_branch": "CMSSW_12_4_X", 
