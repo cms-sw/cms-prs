@@ -1906,6 +1906,7 @@
             "FWCore/Framework/test/stubs/ToyModules.cc", 
             "FWCore/Framework/test/test_conditionaltasks_cfg.py", 
             "FWCore/Integration/test/run_TestSwitchProducer.sh", 
+            "FWCore/Integration/test/testSwitchProducerConditionalTaskEDAliasConsumeAllCases_cfg.py", 
             "FWCore/Integration/test/testSwitchProducerConditionalTaskEDAlias_cfg.py", 
             "FWCore/Integration/test/testSwitchProducerConditionalTask_cfg.py", 
             "FWCore/Integration/test/testSwitchProducerPath_cfg.py", 
@@ -1924,7 +1925,7 @@
         "created_at": 1652779671, 
         "number": 37977, 
         "state": "open", 
-        "updated_at": 1652779778
+        "updated_at": 1652945163
     }, 
     "37981": {
         "base_branch": "master", 
