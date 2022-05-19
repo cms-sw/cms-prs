@@ -2156,24 +2156,6 @@
         "state": "open", 
         "updated_at": 1652796192
     }, 
-    "37986": {
-        "base_branch": "CMSSW_12_4_X", 
-        "changed_files_names": [
-            "DataFormats/PatCandidates/interface/Tau.h", 
-            "DataFormats/PatCandidates/src/Tau.cc", 
-            "PhysicsTools/PatAlgos/plugins/PATTauSlimmer.cc", 
-            "PhysicsTools/PatAlgos/python/slimming/slimmedTaus_cfi.py", 
-            "RecoTauTag/Configuration/python/tools/adaptToRunAtMiniAOD.py", 
-            "RecoTauTag/RecoTau/plugins/PFRecoTauDiscriminationByHPSSelection.cc", 
-            "RecoTauTag/RecoTau/plugins/PFRecoTauLostTrackPlugin.cc", 
-            "RecoTauTag/RecoTau/plugins/RecoTauProducer.cc", 
-            "RecoTauTag/RecoTau/python/RecoTauCombinatoricProducer_cfi.py"
-        ], 
-        "created_at": 1652796662, 
-        "number": 37986, 
-        "state": "open", 
-        "updated_at": 1652796689
-    }, 
     "37987": {
         "base_branch": "master", 
         "changed_files_names": [
