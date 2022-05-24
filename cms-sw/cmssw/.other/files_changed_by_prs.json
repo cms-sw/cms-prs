@@ -2259,6 +2259,9 @@
     "38051": {
         "base_branch": "master", 
         "changed_files_names": [
+            "MagneticField/Engine/python/volumeBasedMagneticField_dd4hep_160812_cfi.py", 
+            "MagneticField/GeomBuilder/plugins/dd4hep/DD4hep_VolumeBasedMagneticFieldESProducer.cc", 
+            "MagneticField/GeomBuilder/plugins/dd4hep/DD4hep_VolumeBasedMagneticFieldESProducerFromDB.cc", 
             "MagneticField/GeomBuilder/src/DD4hep_MagGeoBuilder.cc", 
             "MagneticField/GeomBuilder/src/DD4hep_MagGeoBuilder.h", 
             "MagneticField/GeomBuilder/src/InterpolatorBuilder.cc", 
@@ -2284,12 +2287,13 @@
             "MagneticField/Interpolation/src/bstream_iterator.h", 
             "MagneticField/Interpolation/test/BinaryTablesGeneration/GridFileReader.cpp", 
             "MagneticField/Interpolation/test/BinaryTablesGeneration/mergeFieldTable.cc", 
+            "MagneticField/Interpolation/test/BinaryTablesGeneration/mergeFileTable.md", 
             "MagneticField/Interpolation/test/BuildFile.xml"
         ], 
         "created_at": 1653323676, 
         "number": 38051, 
         "state": "open", 
-        "updated_at": 1653323695
+        "updated_at": 1653392205
     }, 
     "38053": {
         "base_branch": "CMSSW_12_4_X", 
