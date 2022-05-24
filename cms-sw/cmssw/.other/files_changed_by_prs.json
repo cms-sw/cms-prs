@@ -1661,6 +1661,7 @@
         "changed_files_names": [
             "SimG4Core/Application/interface/RunManagerMTWorker.h", 
             "SimG4Core/Application/interface/TrackingAction.h", 
+            "SimG4Core/Application/plugins/BuildFile.xml", 
             "SimG4Core/Application/plugins/OscarMTProducer.cc", 
             "SimG4Core/Application/python/g4SimHits_cfi.py", 
             "SimG4Core/Application/src/EventAction.cc", 
@@ -1669,6 +1670,8 @@
             "SimG4Core/Application/src/TrackingAction.cc", 
             "SimG4Core/KillSecondaries/src/KillSecondariesStackingAction.cc", 
             "SimG4Core/Notification/interface/G4SimEvent.h", 
+            "SimG4Core/Notification/interface/G4SimTrack.h", 
+            "SimG4Core/Notification/interface/G4SimVertex.h", 
             "SimG4Core/Notification/interface/TrackInformation.h", 
             "SimG4Core/Notification/src/G4SimEvent.cc", 
             "SimG4Core/Notification/src/NewTrackAction.cc", 
@@ -1677,7 +1680,7 @@
         "created_at": 1652797250, 
         "number": 37987, 
         "state": "open", 
-        "updated_at": 1653058342
+        "updated_at": 1653409963
     }, 
     "37988": {
         "base_branch": "master", 
