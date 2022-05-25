@@ -1554,37 +1554,6 @@
         "state": "open", 
         "updated_at": 1653290291
     }, 
-    "37968": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "PhysicsTools/TensorFlow/BuildFile.xml", 
-            "PhysicsTools/TensorFlow/interface/TfGraphDefWrapper.h", 
-            "RecoTracker/FinalTrackSelectors/interface/TfGraphDefWrapper.h", 
-            "PhysicsTools/TensorFlow/interface/TfGraphRecord.h", 
-            "TrackingTools/Records/interface/TfGraphRecord.h", 
-            "PhysicsTools/TensorFlow/plugins/BuildFile.xml", 
-            "PhysicsTools/TensorFlow/plugins/TfGraphDefProducer.cc", 
-            "RecoTracker/FinalTrackSelectors/plugins/TfGraphDefProducer.cc", 
-            "PhysicsTools/TensorFlow/src/ES_TfGraphDefWrapper.cc", 
-            "RecoTracker/FinalTrackSelectors/src/ES_TfGraphDefWrapper.cc", 
-            "PhysicsTools/TensorFlow/src/TfGraphDefWrapper.cc", 
-            "RecoTracker/FinalTrackSelectors/src/TfGraphDefWrapper.cc", 
-            "PhysicsTools/TensorFlow/src/TfGraphRecord.cc", 
-            "TrackingTools/Records/src/TfGraphRecord.cc", 
-            "RecoHGCal/TICL/plugins/TrackstersMergeProducer.cc", 
-            "RecoHGCal/TICL/plugins/TrackstersProducer.cc", 
-            "RecoHGCal/TICL/python/tracksterSelectionTf_cfi.py", 
-            "RecoTracker/FinalTrackSelectors/plugins/BuildFile.xml", 
-            "RecoTracker/FinalTrackSelectors/plugins/TrackTfClassifier.cc", 
-            "RecoTracker/FinalTrackSelectors/python/trackSelectionTf_CKF_cfi.py", 
-            "RecoTracker/FinalTrackSelectors/python/trackSelectionTf_cfi.py", 
-            "RecoTracker/MkFit/plugins/MkFitOutputConverter.cc"
-        ], 
-        "created_at": 1652764995, 
-        "number": 37968, 
-        "state": "open", 
-        "updated_at": 1653027621
-    }, 
     "37977": {
         "base_branch": "CMSSW_12_3_X", 
         "changed_files_names": [
