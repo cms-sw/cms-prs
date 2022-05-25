@@ -2488,5 +2488,19 @@
         "number": 38078, 
         "state": "open", 
         "updated_at": 1653470685
+    }, 
+    "38079": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "CalibTracker/SiStripHitEfficiency/interface/SiStripHitEfficiencyHelpers.h", 
+            "CalibTracker/SiStripHitEfficiency/plugins/SiStripHitEfficiencyHarvester.cc", 
+            "CalibTracker/SiStripHitEfficiency/plugins/SiStripHitEfficiencyWorker.cc", 
+            "Calibration/TkAlCaRecoProducers/python/ALCARECOPromptCalibProdSiStripHitEfficiency_cff.py", 
+            "Calibration/TkAlCaRecoProducers/python/AlcaSiStripHitEfficiencyHarvester_cfi.py"
+        ], 
+        "created_at": 1653475268, 
+        "number": 38079, 
+        "state": "open", 
+        "updated_at": 1653475312
     }
 }
