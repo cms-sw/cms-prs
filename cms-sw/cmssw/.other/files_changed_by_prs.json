@@ -1306,12 +1306,13 @@
         "changed_files_names": [
             "SimCalorimetry/HGCalSimProducers/interface/HGCDigitizer.h", 
             "SimCalorimetry/HGCalSimProducers/plugins/HGCDigitizer.cc", 
-            "SimCalorimetry/HGCalSimProducers/plugins/PreMixingHGCalWorker.cc"
+            "SimCalorimetry/HGCalSimProducers/plugins/PreMixingHGCalWorker.cc", 
+            "SimCalorimetry/HGCalSimProducers/python/hgcalDigitizer_cfi.py"
         ], 
         "created_at": 1652051879, 
         "number": 37856, 
         "state": "open", 
-        "updated_at": 1652792977
+        "updated_at": 1653527269
     }, 
     "37868": {
         "base_branch": "master", 
