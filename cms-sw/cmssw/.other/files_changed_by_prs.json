@@ -1724,12 +1724,13 @@
     "38041": {
         "base_branch": "master", 
         "changed_files_names": [
-            "RecoLuminosity/LumiProducer/plugins/BunchSpacingProducer.cc"
+            "RecoLuminosity/LumiProducer/plugins/BunchSpacingProducer.cc", 
+            "RecoLuminosity/LumiProducer/python/bunchSpacingProducer_cfi.py"
         ], 
         "created_at": 1653294564, 
         "number": 38041, 
         "state": "open", 
-        "updated_at": 1653477254
+        "updated_at": 1653745867
     }, 
     "38045": {
         "base_branch": "master", 
