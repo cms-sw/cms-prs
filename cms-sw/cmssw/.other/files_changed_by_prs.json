@@ -1065,6 +1065,7 @@
             "CUDADataFormats/EcalRecHitSoA/interface/EcalUncalibratedRecHit.h", 
             "RecoLocalCalo/EcalRecProducers/plugins/DeclsForKernelsPhase2.h", 
             "RecoLocalCalo/EcalRecProducers/plugins/EcalCPUUncalibRecHitProducer.cc", 
+            "RecoLocalCalo/EcalRecProducers/plugins/EcalPhase2DigiToGPUProducer.cc", 
             "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitConvertGPU2CPUFormat.cc", 
             "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitPhase2WeightsAlgoGPU.cu", 
             "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitPhase2WeightsAlgoGPU.h", 
@@ -1079,7 +1080,7 @@
         "created_at": 1650990092, 
         "number": 37695, 
         "state": "open", 
-        "updated_at": 1653941558
+        "updated_at": 1653941690
     }, 
     "37716": {
         "base_branch": "master", 
