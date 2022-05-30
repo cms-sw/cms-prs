@@ -2546,12 +2546,14 @@
     "38126": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Geometry/HGCalCommonData/interface/HGCalCellUV.h", 
             "Geometry/HGCalCommonData/interface/HGCalWaferMask.h", 
+            "Geometry/HGCalCommonData/src/HGCalCellUV.cc", 
             "Geometry/HGCalCommonData/src/HGCalWaferMask.cc"
         ], 
         "created_at": 1653927944, 
         "number": 38126, 
         "state": "open", 
-        "updated_at": 1653927965
+        "updated_at": 1653928962
     }
 }
