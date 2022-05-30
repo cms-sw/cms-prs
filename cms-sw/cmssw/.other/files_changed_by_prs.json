@@ -1063,7 +1063,7 @@
         "base_branch": "master", 
         "changed_files_names": [
             "CUDADataFormats/EcalRecHitSoA/interface/EcalUncalibratedRecHit.h", 
-            "RecoLocalCalo/EcalRecProducers/plugins/DeclsForKernelsPh2.h", 
+            "RecoLocalCalo/EcalRecProducers/plugins/DeclsForKernelsPhase2.h", 
             "RecoLocalCalo/EcalRecProducers/plugins/EcalCPUUncalibRecHitProducer.cc", 
             "RecoLocalCalo/EcalRecProducers/plugins/EcalPh2DigiToGPUProducer.cc", 
             "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitConvertGPU2CPUFormat.cc", 
@@ -1080,7 +1080,7 @@
         "created_at": 1650990092, 
         "number": 37695, 
         "state": "open", 
-        "updated_at": 1652681837
+        "updated_at": 1653937936
     }, 
     "37716": {
         "base_branch": "master", 
