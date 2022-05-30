@@ -2509,12 +2509,13 @@
         "base_branch": "master", 
         "changed_files_names": [
             "RecoLocalTracker/SiPixelClusterizer/plugins/PixelThresholdClusterizer.cc", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/PixelThresholdClusterizerForBricked.cc", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/gpuCalibPixel.h"
         ], 
         "created_at": 1653758787, 
         "number": 38113, 
         "state": "open", 
-        "updated_at": 1653889566
+        "updated_at": 1653897955
     }, 
     "38115": {
         "base_branch": "master", 
