@@ -2052,15 +2052,13 @@
     "38062": {
         "base_branch": "master", 
         "changed_files_names": [
+            "CondFormats/GEMObjects/interface/GEMChMap.h", 
             "DQM/GEM/interface/GEMDAQStatusSource.h", 
             "DQM/GEM/plugins/GEMDAQStatusSource.cc", 
             "DataFormats/GEMDigi/interface/GEMAMC.h", 
             "DataFormats/GEMDigi/interface/GEMAMCStatus.h", 
             "DataFormats/GEMDigi/interface/GEMOHStatus.h", 
             "DataFormats/GEMDigi/interface/GEMOptoHybrid.h", 
-            "DataFormats/GEMDigi/interface/GEMVFAT.h", 
-            "DataFormats/GEMDigi/interface/GEMVFATStatus.h", 
-            "DataFormats/GEMDigi/src/GEMVFAT.cc", 
             "EventFilter/GEMRawToDigi/plugins/GEMDigiToRawModule.cc", 
             "EventFilter/GEMRawToDigi/plugins/GEMRawToDigiModule.cc", 
             "EventFilter/GEMRawToDigi/src/GEMRawToDigi.cc"
@@ -2068,7 +2066,7 @@
         "created_at": 1653396773, 
         "number": 38062, 
         "state": "open", 
-        "updated_at": 1653909726
+        "updated_at": 1653919173
     }, 
     "38063": {
         "base_branch": "master", 
