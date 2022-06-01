@@ -2515,5 +2515,15 @@
         "number": 38159, 
         "state": "open", 
         "updated_at": 1654067993
+    }, 
+    "38160": {
+        "base_branch": "CMSSW_12_3_X", 
+        "changed_files_names": [
+            "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitSoAFromCUDA.cc"
+        ], 
+        "created_at": 1654068128, 
+        "number": 38160, 
+        "state": "open", 
+        "updated_at": 1654068152
     }
 }
