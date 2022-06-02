@@ -1952,22 +1952,6 @@
         "state": "open", 
         "updated_at": 1653653771
     }, 
-    "38098": {
-        "base_branch": "CMSSW_12_3_X", 
-        "changed_files_names": [
-            "Calibration/LumiAlCaRecoProducers/plugins/AlcaPCCIntegrator.cc", 
-            "Calibration/LumiAlCaRecoProducers/python/ALCARECOAlCaPCCRandom_cff.py", 
-            "Calibration/LumiAlCaRecoProducers/python/ALCARECOAlCaPCCZeroBias_cff.py", 
-            "Calibration/LumiAlCaRecoProducers/python/alcaPCCIntegrator_cfi.py", 
-            "Calibration/LumiAlCaRecoProducers/test/PCC_Random_Event_Integrator_cfg.py", 
-            "Configuration/AlCa/python/autoAlca.py", 
-            "DataFormats/Luminosity/interface/PixelClusterCounts.h"
-        ], 
-        "created_at": 1653649724, 
-        "number": 38098, 
-        "state": "open", 
-        "updated_at": 1654063986
-    }, 
     "38100": {
         "base_branch": "CMSSW_12_3_X", 
         "changed_files_names": [
