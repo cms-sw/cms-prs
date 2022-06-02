@@ -2507,5 +2507,17 @@
         "number": 38204, 
         "state": "open", 
         "updated_at": 1654177090
+    }, 
+    "38205": {
+        "base_branch": "CMSSW_12_3_X", 
+        "changed_files_names": [
+            "EventFilter/EcalRawToDigi/plugins/DeclsForKernels.h", 
+            "EventFilter/EcalRawToDigi/plugins/EcalRawToDigiGPU.cc", 
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py"
+        ], 
+        "created_at": 1654177232, 
+        "number": 38205, 
+        "state": "open", 
+        "updated_at": 1654177255
     }
 }
