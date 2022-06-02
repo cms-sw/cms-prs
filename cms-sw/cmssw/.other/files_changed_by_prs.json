@@ -2477,12 +2477,13 @@
         "base_branch": "master", 
         "changed_files_names": [
             "EventFilter/EcalRawToDigi/plugins/DeclsForKernels.h", 
-            "EventFilter/EcalRawToDigi/plugins/EcalRawToDigiGPU.cc"
+            "EventFilter/EcalRawToDigi/plugins/EcalRawToDigiGPU.cc", 
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py"
         ], 
         "created_at": 1654175373, 
         "number": 38202, 
         "state": "open", 
-        "updated_at": 1654175539
+        "updated_at": 1654176710
     }, 
     "38203": {
         "base_branch": "master", 
