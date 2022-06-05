@@ -2317,29 +2317,6 @@
         "state": "open", 
         "updated_at": 1654278349
     }, 
-    "38235": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibCalorimetry/CaloMiscalibTools/interface/CaloMiscalibMapEcal.h", 
-            "CalibCalorimetry/CaloMiscalibTools/src/MiscalibReaderXMLEcalEndcap.cc", 
-            "CalibCalorimetry/EcalCorrelatedNoiseAnalysisAlgos/interface/TEcnaNumbering.h", 
-            "CalibCalorimetry/EcalCorrelatedNoiseAnalysisAlgos/interface/TEcnaParHistos.h", 
-            "CalibCalorimetry/EcalCorrelatedNoiseAnalysisAlgos/interface/TEcnaWrite.h", 
-            "CalibCalorimetry/EcalCorrelatedNoiseAnalysisAlgos/src/TEcnaHistos.cc", 
-            "CalibCalorimetry/EcalCorrelatedNoiseAnalysisAlgos/src/TEcnaNArrayD.cc", 
-            "CalibCalorimetry/EcalCorrelatedNoiseAnalysisAlgos/src/TEcnaNumbering.cc", 
-            "CalibCalorimetry/EcalCorrelatedNoiseAnalysisAlgos/src/TEcnaParHistos.cc", 
-            "CalibCalorimetry/EcalCorrelatedNoiseAnalysisAlgos/src/TEcnaRead.cc", 
-            "CalibCalorimetry/EcalCorrelatedNoiseAnalysisAlgos/src/TEcnaWrite.cc", 
-            "CalibCalorimetry/EcalLaserSorting/interface/LaserSorter.h", 
-            "CalibCalorimetry/EcalLaserSorting/src/LaserSorter.cc", 
-            "CondFormats/EcalCorrections/src/EcalGlobalShowerContainmentCorrectionsVsEta.cc"
-        ], 
-        "created_at": 1654260212, 
-        "number": 38235, 
-        "state": "open", 
-        "updated_at": 1654280908
-    }, 
     "38238": {
         "base_branch": "CMSSW_12_4_X", 
         "changed_files_names": [
