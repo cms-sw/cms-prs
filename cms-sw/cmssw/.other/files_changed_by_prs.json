@@ -2682,5 +2682,19 @@
         "number": 38261, 
         "state": "open", 
         "updated_at": 1654526236
+    }, 
+    "38262": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/Integration/python/clients/beam_dqm_sourceclient-live_cfg.py", 
+            "DQM/Integration/python/clients/beamfake_dqm_sourceclient-live_cfg.py", 
+            "DQM/Integration/python/clients/beamhlt_dqm_sourceclient-live_cfg.py", 
+            "DQM/Integration/python/clients/beamhltfake_dqm_sourceclient-live_cfg.py", 
+            "DQM/Integration/python/config/environment_cfi.py"
+        ], 
+        "created_at": 1654528502, 
+        "number": 38262, 
+        "state": "open", 
+        "updated_at": 1654528525
     }
 }
