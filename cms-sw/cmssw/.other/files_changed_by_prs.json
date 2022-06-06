@@ -2711,6 +2711,7 @@
         "base_branch": "CMSSW_12_4_X", 
         "changed_files_names": [
             "Configuration/AlCa/python/autoCond.py", 
+            "Configuration/HLT/python/autoCondHLT.py", 
             "DQM/TrackerRemapper/test/SiPixelPhase1Analyzer_cfg.py", 
             "EventFilter/CSCRawToDigi/test/testCSCDigi2Raw_cfg.py", 
             "EventFilter/CSCRawToDigi/test/testPackingUnpackingPreTriggers_cfg.py", 
@@ -2780,7 +2781,7 @@
         "created_at": 1654537256, 
         "number": 38265, 
         "state": "open", 
-        "updated_at": 1654537288
+        "updated_at": 1654543471
     }, 
     "38266": {
         "base_branch": "master", 
