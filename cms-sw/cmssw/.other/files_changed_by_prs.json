@@ -2547,5 +2547,18 @@
         "number": 38273, 
         "state": "open", 
         "updated_at": 1654608011
+    }, 
+    "38278": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "DQM/GEM/interface/GEMDQMBase.h", 
+            "DQM/GEM/interface/GEMDigiSource.h", 
+            "DQM/GEM/plugins/GEMDQMHarvester.cc", 
+            "DQM/GEM/src/GEMDQMBase.cc"
+        ], 
+        "created_at": 1654625200, 
+        "number": 38278, 
+        "state": "open", 
+        "updated_at": 1654625227
     }
 }
