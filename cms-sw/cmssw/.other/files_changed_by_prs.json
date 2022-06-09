@@ -2679,30 +2679,6 @@
         "state": "open", 
         "updated_at": 1654459542
     }, 
-    "38255": {
-        "base_branch": "CMSSW_12_4_X", 
-        "changed_files_names": [
-            "CondFormats/GEMObjects/interface/GEMChMap.h", 
-            "DQM/GEM/interface/GEMDAQStatusSource.h", 
-            "DQM/GEM/plugins/GEMDAQStatusSource.cc", 
-            "DQM/L1TMonitor/python/L1TdeGEMTPG_cfi.py", 
-            "DataFormats/GEMDigi/interface/GEMAMC.h", 
-            "DataFormats/GEMDigi/interface/GEMAMCStatus.h", 
-            "DataFormats/GEMDigi/interface/GEMOHStatus.h", 
-            "DataFormats/GEMDigi/interface/GEMOptoHybrid.h", 
-            "EventFilter/GEMRawToDigi/plugins/GEMDigiToRawModule.cc", 
-            "EventFilter/GEMRawToDigi/plugins/GEMRawToDigiModule.cc", 
-            "EventFilter/GEMRawToDigi/python/muonGEMDigis_cfi.py", 
-            "EventFilter/GEMRawToDigi/src/GEMRawToDigi.cc", 
-            "RecoLocalMuon/GEMRecHit/plugins/GEMRecHitProducer.cc", 
-            "RecoLocalMuon/GEMRecHit/plugins/GEMRecHitProducer.h", 
-            "RecoLocalMuon/GEMRecHit/python/gemRecHits_cfi.py"
-        ], 
-        "created_at": 1654514950, 
-        "number": 38255, 
-        "state": "open", 
-        "updated_at": 1654636899
-    }, 
     "38258": {
         "base_branch": "CMSSW_12_3_X", 
         "changed_files_names": [
