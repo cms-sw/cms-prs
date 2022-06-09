@@ -3055,22 +3055,6 @@
         "state": "open", 
         "updated_at": 1654680860
     }, 
-    "38286": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondFormats/PCLConfig/interface/AlignPCLThresholdsHG.h", 
-            "CondFormats/PCLConfig/plugins/AlignPCLThresholdsReader.cc", 
-            "CondFormats/PCLConfig/plugins/AlignPCLThresholdsWriter.cc", 
-            "CondFormats/PCLConfig/src/AlignPCLThresholdsHG.cc", 
-            "CondFormats/PCLConfig/test/AlignPCLThresholdsReader_cfg.py", 
-            "CondFormats/PCLConfig/test/AlignPCLThresholdsWriter_cfg.py", 
-            "CondFormats/PCLConfig/test/testReadWriteAlignPCLThresholds.sh"
-        ], 
-        "created_at": 1654681317, 
-        "number": 38286, 
-        "state": "open", 
-        "updated_at": 1654681340
-    }, 
     "38287": {
         "base_branch": "CMSSW_12_3_X", 
         "changed_files_names": [
