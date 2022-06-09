@@ -1685,6 +1685,9 @@
             "DataFormats/PortableTestObjectsSerialSync/README.md", 
             "DataFormats/PortableTestObjectsSerialSync/src/classes_serial.h", 
             "DataFormats/PortableTestObjectsSerialSync/src/classes_serial_def.xml", 
+            "DataFormats/SoATemplate/interface/SoACommon.h", 
+            "DataFormats/SoATemplate/interface/SoALayout.h", 
+            "DataFormats/SoATemplate/interface/SoAView.h", 
             "HeterogeneousCore/AlpakaCore/BuildFile.xml", 
             "HeterogeneousCore/AlpakaCore/interface/MakerMacros.h", 
             "HeterogeneousCore/AlpakaInterface/BuildFile.xml", 
@@ -1728,7 +1731,7 @@
         "created_at": 1651088372, 
         "number": 37716, 
         "state": "open", 
-        "updated_at": 1654770073
+        "updated_at": 1654786036
     }, 
     "37753": {
         "base_branch": "master", 
