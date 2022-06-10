@@ -2692,5 +2692,16 @@
         "number": 38317, 
         "state": "open", 
         "updated_at": 1654858907
+    }, 
+    "38318": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "DQM/HcalTasks/plugins/HcalGPUComparisonTask.cc", 
+            "DQM/Integration/python/clients/hcalgpu_dqm_sourceclient-live_cfg.py"
+        ], 
+        "created_at": 1654866581, 
+        "number": 38318, 
+        "state": "open", 
+        "updated_at": 1654866605
     }
 }
