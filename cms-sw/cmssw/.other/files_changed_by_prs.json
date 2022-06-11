@@ -2920,7 +2920,6 @@
     "38341": {
         "base_branch": "master", 
         "changed_files_names": [
-            ".github/workflows/github_CI.yml", 
             "DataFormats/L1TrackTrigger/interface/TTBV.h", 
             "DataFormats/L1TrackTrigger/interface/TTDTC.h", 
             "DataFormats/L1TrackTrigger/interface/TTTypes.h", 
@@ -2934,9 +2933,6 @@
             "L1Trigger/TrackFindingTMTT/src/TrackerModule.cc", 
             "L1Trigger/TrackFindingTMTT/test/tmtt_tf_analysis_cfg.py", 
             "L1Trigger/TrackFindingTracklet/BuildFile.xml", 
-            "L1Trigger/TrackFindingTracklet/data/memorymodules_hourglassExtended.dat", 
-            "L1Trigger/TrackFindingTracklet/data/processingmodules_hourglassExtended.dat", 
-            "L1Trigger/TrackFindingTracklet/data/wires_hourglassExtended.dat", 
             "L1Trigger/TrackFindingTracklet/interface/ChannelAssignment.h", 
             "L1Trigger/TrackFindingTracklet/interface/ChannelAssignmentRcd.h", 
             "L1Trigger/TrackFindingTracklet/interface/FitTrack.h", 
@@ -3187,6 +3183,6 @@
         "created_at": 1654976452, 
         "number": 38341, 
         "state": "open", 
-        "updated_at": 1654976476
+        "updated_at": 1654983340
     }
 }
