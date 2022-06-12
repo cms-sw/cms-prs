@@ -3205,5 +3205,20 @@
         "number": 38344, 
         "state": "open", 
         "updated_at": 1655021431
+    }, 
+    "38345": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/test/HGCalCellUVTester.cc", 
+            "Geometry/HGCalCommonData/test/HGCalPartialCellTester.cc", 
+            "Geometry/HGCalCommonData/test/HGCalPartialWaferTester.cc", 
+            "Geometry/HGCalCommonData/test/python/testHGCalPartialCellTester_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/testHGCalPartialWaferTester_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/testHGCalValidHex_cfg.py"
+        ], 
+        "created_at": 1655026133, 
+        "number": 38345, 
+        "state": "open", 
+        "updated_at": 1655026154
     }
 }
