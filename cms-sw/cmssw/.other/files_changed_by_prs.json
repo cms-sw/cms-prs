@@ -2730,5 +2730,18 @@
         "number": 38356, 
         "state": "open", 
         "updated_at": 1655116626
+    }, 
+    "38357": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/EcalCommon/data/mask-ECAL.db", 
+            "DQM/EcalCommon/data/mask-ECAL.txt", 
+            "DQM/EcalCommon/data/writeEcalDQMStatus.py", 
+            "DQM/EcalCommon/src/StatusManager.cc"
+        ], 
+        "created_at": 1655119370, 
+        "number": 38357, 
+        "state": "open", 
+        "updated_at": 1655119389
     }
 }
