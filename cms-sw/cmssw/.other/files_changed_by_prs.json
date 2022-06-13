@@ -2066,27 +2066,6 @@
         "state": "open", 
         "updated_at": 1654269133
     }, 
-    "38100": {
-        "base_branch": "CMSSW_12_3_X", 
-        "changed_files_names": [
-            "DQM/GEM/interface/GEMDAQStatusSource.h", 
-            "DQM/GEM/interface/GEMDQMBase.h", 
-            "DQM/GEM/interface/GEMDigiSource.h", 
-            "DQM/GEM/interface/GEMRecHitSource.h", 
-            "DQM/GEM/plugins/GEMDAQStatusSource.cc", 
-            "DQM/GEM/plugins/GEMDQMHarvester.cc", 
-            "DQM/GEM/plugins/GEMDigiSource.cc", 
-            "DQM/GEM/plugins/GEMRecHitSource.cc", 
-            "DQM/GEM/python/gem_dqm_offline_source_cff.py", 
-            "DQM/GEM/python/gem_dqm_offline_source_cosmics_cff.py", 
-            "DQM/GEM/src/GEMDQMBase.cc", 
-            "Validation/Configuration/python/gemSimValid_cff.py"
-        ], 
-        "created_at": 1653651734, 
-        "number": 38100, 
-        "state": "open", 
-        "updated_at": 1654623465
-    }, 
     "38147": {
         "base_branch": "master", 
         "changed_files_names": [
