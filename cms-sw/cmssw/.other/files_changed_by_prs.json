@@ -2695,5 +2695,23 @@
         "number": 38376, 
         "state": "open", 
         "updated_at": 1655288264
+    }, 
+    "38377": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h", 
+            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc", 
+            "Geometry/HGCalCommonData/src/HGCalGeomParameters.cc", 
+            "Geometry/HGCalGeometry/src/HGCalGeometryLoader.cc", 
+            "Geometry/HGCalGeometry/test/python/testHGCalGeomCheck_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalGeometryCheckV15_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalGeometryCheckV16_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalGeometryCheck_cfg.py", 
+            "Validation/HGCalValidation/test/python/testHGCalSimHitStudy_cfg.py"
+        ], 
+        "created_at": 1655292025, 
+        "number": 38377, 
+        "state": "open", 
+        "updated_at": 1655292049
     }
 }
