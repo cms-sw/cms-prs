@@ -2647,5 +2647,21 @@
         "number": 38384, 
         "state": "open", 
         "updated_at": 1655358507
+    }, 
+    "38385": {
+        "base_branch": "CMSSW_12_3_X", 
+        "changed_files_names": [
+            "CalibTracker/SiStripCommon/plugins/ShallowEventDataProducer.cc", 
+            "CalibTracker/SiStripCommon/plugins/ShallowEventDataProducer.h", 
+            "CalibTracker/SiStripCommon/python/ShallowEventDataProducer_cfi.py", 
+            "CalibTracker/SiStripHitEfficiency/plugins/HitEff.cc", 
+            "CalibTracker/SiStripHitEfficiency/plugins/HitEff.h", 
+            "CalibTracker/SiStripHitEfficiency/plugins/SiStripHitEfficiencyWorker.cc", 
+            "CalibTracker/SiStripHitEfficiency/python/SiStripHitEff_cff.py"
+        ], 
+        "created_at": 1655360208, 
+        "number": 38385, 
+        "state": "open", 
+        "updated_at": 1655360249
     }
 }
