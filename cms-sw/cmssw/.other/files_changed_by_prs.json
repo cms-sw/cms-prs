@@ -2735,5 +2735,20 @@
         "number": 38421, 
         "state": "open", 
         "updated_at": 1655653306
+    }, 
+    "38422": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalWaferPR-algorithm.xml", 
+            "Geometry/HGCalCommonData/plugins/DDHGCalWaferPartialRotated.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalWaferPartialRotated.cc", 
+            "Geometry/HGCalCommonData/python/testHGCalWaferFRXML_cfi.py", 
+            "Geometry/HGCalCommonData/python/testHGCalWaferPRXML_cfi.py", 
+            "Geometry/HGCalCommonData/test/python/dumpHGCalWaferPRDD4hep_cfg.py"
+        ], 
+        "created_at": 1655689320, 
+        "number": 38422, 
+        "state": "open", 
+        "updated_at": 1655689344
     }
 }
