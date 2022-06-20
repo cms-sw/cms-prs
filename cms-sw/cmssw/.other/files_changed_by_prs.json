@@ -2307,17 +2307,12 @@
     "38360": {
         "base_branch": "CMSSW_12_3_X", 
         "changed_files_names": [
-            "DQM/EcalCommon/data/mask-EB.txt", 
-            "DQM/EcalCommon/data/mask-ECAL.db", 
-            "DQM/EcalCommon/data/mask-ECAL.txt", 
-            "DQM/EcalCommon/data/mask-EE.txt", 
-            "DQM/EcalCommon/data/writeEcalDQMStatus.py", 
             "DQM/EcalCommon/src/StatusManager.cc"
         ], 
         "created_at": 1655121949, 
         "number": 38360, 
         "state": "open", 
-        "updated_at": 1655219746
+        "updated_at": 1655705541
     }, 
     "38372": {
         "base_branch": "CMSSW_12_4_X", 
