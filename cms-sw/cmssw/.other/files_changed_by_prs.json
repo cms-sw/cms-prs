@@ -1303,24 +1303,6 @@
         "state": "open", 
         "updated_at": 1655381657
     }, 
-    "37984": {
-        "base_branch": "CMSSW_11_2_X", 
-        "changed_files_names": [
-            "CommonTools/ParticleFlow/python/pfEGammaToCandidateRemapper_cfi.py", 
-            "Configuration/ProcessModifiers/python/run2_miniAOD_pp_on_AA_103X_Bugfix_cff.py", 
-            "Configuration/PyReleaseValidation/python/relval_steps.py", 
-            "PhysicsTools/PatAlgos/python/slimming/slimming_cff.py", 
-            "RecoEgamma/EgammaPhotonProducers/python/reducedEgamma_cfi.py", 
-            "RecoHI/HiJetAlgos/plugins/HiBadParticleCleaner.cc", 
-            "RecoHI/HiJetAlgos/plugins/HiPuRhoProducer.cc", 
-            "RecoHI/HiJetAlgos/python/HiBadParticleCleaner_cfi.py", 
-            "RecoHI/HiJetAlgos/python/HiRecoPFJets_cff.py"
-        ], 
-        "created_at": 1652791255, 
-        "number": 37984, 
-        "state": "open", 
-        "updated_at": 1655381228
-    }, 
     "37996": {
         "base_branch": "master", 
         "changed_files_names": [
