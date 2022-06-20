@@ -2813,5 +2813,20 @@
         "number": 38426, 
         "state": "open", 
         "updated_at": 1655703259
+    }, 
+    "38427": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/EcalMonitorTasks/interface/GpuTask.h", 
+            "DQM/EcalMonitorTasks/python/CollectionTags_cfi.py", 
+            "DQM/EcalMonitorTasks/python/EcalMonitorTask_cff.py", 
+            "DQM/EcalMonitorTasks/python/EcalMonitorTask_cfi.py", 
+            "DQM/EcalMonitorTasks/python/ecalGpuTask_cfi.py", 
+            "DQM/EcalMonitorTasks/src/GpuTask.cc"
+        ], 
+        "created_at": 1655703212, 
+        "number": 38427, 
+        "state": "open", 
+        "updated_at": 1655703302
     }
 }
