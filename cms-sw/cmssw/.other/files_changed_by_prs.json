@@ -2913,5 +2913,18 @@
         "number": 38444, 
         "state": "open", 
         "updated_at": 1655734971
+    }, 
+    "38445": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "HLTrigger/JSONMonitoring/plugins/HLTriggerJSONMonitoring.cc", 
+            "HLTrigger/JSONMonitoring/test/BuildFile.xml", 
+            "HLTrigger/JSONMonitoring/test/testHLTriggerJSONMonitoring.py", 
+            "HLTrigger/JSONMonitoring/test/testHLTriggerJSONMonitoring.sh"
+        ], 
+        "created_at": 1655748950, 
+        "number": 38445, 
+        "state": "open", 
+        "updated_at": 1655750353
     }
 }
