@@ -2775,5 +2775,16 @@
         "number": 38423, 
         "state": "open", 
         "updated_at": 1655695063
+    }, 
+    "38424": {
+        "base_branch": "CMSSW_12_3_X", 
+        "changed_files_names": [
+            "DQM/HcalTasks/plugins/HcalFEDIntegrityTask.cc", 
+            "DQM/Integration/python/clients/fed_dqm_sourceclient-live_cfg.py"
+        ], 
+        "created_at": 1655701036, 
+        "number": 38424, 
+        "state": "open", 
+        "updated_at": 1655701058
     }
 }
