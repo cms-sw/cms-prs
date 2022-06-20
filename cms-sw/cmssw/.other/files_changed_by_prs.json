@@ -881,34 +881,6 @@
         "state": "open", 
         "updated_at": 1653406884
     }, 
-    "37115": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/ProcessModifiers/python/ecal_deepsc_cff.py", 
-            "Configuration/PyReleaseValidation/README.md", 
-            "Configuration/PyReleaseValidation/python/relval_2017.py", 
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
-            "RecoEcal/EgammaClusterAlgos/BuildFile.xml", 
-            "RecoEcal/EgammaClusterAlgos/interface/PFECALSuperClusterAlgo.h", 
-            "RecoEcal/EgammaClusterAlgos/src/PFECALSuperClusterAlgo.cc", 
-            "RecoEcal/EgammaClusterProducers/python/particleFlowSuperClusterECAL_cfi.py", 
-            "RecoEcal/EgammaClusterProducers/python/particleFlowSuperClusteringSequence_cff.py", 
-            "RecoEcal/EgammaClusterProducers/src/PFECALSuperClusterProducer.cc", 
-            "RecoEcal/EgammaCoreTools/BuildFile.xml", 
-            "RecoEcal/EgammaCoreTools/interface/CalibratedPFCluster.h", 
-            "RecoEcal/EgammaCoreTools/interface/DeepSCGraphEvaluation.h", 
-            "RecoEcal/EgammaCoreTools/interface/EcalClustersGraph.h", 
-            "RecoEcal/EgammaCoreTools/interface/GraphMap.h", 
-            "RecoEcal/EgammaCoreTools/interface/SCProducerCache.h", 
-            "RecoEcal/EgammaCoreTools/src/DeepSCGraphEvaluation.cc", 
-            "RecoEcal/EgammaCoreTools/src/EcalClustersGraph.cc", 
-            "RecoEcal/EgammaCoreTools/src/GraphMap.cc"
-        ], 
-        "created_at": 1646202336, 
-        "number": 37115, 
-        "state": "open", 
-        "updated_at": 1655385553
-    }, 
     "37245": {
         "base_branch": "master", 
         "changed_files_names": [
