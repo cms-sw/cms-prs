@@ -2160,24 +2160,6 @@
         "state": "open", 
         "updated_at": 1655795989
     }, 
-    "38372": {
-        "base_branch": "CMSSW_12_4_X", 
-        "changed_files_names": [
-            "RecoEgamma/EgammaElectronProducers/plugins/GsfElectronProducer.cc", 
-            "RecoEgamma/EgammaElectronProducers/python/gedGsfElectrons_cfi.py", 
-            "RecoEgamma/EgammaPhotonProducers/src/GEDPhotonProducer.cc", 
-            "RecoEgamma/EgammaTools/interface/EgammaDNNHelper.h", 
-            "RecoEgamma/EgammaTools/src/EgammaDNNHelper.cc", 
-            "RecoEgamma/ElectronIdentification/interface/ElectronDNNEstimator.h", 
-            "RecoEgamma/ElectronIdentification/src/ElectronDNNEstimator.cc", 
-            "RecoEgamma/PhotonIdentification/interface/PhotonDNNEstimator.h", 
-            "RecoEgamma/PhotonIdentification/src/PhotonDNNEstimator.cc"
-        ], 
-        "created_at": 1655213316, 
-        "number": 38372, 
-        "state": "open", 
-        "updated_at": 1655462718
-    }, 
     "38373": {
         "base_branch": "master", 
         "changed_files_names": [
