@@ -2144,12 +2144,13 @@
     "38357": {
         "base_branch": "master", 
         "changed_files_names": [
-            "DQM/EcalCommon/src/StatusManager.cc"
+            "DQM/EcalCommon/src/StatusManager.cc", 
+            "DQM/Integration/python/clients/ecal_dqm_sourceclient-live_cfg.py"
         ], 
         "created_at": 1655119370, 
         "number": 38357, 
         "state": "open", 
-        "updated_at": 1655713809
+        "updated_at": 1655795223
     }, 
     "38359": {
         "base_branch": "CMSSW_12_4_X", 
