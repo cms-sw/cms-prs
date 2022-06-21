@@ -2909,5 +2909,24 @@
         "number": 38446, 
         "state": "open", 
         "updated_at": 1655750763
+    }, 
+    "38448": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/hgcalCons/v17n/hgcalCons.xml", 
+            "Geometry/HGCalCommonData/data/hgcalwafer/v17n/hgcalwafer.xml", 
+            "Geometry/HGCalCommonData/plugins/DDHGCalWaferFullRotated.cc", 
+            "Geometry/HGCalCommonData/plugins/DDHGCalWaferPartialRotated.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalWaferFullRotated.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalWaferPartialRotated.cc", 
+            "Geometry/HGCalCommonData/python/testHGCalV17nXML_cfi.py", 
+            "Geometry/HGCalCommonData/test/python/dumpHGCalV17_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/dumpHGCalV17n_cfg.py", 
+            "Geometry/HGCalSimData/data/hgcsensv17n.xml"
+        ], 
+        "created_at": 1655781437, 
+        "number": 38448, 
+        "state": "open", 
+        "updated_at": 1655781456
     }
 }
