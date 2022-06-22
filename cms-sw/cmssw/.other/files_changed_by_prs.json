@@ -2456,12 +2456,17 @@
             "DQMOffline/Alignment/python/ALCARECOTkAlDQM_cff.py", 
             "DQMOffline/Alignment/python/DiMuonVertexMonitor_cfi.py", 
             "DQMOffline/Alignment/src/DiMuonVertexMonitor.cc", 
-            "DQMOffline/Alignment/src/TkAlCaRecoMonitor.cc"
+            "DQMOffline/Alignment/src/TkAlCaRecoMonitor.cc", 
+            "DQMOffline/Alignment/test/BuildFile.xml", 
+            "DQMOffline/Alignment/test/DiMuonVertexValidator_cfg.py", 
+            "DQMOffline/Alignment/test/DiMuonVertex_HARVESTING.py", 
+            "DQMOffline/Alignment/test/TestDriver.cpp", 
+            "DQMOffline/Alignment/test/testDiMuonVertexMonitor.sh"
         ], 
         "created_at": 1655701130, 
         "number": 38425, 
         "state": "open", 
-        "updated_at": 1655842289
+        "updated_at": 1655883604
     }, 
     "38427": {
         "base_branch": "master", 
