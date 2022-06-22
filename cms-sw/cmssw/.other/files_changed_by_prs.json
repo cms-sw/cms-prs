@@ -2964,5 +2964,15 @@
         "number": 38476, 
         "state": "open", 
         "updated_at": 1655924613
+    }, 
+    "38477": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "EventFilter/SiPixelRawToDigi/plugins/SiPixelDigiErrorsSoAFromCUDA.cc"
+        ], 
+        "created_at": 1655924639, 
+        "number": 38477, 
+        "state": "open", 
+        "updated_at": 1655924662
     }
 }
