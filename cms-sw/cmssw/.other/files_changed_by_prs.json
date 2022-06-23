@@ -2358,16 +2358,14 @@
         "base_branch": "master", 
         "changed_files_names": [
             "DQM/EcalMonitorTasks/interface/GpuTask.h", 
-            "DQM/EcalMonitorTasks/python/CollectionTags_cfi.py", 
-            "DQM/EcalMonitorTasks/python/EcalMonitorTask_cff.py", 
-            "DQM/EcalMonitorTasks/python/EcalMonitorTask_cfi.py", 
             "DQM/EcalMonitorTasks/python/ecalGpuTask_cfi.py", 
-            "DQM/EcalMonitorTasks/src/GpuTask.cc"
+            "DQM/EcalMonitorTasks/src/GpuTask.cc", 
+            "DQM/Integration/python/clients/ecalgpu_dqm_sourceclient-live_cfg.py"
         ], 
         "created_at": 1655703212, 
         "number": 38427, 
         "state": "open", 
-        "updated_at": 1655750939
+        "updated_at": 1656014473
     }, 
     "38428": {
         "base_branch": "CMSSW_12_3_X", 
