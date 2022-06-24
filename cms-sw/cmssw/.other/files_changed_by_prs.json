@@ -2301,6 +2301,7 @@
             "Calibration/TkAlCaRecoProducers/python/ALCARECOSiStripCalZeroBiasHI_cff.py", 
             "Calibration/TkAlCaRecoProducers/python/ALCARECOSiStripCalZeroBias_cff.py", 
             "Configuration/EventContent/python/EventContent_cff.py", 
+            "Configuration/ProcessModifiers/python/approxSiStripClusters_cff.py", 
             "Configuration/PyReleaseValidation/python/relval_standard.py", 
             "Configuration/PyReleaseValidation/python/relval_steps.py", 
             "Configuration/StandardSequences/python/DigiToRaw_Repack_cff.py", 
@@ -2319,7 +2320,7 @@
         "created_at": 1655695040, 
         "number": 38423, 
         "state": "open", 
-        "updated_at": 1656042984
+        "updated_at": 1656050677
     }, 
     "38425": {
         "base_branch": "CMSSW_12_4_X", 
