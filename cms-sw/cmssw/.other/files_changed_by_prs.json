@@ -3094,5 +3094,17 @@
         "number": 38504, 
         "state": "open", 
         "updated_at": 1656109473
+    }, 
+    "38505": {
+        "base_branch": "CMSSW_12_3_X", 
+        "changed_files_names": [
+            "DQM/EcalCommon/interface/DQWorker.h", 
+            "DQM/EcalCommon/src/DQWorker.cc", 
+            "DQM/EcalMonitorClient/plugins/EcalDQMonitorClient.cc"
+        ], 
+        "created_at": 1656109507, 
+        "number": 38505, 
+        "state": "open", 
+        "updated_at": 1656109533
     }
 }
