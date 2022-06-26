@@ -2162,6 +2162,7 @@
     "38404": {
         "base_branch": "master", 
         "changed_files_names": [
+            "DataFormats/Portable/Buildfile.xml", 
             "DataFormats/Portable/README.md", 
             "DataFormats/Portable/interface/PortableCollection.h", 
             "DataFormats/Portable/interface/PortableDeviceCollection.h", 
@@ -2186,9 +2187,17 @@
             "DataFormats/PortableTestObjectsSerialSync/README.md", 
             "DataFormats/PortableTestObjectsSerialSync/src/classes_serial.h", 
             "DataFormats/PortableTestObjectsSerialSync/src/classes_serial_def.xml", 
+            "DataFormats/SoATemplate/BuildFile.xml", 
+            "DataFormats/SoATemplate/SoA.md", 
             "DataFormats/SoATemplate/interface/SoACommon.h", 
             "DataFormats/SoATemplate/interface/SoALayout.h", 
             "DataFormats/SoATemplate/interface/SoAView.h", 
+            "DataFormats/SoATemplate/src/classes.h", 
+            "DataFormats/SoATemplate/src/classes_def.xml", 
+            "DataFormats/SoATemplate/test/BuildFile.xml", 
+            "DataFormats/SoATemplate/test/FakeSoA.h", 
+            "DataFormats/SoATemplate/test/SoALayoutAndView_t.cu", 
+            "DataFormats/SoATemplate/test/SoAStreamer_t.cu", 
             "HeterogeneousCore/AlpakaCore/BuildFile.xml", 
             "HeterogeneousCore/AlpakaCore/interface/MakerMacros.h", 
             "HeterogeneousCore/AlpakaInterface/BuildFile.xml", 
@@ -2232,7 +2241,7 @@
         "created_at": 1655453938, 
         "number": 38404, 
         "state": "open", 
-        "updated_at": 1655594908
+        "updated_at": 1656269667
     }, 
     "38423": {
         "base_branch": "master", 
