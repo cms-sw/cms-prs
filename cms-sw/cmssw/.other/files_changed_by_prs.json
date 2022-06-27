@@ -3607,5 +3607,28 @@
         "number": 38528, 
         "state": "open", 
         "updated_at": 1656346126
+    }, 
+    "38529": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/Eras/python/Modifier_phase2_brickedPixels_cff.py", 
+            "Configuration/StandardSequences/python/Eras.py", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/PixelThresholdClusterizerForBricked.cc", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/PixelThresholdClusterizerForBricked.h", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelClusterProducer.cc", 
+            "RecoLocalTracker/SiPixelClusterizer/python/SiPixelClusterizer_cfi.py", 
+            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEGenericForBricked.h", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/PixelCPEGenericESProducer.cc", 
+            "RecoLocalTracker/SiPixelRecHits/python/PixelCPEGeneric_cfi.py", 
+            "RecoLocalTracker/SiPixelRecHits/python/SiPixelRecHits_cfi.py", 
+            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEGenericForBricked.cc", 
+            "RecoTracker/MeasurementDet/python/MeasurementTrackerESProducer_cfi.py", 
+            "RecoTracker/TransientTrackingRecHit/python/TTRHBuilderWithTemplate_cfi.py", 
+            "RecoTracker/TransientTrackingRecHit/python/TransientTrackingRecHitBuilder_cfi.py"
+        ], 
+        "created_at": 1656346735, 
+        "number": 38529, 
+        "state": "open", 
+        "updated_at": 1656346756
     }
 }
