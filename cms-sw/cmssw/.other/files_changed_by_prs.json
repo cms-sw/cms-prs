@@ -3574,5 +3574,18 @@
         "number": 38525, 
         "state": "open", 
         "updated_at": 1656343786
+    }, 
+    "38526": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/GEM/plugins/GEMDAQStatusSource.cc", 
+            "DQM/GEM/python/gem_dqm_offline_source_cff.py", 
+            "DQM/GEM/python/gem_dqm_offline_source_cosmics_cff.py", 
+            "DQM/Integration/python/clients/gem_dqm_sourceclient-live_cfg.py"
+        ], 
+        "created_at": 1656345502, 
+        "number": 38526, 
+        "state": "open", 
+        "updated_at": 1656345520
     }
 }
