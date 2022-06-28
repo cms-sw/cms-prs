@@ -3522,5 +3522,23 @@
         "number": 38529, 
         "state": "open", 
         "updated_at": 1656346756
+    }, 
+    "38531": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalcell-algorithm.xml", 
+            "Geometry/HGCalCommonData/data/hgcalcell/v17/hgcalpos.xml", 
+            "Geometry/HGCalCommonData/plugins/DDHGCalSiliconRotatedModule.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalMixRotatedLayer.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalSiliconRotatedModule.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalWaferFullRotated.cc", 
+            "Geometry/HGCalCommonData/python/testHGCalCellXML_cfi.py", 
+            "Geometry/HGCalCommonData/test/python/dumpExtendedHGCalGeometryDD4hep_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/dumpExtendedHGCalGeometryDDD_cfg.py"
+        ], 
+        "created_at": 1656383764, 
+        "number": 38531, 
+        "state": "open", 
+        "updated_at": 1656383786
     }
 }
