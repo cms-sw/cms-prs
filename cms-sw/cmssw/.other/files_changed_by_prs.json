@@ -1029,9 +1029,16 @@
             "DataFormats/PortableTestObjects/src/alpaka/classes_serial_def.xml", 
             "DataFormats/PortableTestObjects/src/classes.h", 
             "DataFormats/PortableTestObjects/src/classes_def.xml", 
+            "DataFormats/SoATemplate/SoA.md", 
             "DataFormats/SoATemplate/interface/SoACommon.h", 
             "DataFormats/SoATemplate/interface/SoALayout.h", 
             "DataFormats/SoATemplate/interface/SoAView.h", 
+            "DataFormats/SoATemplate/test/BuildFile.xml", 
+            "DataFormats/SoATemplate/test/FakeSoA.h", 
+            "DataFormats/SoATemplate/test/SoALayoutAndView_t.cu", 
+            "DataFormats/SoATemplate/test/SoAStreamer_t.cu", 
+            "DataFormats/SoATemplate/test/classes.h", 
+            "DataFormats/SoATemplate/test/classes_def.xml", 
             "HeterogeneousCore/AlpakaCore/BuildFile.xml", 
             "HeterogeneousCore/AlpakaCore/interface/MakerMacros.h", 
             "HeterogeneousCore/AlpakaInterface/BuildFile.xml", 
@@ -1056,7 +1063,7 @@
         "created_at": 1651088372, 
         "number": 37716, 
         "state": "open", 
-        "updated_at": 1656045404
+        "updated_at": 1656396570
     }, 
     "37782": {
         "base_branch": "master", 
