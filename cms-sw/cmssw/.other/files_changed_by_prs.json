@@ -3018,5 +3018,17 @@
         "number": 38551, 
         "state": "open", 
         "updated_at": 1656488408
+    }, 
+    "38552": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoLocalTracker/SiPixelClusterizer/test/readClusters_cfg.py", 
+            "RecoLocalTracker/SiPixelRecHits/test/readRecHits_cfg.py", 
+            "RecoLocalTracker/SiStripRecHitConverter/test/DigisToRecHitRead_cfg.py"
+        ], 
+        "created_at": 1656489113, 
+        "number": 38552, 
+        "state": "open", 
+        "updated_at": 1656489134
     }
 }
