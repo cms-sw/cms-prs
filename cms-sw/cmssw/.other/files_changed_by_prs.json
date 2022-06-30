@@ -2787,12 +2787,13 @@
     "38546": {
         "base_branch": "CMSSW_12_3_X", 
         "changed_files_names": [
-            "DataFormats/GEMDigi/interface/GEMAMCStatus.h"
+            "DataFormats/GEMDigi/interface/GEMAMCStatus.h", 
+            "DataFormats/GEMDigi/interface/GEMOptoHybrid.h"
         ], 
         "created_at": 1656424870, 
         "number": 38546, 
         "state": "open", 
-        "updated_at": 1656424895
+        "updated_at": 1656595346
     }, 
     "38547": {
         "base_branch": "master", 
