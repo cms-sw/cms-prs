@@ -2122,35 +2122,6 @@
         "state": "open", 
         "updated_at": 1655917472
     }, 
-    "38423": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Calibration/TkAlCaRecoProducers/python/ALCARECOSiStripCalZeroBiasHI_cff.py", 
-            "Calibration/TkAlCaRecoProducers/python/ALCARECOSiStripCalZeroBias_cff.py", 
-            "Configuration/EventContent/python/EventContent_cff.py", 
-            "Configuration/ProcessModifiers/python/approxSiStripClusters_cff.py", 
-            "Configuration/PyReleaseValidation/python/relval_standard.py", 
-            "Configuration/PyReleaseValidation/python/relval_steps.py", 
-            "Configuration/StandardSequences/python/DigiToRaw_Repack_cff.py", 
-            "DataFormats/SiStripCluster/interface/SiStripApproximateCluster.h", 
-            "DataFormats/SiStripCluster/interface/SiStripCluster.h", 
-            "DataFormats/SiStripCluster/src/SiStripApproximateCluster.cc", 
-            "DataFormats/SiStripCluster/src/SiStripCluster.cc", 
-            "DataFormats/SiStripCluster/src/classes_def.xml", 
-            "RecoLocalTracker/Configuration/python/RecoLocalTracker_cff.py", 
-            "RecoLocalTracker/SiStripClusterizer/plugins/SiStripApprox2Clusters.cc", 
-            "RecoLocalTracker/SiStripClusterizer/python/SiStripClusterizer_RealData_cfi.py", 
-            "RecoLocalTracker/SiStripClusterizer/python/SiStripClusters2ApproxClusters_cff.py", 
-            "RecoLocalTracker/SiStripClusterizer/test/SiStripApproximatedClustersDump.cc", 
-            "RecoLocalTracker/SiStripZeroSuppression/python/SiStripZeroSuppression_cfi.py", 
-            "RecoTracker/IterativeTracking/python/PixelLessStep_cff.py", 
-            "RecoTracker/IterativeTracking/python/TobTecStep_cff.py"
-        ], 
-        "created_at": 1655695040, 
-        "number": 38423, 
-        "state": "open", 
-        "updated_at": 1656499671
-    }, 
     "38428": {
         "base_branch": "CMSSW_12_3_X", 
         "changed_files_names": [
