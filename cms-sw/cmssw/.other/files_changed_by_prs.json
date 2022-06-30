@@ -3022,12 +3022,14 @@
         "changed_files_names": [
             "Configuration/Eras/python/Era_Run3_ckfPixelLessStep_cff.py", 
             "Configuration/Eras/python/Era_Run3_ckfPixelLessStep.py", 
+            "Configuration/PyReleaseValidation/python/relval_2017.py", 
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
             "Configuration/StandardSequences/python/Eras.py"
         ], 
         "created_at": 1656579351, 
         "number": 38565, 
         "state": "open", 
-        "updated_at": 1656579377
+        "updated_at": 1656586150
     }, 
     "38566": {
         "base_branch": "CMSSW_12_4_X", 
