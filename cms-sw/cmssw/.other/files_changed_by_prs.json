@@ -2742,12 +2742,13 @@
             "DQM/Physics/python/vertexSelectForHeavyFlavorDQM_cfi.py", 
             "DQM/Physics/src/HeavyFlavorDQMAnalyzer.cc", 
             "DQM/Physics/src/HeavyFlavorDQMAnalyzer.h", 
-            "DQMOffline/Configuration/python/DQMOffline_cff.py"
+            "DQMOffline/Configuration/python/DQMOffline_cff.py", 
+            "DQMOffline/Configuration/python/autoDQM.py"
         ], 
         "created_at": 1656417606, 
         "number": 38540, 
         "state": "open", 
-        "updated_at": 1656441666
+        "updated_at": 1656657702
     }, 
     "38541": {
         "base_branch": "CMSSW_12_4_X", 
