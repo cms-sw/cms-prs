@@ -2754,17 +2754,20 @@
     "38541": {
         "base_branch": "CMSSW_12_4_X", 
         "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/relval_standard.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
             "DQM/Physics/BuildFile.xml", 
             "DQM/Physics/python/heavyFlavorDQMFirstStep_cff.py", 
             "DQM/Physics/python/vertexSelectForHeavyFlavorDQM_cfi.py", 
             "DQM/Physics/src/HeavyFlavorDQMAnalyzer.cc", 
             "DQM/Physics/src/HeavyFlavorDQMAnalyzer.h", 
-            "DQMOffline/Configuration/python/DQMOffline_cff.py"
+            "DQMOffline/Configuration/python/DQMOffline_cff.py", 
+            "DQMOffline/Configuration/python/autoDQM.py"
         ], 
         "created_at": 1656418249, 
         "number": 38541, 
         "state": "open", 
-        "updated_at": 1656443023
+        "updated_at": 1656769957
     }, 
     "38546": {
         "base_branch": "CMSSW_12_3_X", 
