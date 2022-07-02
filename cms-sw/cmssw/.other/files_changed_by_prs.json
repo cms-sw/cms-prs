@@ -3010,5 +3010,27 @@
         "number": 38581, 
         "state": "open", 
         "updated_at": 1656680632
+    }, 
+    "38582": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/Geometry/README.md", 
+            "Configuration/Geometry/python/GeometryDD4hepExtended2026D93Reco_cff.py", 
+            "Configuration/Geometry/python/GeometryDD4hepExtended2026D93_cff.py", 
+            "Configuration/Geometry/python/GeometryExtended2026D93Reco_cff.py", 
+            "Configuration/Geometry/python/GeometryExtended2026D93_cff.py", 
+            "Configuration/Geometry/python/dict2026Geometry.py", 
+            "Configuration/PyReleaseValidation/python/relval_2026.py", 
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
+            "Configuration/StandardSequences/python/GeometryConf.py", 
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D92.xml", 
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D93.xml", 
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D92XML_cfi.py", 
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D93XML_cfi.py"
+        ], 
+        "created_at": 1656726036, 
+        "number": 38582, 
+        "state": "open", 
+        "updated_at": 1656726061
     }
 }
