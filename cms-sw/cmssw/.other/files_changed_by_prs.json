@@ -2978,5 +2978,23 @@
         "number": 38587, 
         "state": "open", 
         "updated_at": 1656893145
+    }, 
+    "38588": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/plugins/DDHGCalSiliconModule.cc", 
+            "Geometry/HGCalCommonData/plugins/DDHGCalWaferF.cc", 
+            "Geometry/HGCalCommonData/plugins/DDHGCalWaferP.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalWaferF.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalWaferP.cc", 
+            "Geometry/HGCalCommonData/test/python/dumpHGCalDD4hep_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/dumpHGCalDDD_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheck2026DD4hep_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheck2026DDD_cfg.py"
+        ], 
+        "created_at": 1656921322, 
+        "number": 38588, 
+        "state": "open", 
+        "updated_at": 1656921341
     }
 }
