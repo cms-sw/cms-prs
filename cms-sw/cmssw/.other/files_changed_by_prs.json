@@ -1121,6 +1121,10 @@
             "DQM/BeamMonitor/plugins/BeamMonitor.cc", 
             "DQM/BeamMonitor/plugins/BeamSpotDipServer.cc", 
             "DQM/BeamMonitor/plugins/PixelVTXMonitor.cc", 
+            "DQM/BeamMonitor/python/BeamMonitor_Cosmics_cff.py", 
+            "DQM/BeamMonitor/python/BeamMonitor_MC_cff.py", 
+            "DQM/BeamMonitor/python/BeamMonitor_PixelLess_cff.py", 
+            "DQM/BeamMonitor/python/BeamMonitor_Pixel_cff.py", 
             "DQM/BeamMonitor/python/BeamMonitor_cff.py", 
             "DQM/BeamMonitor/python/BeamSpotDipServer_cff.py", 
             "DQM/BeamMonitor/python/PixelVTXMonitor_cfi.py"
@@ -1128,7 +1132,7 @@
         "created_at": 1651862418, 
         "number": 37848, 
         "state": "open", 
-        "updated_at": 1656835760
+        "updated_at": 1656944209
     }, 
     "37951": {
         "base_branch": "master", 
