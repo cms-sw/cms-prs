@@ -3063,5 +3063,20 @@
         "number": 38591, 
         "state": "open", 
         "updated_at": 1656934993
+    }, 
+    "38592": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibTracker/SiStripHitEfficiency/interface/SiStripHitEffData.h", 
+            "CalibTracker/SiStripHitEfficiency/interface/SiStripHitEfficiencyHelpers.h", 
+            "CalibTracker/SiStripHitEfficiency/plugins/SiStripHitEffFromCalibTree.cc", 
+            "CalibTracker/SiStripHitEfficiency/plugins/SiStripHitEfficiencyHarvester.cc", 
+            "CalibTracker/SiStripHitEfficiency/plugins/SiStripHitEfficiencyWorker.cc", 
+            "CommonTools/ConditionDBWriter/interface/ConditionDBWriter.h"
+        ], 
+        "created_at": 1656935916, 
+        "number": 38592, 
+        "state": "open", 
+        "updated_at": 1656935942
     }
 }
