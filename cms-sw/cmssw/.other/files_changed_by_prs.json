@@ -2979,5 +2979,24 @@
         "number": 38585, 
         "state": "open", 
         "updated_at": 1656754260
+    }, 
+    "38587": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Validation/HGCalValidation/test/python/protoHGCalSimWatcher_cfg.py", 
+            "Validation/HGCalValidation/test/python/protoSimValid_cfg.py", 
+            "Validation/HGCalValidation/test/python/protoValid_cfg.py", 
+            "Validation/HGCalValidation/test/python/runHGCGeomCheck_cfg.py", 
+            "Validation/HGCalValidation/test/python/runHGCalDigiStudy_cfg.py", 
+            "Validation/HGCalValidation/test/python/runHGCalRecHitStudy_cfg.py", 
+            "Validation/HGCalValidation/test/python/runHGCalSimHitStudy_cfg.py", 
+            "Validation/HGCalValidation/test/python/runHGCalWaferHitCheck_cfg.py", 
+            "Validation/HGCalValidation/test/python/runHGCalWaferStudy_cfg.py", 
+            "Validation/HGCalValidation/test/python/testHGCalSimWatcherV17N_cfg.py"
+        ], 
+        "created_at": 1656893123, 
+        "number": 38587, 
+        "state": "open", 
+        "updated_at": 1656893145
     }
 }
