@@ -3080,13 +3080,15 @@
             "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D94.xml", 
             "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D94XML_cfi.py", 
             "Geometry/ForwardCommonData/python/hfnoseV15ParametersInitialization_cfi.py", 
+            "Geometry/HGCalCommonData/python/hgcalEEV15ParametersInitialization_cfi.py", 
+            "Geometry/HGCalCommonData/python/hgcalV15ParametersInitialization_cfi.py", 
             "Geometry/HGCalCommonData/src/HGCalParametersFromDD.cc", 
             "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheckNoseDDD_cfg.py"
         ], 
         "created_at": 1657012546, 
         "number": 38596, 
         "state": "open", 
-        "updated_at": 1657012569
+        "updated_at": 1657015896
     }, 
     "38597": {
         "base_branch": "master", 
