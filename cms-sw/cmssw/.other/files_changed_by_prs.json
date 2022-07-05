@@ -998,6 +998,7 @@
             "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitPhase2WeightsAlgoGPU.h", 
             "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitPhase2WeightsKernels.cu", 
             "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitPhase2WeightsKernels.h", 
+            "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitPhase2WeightsProducer.cc", 
             "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitPhase2WeightsProducerGPU.cc", 
             "RecoLocalCalo/EcalRecProducers/python/ecalUncalibRecHitPhase2GPU_cfi.py", 
             "RecoLocalCalo/EcalRecProducers/python/ecalUncalibRecHitPhase2_cff.py", 
@@ -1007,7 +1008,7 @@
         "created_at": 1650990092, 
         "number": 37695, 
         "state": "open", 
-        "updated_at": 1655920548
+        "updated_at": 1657038877
     }, 
     "37716": {
         "base_branch": "master", 
