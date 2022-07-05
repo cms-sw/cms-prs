@@ -2856,20 +2856,6 @@
         "state": "open", 
         "updated_at": 1656587649
     }, 
-    "38570": {
-        "base_branch": "CMSSW_12_4_X", 
-        "changed_files_names": [
-            "DQM/EcalMonitorTasks/interface/PiZeroTask.h", 
-            "DQM/EcalMonitorTasks/python/EcalMonitorTask_cfi.py", 
-            "DQM/EcalMonitorTasks/python/ecalPiZeroTask_cfi.py", 
-            "DQM/EcalMonitorTasks/src/PiZeroTask.cc", 
-            "DQM/Integration/python/clients/ecal_dqm_sourceclient-live_cfg.py"
-        ], 
-        "created_at": 1656594906, 
-        "number": 38570, 
-        "state": "open", 
-        "updated_at": 1656594931
-    }, 
     "38577": {
         "base_branch": "master", 
         "changed_files_names": [
