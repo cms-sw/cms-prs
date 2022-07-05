@@ -2732,6 +2732,8 @@
             "Geometry/MTDCommonData/src/MTDTopologyMode.cc", 
             "Geometry/MTDCommonData/test/DD4hep_TestMTDIdealGeometry.cc", 
             "Geometry/MTDCommonData/test/TestMTDIdealGeometry.cc", 
+            "Geometry/MTDCommonData/test/testMTDinDD4hep.py", 
+            "Geometry/MTDCommonData/test/testMTDinDDD.py", 
             "Geometry/MTDGeometryBuilder/src/MTDParametersFromDD.cc", 
             "RecoLocalFastTime/FTLCommonAlgos/src/MTDTimeCalib.cc", 
             "RecoMTD/DetLayers/src/BTLDetLayerGeometryBuilder.cc", 
@@ -2746,7 +2748,7 @@
         "created_at": 1656927857, 
         "number": 38589, 
         "state": "open", 
-        "updated_at": 1656927877
+        "updated_at": 1657019387
     }, 
     "38591": {
         "base_branch": "CMSSW_12_4_X", 
