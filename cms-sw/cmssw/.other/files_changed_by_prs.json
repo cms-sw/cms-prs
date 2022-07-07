@@ -2929,5 +2929,17 @@
         "number": 38641, 
         "state": "open", 
         "updated_at": 1657209405
+    }, 
+    "38642": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "DQMOffline/RecoB/plugins/PrimaryVertexMonitor.cc", 
+            "DQMOffline/RecoB/plugins/PrimaryVertexMonitor.h", 
+            "DQMOffline/RecoB/python/PrimaryVertexMonitor_cff.py"
+        ], 
+        "created_at": 1657213932, 
+        "number": 38642, 
+        "state": "open", 
+        "updated_at": 1657213957
     }
 }
