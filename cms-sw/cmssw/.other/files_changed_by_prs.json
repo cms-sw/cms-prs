@@ -2500,12 +2500,13 @@
             "RecoPPS/Local/plugins/CTPPSPixelLocalTrackProducer.cc", 
             "RecoPPS/Local/python/ctppsPixelLocalReconstruction_cff.py", 
             "RecoPPS/Local/src/RPixPlaneCombinatoryTracking.cc", 
-            "RecoPPS/Local/src/RPixRoadFinder.cc"
+            "RecoPPS/Local/src/RPixRoadFinder.cc", 
+            "Validation/CTPPS/test/simu/template_cfg.py"
         ], 
         "created_at": 1656680607, 
         "number": 38581, 
         "state": "open", 
-        "updated_at": 1657277596
+        "updated_at": 1657368558
     }, 
     "38589": {
         "base_branch": "master", 
