@@ -1383,7 +1383,6 @@
             "Alignment/OfflineValidation/data/lumiperRun2018_recorded.csv", 
             "Alignment/OfflineValidation/interface/CompareAlignments.h", 
             "Alignment/OfflineValidation/interface/GeometryComparisonPlotter.h", 
-            "Alignment/OfflineValidation/scripts/GeometryComparisonPlotter.h", 
             "Alignment/OfflineValidation/interface/OutPVtrends.h", 
             "Alignment/OfflineValidation/interface/PlotAlignmentValidation.h", 
             "Alignment/OfflineValidation/macros/PlotAlignmentValidation.h", 
@@ -1421,7 +1420,7 @@
             "Alignment/OfflineValidation/python/TkAlMap.py", 
             "Alignment/OfflineValidation/python/TrackerGeometryCompare_cfi.py", 
             "Alignment/OfflineValidation/scripts/GCPpyPlots.py", 
-            "Alignment/OfflineValidation/scripts/GeometryComparisonPlotter.cc", 
+            "Alignment/OfflineValidation/scripts/GeometryComparisonPlotter.h", 
             "Alignment/OfflineValidation/scripts/addHistograms.sh", 
             "Alignment/OfflineValidation/scripts/compareAlignments.cc", 
             "Alignment/OfflineValidation/scripts/comparisonScript.C", 
@@ -1433,6 +1432,7 @@
             "Alignment/OfflineValidation/scripts/visualizationTracker.C", 
             "Alignment/OfflineValidation/src/CompareAlignments.cc", 
             "Alignment/OfflineValidation/src/GeometryComparisonPlotter.cc", 
+            "Alignment/OfflineValidation/scripts/GeometryComparisonPlotter.cc", 
             "Alignment/OfflineValidation/src/PlotAlignmentValidation.cc", 
             "Alignment/OfflineValidation/macros/PlotAlignmentValidation.C", 
             "Alignment/OfflineValidation/src/PrepareDMRTrends.cc", 
@@ -1477,7 +1477,7 @@
         "created_at": 1654774365, 
         "number": 38304, 
         "state": "open", 
-        "updated_at": 1657283963
+        "updated_at": 1657375178
     }, 
     "38309": {
         "base_branch": "master", 
