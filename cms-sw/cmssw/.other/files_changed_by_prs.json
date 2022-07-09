@@ -2412,6 +2412,7 @@
     "38553": {
         "base_branch": "master", 
         "changed_files_names": [
+            "RecoPPS/Local/interface/RPixDetPatternFinder.h", 
             "RecoPPS/Local/interface/RPixRoadFinder.h", 
             "RecoPPS/Local/plugins/CTPPSPixelLocalTrackProducer.cc", 
             "RecoPPS/Local/python/ctppsPixelLocalReconstruction_cff.py", 
@@ -2421,7 +2422,7 @@
         "created_at": 1656502547, 
         "number": 38553, 
         "state": "open", 
-        "updated_at": 1657206694
+        "updated_at": 1657351381
     }, 
     "38556": {
         "base_branch": "master", 
