@@ -2880,5 +2880,17 @@
         "number": 38671, 
         "state": "open", 
         "updated_at": 1657375744
+    }, 
+    "38672": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/ForwardCommonData/python/hfnoseParametersInitialization_cfi.py", 
+            "Geometry/ForwardCommonData/python/hfnoseV15ParametersInitialization_cfi.py", 
+            "Geometry/HGCalCommonData/python/hgcalParametersInitialization_cfi.py"
+        ], 
+        "created_at": 1657439549, 
+        "number": 38672, 
+        "state": "open", 
+        "updated_at": 1657439568
     }
 }
