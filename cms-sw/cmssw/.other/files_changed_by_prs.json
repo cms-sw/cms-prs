@@ -2855,22 +2855,6 @@
         "state": "open", 
         "updated_at": 1657373453
     }, 
-    "38671": {
-        "base_branch": "CMSSW_12_4_X", 
-        "changed_files_names": [
-            "CalibTracker/SiStripHitEfficiency/BuildFile.xml", 
-            "CalibTracker/SiStripHitEfficiency/interface/SiStripHitEffData.h", 
-            "CalibTracker/SiStripHitEfficiency/interface/SiStripHitEfficiencyHelpers.h", 
-            "CalibTracker/SiStripHitEfficiency/plugins/SiStripHitEffFromCalibTree.cc", 
-            "CalibTracker/SiStripHitEfficiency/plugins/SiStripHitEfficiencyHarvester.cc", 
-            "CalibTracker/SiStripHitEfficiency/plugins/SiStripHitEfficiencyWorker.cc", 
-            "CommonTools/ConditionDBWriter/interface/ConditionDBWriter.h"
-        ], 
-        "created_at": 1657375719, 
-        "number": 38671, 
-        "state": "open", 
-        "updated_at": 1657375744
-    }, 
     "38672": {
         "base_branch": "master", 
         "changed_files_names": [
