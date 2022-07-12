@@ -2757,5 +2757,18 @@
         "number": 38697, 
         "state": "open", 
         "updated_at": 1657571436
+    }, 
+    "38698": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "PhysicsTools/NanoAOD/python/electrons_cff.py", 
+            "PhysicsTools/NanoAOD/python/nanoDQM_cfi.py", 
+            "PhysicsTools/NanoAOD/python/nano_eras_cff.py", 
+            "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py"
+        ], 
+        "created_at": 1657602847, 
+        "number": 38698, 
+        "state": "open", 
+        "updated_at": 1657602874
     }
 }
