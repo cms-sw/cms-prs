@@ -2900,5 +2900,17 @@
         "number": 38709, 
         "state": "open", 
         "updated_at": 1657647559
+    }, 
+    "38710": {
+        "base_branch": "CMSSW_12_3_X", 
+        "changed_files_names": [
+            "DQMOffline/Lumi/plugins/ZCounting.cc", 
+            "DQMOffline/Lumi/plugins/ZCounting.h", 
+            "DQMOffline/Lumi/python/ZCounting_cff.py"
+        ], 
+        "created_at": 1657650342, 
+        "number": 38710, 
+        "state": "open", 
+        "updated_at": 1657650370
     }
 }
