@@ -2910,12 +2910,9 @@
             "FWCore/Concurrency/interface/WaitingTask.h", 
             "FWCore/Concurrency/test/test_catch2_WaitingTaskChain.cc", 
             "FWCore/Concurrency/test/waitingtasklist_t.cppunit.cpp", 
-            "FWCore/Framework/interface/maker/Worker.h", 
             "FWCore/Framework/src/EventProcessor.cc", 
             "FWCore/Framework/src/EventSetupsController.cc", 
-            "FWCore/Framework/src/ProductResolvers.cc", 
             "FWCore/Framework/src/SynchronousEventSetupsController.cc", 
-            "FWCore/Framework/src/Worker.cc", 
             "FWCore/Framework/test/callback_t.cppunit.cc", 
             "FWCore/Framework/test/dependentrecord_t.cppunit.cc", 
             "FWCore/Framework/test/esproducer_t.cppunit.cc", 
@@ -2936,7 +2933,7 @@
         "created_at": 1657655251, 
         "number": 38715, 
         "state": "open", 
-        "updated_at": 1657655274
+        "updated_at": 1657738440
     }, 
     "38716": {
         "base_branch": "master", 
