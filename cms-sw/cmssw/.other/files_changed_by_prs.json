@@ -3075,5 +3075,18 @@
         "number": 38738, 
         "state": "open", 
         "updated_at": 1657793756
+    }, 
+    "38740": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoPPS/Local/interface/RPixRoadFinder.h", 
+            "RecoPPS/Local/plugins/CTPPSPixelLocalTrackProducer.cc", 
+            "RecoPPS/Local/python/ctppsPixelLocalReconstruction_cff.py", 
+            "RecoPPS/Local/src/RPixRoadFinder.cc"
+        ], 
+        "created_at": 1657801687, 
+        "number": 38740, 
+        "state": "open", 
+        "updated_at": 1657801705
     }
 }
