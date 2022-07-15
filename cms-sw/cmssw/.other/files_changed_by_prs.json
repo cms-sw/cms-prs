@@ -2254,22 +2254,6 @@
         "state": "open", 
         "updated_at": 1657510258
     }, 
-    "38581": {
-        "base_branch": "CMSSW_12_4_X", 
-        "changed_files_names": [
-            "RecoPPS/Local/interface/RPixDetPatternFinder.h", 
-            "RecoPPS/Local/interface/RPixRoadFinder.h", 
-            "RecoPPS/Local/plugins/CTPPSPixelLocalTrackProducer.cc", 
-            "RecoPPS/Local/python/ctppsPixelLocalReconstruction_cff.py", 
-            "RecoPPS/Local/src/RPixPlaneCombinatoryTracking.cc", 
-            "RecoPPS/Local/src/RPixRoadFinder.cc", 
-            "Validation/CTPPS/test/simu/template_cfg.py"
-        ], 
-        "created_at": 1656680607, 
-        "number": 38581, 
-        "state": "open", 
-        "updated_at": 1657769855
-    }, 
     "38593": {
         "base_branch": "master", 
         "changed_files_names": [
