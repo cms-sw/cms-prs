@@ -2718,38 +2718,6 @@
         "state": "open", 
         "updated_at": 1657814561
     }, 
-    "38715": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/Concurrency/interface/FinalWaitingTask.h", 
-            "FWCore/Concurrency/interface/WaitingTask.h", 
-            "FWCore/Concurrency/test/test_catch2_WaitingTaskChain.cc", 
-            "FWCore/Concurrency/test/waitingtasklist_t.cppunit.cpp", 
-            "FWCore/Framework/src/EventProcessor.cc", 
-            "FWCore/Framework/src/EventSetupsController.cc", 
-            "FWCore/Framework/src/SynchronousEventSetupsController.cc", 
-            "FWCore/Framework/test/callback_t.cppunit.cc", 
-            "FWCore/Framework/test/dependentrecord_t.cppunit.cc", 
-            "FWCore/Framework/test/esproducer_t.cppunit.cc", 
-            "FWCore/Framework/test/eventsetup_t.cppunit.cc", 
-            "FWCore/Framework/test/eventsetuprecord_t.cppunit.cc", 
-            "FWCore/Framework/test/fullchain_t.cppunit.cc", 
-            "FWCore/Framework/test/global_filter_t.cppunit.cc", 
-            "FWCore/Framework/test/global_outputmodule_t.cppunit.cc", 
-            "FWCore/Framework/test/global_producer_t.cppunit.cc", 
-            "FWCore/Framework/test/limited_filter_t.cppunit.cc", 
-            "FWCore/Framework/test/limited_outputmodule_t.cppunit.cc", 
-            "FWCore/Framework/test/limited_producer_t.cppunit.cc", 
-            "FWCore/Framework/test/one_outputmodule_t.cppunit.cc", 
-            "FWCore/Framework/test/stream_filter_t.cppunit.cc", 
-            "FWCore/Framework/test/stream_producer_t.cppunit.cc", 
-            "FWCore/TestProcessor/src/TestProcessor.cc"
-        ], 
-        "created_at": 1657655251, 
-        "number": 38715, 
-        "state": "open", 
-        "updated_at": 1657772197
-    }, 
     "38722": {
         "base_branch": "CMSSW_12_4_X", 
         "changed_files_names": [
