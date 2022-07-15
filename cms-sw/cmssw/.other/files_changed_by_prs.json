@@ -2807,12 +2807,14 @@
     "38735": {
         "base_branch": "master", 
         "changed_files_names": [
-            "DataFormats/SiStripCluster/src/SiStripCluster.cc"
+            "DataFormats/SiStripCluster/interface/SiStripCluster.h", 
+            "DataFormats/SiStripCluster/src/SiStripCluster.cc", 
+            "RecoLocalTracker/SiStripClusterizer/plugins/SiStripApprox2Clusters.cc"
         ], 
         "created_at": 1657785969, 
         "number": 38735, 
         "state": "open", 
-        "updated_at": 1657785992
+        "updated_at": 1657894364
     }, 
     "38736": {
         "base_branch": "master", 
