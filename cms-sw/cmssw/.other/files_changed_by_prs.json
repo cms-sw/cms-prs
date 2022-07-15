@@ -3015,5 +3015,17 @@
         "number": 38746, 
         "state": "open", 
         "updated_at": 1657844634
+    }, 
+    "38747": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "HeterogeneousCore/CUDAUtilities/interface/radixSort.h", 
+            "HeterogeneousCore/CUDAUtilities/test/BuildFile.xml", 
+            "HeterogeneousCore/CUDAUtilities/test/oneRadixSort_t.cu"
+        ], 
+        "created_at": 1657861989, 
+        "number": 38747, 
+        "state": "open", 
+        "updated_at": 1657862015
     }
 }
