@@ -2959,5 +2959,18 @@
         "number": 38751, 
         "state": "open", 
         "updated_at": 1657883447
+    }, 
+    "38753": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimCalorimetry/HcalTrigPrimAlgos/interface/HcalTriggerPrimitiveAlgo.h", 
+            "SimCalorimetry/HcalTrigPrimAlgos/src/HcalTriggerPrimitiveAlgo.cc", 
+            "SimCalorimetry/HcalTrigPrimProducers/plugins/HcalTrigPrimDigiProducer.cc", 
+            "SimCalorimetry/HcalTrigPrimProducers/python/hcaltpdigi_cfi.py"
+        ], 
+        "created_at": 1657888068, 
+        "number": 38753, 
+        "state": "open", 
+        "updated_at": 1657888088
     }
 }
