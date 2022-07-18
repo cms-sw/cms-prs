@@ -3578,21 +3578,5 @@
         "number": 38771, 
         "state": "open", 
         "updated_at": 1658050685
-    }, 
-    "38774": {
-        "base_branch": "CMSSW_12_2_X", 
-        "changed_files_names": [
-            ".gitignore", 
-            "DQM/Integration/python/config/online_customizations_cfi.py", 
-            "DQM/L1TMonitor/interface/L1TStage2EMTF.h", 
-            "DQM/L1TMonitor/src/L1TStage2EMTF.cc", 
-            "DQM_to_pdf.py", 
-            "EventFilter/L1TRawToDigi/plugins/implementations_stage2/EMTFBlockGEM.cc", 
-            "EventFilter/L1TRawToDigi/plugins/implementations_stage2/EMTFBlockHeaders.cc"
-        ], 
-        "created_at": 1658075812, 
-        "number": 38774, 
-        "state": "open", 
-        "updated_at": 1658075838
     }
 }
