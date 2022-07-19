@@ -1924,6 +1924,7 @@
             "HLTrigger/Configuration/python/HLT_75e33/paths/L1T_PFHT400PT30_QuadPFPuppiJet_70_55_40_40_2p4_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/paths/L1T_PFPuppiHT450off_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/tasks/l1tReconstructionTask_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33_cff.py", 
             "L1Trigger/Configuration/python/L1Trigger_EventContent_cff.py", 
             "L1Trigger/Configuration/python/SimL1Emulator_cff.py", 
             "L1Trigger/Configuration/python/customisePhase2FEVTDEBUGHLT.py", 
@@ -1992,7 +1993,7 @@
         "created_at": 1655723929, 
         "number": 38442, 
         "state": "open", 
-        "updated_at": 1657261229
+        "updated_at": 1658211936
     }, 
     "38443": {
         "base_branch": "master", 
