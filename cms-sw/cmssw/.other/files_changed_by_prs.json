@@ -3137,39 +3137,6 @@
         "state": "open", 
         "updated_at": 1658313149
     }, 
-    "38798": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibMuon/DTCalibration/python/dtDQMClientAlca_cfg.py", 
-            "CalibMuon/DTCalibration/python/dtDQMClient_cfg.py", 
-            "CalibMuon/DTCalibration/python/dtNoiseCalibration_cfg.py", 
-            "CalibMuon/DTCalibration/python/dtT0AbsoluteReferenceCorrection_cfg.py", 
-            "CalibMuon/DTCalibration/python/dtT0Analyzer_cfg.py", 
-            "CalibMuon/DTCalibration/python/dtT0FEBPathCorrection_cfg.py", 
-            "CalibMuon/DTCalibration/python/dtT0FillChamberFromDBCorrection_cfg.py", 
-            "CalibMuon/DTCalibration/python/dtT0FillDefaultFromDBCorrection_cfg.py", 
-            "CalibMuon/DTCalibration/python/dtT0WireCalibration_cfg.py", 
-            "CalibMuon/DTCalibration/python/dtT0WireInChamberReferenceCorrection_cfg.py", 
-            "CalibMuon/DTCalibration/python/dtTPAnalyzer_cfg.py", 
-            "CalibMuon/DTCalibration/python/dtTPDQM_cfg.py", 
-            "CalibMuon/DTCalibration/python/dtTPDeadWriter_cfg.py", 
-            "CalibMuon/DTCalibration/python/dtTTrigCalibration_cfg.py", 
-            "CalibMuon/DTCalibration/python/dtTTrigCalibration_cosmics_cfg.py", 
-            "CalibMuon/DTCalibration/python/dtTTrigConstantShiftCorrection_cfg.py", 
-            "CalibMuon/DTCalibration/python/dtTTrigCorrection_cfg.py", 
-            "CalibMuon/DTCalibration/python/dtTTrigResidualCorrection_cfg.py", 
-            "CalibMuon/DTCalibration/python/dtTTrigValidSummary_cfg.py", 
-            "CalibMuon/DTCalibration/python/dtTTrigWriter_cfg.py", 
-            "CalibMuon/DTCalibration/python/dtVDriftMeanTimerWriter_cfg.py", 
-            "CalibMuon/DTCalibration/python/dtVDriftSegmentWriter_cfg.py", 
-            "CalibMuon/DTCalibration/python/dumpDBToFile_GT_ttrig_cfg.py", 
-            "CalibMuon/DTCalibration/python/dumpDBToFile_GT_vdrift_cfg.py"
-        ], 
-        "created_at": 1658309851, 
-        "number": 38798, 
-        "state": "open", 
-        "updated_at": 1658312512
-    }, 
     "38799": {
         "base_branch": "CMSSW_12_4_X", 
         "changed_files_names": [
