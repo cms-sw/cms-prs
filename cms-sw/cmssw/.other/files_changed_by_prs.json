@@ -2787,6 +2787,7 @@
             "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitSoAFromLegacy.cc", 
             "RecoLocalTracker/SiPixelRecHits/plugins/gpuPixelRecHits.h", 
             "RecoLocalTracker/SiPixelRecHits/python/PixelCPEESProducers_cff.py", 
+            "RecoLocalTracker/SiPixelRecHits/python/PixelCPEGeneric_cfi.py", 
             "RecoLocalTracker/SiPixelRecHits/python/SiPixelRecHits_cfi.py", 
             "RecoLocalTracker/SiPixelRecHits/src/PixelCPEFast.cc", 
             "RecoLocalTracker/SiPixelRecHits/src/PixelCPEGeneric.cc", 
@@ -2804,7 +2805,6 @@
             "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.cu", 
             "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.h", 
             "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernelsAlloc.cc", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernelsAlloc.cu", 
             "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernelsImpl.h", 
             "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorOnGPU.cc", 
             "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorOnGPU.h", 
@@ -2828,7 +2828,7 @@
         "created_at": 1657902617, 
         "number": 38761, 
         "state": "open", 
-        "updated_at": 1658319596
+        "updated_at": 1658392117
     }, 
     "38768": {
         "base_branch": "master", 
