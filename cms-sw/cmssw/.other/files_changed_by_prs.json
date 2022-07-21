@@ -3298,5 +3298,16 @@
         "number": 38823, 
         "state": "open", 
         "updated_at": 1658413003
+    }, 
+    "38824": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "CalibTracker/SiStripHitEfficiency/interface/SiStripHitEfficiencyHelpers.h", 
+            "CalibTracker/SiStripHitEfficiency/plugins/SiStripHitEfficiencyWorker.cc"
+        ], 
+        "created_at": 1658413053, 
+        "number": 38824, 
+        "state": "open", 
+        "updated_at": 1658413128
     }
 }
