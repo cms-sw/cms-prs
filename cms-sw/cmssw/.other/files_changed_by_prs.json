@@ -3261,5 +3261,20 @@
         "number": 38806, 
         "state": "open", 
         "updated_at": 1658344209
+    }, 
+    "38807": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoLocalCalo/HGCalRecAlgos/python/hgcalRecHitToolsPartialWafer_cff.py", 
+            "RecoLocalCalo/HGCalRecAlgos/test/HGCalRecHitToolsPartialWafer.cc", 
+            "RecoLocalCalo/HGCalRecAlgos/test/testHGCalPartialWaferDigi_cfg.py", 
+            "RecoLocalCalo/HGCalRecAlgos/test/testHGCalPartialWaferRecHit_cfg.py", 
+            "RecoLocalCalo/HGCalRecAlgos/test/testHGCalPartialWaferSimHit_cfg.py", 
+            "RecoLocalCalo/HGCalRecAlgos/test/testHGCalPartialWafer_cfg.py"
+        ], 
+        "created_at": 1658360969, 
+        "number": 38807, 
+        "state": "open", 
+        "updated_at": 1658360990
     }
 }
