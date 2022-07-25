@@ -2455,8 +2455,8 @@
         "changed_files_names": [
             "DQMOffline/Trigger/plugins/BuildFile.xml", 
             "DQMOffline/Trigger/plugins/ParticleNetJetTagMonitor.cc", 
-            "DQMOffline/Trigger/python/HiggsMonitoring_Client_cff.py", 
-            "DQMOffline/Trigger/python/HiggsMonitoring_cff.py", 
+            "DQMOffline/Trigger/python/DQMOffline_HLT_Client_cff.py", 
+            "DQMOffline/Trigger/python/DQMOffline_Trigger_cff.py", 
             "DQMOffline/Trigger/python/ParticleNetJetTagMonitoring_cfi.py", 
             "DQMOffline/Trigger/python/ParticleNetJetTag_Client_cfi.py", 
             "L1Trigger/Configuration/python/customiseUtils.py", 
@@ -2466,7 +2466,7 @@
         "created_at": 1657866581, 
         "number": 38748, 
         "state": "open", 
-        "updated_at": 1658332862
+        "updated_at": 1658752222
     }, 
     "38749": {
         "base_branch": "master", 
