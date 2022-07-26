@@ -1388,28 +1388,6 @@
         "state": "open", 
         "updated_at": 1658347824
     }, 
-    "38329": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4Core/CustomPhysics/BuildFile.xml", 
-            "SimG4Core/CustomPhysics/interface/APrimePhysics.h", 
-            "SimG4Core/CustomPhysics/interface/DBremWatcher.h", 
-            "SimG4Core/CustomPhysics/interface/G4APrime.h", 
-            "SimG4Core/CustomPhysics/interface/G4muDarkBremsstrahlung.h", 
-            "SimG4Core/CustomPhysics/interface/G4muDarkBremsstrahlungModel.h", 
-            "SimG4Core/CustomPhysics/python/DarkBrem_SIM_cfi.py", 
-            "SimG4Core/CustomPhysics/src/APrimePhysics.cc", 
-            "SimG4Core/CustomPhysics/src/CustomPhysics.cc", 
-            "SimG4Core/CustomPhysics/src/DBremWatcher.cc", 
-            "SimG4Core/CustomPhysics/src/G4APrime.cc", 
-            "SimG4Core/CustomPhysics/src/G4muDarkBremsstrahlung.cc", 
-            "SimG4Core/CustomPhysics/src/G4muDarkBremsstrahlungModel.cc"
-        ], 
-        "created_at": 1654892785, 
-        "number": 38329, 
-        "state": "open", 
-        "updated_at": 1658758116
-    }, 
     "38334": {
         "base_branch": "master", 
         "changed_files_names": [
