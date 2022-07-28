@@ -3109,5 +3109,16 @@
         "number": 38883, 
         "state": "open", 
         "updated_at": 1659015531
+    }, 
+    "38884": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackSoAFromCUDA.cc", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernelsImpl.h"
+        ], 
+        "created_at": 1659015491, 
+        "number": 38884, 
+        "state": "open", 
+        "updated_at": 1659015527
     }
 }
