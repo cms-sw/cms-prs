@@ -2862,13 +2862,26 @@
     "38856": {
         "base_branch": "master", 
         "changed_files_names": [
+            "CondTools/Ecal/data/EcalTPGOddWeightGroup_perstrip_test.txt", 
+            "CondTools/Ecal/data/EcalTPGOddWeightIdMap_perstrip_test.txt", 
+            "CondTools/Ecal/data/EcalTPGWeightGroup_perstrip_test.txt", 
+            "CondTools/Ecal/data/EcalTPGWeightIdMap_perstrip_test.txt", 
             "CondTools/Ecal/python/updateTPGOddWeightGroup.py", 
-            "CondTools/Ecal/python/updateTPGOddWeightIdMap.py"
+            "CondTools/Ecal/python/updateTPGOddWeightIdMap.py", 
+            "CondTools/Ecal/python/updateTPGWeightGroup.py", 
+            "CondTools/Ecal/python/updateTPGWeightIdMap.py", 
+            "CondTools/Ecal/scripts/create_idmaps.py", 
+            "CondTools/Ecal/test/BuildFile.xml", 
+            "CondTools/Ecal/test/EcalTPGWeightIdMap_v2_hlt_O2OTEST.db", 
+            "CondTools/Ecal/test/EcalTPG_updateOddWeightGroup_test.sh", 
+            "CondTools/Ecal/test/EcalTPG_updateOddWeightIdMap_test.sh", 
+            "CondTools/Ecal/test/EcalTPG_updateWeightGroup_test.sh", 
+            "CondTools/Ecal/test/EcalTPG_updateWeightIdMap_test.sh"
         ], 
         "created_at": 1658754884, 
         "number": 38856, 
         "state": "open", 
-        "updated_at": 1658754903
+        "updated_at": 1658988844
     }, 
     "38863": {
         "base_branch": "CMSSW_12_4_X", 
