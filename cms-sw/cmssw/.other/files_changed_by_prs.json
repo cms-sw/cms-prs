@@ -2952,12 +2952,17 @@
     "38875": {
         "base_branch": "master", 
         "changed_files_names": [
-            "FWCore/Framework/src/Principal.cc"
+            "FWCore/Framework/src/Principal.cc", 
+            "FWCore/Integration/test/BuildFile.xml", 
+            "FWCore/Integration/test/TestGetByLabelAnalyzer.cc", 
+            "FWCore/Integration/test/run_TestGetByLabel.sh", 
+            "FWCore/Integration/test/testGetByLabelStep1_cfg.py", 
+            "FWCore/Integration/test/testGetByLabelStep2_cfg.py"
         ], 
         "created_at": 1658941625, 
         "number": 38875, 
         "state": "open", 
-        "updated_at": 1658941649
+        "updated_at": 1659022794
     }, 
     "38876": {
         "base_branch": "CMSSW_12_4_X", 
