@@ -3058,5 +3058,25 @@
         "number": 38879, 
         "state": "open", 
         "updated_at": 1658997263
+    }, 
+    "38880": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/ProcessModifiers/python/ticl_v3_cff.py", 
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
+            "RecoHGCal/TICL/plugins/LinkingAlgoBase.h", 
+            "RecoHGCal/TICL/plugins/LinkingAlgoByDirectionGeometric.cc", 
+            "RecoHGCal/TICL/plugins/LinkingAlgoByDirectionGeometric.h", 
+            "RecoHGCal/TICL/plugins/LinkingAlgoFactory.cc", 
+            "RecoHGCal/TICL/plugins/LinkingAlgoFactory.h", 
+            "RecoHGCal/TICL/plugins/TrackstersMergeProducer.cc", 
+            "RecoHGCal/TICL/plugins/TrackstersMergeProducerV3.cc", 
+            "RecoHGCal/TICL/python/iterativeTICL_cff.py", 
+            "Validation/HGCalValidation/python/hgcalPlots.py"
+        ], 
+        "created_at": 1658999620, 
+        "number": 38880, 
+        "state": "open", 
+        "updated_at": 1658999646
     }
 }
