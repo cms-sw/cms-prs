@@ -3231,5 +3231,19 @@
         "number": 38901, 
         "state": "open", 
         "updated_at": 1659122923
+    }, 
+    "38902": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterCUDA.cc", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.cu", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.h", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/gpuClusterChargeCut.h", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/gpuClustering.h"
+        ], 
+        "created_at": 1659129174, 
+        "number": 38902, 
+        "state": "open", 
+        "updated_at": 1659129196
     }
 }
