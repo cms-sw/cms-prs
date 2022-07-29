@@ -2629,7 +2629,6 @@
             "FWCore/Framework/test/unit_test_outputs/test_onPath_unscheduled.log", 
             "FWCore/Integration/test/DoodadESSource.cc", 
             "FWCore/Integration/test/eventSetupTest.sh", 
-            "FWCore/Integration/test/run_SubProcess.sh", 
             "FWCore/Integration/test/run_TestGetBy.sh", 
             "FWCore/Integration/test/testConcurrentIOVsAndRunsRead_cfg.py", 
             "FWCore/Integration/test/testConcurrentIOVsAndRuns_cfg.py", 
@@ -2637,7 +2636,6 @@
             "FWCore/Integration/test/testGetByWithEmptyRun_cfg.py", 
             "FWCore/Integration/test/unit_test_outputs/testGetBy1.log", 
             "FWCore/Integration/test/unit_test_outputs/testGetBy2.log", 
-            "FWCore/Integration/test/unit_test_outputs/testSubProcess.grep.txt", 
             "FWCore/Integration/test/unit_test_outputs/testSubProcess.grep2.txt", 
             "FWCore/ParameterSet/src/validateTopLevelParameterSets.cc", 
             "FWCore/TFWLiteSelector/src/TFWLiteSelectorBasic.cc", 
@@ -2650,7 +2648,7 @@
         "created_at": 1658323126, 
         "number": 38801, 
         "state": "open", 
-        "updated_at": 1658952593
+        "updated_at": 1659106550
     }, 
     "38806": {
         "base_branch": "master", 
