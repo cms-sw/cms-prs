@@ -3048,12 +3048,13 @@
         "base_branch": "master", 
         "changed_files_names": [
             "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackSoAFromCUDA.cc", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernelsImpl.h"
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernelsImpl.h", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorOnGPU.cc"
         ], 
         "created_at": 1659015458, 
         "number": 38883, 
         "state": "open", 
-        "updated_at": 1659015531
+        "updated_at": 1659158851
     }, 
     "38884": {
         "base_branch": "CMSSW_12_4_X", 
