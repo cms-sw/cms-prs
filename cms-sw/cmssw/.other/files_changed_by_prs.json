@@ -3243,24 +3243,5 @@
         "number": 38905, 
         "state": "open", 
         "updated_at": 1659175342
-    }, 
-    "38906": {
-        "base_branch": "CMSSW_12_4_X", 
-        "changed_files_names": [
-            "SimG4Core/GeometryProducer/interface/GeometryProducer.h", 
-            "SimG4Core/GeometryProducer/src/GeometryProducer.cc", 
-            "TrackPropagation/Geant4e/python/geantRefit_cff.py", 
-            "TrackPropagation/Geant4e/test/BuildFile.xml", 
-            "TrackPropagation/Geant4e/test/Geant4ePropagatorAnalyzer.cc", 
-            "TrackPropagation/Geant4e/test/Geant4e_example_cfg.py", 
-            "TrackPropagation/Geant4e/test/SimpleGeant4ePropagatorTest.cc", 
-            "TrackPropagation/Geant4e/test/simpleTestPropagator_cfg.py", 
-            "TrackPropagation/Geant4e/test/testPropagatorAnalyzer.cfg", 
-            "TrackPropagation/Geant4e/test/testPropagatorAnalyzer_cfg.py"
-        ], 
-        "created_at": 1659176375, 
-        "number": 38906, 
-        "state": "open", 
-        "updated_at": 1659176417
     }
 }
