@@ -3301,5 +3301,16 @@
         "number": 38920, 
         "state": "open", 
         "updated_at": 1659360074
+    }, 
+    "38921": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.cu", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernelsImpl.h"
+        ], 
+        "created_at": 1659360166, 
+        "number": 38921, 
+        "state": "open", 
+        "updated_at": 1659360191
     }
 }
