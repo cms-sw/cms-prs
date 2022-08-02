@@ -2778,20 +2778,6 @@
         "state": "open", 
         "updated_at": 1658826295
     }, 
-    "38868": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterCUDA.cc", 
-            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.cu", 
-            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.h", 
-            "RecoLocalTracker/SiPixelClusterizer/plugins/gpuClusterChargeCut.h", 
-            "RecoLocalTracker/SiPixelClusterizer/plugins/gpuClustering.h"
-        ], 
-        "created_at": 1658884350, 
-        "number": 38868, 
-        "state": "open", 
-        "updated_at": 1658885174
-    }, 
     "38870": {
         "base_branch": "master", 
         "changed_files_names": [
