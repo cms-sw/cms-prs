@@ -3352,12 +3352,14 @@
         "base_branch": "master", 
         "changed_files_names": [
             "SimG4Core/CustomPhysics/interface/G4muDarkBremsstrahlung.h", 
-            "SimG4Core/CustomPhysics/src/G4muDarkBremsstrahlung.cc"
+            "SimG4Core/CustomPhysics/interface/G4muDarkBremsstrahlungModel.h", 
+            "SimG4Core/CustomPhysics/src/G4muDarkBremsstrahlung.cc", 
+            "SimG4Core/CustomPhysics/src/G4muDarkBremsstrahlungModel.cc"
         ], 
         "created_at": 1659448972, 
         "number": 38949, 
         "state": "open", 
-        "updated_at": 1659448995
+        "updated_at": 1659468813
     }, 
     "38950": {
         "base_branch": "CMSSW_12_4_X", 
