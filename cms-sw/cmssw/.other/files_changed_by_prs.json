@@ -3020,21 +3020,6 @@
         "state": "open", 
         "updated_at": 1659467390
     }, 
-    "38946": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/SiPixelDigi/interface/SiPixelDigiConstants.h", 
-            "HeterogeneousCore/CUDAUtilities/interface/cudaCompat.h", 
-            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.cu", 
-            "RecoLocalTracker/SiPixelClusterizer/plugins/gpuClusterChargeCut.h", 
-            "RecoLocalTracker/SiPixelClusterizer/plugins/gpuClustering.h", 
-            "RecoLocalTracker/SiPixelClusterizer/test/gpuClustering_t.h"
-        ], 
-        "created_at": 1659448671, 
-        "number": 38946, 
-        "state": "open", 
-        "updated_at": 1659601339
-    }, 
     "38947": {
         "base_branch": "CMSSW_12_4_X", 
         "changed_files_names": [
