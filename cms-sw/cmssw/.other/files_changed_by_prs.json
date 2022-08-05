@@ -3224,5 +3224,40 @@
         "number": 38982, 
         "state": "open", 
         "updated_at": 1659715349
+    }, 
+    "38983": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/StandardSequences/python/earlyDeleteSettings_cff.py", 
+            "DataFormats/Common/interface/Wrapper.h", 
+            "DataFormats/TestObjects/src/classes.h", 
+            "DataFormats/TestObjects/src/classes_def.xml", 
+            "FWCore/Framework/interface/EventProcessor.h", 
+            "FWCore/Framework/interface/Schedule.h", 
+            "FWCore/Framework/interface/StreamSchedule.h", 
+            "FWCore/Framework/src/EventProcessor.cc", 
+            "FWCore/Framework/src/Schedule.cc", 
+            "FWCore/Framework/src/StreamSchedule.cc", 
+            "FWCore/Framework/test/stubs/DeleteEarlyModules.cc", 
+            "FWCore/Framework/test/test_consumeAfterEarlyDeletePath_cfg.py", 
+            "FWCore/Framework/test/test_consumeAfterEarlyDeleteTask_cfg.py", 
+            "FWCore/Framework/test/test_deleteEarly.sh", 
+            "FWCore/Framework/test/test_multiPathEarlyDelete_cfg.py", 
+            "FWCore/Framework/test/test_multiPathMultiModuleEarlyDelete_cfg.py", 
+            "FWCore/Framework/test/test_nonConsumedModuleEarlyDelete_cfg.py", 
+            "FWCore/Framework/test/test_readAfterEarlyDelete_fail_cfg.py", 
+            "FWCore/Framework/test/test_referencingDeleteEarly_cfg.py", 
+            "FWCore/Framework/test/test_referencingDeleteEarly_fail_cfg.py", 
+            "FWCore/Framework/test/test_simpleDeleteEarly_cfg.py", 
+            "FWCore/Framework/test/test_subProcessDeleteEarly_cfg.py", 
+            "FWCore/ParameterSet/python/Config.py", 
+            "FWCore/ParameterSet/src/validateTopLevelParameterSets.cc", 
+            "FWCore/ServiceRegistry/interface/ConsumesInfo.h", 
+            "RecoTracker/Configuration/python/customiseEarlyDeleteForSeeding.py"
+        ], 
+        "created_at": 1659721506, 
+        "number": 38983, 
+        "state": "open", 
+        "updated_at": 1659721529
     }
 }
