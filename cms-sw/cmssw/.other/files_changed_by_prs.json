@@ -3208,5 +3208,22 @@
         "number": 38981, 
         "state": "open", 
         "updated_at": 1659711321
+    }, 
+    "38982": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "CalibPPS/TimingCalibration/plugins/PPSDiamondSampicTimingCalibrationPCLHarvester.cc", 
+            "CalibPPS/TimingCalibration/test/DiamondSampicCalibrationHarvester_cfg.py", 
+            "CalibPPS/TimingCalibration/test/DiamondSampicCalibrationWorker_cfg.py", 
+            "CondFormats/Common/data/PPSTimingCalibrationRcd_Sampic_prep.json", 
+            "CondFormats/Common/data/PPSTimingCalibrationRcd_Sampic_prod.json", 
+            "CondFormats/Common/test/ProduceDropBoxMetadata.py", 
+            "CondFormats/PPSObjects/src/PPSTimingCalibration.cc", 
+            "Configuration/StandardSequences/python/AlCaHarvesting_cff.py"
+        ], 
+        "created_at": 1659715305, 
+        "number": 38982, 
+        "state": "open", 
+        "updated_at": 1659715349
     }
 }
