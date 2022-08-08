@@ -2611,6 +2611,7 @@
         "changed_files_names": [
             "Configuration/ProcessModifiers/python/ticl_v3_cff.py", 
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
+            "DataFormats/HGCalReco/interface/Trackster.h", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/ticlTrackstersMerge_cfi.py", 
             "RecoHGCal/TICL/interface/commons.h", 
             "RecoHGCal/TICL/plugins/LinkingAlgoBase.h", 
@@ -2627,7 +2628,7 @@
         "created_at": 1658999620, 
         "number": 38880, 
         "state": "open", 
-        "updated_at": 1659955234
+        "updated_at": 1659955423
     }, 
     "38882": {
         "base_branch": "master", 
