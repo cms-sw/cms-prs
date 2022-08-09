@@ -3218,5 +3218,16 @@
         "number": 39004, 
         "state": "open", 
         "updated_at": 1659997325
+    }, 
+    "39009": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "Configuration/DataProcessing/test/run_CfgTest.sh", 
+            "Configuration/Skimming/python/autoSkim.py"
+        ], 
+        "created_at": 1660046309, 
+        "number": 39009, 
+        "state": "open", 
+        "updated_at": 1660046336
     }
 }
