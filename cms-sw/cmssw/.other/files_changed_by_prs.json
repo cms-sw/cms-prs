@@ -3311,11 +3311,13 @@
     "39037": {
         "base_branch": "CMSSW_12_4_X", 
         "changed_files_names": [
+            "HeterogeneousCore/CUDACore/test/BuildFile.xml", 
+            "HeterogeneousCore/CUDACore/test/mpiCudaGeneric.cu", 
             "HeterogeneousCore/MPICore/scripts/cmsenv_mpirun"
         ], 
         "created_at": 1660220036, 
         "number": 39037, 
         "state": "open", 
-        "updated_at": 1660220060
+        "updated_at": 1660222015
     }
 }
