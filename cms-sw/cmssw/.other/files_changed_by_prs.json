@@ -2987,7 +2987,6 @@
     "38986": {
         "base_branch": "master", 
         "changed_files_names": [
-            "DataFormats/TotemReco/BuildFile.xml", 
             "DataFormats/TotemReco/interface/TotemT2RecHit.h", 
             "DataFormats/TotemReco/src/TotemT2RecHit.cc", 
             "DataFormats/TotemReco/src/classes.h", 
@@ -3007,16 +3006,19 @@
             "RecoPPS/Local/interface/CTPPSDiamondRecHitProducerAlgorithm.h", 
             "RecoPPS/Local/interface/TimingRecHitProducerAlgorithm.h", 
             "RecoPPS/Local/interface/TotemT2RecHitProducerAlgorithm.h", 
+            "RecoPPS/Local/interface/TotemTimingRecHitProducerAlgorithm.h", 
             "RecoPPS/Local/plugins/TotemT2RecHitProducer.cc", 
+            "RecoPPS/Local/plugins/TotemTimingRecHitProducer.cc", 
             "RecoPPS/Local/src/CTPPSDiamondRecHitProducerAlgorithm.cc", 
             "RecoPPS/Local/src/TotemT2RecHitProducerAlgorithm.cc", 
+            "RecoPPS/Local/src/TotemTimingRecHitProducerAlgorithm.cc", 
             "RecoPPS/Local/test/totemT2_rechits_cfg.py", 
             "RecoPPS/Local/test/totemT2_reco_cfg.py"
         ], 
         "created_at": 1659859524, 
         "number": 38986, 
         "state": "open", 
-        "updated_at": 1659859553
+        "updated_at": 1660200253
     }, 
     "38990": {
         "base_branch": "master", 
