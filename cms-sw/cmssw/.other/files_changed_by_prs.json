@@ -3007,6 +3007,7 @@
             "RecoPPS/Local/interface/TimingRecHitProducerAlgorithm.h", 
             "RecoPPS/Local/interface/TotemT2RecHitProducerAlgorithm.h", 
             "RecoPPS/Local/interface/TotemTimingRecHitProducerAlgorithm.h", 
+            "RecoPPS/Local/plugins/CTPPSDiamondRecHitProducer.cc", 
             "RecoPPS/Local/plugins/TotemT2RecHitProducer.cc", 
             "RecoPPS/Local/plugins/TotemTimingRecHitProducer.cc", 
             "RecoPPS/Local/src/CTPPSDiamondRecHitProducerAlgorithm.cc", 
@@ -3018,7 +3019,7 @@
         "created_at": 1659859524, 
         "number": 38986, 
         "state": "open", 
-        "updated_at": 1660200253
+        "updated_at": 1660202757
     }, 
     "38990": {
         "base_branch": "master", 
