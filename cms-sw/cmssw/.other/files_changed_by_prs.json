@@ -2794,28 +2794,6 @@
         "state": "open", 
         "updated_at": 1660038872
     }, 
-    "38945": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc", 
-            "SimG4CMS/Calo/data/missingWafers.txt", 
-            "SimG4CMS/Calo/interface/CaloSimUtils.h", 
-            "SimG4CMS/Calo/interface/HGCalNumberingScheme.h", 
-            "SimG4CMS/Calo/interface/HGCalSD.h", 
-            "SimG4CMS/Calo/plugins/HGCalHitPartial.cc", 
-            "SimG4CMS/Calo/src/CaloSimUtils.cc", 
-            "SimG4CMS/Calo/src/HGCScintSD.cc", 
-            "SimG4CMS/Calo/src/HGCalNumberingScheme.cc", 
-            "SimG4CMS/Calo/src/HGCalSD.cc", 
-            "SimG4CMS/Calo/test/python/runHGC7_cfg.py", 
-            "SimG4Core/Application/python/g4SimHits_cfi.py", 
-            "Validation/HGCalValidation/plugins/SimG4HGCalValidation.cc"
-        ], 
-        "created_at": 1659447747, 
-        "number": 38945, 
-        "state": "open", 
-        "updated_at": 1659753173
-    }, 
     "38948": {
         "base_branch": "master", 
         "changed_files_names": [
