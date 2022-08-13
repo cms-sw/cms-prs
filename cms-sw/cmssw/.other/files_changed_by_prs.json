@@ -3177,5 +3177,16 @@
         "number": 39052, 
         "state": "open", 
         "updated_at": 1660391307
+    }, 
+    "39053": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "SimG4Core/Application/interface/ExceptionHandler.h", 
+            "SimG4Core/Application/src/ExceptionHandler.cc"
+        ], 
+        "created_at": 1660412590, 
+        "number": 39053, 
+        "state": "open", 
+        "updated_at": 1660412653
     }
 }
