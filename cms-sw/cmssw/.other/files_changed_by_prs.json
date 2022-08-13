@@ -3157,5 +3157,24 @@
         "number": 39051, 
         "state": "open", 
         "updated_at": 1660381320
+    }, 
+    "39052": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4Core/Application/interface/ExceptionHandler.h", 
+            "SimG4Core/Application/python/g4SimHits_cfi.py", 
+            "SimG4Core/Application/src/ExceptionHandler.cc", 
+            "SimG4Core/PhysicsLists/interface/CMSEmStandardPhysicsEMZ.h", 
+            "SimG4Core/PhysicsLists/interface/CMSEmStandardPhysicsLPM.h", 
+            "SimG4Core/PhysicsLists/plugins/FTFPCMS_BERT_EMZ.cc", 
+            "SimG4Core/PhysicsLists/src/CMSEmStandardPhysics.cc", 
+            "SimG4Core/PhysicsLists/src/CMSEmStandardPhysicsEMZ.cc", 
+            "SimG4Core/PhysicsLists/src/CMSEmStandardPhysicsLPM.cc", 
+            "SimG4Core/PhysicsLists/src/CMSEmStandardPhysicsXS.cc"
+        ], 
+        "created_at": 1660391283, 
+        "number": 39052, 
+        "state": "open", 
+        "updated_at": 1660391307
     }
 }
