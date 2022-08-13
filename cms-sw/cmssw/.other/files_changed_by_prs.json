@@ -846,29 +846,6 @@
         "state": "open", 
         "updated_at": 1652681815
     }, 
-    "36335": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/JetReco/interface/JPTJet.h", 
-            "DataFormats/JetReco/src/JPTJet.cc", 
-            "DataFormats/JetReco/src/classes_def_1.xml", 
-            "DataFormats/PatCandidates/interface/Jet.h", 
-            "JetMETCorrections/Algorithms/src/L1JPTOffsetCorrector.cc", 
-            "JetMETCorrections/Algorithms/src/L1JPTOffsetCorrectorImpl.cc", 
-            "PhysicsTools/PatAlgos/plugins/JPTJetSlimmer.cc", 
-            "PhysicsTools/PatAlgos/python/slimming/MicroEventContent_cff.py", 
-            "PhysicsTools/PatAlgos/python/slimming/slimmedJPTJets_cfi.py", 
-            "PhysicsTools/PatAlgos/python/slimming/slimming_cff.py", 
-            "RecoJets/JetPlusTracks/plugins/JetPlusTrackAddonSeedProducer.cc", 
-            "RecoJets/JetPlusTracks/plugins/JetPlusTrackProducer.cc", 
-            "RecoJets/JetPlusTracks/plugins/JetPlusTrackProducerAA.cc", 
-            "RecoJets/JetProducers/src/PileupJPTJetIdAlgo.cc"
-        ], 
-        "created_at": 1638450595, 
-        "number": 36335, 
-        "state": "open", 
-        "updated_at": 1659844143
-    }, 
     "36473": {
         "base_branch": "master", 
         "changed_files_names": [
