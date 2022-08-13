@@ -1639,6 +1639,7 @@
             "HLTrigger/Configuration/python/HLT_75e33/modules/L1TkIsoEmSingle36Filter_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltDoubleMuon7DZ1p0_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltL1SingleMuFiltered5_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltL1TEGammaHGCFilteredCollectionProducer_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltL1TkDoubleMuFiltered7_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltL1TkMuons_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltL1TkSingleMuFiltered15_cfi.py", 
@@ -1761,7 +1762,7 @@
         "created_at": 1655723929, 
         "number": 38442, 
         "state": "open", 
-        "updated_at": 1660041660
+        "updated_at": 1660393532
     }, 
     "38454": {
         "base_branch": "master", 
