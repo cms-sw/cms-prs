@@ -3140,7 +3140,9 @@
             "Geometry/HGCalGeometry/src/HGCalGeometryLoader.cc", 
             "SimG4CMS/Calo/interface/HGCScintSD.h", 
             "SimG4CMS/Calo/interface/HGCalNumberingScheme.h", 
-            "SimG4CMS/Calo/plugins/HGCalHitScint.cc", 
+            "SimG4CMS/Calo/plugins/HGCalTestPartialWaferHits.cc", 
+            "SimG4CMS/Calo/plugins/HGCalHitPartial.cc", 
+            "SimG4CMS/Calo/plugins/HGCalTestScintHits.cc", 
             "SimG4CMS/Calo/src/HGCScintSD.cc", 
             "SimG4CMS/Calo/src/HGCalNumberingScheme.cc", 
             "SimG4CMS/Calo/test/python/runHGC8_cfg.py", 
@@ -3149,6 +3151,6 @@
         "created_at": 1661066861, 
         "number": 39130, 
         "state": "open", 
-        "updated_at": 1661066884
+        "updated_at": 1661094257
     }
 }
