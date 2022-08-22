@@ -2843,12 +2843,14 @@
     "39118": {
         "base_branch": "master", 
         "changed_files_names": [
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/MultiClusterAssociatorByEnergyScoreImpl.h"
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToSCAssociatorByEnergyScoreImpl.h", 
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/MultiClusterAssociatorByEnergyScoreImpl.h", 
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/TSToSCAssociatorByEnergyScoreImpl.h"
         ], 
         "created_at": 1660912624, 
         "number": 39118, 
         "state": "open", 
-        "updated_at": 1661152634
+        "updated_at": 1661181042
     }, 
     "39119": {
         "base_branch": "master", 
