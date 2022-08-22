@@ -2379,12 +2379,19 @@
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
             "DataFormats/HGCalReco/interface/Trackster.h", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/ticlTrackstersMerge_cfi.py", 
+            "RecoHGCal/TICL/interface/PatternRecognitionAlgoBase.h", 
             "RecoHGCal/TICL/interface/commons.h", 
+            "RecoHGCal/TICL/plugins/HGCGraph.cc", 
+            "RecoHGCal/TICL/plugins/HGCGraph.h", 
             "RecoHGCal/TICL/plugins/LinkingAlgoBase.h", 
             "RecoHGCal/TICL/plugins/LinkingAlgoByDirectionGeometric.cc", 
             "RecoHGCal/TICL/plugins/LinkingAlgoByDirectionGeometric.h", 
             "RecoHGCal/TICL/plugins/LinkingAlgoFactory.cc", 
             "RecoHGCal/TICL/plugins/LinkingAlgoFactory.h", 
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyCA.cc", 
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyCLUE3D.cc", 
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyFastJet.cc", 
+            "RecoHGCal/TICL/plugins/SeedingRegionAlgoBase.h", 
             "RecoHGCal/TICL/plugins/SimTrackstersProducer.cc", 
             "RecoHGCal/TICL/plugins/TrackstersMergeProducer.cc", 
             "RecoHGCal/TICL/plugins/TrackstersMergeProducerV3.cc", 
@@ -2394,7 +2401,7 @@
         "created_at": 1658999620, 
         "number": 38880, 
         "state": "open", 
-        "updated_at": 1660653993
+        "updated_at": 1661180665
     }, 
     "38924": {
         "base_branch": "master", 
