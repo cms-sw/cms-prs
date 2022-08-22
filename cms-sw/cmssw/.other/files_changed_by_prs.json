@@ -2508,43 +2508,6 @@
         "state": "open", 
         "updated_at": 1660651436
     }, 
-    "38986": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/TotemReco/interface/TotemT2RecHit.h", 
-            "DataFormats/TotemReco/src/TotemT2RecHit.cc", 
-            "DataFormats/TotemReco/src/classes.h", 
-            "DataFormats/TotemReco/src/classes_def.xml", 
-            "Geometry/ForwardGeometry/BuildFile.xml", 
-            "Geometry/ForwardGeometry/interface/TotemGeometry.h", 
-            "Geometry/ForwardGeometry/interface/TotemT2Tile.h", 
-            "Geometry/ForwardGeometry/plugins/TotemGeometryESModule.cc", 
-            "Geometry/ForwardGeometry/src/ES_TotemGeometry.cc", 
-            "Geometry/ForwardGeometry/src/TotemGeometry.cc", 
-            "Geometry/ForwardGeometry/src/TotemT2Tile.cc", 
-            "Geometry/Records/interface/PTotemRcd.h", 
-            "Geometry/Records/interface/TotemGeometryRcd.h", 
-            "Geometry/Records/src/PTotemRcd.cc", 
-            "Geometry/Records/src/TotemGeometryRcd.cc", 
-            "RecoPPS/Local/BuildFile.xml", 
-            "RecoPPS/Local/interface/CTPPSDiamondRecHitProducerAlgorithm.h", 
-            "RecoPPS/Local/interface/TimingRecHitProducerAlgorithm.h", 
-            "RecoPPS/Local/interface/TotemT2RecHitProducerAlgorithm.h", 
-            "RecoPPS/Local/interface/TotemTimingRecHitProducerAlgorithm.h", 
-            "RecoPPS/Local/plugins/CTPPSDiamondRecHitProducer.cc", 
-            "RecoPPS/Local/plugins/TotemT2RecHitProducer.cc", 
-            "RecoPPS/Local/plugins/TotemTimingRecHitProducer.cc", 
-            "RecoPPS/Local/src/CTPPSDiamondRecHitProducerAlgorithm.cc", 
-            "RecoPPS/Local/src/TotemT2RecHitProducerAlgorithm.cc", 
-            "RecoPPS/Local/src/TotemTimingRecHitProducerAlgorithm.cc", 
-            "RecoPPS/Local/test/totemT2_rechits_cfg.py", 
-            "RecoPPS/Local/test/totemT2_reco_cfg.py"
-        ], 
-        "created_at": 1659859524, 
-        "number": 38986, 
-        "state": "open", 
-        "updated_at": 1661151669
-    }, 
     "38995": {
         "base_branch": "master", 
         "changed_files_names": [
