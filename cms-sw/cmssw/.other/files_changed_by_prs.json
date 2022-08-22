@@ -2301,11 +2301,15 @@
             "FWCore/Framework/test/unit_test_outputs/statemachine_output_9.txt", 
             "FWCore/Framework/test/unit_test_outputs/test_deepCall_unscheduled.log", 
             "FWCore/Framework/test/unit_test_outputs/test_onPath_unscheduled.log", 
+            "FWCore/Integration/test/BuildFile.xml", 
             "FWCore/Integration/test/DoodadESSource.cc", 
+            "FWCore/Integration/test/ExceptionThrowingProducer.cc", 
             "FWCore/Integration/test/eventSetupTest.sh", 
+            "FWCore/Integration/test/run_TestFrameworkExceptionHandling.sh", 
             "FWCore/Integration/test/run_TestGetBy.sh", 
             "FWCore/Integration/test/testConcurrentIOVsAndRunsRead_cfg.py", 
             "FWCore/Integration/test/testConcurrentIOVsAndRuns_cfg.py", 
+            "FWCore/Integration/test/testFrameworkExceptionHandling_cfg.py", 
             "FWCore/Integration/test/testGetByRunsMode_cfg.py", 
             "FWCore/Integration/test/testGetByWithEmptyRun_cfg.py", 
             "FWCore/Integration/test/unit_test_outputs/testGetBy1.log", 
@@ -2322,7 +2326,7 @@
         "created_at": 1658323126, 
         "number": 38801, 
         "state": "open", 
-        "updated_at": 1660859879
+        "updated_at": 1661177565
     }, 
     "38840": {
         "base_branch": "master", 
