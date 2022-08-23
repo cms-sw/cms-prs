@@ -1844,28 +1844,6 @@
         "state": "open", 
         "updated_at": 1657171941
     }, 
-    "38644": {
-        "base_branch": "CMSSW_12_3_X", 
-        "changed_files_names": [
-            "Configuration/StandardSequences/python/AlCaRecoStreams_cff.py", 
-            "DQMOffline/Alignment/BuildFile.xml", 
-            "DQMOffline/Alignment/interface/DiMuonVertexMonitor.h", 
-            "DQMOffline/Alignment/interface/TkAlCaRecoMonitor.h", 
-            "DQMOffline/Alignment/python/ALCARECOTkAlDQM_cff.py", 
-            "DQMOffline/Alignment/python/DiMuonVertexMonitor_cfi.py", 
-            "DQMOffline/Alignment/src/DiMuonVertexMonitor.cc", 
-            "DQMOffline/Alignment/src/TkAlCaRecoMonitor.cc", 
-            "DQMOffline/Alignment/test/BuildFile.xml", 
-            "DQMOffline/Alignment/test/DiMuonVertexValidator_cfg.py", 
-            "DQMOffline/Alignment/test/DiMuonVertex_HARVESTING.py", 
-            "DQMOffline/Alignment/test/TestDriver.cpp", 
-            "DQMOffline/Alignment/test/testDiMuonVertexMonitor.sh"
-        ], 
-        "created_at": 1657225773, 
-        "number": 38644, 
-        "state": "open", 
-        "updated_at": 1658818605
-    }, 
     "38702": {
         "base_branch": "master", 
         "changed_files_names": [
