@@ -1998,6 +1998,8 @@
             "Geometry/CommonTopologies/interface/SimplePixelTopology.h", 
             "Geometry/TrackerGeometryBuilder/test/phase1PixelTopology_t.cu", 
             "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/PixelThresholdClusterizer.cc", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/PixelThresholdClusterizer.h", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelDigisClustersFromSoA.cc", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.cu", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/gpuCalibPixel.h", 
@@ -2020,6 +2022,7 @@
             "RecoLocalTracker/SiPixelRecHits/python/SiPixelRecHits_cfi.py", 
             "RecoLocalTracker/SiPixelRecHits/src/PixelCPEFast.cc", 
             "RecoLocalTracker/SiPixelRecHits/src/PixelCPEGeneric.cc", 
+            "RecoPixelVertexing/Configuration/python/RecoPixelVertexing_cff.py", 
             "RecoPixelVertexing/PixelTrackFitting/plugins/BuildFile.xml", 
             "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackDumpCUDA.cc", 
             "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackProducerFromSoA.cc", 
@@ -2030,6 +2033,7 @@
             "RecoPixelVertexing/PixelTriplets/plugins/BrokenLineFitOnGPU.h", 
             "RecoPixelVertexing/PixelTriplets/plugins/CAConstants.h", 
             "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletCUDA.cc", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletEDProducerT.cc", 
             "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.cc", 
             "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.cu", 
             "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.h", 
@@ -2057,7 +2061,7 @@
         "created_at": 1657902617, 
         "number": 38761, 
         "state": "open", 
-        "updated_at": 1660902177
+        "updated_at": 1661320628
     }, 
     "38784": {
         "base_branch": "master", 
