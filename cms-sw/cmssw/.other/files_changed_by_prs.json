@@ -2033,7 +2033,6 @@
             "RecoPixelVertexing/PixelTriplets/plugins/BrokenLineFitOnGPU.h", 
             "RecoPixelVertexing/PixelTriplets/plugins/CAConstants.h", 
             "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletCUDA.cc", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletEDProducerT.cc", 
             "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.cc", 
             "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.cu", 
             "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.h", 
@@ -2061,7 +2060,7 @@
         "created_at": 1657902617, 
         "number": 38761, 
         "state": "open", 
-        "updated_at": 1661320628
+        "updated_at": 1661321480
     }, 
     "38784": {
         "base_branch": "master", 
