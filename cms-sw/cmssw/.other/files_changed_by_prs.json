@@ -2967,5 +2967,20 @@
         "number": 39173, 
         "state": "open", 
         "updated_at": 1661336034
+    }, 
+    "39175": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "HLTrigger/HLTcore/src/TriggerExpressionData.cc", 
+            "HLTrigger/HLTfilters/plugins/TriggerResultsFilter.cc", 
+            "HLTrigger/HLTfilters/plugins/TriggerResultsFilter.h", 
+            "HLTrigger/HLTfilters/test/triggerResultsFilter_by_PathStatus.py", 
+            "HLTrigger/HLTfilters/test/triggerResultsFilter_by_TriggerResults.py", 
+            "HLTrigger/HLTfilters/test/triggerResultsFilter_producer.py"
+        ], 
+        "created_at": 1661338199, 
+        "number": 39175, 
+        "state": "open", 
+        "updated_at": 1661338244
     }
 }
