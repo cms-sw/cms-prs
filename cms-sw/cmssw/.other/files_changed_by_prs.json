@@ -3014,5 +3014,24 @@
         "number": 39191, 
         "state": "open", 
         "updated_at": 1661421014
+    }, 
+    "39192": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondTools/SiPixel/plugins/SiPixelCondObjForHLTReader.cc", 
+            "CondTools/SiPixel/plugins/SiPixelCondObjOfflineReader.cc", 
+            "CondTools/SiPixel/plugins/SiPixelCondObjReader.cc", 
+            "CondTools/SiPixel/plugins/SiPixelGainCalibrationRejectNoisyAndDead.cc", 
+            "CondTools/SiPixel/test/BuildFile.xml", 
+            "CondTools/SiPixel/test/SiPixelCondObjForHLTReader_cfg.py", 
+            "CondTools/SiPixel/test/SiPixelCondObjOfflineReader_cfg.py", 
+            "CondTools/SiPixel/test/SiPixelCondObjReader_cfg.py", 
+            "CondTools/SiPixel/test/SiPixelGainCalibrationRejectNoisyAndDead_cfg.py", 
+            "CondTools/SiPixel/test/testSiPixelGainCalibrationHandlers.sh"
+        ], 
+        "created_at": 1661425809, 
+        "number": 39192, 
+        "state": "open", 
+        "updated_at": 1661425830
     }
 }
