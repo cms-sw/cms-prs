@@ -723,8 +723,6 @@
             "DataFormats/SiStripCluster/src/SiStripClustersSOA.cc", 
             "DataFormats/SiStripCluster/src/classes.h", 
             "DataFormats/SiStripCluster/src/classes_def.xml", 
-            "RecoLocalTracker/Records/interface/SiStripClusterizerConditionsGPURcd.h", 
-            "RecoLocalTracker/Records/src/SiStripClusterizerConditionsGPURcd.cc", 
             "RecoLocalTracker/SiStripClusterizer/BuildFile.xml", 
             "RecoLocalTracker/SiStripClusterizer/interface/StripClusterizerAlgorithmFactory.h", 
             "RecoLocalTracker/SiStripClusterizer/interface/ThreeThresholdAlgorithm.h", 
@@ -754,7 +752,7 @@
         "created_at": 1627240643, 
         "number": 34618, 
         "state": "open", 
-        "updated_at": 1661410303
+        "updated_at": 1661427716
     }, 
     "34812": {
         "base_branch": "master", 
