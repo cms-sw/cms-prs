@@ -2875,5 +2875,28 @@
         "number": 39219, 
         "state": "open", 
         "updated_at": 1661526954
+    }, 
+    "39220": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Calibration/HcalCalibAlgos/test/GammaJetAnalysis.cc", 
+            "Calibration/IsolatedParticles/plugins/IsoTrig.cc", 
+            "CommonTools/TriggerUtils/plugins/CandidateTriggerObjectProducer.cc", 
+            "DQMOffline/Trigger/plugins/BPHMonitor.cc", 
+            "DataFormats/PatCandidates/interface/PackedTriggerPrescales.h", 
+            "DataFormats/PatCandidates/src/PackedTriggerPrescales.cc", 
+            "DataFormats/PatCandidates/src/classes_def_trigger.xml", 
+            "HLTrigger/HLTcore/interface/HLTPrescaleProvider.h", 
+            "HLTrigger/HLTcore/plugins/HLTEventAnalyzerAOD.cc", 
+            "HLTrigger/HLTcore/plugins/HLTPrescaleExample.cc", 
+            "HLTrigger/HLTcore/src/HLTPrescaleProvider.cc", 
+            "PhysicsTools/Heppy/interface/TriggerBitChecker.h", 
+            "PhysicsTools/Heppy/src/TriggerBitChecker.cc", 
+            "PhysicsTools/PatAlgos/plugins/PATTriggerProducer.cc"
+        ], 
+        "created_at": 1661530996, 
+        "number": 39220, 
+        "state": "open", 
+        "updated_at": 1661531025
     }
 }
