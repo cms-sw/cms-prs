@@ -2649,6 +2649,8 @@
     "39195": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Configuration/PyReleaseValidation/README.md", 
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
             "RecoLocalCalo/EcalRecProducers/plugins/EcalPhase2DigiToGPUProducer.cc", 
             "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitPhase2WeightsKernels.cu", 
             "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitPhase2WeightsProducerGPU.cc", 
@@ -2657,7 +2659,7 @@
         "created_at": 1661436891, 
         "number": 39195, 
         "state": "open", 
-        "updated_at": 1661436918
+        "updated_at": 1661520474
     }, 
     "39196": {
         "base_branch": "master", 
