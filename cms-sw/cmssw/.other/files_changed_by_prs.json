@@ -2741,6 +2741,8 @@
     "39217": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/relval_production.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
             "DQMOffline/Alignment/python/ALCARECOTkAlDQM_cff.py", 
             "DQMOffline/Alignment/python/DiMuonMassBiasHarvesting_cff.py", 
             "DQMOffline/Alignment/src/DiMuonMassBiasClient.cc", 
@@ -2751,7 +2753,7 @@
         "created_at": 1661518223, 
         "number": 39217, 
         "state": "open", 
-        "updated_at": 1661525420
+        "updated_at": 1661765029
     }, 
     "39218": {
         "base_branch": "master", 
