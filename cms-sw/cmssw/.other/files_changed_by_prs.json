@@ -3003,5 +3003,16 @@
         "number": 39253, 
         "state": "open", 
         "updated_at": 1661885476
+    }, 
+    "39254": {
+        "base_branch": "CMSSW_12_5_X", 
+        "changed_files_names": [
+            "L1Trigger/L1TGlobal/plugins/L1TExtCondProducer.cc", 
+            "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py"
+        ], 
+        "created_at": 1661885878, 
+        "number": 39254, 
+        "state": "open", 
+        "updated_at": 1661885912
     }
 }
