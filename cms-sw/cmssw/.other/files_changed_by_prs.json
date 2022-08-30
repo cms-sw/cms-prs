@@ -878,29 +878,6 @@
         "state": "open", 
         "updated_at": 1661666615
     }, 
-    "37278": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/Catalog/interface/FileLocator.h", 
-            "FWCore/Catalog/interface/InputFileCatalog.h", 
-            "FWCore/Catalog/interface/SiteLocalConfig.h", 
-            "FWCore/Catalog/src/FileLocator.cc", 
-            "FWCore/Catalog/src/InputFileCatalog.cc", 
-            "FWCore/Catalog/test/FileLocator_t.cpp", 
-            "FWCore/Catalog/test/storage.json", 
-            "FWCore/Services/src/SiteLocalConfigService.cc", 
-            "FWCore/Services/src/SiteLocalConfigService.h", 
-            "FWCore/Services/test/full-site-local-config.testfile", 
-            "FWCore/Services/test/no-source-site-local-config.testfile", 
-            "FWCore/Services/test/source-site-local-config.testfile", 
-            "FWCore/Services/test/test_catch2_SiteLocalConfigService.cc", 
-            "FWCore/Services/test/test_sitelocalconfig.sh"
-        ], 
-        "created_at": 1647638527, 
-        "number": 37278, 
-        "state": "open", 
-        "updated_at": 1661772222
-    }, 
     "37359": {
         "base_branch": "master", 
         "changed_files_names": [
