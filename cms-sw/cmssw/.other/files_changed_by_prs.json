@@ -1962,37 +1962,6 @@
         "state": "open", 
         "updated_at": 1661791206
     }, 
-    "38880": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/ProcessModifiers/python/ticl_v3_cff.py", 
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
-            "DataFormats/HGCalReco/interface/Trackster.h", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/ticlTrackstersMerge_cfi.py", 
-            "RecoHGCal/TICL/interface/PatternRecognitionAlgoBase.h", 
-            "RecoHGCal/TICL/interface/commons.h", 
-            "RecoHGCal/TICL/plugins/HGCGraph.cc", 
-            "RecoHGCal/TICL/plugins/HGCGraph.h", 
-            "RecoHGCal/TICL/plugins/LinkingAlgoBase.h", 
-            "RecoHGCal/TICL/plugins/LinkingAlgoByDirectionGeometric.cc", 
-            "RecoHGCal/TICL/plugins/LinkingAlgoByDirectionGeometric.h", 
-            "RecoHGCal/TICL/plugins/LinkingAlgoFactory.cc", 
-            "RecoHGCal/TICL/plugins/LinkingAlgoFactory.h", 
-            "RecoHGCal/TICL/plugins/PatternRecognitionbyCA.cc", 
-            "RecoHGCal/TICL/plugins/PatternRecognitionbyCLUE3D.cc", 
-            "RecoHGCal/TICL/plugins/PatternRecognitionbyFastJet.cc", 
-            "RecoHGCal/TICL/plugins/SeedingRegionAlgoBase.h", 
-            "RecoHGCal/TICL/plugins/SimTrackstersProducer.cc", 
-            "RecoHGCal/TICL/plugins/TrackstersMergeProducer.cc", 
-            "RecoHGCal/TICL/plugins/TrackstersMergeProducerV3.cc", 
-            "RecoHGCal/TICL/python/iterativeTICL_cff.py", 
-            "Validation/HGCalValidation/python/hgcalPlots.py"
-        ], 
-        "created_at": 1658999620, 
-        "number": 38880, 
-        "state": "open", 
-        "updated_at": 1661791296
-    }, 
     "38924": {
         "base_branch": "master", 
         "changed_files_names": [
