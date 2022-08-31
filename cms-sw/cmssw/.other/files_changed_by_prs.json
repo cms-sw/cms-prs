@@ -2462,6 +2462,7 @@
         "changed_files_names": [
             "RecoLocalCalo/HcalRecAlgos/interface/MahiFit.h", 
             "RecoLocalCalo/HcalRecAlgos/src/MahiFit.cc", 
+            "RecoLocalCalo/HcalRecAlgos/src/SimpleHBHEPhase1Algo.cc", 
             "RecoLocalCalo/HcalRecAlgos/src/parseHBHEPhase1AlgoDescription.cc", 
             "RecoLocalCalo/HcalRecAlgos/test/MahiDebugger.cc", 
             "RecoLocalCalo/HcalRecProducers/python/HBHEMahiParameters_cfi.py"
@@ -2469,7 +2470,7 @@
         "created_at": 1661751266, 
         "number": 39227, 
         "state": "open", 
-        "updated_at": 1661867374
+        "updated_at": 1661950001
     }, 
     "39228": {
         "base_branch": "CMSSW_12_5_X", 
