@@ -2530,13 +2530,15 @@
     "39237": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Validation/RecoVertex/interface/PrimaryVertexAnalyzer4PUSlimmed.h", 
+            "Validation/RecoVertex/python/PrimaryVertexAnalyzer4PUSlimmed_cfi.py", 
             "Validation/RecoVertex/python/plotting/vertexPlots.py", 
             "Validation/RecoVertex/src/PrimaryVertexAnalyzer4PUSlimmed.cc"
         ], 
         "created_at": 1661775008, 
         "number": 39237, 
         "state": "open", 
-        "updated_at": 1661917980
+        "updated_at": 1661969539
     }, 
     "39238": {
         "base_branch": "master", 
