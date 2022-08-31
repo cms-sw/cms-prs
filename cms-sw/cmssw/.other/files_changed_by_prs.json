@@ -3057,5 +3057,20 @@
         "number": 39273, 
         "state": "open", 
         "updated_at": 1661951478
+    }, 
+    "39274": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondCore/CTPPSPlugins/interface/CTPPSRPAlignmentCorrectionsDataHelper.h", 
+            "CondCore/CTPPSPlugins/interface/PPSAlignmentConfigurationHelper.h", 
+            "CondCore/CTPPSPlugins/plugins/BuildFile.xml", 
+            "CondCore/CTPPSPlugins/plugins/CTPPSRPAlignmentCorrectionsData_PayloadInspector.cc", 
+            "CondCore/CTPPSPlugins/plugins/PPSAlignmentConfiguration_PayloadInspector.cc", 
+            "CondCore/CTPPSPlugins/test/testPPSRPAlignmentCorrections.sh"
+        ], 
+        "created_at": 1661952694, 
+        "number": 39274, 
+        "state": "open", 
+        "updated_at": 1661952717
     }
 }
