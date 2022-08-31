@@ -2953,5 +2953,43 @@
         "number": 39258, 
         "state": "open", 
         "updated_at": 1661923108
+    }, 
+    "39260": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "DataFormats/CSCDigi/interface/CSCShowerDigi.h", 
+            "DataFormats/CSCDigi/src/CSCShowerDigi.cc", 
+            "DataFormats/CSCDigi/src/classes_def.xml", 
+            "EventFilter/CSCRawToDigi/interface/CSCALCTHeader.h", 
+            "EventFilter/CSCRawToDigi/interface/CSCTMBHeader.h", 
+            "EventFilter/CSCRawToDigi/interface/CSCTMBHeader2006.h", 
+            "EventFilter/CSCRawToDigi/interface/CSCTMBHeader2007.h", 
+            "EventFilter/CSCRawToDigi/interface/CSCTMBHeader2007_rev0x50c3.h", 
+            "EventFilter/CSCRawToDigi/interface/CSCTMBHeader2013.h", 
+            "EventFilter/CSCRawToDigi/interface/CSCTMBHeader2020_CCLUT.h", 
+            "EventFilter/CSCRawToDigi/interface/CSCTMBHeader2020_GEM.h", 
+            "EventFilter/CSCRawToDigi/interface/CSCTMBHeader2020_Run2.h", 
+            "EventFilter/CSCRawToDigi/interface/CSCTMBHeader2020_TMB.h", 
+            "EventFilter/CSCRawToDigi/interface/CSCVTMBHeaderFormat.h", 
+            "EventFilter/CSCRawToDigi/src/CSCALCTHeader.cc", 
+            "EventFilter/CSCRawToDigi/src/CSCTMBHeader2020_CCLUT.cc", 
+            "EventFilter/CSCRawToDigi/src/CSCTMBHeader2020_GEM.cc", 
+            "EventFilter/CSCRawToDigi/src/CSCTMBHeader2020_TMB.cc", 
+            "EventFilter/L1TRawToDigi/plugins/implementations_stage2/EMTFBlockME.cc", 
+            "L1Trigger/CSCTriggerPrimitives/interface/CSCAnodeLCTProcessor.h", 
+            "L1Trigger/CSCTriggerPrimitives/interface/CSCCathodeLCTProcessor.h", 
+            "L1Trigger/CSCTriggerPrimitives/interface/CSCMotherboard.h", 
+            "L1Trigger/CSCTriggerPrimitives/interface/CSCTriggerPrimitivesBuilder.h", 
+            "L1Trigger/CSCTriggerPrimitives/python/cscTriggerPrimitiveDigis_cfi.py", 
+            "L1Trigger/CSCTriggerPrimitives/python/params/showerParams.py", 
+            "L1Trigger/CSCTriggerPrimitives/src/CSCAnodeLCTProcessor.cc", 
+            "L1Trigger/CSCTriggerPrimitives/src/CSCCathodeLCTProcessor.cc", 
+            "L1Trigger/CSCTriggerPrimitives/src/CSCMotherboard.cc", 
+            "L1Trigger/CSCTriggerPrimitives/src/CSCTriggerPrimitivesBuilder.cc"
+        ], 
+        "created_at": 1661929044, 
+        "number": 39260, 
+        "state": "open", 
+        "updated_at": 1661929069
     }
 }
