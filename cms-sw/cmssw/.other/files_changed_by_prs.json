@@ -2251,33 +2251,6 @@
         "state": "open", 
         "updated_at": 1661666666
     }, 
-    "39168": {
-        "base_branch": "CMSSW_12_4_X", 
-        "changed_files_names": [
-            "DQMOffline/Lumi/BuildFile.xml", 
-            "DQMOffline/Lumi/interface/TTrigger.h", 
-            "DQMOffline/Lumi/interface/TriggerDefs.h", 
-            "DQMOffline/Lumi/interface/TriggerRecord.h", 
-            "DQMOffline/Lumi/interface/TriggerTools.h", 
-            "DQMOffline/Lumi/plugins/ZCounting.cc", 
-            "DQMOffline/Lumi/plugins/ZCounting.h", 
-            "DQMOffline/Lumi/plugins/ZCountingElectrons.cc", 
-            "DQMOffline/Lumi/plugins/ZCountingElectrons.h", 
-            "DQMOffline/Lumi/python/ZCounting_cff.py", 
-            "DQMOffline/Lumi/python/ZCounting_cfi.py", 
-            "DQMOffline/Lumi/src/ElectronIdentifier.cc", 
-            "DQMOffline/Lumi/src/TTrigger.cc", 
-            "DQMOffline/Lumi/src/TriggerTools.cc", 
-            "DQMOffline/Lumi/test/ZCounting_cfg.py", 
-            "DQMOffline/Lumi/test/zcounting_step1_fromAOD.py", 
-            "DQMOffline/Lumi/test/zcounting_step1_fromRAW.py", 
-            "DQMOffline/Lumi/test/zcounting_step2_fromAOD.py"
-        ], 
-        "created_at": 1661323273, 
-        "number": 39168, 
-        "state": "open", 
-        "updated_at": 1661791696
-    }, 
     "39178": {
         "base_branch": "master", 
         "changed_files_names": [
