@@ -2730,11 +2730,13 @@
     }, 
     "39249": {
         "base_branch": "master", 
-        "changed_files_names": [], 
+        "changed_files_names": [
+            "SimG4Core/Application/python/g4SimHits_cfi.py"
+        ], 
         "created_at": 1661851494, 
         "number": 39249, 
         "state": "open", 
-        "updated_at": 1662018006
+        "updated_at": 1662019173
     }, 
     "39251": {
         "base_branch": "CMSSW_12_5_X", 
