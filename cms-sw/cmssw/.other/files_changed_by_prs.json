@@ -2654,23 +2654,6 @@
         "state": "open", 
         "updated_at": 1661859089
     }, 
-    "39248": {
-        "base_branch": "CMSSW_12_4_X", 
-        "changed_files_names": [
-            "Configuration/PyReleaseValidation/python/relval_production.py", 
-            "Configuration/PyReleaseValidation/python/relval_steps.py", 
-            "DQMOffline/Alignment/python/ALCARECOTkAlDQM_cff.py", 
-            "DQMOffline/Alignment/python/DiMuonMassBiasHarvesting_cff.py", 
-            "DQMOffline/Alignment/src/DiMuonMassBiasClient.cc", 
-            "DQMOffline/Alignment/src/DiMuonMassBiasMonitor.cc", 
-            "DQMOffline/Alignment/test/DiMuonVertexValidator_cfg.py", 
-            "DQMOffline/Configuration/python/DQMOffline_SecondStep_cff.py"
-        ], 
-        "created_at": 1661837438, 
-        "number": 39248, 
-        "state": "open", 
-        "updated_at": 1661916037
-    }, 
     "39249": {
         "base_branch": "master", 
         "changed_files_names": [
