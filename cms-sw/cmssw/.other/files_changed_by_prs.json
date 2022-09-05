@@ -2496,6 +2496,16 @@
             "HLTrigger/Configuration/python/HLT_75e33/modules/pfTracksFromL1TracksHGCal_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/ticlSeedingL1_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/paths/l1tReconstructionPath_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPhoton187L1SeededSequence_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPhoton187UnseededSequence_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/L1TTkEle25TkEle12Sequence_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/L1TTkEle36Sequence_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/L1TTkEm37TkEm24Sequence_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/L1TTkEm51Sequence_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/L1TTkIsoEle22TkEm12Sequence_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/L1TTkIsoEle28Sequence_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/L1TTkIsoEm22TkIsoEm12Sequence_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/L1TTkIsoEm36Sequence_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/tasks/l1tReconstructionTask_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33_cff.py", 
             "L1Trigger/Configuration/python/L1Trigger_EventContent_cff.py", 
@@ -2580,7 +2590,7 @@
         "created_at": 1661796197, 
         "number": 39244, 
         "state": "open", 
-        "updated_at": 1662368182
+        "updated_at": 1662373536
     }, 
     "39245": {
         "base_branch": "master", 
