@@ -2815,12 +2815,15 @@
             "CondCore/CTPPSPlugins/plugins/BuildFile.xml", 
             "CondCore/CTPPSPlugins/plugins/CTPPSRPAlignmentCorrectionsData_PayloadInspector.cc", 
             "CondCore/CTPPSPlugins/plugins/PPSAlignmentConfiguration_PayloadInspector.cc", 
-            "CondCore/CTPPSPlugins/test/testPPSRPAlignmentCorrections.sh"
+            "CondCore/CTPPSPlugins/test/BuildFile.xml", 
+            "CondCore/CTPPSPlugins/test/testPPSRPAlignmentCorrections.cpp", 
+            "CondCore/CTPPSPlugins/test/testPPSRPAlignmentCorrections.sh", 
+            "CondCore/CTPPSPlugins/test/testPPSTimingCalibration.cpp"
         ], 
         "created_at": 1661952694, 
         "number": 39274, 
         "state": "open", 
-        "updated_at": 1662267850
+        "updated_at": 1662373882
     }, 
     "39277": {
         "base_branch": "master", 
