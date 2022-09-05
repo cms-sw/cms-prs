@@ -2954,5 +2954,23 @@
         "number": 39310, 
         "state": "open", 
         "updated_at": 1662390655
+    }, 
+    "39311": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/Portable/BuildFile.xml", 
+            "DataFormats/Portable/interface/PortableDeviceCollection.h", 
+            "DataFormats/Portable/interface/PortableHostCollection.h", 
+            "DataFormats/PortableTestObjects/interface/alpaka/TestDeviceCollection.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/CachingAllocator.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/memory.h", 
+            "HeterogeneousCore/AlpakaTest/plugins/TestAlpakaAnalyzer.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaProducer.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaTranscriber.cc"
+        ], 
+        "created_at": 1662401619, 
+        "number": 39311, 
+        "state": "open", 
+        "updated_at": 1662401640
     }
 }
