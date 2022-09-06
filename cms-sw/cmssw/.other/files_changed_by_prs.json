@@ -3134,14 +3134,15 @@
             "HeterogeneousCore/CUDATest/plugins/TestPortableProducerCPU.cc", 
             "HeterogeneousCore/CUDATest/plugins/TestPortableProducerCUDA.cc", 
             "HeterogeneousCore/CUDATest/plugins/TestPortableTranscriber.cc", 
-            "HeterogeneousCore/CUDATest/python/reader.py", 
-            "HeterogeneousCore/CUDATest/python/writer.py", 
+            "HeterogeneousCore/CUDATest/test/BuildFile.xml", 
+            "HeterogeneousCore/CUDATest/test/reader.py", 
+            "HeterogeneousCore/CUDATest/test/writer.py", 
             "HeterogeneousCore/CUDAUtilities/interface/host_unique_ptr.h"
         ], 
         "created_at": 1662472205, 
         "number": 39321, 
         "state": "open", 
-        "updated_at": 1662472918
+        "updated_at": 1662487214
     }, 
     "39322": {
         "base_branch": "master", 
