@@ -3093,10 +3093,10 @@
             "HeterogeneousCore/CUDATest/plugins/TestAlgo.cc", 
             "HeterogeneousCore/CUDATest/plugins/TestAlgo.cu", 
             "HeterogeneousCore/CUDATest/plugins/TestAlgo.h", 
-            "HeterogeneousCore/CUDATest/plugins/TestCUDAPortableAnalyzer.cc", 
-            "HeterogeneousCore/CUDATest/plugins/TestCUDAPortableProducer.cc", 
-            "HeterogeneousCore/CUDATest/plugins/TestCUDAPortableTranscriber.cc", 
-            "HeterogeneousCore/CUDATest/plugins/TestHostPortableProducer.cc", 
+            "HeterogeneousCore/CUDATest/plugins/TestPortableAnalyzer.cc", 
+            "HeterogeneousCore/CUDATest/plugins/TestPortableProducerCPU.cc", 
+            "HeterogeneousCore/CUDATest/plugins/TestPortableProducerCUDA.cc", 
+            "HeterogeneousCore/CUDATest/plugins/TestPortableTranscriber.cc", 
             "HeterogeneousCore/CUDATest/python/reader.py", 
             "HeterogeneousCore/CUDATest/python/writer.py", 
             "HeterogeneousCore/CUDAUtilities/interface/host_unique_ptr.h"
@@ -3104,7 +3104,7 @@
         "created_at": 1662471871, 
         "number": 39319, 
         "state": "open", 
-        "updated_at": 1662471899
+        "updated_at": 1662472885
     }, 
     "39320": {
         "base_branch": "CMSSW_12_5_X", 
