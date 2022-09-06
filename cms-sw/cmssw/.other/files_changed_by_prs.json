@@ -3073,5 +3073,37 @@
         "number": 39318, 
         "state": "open", 
         "updated_at": 1662470802
+    }, 
+    "39319": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CUDADataFormats/Common/BuildFile.xml", 
+            "CUDADataFormats/Common/interface/PortableDeviceCollection.h", 
+            "CUDADataFormats/Common/interface/PortableHostCollection.h", 
+            "CUDADataFormats/PortableTestObjects/BuildFile.xml", 
+            "CUDADataFormats/PortableTestObjects/interface/TestDeviceCollection.h", 
+            "CUDADataFormats/PortableTestObjects/interface/TestHostCollection.h", 
+            "CUDADataFormats/PortableTestObjects/src/classes.h", 
+            "CUDADataFormats/PortableTestObjects/src/classes_def.xml", 
+            "DataFormats/Portable/interface/PortableDeviceCollection.h", 
+            "DataFormats/Portable/interface/PortableHostCollection.h", 
+            "DataFormats/SoATemplate/test/SoALayoutAndView_t.cu", 
+            "HeterogeneousCore/AlpakaInterface/interface/getDeviceCachingAllocator.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/host.h", 
+            "HeterogeneousCore/CUDATest/plugins/TestAlgo.cc", 
+            "HeterogeneousCore/CUDATest/plugins/TestAlgo.cu", 
+            "HeterogeneousCore/CUDATest/plugins/TestAlgo.h", 
+            "HeterogeneousCore/CUDATest/plugins/TestCUDAPortableAnalyzer.cc", 
+            "HeterogeneousCore/CUDATest/plugins/TestCUDAPortableProducer.cc", 
+            "HeterogeneousCore/CUDATest/plugins/TestCUDAPortableTranscriber.cc", 
+            "HeterogeneousCore/CUDATest/plugins/TestHostPortableProducer.cc", 
+            "HeterogeneousCore/CUDATest/python/reader.py", 
+            "HeterogeneousCore/CUDATest/python/writer.py", 
+            "HeterogeneousCore/CUDAUtilities/interface/host_unique_ptr.h"
+        ], 
+        "created_at": 1662471871, 
+        "number": 39319, 
+        "state": "open", 
+        "updated_at": 1662471899
     }
 }
