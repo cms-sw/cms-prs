@@ -2174,26 +2174,12 @@
             "Configuration/Generator/python/LbToJpsiLambda_JMM_Filter_DGamma0_TuneCP5_13p6TeV-pythia8-evtgen_cfi.py", 
             "Configuration/Generator/python/LbToJpsiXiK0sPi_JMM_Filter_DGamma0_TuneCP5_13p6TeV-pythia8-evtgen_cfi.py", 
             "Configuration/Generator/python/OmegaMinus_13p6TeV_SoftQCDInel_TuneCP5_cfi.py", 
-            "Configuration/Generator/python/XiMinus_13p6TeV_SoftQCDInel_TuneCP5_cfi.py", 
-            "Configuration/PyReleaseValidation/python/relval_production.py", 
-            "Configuration/PyReleaseValidation/python/relval_steps.py", 
-            "Configuration/Skimming/python/autoSkim.py", 
-            "DQMOffline/Alignment/python/ALCARECOTkAlDQM_cff.py", 
-            "DQMOffline/Alignment/python/DiMuonMassBiasHarvesting_cff.py", 
-            "DQMOffline/Alignment/src/DiMuonMassBiasClient.cc", 
-            "DQMOffline/Alignment/src/DiMuonMassBiasMonitor.cc", 
-            "DQMOffline/Alignment/test/DiMuonVertexValidator_cfg.py", 
-            "DQMOffline/Configuration/python/DQMOffline_SecondStep_cff.py", 
-            "Geometry/VeryForwardGeometryBuilder/plugins/CTPPSGeometryESModule.cc", 
-            "L1Trigger/L1TGlobal/plugins/L1TExtCondProducer.cc", 
-            "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py", 
-            "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitProducerGPU.cc", 
-            "TrackingTools/GsfTracking/src/GsfMultiStateUpdator.cc"
+            "Configuration/Generator/python/XiMinus_13p6TeV_SoftQCDInel_TuneCP5_cfi.py"
         ], 
         "created_at": 1661344024, 
         "number": 39178, 
         "state": "open", 
-        "updated_at": 1662403347
+        "updated_at": 1662443400
     }, 
     "39179": {
         "base_branch": "master", 
