@@ -2298,6 +2298,7 @@
     "39227": {
         "base_branch": "master", 
         "changed_files_names": [
+            "DataFormats/HcalRecHit/interface/HcalSpecialTimes.h", 
             "RecoLocalCalo/HcalRecAlgos/interface/MahiFit.h", 
             "RecoLocalCalo/HcalRecAlgos/src/MahiFit.cc", 
             "RecoLocalCalo/HcalRecAlgos/src/SimpleHBHEPhase1Algo.cc", 
@@ -2308,7 +2309,7 @@
         "created_at": 1661751266, 
         "number": 39227, 
         "state": "open", 
-        "updated_at": 1662455696
+        "updated_at": 1662559771
     }, 
     "39228": {
         "base_branch": "CMSSW_12_5_X", 
