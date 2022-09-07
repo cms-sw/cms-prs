@@ -2893,12 +2893,13 @@
         "changed_files_names": [
             "SimCalorimetry/HGCalSimProducers/interface/HGCFEElectronics.h", 
             "SimCalorimetry/HGCalSimProducers/plugins/HGCDigitizerBase.cc", 
+            "SimCalorimetry/HGCalSimProducers/python/hgcROCParameters_cfi.py", 
             "SimCalorimetry/HGCalSimProducers/src/HGCFEElectronics.cc"
         ], 
         "created_at": 1662454970, 
         "number": 39316, 
         "state": "open", 
-        "updated_at": 1662475509
+        "updated_at": 1662550660
     }, 
     "39317": {
         "base_branch": "CMSSW_12_5_X", 
