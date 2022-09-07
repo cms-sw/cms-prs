@@ -2997,18 +2997,11 @@
             "CUDADataFormats/PortableTestObjects/interface/TestHostCollection.h", 
             "CUDADataFormats/PortableTestObjects/src/classes.h", 
             "CUDADataFormats/PortableTestObjects/src/classes_def.xml", 
-            "DataFormats/Portable/BuildFile.xml", 
             "DataFormats/Portable/interface/PortableDeviceCollection.h", 
             "DataFormats/Portable/interface/PortableHostCollection.h", 
-            "DataFormats/PortableTestObjects/interface/alpaka/TestDeviceCollection.h", 
             "DataFormats/SoATemplate/test/SoALayoutAndView_t.cu", 
-            "HeterogeneousCore/AlpakaInterface/interface/CachingAllocator.h", 
             "HeterogeneousCore/AlpakaInterface/interface/getDeviceCachingAllocator.h", 
             "HeterogeneousCore/AlpakaInterface/interface/host.h", 
-            "HeterogeneousCore/AlpakaInterface/interface/memory.h", 
-            "HeterogeneousCore/AlpakaTest/plugins/TestAlpakaAnalyzer.cc", 
-            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaProducer.cc", 
-            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaTranscriber.cc", 
             "HeterogeneousCore/AlpakaTest/test/BuildFile.xml", 
             "HeterogeneousCore/CUDATest/plugins/TestAlgo.cc", 
             "HeterogeneousCore/CUDATest/plugins/TestAlgo.cu", 
@@ -3025,7 +3018,7 @@
         "created_at": 1662472205, 
         "number": 39321, 
         "state": "open", 
-        "updated_at": 1662524481
+        "updated_at": 1662533026
     }, 
     "39325": {
         "base_branch": "CMSSW_12_5_X", 
