@@ -2109,27 +2109,6 @@
         "state": "open", 
         "updated_at": 1661753652
     }, 
-    "39146": {
-        "base_branch": "CMSSW_12_4_X", 
-        "changed_files_names": [
-            "DQMOffline/Trigger/plugins/BuildFile.xml", 
-            "DQMOffline/Trigger/plugins/ParticleNetJetTagMonitor.cc", 
-            "DQMOffline/Trigger/python/DQMOffline_HLT_Client_cff.py", 
-            "DQMOffline/Trigger/python/DQMOffline_Trigger_cff.py", 
-            "DQMOffline/Trigger/python/ParticleNetAK4BTagClient_cfi.py", 
-            "DQMOffline/Trigger/python/ParticleNetAK4BTagMonitoring_cfi.py", 
-            "DQMOffline/Trigger/python/ParticleNetAK8HbbTagClient_cfi.py", 
-            "DQMOffline/Trigger/python/ParticleNetAK8HbbTagMonitoring_cfi.py", 
-            "DQMOffline/Trigger/python/ParticleNetJetTagMonitoring_cff.py", 
-            "DQMOffline/Trigger/python/ParticleNetJetTag_Client_cff.py", 
-            "RecoBTag/Configuration/python/RecoBTag_cff.py", 
-            "RecoBTag/ONNXRuntime/python/pfParticleNetAK4_cff.py"
-        ], 
-        "created_at": 1661249121, 
-        "number": 39146, 
-        "state": "open", 
-        "updated_at": 1662269372
-    }, 
     "39162": {
         "base_branch": "CMSSW_12_4_X", 
         "changed_files_names": [
