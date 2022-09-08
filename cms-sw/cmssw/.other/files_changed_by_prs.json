@@ -2938,22 +2938,6 @@
         "state": "open", 
         "updated_at": 1662526820
     }, 
-    "39327": {
-        "base_branch": "CMSSW_12_5_X", 
-        "changed_files_names": [
-            "DQM/EcalMonitorClient/interface/LaserClient.h", 
-            "DQM/EcalMonitorClient/interface/TimingClient.h", 
-            "DQM/EcalMonitorClient/python/LaserClient_cfi.py", 
-            "DQM/EcalMonitorClient/python/TimingClient_cfi.py", 
-            "DQM/EcalMonitorClient/src/LaserClient.cc", 
-            "DQM/EcalMonitorClient/src/OccupancyClient.cc", 
-            "DQM/EcalMonitorClient/src/TimingClient.cc"
-        ], 
-        "created_at": 1662530013, 
-        "number": 39327, 
-        "state": "open", 
-        "updated_at": 1662530038
-    }, 
     "39328": {
         "base_branch": "master", 
         "changed_files_names": [
