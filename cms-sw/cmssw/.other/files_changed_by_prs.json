@@ -3050,5 +3050,30 @@
         "number": 39348, 
         "state": "open", 
         "updated_at": 1662638144
+    }, 
+    "39349": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "HLTrigger/HLTcore/interface/TriggerExpressionConstant.h", 
+            "HLTrigger/HLTcore/interface/TriggerExpressionData.h", 
+            "HLTrigger/HLTcore/interface/TriggerExpressionEvaluator.h", 
+            "HLTrigger/HLTcore/interface/TriggerExpressionL1uGTReader.h", 
+            "HLTrigger/HLTcore/interface/TriggerExpressionOperators.h", 
+            "HLTrigger/HLTcore/interface/TriggerExpressionParser.h", 
+            "HLTrigger/HLTcore/interface/TriggerExpressionPathReader.h", 
+            "HLTrigger/HLTcore/interface/TriggerExpressionPrescaler.h", 
+            "HLTrigger/HLTcore/src/TriggerExpressionL1uGTReader.cc", 
+            "HLTrigger/HLTcore/src/TriggerExpressionPathReader.cc", 
+            "HLTrigger/HLTcore/src/TriggerExpressionPrescaler.cc", 
+            "HLTrigger/HLTcore/test/test_catch2_TriggerExpressionParser.cc", 
+            "HLTrigger/HLTfilters/test/triggerResultsFilter_by_PathStatus.py", 
+            "HLTrigger/HLTfilters/test/triggerResultsFilter_by_PathStatus.sh", 
+            "HLTrigger/HLTfilters/test/triggerResultsFilter_by_TriggerResults.py", 
+            "HLTrigger/HLTfilters/test/triggerResultsFilter_by_TriggerResults.sh"
+        ], 
+        "created_at": 1662638110, 
+        "number": 39349, 
+        "state": "open", 
+        "updated_at": 1662638155
     }
 }
