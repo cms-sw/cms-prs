@@ -2276,13 +2276,16 @@
             "DataFormats/PatCandidates/src/classes_def_trigger.xml", 
             "HLTrigger/HLTanalyzers/plugins/HLTInfo.cc", 
             "HLTrigger/HLTanalyzers/plugins/HLTInfo.h", 
+            "HLTrigger/HLTcore/interface/HLTConfigData.h", 
             "HLTrigger/HLTcore/interface/HLTConfigProvider.h", 
             "HLTrigger/HLTcore/interface/HLTPrescaleProvider.h", 
             "HLTrigger/HLTcore/plugins/HLTEventAnalyzerAOD.cc", 
             "HLTrigger/HLTcore/plugins/HLTPrescaleExample.cc", 
+            "HLTrigger/HLTcore/src/HLTConfigData.cc", 
             "HLTrigger/HLTcore/src/HLTPrescaleProvider.cc", 
             "HLTrigger/HLTcore/test/BuildFile.xml", 
             "HLTrigger/HLTcore/test/hltPrescaleExample_cfg.py", 
+            "HLTrigger/HLTcore/test/test_catch2_HLTConfigData.cc", 
             "PhysicsTools/Heppy/interface/TriggerBitChecker.h", 
             "PhysicsTools/Heppy/src/TriggerBitChecker.cc", 
             "PhysicsTools/PatAlgos/plugins/LeptonUpdater.cc", 
@@ -2293,7 +2296,7 @@
         "created_at": 1661530996, 
         "number": 39220, 
         "state": "open", 
-        "updated_at": 1662533893
+        "updated_at": 1662612806
     }, 
     "39227": {
         "base_branch": "master", 
