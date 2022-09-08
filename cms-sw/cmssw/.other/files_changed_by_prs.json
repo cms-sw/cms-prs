@@ -3075,5 +3075,18 @@
         "number": 39349, 
         "state": "open", 
         "updated_at": 1662638155
+    }, 
+    "39351": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibTracker/SiStripHitEfficiency/interface/SiStripHitEffData.h", 
+            "CalibTracker/SiStripHitEfficiency/plugins/SiStripHitEfficiencyHarvester.cc", 
+            "CalibTracker/SiStripHitEfficiency/plugins/SiStripHitEfficiencyWorker.cc", 
+            "CalibTracker/SiStripHitEfficiency/src/TrajectoryAtInvalidHit.cc"
+        ], 
+        "created_at": 1662646059, 
+        "number": 39351, 
+        "state": "open", 
+        "updated_at": 1662646080
     }
 }
