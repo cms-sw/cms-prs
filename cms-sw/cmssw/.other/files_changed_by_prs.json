@@ -3088,5 +3088,18 @@
         "number": 39351, 
         "state": "open", 
         "updated_at": 1662646080
+    }, 
+    "39352": {
+        "base_branch": "CMSSW_12_5_X", 
+        "changed_files_names": [
+            "DQM/Integration/python/clients/beam_dqm_sourceclient-live_cfg.py", 
+            "DQM/Integration/python/clients/beamhlt_dqm_sourceclient-live_cfg.py", 
+            "DQM/Integration/python/config/unitteststreamerinputsource_cfi.py", 
+            "RecoVertex/BeamSpotProducer/plugins/OnlineBeamSpotESProducer.cc"
+        ], 
+        "created_at": 1662697681, 
+        "number": 39352, 
+        "state": "open", 
+        "updated_at": 1662697725
     }
 }
