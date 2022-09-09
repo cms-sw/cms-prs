@@ -1718,6 +1718,7 @@
             "CUDADataFormats/TrackingRecHit/test/TrackingRecHit2DCUDAImpl_t.h", 
             "CUDADataFormats/TrackingRecHit/test/TrackingRecHit2DCUDA_t.cpp", 
             "CUDADataFormats/TrackingRecHit/test/TrackingRecHit2DCUDA_t.cu", 
+            "CUDADataFormats/Vertex/interface/ZVertexSoA.h", 
             "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1CompareRecHitsSoA.cc", 
             "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1CompareTrackSoA.cc", 
             "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1MonitorRecHitsSoA.cc", 
@@ -1733,6 +1734,7 @@
             "RecoLocalTracker/SiPixelClusterizer/plugins/gpuCalibPixel.h", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/gpuClusterChargeCut.h", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/gpuClustering.h", 
+            "RecoLocalTracker/SiPixelClusterizer/python/SiPixelClusterizer_cfi.py", 
             "RecoLocalTracker/SiPixelClusterizer/python/siPixelClustersPreSplitting_cff.py", 
             "RecoLocalTracker/SiPixelClusterizer/test/gpuClustering_t.h", 
             "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEFast.h", 
@@ -1780,6 +1782,7 @@
             "RecoPixelVertexing/PixelTriplets/plugins/gpuPixelDoubletsAlgos.h", 
             "RecoPixelVertexing/PixelTriplets/test/CAsizes_t.cpp", 
             "RecoPixelVertexing/PixelVertexFinding/plugins/PixelVertexProducerCUDA.cc", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/PixelVertexProducerFromSoA.cc", 
             "RecoPixelVertexing/PixelVertexFinding/plugins/gpuVertexFinder.cc", 
             "RecoPixelVertexing/PixelVertexFinding/plugins/gpuVertexFinder.h", 
             "RecoTauTag/HLTProducers/src/L2TauTagNNProducer.cc", 
@@ -1788,7 +1791,7 @@
         "created_at": 1657902617, 
         "number": 38761, 
         "state": "open", 
-        "updated_at": 1661666638
+        "updated_at": 1662709272
     }, 
     "38784": {
         "base_branch": "master", 
