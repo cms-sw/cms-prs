@@ -2955,5 +2955,18 @@
         "number": 39356, 
         "state": "open", 
         "updated_at": 1662724170
+    }, 
+    "39357": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "CalibTracker/SiStripHitEfficiency/interface/SiStripHitEffData.h", 
+            "CalibTracker/SiStripHitEfficiency/plugins/SiStripHitEfficiencyHarvester.cc", 
+            "CalibTracker/SiStripHitEfficiency/plugins/SiStripHitEfficiencyWorker.cc", 
+            "CalibTracker/SiStripHitEfficiency/src/TrajectoryAtInvalidHit.cc"
+        ], 
+        "created_at": 1662724126, 
+        "number": 39357, 
+        "state": "open", 
+        "updated_at": 1662724200
     }
 }
