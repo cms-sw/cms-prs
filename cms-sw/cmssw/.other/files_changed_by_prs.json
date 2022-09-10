@@ -2903,5 +2903,19 @@
         "number": 39365, 
         "state": "open", 
         "updated_at": 1662801916
+    }, 
+    "39366": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4Core/Application/python/g4SimHits_cfi.py", 
+            "SimG4Core/Application/src/ParametrisedEMPhysics.cc", 
+            "SimG4Core/Application/src/RunManagerMT.cc", 
+            "SimG4Core/PhysicsLists/interface/CMSHadronPhysicsFTFP_BERT.h", 
+            "SimG4Core/PhysicsLists/src/CMSHadronPhysicsFTFP_BERT.cc"
+        ], 
+        "created_at": 1662828193, 
+        "number": 39366, 
+        "state": "open", 
+        "updated_at": 1662828218
     }
 }
