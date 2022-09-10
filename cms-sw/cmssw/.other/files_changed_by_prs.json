@@ -2898,5 +2898,21 @@
         "number": 39364, 
         "state": "open", 
         "updated_at": 1662801163
+    }, 
+    "39365": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "DataFormats/HcalRecHit/interface/HcalSpecialTimes.h", 
+            "RecoLocalCalo/HcalRecAlgos/interface/MahiFit.h", 
+            "RecoLocalCalo/HcalRecAlgos/src/MahiFit.cc", 
+            "RecoLocalCalo/HcalRecAlgos/src/SimpleHBHEPhase1Algo.cc", 
+            "RecoLocalCalo/HcalRecAlgos/src/parseHBHEPhase1AlgoDescription.cc", 
+            "RecoLocalCalo/HcalRecAlgos/test/MahiDebugger.cc", 
+            "RecoLocalCalo/HcalRecProducers/python/HBHEMahiParameters_cfi.py"
+        ], 
+        "created_at": 1662801873, 
+        "number": 39365, 
+        "state": "open", 
+        "updated_at": 1662801916
     }
 }
