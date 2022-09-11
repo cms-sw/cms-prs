@@ -2510,42 +2510,6 @@
         "state": "open", 
         "updated_at": 1662643870
     }, 
-    "39321": {
-        "base_branch": "CMSSW_12_5_X", 
-        "changed_files_names": [
-            "CUDADataFormats/Common/BuildFile.xml", 
-            "CUDADataFormats/Common/interface/PortableDeviceCollection.h", 
-            "CUDADataFormats/Common/interface/PortableHostCollection.h", 
-            "CUDADataFormats/PortableTestObjects/BuildFile.xml", 
-            "CUDADataFormats/PortableTestObjects/interface/TestDeviceCollection.h", 
-            "CUDADataFormats/PortableTestObjects/interface/TestHostCollection.h", 
-            "CUDADataFormats/PortableTestObjects/src/classes.h", 
-            "CUDADataFormats/PortableTestObjects/src/classes_def.xml", 
-            "DataFormats/Portable/interface/PortableDeviceCollection.h", 
-            "DataFormats/Portable/interface/PortableHostCollection.h", 
-            "DataFormats/SoATemplate/test/SoALayoutAndView_t.cu", 
-            "HeterogeneousCore/AlpakaInterface/interface/getDeviceCachingAllocator.h", 
-            "HeterogeneousCore/AlpakaInterface/interface/host.h", 
-            "HeterogeneousCore/AlpakaTest/test/BuildFile.xml", 
-            "HeterogeneousCore/AlpakaTest/test/testHeterogeneousCoreAlpakaTestWriteRead.sh", 
-            "HeterogeneousCore/CUDATest/plugins/TestAlgo.cc", 
-            "HeterogeneousCore/CUDATest/plugins/TestAlgo.cu", 
-            "HeterogeneousCore/CUDATest/plugins/TestAlgo.h", 
-            "HeterogeneousCore/CUDATest/plugins/TestPortableAnalyzer.cc", 
-            "HeterogeneousCore/CUDATest/plugins/TestPortableProducerCPU.cc", 
-            "HeterogeneousCore/CUDATest/plugins/TestPortableProducerCUDA.cc", 
-            "HeterogeneousCore/CUDATest/plugins/TestPortableTranscriber.cc", 
-            "HeterogeneousCore/CUDATest/test/BuildFile.xml", 
-            "HeterogeneousCore/CUDATest/test/reader.py", 
-            "HeterogeneousCore/CUDATest/test/testHeterogeneousCoreCUDATestWriteRead.sh", 
-            "HeterogeneousCore/CUDATest/test/writer.py", 
-            "HeterogeneousCore/CUDAUtilities/interface/host_unique_ptr.h"
-        ], 
-        "created_at": 1662472205, 
-        "number": 39321, 
-        "state": "open", 
-        "updated_at": 1662781056
-    }, 
     "39325": {
         "base_branch": "CMSSW_12_5_X", 
         "changed_files_names": [
