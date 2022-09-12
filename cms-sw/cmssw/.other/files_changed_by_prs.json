@@ -2871,5 +2871,20 @@
         "number": 39368, 
         "state": "open", 
         "updated_at": 1662969310
+    }, 
+    "39369": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/SiStripCommon/interface/TkHistoMap.h", 
+            "DQM/SiStripCommon/src/TkHistoMap.cc", 
+            "DQM/SiStripCommon/test/BuildFile.xml", 
+            "DQM/SiStripCommon/test/plugins/testTkHistoMap.cc", 
+            "DQM/SiStripCommon/test/testTkHistoMap_cfg.py", 
+            "DQM/SiStripCommon/test/test_id_cfg.py"
+        ], 
+        "created_at": 1662983450, 
+        "number": 39369, 
+        "state": "open", 
+        "updated_at": 1662983473
     }
 }
