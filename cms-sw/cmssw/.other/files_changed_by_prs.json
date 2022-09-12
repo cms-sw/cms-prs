@@ -2900,5 +2900,16 @@
         "number": 39371, 
         "state": "open", 
         "updated_at": 1663004166
+    }, 
+    "39372": {
+        "base_branch": "CMSSW_12_5_X", 
+        "changed_files_names": [
+            "DQM/EcalMonitorTasks/interface/GpuTask.h", 
+            "DQM/EcalMonitorTasks/src/GpuTask.cc"
+        ], 
+        "created_at": 1663004191, 
+        "number": 39372, 
+        "state": "open", 
+        "updated_at": 1663004257
     }
 }
