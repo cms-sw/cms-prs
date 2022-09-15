@@ -2611,5 +2611,19 @@
         "number": 39400, 
         "state": "open", 
         "updated_at": 1663233528
+    }, 
+    "39401": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/L1Trigger/interface/TkJetWord.h", 
+            "DataFormats/L1Trigger/src/TkJetWord.cc", 
+            "DataFormats/L1Trigger/src/classes_def.xml", 
+            "L1Trigger/Configuration/python/L1Trigger_EventContent_cff.py", 
+            "L1Trigger/Configuration/python/SimL1Emulator_cff.py"
+        ], 
+        "created_at": 1663235104, 
+        "number": 39401, 
+        "state": "open", 
+        "updated_at": 1663235126
     }
 }
