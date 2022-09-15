@@ -2572,5 +2572,18 @@
         "number": 39397, 
         "state": "open", 
         "updated_at": 1663228613
+    }, 
+    "39398": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "HLTrigger/Timer/interface/ProcessCallGraph.h", 
+            "HLTrigger/Timer/src/ProcessCallGraph.cc", 
+            "HeterogeneousCore/CUDAServices/plugins/BuildFile.xml", 
+            "HeterogeneousCore/CUDAServices/plugins/NVProfilerService.cc"
+        ], 
+        "created_at": 1663233338, 
+        "number": 39398, 
+        "state": "open", 
+        "updated_at": 1663233357
     }
 }
