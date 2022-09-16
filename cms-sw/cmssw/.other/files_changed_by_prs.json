@@ -2619,5 +2619,17 @@
         "number": 39408, 
         "state": "open", 
         "updated_at": 1663264514
+    }, 
+    "39409": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Framework/src/StreamSchedule.cc", 
+            "FWCore/Integration/test/run_TestSwitchProducer.sh", 
+            "FWCore/Integration/test/testSwitchProducerConditionalTaskEDAliasWildcard_cfg.py"
+        ], 
+        "created_at": 1663281230, 
+        "number": 39409, 
+        "state": "open", 
+        "updated_at": 1663281255
     }
 }
