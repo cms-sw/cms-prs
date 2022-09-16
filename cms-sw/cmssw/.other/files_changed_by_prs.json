@@ -2756,5 +2756,19 @@
         "number": 39417, 
         "state": "open", 
         "updated_at": 1663324365
+    }, 
+    "39418": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "L1Trigger/DemonstratorTools/test/gtt/createFirmwareInputFiles_cfg.py", 
+            "L1Trigger/L1TTrackMatch/test/L1TrackObjectNtupleMaker_cfg.py", 
+            "L1Trigger/VertexFinder/interface/VertexFinder.h", 
+            "L1Trigger/VertexFinder/python/l1tVertexProducer_cfi.py", 
+            "L1Trigger/VertexFinder/src/VertexFinder.cc"
+        ], 
+        "created_at": 1663325960, 
+        "number": 39418, 
+        "state": "open", 
+        "updated_at": 1663325984
     }
 }
