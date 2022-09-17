@@ -3019,5 +3019,20 @@
         "number": 39428, 
         "state": "open", 
         "updated_at": 1663346813
+    }, 
+    "39429": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4CMS/Calo/plugins/HGCalTestPartialWaferHits.cc", 
+            "Validation/HGCalValidation/plugins/HGCalTestPartialWaferRecHits.cc", 
+            "Validation/HGCalValidation/python/hgcalRecHitPartial_cff.py", 
+            "Validation/HGCalValidation/scripts/testHGCalDigiSingleMuonPt100_cfg.py", 
+            "Validation/HGCalValidation/scripts/testHGCalRecoSingleMuonPt100_cfg.py", 
+            "Validation/HGCalValidation/scripts/testHGCalSIMSingleMuonPt100_cfg.py"
+        ], 
+        "created_at": 1663378404, 
+        "number": 39429, 
+        "state": "open", 
+        "updated_at": 1663378425
     }
 }
