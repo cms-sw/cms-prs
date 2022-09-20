@@ -2837,5 +2837,21 @@
         "number": 39450, 
         "state": "open", 
         "updated_at": 1663606072
+    }, 
+    "39451": {
+        "base_branch": "CMSSW_12_5_X", 
+        "changed_files_names": [
+            "DataFormats/L1Trigger/interface/TkJetWord.h", 
+            "DataFormats/L1Trigger/src/TkJetWord.cc", 
+            "DataFormats/L1Trigger/src/classes_def.xml", 
+            "L1Trigger/Configuration/python/L1Trigger_EventContent_cff.py", 
+            "L1Trigger/Configuration/python/SimL1Emulator_cff.py", 
+            "L1Trigger/L1CaloTrigger/plugins/Phase1L1TJetSumsProducer.cc", 
+            "L1Trigger/L1CaloTrigger/python/Phase1L1TJets_9x9_cff.py"
+        ], 
+        "created_at": 1663652716, 
+        "number": 39451, 
+        "state": "open", 
+        "updated_at": 1663652775
     }
 }
