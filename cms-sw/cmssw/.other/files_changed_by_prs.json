@@ -2397,6 +2397,7 @@
             "HeterogeneousCore/AlpakaCore/BuildFile.xml", 
             "HeterogeneousCore/AlpakaCore/interface/alpaka/DeviceEvent.h", 
             "HeterogeneousCore/AlpakaCore/interface/alpaka/DeviceEventSetup.h", 
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/DeviceProductType.h", 
             "HeterogeneousCore/AlpakaCore/interface/alpaka/DeviceRecord.h", 
             "HeterogeneousCore/AlpakaCore/interface/alpaka/EDDeviceGetToken.h", 
             "HeterogeneousCore/AlpakaCore/interface/alpaka/EDDevicePutToken.h", 
@@ -2449,7 +2450,7 @@
         "created_at": 1663346790, 
         "number": 39428, 
         "state": "open", 
-        "updated_at": 1663682984
+        "updated_at": 1663776717
     }, 
     "39429": {
         "base_branch": "master", 
