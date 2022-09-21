@@ -2678,26 +2678,5 @@
         "number": 39464, 
         "state": "open", 
         "updated_at": 1663723315
-    }, 
-    "39465": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondFormats/DataRecord/interface/TotemT2DAQMappingRcd.h", 
-            "CondFormats/DataRecord/src/TotemT2DAQMappingRcd.cc", 
-            "CondFormats/PPSObjects/interface/TotemDAQMapping.h", 
-            "CondFormats/PPSObjects/interface/TotemFramePosition.h", 
-            "CondFormats/PPSObjects/interface/TotemSymbId.h", 
-            "CondFormats/PPSObjects/src/T_EventSetup_TotemT2DAQMapping.cc", 
-            "CondFormats/PPSObjects/src/classes.h", 
-            "CondFormats/PPSObjects/src/classes_def.xml", 
-            "CondFormats/PPSObjects/src/headers.h", 
-            "CondTools/CTPPS/src/WriteTotemT2DAQMapping.cc", 
-            "CondTools/CTPPS/test/CTPPSPixel_DAQMapping_AnalysisMask.db", 
-            "CondTools/CTPPS/test/write_totem_t2_daqmap_cfg.py"
-        ], 
-        "created_at": 1663748017, 
-        "number": 39465, 
-        "state": "open", 
-        "updated_at": 1663748039
     }
 }
