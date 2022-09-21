@@ -2021,13 +2021,15 @@
     "39245": {
         "base_branch": "master", 
         "changed_files_names": [
+            "FWCore/Framework/interface/maker/Worker.h", 
             "FWCore/Framework/src/ProductResolvers.cc", 
-            "FWCore/Framework/src/ProductResolvers.h"
+            "FWCore/Framework/src/ProductResolvers.h", 
+            "FWCore/Framework/src/StreamSchedule.cc"
         ], 
         "created_at": 1661796956, 
         "number": 39245, 
         "state": "open", 
-        "updated_at": 1661859089
+        "updated_at": 1663768353
     }, 
     "39309": {
         "base_branch": "master", 
