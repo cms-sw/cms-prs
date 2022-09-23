@@ -2604,5 +2604,20 @@
         "number": 39486, 
         "state": "open", 
         "updated_at": 1663919150
+    }, 
+    "39487": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/GEM/plugins/GEMDAQStatusSource.cc", 
+            "DataFormats/GEMDigi/interface/GEMOHStatus.h", 
+            "DataFormats/GEMDigi/interface/GEMOptoHybrid.h", 
+            "DataFormats/GEMDigi/interface/GEMVFATStatus.h", 
+            "DataFormats/GEMDigi/src/classes_def.xml", 
+            "EventFilter/GEMRawToDigi/plugins/GEMRawToDigiModule.cc"
+        ], 
+        "created_at": 1663920442, 
+        "number": 39487, 
+        "state": "open", 
+        "updated_at": 1663920467
     }
 }
