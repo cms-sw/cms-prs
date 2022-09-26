@@ -2707,5 +2707,16 @@
         "number": 39499, 
         "state": "open", 
         "updated_at": 1664176277
+    }, 
+    "39500": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/StandardSequences/python/earlyDeleteSettings_cff.py", 
+            "RecoTracker/Configuration/python/customiseEarlyDeleteForCKF.py"
+        ], 
+        "created_at": 1664198409, 
+        "number": 39500, 
+        "state": "open", 
+        "updated_at": 1664198431
     }
 }
