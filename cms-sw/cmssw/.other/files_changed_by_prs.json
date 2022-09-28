@@ -2694,27 +2694,6 @@
         "state": "open", 
         "updated_at": 1664284908
     }, 
-    "39512": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Validation/HGCalValidation/macros/MakePlots.C", 
-            "Validation/HGCalValidation/plugins/HGCGeometryValidation.cc", 
-            "Validation/HGCalValidation/plugins/HGCalDigiValidation.cc", 
-            "Validation/HGCalValidation/plugins/HGCalHitValidation.cc", 
-            "Validation/HGCalValidation/plugins/HGCalRecHitValidation.cc", 
-            "Validation/HGCalValidation/plugins/HGCalSimHitStudy.cc", 
-            "Validation/HGCalValidation/plugins/HGCalSimHitValidation.cc", 
-            "Validation/HGCalValidation/plugins/HGCalSimHitsClient.cc", 
-            "Validation/HGCalValidation/plugins/SimG4HGCalValidation.cc", 
-            "Validation/HGCalValidation/python/simhitValidation_cff.py", 
-            "Validation/HGCalValidation/test/HGCMissingRecHit.cc", 
-            "Validation/HGCalValidation/test/python/runHGCMissingRecHit_cfg.py"
-        ], 
-        "created_at": 1664286425, 
-        "number": 39512, 
-        "state": "open", 
-        "updated_at": 1664286445
-    }, 
     "39513": {
         "base_branch": "master", 
         "changed_files_names": [
