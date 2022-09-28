@@ -2483,18 +2483,16 @@
         "base_branch": "master", 
         "changed_files_names": [
             "Validation/HGCalValidation/test/HGCGeometryCheck.cc", 
-            "Validation/HGCalValidation/test/HGCHitValidation.cc", 
             "Validation/HGCalValidation/test/HGCalCellHitSum.cc", 
             "Validation/HGCalValidation/test/HGCalDigiStudy.cc", 
             "Validation/HGCalValidation/test/HGCalRecHitStudy.cc", 
             "Validation/HGCalValidation/test/HGCalSiliconValidation.cc", 
-            "Validation/HGCalValidation/test/HGCalWaferHitCheck.cc", 
-            "Validation/HGCalValidation/test/HGCalWaferStudy.cc"
+            "Validation/HGCalValidation/test/HGCalWaferHitCheck.cc"
         ], 
         "created_at": 1663852274, 
         "number": 39481, 
         "state": "open", 
-        "updated_at": 1664249753
+        "updated_at": 1664343075
     }, 
     "39484": {
         "base_branch": "CMSSW_12_4_X", 
