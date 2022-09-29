@@ -2698,6 +2698,7 @@
             "DataFormats/PortableTestObjects/BuildFile.xml", 
             "DataFormats/PortableTestObjects/interface/TestSoA.h", 
             "DataFormats/PortableTestObjects/src/classes_def.xml", 
+            "DataFormats/SoATemplate/interface/SoACommon.h", 
             "DataFormats/SoATemplate/interface/SoALayout.h", 
             "HeterogeneousCore/AlpakaCore/interface/ContextState.h", 
             "HeterogeneousCore/AlpakaCore/interface/chooseDevice.h", 
@@ -2712,7 +2713,7 @@
         "created_at": 1664436143, 
         "number": 39533, 
         "state": "open", 
-        "updated_at": 1664459002
+        "updated_at": 1664464085
     }, 
     "39534": {
         "base_branch": "master", 
