@@ -2705,16 +2705,26 @@
     "39532": {
         "base_branch": "master", 
         "changed_files_names": [
+            "CUDADataFormats/PortableTestObjects/interface/TestDeviceCollection.h", 
+            "CUDADataFormats/PortableTestObjects/interface/TestHostCollection.h", 
+            "DataFormats/PortableTestObjects/BuildFile.xml", 
+            "DataFormats/PortableTestObjects/interface/TestSoA.h", 
+            "DataFormats/PortableTestObjects/src/classes_def.xml", 
             "DataFormats/SoATemplate/interface/SoALayout.h", 
             "HeterogeneousCore/AlpakaCore/interface/ContextState.h", 
             "HeterogeneousCore/AlpakaCore/interface/chooseDevice.h", 
             "HeterogeneousCore/AlpakaTest/plugins/TestAlpakaAnalyzer.cc", 
-            "HeterogeneousCore/AlpakaTest/test/testHeterogeneousCoreAlpakaTestWriteRead.sh"
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlgo.dev.cc", 
+            "HeterogeneousCore/AlpakaTest/test/testHeterogeneousCoreAlpakaTestWriteRead.sh", 
+            "HeterogeneousCore/CUDATest/plugins/TestAlgo.cc", 
+            "HeterogeneousCore/CUDATest/plugins/TestAlgo.cu", 
+            "HeterogeneousCore/CUDATest/plugins/TestPortableAnalyzer.cc", 
+            "HeterogeneousCore/CUDATest/test/testHeterogeneousCoreCUDATestWriteRead.sh"
         ], 
         "created_at": 1664436108, 
         "number": 39532, 
         "state": "open", 
-        "updated_at": 1664436132
+        "updated_at": 1664459070
     }, 
     "39533": {
         "base_branch": "CMSSW_12_5_X", 
