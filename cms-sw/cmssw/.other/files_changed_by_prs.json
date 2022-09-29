@@ -2862,5 +2862,34 @@
         "number": 39545, 
         "state": "open", 
         "updated_at": 1664472215
+    }, 
+    "39546": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CUDADataFormats/PortableTestObjects/interface/TestDeviceCollection.h", 
+            "CUDADataFormats/PortableTestObjects/interface/TestHostCollection.h", 
+            "DataFormats/PortableTestObjects/BuildFile.xml", 
+            "DataFormats/PortableTestObjects/interface/TestSoA.h", 
+            "DataFormats/PortableTestObjects/src/classes_def.xml", 
+            "DataFormats/SoATemplate/interface/SoACommon.h", 
+            "DataFormats/SoATemplate/interface/SoALayout.h", 
+            "HeterogeneousCore/AlpakaCore/interface/ContextState.h", 
+            "HeterogeneousCore/AlpakaCore/interface/chooseDevice.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/vec.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/workdivision.h", 
+            "HeterogeneousCore/AlpakaInterface/test/BuildFile.xml", 
+            "HeterogeneousCore/AlpakaInterface/test/alpaka/testVec.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/TestAlpakaAnalyzer.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlgo.dev.cc", 
+            "HeterogeneousCore/AlpakaTest/test/testHeterogeneousCoreAlpakaTestWriteRead.sh", 
+            "HeterogeneousCore/CUDATest/plugins/TestAlgo.cc", 
+            "HeterogeneousCore/CUDATest/plugins/TestAlgo.cu", 
+            "HeterogeneousCore/CUDATest/plugins/TestPortableAnalyzer.cc", 
+            "HeterogeneousCore/CUDATest/test/testHeterogeneousCoreCUDATestWriteRead.sh"
+        ], 
+        "created_at": 1664483307, 
+        "number": 39546, 
+        "state": "open", 
+        "updated_at": 1664483340
     }
 }
