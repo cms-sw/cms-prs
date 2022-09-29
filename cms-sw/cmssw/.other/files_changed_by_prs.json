@@ -2774,5 +2774,22 @@
         "number": 39535, 
         "state": "open", 
         "updated_at": 1664447504
+    }, 
+    "39536": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "L1Trigger/HardwareValidation/interface/L1ComparatorRun2.h", 
+            "L1Trigger/HardwareValidation/plugins/L1DEFilter.cc", 
+            "L1Trigger/HardwareValidation/plugins/L1DEFilter.h", 
+            "L1Trigger/HardwareValidation/plugins/L1DummyProducer.cc", 
+            "L1Trigger/HardwareValidation/plugins/L1DummyProducer.h", 
+            "L1Trigger/HardwareValidation/plugins/L1EmulBias.cc", 
+            "L1Trigger/HardwareValidation/plugins/L1EmulBias.h", 
+            "L1Trigger/HardwareValidation/src/L1ComparatorRun2.cc"
+        ], 
+        "created_at": 1664452831, 
+        "number": 39536, 
+        "state": "open", 
+        "updated_at": 1664452857
     }
 }
