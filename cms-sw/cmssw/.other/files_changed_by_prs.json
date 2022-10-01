@@ -1978,7 +1978,7 @@
         "created_at": 1663241951, 
         "number": 39402, 
         "state": "open", 
-        "updated_at": 1664541182
+        "updated_at": 1664599434
     }, 
     "39403": {
         "base_branch": "CMSSW_10_6_X", 
@@ -2219,7 +2219,7 @@
         "created_at": 1663556793, 
         "number": 39441, 
         "state": "open", 
-        "updated_at": 1664540316
+        "updated_at": 1664549083
     }, 
     "39447": {
         "base_branch": "master", 
@@ -2312,7 +2312,7 @@
         "created_at": 1663769185, 
         "number": 39472, 
         "state": "open", 
-        "updated_at": 1664607650
+        "updated_at": 1664608140
     }, 
     "39479": {
         "base_branch": "master", 
@@ -2367,7 +2367,7 @@
         "created_at": 1663920807, 
         "number": 39489, 
         "state": "open", 
-        "updated_at": 1664541247
+        "updated_at": 1664549735
     }, 
     "39497": {
         "base_branch": "CMSSW_12_5_X", 
@@ -2415,7 +2415,7 @@
         "created_at": 1664320246, 
         "number": 39517, 
         "state": "open", 
-        "updated_at": 1664532978
+        "updated_at": 1664602056
     }, 
     "39518": {
         "base_branch": "master", 
@@ -2469,7 +2469,7 @@
         "created_at": 1664390069, 
         "number": 39530, 
         "state": "open", 
-        "updated_at": 1664540748
+        "updated_at": 1664597984
     }, 
     "39533": {
         "base_branch": "CMSSW_12_5_X", 
@@ -2494,7 +2494,7 @@
         "created_at": 1664436143, 
         "number": 39533, 
         "state": "open", 
-        "updated_at": 1664540387
+        "updated_at": 1664606254
     }, 
     "39534": {
         "base_branch": "master", 
@@ -2506,7 +2506,7 @@
         "created_at": 1664439627, 
         "number": 39534, 
         "state": "open", 
-        "updated_at": 1664539183
+        "updated_at": 1664566034
     }, 
     "39538": {
         "base_branch": "master", 
@@ -2554,31 +2554,16 @@
     "39546": {
         "base_branch": "master", 
         "changed_files_names": [
-            "CUDADataFormats/PortableTestObjects/interface/TestDeviceCollection.h", 
-            "CUDADataFormats/PortableTestObjects/interface/TestHostCollection.h", 
-            "DataFormats/PortableTestObjects/BuildFile.xml", 
-            "DataFormats/PortableTestObjects/interface/TestSoA.h", 
-            "DataFormats/PortableTestObjects/src/classes_def.xml", 
-            "DataFormats/SoATemplate/interface/SoACommon.h", 
-            "DataFormats/SoATemplate/interface/SoALayout.h", 
-            "HeterogeneousCore/AlpakaCore/interface/ContextState.h", 
-            "HeterogeneousCore/AlpakaCore/interface/chooseDevice.h", 
             "HeterogeneousCore/AlpakaInterface/interface/vec.h", 
             "HeterogeneousCore/AlpakaInterface/interface/workdivision.h", 
             "HeterogeneousCore/AlpakaInterface/test/BuildFile.xml", 
             "HeterogeneousCore/AlpakaInterface/test/alpaka/testVec.cc", 
-            "HeterogeneousCore/AlpakaTest/plugins/TestAlpakaAnalyzer.cc", 
-            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlgo.dev.cc", 
-            "HeterogeneousCore/AlpakaTest/test/testHeterogeneousCoreAlpakaTestWriteRead.sh", 
-            "HeterogeneousCore/CUDATest/plugins/TestAlgo.cc", 
-            "HeterogeneousCore/CUDATest/plugins/TestAlgo.cu", 
-            "HeterogeneousCore/CUDATest/plugins/TestPortableAnalyzer.cc", 
-            "HeterogeneousCore/CUDATest/test/testHeterogeneousCoreCUDATestWriteRead.sh"
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlgo.dev.cc"
         ], 
         "created_at": 1664483307, 
         "number": 39546, 
         "state": "open", 
-        "updated_at": 1664541454
+        "updated_at": 1664607118
     }, 
     "39547": {
         "base_branch": "CMSSW_12_5_X", 
@@ -2607,7 +2592,7 @@
         "created_at": 1664505365, 
         "number": 39547, 
         "state": "open", 
-        "updated_at": 1664527348
+        "updated_at": 1664605974
     }, 
     "39548": {
         "base_branch": "CMSSW_12_4_X", 
@@ -2627,7 +2612,7 @@
         "created_at": 1664522275, 
         "number": 39549, 
         "state": "open", 
-        "updated_at": 1664539936
+        "updated_at": 1664556984
     }, 
     "39550": {
         "base_branch": "master", 
@@ -2640,7 +2625,7 @@
         "created_at": 1664532715, 
         "number": 39550, 
         "state": "open", 
-        "updated_at": 1664533355
+        "updated_at": 1664552789
     }, 
     "39551": {
         "base_branch": "master", 
@@ -2655,7 +2640,7 @@
         "created_at": 1664533128, 
         "number": 39551, 
         "state": "open", 
-        "updated_at": 1664534062
+        "updated_at": 1664602091
     }, 
     "39552": {
         "base_branch": "master", 
@@ -2667,7 +2652,7 @@
         "created_at": 1664535914, 
         "number": 39552, 
         "state": "open", 
-        "updated_at": 1664536972
+        "updated_at": 1664567601
     }, 
     "39553": {
         "base_branch": "master", 
@@ -2678,7 +2663,7 @@
         "created_at": 1664543591, 
         "number": 39553, 
         "state": "open", 
-        "updated_at": 1664543768
+        "updated_at": 1664558722
     }, 
     "39554": {
         "base_branch": "master", 
@@ -2693,7 +2678,7 @@
         "created_at": 1664545243, 
         "number": 39554, 
         "state": "open", 
-        "updated_at": 1664553065
+        "updated_at": 1664572281
     }, 
     "39556": {
         "base_branch": "master", 
@@ -2718,7 +2703,7 @@
         "created_at": 1664561662, 
         "number": 39556, 
         "state": "open", 
-        "updated_at": 1664561686
+        "updated_at": 1664596720
     }, 
     "39557": {
         "base_branch": "master", 
@@ -2760,7 +2745,7 @@
         "created_at": 1664565160, 
         "number": 39557, 
         "state": "open", 
-        "updated_at": 1664565186
+        "updated_at": 1664574941
     }, 
     "39558": {
         "base_branch": "CMSSW_12_4_X", 
@@ -2770,7 +2755,7 @@
         "created_at": 1664579243, 
         "number": 39558, 
         "state": "open", 
-        "updated_at": 1664579266
+        "updated_at": 1664598415
     }, 
     "39559": {
         "base_branch": "master", 
@@ -2780,7 +2765,7 @@
         "created_at": 1664585419, 
         "number": 39559, 
         "state": "open", 
-        "updated_at": 1664585465
+        "updated_at": 1664585835
     }, 
     "39560": {
         "base_branch": "CMSSW_12_5_X", 
@@ -2790,6 +2775,6 @@
         "created_at": 1664585523, 
         "number": 39560, 
         "state": "open", 
-        "updated_at": 1664585556
+        "updated_at": 1664601291
     }
 }
