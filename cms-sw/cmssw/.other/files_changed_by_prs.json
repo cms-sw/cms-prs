@@ -2824,5 +2824,23 @@
         "number": 39567, 
         "state": "open", 
         "updated_at": 1664632946
+    }, 
+    "39569": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondTools/RunInfo/plugins/FillInfoESAnalyzer.cc", 
+            "CondTools/RunInfo/plugins/LHCInfoESAnalyzer.cc", 
+            "CondTools/RunInfo/plugins/LHCInfoPerFillAnalyzer.cc", 
+            "CondTools/RunInfo/plugins/LHCInfoPerFillWriter.cc", 
+            "CondTools/RunInfo/plugins/LHCInfoPerLSAnalyzer.cc", 
+            "CondTools/RunInfo/plugins/LHCInfoPerLSWriter.cc", 
+            "CondTools/RunInfo/plugins/RunInfoESAnalyzer.cc", 
+            "CondTools/RunInfo/plugins/RunSummaryESAnalyzer.cc", 
+            "CondTools/RunInfo/plugins/XangleBetaStarFilter.cc"
+        ], 
+        "created_at": 1664644457, 
+        "number": 39569, 
+        "state": "open", 
+        "updated_at": 1664644474
     }
 }
