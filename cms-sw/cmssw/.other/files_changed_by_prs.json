@@ -2811,5 +2811,18 @@
         "number": 39566, 
         "state": "open", 
         "updated_at": 1664632895
+    }, 
+    "39567": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "Alignment/OfflineValidation/macros/CMS_lumi.h", 
+            "Alignment/OfflineValidation/macros/FitPVResiduals.C", 
+            "Alignment/OfflineValidation/macros/FitPVResolution.C", 
+            "Alignment/OfflineValidation/test/BuildFile.xml"
+        ], 
+        "created_at": 1664632921, 
+        "number": 39567, 
+        "state": "open", 
+        "updated_at": 1664632946
     }
 }
