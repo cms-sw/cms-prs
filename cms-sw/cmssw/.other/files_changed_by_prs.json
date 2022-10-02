@@ -2727,5 +2727,20 @@
         "number": 39571, 
         "state": "open", 
         "updated_at": 1664704495
+    }, 
+    "39572": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondTools/SiPixel/data/phase2_T21_mapping.csv", 
+            "CondTools/SiPixel/data/phase2_T21_mapping_den.csv", 
+            "CondTools/SiPixel/test/SiPixel2DTemplateDBObjectUploader_Phase2_cfg.py", 
+            "CondTools/SiPixel/test/SiPixelGenErrorDBObjectUploader_Phase2_cfg.py", 
+            "CondTools/SiPixel/test/SiPixelTemplateDBObjectUploader_Phase2_cfg.py", 
+            "CondTools/SiPixel/test/createTestDBObjects.sh"
+        ], 
+        "created_at": 1664736517, 
+        "number": 39572, 
+        "state": "open", 
+        "updated_at": 1664736562
     }
 }
