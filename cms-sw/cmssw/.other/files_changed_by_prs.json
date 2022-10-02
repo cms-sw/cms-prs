@@ -2232,6 +2232,7 @@
             "RecoLocalCalo/HGCalRecProducers/plugins/HGCalLayerClusterProducer.cc", 
             "RecoLocalCalo/HGCalRecProducers/plugins/HGCalUncalibRecHitWorkerWeights.cc", 
             "RecoLocalCalo/HGCalRecProducers/python/HGCalUncalibRecHit_cfi.py", 
+            "RecoLocalCalo/HGCalRecProducers/python/hgcalLayerClusters_cff.py", 
             "RecoParticleFlow/PFClusterProducer/plugins/SimMappers/RealisticSimClusterMapper.cc", 
             "RecoParticleFlow/PFClusterProducer/python/particleFlowClusterHGC_cfi.py", 
             "SimCalorimetry/HGCalSimProducers/interface/HGCDigitizer.h", 
@@ -2241,7 +2242,7 @@
         "created_at": 1663590590, 
         "number": 39447, 
         "state": "open", 
-        "updated_at": 1664680093
+        "updated_at": 1664740747
     }, 
     "39450": {
         "base_branch": "master", 
