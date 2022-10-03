@@ -2783,6 +2783,7 @@
     "39577": {
         "base_branch": "master", 
         "changed_files_names": [
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
             "RecoLocalCalo/EcalRecProducers/plugins/DeclsForKernels.h", 
             "RecoLocalCalo/EcalRecProducers/plugins/EcalRecHitProducerGPU.cc", 
             "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitProducerGPU.cc", 
@@ -2793,6 +2794,6 @@
         "created_at": 1664792764, 
         "number": 39577, 
         "state": "open", 
-        "updated_at": 1664792781
+        "updated_at": 1664793538
     }
 }
