@@ -2262,12 +2262,14 @@
             "L1Trigger/Configuration/python/L1Trigger_EventContent_cff.py", 
             "L1Trigger/Configuration/python/SimL1Emulator_cff.py", 
             "L1Trigger/L1CaloTrigger/plugins/Phase1L1TJetSumsProducer.cc", 
-            "L1Trigger/L1CaloTrigger/python/Phase1L1TJets_9x9_cff.py"
+            "L1Trigger/L1CaloTrigger/python/Phase1L1TJets_9x9_cff.py", 
+            "L1Trigger/L1TTrackMatch/plugins/L1TrackSelectionProducer.cc", 
+            "L1Trigger/Phase2L1Taus/plugins/HPSPFTauProducer.cc"
         ], 
         "created_at": 1663652716, 
         "number": 39451, 
         "state": "open", 
-        "updated_at": 1664517036
+        "updated_at": 1664786449
     }, 
     "39459": {
         "base_branch": "master", 
