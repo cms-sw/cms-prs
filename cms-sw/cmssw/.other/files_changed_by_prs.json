@@ -2806,5 +2806,20 @@
         "number": 39578, 
         "state": "open", 
         "updated_at": 1664793521
+    }, 
+    "39579": {
+        "base_branch": "CMSSW_12_5_X", 
+        "changed_files_names": [
+            "RecoLocalCalo/EcalRecProducers/plugins/DeclsForKernels.h", 
+            "RecoLocalCalo/EcalRecProducers/plugins/EcalRecHitProducerGPU.cc", 
+            "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitProducerGPU.cc", 
+            "RecoLocalCalo/EcalRecProducers/python/ecalRecHitGPU_cfi.py", 
+            "RecoLocalCalo/HcalRecProducers/src/DeclsForKernels.h", 
+            "RecoLocalCalo/HcalRecProducers/src/HBHERecHitProducerGPU.cc"
+        ], 
+        "created_at": 1664793874, 
+        "number": 39579, 
+        "state": "open", 
+        "updated_at": 1664793894
     }
 }
