@@ -2389,13 +2389,18 @@
         "base_branch": "master", 
         "changed_files_names": [
             "HeterogeneousCore/AlpakaCore/interface/chooseDevice.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/vec.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/workdivision.h", 
+            "HeterogeneousCore/AlpakaInterface/test/BuildFile.xml", 
+            "HeterogeneousCore/AlpakaInterface/test/alpaka/testVec.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlgo.dev.cc", 
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaProducer.cc", 
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaTranscriber.cc"
         ], 
         "created_at": 1664116346, 
         "number": 39498, 
         "state": "open", 
-        "updated_at": 1664223062
+        "updated_at": 1664807794
     }, 
     "39517": {
         "base_branch": "master", 
