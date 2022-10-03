@@ -2224,6 +2224,10 @@
     "39447": {
         "base_branch": "master", 
         "changed_files_names": [
+            "HLTrigger/Configuration/python/HLT_75e33/modules/HGCalUncalibRecHitL1Seeded_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/HGCalUncalibRecHit_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hgcalLayerClustersL1Seeded_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hgcalLayerClusters_cfi.py", 
             "RecoHGCal/TICL/plugins/LinkingAlgoBase.h", 
             "RecoHGCal/TICL/plugins/LinkingAlgoByDirectionGeometric.cc", 
             "RecoHGCal/TICL/plugins/LinkingAlgoByDirectionGeometric.h", 
@@ -2242,7 +2246,7 @@
         "created_at": 1663590590, 
         "number": 39447, 
         "state": "open", 
-        "updated_at": 1664740747
+        "updated_at": 1664754433
     }, 
     "39450": {
         "base_branch": "master", 
