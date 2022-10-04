@@ -2862,5 +2862,20 @@
         "number": 39597, 
         "state": "open", 
         "updated_at": 1664875162
+    }, 
+    "39598": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/HGCalReco/interface/TICLLayerTile.h", 
+            "DataFormats/HGCalReco/test/BuildFile.xml", 
+            "DataFormats/HGCalReco/test/EtaPhiSearchInTile_t.cpp", 
+            "RecoLocalCalo/HGCalRecProducers/interface/HGCalLayerTiles.h", 
+            "RecoLocalCalo/HGCalRecProducers/test/BuildFile.xml", 
+            "RecoLocalCalo/HGCalRecProducers/test/EtaPhiSearchInTile_t.cpp"
+        ], 
+        "created_at": 1664876665, 
+        "number": 39598, 
+        "state": "open", 
+        "updated_at": 1664876686
     }
 }
