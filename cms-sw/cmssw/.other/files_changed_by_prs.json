@@ -2945,6 +2945,7 @@
             "Geometry/HGCalCommonData/test/HGCalNumberingTester.cc", 
             "Geometry/HGCalCommonData/test/HGCalPartialWaferTester.cc", 
             "Geometry/HGCalGeometry/src/HGCalGeometry.cc", 
+            "SimCalorimetry/HGCalSimAlgos/interface/HGCalSiNoiseMap.icc", 
             "SimG4CMS/Calo/interface/HGCalNumberingScheme.h", 
             "SimG4CMS/Calo/src/HFNoseNumberingScheme.cc", 
             "SimG4CMS/Calo/src/HGCalNumberingScheme.cc", 
@@ -2958,7 +2959,7 @@
         "created_at": 1664960419, 
         "number": 39625, 
         "state": "open", 
-        "updated_at": 1664965018
+        "updated_at": 1664979489
     }, 
     "39626": {
         "base_branch": "master", 
