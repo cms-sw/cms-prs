@@ -4087,5 +4087,18 @@
         "number": 39649, 
         "state": "open", 
         "updated_at": 1665044443
+    }, 
+    "39650": {
+        "base_branch": "CMSSW_12_5_X", 
+        "changed_files_names": [
+            "DQMOffline/Trigger/plugins/TopMonitor.cc", 
+            "DQMOffline/Trigger/python/TopMonitor_cfi.py", 
+            "DQMOffline/Trigger/python/TopMonitoring_Client_cff.py", 
+            "DQMOffline/Trigger/python/TopMonitoring_cff.py"
+        ], 
+        "created_at": 1665045887, 
+        "number": 39650, 
+        "state": "open", 
+        "updated_at": 1665045912
     }
 }
