@@ -2908,6 +2908,7 @@
     "39652": {
         "base_branch": "master", 
         "changed_files_names": [
+            "CalibPPS/TimingCalibration/test/BuildFile.xml", 
             "CalibPPS/TimingCalibration/test/DiamondCalibrationHarvester_cfg.py", 
             "CalibPPS/TimingCalibration/test/DiamondCalibrationWorker_cfg.py", 
             "CalibPPS/TimingCalibration/test/DiamondSampicCalibrationHarvester_cfg.py", 
@@ -2915,6 +2916,7 @@
             "CalibPPS/TimingCalibration/test/crabConfig.py", 
             "CalibPPS/TimingCalibration/test/runAutoHarvester.py", 
             "CalibPPS/TimingCalibration/test/runWorkerCrab.py", 
+            "CalibPPS/TimingCalibration/test/test_hptdc_pcl.sh", 
             "DQM/CTPPS/test/diamond_re_reco_dqm_test_cfg.py", 
             "DQM/CTPPS/test/runCrab.py", 
             "DQM/CTPPS/test/runCrabPerRun.py"
@@ -2922,7 +2924,7 @@
         "created_at": 1665054686, 
         "number": 39652, 
         "state": "open", 
-        "updated_at": 1665080645
+        "updated_at": 1665160013
     }, 
     "39654": {
         "base_branch": "master", 
