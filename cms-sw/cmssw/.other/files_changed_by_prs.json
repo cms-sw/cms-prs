@@ -3207,5 +3207,21 @@
         "number": 39682, 
         "state": "open", 
         "updated_at": 1665261710
+    }, 
+    "39683": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Validation/HGCalValidation/scripts/testHGCalDigi_cfg.py", 
+            "Validation/HGCalValidation/scripts/testHGCalDigiSingleMuonPt100_cfg.py", 
+            "Validation/HGCalValidation/scripts/testHGCalReco_cfg.py", 
+            "Validation/HGCalValidation/scripts/testHGCalRecoSingleMuonPt100_cfg.py", 
+            "Validation/HGCalValidation/scripts/testHGCalSimSingleMuonPt100_cfg.py", 
+            "Validation/HGCalValidation/scripts/testHGCalSIMSingleMuonPt100_cfg.py", 
+            "Validation/HGCalValidation/scripts/testHGCalSimTTBar_cfg.py"
+        ], 
+        "created_at": 1665273172, 
+        "number": 39683, 
+        "state": "open", 
+        "updated_at": 1665273197
     }
 }
