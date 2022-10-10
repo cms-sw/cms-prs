@@ -2978,5 +2978,19 @@
         "number": 39689, 
         "state": "open", 
         "updated_at": 1665395241
+    }, 
+    "39690": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondCore/LuminosityPlugins/plugins/BuildFile.xml", 
+            "CondCore/LuminosityPlugins/plugins/LumiCorrections_PayloadInspector.cc", 
+            "CondCore/LuminosityPlugins/test/BuildFile.xml", 
+            "CondCore/LuminosityPlugins/test/testLumiCorrections.cpp", 
+            "CondCore/LuminosityPlugins/test/testLumiCorrections.sh"
+        ], 
+        "created_at": 1665400460, 
+        "number": 39690, 
+        "state": "open", 
+        "updated_at": 1665400480
     }
 }
