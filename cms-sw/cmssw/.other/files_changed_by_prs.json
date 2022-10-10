@@ -1935,33 +1935,6 @@
         "state": "open", 
         "updated_at": 1664875173
     }, 
-    "39447": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "HLTrigger/Configuration/python/HLT_75e33/modules/HGCalUncalibRecHitL1Seeded_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/HGCalUncalibRecHit_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hgcalLayerClustersL1Seeded_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hgcalLayerClusters_cfi.py", 
-            "RecoHGCal/TICL/plugins/LinkingAlgoBase.h", 
-            "RecoHGCal/TICL/plugins/LinkingAlgoByDirectionGeometric.cc", 
-            "RecoHGCal/TICL/plugins/LinkingAlgoByDirectionGeometric.h", 
-            "RecoHGCal/TICL/plugins/TrackstersMergeProducer.cc", 
-            "RecoLocalCalo/HGCalRecAlgos/interface/HGCalUncalibRecHitRecWeightsAlgo.h", 
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalLayerClusterProducer.cc", 
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalUncalibRecHitWorkerWeights.cc", 
-            "RecoLocalCalo/HGCalRecProducers/python/HGCalUncalibRecHit_cfi.py", 
-            "RecoLocalCalo/HGCalRecProducers/python/hgcalLayerClusters_cff.py", 
-            "RecoParticleFlow/PFClusterProducer/plugins/SimMappers/RealisticSimClusterMapper.cc", 
-            "RecoParticleFlow/PFClusterProducer/python/particleFlowClusterHGC_cfi.py", 
-            "SimCalorimetry/HGCalSimProducers/interface/HGCDigitizer.h", 
-            "SimCalorimetry/HGCalSimProducers/plugins/HGCDigitizer.cc", 
-            "SimCalorimetry/HGCalSimProducers/python/hgcalDigitizer_cfi.py"
-        ], 
-        "created_at": 1663590590, 
-        "number": 39447, 
-        "state": "open", 
-        "updated_at": 1664787116
-    }, 
     "39450": {
         "base_branch": "master", 
         "changed_files_names": [
