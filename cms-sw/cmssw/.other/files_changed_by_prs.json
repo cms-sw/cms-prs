@@ -2800,5 +2800,15 @@
         "number": 39712, 
         "state": "open", 
         "updated_at": 1665582963
+    }, 
+    "39713": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.cu"
+        ], 
+        "created_at": 1665582929, 
+        "number": 39713, 
+        "state": "open", 
+        "updated_at": 1665582985
     }
 }
