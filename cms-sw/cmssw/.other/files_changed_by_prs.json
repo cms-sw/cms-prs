@@ -2505,5 +2505,18 @@
         "number": 39726, 
         "state": "open", 
         "updated_at": 1665666775
+    }, 
+    "39727": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Services/src/SiteLocalConfigService.cc", 
+            "FWCore/Services/test/full-site-local-config.testfile", 
+            "FWCore/Services/test/no-source-site-local-config.testfile", 
+            "FWCore/Services/test/source-site-local-config.testfile"
+        ], 
+        "created_at": 1665671683, 
+        "number": 39727, 
+        "state": "open", 
+        "updated_at": 1665671723
     }
 }
