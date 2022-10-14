@@ -2494,5 +2494,16 @@
         "number": 39736, 
         "state": "open", 
         "updated_at": 1665755100
+    }, 
+    "39738": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoLocalCalo/HcalRecProducers/src/HcalCPURecHitsProducer.cc", 
+            "RecoLocalCalo/HcalRecProducers/src/MahiGPU.cu"
+        ], 
+        "created_at": 1665764894, 
+        "number": 39738, 
+        "state": "open", 
+        "updated_at": 1665764960
     }
 }
