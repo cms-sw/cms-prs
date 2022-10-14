@@ -2516,5 +2516,16 @@
         "number": 39739, 
         "state": "open", 
         "updated_at": 1665765171
+    }, 
+    "39740": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "RecoLocalCalo/HcalRecProducers/src/HcalCPURecHitsProducer.cc", 
+            "RecoLocalCalo/HcalRecProducers/src/MahiGPU.cu"
+        ], 
+        "created_at": 1665765147, 
+        "number": 39740, 
+        "state": "open", 
+        "updated_at": 1665765177
     }
 }
