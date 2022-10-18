@@ -2354,5 +2354,18 @@
         "number": 39758, 
         "state": "open", 
         "updated_at": 1666104024
+    }, 
+    "39759": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py", 
+            "RecoEgamma/ElectronIdentification/data/Run3_Winter22/effAreaElectrons_cone03_pfNeuHadronsAndPhotons_122X.txt", 
+            "RecoEgamma/ElectronIdentification/python/Identification/cutBasedElectronID_Winter22_122X_V1_cff.py", 
+            "RecoEgamma/ElectronIdentification/test/runtests.sh"
+        ], 
+        "created_at": 1666112845, 
+        "number": 39759, 
+        "state": "open", 
+        "updated_at": 1666112863
     }
 }
