@@ -1969,16 +1969,18 @@
         "base_branch": "master", 
         "changed_files_names": [
             "FWCore/Framework/interface/EDFilter.h", 
+            "FWCore/Framework/interface/EDProducer.h", 
             "FWCore/Framework/interface/Frameworkfwd.h", 
             "FWCore/Framework/interface/ProducerBase.h", 
             "FWCore/Framework/src/EDFilter.cc", 
+            "FWCore/Framework/src/EDProducer.cc", 
             "FWCore/Framework/src/WorkerT.cc", 
             "FWCore/ParameterSet/interface/ParameterSetDescriptionFillerBase.h"
         ], 
         "created_at": 1665579456, 
         "number": 39710, 
         "state": "open", 
-        "updated_at": 1665579482
+        "updated_at": 1666182367
     }, 
     "39715": {
         "base_branch": "master", 
