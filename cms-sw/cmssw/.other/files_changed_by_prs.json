@@ -1876,33 +1876,6 @@
         "state": "open", 
         "updated_at": 1665070354
     }, 
-    "39651": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMOffline/Trigger/BuildFile.xml", 
-            "DQMOffline/Trigger/interface/HLTTauDQMOfflineSource.h", 
-            "DQMOffline/Trigger/interface/HLTTauDQMPath.h", 
-            "DQMOffline/Trigger/interface/HLTTauDQMPathPlotter.h", 
-            "DQMOffline/Trigger/interface/HLTTauDQMPathSummaryPlotter.h", 
-            "DQMOffline/Trigger/interface/HLTTauDQMTagAndProbePlotter.h", 
-            "DQMOffline/Trigger/interface/HLTTauRefProducer.h", 
-            "DQMOffline/Trigger/plugins/HLTTauDQMOfflineSource.cc", 
-            "DQMOffline/Trigger/plugins/HLTTauRefProducer.cc", 
-            "DQMOffline/Trigger/python/HLTTauDQMOffline_cff.py", 
-            "DQMOffline/Trigger/python/HLTTauDQMOffline_cfi.py", 
-            "DQMOffline/Trigger/src/HLTTauDQMPath.cc", 
-            "DQMOffline/Trigger/src/HLTTauDQMPathPlotter.cc", 
-            "DQMOffline/Trigger/src/HLTTauDQMPathSummaryPlotter.cc", 
-            "DQMOffline/Trigger/src/HLTTauDQMTagAndProbePlotter.cc", 
-            "HLTriggerOffline/Tau/python/Validation/HLTTauReferences_cfi.py", 
-            "HLTriggerOffline/Tau/test/runHLTTauValidationDQMOfflineMiniAOD_cfg.py", 
-            "HLTriggerOffline/Tau/test/runHLTTauValidationDQMOffline_cfg.py"
-        ], 
-        "created_at": 1665048618, 
-        "number": 39651, 
-        "state": "open", 
-        "updated_at": 1665149293
-    }, 
     "39670": {
         "base_branch": "master", 
         "changed_files_names": [
