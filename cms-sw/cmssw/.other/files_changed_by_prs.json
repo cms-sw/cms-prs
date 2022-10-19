@@ -2356,5 +2356,17 @@
         "number": 39770, 
         "state": "open", 
         "updated_at": 1666167880
+    }, 
+    "39771": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1MonitorRecHitsSoA.cc", 
+            "DQM/SiPixelPhase1Heterogeneous/python/SiPixelPhase1HeterogenousDQM_FirstStep_cff.py", 
+            "DQMOffline/Configuration/python/DQMOffline_cff.py"
+        ], 
+        "created_at": 1666177674, 
+        "number": 39771, 
+        "state": "open", 
+        "updated_at": 1666177816
     }
 }
