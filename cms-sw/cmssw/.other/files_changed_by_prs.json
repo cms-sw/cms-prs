@@ -2318,18 +2318,21 @@
     "39765": {
         "base_branch": "master", 
         "changed_files_names": [
+            "PhysicsTools/NanoAOD/test/BuildFile.xml", 
             "PhysicsTools/NanoAOD/test/compare_branches.py", 
             "PhysicsTools/NanoAOD/test/compare_sizes_json.py", 
             "PhysicsTools/NanoAOD/test/crab_mc.py", 
             "PhysicsTools/NanoAOD/test/dqmQualityTests.xml", 
             "PhysicsTools/NanoAOD/test/get_timing_from_jobreport.py", 
             "PhysicsTools/NanoAOD/test/nano_cfg.py", 
+            "PhysicsTools/NanoAOD/test/prepareDQM.py", 
+            "PhysicsTools/NanoAOD/test/runtestPhysicsToolsNanoAOD.cpp", 
             "PhysicsTools/NanoAOD/test/runtests.sh"
         ], 
         "created_at": 1666160669, 
         "number": 39765, 
         "state": "open", 
-        "updated_at": 1666168911
+        "updated_at": 1666168983
     }, 
     "39766": {
         "base_branch": "master", 
