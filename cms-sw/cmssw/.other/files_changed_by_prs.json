@@ -2342,5 +2342,18 @@
         "number": 39766, 
         "state": "open", 
         "updated_at": 1666161655
+    }, 
+    "39767": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondCore/AlignmentPlugins/interface/AlignmentPayloadInspectorHelper.h", 
+            "CondCore/AlignmentPlugins/plugins/BuildFile.xml", 
+            "CondCore/AlignmentPlugins/plugins/TrackerAlignment_PayloadInspector.cc", 
+            "CondCore/AlignmentPlugins/plugins/TrackerSurfaceDeformations_PayloadInspector.cc"
+        ], 
+        "created_at": 1666163409, 
+        "number": 39767, 
+        "state": "open", 
+        "updated_at": 1666163428
     }
 }
