@@ -2036,30 +2036,6 @@
         "state": "open", 
         "updated_at": 1665586316
     }, 
-    "39720": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "HLTrigger/Configuration/python/HLT_75e33/modules/HGCalUncalibRecHitL1Seeded_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/HGCalUncalibRecHit_cfi.py", 
-            "RecoLocalCalo/HGCalRecAlgos/interface/HGCalUncalibRecHitRecWeightsAlgo.h", 
-            "RecoLocalCalo/HGCalRecProducers/interface/HGCalUncalibRecHitWorkerBaseClass.h", 
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalLayerClusterProducer.cc", 
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalRecHitWorkerSimple.cc", 
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalUncalibRecHitProducer.cc", 
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalUncalibRecHitProducer.h", 
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalUncalibRecHitWorkerWeights.cc", 
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalUncalibRecHitWorkerWeights.h", 
-            "RecoLocalCalo/HGCalRecProducers/python/HGCalUncalibRecHit_cfi.py", 
-            "RecoParticleFlow/PFClusterProducer/plugins/SimMappers/RealisticSimClusterMapper.cc", 
-            "SimCalorimetry/HGCalSimProducers/interface/HGCDigitizer.h", 
-            "SimCalorimetry/HGCalSimProducers/plugins/HGCDigitizer.cc", 
-            "SimCalorimetry/HGCalSimProducers/python/hgcalDigitizer_cfi.py"
-        ], 
-        "created_at": 1665603712, 
-        "number": 39720, 
-        "state": "open", 
-        "updated_at": 1665752732
-    }, 
     "39722": {
         "base_branch": "master", 
         "changed_files_names": [
