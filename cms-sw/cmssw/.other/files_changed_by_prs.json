@@ -2317,5 +2317,17 @@
         "number": 39784, 
         "state": "open", 
         "updated_at": 1666203695
+    }, 
+    "39787": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/CTPPS/plugins/CTPPSPixelDQMSource.cc", 
+            "DQM/CTPPS/python/ctppsPixelDQMSource_cfi.py", 
+            "EventFilter/CTPPSRawToDigi/src/CTPPSPixelDataFormatter.cc"
+        ], 
+        "created_at": 1666248795, 
+        "number": 39787, 
+        "state": "open", 
+        "updated_at": 1666248821
     }
 }
