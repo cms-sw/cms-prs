@@ -2398,5 +2398,25 @@
         "number": 39799, 
         "state": "open", 
         "updated_at": 1666276094
+    }, 
+    "39800": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "DQMOffline/Trigger/python/DiDispStaMuonMonitor_cff.py", 
+            "DQMOffline/Trigger/python/DisplacedJet_Monitor_cff.py", 
+            "DQMOffline/Trigger/python/MuonMonitor_cff.py", 
+            "DQMOffline/Trigger/python/PhotonMonitor_cff.py", 
+            "HLTriggerOffline/Exotica/python/analyses/hltExoticaDisplacedDiPhoton_cff.py", 
+            "HLTriggerOffline/Exotica/python/analyses/hltExoticaDisplacedDimuon_cff.py", 
+            "HLTriggerOffline/Exotica/python/analyses/hltExoticaDisplacedL2Dimuon_cff.py", 
+            "HLTriggerOffline/Exotica/python/analyses/hltExoticaHTDisplacedJets_cff.py", 
+            "HLTriggerOffline/Exotica/python/analyses/hltExoticaHighPtPhoton_cff.py", 
+            "HLTriggerOffline/Exotica/python/hltExoticaPostProcessors_cff.py", 
+            "HLTriggerOffline/Exotica/python/hltExoticaValidator_cfi.py"
+        ], 
+        "created_at": 1666277365, 
+        "number": 39800, 
+        "state": "open", 
+        "updated_at": 1666277393
     }
 }
