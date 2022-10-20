@@ -2469,5 +2469,24 @@
         "number": 39802, 
         "state": "open", 
         "updated_at": 1666289279
+    }, 
+    "39804": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Calibration/HcalCalibAlgos/python/diJetAnalyzer_cfi.py", 
+            "Calibration/HcalCalibAlgos/python/gammaJetAnalysis_cfi.py", 
+            "Calibration/HcalCalibAlgos/test/DiJetAnalyzer.cc", 
+            "Calibration/HcalCalibAlgos/test/GammaJetAnalysis.cc", 
+            "Calibration/HcalCalibAlgos/test/python/dijetanalysis_cfg.py", 
+            "Calibration/HcalCalibAlgos/test/python/dijetanalyzer_cfg.py", 
+            "Calibration/HcalCalibAlgos/test/python/gammaJetAnalysis_cfg.py", 
+            "Calibration/HcalCalibAlgos/test/python/gammaJetAnalysis_data2012_cfg.py", 
+            "Calibration/HcalCalibAlgos/test/python/gammaJetAnalysis_data2012_noGJetProd_cfg.py", 
+            "Calibration/HcalCalibAlgos/test/python/gammaJetAnalysis_noGJetProd_cfg.py"
+        ], 
+        "created_at": 1666296092, 
+        "number": 39804, 
+        "state": "open", 
+        "updated_at": 1666296119
     }
 }
