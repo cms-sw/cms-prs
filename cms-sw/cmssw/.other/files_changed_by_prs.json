@@ -1915,33 +1915,6 @@
         "state": "open", 
         "updated_at": 1665721808
     }, 
-    "39725": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/DemonstratorTools/interface/codecs/etsums.h", 
-            "L1Trigger/DemonstratorTools/interface/codecs/htsums.h", 
-            "L1Trigger/DemonstratorTools/interface/codecs/tkjets.h", 
-            "L1Trigger/DemonstratorTools/src/codecs_etsums.cc", 
-            "L1Trigger/DemonstratorTools/src/codecs_htsums.cc", 
-            "L1Trigger/DemonstratorTools/test/gtt/createFirmwareInputFiles_cfg.py", 
-            "L1Trigger/L1TTrackMatch/interface/Cordic.h", 
-            "L1Trigger/L1TTrackMatch/interface/L1TkEtMissEmuAlgo.h", 
-            "L1Trigger/L1TTrackMatch/interface/L1TkEtMissEmuTrackTransform.h", 
-            "L1Trigger/L1TTrackMatch/interface/L1TkHTMissEmulatorProducer.h", 
-            "L1Trigger/L1TTrackMatch/plugins/L1TkHTMissEmulatorProducer.cc", 
-            "L1Trigger/L1TTrackMatch/plugins/L1TrackerEtMissEmulatorProducer.cc", 
-            "L1Trigger/L1TTrackMatch/python/l1tTrackerEmuEtMiss_cfi.py", 
-            "L1Trigger/L1TTrackMatch/src/Cordic.cc", 
-            "L1Trigger/L1TTrackMatch/src/L1TkEtMissEmuAlgo.cc", 
-            "L1Trigger/L1TTrackMatch/src/L1TkEtMissEmuTrackTransform.cc", 
-            "L1Trigger/L1TTrackMatch/test/L1TkMETAnalyser.cc", 
-            "L1Trigger/L1TTrackMatch/test/L1TrackObjectNtupleMaker.cc"
-        ], 
-        "created_at": 1665659182, 
-        "number": 39725, 
-        "state": "open", 
-        "updated_at": 1665675218
-    }, 
     "39734": {
         "base_branch": "CMSSW_12_4_X", 
         "changed_files_names": [
