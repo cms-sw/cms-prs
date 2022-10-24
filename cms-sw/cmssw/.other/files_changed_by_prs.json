@@ -2171,12 +2171,15 @@
             "Configuration/PyReleaseValidation/python/relval_nano.py", 
             "Configuration/StandardSequences/python/Eras.py", 
             "PhysicsTools/NanoAOD/interface/SimpleFlatTableProducer.h", 
+            "PhysicsTools/NanoAOD/plugins/GenJetGenPartMerger.cc", 
+            "PhysicsTools/NanoAOD/plugins/LeptonInJetProducer.cc", 
             "PhysicsTools/NanoAOD/plugins/TriggerObjectTableProducer.cc", 
             "PhysicsTools/NanoAOD/python/V10/boostedTaus_cff.py", 
             "PhysicsTools/NanoAOD/python/V10/btagWeightTable_cff.py", 
             "PhysicsTools/NanoAOD/python/V10/electrons_cff.py", 
             "PhysicsTools/NanoAOD/python/V10/extraflags_cff.py", 
             "PhysicsTools/NanoAOD/python/V10/genVertex_cff.py", 
+            "PhysicsTools/NanoAOD/python/V10/globals_cff.py", 
             "PhysicsTools/NanoAOD/python/V10/isotracks_cff.py", 
             "PhysicsTools/NanoAOD/python/V10/jetMC_cff.py", 
             "PhysicsTools/NanoAOD/python/V10/jetsAK4_CHS_cff.py", 
@@ -2198,6 +2201,7 @@
             "PhysicsTools/NanoAOD/python/electrons_cff.py", 
             "PhysicsTools/NanoAOD/python/extraflags_cff.py", 
             "PhysicsTools/NanoAOD/python/genVertex_cff.py", 
+            "PhysicsTools/NanoAOD/python/globals_cff.py", 
             "PhysicsTools/NanoAOD/python/isotracks_cff.py", 
             "PhysicsTools/NanoAOD/python/jetMC_cff.py", 
             "PhysicsTools/NanoAOD/python/jetsAK4_CHS_cff.py", 
@@ -2221,7 +2225,7 @@
         "created_at": 1666268516, 
         "number": 39796, 
         "state": "open", 
-        "updated_at": 1666591099
+        "updated_at": 1666600995
     }, 
     "39798": {
         "base_branch": "master", 
