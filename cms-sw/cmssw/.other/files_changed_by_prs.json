@@ -2105,6 +2105,7 @@
             "Configuration/StandardSequences/python/Eras.py", 
             "PhysicsTools/NanoAOD/interface/SimpleFlatTableProducer.h", 
             "PhysicsTools/NanoAOD/plugins/GenJetGenPartMerger.cc", 
+            "PhysicsTools/NanoAOD/plugins/GlobalVariablesTableProducer.cc", 
             "PhysicsTools/NanoAOD/plugins/LeptonInJetProducer.cc", 
             "PhysicsTools/NanoAOD/plugins/NanoAODBaseCrossCleaner.cc", 
             "PhysicsTools/NanoAOD/plugins/TriggerObjectTableProducer.cc", 
@@ -2160,7 +2161,7 @@
         "created_at": 1666268516, 
         "number": 39796, 
         "state": "open", 
-        "updated_at": 1666605152
+        "updated_at": 1666613422
     }, 
     "39799": {
         "base_branch": "master", 
