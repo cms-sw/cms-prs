@@ -1491,32 +1491,6 @@
         "state": "open", 
         "updated_at": 1666102948
     }, 
-    "39422": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/DemonstratorTools/interface/codecs/etsums.h", 
-            "L1Trigger/DemonstratorTools/interface/codecs/htsums.h", 
-            "L1Trigger/DemonstratorTools/interface/codecs/tkjets.h", 
-            "L1Trigger/DemonstratorTools/interface/codecs/tracks.h", 
-            "L1Trigger/DemonstratorTools/interface/codecs/vertices.h", 
-            "L1Trigger/DemonstratorTools/plugins/GTTFileWriter.cc", 
-            "L1Trigger/DemonstratorTools/python/GTTFileWriter_cff.py", 
-            "L1Trigger/DemonstratorTools/src/BoardDataWriter.cc", 
-            "L1Trigger/DemonstratorTools/src/codecs_etsums.cc", 
-            "L1Trigger/DemonstratorTools/src/codecs_htsums.cc", 
-            "L1Trigger/DemonstratorTools/src/codecs_tkjets.cc", 
-            "L1Trigger/DemonstratorTools/src/codecs_tracks.cc", 
-            "L1Trigger/DemonstratorTools/test/gtt/createFirmwareInputFiles_cfg.py", 
-            "L1Trigger/L1TTrackMatch/interface/L1TkHTMissEmulatorProducer.h", 
-            "L1Trigger/L1TTrackMatch/plugins/L1TrackerEtMissEmulatorProducer.cc", 
-            "L1Trigger/L1TTrackMatch/test/L1TrackObjectNtupleMaker.cc", 
-            "L1Trigger/L1TTrackMatch/test/L1TrackObjectNtupleMaker_cfg.py"
-        ], 
-        "created_at": 1663328666, 
-        "number": 39422, 
-        "state": "open", 
-        "updated_at": 1666356543
-    }, 
     "39428": {
         "base_branch": "master", 
         "changed_files_names": [
