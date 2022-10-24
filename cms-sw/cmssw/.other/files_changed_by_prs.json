@@ -2158,7 +2158,9 @@
             "PhysicsTools/NanoAOD/interface/SimpleFlatTableProducer.h", 
             "PhysicsTools/NanoAOD/plugins/GenJetGenPartMerger.cc", 
             "PhysicsTools/NanoAOD/plugins/LeptonInJetProducer.cc", 
+            "PhysicsTools/NanoAOD/plugins/NanoAODBaseCrossCleaner.cc", 
             "PhysicsTools/NanoAOD/plugins/TriggerObjectTableProducer.cc", 
+            "PhysicsTools/NanoAOD/plugins/UniqueStringProducer.cc", 
             "PhysicsTools/NanoAOD/python/V10/boostedTaus_cff.py", 
             "PhysicsTools/NanoAOD/python/V10/btagWeightTable_cff.py", 
             "PhysicsTools/NanoAOD/python/V10/electrons_cff.py", 
@@ -2210,7 +2212,7 @@
         "created_at": 1666268516, 
         "number": 39796, 
         "state": "open", 
-        "updated_at": 1666600995
+        "updated_at": 1666605152
     }, 
     "39799": {
         "base_branch": "master", 
