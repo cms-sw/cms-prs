@@ -2080,9 +2080,12 @@
             "PhysicsTools/NanoAOD/interface/SimpleFlatTableProducer.h", 
             "PhysicsTools/NanoAOD/plugins/GenJetGenPartMerger.cc", 
             "PhysicsTools/NanoAOD/plugins/GlobalVariablesTableProducer.cc", 
+            "PhysicsTools/NanoAOD/plugins/LHCInfoProducer.cc", 
             "PhysicsTools/NanoAOD/plugins/LeptonInJetProducer.cc", 
             "PhysicsTools/NanoAOD/plugins/NanoAODBaseCrossCleaner.cc", 
+            "PhysicsTools/NanoAOD/plugins/NanoAODDQM.cc", 
             "PhysicsTools/NanoAOD/plugins/NativeArrayTableProducer.cc", 
+            "PhysicsTools/NanoAOD/plugins/PileupJetIDVarProducer.cc", 
             "PhysicsTools/NanoAOD/plugins/TriggerObjectTableProducer.cc", 
             "PhysicsTools/NanoAOD/plugins/UniqueStringProducer.cc", 
             "PhysicsTools/NanoAOD/python/V10/boostedTaus_cff.py", 
@@ -2122,6 +2125,7 @@
             "PhysicsTools/NanoAOD/python/met_cff.py", 
             "PhysicsTools/NanoAOD/python/muons_cff.py", 
             "PhysicsTools/NanoAOD/python/nanoDQM_cff.py", 
+            "PhysicsTools/NanoAOD/python/nanoDQM_tools_cff.py", 
             "PhysicsTools/NanoAOD/python/nano_cff.py", 
             "PhysicsTools/NanoAOD/python/nano_eras_cff.py", 
             "PhysicsTools/NanoAOD/python/photons_cff.py", 
@@ -2136,7 +2140,7 @@
         "created_at": 1666268516, 
         "number": 39796, 
         "state": "open", 
-        "updated_at": 1666677067
+        "updated_at": 1666688166
     }, 
     "39799": {
         "base_branch": "master", 
