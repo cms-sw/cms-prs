@@ -2379,5 +2379,20 @@
         "number": 39838, 
         "state": "open", 
         "updated_at": 1666673452
+    }, 
+    "39839": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "PhysicsTools/NanoAOD/python/electrons_cff.py", 
+            "PhysicsTools/NanoAOD/python/nanoDQM_cfi.py", 
+            "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py", 
+            "RecoEgamma/ElectronIdentification/data/Run3_Winter22/effAreaElectrons_cone03_pfNeuHadronsAndPhotons_122X.txt", 
+            "RecoEgamma/ElectronIdentification/python/Identification/cutBasedElectronID_Winter22_122X_V1_cff.py", 
+            "RecoEgamma/ElectronIdentification/test/runtests.sh"
+        ], 
+        "created_at": 1666683890, 
+        "number": 39839, 
+        "state": "open", 
+        "updated_at": 1666683912
     }
 }
