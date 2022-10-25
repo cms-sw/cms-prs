@@ -2043,6 +2043,7 @@
             "Configuration/PyReleaseValidation/python/relval_nano.py", 
             "Configuration/StandardSequences/python/Eras.py", 
             "PhysicsTools/NanoAOD/interface/SimpleFlatTableProducer.h", 
+            "PhysicsTools/NanoAOD/plugins/FilterValueMapWrapper.h", 
             "PhysicsTools/NanoAOD/plugins/GenJetGenPartMerger.cc", 
             "PhysicsTools/NanoAOD/plugins/GlobalVariablesTableProducer.cc", 
             "PhysicsTools/NanoAOD/plugins/LHCInfoProducer.cc", 
@@ -2053,6 +2054,7 @@
             "PhysicsTools/NanoAOD/plugins/PileupJetIDVarProducer.cc", 
             "PhysicsTools/NanoAOD/plugins/TriggerObjectTableProducer.cc", 
             "PhysicsTools/NanoAOD/plugins/UniqueStringProducer.cc", 
+            "PhysicsTools/NanoAOD/plugins/VertexTableProducer.cc", 
             "PhysicsTools/NanoAOD/python/V10/boostedTaus_cff.py", 
             "PhysicsTools/NanoAOD/python/V10/btagWeightTable_cff.py", 
             "PhysicsTools/NanoAOD/python/V10/electrons_cff.py", 
@@ -2100,12 +2102,13 @@
             "PhysicsTools/NanoAOD/python/taus_updatedMVAIds_cff.py", 
             "PhysicsTools/NanoAOD/python/triggerObjects_cff.py", 
             "PhysicsTools/NanoAOD/python/ttbarCategorization_cff.py", 
+            "PhysicsTools/SelectorUtils/interface/PFJetIDSelectionFunctor.h", 
             "RecoMET/METFilters/python/ecalBadCalibFilter_cfi.py"
         ], 
         "created_at": 1666268516, 
         "number": 39796, 
         "state": "open", 
-        "updated_at": 1666688166
+        "updated_at": 1666710696
     }, 
     "39800": {
         "base_branch": "CMSSW_12_4_X", 
