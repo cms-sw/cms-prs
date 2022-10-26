@@ -2003,6 +2003,7 @@
             "Configuration/Eras/python/Modifier_run2_nanoAOD_94XMiniAODv2_cff.py", 
             "Configuration/Eras/python/Modifier_run3_nanoAOD_devel_cff.py", 
             "Configuration/PyReleaseValidation/python/relval_nano.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
             "Configuration/StandardSequences/python/Eras.py", 
             "PhysicsTools/NanoAOD/interface/SimpleFlatTableProducer.h", 
             "PhysicsTools/NanoAOD/plugins/FilterValueMapWrapper.h", 
@@ -2072,7 +2073,7 @@
         "created_at": 1666268516, 
         "number": 39796, 
         "state": "open", 
-        "updated_at": 1666719136
+        "updated_at": 1666766061
     }, 
     "39800": {
         "base_branch": "CMSSW_12_4_X", 
