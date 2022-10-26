@@ -2444,5 +2444,20 @@
         "number": 39856, 
         "state": "open", 
         "updated_at": 1666764309
+    }, 
+    "39857": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimFastTiming/FastTimingCommon/src/BTLDeviceSim.cc", 
+            "SimFastTiming/FastTimingCommon/src/ETLDeviceSim.cc", 
+            "Validation/MtdValidation/plugins/BtlLocalRecoValidation.cc", 
+            "Validation/MtdValidation/plugins/BtlSimHitsValidation.cc", 
+            "Validation/MtdValidation/plugins/EtlLocalRecoValidation.cc", 
+            "Validation/MtdValidation/plugins/EtlSimHitsValidation.cc"
+        ], 
+        "created_at": 1666770429, 
+        "number": 39857, 
+        "state": "open", 
+        "updated_at": 1666770451
     }
 }
