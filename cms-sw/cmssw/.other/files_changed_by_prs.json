@@ -2574,5 +2574,21 @@
         "number": 39882, 
         "state": "open", 
         "updated_at": 1666891440
+    }, 
+    "39883": {
+        "base_branch": "CMSSW_12_5_X", 
+        "changed_files_names": [
+            "Configuration/EventContent/python/EventContent_cff.py", 
+            "Configuration/PyReleaseValidation/python/relval_standard.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
+            "Configuration/StandardSequences/python/DigiToRaw_Repack_cff.py", 
+            "EventFilter/RawDataCollector/src/RawDataMapperByLabel.cc", 
+            "RecoLocalTracker/SiStripClusterizer/python/SiStripClusterizer_RealData_cfi.py", 
+            "RecoLocalTracker/SiStripClusterizer/python/SiStripClusters2ApproxClusters_cff.py"
+        ], 
+        "created_at": 1666892628, 
+        "number": 39883, 
+        "state": "open", 
+        "updated_at": 1666892669
     }
 }
