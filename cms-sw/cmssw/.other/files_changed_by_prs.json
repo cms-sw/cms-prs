@@ -1913,16 +1913,15 @@
     "39776": {
         "base_branch": "master", 
         "changed_files_names": [
+            "DataFormats/TrackerRecHit2D/interface/SiPixelRecHitQuality.h", 
             "RecoLocalTracker/SiPixelRecHits/python/PixelCPEClusterRepair_cfi.py", 
-            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEClusterRepair.cc", 
-            "RecoLocalTracker/SiPixelRecHits/src/PixelCPETemplateReco.cc", 
             "RecoTracker/TrackProducer/python/TrackProducerIterativeDefault_cfi.py", 
             "RecoTracker/TransientTrackingRecHit/python/TTRHBuilderWithTemplate_cfi.py"
         ], 
         "created_at": 1666180987, 
         "number": 39776, 
         "state": "open", 
-        "updated_at": 1666871948
+        "updated_at": 1666895538
     }, 
     "39795": {
         "base_branch": "master", 
