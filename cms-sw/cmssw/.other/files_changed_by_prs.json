@@ -1578,18 +1578,13 @@
         "base_branch": "CMSSW_12_5_X", 
         "changed_files_names": [
             "HeterogeneousCore/AlpakaCore/interface/chooseDevice.h", 
-            "HeterogeneousCore/AlpakaInterface/interface/vec.h", 
-            "HeterogeneousCore/AlpakaInterface/interface/workdivision.h", 
-            "HeterogeneousCore/AlpakaInterface/test/BuildFile.xml", 
-            "HeterogeneousCore/AlpakaInterface/test/alpaka/testVec.cc", 
-            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlgo.dev.cc", 
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaProducer.cc", 
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaTranscriber.cc"
         ], 
         "created_at": 1664116223, 
         "number": 39497, 
         "state": "open", 
-        "updated_at": 1664846152
+        "updated_at": 1666952148
     }, 
     "39498": {
         "base_branch": "master", 
