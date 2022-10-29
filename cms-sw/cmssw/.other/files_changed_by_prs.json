@@ -2401,6 +2401,7 @@
     "39883": {
         "base_branch": "CMSSW_12_5_X", 
         "changed_files_names": [
+            "Configuration/Eras/python/Era_Run3_pp_on_PbPb_approxSiStripClusters_cff.py", 
             "Configuration/EventContent/python/EventContent_cff.py", 
             "Configuration/PyReleaseValidation/python/relval_standard.py", 
             "Configuration/PyReleaseValidation/python/relval_steps.py", 
@@ -2413,7 +2414,7 @@
         "created_at": 1666892628, 
         "number": 39883, 
         "state": "open", 
-        "updated_at": 1667028815
+        "updated_at": 1667040658
     }, 
     "39886": {
         "base_branch": "master", 
