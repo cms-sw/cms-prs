@@ -2883,5 +2883,43 @@
         "number": 39923, 
         "state": "open", 
         "updated_at": 1667021572
+    }, 
+    "39924": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/HLT/python/autoCondHLT.py", 
+            "HLTrigger/Configuration/python/HLT_2022v15_cff.py", 
+            "HLTrigger/Configuration/python/HLT_2022v14_cff.py", 
+            "HLTrigger/Configuration/python/HLT_FULL_cff.py", 
+            "HLTrigger/Configuration/python/HLT_GRun_cff.py", 
+            "HLTrigger/Configuration/python/HLT_HIon_cff.py", 
+            "HLTrigger/Configuration/python/HLT_PIon_cff.py", 
+            "HLTrigger/Configuration/python/HLT_PRef_cff.py", 
+            "HLTrigger/Configuration/python/HLTrigger_Datasets_GRun_cff.py", 
+            "HLTrigger/Configuration/python/HLTrigger_Datasets_HIon_cff.py", 
+            "HLTrigger/Configuration/python/HLTrigger_EventContent_cff.py", 
+            "HLTrigger/Configuration/python/Tools/options.py", 
+            "HLTrigger/Configuration/tables/GRun.txt", 
+            "HLTrigger/Configuration/tables/HIon.txt", 
+            "HLTrigger/Configuration/tables/makeOnlineGRun", 
+            "HLTrigger/Configuration/tables/online_grun.txt", 
+            "HLTrigger/Configuration/tables/online_hion.txt", 
+            "HLTrigger/Configuration/tables/online_pref.txt", 
+            "HLTrigger/Configuration/test/OnLine_HLT_2022v15.py", 
+            "HLTrigger/Configuration/test/OnLine_HLT_2022v14.py", 
+            "HLTrigger/Configuration/test/OnLine_HLT_FULL.py", 
+            "HLTrigger/Configuration/test/OnLine_HLT_GRun.py", 
+            "HLTrigger/Configuration/test/OnLine_HLT_HIon.py", 
+            "HLTrigger/Configuration/test/OnLine_HLT_PIon.py", 
+            "HLTrigger/Configuration/test/OnLine_HLT_PRef.py", 
+            "HLTrigger/Configuration/test/cmsDriver.csh", 
+            "HLTrigger/Configuration/test/getFrozenHLT.sh", 
+            "HLTrigger/Configuration/test/runIntegration.csh", 
+            "HLTrigger/Configuration/test/runOne.csh"
+        ], 
+        "created_at": 1667057954, 
+        "number": 39924, 
+        "state": "open", 
+        "updated_at": 1667057977
     }
 }
