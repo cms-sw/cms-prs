@@ -2878,5 +2878,16 @@
         "number": 39920, 
         "state": "open", 
         "updated_at": 1667016338
+    }, 
+    "39921": {
+        "base_branch": "CMSSW_12_5_X", 
+        "changed_files_names": [
+            "CondFormats/GeometryObjects/interface/HcalParameters.h", 
+            "Geometry/HcalCommonData/src/HcalDDDRecConstants.cc"
+        ], 
+        "created_at": 1667019448, 
+        "number": 39921, 
+        "state": "open", 
+        "updated_at": 1667019472
     }
 }
