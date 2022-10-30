@@ -2930,6 +2930,7 @@
         "base_branch": "CMSSW_12_5_X", 
         "changed_files_names": [
             "Configuration/HLT/python/autoCondHLT.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
             "HLTrigger/Configuration/python/HLT_FULL_cff.py", 
             "HLTrigger/Configuration/python/HLT_GRun_cff.py", 
             "HLTrigger/Configuration/python/HLT_HIon_cff.py", 
@@ -2953,7 +2954,7 @@
         "created_at": 1667058017, 
         "number": 39925, 
         "state": "open", 
-        "updated_at": 1667058054
+        "updated_at": 1667107342
     }, 
     "39926": {
         "base_branch": "CMSSW_12_4_X", 
