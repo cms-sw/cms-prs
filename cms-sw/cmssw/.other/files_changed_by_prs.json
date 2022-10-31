@@ -2719,29 +2719,6 @@
         "state": "open", 
         "updated_at": 1666960366
     }, 
-    "39912": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/L1GctAnalyzer/interface/compareCands.h", 
-            "L1Trigger/L1GctAnalyzer/interface/compareMissingEnergySums.h", 
-            "L1Trigger/L1GctAnalyzer/interface/compareTotalEnergySums.h", 
-            "L1Trigger/L1GctAnalyzer/src/DumpGctDigis.cc", 
-            "L1Trigger/L1TGlobal/plugins/GtInputDump.cc", 
-            "L1Trigger/RegionalCaloTrigger/plugins/L1RCTRelValAnalyzer.cc", 
-            "L1Trigger/RegionalCaloTrigger/plugins/L1RCTSaveInput.cc", 
-            "L1Trigger/RegionalCaloTrigger/plugins/L1RCTTestAnalyzer.cc", 
-            "L1TriggerConfig/GctConfigProducers/src/L1GctConfigDump.cc", 
-            "L1TriggerConfig/L1GtConfigProducers/src/L1GtParametersTester.cc", 
-            "L1TriggerConfig/L1GtConfigProducers/src/L1GtPrescaleFactorsAndMasksTester.cc", 
-            "L1TriggerConfig/L1GtConfigProducers/src/L1GtStableParametersTester.cc", 
-            "L1TriggerConfig/L1GtConfigProducers/src/L1GtTriggerMenuTester.cc", 
-            "L1TriggerConfig/L1GtConfigProducers/src/L1GtVhdlWriter.cc"
-        ], 
-        "created_at": 1666966110, 
-        "number": 39912, 
-        "state": "open", 
-        "updated_at": 1666966131
-    }, 
     "39915": {
         "base_branch": "master", 
         "changed_files_names": [
