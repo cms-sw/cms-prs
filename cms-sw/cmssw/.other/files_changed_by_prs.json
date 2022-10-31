@@ -2832,5 +2832,17 @@
         "number": 39943, 
         "state": "open", 
         "updated_at": 1667232148
+    }, 
+    "39944": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "DQM/EcalMonitorClient/interface/PresampleClient.h", 
+            "DQM/EcalMonitorClient/python/PresampleClient_cfi.py", 
+            "DQM/EcalMonitorClient/src/PresampleClient.cc"
+        ], 
+        "created_at": 1667232150, 
+        "number": 39944, 
+        "state": "open", 
+        "updated_at": 1667232172
     }
 }
