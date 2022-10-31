@@ -2795,5 +2795,17 @@
         "number": 39940, 
         "state": "open", 
         "updated_at": 1667227715
+    }, 
+    "39941": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/EcalMonitorClient/interface/PresampleClient.h", 
+            "DQM/EcalMonitorClient/python/PresampleClient_cfi.py", 
+            "DQM/EcalMonitorClient/src/PresampleClient.cc"
+        ], 
+        "created_at": 1667232097, 
+        "number": 39941, 
+        "state": "open", 
+        "updated_at": 1667232126
     }
 }
