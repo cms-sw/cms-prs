@@ -2185,11 +2185,13 @@
             "RecoTracker/MkFit/test/dumpMkFitGeometryPhase2.py", 
             "RecoTracker/MkFitCMS/interface/LayerNumberConverter.h", 
             "RecoTracker/MkFitCMS/interface/MkStdSeqs.h", 
-            "RecoTracker/MkFitCMS/src/MkSeedPartitioners-2017.cc", 
-            "RecoTracker/MkFitCMS/src/MkSeedPartitioners-2029.cc", 
+            "RecoTracker/MkFitCMS/src/MkSeedPartitioners-phase1.cc", 
+            "RecoTracker/MkFitCMS/src/MkSeedPartitioners-phase2.cc", 
             "RecoTracker/MkFitCMS/src/MkStdSeqs.cc", 
             "RecoTracker/MkFitCMS/src/runFunctions.cc", 
-            "RecoTracker/MkFitCMS/standalone/Geoms/CMS-2029.cc", 
+            "RecoTracker/MkFitCMS/standalone/Geoms/CMS-phase1.cc", 
+            "RecoTracker/MkFitCMS/standalone/Geoms/CMS-2017.cc", 
+            "RecoTracker/MkFitCMS/standalone/Geoms/CMS-phase2.cc", 
             "RecoTracker/MkFitCMS/standalone/Geoms/Makefile", 
             "RecoTracker/MkFitCMS/standalone/Makefile", 
             "RecoTracker/MkFitCMS/standalone/MkStandaloneSeqs.cc", 
@@ -2197,6 +2199,7 @@
             "RecoTracker/MkFitCMS/standalone/mkFit.cc", 
             "RecoTracker/MkFitCMS/standalone/tkNtuple/Makefile", 
             "RecoTracker/MkFitCMS/standalone/tkNtuple/WriteMemoryFile.cc", 
+            "RecoTracker/MkFitCore/interface/Config.h", 
             "RecoTracker/MkFitCore/interface/Hit.h", 
             "RecoTracker/MkFitCore/interface/IterationConfig.h", 
             "RecoTracker/MkFitCore/interface/MkBuilder.h", 
@@ -2214,7 +2217,7 @@
         "created_at": 1666816017, 
         "number": 39866, 
         "state": "open", 
-        "updated_at": 1667201321
+        "updated_at": 1667252788
     }, 
     "39874": {
         "base_branch": "master", 
