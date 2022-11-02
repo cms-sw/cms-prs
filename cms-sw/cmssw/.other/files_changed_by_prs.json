@@ -2525,5 +2525,32 @@
         "number": 39962, 
         "state": "open", 
         "updated_at": 1667398975
+    }, 
+    "39963": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CommonTools/Egamma/interface/EffectiveAreas.h", 
+            "CommonTools/Egamma/src/EffectiveAreas.cc", 
+            "PhysicsTools/NanoAOD/plugins/HoverEValueMapProducer.cc", 
+            "PhysicsTools/NanoAOD/plugins/IsoValueMapProducer.cc", 
+            "PhysicsTools/NanoAOD/python/nanoDQM_cfi.py", 
+            "PhysicsTools/NanoAOD/python/photons_cff.py", 
+            "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py", 
+            "RecoEgamma/PhotonIdentification/data/RunIII_Winter22/effectiveArea_ChgHadronIso_95percentBased.txt", 
+            "RecoEgamma/PhotonIdentification/data/RunIII_Winter22/effectiveArea_ECalClusterIso_95percentBased.txt", 
+            "RecoEgamma/PhotonIdentification/data/RunIII_Winter22/effectiveArea_HCalClusterIso_95percentBased.txt", 
+            "RecoEgamma/PhotonIdentification/data/RunIII_Winter22/effectiveArea_NeuHadronIso_95percentBased.txt", 
+            "RecoEgamma/PhotonIdentification/data/RunIII_Winter22/effectiveArea_PhotonIso_95percentBased.txt", 
+            "RecoEgamma/PhotonIdentification/data/RunIII_Winter22/effectiveArea_TrackerIso_95percentBased.txt", 
+            "RecoEgamma/PhotonIdentification/data/RunIII_Winter22/effectiveArea_coneBasedHoverE_95percentBased.txt", 
+            "RecoEgamma/PhotonIdentification/plugins/cuts/PhoGenericQuadraticRhoPtScaledCut.cc", 
+            "RecoEgamma/PhotonIdentification/python/Identification/cutBasedPhotonID_RunIIIWinter22_122X_V1_cff.py", 
+            "RecoEgamma/PhotonIdentification/python/Identification/cutBasedPhotonID_tools.py", 
+            "RecoEgamma/PhotonIdentification/test/runtests.sh"
+        ], 
+        "created_at": 1667401387, 
+        "number": 39963, 
+        "state": "open", 
+        "updated_at": 1667401408
     }
 }
