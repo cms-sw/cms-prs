@@ -2207,24 +2207,6 @@
         "state": "open", 
         "updated_at": 1666977684
     }, 
-    "39883": {
-        "base_branch": "CMSSW_12_5_X", 
-        "changed_files_names": [
-            "Configuration/Eras/python/Era_Run3_pp_on_PbPb_approxSiStripClusters_cff.py", 
-            "Configuration/EventContent/python/EventContent_cff.py", 
-            "Configuration/PyReleaseValidation/python/relval_standard.py", 
-            "Configuration/PyReleaseValidation/python/relval_steps.py", 
-            "Configuration/StandardSequences/python/DigiToRaw_Repack_cff.py", 
-            "Configuration/StandardSequences/python/Eras.py", 
-            "EventFilter/RawDataCollector/src/RawDataMapperByLabel.cc", 
-            "RecoLocalTracker/SiStripClusterizer/python/SiStripClusterizer_RealData_cfi.py", 
-            "RecoLocalTracker/SiStripClusterizer/python/SiStripClusters2ApproxClusters_cff.py"
-        ], 
-        "created_at": 1666892628, 
-        "number": 39883, 
-        "state": "open", 
-        "updated_at": 1667380589
-    }, 
     "39889": {
         "base_branch": "master", 
         "changed_files_names": [
