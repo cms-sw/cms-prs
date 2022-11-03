@@ -2566,5 +2566,23 @@
         "number": 39974, 
         "state": "open", 
         "updated_at": 1667462162
+    }, 
+    "39975": {
+        "base_branch": "CMSSW_12_5_X", 
+        "changed_files_names": [
+            "DQM/Integration/python/clients/beam_dqm_sourceclient-live_cfg.py", 
+            "DQM/Integration/python/clients/beamfake_dqm_sourceclient-live_cfg.py", 
+            "DQM/Integration/python/clients/beamhlt_dqm_sourceclient-live_cfg.py", 
+            "DQM/Integration/python/clients/beamhltfake_dqm_sourceclient-live_cfg.py", 
+            "DQM/Integration/python/clients/beampixel_dqm_sourceclient-live_cfg.py", 
+            "DQM/Integration/python/clients/physics_dqm_sourceclient-live_cfg.py", 
+            "DQM/Integration/python/clients/pixel_dqm_sourceclient-live_cfg.py", 
+            "DQM/Integration/python/clients/pixellumi_dqm_sourceclient-live_cfg.py", 
+            "DQM/Integration/python/clients/sistrip_dqm_sourceclient-live_cfg.py"
+        ], 
+        "created_at": 1667477364, 
+        "number": 39975, 
+        "state": "open", 
+        "updated_at": 1667477397
     }
 }
