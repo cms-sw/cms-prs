@@ -2578,5 +2578,17 @@
         "number": 39970, 
         "state": "open", 
         "updated_at": 1667450191
+    }, 
+    "39971": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "Configuration/Eras/python/Modifier_run2_JMENanoHerwig7_cff.py", 
+            "PhysicsTools/JetMCAlgos/plugins/HadronAndPartonSelector.cc", 
+            "PhysicsTools/JetMCAlgos/python/HadronAndPartonSelector_cfi.py"
+        ], 
+        "created_at": 1667452046, 
+        "number": 39971, 
+        "state": "open", 
+        "updated_at": 1667452086
     }
 }
