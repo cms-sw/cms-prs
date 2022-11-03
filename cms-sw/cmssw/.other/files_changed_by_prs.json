@@ -2609,5 +2609,19 @@
         "number": 39979, 
         "state": "open", 
         "updated_at": 1667485884
+    }, 
+    "39980": {
+        "base_branch": "CMSSW_12_5_X", 
+        "changed_files_names": [
+            "DQMOffline/Trigger/python/BPHMonitor_cff.py", 
+            "HLTriggerOffline/HeavyFlavor/python/heavyFlavorValidationHarvestingSequence_cff.py", 
+            "HLTriggerOffline/HeavyFlavor/python/heavyFlavorValidationHarvesting_cfi.py", 
+            "HLTriggerOffline/HeavyFlavor/python/heavyFlavorValidationSequence_cff.py", 
+            "HLTriggerOffline/HeavyFlavor/src/HeavyFlavorValidation.cc"
+        ], 
+        "created_at": 1667485965, 
+        "number": 39980, 
+        "state": "open", 
+        "updated_at": 1667485994
     }
 }
