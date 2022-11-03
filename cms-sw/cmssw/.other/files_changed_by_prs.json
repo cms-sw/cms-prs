@@ -2498,24 +2498,6 @@
         "state": "open", 
         "updated_at": 1667441997
     }, 
-    "39964": {
-        "base_branch": "CMSSW_12_4_X", 
-        "changed_files_names": [
-            "Configuration/HLT/python/autoCondHLT.py", 
-            "Configuration/HLT/python/autoHLT.py", 
-            "HLTrigger/Configuration/python/HLT_2022v14_cff.py", 
-            "HLTrigger/Configuration/python/Tools/options.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_2022v14.py", 
-            "HLTrigger/Configuration/test/cmsDriver.csh", 
-            "HLTrigger/Configuration/test/getFrozenHLT.sh", 
-            "HLTrigger/Configuration/test/runIntegration.csh", 
-            "HLTrigger/Configuration/test/runOne.csh"
-        ], 
-        "created_at": 1667407702, 
-        "number": 39964, 
-        "state": "open", 
-        "updated_at": 1667407748
-    }, 
     "39965": {
         "base_branch": "master", 
         "changed_files_names": [
