@@ -2115,25 +2115,6 @@
         "state": "open", 
         "updated_at": 1666977684
     }, 
-    "39896": {
-        "base_branch": "CMSSW_12_5_X", 
-        "changed_files_names": [
-            "DQM/HLTEvF/plugins/BuildFile.xml", 
-            "DQM/HLTEvF/plugins/LumiMonitor.cc", 
-            "DQM/HLTEvF/python/HLTLumiMonitoring_cff.py", 
-            "DQM/HLTEvF/python/LumiMonitor_cff.py", 
-            "DQM/Integration/python/clients/hlt_dqm_clientPB-live_cfg.py", 
-            "DQM/SiPixelPhase1Track/plugins/SiPixelPhase1EfficiencyExtras.cc", 
-            "DQMOffline/Trigger/python/DQMOffline_LumiMonitoring_cff.py", 
-            "DQMOffline/Trigger/python/DQMOffline_LumiMontiroring_cff.py", 
-            "DQMOffline/Trigger/python/DQMOffline_Trigger_cff.py", 
-            "HLTrigger/Timer/plugins/FastTimerServiceClient.cc"
-        ], 
-        "created_at": 1666940810, 
-        "number": 39896, 
-        "state": "open", 
-        "updated_at": 1667370401
-    }, 
     "39897": {
         "base_branch": "CMSSW_12_4_X", 
         "changed_files_names": [
