@@ -2622,5 +2622,19 @@
         "number": 39992, 
         "state": "open", 
         "updated_at": 1667607015
+    }, 
+    "39993": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "EventFilter/Utilities/plugins/BuildFile.xml", 
+            "EventFilter/Utilities/plugins/EvFFEDExcluder.cc", 
+            "EventFilter/Utilities/plugins/EvFFEDExcluder.h", 
+            "EventFilter/Utilities/plugins/modules.cc", 
+            "EventFilter/Utilities/test/testEvFFEDSelectors.py"
+        ], 
+        "created_at": 1667640923, 
+        "number": 39993, 
+        "state": "open", 
+        "updated_at": 1667640942
     }
 }
