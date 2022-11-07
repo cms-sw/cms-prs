@@ -2681,5 +2681,18 @@
         "number": 40002, 
         "state": "open", 
         "updated_at": 1667813124
+    }, 
+    "40003": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEFast.cc", 
+            "RecoTracker/TransientTrackingRecHit/plugins/TkTransientTrackingRecHitBuilderESProducer.cc", 
+            "RecoTracker/TransientTrackingRecHit/python/TTRHBuilders_cff.py", 
+            "RecoTracker/TransientTrackingRecHit/python/TransientTrackingRecHitBuilder_cfi.py"
+        ], 
+        "created_at": 1667817959, 
+        "number": 40003, 
+        "state": "open", 
+        "updated_at": 1667817980
     }
 }
