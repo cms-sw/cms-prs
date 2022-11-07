@@ -1498,8 +1498,10 @@
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaESProducerC.cc", 
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaESProducerD.cc", 
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaGlobalProducer.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaProducer.cc", 
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamProducer.cc", 
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamSynchronizingProducer.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaTranscriber.cc", 
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestHelperClass.cc", 
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestHelperClass.h", 
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/testESAlgoAsync.dev.cc", 
@@ -1509,13 +1511,15 @@
             "HeterogeneousCore/AlpakaTest/src/ES_ESTestData.cc", 
             "HeterogeneousCore/AlpakaTest/src/alpaka/ES_AlpakaESTestData.cc", 
             "HeterogeneousCore/AlpakaTest/test/BuildFile.xml", 
+            "HeterogeneousCore/AlpakaTest/test/reader.py", 
             "HeterogeneousCore/AlpakaTest/test/testAlpakaModules.sh", 
-            "HeterogeneousCore/AlpakaTest/test/testAlpakaModules_cfg.py"
+            "HeterogeneousCore/AlpakaTest/test/testAlpakaModules_cfg.py", 
+            "HeterogeneousCore/AlpakaTest/test/writer.py"
         ], 
         "created_at": 1663346790, 
         "number": 39428, 
         "state": "open", 
-        "updated_at": 1667829066
+        "updated_at": 1667851629
     }, 
     "39441": {
         "base_branch": "master", 
