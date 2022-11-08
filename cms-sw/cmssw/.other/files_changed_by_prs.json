@@ -2474,6 +2474,7 @@
             "HLTrigger/Configuration/test/cmsDriver.csh", 
             "HLTrigger/Configuration/test/getDatasets.py", 
             "HLTrigger/Configuration/test/getEventContent.py", 
+            "HLTrigger/Configuration/test/getFrozenHLT.sh", 
             "HLTrigger/Configuration/test/getHLT.sh", 
             "HLTrigger/Configuration/test/runAll.csh", 
             "HLTrigger/Configuration/test/runIntegration.csh", 
@@ -2482,7 +2483,7 @@
         "created_at": 1667827816, 
         "number": 40004, 
         "state": "open", 
-        "updated_at": 1667830184
+        "updated_at": 1667926154
     }, 
     "40005": {
         "base_branch": "master", 
