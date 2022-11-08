@@ -2565,5 +2565,16 @@
         "number": 40011, 
         "state": "open", 
         "updated_at": 1667847972
+    }, 
+    "40012": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "Configuration/Applications/python/ConfigBuilder.py", 
+            "Configuration/StandardSequences/python/Generator_cff.py"
+        ], 
+        "created_at": 1667889023, 
+        "number": 40012, 
+        "state": "open", 
+        "updated_at": 1667889046
     }
 }
