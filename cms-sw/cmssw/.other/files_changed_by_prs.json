@@ -2475,5 +2475,16 @@
         "number": 40027, 
         "state": "open", 
         "updated_at": 1667986046
+    }, 
+    "40028": {
+        "base_branch": "CMSSW_10_2_X", 
+        "changed_files_names": [
+            "HLTrigger/Configuration/test/cmsDriver.csh", 
+            "Utilities/ReleaseScripts/scripts/addOnTests.py"
+        ], 
+        "created_at": 1667985897, 
+        "number": 40028, 
+        "state": "open", 
+        "updated_at": 1667986111
     }
 }
