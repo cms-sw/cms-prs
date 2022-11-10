@@ -2028,12 +2028,14 @@
         "changed_files_names": [
             "Configuration/Eras/python/Modifier_run2_JMENanoHerwig7_cff.py", 
             "PhysicsTools/JetMCAlgos/plugins/HadronAndPartonSelector.cc", 
-            "PhysicsTools/JetMCAlgos/python/HadronAndPartonSelector_cfi.py"
+            "PhysicsTools/JetMCAlgos/python/HadronAndPartonSelector_cfi.py", 
+            "PhysicsTools/NanoAOD/python/custom_jme_cff.py", 
+            "PhysicsTools/NanoAOD/python/nano_eras_cff.py"
         ], 
         "created_at": 1667452046, 
         "number": 39971, 
         "state": "open", 
-        "updated_at": 1667881288
+        "updated_at": 1668083278
     }, 
     "39979": {
         "base_branch": "CMSSW_12_4_X", 
