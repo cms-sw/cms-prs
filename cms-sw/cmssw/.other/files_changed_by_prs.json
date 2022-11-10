@@ -1317,6 +1317,7 @@
             "DataFormats/Portable/interface/alpaka/PortableCollection.h", 
             "DataFormats/PortableTestObjects/src/alpaka/classes_cuda.h", 
             "DataFormats/PortableTestObjects/src/alpaka/classes_cuda_def.xml", 
+            "DataFormats/PortableTestObjects/src/alpaka/classes_serial_def.xml", 
             "HeterogeneousCore/AlpakaCore/BuildFile.xml", 
             "HeterogeneousCore/AlpakaCore/interface/alpaka/DeviceProductType.h", 
             "HeterogeneousCore/AlpakaCore/interface/alpaka/EDGetToken.h", 
@@ -1377,7 +1378,7 @@
         "created_at": 1663346790, 
         "number": 39428, 
         "state": "open", 
-        "updated_at": 1667919012
+        "updated_at": 1668118619
     }, 
     "39441": {
         "base_branch": "master", 
