@@ -1393,12 +1393,14 @@
             "RecoLocalMuon/GEMCSCSegment/python/gemcscSegments_cfi.py", 
             "RecoLocalMuon/GEMCSCSegment/test/BuildFile.xml", 
             "RecoLocalMuon/GEMCSCSegment/test/GEMCSCCoincidenceRateAnalyzer.cc", 
+            "RecoLocalMuon/GEMCSCSegment/test/plotGEMCSCCoincidenceRate.py", 
+            "RecoLocalMuon/GEMCSCSegment/test/runGEMCSCCoincidenceRateAnalyzer_cfg.py", 
             "RecoLocalMuon/GEMCSCSegment/test/runGEMCSCSegmentProducer_cfg.py"
         ], 
         "created_at": 1663556793, 
         "number": 39441, 
         "state": "open", 
-        "updated_at": 1667916409
+        "updated_at": 1668062591
     }, 
     "39489": {
         "base_branch": "CMSSW_12_4_X", 
