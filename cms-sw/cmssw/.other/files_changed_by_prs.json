@@ -3483,5 +3483,19 @@
         "number": 40047, 
         "state": "open", 
         "updated_at": 1668097333
+    }, 
+    "40049": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/FTLRecHit/interface/FTLCluster.h", 
+            "Geometry/MTDGeometryBuilder/src/RectangularMTDTopology.cc", 
+            "Validation/MtdValidation/plugins/BtlLocalRecoValidation.cc", 
+            "Validation/MtdValidation/plugins/BuildFile.xml", 
+            "Validation/MtdValidation/plugins/EtlLocalRecoValidation.cc"
+        ], 
+        "created_at": 1668176259, 
+        "number": 40049, 
+        "state": "open", 
+        "updated_at": 1668176286
     }
 }
