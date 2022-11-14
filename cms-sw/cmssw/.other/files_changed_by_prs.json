@@ -4534,5 +4534,16 @@
         "number": 40065, 
         "state": "open", 
         "updated_at": 1668439953
+    }, 
+    "40066": {
+        "base_branch": "CMSSW_12_5_X", 
+        "changed_files_names": [
+            "TrackingTools/GsfTracking/src/GsfTrajectoryFitter.cc", 
+            "TrackingTools/GsfTracking/src/TsosGaussianStateConversions.cc"
+        ], 
+        "created_at": 1668441086, 
+        "number": 40066, 
+        "state": "open", 
+        "updated_at": 1668441115
     }
 }
