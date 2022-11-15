@@ -4629,5 +4629,16 @@
         "number": 40075, 
         "state": "open", 
         "updated_at": 1668526347
+    }, 
+    "40076": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "CalibTracker/SiPixelESProducers/plugins/SiPixelQualityESProducer.cc", 
+            "CalibTracker/SiPixelESProducers/python/SiPixelQualityESProducer_cfi.py"
+        ], 
+        "created_at": 1668526307, 
+        "number": 40076, 
+        "state": "open", 
+        "updated_at": 1668526368
     }
 }
