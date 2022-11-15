@@ -4535,5 +4535,26 @@
         "number": 40069, 
         "state": "open", 
         "updated_at": 1668510148
+    }, 
+    "40070": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "DQM/GEM/interface/GEMDQMBase.h", 
+            "DQM/GEM/interface/GEMDigiSource.h", 
+            "DQM/GEM/plugins/GEMDAQStatusSource.cc", 
+            "DQM/GEM/plugins/GEMDQMHarvester.cc", 
+            "DQM/GEM/plugins/GEMDigiSource.cc", 
+            "DQM/GEM/plugins/GEMRecHitSource.cc", 
+            "DQM/GEM/src/GEMDQMBase.cc", 
+            "DataFormats/GEMDigi/interface/GEMOHStatus.h", 
+            "DataFormats/GEMDigi/interface/GEMOptoHybrid.h", 
+            "DataFormats/GEMDigi/interface/GEMVFATStatus.h", 
+            "DataFormats/GEMDigi/src/classes_def.xml", 
+            "EventFilter/GEMRawToDigi/plugins/GEMRawToDigiModule.cc"
+        ], 
+        "created_at": 1668514618, 
+        "number": 40070, 
+        "state": "open", 
+        "updated_at": 1668514682
     }
 }
