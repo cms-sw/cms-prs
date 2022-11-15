@@ -4604,5 +4604,19 @@
         "number": 40073, 
         "state": "open", 
         "updated_at": 1668522633
+    }, 
+    "40074": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "DQM/EcalMonitorClient/interface/IntegrityClient.h", 
+            "DQM/EcalMonitorClient/python/IntegrityClient_cfi.py", 
+            "DQM/EcalMonitorClient/src/IntegrityClient.cc", 
+            "DQM/EcalMonitorTasks/python/IntegrityTask_cfi.py", 
+            "DQM/EcalMonitorTasks/src/IntegrityTask.cc"
+        ], 
+        "created_at": 1668522636, 
+        "number": 40074, 
+        "state": "open", 
+        "updated_at": 1668522658
     }
 }
