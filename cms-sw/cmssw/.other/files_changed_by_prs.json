@@ -1803,13 +1803,15 @@
         "changed_files_names": [
             "DataFormats/SoATemplate/README.md", 
             "DataFormats/SoATemplate/interface/SoACommon.h", 
+            "DataFormats/SoATemplate/interface/SoALayout.h", 
             "DataFormats/SoATemplate/interface/SoAView.h", 
+            "DataFormats/SoATemplate/test/SoALayoutAndView_t.cu", 
             "HeterogeneousCore/AlpakaTest/plugins/TestAlpakaAnalyzer.cc"
         ], 
         "created_at": 1666987905, 
         "number": 39919, 
         "state": "open", 
-        "updated_at": 1668534027
+        "updated_at": 1668602647
     }, 
     "39922": {
         "base_branch": "master", 
