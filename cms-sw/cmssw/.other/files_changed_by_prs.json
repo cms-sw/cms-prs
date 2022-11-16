@@ -2548,5 +2548,20 @@
         "number": 40086, 
         "state": "open", 
         "updated_at": 1668604159
+    }, 
+    "40087": {
+        "base_branch": "CMSSW_12_5_X", 
+        "changed_files_names": [
+            "DataFormats/SoATemplate/README.md", 
+            "DataFormats/SoATemplate/interface/SoACommon.h", 
+            "DataFormats/SoATemplate/interface/SoALayout.h", 
+            "DataFormats/SoATemplate/interface/SoAView.h", 
+            "DataFormats/SoATemplate/test/SoALayoutAndView_t.cu", 
+            "HeterogeneousCore/AlpakaTest/plugins/TestAlpakaAnalyzer.cc"
+        ], 
+        "created_at": 1668605523, 
+        "number": 40087, 
+        "state": "open", 
+        "updated_at": 1668605554
     }
 }
