@@ -2487,5 +2487,17 @@
         "number": 40095, 
         "state": "open", 
         "updated_at": 1668634238
+    }, 
+    "40096": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/L1TrackTrigger/interface/TTTrack_TrackWord.h", 
+            "L1Trigger/DemonstratorTools/test/gtt/createFirmwareInputFiles_cfg.py", 
+            "L1Trigger/L1TTrackMatch/plugins/L1TrackSelectionProducer.cc"
+        ], 
+        "created_at": 1668675275, 
+        "number": 40096, 
+        "state": "open", 
+        "updated_at": 1668675323
     }
 }
