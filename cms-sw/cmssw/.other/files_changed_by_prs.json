@@ -2507,5 +2507,18 @@
         "number": 40118, 
         "state": "open", 
         "updated_at": 1668859748
+    }, 
+    "40119": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "DQM/HcalCommon/interface/ValueQuantity.h", 
+            "DQM/HcalTasks/plugins/DigiTask.cc", 
+            "DQM/HcalTasks/plugins/HcalGPUComparisonTask.cc", 
+            "DQM/Integration/python/clients/hcalgpu_dqm_sourceclient-live_cfg.py"
+        ], 
+        "created_at": 1668879768, 
+        "number": 40119, 
+        "state": "open", 
+        "updated_at": 1668879793
     }
 }
