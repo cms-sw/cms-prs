@@ -1799,7 +1799,7 @@
         "created_at": 1667021548, 
         "number": 39923, 
         "state": "open", 
-        "updated_at": 1669002396
+        "updated_at": 1669023771
     }, 
     "39953": {
         "base_branch": "master", 
@@ -2163,7 +2163,7 @@
         "created_at": 1668419341, 
         "number": 40060, 
         "state": "open", 
-        "updated_at": 1668787652
+        "updated_at": 1669020343
     }, 
     "40067": {
         "base_branch": "master", 
@@ -2645,6 +2645,16 @@
         "created_at": 1669017633, 
         "number": 40122, 
         "state": "open", 
-        "updated_at": 1669017663
+        "updated_at": 1669018375
+    }, 
+    "40123": {
+        "base_branch": "CMSSW_12_5_X", 
+        "changed_files_names": [
+            "RecoBTag/SecondaryVertex/plugins/TemplatedSecondaryVertexProducer.cc"
+        ], 
+        "created_at": 1669024699, 
+        "number": 40123, 
+        "state": "open", 
+        "updated_at": 1669024726
     }
 }
