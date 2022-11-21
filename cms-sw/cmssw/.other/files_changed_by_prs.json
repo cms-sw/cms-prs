@@ -2226,28 +2226,6 @@
         "state": "open", 
         "updated_at": 1668887686
     }, 
-    "40095": {
-        "base_branch": "CMSSW_12_4_X", 
-        "changed_files_names": [
-            "HLTrigger/Configuration/scripts/hltCheckPrescaleModules", 
-            "HLTrigger/Configuration/scripts/hltGetConfiguration", 
-            "HLTrigger/Configuration/scripts/hltIntegrationTests", 
-            "HLTrigger/Configuration/scripts/hltListPaths", 
-            "HLTrigger/Configuration/tables/subtables.sh", 
-            "HLTrigger/Configuration/test/cmsDriver.csh", 
-            "HLTrigger/Configuration/test/getDatasets.py", 
-            "HLTrigger/Configuration/test/getEventContent.py", 
-            "HLTrigger/Configuration/test/getFrozenHLT.sh", 
-            "HLTrigger/Configuration/test/getHLT.sh", 
-            "HLTrigger/Configuration/test/runAll.csh", 
-            "HLTrigger/Configuration/test/runIntegration.csh", 
-            "HLTrigger/Configuration/test/runOne.csh"
-        ], 
-        "created_at": 1668634201, 
-        "number": 40095, 
-        "state": "open", 
-        "updated_at": 1668887672
-    }, 
     "40096": {
         "base_branch": "master", 
         "changed_files_names": [
