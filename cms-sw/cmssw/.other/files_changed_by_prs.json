@@ -2503,5 +2503,17 @@
         "number": 40130, 
         "state": "open", 
         "updated_at": 1669124496
+    }, 
+    "40131": {
+        "base_branch": "CMSSW_12_5_X", 
+        "changed_files_names": [
+            "SimG4Core/Application/src/ExceptionHandler.cc", 
+            "SimG4Core/Application/src/SteppingAction.cc", 
+            "SimG4Core/SensitiveDetector/src/SensitiveDetector.cc"
+        ], 
+        "created_at": 1669124861, 
+        "number": 40131, 
+        "state": "open", 
+        "updated_at": 1669124882
     }
 }
