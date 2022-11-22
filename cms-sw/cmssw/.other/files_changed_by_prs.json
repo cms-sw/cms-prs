@@ -1358,29 +1358,6 @@
         "state": "open", 
         "updated_at": 1668768143
     }, 
-    "39441": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/ProcessModifiers/python/gemcscSegmentsTesting_cff.py", 
-            "DQM/GEM/test/testGEMEffByGEMCSCSegment.py", 
-            "DQM/Integration/python/clients/gem_dqm_sourceclient-live_cfg.py", 
-            "RecoLocalMuon/GEMCSCSegment/plugins/GEMCSCSegmentBuilder.cc", 
-            "RecoLocalMuon/GEMCSCSegment/plugins/GEMCSCSegmentBuilder.h", 
-            "RecoLocalMuon/GEMCSCSegment/plugins/GEMCSCSegmentProducer.cc", 
-            "RecoLocalMuon/GEMCSCSegment/plugins/GEMCSCSegmentProducer.h", 
-            "RecoLocalMuon/GEMCSCSegment/python/gemcscSegments_cff.py", 
-            "RecoLocalMuon/GEMCSCSegment/python/gemcscSegments_cfi.py", 
-            "RecoLocalMuon/GEMCSCSegment/test/BuildFile.xml", 
-            "RecoLocalMuon/GEMCSCSegment/test/GEMCSCCoincidenceRateAnalyzer.cc", 
-            "RecoLocalMuon/GEMCSCSegment/test/plotGEMCSCCoincidenceRate.py", 
-            "RecoLocalMuon/GEMCSCSegment/test/runGEMCSCCoincidenceRateAnalyzer_cfg.py", 
-            "RecoLocalMuon/GEMCSCSegment/test/runGEMCSCSegmentProducer_cfg.py"
-        ], 
-        "created_at": 1663556793, 
-        "number": 39441, 
-        "state": "open", 
-        "updated_at": 1668602965
-    }, 
     "39489": {
         "base_branch": "CMSSW_12_4_X", 
         "changed_files_names": [
