@@ -2490,5 +2490,18 @@
         "number": 40129, 
         "state": "open", 
         "updated_at": 1669124384
+    }, 
+    "40130": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "L1Trigger/L1TGlobal/interface/CorrelationThreeBodyTemplate.h", 
+            "L1Trigger/L1TGlobal/plugins/TriggerMenuParser.cc", 
+            "L1Trigger/L1TGlobal/src/CorrThreeBodyCondition.cc", 
+            "L1Trigger/L1TGlobal/test/testVectorCode_data.py"
+        ], 
+        "created_at": 1669124468, 
+        "number": 40130, 
+        "state": "open", 
+        "updated_at": 1669124496
     }
 }
