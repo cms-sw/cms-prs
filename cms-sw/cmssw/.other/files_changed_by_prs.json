@@ -2261,12 +2261,15 @@
         "changed_files_names": [
             "Configuration/PyReleaseValidation/python/MatrixReader.py", 
             "Configuration/PyReleaseValidation/python/WorkFlow.py", 
-            "Configuration/PyReleaseValidation/python/WorkFlowRunner.py"
+            "Configuration/PyReleaseValidation/python/WorkFlowRunner.py", 
+            "Configuration/PyReleaseValidation/python/relval_gpu.py", 
+            "Configuration/PyReleaseValidation/python/relval_premix.py", 
+            "Configuration/PyReleaseValidation/python/relval_standard.py"
         ], 
         "created_at": 1668721076, 
         "number": 40106, 
         "state": "open", 
-        "updated_at": 1668757354
+        "updated_at": 1669107420
     }, 
     "40107": {
         "base_branch": "master", 
