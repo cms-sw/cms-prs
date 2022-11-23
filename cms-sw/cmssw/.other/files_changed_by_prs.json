@@ -2424,5 +2424,19 @@
         "number": 40135, 
         "state": "open", 
         "updated_at": 1669155582
+    }, 
+    "40136": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Framework/src/ProductSelector.cc", 
+            "FWCore/Integration/test/run_TestSwitchProducer.sh", 
+            "FWCore/Integration/test/testSwitchProducerConditionalTask_cfg.py", 
+            "FWCore/Integration/test/testSwitchProducerTaskInput_cfg.py", 
+            "FWCore/Integration/test/testSwitchProducerTask_cfg.py"
+        ], 
+        "created_at": 1669166682, 
+        "number": 40136, 
+        "state": "open", 
+        "updated_at": 1669166701
     }
 }
