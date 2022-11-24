@@ -2305,5 +2305,21 @@
         "number": 40145, 
         "state": "open", 
         "updated_at": 1669300829
+    }, 
+    "40146": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/FTLRecHit/interface/FTLCluster.h", 
+            "DataFormats/FTLRecHit/src/classes_def.xml", 
+            "RecoLocalFastTime/FTLClusterizer/interface/MTDArrayBuffer.h", 
+            "RecoLocalFastTime/FTLClusterizer/interface/MTDCPEBase.h", 
+            "RecoLocalFastTime/FTLClusterizer/src/MTDCPEBase.cc", 
+            "RecoLocalFastTime/FTLClusterizer/src/MTDThresholdClusterizer.cc", 
+            "RecoLocalFastTime/FTLCommonAlgos/plugins/BTLUncalibRecHitAlgo.cc"
+        ], 
+        "created_at": 1669302950, 
+        "number": 40146, 
+        "state": "open", 
+        "updated_at": 1669302971
     }
 }
