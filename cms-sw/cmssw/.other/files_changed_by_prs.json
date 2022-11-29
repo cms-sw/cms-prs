@@ -2124,5 +2124,16 @@
         "number": 40170, 
         "state": "open", 
         "updated_at": 1669716440
+    }, 
+    "40171": {
+        "base_branch": "CMSSW_12_6_X", 
+        "changed_files_names": [
+            "Alignment/CommonAlignment/python/tools/trackselectionRefitting.py", 
+            "RecoTracker/TransientTrackingRecHit/plugins/TkTransientTrackingRecHitBuilderESProducer.cc"
+        ], 
+        "created_at": 1669716544, 
+        "number": 40171, 
+        "state": "open", 
+        "updated_at": 1669716586
     }
 }
