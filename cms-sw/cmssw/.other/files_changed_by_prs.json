@@ -2326,5 +2326,19 @@
         "number": 40206, 
         "state": "open", 
         "updated_at": 1669828903
+    }, 
+    "40207": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondCore/BasicCondPlugins/BuildFile.xml", 
+            "CondCore/BasicCondPlugins/src/plugin.cc", 
+            "CondFormats/Common/src/T_EventSetup_BasicPayload.cc", 
+            "CondFormats/DataRecord/interface/BasicPayloadRcd.h", 
+            "CondFormats/DataRecord/src/BasicPayloadRcd.cc"
+        ], 
+        "created_at": 1669828930, 
+        "number": 40207, 
+        "state": "open", 
+        "updated_at": 1669828948
     }
 }
