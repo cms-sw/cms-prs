@@ -2330,5 +2330,17 @@
         "number": 40197, 
         "state": "open", 
         "updated_at": 1669817369
+    }, 
+    "40198": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DetectorDescription/Core/src/DDPartSelection.cc", 
+            "DetectorDescription/OfflineDBLoader/plugins/OutputDDToDDL.cc", 
+            "DetectorDescription/OfflineDBLoader/plugins/OutputMagneticFieldDDToDDL.cc"
+        ], 
+        "created_at": 1669817190, 
+        "number": 40198, 
+        "state": "open", 
+        "updated_at": 1669817359
     }
 }
