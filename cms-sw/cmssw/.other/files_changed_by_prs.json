@@ -2231,5 +2231,17 @@
         "number": 40217, 
         "state": "open", 
         "updated_at": 1669927220
+    }, 
+    "40219": {
+        "base_branch": "CMSSW_12_6_X", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/interface/HGCalTypes.h", 
+            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc", 
+            "Geometry/HGCalCommonData/src/HGCalWaferMask.cc"
+        ], 
+        "created_at": 1669946850, 
+        "number": 40219, 
+        "state": "open", 
+        "updated_at": 1669946895
     }
 }
