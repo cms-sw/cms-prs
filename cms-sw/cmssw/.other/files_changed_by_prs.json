@@ -2189,5 +2189,20 @@
         "number": 40223, 
         "state": "open", 
         "updated_at": 1669977980
+    }, 
+    "40224": {
+        "base_branch": "CMSSW_12_6_X", 
+        "changed_files_names": [
+            "Configuration/Eras/python/Era_Run3_cff.py", 
+            "PhysicsTools/NanoAOD/python/electrons_cff.py", 
+            "PhysicsTools/NanoAOD/python/nanoDQM_cff.py", 
+            "PhysicsTools/NanoAOD/python/nanoDQM_cfi.py", 
+            "PhysicsTools/NanoAOD/python/nano_eras_cff.py", 
+            "PhysicsTools/NanoAOD/python/photons_cff.py"
+        ], 
+        "created_at": 1669985738, 
+        "number": 40224, 
+        "state": "open", 
+        "updated_at": 1669985769
     }
 }
