@@ -1078,34 +1078,6 @@
         "state": "open", 
         "updated_at": 1669293889
     }, 
-    "39019": {
-        "base_branch": "CMSSW_12_4_X", 
-        "changed_files_names": [
-            "Configuration/AlCa/python/autoCond.py", 
-            "Configuration/PyReleaseValidation/python/relval_steps.py", 
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
-            "EventFilter/CSCRawToDigi/test/testPackingUnpackingPreTriggers_cfg.py", 
-            "Geometry/CMSCommonData/test/run3.py", 
-            "Geometry/HcalCommonData/test/python/testPhase1_cfg.py", 
-            "Geometry/HcalCommonData/test/python/testPhase2_cfg.py", 
-            "Geometry/TrackerCommonData/test/python/run21.py", 
-            "Geometry/TrackerCommonData/test/python/run21Zero.py", 
-            "Geometry/TrackerCommonData/test/python/run21flat.py", 
-            "Geometry/VeryForwardData/test/testRun3_cfg.py", 
-            "SimG4CMS/Calo/test/python/dd4hep_SingleMuon_Step1_cfg.py", 
-            "SimG4CMS/Calo/test/python/ddd_SingleMuon_Step1_cfg.py", 
-            "SimG4CMS/Calo/test/python/runHF6_cfg.py", 
-            "SimG4CMS/Calo/test/python/runHFDD4HEP_cfg.py", 
-            "SimG4CMS/Calo/test/python/runHFDDD_cfg.py", 
-            "SimG4CMS/ShowerLibraryProducer/test/python/runHFShowerAnalyzer_cfg.py", 
-            "SimG4Core/Configuration/test/dd4hep_ZMM_Run3_Step1_cfg.py", 
-            "SimG4Core/Configuration/test/ddd_ZMM_Run3_Step1_cfg.py"
-        ], 
-        "created_at": 1660117807, 
-        "number": 39019, 
-        "state": "open", 
-        "updated_at": 1669818201
-    }, 
     "39040": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
