@@ -1762,29 +1762,6 @@
         "state": "open", 
         "updated_at": 1669884432
     }, 
-    "40168": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HGCalCommonData/data/cellIDHEF.txt", 
-            "Geometry/HGCalCommonData/python/hgcalWaferIDTester_cff.py", 
-            "Geometry/HGCalCommonData/test/HGCalWaferIDTester.cc", 
-            "Geometry/HGCalCommonData/test/python/testHGCalWaferID_cfg.py", 
-            "SimG4CMS/Calo/interface/HGCScintSD.h", 
-            "SimG4CMS/Calo/interface/HGCalSD.h", 
-            "SimG4CMS/Calo/plugins/HGCalTestPartialWaferHits.cc", 
-            "SimG4CMS/Calo/python/hgcalHitPartial_cff.py", 
-            "SimG4CMS/Calo/src/HGCScintSD.cc", 
-            "SimG4CMS/Calo/src/HGCalSD.cc", 
-            "SimG4Core/Application/python/g4SimHits_cfi.py", 
-            "Validation/HGCalValidation/scripts/testHGCalReco_cfg.py", 
-            "Validation/HGCalValidation/scripts/testHGCalSimSingleMuonPt100_cfg.py", 
-            "Validation/HGCalValidation/test/HGCMissingRecHit.cc"
-        ], 
-        "created_at": 1669703900, 
-        "number": 40168, 
-        "state": "open", 
-        "updated_at": 1669915875
-    }, 
     "40181": {
         "base_branch": "master", 
         "changed_files_names": [
