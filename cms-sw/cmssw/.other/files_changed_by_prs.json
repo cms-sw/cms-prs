@@ -1974,5 +1974,19 @@
         "number": 40246, 
         "state": "open", 
         "updated_at": 1670328746
+    }, 
+    "40247": {
+        "base_branch": "CMSSW_12_6_X", 
+        "changed_files_names": [
+            "DQMOffline/Configuration/python/DQMOfflineMC_cff.py", 
+            "DQMOffline/Configuration/python/DQMOffline_cff.py", 
+            "DQMOffline/Configuration/python/autoDQM.py", 
+            "PhysicsTools/NanoAOD/python/custom_jme_cff.py", 
+            "PhysicsTools/NanoAOD/python/nanojmeDQM_cff.py"
+        ], 
+        "created_at": 1670331480, 
+        "number": 40247, 
+        "state": "open", 
+        "updated_at": 1670331507
     }
 }
