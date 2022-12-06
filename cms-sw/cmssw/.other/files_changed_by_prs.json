@@ -1961,5 +1961,18 @@
         "number": 40245, 
         "state": "open", 
         "updated_at": 1670320617
+    }, 
+    "40246": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/cellIDHEF.txt", 
+            "Geometry/HGCalCommonData/python/hgcalWaferIDTester_cff.py", 
+            "Geometry/HGCalCommonData/test/HGCalWaferIDTester.cc", 
+            "Geometry/HGCalCommonData/test/python/testHGCalWaferID_cfg.py"
+        ], 
+        "created_at": 1670328725, 
+        "number": 40246, 
+        "state": "open", 
+        "updated_at": 1670328746
     }
 }
