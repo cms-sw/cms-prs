@@ -1944,5 +1944,22 @@
         "number": 40244, 
         "state": "open", 
         "updated_at": 1670316474
+    }, 
+    "40245": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondCore/PCLConfigPlugins/BuildFile.xml", 
+            "CondCore/PCLConfigPlugins/plugins/AlignPCLThresholdsHG_PayloadInspector.cc", 
+            "CondCore/PCLConfigPlugins/plugins/AlignPCLThresholds_PayloadInspector.cc", 
+            "CondCore/PCLConfigPlugins/plugins/BuildFile.xml", 
+            "CondCore/PCLConfigPlugins/plugins/SiPixelAliPCLThresholdsPayloadInspectorHelper.h", 
+            "CondCore/PCLConfigPlugins/interface/SiPixelAliPCLThresholdsPayloadInspectorHelper.h", 
+            "CondCore/PCLConfigPlugins/plugins/plugin.cc", 
+            "CondCore/PCLConfigPlugins/src/plugin.cc"
+        ], 
+        "created_at": 1670320592, 
+        "number": 40245, 
+        "state": "open", 
+        "updated_at": 1670320617
     }
 }
