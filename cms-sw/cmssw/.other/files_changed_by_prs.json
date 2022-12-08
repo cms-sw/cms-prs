@@ -1787,5 +1787,19 @@
         "number": 40261, 
         "state": "open", 
         "updated_at": 1670514969
+    }, 
+    "40262": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoLocalCalo/EcalRecAlgos/interface/EcalUncalibRecHitTimingCCAlgo.h", 
+            "RecoLocalCalo/EcalRecAlgos/src/EcalUncalibRecHitTimingCCAlgo.cc", 
+            "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitWorkerMultiFit.cc", 
+            "RecoLocalCalo/EcalRecProducers/python/ecalMultiFitUncalibRecHit_cfi.py", 
+            "RecoLocalCalo/EcalRecProducers/test/testEcalUncalibRechitProducerWithCC_cfg.py"
+        ], 
+        "created_at": 1670519451, 
+        "number": 40262, 
+        "state": "open", 
+        "updated_at": 1670519475
     }
 }
