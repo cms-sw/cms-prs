@@ -1836,12 +1836,13 @@
             "DQM/SiPixelPhase1Heterogeneous/python/SiPixelPhase1HeterogenousDQMHarvesting_cff.py", 
             "DQM/SiPixelPhase1Heterogeneous/python/SiPixelPhase1HeterogenousDQM_FirstStep_cff.py", 
             "DQMOffline/Configuration/python/DQMOffline_SecondStep_cff.py", 
-            "DQMOffline/Configuration/python/DQMOffline_cff.py"
+            "DQMOffline/Configuration/python/DQMOffline_cff.py", 
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py"
         ], 
         "created_at": 1670526543, 
         "number": 40264, 
         "state": "open", 
-        "updated_at": 1670526568
+        "updated_at": 1670537676
     }, 
     "40265": {
         "base_branch": "master", 
