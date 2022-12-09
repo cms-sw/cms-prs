@@ -1639,27 +1639,6 @@
         "state": "open", 
         "updated_at": 1670405199
     }, 
-    "40250": {
-        "base_branch": "CMSSW_12_6_X", 
-        "changed_files_names": [
-            "PhysicsTools/NanoAOD/python/electrons_cff.py", 
-            "PhysicsTools/NanoAOD/python/nanoDQM_cfi.py", 
-            "PhysicsTools/NanoAOD/python/photons_cff.py", 
-            "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py", 
-            "RecoEgamma/EgammaTools/python/egammaObjectModificationsInMiniAOD_cff.py", 
-            "RecoEgamma/ElectronIdentification/data/ElectronIDVariablesRun3.txt", 
-            "RecoEgamma/ElectronIdentification/python/ElectronMVAValueMapProducer_cfi.py", 
-            "RecoEgamma/ElectronIdentification/python/FWLite.py", 
-            "RecoEgamma/ElectronIdentification/python/Identification/mvaElectronID_RunIIIWinter22_iso_V1_cff.py", 
-            "RecoEgamma/ElectronIdentification/python/Identification/mvaElectronID_RunIIIWinter22_noIso_V1_cff.py", 
-            "RecoEgamma/ElectronIdentification/python/Identification/mvaElectronID_tools.py", 
-            "RecoEgamma/ElectronIdentification/test/testElectronMVARun3_cfg.py"
-        ], 
-        "created_at": 1670342131, 
-        "number": 40250, 
-        "state": "open", 
-        "updated_at": 1670342156
-    }, 
     "40251": {
         "base_branch": "master", 
         "changed_files_names": [
