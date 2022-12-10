@@ -1971,5 +1971,19 @@
         "number": 40281, 
         "state": "open", 
         "updated_at": 1670678485
+    }, 
+    "40282": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyCA.cc", 
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyCLUE3D.cc", 
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyFastJet.cc", 
+            "RecoHGCal/TICL/plugins/TrackstersMergeProducer.cc", 
+            "RecoHGCal/TICL/plugins/TrackstersMergeProducerV3.cc"
+        ], 
+        "created_at": 1670691948, 
+        "number": 40282, 
+        "state": "open", 
+        "updated_at": 1670691970
     }
 }
