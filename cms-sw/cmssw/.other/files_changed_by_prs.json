@@ -1514,18 +1514,6 @@
         "state": "open", 
         "updated_at": 1670401257
     }, 
-    "40244": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/PyReleaseValidation/README.md", 
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
-            "Configuration/StandardSequences/python/Mixing.py"
-        ], 
-        "created_at": 1670316448, 
-        "number": 40244, 
-        "state": "open", 
-        "updated_at": 1670854472
-    }, 
     "40251": {
         "base_branch": "master", 
         "changed_files_names": [
@@ -1544,7 +1532,7 @@
         "created_at": 1670363254, 
         "number": 40254, 
         "state": "open", 
-        "updated_at": 1670859112
+        "updated_at": 1670865527
     }, 
     "40256": {
         "base_branch": "CMSSW_12_4_X", 
@@ -1740,7 +1728,7 @@
         "created_at": 1670601593, 
         "number": 40277, 
         "state": "open", 
-        "updated_at": 1670860386
+        "updated_at": 1670865921
     }, 
     "40279": {
         "base_branch": "CMSSW_12_6_X", 
@@ -1864,7 +1852,7 @@
         "created_at": 1670845864, 
         "number": 40288, 
         "state": "open", 
-        "updated_at": 1670861589
+        "updated_at": 1670863939
     }, 
     "40289": {
         "base_branch": "master", 
@@ -1875,7 +1863,7 @@
         "created_at": 1670849893, 
         "number": 40289, 
         "state": "open", 
-        "updated_at": 1670851014
+        "updated_at": 1670864334
     }, 
     "40291": {
         "base_branch": "master", 
@@ -1885,7 +1873,7 @@
         "created_at": 1670851948, 
         "number": 40291, 
         "state": "open", 
-        "updated_at": 1670860632
+        "updated_at": 1670868630
     }, 
     "40293": {
         "base_branch": "master", 
@@ -1895,7 +1883,7 @@
         "created_at": 1670858485, 
         "number": 40293, 
         "state": "open", 
-        "updated_at": 1670860474
+        "updated_at": 1670863614
     }, 
     "40294": {
         "base_branch": "CMSSW_12_6_X", 
@@ -1930,5 +1918,26 @@
         "number": 40296, 
         "state": "open", 
         "updated_at": 1670864790
+    }, 
+    "40297": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FastSimulation/SimplifiedGeometryPropagator/plugins/FastSimProducer.cc"
+        ], 
+        "created_at": 1670867032, 
+        "number": 40297, 
+        "state": "open", 
+        "updated_at": 1670868065
+    }, 
+    "40298": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Utilities/StaticAnalyzers/src/ConstCastAwayChecker.cpp", 
+            "Utilities/StaticAnalyzers/src/ConstCastChecker.cpp"
+        ], 
+        "created_at": 1670867419, 
+        "number": 40298, 
+        "state": "open", 
+        "updated_at": 1670867562
     }
 }
