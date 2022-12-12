@@ -1895,29 +1895,6 @@
         "state": "open", 
         "updated_at": 1670601612
     }, 
-    "40278": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimDataFormats/CaloHit/interface/HFShowerPhoton.h", 
-            "SimDataFormats/CaloHit/src/HFShowerPhoton.cc", 
-            "SimG4CMS/Calo/interface/HFFibre.h", 
-            "SimG4CMS/Calo/interface/HFShower.h", 
-            "SimG4CMS/Calo/interface/HFShowerLibrary.h", 
-            "SimG4CMS/Calo/interface/HFShowerParam.h", 
-            "SimG4CMS/Calo/src/HFFibre.cc", 
-            "SimG4CMS/Calo/src/HFShower.cc", 
-            "SimG4CMS/Calo/src/HFShowerLibrary.cc", 
-            "SimG4CMS/Calo/src/HFShowerParam.cc", 
-            "SimG4CMS/Calo/test/BuildFile.xml", 
-            "SimG4CMS/Calo/test/test_catch2_hffibre.cc", 
-            "SimG4CMS/Calo/test/test_catch2_hfshowerlibrary.cc", 
-            "SimG4CMS/Calo/test/test_catch2_main.cc"
-        ], 
-        "created_at": 1670608359, 
-        "number": 40278, 
-        "state": "open", 
-        "updated_at": 1670608422
-    }, 
     "40279": {
         "base_branch": "CMSSW_12_6_X", 
         "changed_files_names": [
