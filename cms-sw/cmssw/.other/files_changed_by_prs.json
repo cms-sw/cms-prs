@@ -1906,5 +1906,19 @@
         "number": 40294, 
         "state": "open", 
         "updated_at": 1670859976
+    }, 
+    "40295": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/Integration/python/clients/sistrip_dqm_sourceclient-live_cfg.py", 
+            "DQM/SiStripMonitorApproximateCluster/plugins/BuildFile.xml", 
+            "DQM/SiStripMonitorApproximateCluster/plugins/SiStripMonitorApproximateCluster.cc", 
+            "DQM/SiStripMonitorApproximateCluster/python/SiStripMonitorApproximateCluster_cfi.py", 
+            "DQM/SiStripMonitorClient/python/SiStripSourceConfigTier0_cff.py"
+        ], 
+        "created_at": 1670864185, 
+        "number": 40295, 
+        "state": "open", 
+        "updated_at": 1670866842
     }
 }
