@@ -1929,5 +1929,16 @@
         "number": 40285, 
         "state": "open", 
         "updated_at": 1670834223
+    }, 
+    "40286": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "DQMServices/Core/python/nanoDQMIO_perLSoutput_cff.py", 
+            "DQMServices/Core/src/DQMStore.cc"
+        ], 
+        "created_at": 1670835484, 
+        "number": 40286, 
+        "state": "open", 
+        "updated_at": 1670835511
     }
 }
