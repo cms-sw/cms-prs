@@ -1503,38 +1503,6 @@
         "state": "open", 
         "updated_at": 1670542361
     }, 
-    "40264": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/SiPixelHeterogeneous/plugins/BuildFile.xml", 
-            "DQM/SiPixelPhase1Heterogeneous/plugins/BuildFile.xml", 
-            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareRecHitsSoA.cc", 
-            "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1CompareRecHitsSoA.cc", 
-            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareTrackSoA.cc", 
-            "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1CompareTrackSoA.cc", 
-            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareVertexSoA.cc", 
-            "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1CompareVertexSoA.cc", 
-            "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorRecHitsSoA.cc", 
-            "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1MonitorRecHitsSoA.cc", 
-            "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorTrackSoA.cc", 
-            "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1MonitorTrackSoA.cc", 
-            "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorVertexSoA.cc", 
-            "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1MonitorVertexSoA.cc", 
-            "DQM/SiPixelHeterogeneous/plugins/SiPixelTrackComparisonHarvester.cc", 
-            "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1TrackComparisonHarvester.cc", 
-            "DQM/SiPixelHeterogeneous/python/SiPixelHeterogenousDQMHarvesting_cff.py", 
-            "DQM/SiPixelHeterogeneous/python/SiPixelHeterogenousDQM_FirstStep_cff.py", 
-            "DQM/SiPixelPhase1Heterogeneous/python/SiPixelPhase1HeterogenousDQMHarvesting_cff.py", 
-            "DQM/SiPixelPhase1Heterogeneous/python/SiPixelPhase1HeterogenousDQM_FirstStep_cff.py", 
-            "DQMOffline/Configuration/python/DQMOffline_SecondStep_cff.py", 
-            "DQMOffline/Configuration/python/DQMOffline_cff.py", 
-            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py"
-        ], 
-        "created_at": 1670526543, 
-        "number": 40264, 
-        "state": "open", 
-        "updated_at": 1670878676
-    }, 
     "40277": {
         "base_branch": "master", 
         "changed_files_names": [
