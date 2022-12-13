@@ -1652,5 +1652,16 @@
         "number": 40309, 
         "state": "open", 
         "updated_at": 1670953499
+    }, 
+    "40310": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Utilities/StaticAnalyzers/src/ConstCastAwayChecker.cpp", 
+            "Utilities/StaticAnalyzers/src/ConstCastChecker.cpp"
+        ], 
+        "created_at": 1670965186, 
+        "number": 40310, 
+        "state": "open", 
+        "updated_at": 1670965204
     }
 }
