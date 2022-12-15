@@ -2961,5 +2961,17 @@
         "number": 40328, 
         "state": "open", 
         "updated_at": 1671109656
+    }, 
+    "40329": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "HeterogeneousCore/SonicTriton/test/unittest.sh", 
+            "RecoEcal/EgammaClusterProducers/test/runtests.sh", 
+            "Utilities/ReleaseScripts/scripts/singularity-check.sh"
+        ], 
+        "created_at": 1671110981, 
+        "number": 40329, 
+        "state": "open", 
+        "updated_at": 1671111005
     }
 }
