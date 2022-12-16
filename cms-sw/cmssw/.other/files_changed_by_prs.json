@@ -1897,6 +1897,7 @@
     "40340": {
         "base_branch": "CMSSW_12_6_X", 
         "changed_files_names": [
+            "Configuration/HLT/python/addOnTestsHLT.py", 
             "HLTrigger/Configuration/python/HLT_2022v15_cff.py", 
             "HLTrigger/Configuration/python/HLT_FULL_cff.py", 
             "HLTrigger/Configuration/python/HLT_Fake1_cff.py", 
@@ -1919,12 +1920,13 @@
             "HLTrigger/Configuration/test/OnLine_HLT_HIon.py", 
             "HLTrigger/Configuration/test/OnLine_HLT_PIon.py", 
             "HLTrigger/Configuration/test/OnLine_HLT_PRef.py", 
+            "HLTrigger/Configuration/test/cmsDriver.csh", 
             "HLTrigger/Configuration/test/getFrozenHLT.sh"
         ], 
         "created_at": 1671177123, 
         "number": 40340, 
         "state": "open", 
-        "updated_at": 1671177226
+        "updated_at": 1671187203
     }, 
     "40341": {
         "base_branch": "master", 
