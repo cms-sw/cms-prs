@@ -1996,5 +1996,18 @@
         "number": 40346, 
         "state": "open", 
         "updated_at": 1671202221
+    }, 
+    "40348": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "L1Trigger/L1TNtuples/test/test_JetRecoProducer.py", 
+            "PhysicsTools/PatAlgos/python/recoLayer0/metCorrections_cff.py", 
+            "PhysicsTools/TagAndProbe/test/Electron_TagProbeTreeProducer_cfg.py", 
+            "Validation/RecoJets/python/JetValidation_cff.py"
+        ], 
+        "created_at": 1671204182, 
+        "number": 40348, 
+        "state": "open", 
+        "updated_at": 1671204203
     }
 }
