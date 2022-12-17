@@ -1942,5 +1942,18 @@
         "number": 40355, 
         "state": "open", 
         "updated_at": 1671225332
+    }, 
+    "40356": {
+        "base_branch": "CMSSW_12_6_X", 
+        "changed_files_names": [
+            "PhysicsTools/NanoAOD/plugins/EGMSeedLocationProducer.cc", 
+            "PhysicsTools/NanoAOD/python/electrons_cff.py", 
+            "PhysicsTools/NanoAOD/python/nanoDQM_cfi.py", 
+            "PhysicsTools/NanoAOD/python/photons_cff.py"
+        ], 
+        "created_at": 1671274185, 
+        "number": 40356, 
+        "state": "open", 
+        "updated_at": 1671274207
     }
 }
