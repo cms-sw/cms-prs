@@ -1944,5 +1944,17 @@
         "number": 40356, 
         "state": "open", 
         "updated_at": 1671274207
+    }, 
+    "40357": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/ProcessModifiers/python/applyHFLibraryFix_cff.py", 
+            "Geometry/HcalSimData/python/HFParameters_cff.py", 
+            "SimCalorimetry/HcalSimProducers/python/hcalSimParameters_cfi.py"
+        ], 
+        "created_at": 1671301348, 
+        "number": 40357, 
+        "state": "open", 
+        "updated_at": 1671301370
     }
 }
