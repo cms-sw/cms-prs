@@ -1820,5 +1820,17 @@
         "number": 40360, 
         "state": "open", 
         "updated_at": 1671440272
+    }, 
+    "40363": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CommonTools/RecoAlgos/src/ClusterStorer.cc", 
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
+            "DataFormats/TrackerRecHit2D/interface/VectorHit.h"
+        ], 
+        "created_at": 1671462337, 
+        "number": 40363, 
+        "state": "open", 
+        "updated_at": 1671462361
     }
 }
