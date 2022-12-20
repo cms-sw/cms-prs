@@ -1803,6 +1803,7 @@
     "40363": {
         "base_branch": "master", 
         "changed_files_names": [
+            "CommonTools/RecoAlgos/interface/ClusterStorer.h", 
             "CommonTools/RecoAlgos/src/ClusterStorer.cc", 
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
             "DataFormats/TrackerRecHit2D/interface/VectorHit.h"
@@ -1810,7 +1811,7 @@
         "created_at": 1671462337, 
         "number": 40363, 
         "state": "open", 
-        "updated_at": 1671462361
+        "updated_at": 1671525988
     }, 
     "40364": {
         "base_branch": "master", 
