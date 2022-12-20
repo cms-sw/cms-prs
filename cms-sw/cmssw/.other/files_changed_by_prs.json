@@ -1874,5 +1874,21 @@
         "number": 40379, 
         "state": "open", 
         "updated_at": 1671572381
+    }, 
+    "40380": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DPGAnalysis/SiStripTools/interface/Multiplicities.h", 
+            "DPGAnalysis/SiStripTools/plugins/ByMultiplicityEventFilter.cc", 
+            "DPGAnalysis/SiStripTools/plugins/MultiplicityAlgorithms.cc", 
+            "DPGAnalysis/SiStripTools/src/Multiplicities.cc", 
+            "DPGAnalysis/SiStripTools/plugins/MultiplicityAlgorithms.h", 
+            "DPGAnalysis/SiStripTools/src/classes.h", 
+            "DPGAnalysis/SiStripTools/src/classes_def.xml"
+        ], 
+        "created_at": 1671572392, 
+        "number": 40380, 
+        "state": "open", 
+        "updated_at": 1671572410
     }
 }
