@@ -1823,7 +1823,6 @@
             "FWCore/TestProcessor/BuildFile.xml", 
             "GeneratorInterface/LHEInterface/plugins/BuildFile.xml", 
             "HLTrigger/Timer/plugins/BuildFile.xml", 
-            "HeterogeneousCore/AlpakaInterface/BuildFile.xml", 
             "HeterogeneousCore/CUDACore/test/BuildFile.xml", 
             "HeterogeneousCore/CUDAServices/plugins/BuildFile.xml", 
             "IOPool/Output/BuildFile.xml", 
@@ -1839,7 +1838,7 @@
         "created_at": 1671563645, 
         "number": 40376, 
         "state": "open", 
-        "updated_at": 1671563668
+        "updated_at": 1671567866
     }, 
     "40377": {
         "base_branch": "master", 
