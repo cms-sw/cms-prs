@@ -1886,5 +1886,17 @@
         "number": 40381, 
         "state": "open", 
         "updated_at": 1671583882
+    }, 
+    "40382": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/interface/HGCalTypes.h", 
+            "Geometry/HGCalCommonData/src/HGCalCellUV.cc", 
+            "SimG4CMS/Calo/plugins/HGCalTestPartialWaferHits.cc"
+        ], 
+        "created_at": 1671583989, 
+        "number": 40382, 
+        "state": "open", 
+        "updated_at": 1671584007
     }
 }
