@@ -1874,5 +1874,17 @@
         "number": 40380, 
         "state": "open", 
         "updated_at": 1671572410
+    }, 
+    "40381": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc", 
+            "Geometry/HGCalCommonData/src/HGCalWaferMask.cc", 
+            "Validation/HGCalValidation/scripts/testHGCalSimSingleMuonPt100_cfg.py"
+        ], 
+        "created_at": 1671583858, 
+        "number": 40381, 
+        "state": "open", 
+        "updated_at": 1671583882
     }
 }
