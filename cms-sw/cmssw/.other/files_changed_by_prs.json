@@ -2055,5 +2055,18 @@
         "number": 40401, 
         "state": "open", 
         "updated_at": 1671707839
+    }, 
+    "40402": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "L1Trigger/Configuration/python/L1Trigger_EventContent_cff.py", 
+            "L1Trigger/Configuration/python/SimL1Emulator_cff.py", 
+            "L1Trigger/Phase2L1ParticleFlow/python/l1pfJetMet_cff.py", 
+            "L1Trigger/Phase2L1Taus/plugins/HPSPFTauProducer.cc"
+        ], 
+        "created_at": 1671715001, 
+        "number": 40402, 
+        "state": "open", 
+        "updated_at": 1671715023
     }
 }
