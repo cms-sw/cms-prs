@@ -2040,5 +2040,20 @@
         "number": 40399, 
         "state": "open", 
         "updated_at": 1671701453
+    }, 
+    "40400": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DPGAnalysis/HcalTools/plugins/CMTRawAnalyzer.cc", 
+            "DQMOffline/Hcal/src/HcalRecHitsAnalyzer.cc", 
+            "Validation/HcalRecHits/src/HcalRecHitsValidation.cc", 
+            "Validation/RecoEgamma/plugins/ElectronMcFakeValidator.cc", 
+            "Validation/RecoEgamma/plugins/ElectronMcMiniAODSignalValidator.cc", 
+            "Validation/RecoEgamma/plugins/ElectronMcSignalValidator.cc"
+        ], 
+        "created_at": 1671701458, 
+        "number": 40400, 
+        "state": "open", 
+        "updated_at": 1671701481
     }
 }
