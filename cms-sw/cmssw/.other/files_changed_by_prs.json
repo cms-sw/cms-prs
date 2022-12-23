@@ -1992,5 +1992,32 @@
         "number": 40403, 
         "state": "open", 
         "updated_at": 1671743793
+    }, 
+    "40404": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/interface/HGCalCassette.h", 
+            "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h", 
+            "Geometry/HGCalCommonData/src/HGCalCassette.cc", 
+            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc", 
+            "Geometry/HGCalCommonData/test/HGCalNumberingTester.cc", 
+            "Geometry/HGCalCommonData/test/HGCalPartialWaferTester.cc", 
+            "Geometry/HGCalCommonData/test/HGCalWaferIDTester.cc", 
+            "Geometry/HGCalGeometry/src/HGCalGeometry.cc", 
+            "SimCalorimetry/HGCalSimAlgos/interface/HGCalSiNoiseMap.icc", 
+            "SimG4CMS/Calo/interface/HGCalNumberingScheme.h", 
+            "SimG4CMS/Calo/src/HFNoseNumberingScheme.cc", 
+            "SimG4CMS/Calo/src/HGCalNumberingScheme.cc", 
+            "SimG4CMS/Calo/src/HGCalSD.cc", 
+            "Validation/HGCalValidation/plugins/HGCGeometryValidation.cc", 
+            "Validation/HGCalValidation/plugins/HGCalSimHitStudy.cc", 
+            "Validation/HGCalValidation/plugins/HGCalSimHitValidation.cc", 
+            "Validation/HGCalValidation/test/HGCHitValidation.cc", 
+            "Validation/HGCalValidation/test/HGCalWaferStudy.cc"
+        ], 
+        "created_at": 1671784988, 
+        "number": 40404, 
+        "state": "open", 
+        "updated_at": 1671785011
     }
 }
