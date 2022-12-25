@@ -1184,34 +1184,6 @@
         "state": "open", 
         "updated_at": 1671069221
     }, 
-    "39625": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HGCalCommonData/interface/HGCalCassette.h", 
-            "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalMixRotatedLayer.cc", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalSiliconRotatedModule.cc", 
-            "Geometry/HGCalCommonData/src/HGCalCassette.cc", 
-            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc", 
-            "Geometry/HGCalCommonData/test/HGCalNumberingTester.cc", 
-            "Geometry/HGCalCommonData/test/HGCalPartialWaferTester.cc", 
-            "Geometry/HGCalGeometry/src/HGCalGeometry.cc", 
-            "SimCalorimetry/HGCalSimAlgos/interface/HGCalSiNoiseMap.icc", 
-            "SimG4CMS/Calo/interface/HGCalNumberingScheme.h", 
-            "SimG4CMS/Calo/src/HFNoseNumberingScheme.cc", 
-            "SimG4CMS/Calo/src/HGCalNumberingScheme.cc", 
-            "Validation/HGCalValidation/plugins/HGCGeometryValidation.cc", 
-            "Validation/HGCalValidation/plugins/HGCalSimHitStudy.cc", 
-            "Validation/HGCalValidation/plugins/HGCalSimHitValidation.cc", 
-            "Validation/HGCalValidation/test/HGCGeometryCheck.cc", 
-            "Validation/HGCalValidation/test/HGCHitValidation.cc", 
-            "Validation/HGCalValidation/test/HGCalWaferStudy.cc"
-        ], 
-        "created_at": 1664960419, 
-        "number": 39625, 
-        "state": "open", 
-        "updated_at": 1669293897
-    }, 
     "39685": {
         "base_branch": "master", 
         "changed_files_names": [
