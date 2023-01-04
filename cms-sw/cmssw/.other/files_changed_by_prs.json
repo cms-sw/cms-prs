@@ -2031,19 +2031,22 @@
         "base_branch": "master", 
         "changed_files_names": [
             "SimTracker/Common/interface/SiPixelChargeReweightingAlgorithm.h", 
+            "SimTracker/SiPhase2Digitizer/plugins/PSPDigitizerAlgorithm.h", 
+            "SimTracker/SiPhase2Digitizer/plugins/PSSDigitizerAlgorithm.h", 
             "SimTracker/SiPhase2Digitizer/plugins/Phase2TrackerDigitizerAlgorithm.cc", 
             "SimTracker/SiPhase2Digitizer/plugins/Phase2TrackerDigitizerAlgorithm.h", 
             "SimTracker/SiPhase2Digitizer/plugins/Pixel3DDigitizerAlgorithm.cc", 
             "SimTracker/SiPhase2Digitizer/plugins/Pixel3DDigitizerAlgorithm.h", 
             "SimTracker/SiPhase2Digitizer/plugins/PixelBrickedDigitizerAlgorithm.cc", 
             "SimTracker/SiPhase2Digitizer/plugins/PixelBrickedDigitizerAlgorithm.h", 
+            "SimTracker/SiPhase2Digitizer/plugins/PixelDigitizerAlgorithm.cc", 
             "SimTracker/SiPhase2Digitizer/python/phase2TrackerDigitizer_cfi.py", 
             "SimTracker/SiPixelDigitizer/plugins/SiPixelDigitizerAlgorithm.cc"
         ], 
         "created_at": 1672686597, 
         "number": 40417, 
         "state": "open", 
-        "updated_at": 1672766532
+        "updated_at": 1672804275
     }, 
     "40418": {
         "base_branch": "master", 
