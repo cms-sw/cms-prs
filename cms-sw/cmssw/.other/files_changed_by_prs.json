@@ -1561,7 +1561,6 @@
             "L1Trigger/TrackFindingTracklet/python/Demonstrator_cfi.py", 
             "L1Trigger/TrackFindingTracklet/python/L1HybridEmulationTracks_cff.py", 
             "L1Trigger/TrackFindingTracklet/python/ProducerHPH_cff.py", 
-            "L1Trigger/TrackTrigger/python/ProducerHPH_cff.py", 
             "L1Trigger/TrackFindingTracklet/python/ProducerHPH_cfi.py", 
             "L1Trigger/TrackFindingTracklet/python/Producer_cfi.py", 
             "L1Trigger/TrackFindingTracklet/src/ES_HitPatternHelper.cc", 
@@ -1591,6 +1590,7 @@
             "L1Trigger/TrackTrigger/interface/L1TrackQuality.h", 
             "L1Trigger/TrackTrigger/interface/SensorModule.h", 
             "L1Trigger/TrackTrigger/interface/Setup.h", 
+            "L1Trigger/TrackTrigger/python/ProducerHPH_cff.py", 
             "L1Trigger/TrackTrigger/python/ProducerHPH_cfi.py", 
             "L1Trigger/TrackTrigger/python/TTStubAlgorithmRegister_cfi.py", 
             "L1Trigger/TrackTrigger/src/L1TrackQuality.cc", 
@@ -1609,7 +1609,7 @@
         "created_at": 1671127317, 
         "number": 40335, 
         "state": "open", 
-        "updated_at": 1671440340
+        "updated_at": 1672852816
     }, 
     "40336": {
         "base_branch": "master", 
