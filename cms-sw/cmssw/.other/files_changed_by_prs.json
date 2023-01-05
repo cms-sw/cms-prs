@@ -2165,5 +2165,19 @@
         "number": 40431, 
         "state": "open", 
         "updated_at": 1672933615
+    }, 
+    "40432": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Framework/interface/EventSelector.h", 
+            "FWCore/Framework/src/EventSelector.cc", 
+            "FWCore/Framework/test/EventSelExc_t.cpp", 
+            "FWCore/Framework/test/EventSelWildcard_t.cpp", 
+            "FWCore/Framework/test/EventSelector_t.cpp"
+        ], 
+        "created_at": 1672937977, 
+        "number": 40432, 
+        "state": "open", 
+        "updated_at": 1672937999
     }
 }
