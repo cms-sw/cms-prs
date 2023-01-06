@@ -1724,6 +1724,7 @@
             "FWCore/Framework/interface/EventSetupsController.h", 
             "FWCore/Framework/interface/ModuleRegistry.h", 
             "FWCore/Framework/interface/ModuleTypeResolverBase.h", 
+            "FWCore/Framework/interface/ModuleTypeResolverMaker.h", 
             "FWCore/Framework/interface/ModuleTypeResolverMakerFactory.h", 
             "FWCore/Framework/interface/Schedule.h", 
             "FWCore/Framework/interface/ScheduleItems.h", 
@@ -1768,7 +1769,7 @@
         "created_at": 1671586880, 
         "number": 40383, 
         "state": "open", 
-        "updated_at": 1672148413
+        "updated_at": 1673014747
     }, 
     "40391": {
         "base_branch": "master", 
