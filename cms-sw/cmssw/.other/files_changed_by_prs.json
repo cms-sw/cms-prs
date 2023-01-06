@@ -2224,5 +2224,22 @@
         "number": 40442, 
         "state": "open", 
         "updated_at": 1673031644
+    }, 
+    "40443": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondFormats/SiPixelTransient/interface/SiPixelUtils.h", 
+            "CondFormats/SiPixelTransient/src/SiPixelUtils.cc", 
+            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEGeneric.cc", 
+            "SimTracker/SiPhase2Digitizer/plugins/Phase2TrackerDigitizer.cc", 
+            "SimTracker/SiPhase2Digitizer/plugins/Phase2TrackerDigitizer.h", 
+            "SimTracker/SiPhase2Digitizer/plugins/PixelBrickedDigitizerAlgorithm.cc", 
+            "SimTracker/SiPhase2Digitizer/plugins/PixelBrickedDigitizerAlgorithm.h", 
+            "SimTracker/SiPhase2Digitizer/python/phase2TrackerDigitizer_cfi.py"
+        ], 
+        "created_at": 1673043353, 
+        "number": 40443, 
+        "state": "open", 
+        "updated_at": 1673043375
     }
 }
