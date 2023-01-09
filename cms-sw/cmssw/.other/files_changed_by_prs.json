@@ -2364,5 +2364,18 @@
         "number": 40458, 
         "state": "open", 
         "updated_at": 1673270644
+    }, 
+    "40460": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoEcal/EgammaClusterAlgos/interface/PFECALSuperClusterAlgo.h", 
+            "RecoEcal/EgammaClusterAlgos/src/PFECALSuperClusterAlgo.cc", 
+            "RecoEcal/EgammaCoreTools/interface/EcalClustersGraph.h", 
+            "RecoEcal/EgammaCoreTools/src/EcalClustersGraph.cc"
+        ], 
+        "created_at": 1673282603, 
+        "number": 40460, 
+        "state": "open", 
+        "updated_at": 1673282623
     }
 }
