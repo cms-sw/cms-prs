@@ -2415,6 +2415,8 @@
             "CUDADataFormats/TrackingRecHit/test/TrackingRecHitSoAImpl_t.h", 
             "CUDADataFormats/TrackingRecHit/test/TrackingRecHitSoA_test.cpp", 
             "CUDADataFormats/TrackingRecHit/test/TrackingRecHitSoA_test.cu", 
+            "CUDADataFormats/Vertex/interface/ZVertexHeterogeneous.h", 
+            "CUDADataFormats/Vertex/interface/ZVertexSoA.h", 
             "CUDADataFormats/Vertex/interface/ZVertexSoAHeterogeneousDevice.h", 
             "CUDADataFormats/Vertex/interface/ZVertexSoAHeterogeneousHost.h", 
             "CUDADataFormats/Vertex/interface/ZVertexUtilities.h", 
@@ -2486,7 +2488,7 @@
         "created_at": 1673357821, 
         "number": 40465, 
         "state": "open", 
-        "updated_at": 1673357849
+        "updated_at": 1673359583
     }, 
     "40466": {
         "base_branch": "master", 
