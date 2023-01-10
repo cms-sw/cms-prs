@@ -2428,12 +2428,10 @@
             "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorRecHitsSoA.cc", 
             "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorTrackSoA.cc", 
             "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorVertexSoA.cc", 
-            "DQM/SiPixelPhase1Heterogeneous/plugins/SiPixelPhase1CompareRecHitsSoA.cc", 
             "EventFilter/SiPixelRawToDigi/plugins/SiPixelDigisSoAFromCUDA.cc", 
             "Geometry/CommonTopologies/interface/SimplePixelTopology.h", 
             "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.cu", 
-            "RecoLocalTracker/SiPixelClusterizer/plugins/gpuClustering.h", 
             "RecoLocalTracker/SiPixelRecHits/plugins/PixelRecHitGPUKernel.cu", 
             "RecoLocalTracker/SiPixelRecHits/plugins/PixelRecHitGPUKernel.h", 
             "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitCUDA.cc", 
@@ -2488,7 +2486,7 @@
         "created_at": 1673357821, 
         "number": 40465, 
         "state": "open", 
-        "updated_at": 1673359583
+        "updated_at": 1673360398
     }, 
     "40466": {
         "base_branch": "master", 
