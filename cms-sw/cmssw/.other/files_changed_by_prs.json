@@ -2543,5 +2543,18 @@
         "number": 40485, 
         "state": "open", 
         "updated_at": 1673465395
+    }, 
+    "40486": {
+        "base_branch": "CMSSW_12_6_X", 
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/Tools/confdb.py", 
+            "HLTrigger/Configuration/python/Tools/confdbOfflineConverter.py", 
+            "HLTrigger/Configuration/python/Tools/options.py", 
+            "HLTrigger/Configuration/scripts/hltGetConfiguration"
+        ], 
+        "created_at": 1673471335, 
+        "number": 40486, 
+        "state": "open", 
+        "updated_at": 1673471457
     }
 }
