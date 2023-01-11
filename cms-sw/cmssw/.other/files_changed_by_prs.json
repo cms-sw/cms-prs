@@ -2521,5 +2521,17 @@
         "number": 40483, 
         "state": "open", 
         "updated_at": 1673461682
+    }, 
+    "40484": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/SharedMemory/interface/ControllerChannel.h", 
+            "FWCore/SharedMemory/src/ControllerChannel.cc", 
+            "FWCore/SharedMemory/src/WorkerChannel.cc"
+        ], 
+        "created_at": 1673463701, 
+        "number": 40484, 
+        "state": "open", 
+        "updated_at": 1673463721
     }
 }
