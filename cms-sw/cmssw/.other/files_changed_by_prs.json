@@ -2271,11 +2271,14 @@
     "40465": {
         "base_branch": "master", 
         "changed_files_names": [
+            "CUDADataFormats/SiPixelCluster/BuildFile.xml", 
             "CUDADataFormats/SiPixelCluster/interface/SiPixelClustersCUDA.h", 
             "CUDADataFormats/SiPixelCluster/src/SiPixelClustersCUDA.cc", 
+            "CUDADataFormats/SiPixelDigi/BuildFile.xml", 
             "CUDADataFormats/SiPixelDigi/interface/SiPixelDigisCUDA.h", 
             "CUDADataFormats/SiPixelDigi/interface/SiPixelDigisCUDASOAView.h", 
             "CUDADataFormats/SiPixelDigi/src/SiPixelDigisCUDA.cc", 
+            "CUDADataFormats/Track/BuildFile.xml", 
             "CUDADataFormats/Track/interface/PixelTrackHeterogeneous.h", 
             "CUDADataFormats/Track/interface/PixelTrackUtilities.h", 
             "CUDADataFormats/Track/interface/TrackSoAHeterogeneousDevice.h", 
@@ -2285,10 +2288,10 @@
             "CUDADataFormats/Track/src/classes.h", 
             "CUDADataFormats/Track/src/classes_def.xml", 
             "CUDADataFormats/Track/test/BuildFile.xml", 
-            "CUDADataFormats/Track/test/TrackSoAHeterogeneousImpl_test.h", 
             "CUDADataFormats/Track/test/TrackSoAHeterogeneous_t.cpp", 
             "CUDADataFormats/Track/test/TrackSoAHeterogeneous_test.cpp", 
             "CUDADataFormats/Track/test/TrackSoAHeterogeneous_test.cu", 
+            "CUDADataFormats/TrackingRecHit/BuildFile.xml", 
             "CUDADataFormats/TrackingRecHit/interface/SiPixelHitStatus.h", 
             "CUDADataFormats/TrackingRecHit/interface/TrackingRecHit2DHeterogeneous.h", 
             "CUDADataFormats/TrackingRecHit/interface/TrackingRecHit2DReduced.h", 
@@ -2303,9 +2306,9 @@
             "CUDADataFormats/TrackingRecHit/test/TrackingRecHit2DCUDAImpl_t.h", 
             "CUDADataFormats/TrackingRecHit/test/TrackingRecHit2DCUDA_t.cpp", 
             "CUDADataFormats/TrackingRecHit/test/TrackingRecHit2DCUDA_t.cu", 
-            "CUDADataFormats/TrackingRecHit/test/TrackingRecHitSoAImpl_t.h", 
             "CUDADataFormats/TrackingRecHit/test/TrackingRecHitSoA_test.cpp", 
             "CUDADataFormats/TrackingRecHit/test/TrackingRecHitSoA_test.cu", 
+            "CUDADataFormats/Vertex/BuildFile.xml", 
             "CUDADataFormats/Vertex/interface/ZVertexHeterogeneous.h", 
             "CUDADataFormats/Vertex/interface/ZVertexSoA.h", 
             "CUDADataFormats/Vertex/interface/ZVertexSoAHeterogeneousDevice.h", 
@@ -2377,7 +2380,7 @@
         "created_at": 1673357821, 
         "number": 40465, 
         "state": "open", 
-        "updated_at": 1673360398
+        "updated_at": 1673432957
     }, 
     "40466": {
         "base_branch": "master", 
