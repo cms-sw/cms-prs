@@ -1389,12 +1389,12 @@
         "changed_files_names": [
             "HeterogeneousCore/SonicTriton/test/unittest.sh", 
             "RecoEcal/EgammaClusterProducers/test/runtests.sh", 
-            "Utilities/ReleaseScripts/scripts/singularity-check.sh"
+            "Utilities/ReleaseScripts/scripts/apptainer-check.sh"
         ], 
         "created_at": 1671110981, 
         "number": 40329, 
         "state": "open", 
-        "updated_at": 1673381214
+        "updated_at": 1673529690
     }, 
     "40331": {
         "base_branch": "CMSSW_12_4_X", 
