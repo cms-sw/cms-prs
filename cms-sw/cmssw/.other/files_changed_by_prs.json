@@ -2329,9 +2329,9 @@
             "RecoPixelVertexing/PixelVertexFinding/plugins/PixelVertexProducerCUDA.cc", 
             "RecoPixelVertexing/PixelVertexFinding/plugins/PixelVertexProducerFromSoA.cc", 
             "RecoPixelVertexing/PixelVertexFinding/plugins/PixelVertexSoAFromCUDA.cc", 
-            "RecoPixelVertexing/PixelVertexFinding/plugins/WorkSpaceSoAHeterogeneousDevice.h", 
-            "RecoPixelVertexing/PixelVertexFinding/plugins/WorkSpaceSoAHeterogeneousHost.h", 
-            "RecoPixelVertexing/PixelVertexFinding/plugins/WorkSpaceUtilities.h", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/PixelVertexWorkSpaceSoADevice.h", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/PixelVertexWorkSpaceSoAHost.h", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/PixelVertexWorkSpaceUtilities.h", 
             "RecoPixelVertexing/PixelVertexFinding/plugins/gpuClusterTracksByDensity.h", 
             "RecoPixelVertexing/PixelVertexFinding/plugins/gpuClusterTracksDBSCAN.h", 
             "RecoPixelVertexing/PixelVertexFinding/plugins/gpuClusterTracksIterative.h", 
@@ -2347,7 +2347,7 @@
         "created_at": 1673357821, 
         "number": 40465, 
         "state": "open", 
-        "updated_at": 1673512324
+        "updated_at": 1673514706
     }, 
     "40472": {
         "base_branch": "CMSSW_12_4_X", 
