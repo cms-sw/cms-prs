@@ -1599,9 +1599,11 @@
         "base_branch": "master", 
         "changed_files_names": [
             "DataFormats/Portable/interface/alpaka/PortableCollection.h", 
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/DeviceProductType.h", 
             "HeterogeneousCore/AlpakaCore/interface/alpaka/ESDeviceProductType.h", 
             "HeterogeneousCore/AlpakaCore/interface/alpaka/ESGetToken.h", 
             "HeterogeneousCore/AlpakaCore/interface/alpaka/ESProducer.h", 
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/Event.h", 
             "HeterogeneousCore/AlpakaCore/interface/alpaka/EventSetup.h", 
             "HeterogeneousCore/AlpakaCore/interface/alpaka/ProducerBase.h", 
             "HeterogeneousCore/AlpakaCore/interface/alpaka/Record.h", 
@@ -1630,7 +1632,7 @@
         "created_at": 1671743773, 
         "number": 40403, 
         "state": "open", 
-        "updated_at": 1673444260
+        "updated_at": 1673540548
     }, 
     "40412": {
         "base_branch": "master", 
