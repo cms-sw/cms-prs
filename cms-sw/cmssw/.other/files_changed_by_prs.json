@@ -1311,26 +1311,6 @@
         "state": "open", 
         "updated_at": 1673377544
     }, 
-    "40256": {
-        "base_branch": "CMSSW_12_4_X", 
-        "changed_files_names": [
-            "Configuration/PyReleaseValidation/README.md", 
-            "Configuration/PyReleaseValidation/python/relval_2017.py", 
-            "Configuration/PyReleaseValidation/python/relval_steps.py", 
-            "Configuration/PyReleaseValidation/python/relval_upgrade.py", 
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
-            "Configuration/PyReleaseValidation/scripts/runTheMatrix.py", 
-            "Configuration/StandardSequences/python/Harvesting_cff.py", 
-            "DQMOffline/Configuration/python/DQMOfflineFS_cff.py", 
-            "DQMOffline/Muon/python/muonAnalyzer_cff.py", 
-            "Validation/RecoTau/python/DQMMCValidation_cfi.py", 
-            "Validation/RecoTau/python/RecoTauValidation_cff.py"
-        ], 
-        "created_at": 1670412001, 
-        "number": 40256, 
-        "state": "open", 
-        "updated_at": 1673450013
-    }, 
     "40262": {
         "base_branch": "master", 
         "changed_files_names": [
