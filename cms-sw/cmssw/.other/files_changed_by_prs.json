@@ -2014,6 +2014,7 @@
             "EventFilter/SiPixelRawToDigi/plugins/SiPixelDigisSoAFromCUDA.cc", 
             "Geometry/CommonTopologies/interface/SimplePixelTopology.h", 
             "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterCUDA.cc", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.cu", 
             "RecoLocalTracker/SiPixelRecHits/plugins/PixelRecHitGPUKernel.cu", 
             "RecoLocalTracker/SiPixelRecHits/plugins/PixelRecHitGPUKernel.h", 
@@ -2069,7 +2070,7 @@
         "created_at": 1673357821, 
         "number": 40465, 
         "state": "open", 
-        "updated_at": 1673514706
+        "updated_at": 1673541797
     }, 
     "40472": {
         "base_branch": "CMSSW_12_4_X", 
