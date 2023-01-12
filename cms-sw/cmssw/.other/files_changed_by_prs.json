@@ -2534,5 +2534,20 @@
         "number": 40493, 
         "state": "open", 
         "updated_at": 1673507057
+    }, 
+    "40495": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondCore/SiPixelPlugins/plugins/SiPixelDynamicInefficiency_PayloadInspector.cc", 
+            "CondCore/SiPixelPlugins/test/testSiPixelDynamicInefficiency.sh", 
+            "CondCore/SiPixelPlugins/test/testSiPixelPayloadInspector.cpp", 
+            "DQM/TrackerRemapper/interface/Phase1PixelSummaryMap.h", 
+            "DQM/TrackerRemapper/src/Phase1PixelMaps.cc", 
+            "DQM/TrackerRemapper/src/Phase1PixelSummaryMap.cc"
+        ], 
+        "created_at": 1673525161, 
+        "number": 40495, 
+        "state": "open", 
+        "updated_at": 1673525181
     }
 }
