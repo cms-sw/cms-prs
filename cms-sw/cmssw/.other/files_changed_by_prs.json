@@ -2270,5 +2270,17 @@
         "number": 40511, 
         "state": "open", 
         "updated_at": 1673618687
+    }, 
+    "40512": {
+        "base_branch": "CMSSW_12_6_X", 
+        "changed_files_names": [
+            "DQM/L1TMonitor/interface/L1TdeStage2CaloLayer2.h", 
+            "DQM/L1TMonitor/src/L1TdeStage2CaloLayer2.cc", 
+            "DQM/L1TMonitorClient/src/L1TStage2CaloLayer2DEClientSummary.cc"
+        ], 
+        "created_at": 1673618800, 
+        "number": 40512, 
+        "state": "open", 
+        "updated_at": 1673618830
     }
 }
