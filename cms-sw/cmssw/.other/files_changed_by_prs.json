@@ -1905,7 +1905,6 @@
             "RecoLocalTracker/SiPixelRecHits/plugins/PixelRecHitGPUKernel.cu", 
             "RecoLocalTracker/SiPixelRecHits/plugins/PixelRecHitGPUKernel.h", 
             "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitCUDA.cc", 
-            "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitConverter.cc", 
             "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitFromCUDA.cc", 
             "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitSoAFromCUDA.cc", 
             "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitSoAFromLegacy.cc", 
@@ -1956,7 +1955,7 @@
         "created_at": 1673357821, 
         "number": 40465, 
         "state": "open", 
-        "updated_at": 1673603407
+        "updated_at": 1673625855
     }, 
     "40478": {
         "base_branch": "master", 
