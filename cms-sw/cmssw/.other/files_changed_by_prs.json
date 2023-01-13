@@ -2176,5 +2176,20 @@
         "number": 40503, 
         "state": "open", 
         "updated_at": 1673605297
+    }, 
+    "40504": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/HGCalDigi/interface/HGCalDigiCollections.h", 
+            "DataFormats/HGCalDigi/interface/HGCalElectronicsId.h", 
+            "DataFormats/HGCalDigi/src/HGCalElectronicsId.cc", 
+            "DataFormats/HGCalDigi/src/classes_def.xml", 
+            "DataFormats/HGCalDigi/test/BuildFile.xml", 
+            "DataFormats/HGCalDigi/test/HGCalElectronicsIdTest.cc"
+        ], 
+        "created_at": 1673615146, 
+        "number": 40504, 
+        "state": "open", 
+        "updated_at": 1673615166
     }
 }
