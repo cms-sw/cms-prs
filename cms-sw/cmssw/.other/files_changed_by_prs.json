@@ -2359,5 +2359,18 @@
         "number": 40524, 
         "state": "open", 
         "updated_at": 1673646137
+    }, 
+    "40525": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaHoverEL1Seeded_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaHoverEUnseeded_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltFixedGridRhoFastjetAllCaloForMuons_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/tasks/HLTFastJetForEgammaTask_cfi.py"
+        ], 
+        "created_at": 1673671818, 
+        "number": 40525, 
+        "state": "open", 
+        "updated_at": 1673671842
     }
 }
