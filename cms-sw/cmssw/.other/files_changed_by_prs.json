@@ -2289,12 +2289,15 @@
         "changed_files_names": [
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaHoverEL1Seeded_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaHoverEUnseeded_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltFixedGridRhoFastjetAllCaloForMuons_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/tasks/HLTFastJetForEgammaTask_cfi.py"
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltFixedGridRhoFastjetAllCaloForEGamma_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltRegionalTowerForEgamma_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltTowerMakerForAllForEgamma_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/tasks/HLTFastJetForEgammaTask_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/tasks/HLTPFHcalClusteringForEgammaTask_cfi.py"
         ], 
         "created_at": 1673671818, 
         "number": 40525, 
         "state": "open", 
-        "updated_at": 1673671842
+        "updated_at": 1673783019
     }
 }
