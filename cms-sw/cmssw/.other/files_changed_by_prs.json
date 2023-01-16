@@ -1901,43 +1901,6 @@
         "state": "open", 
         "updated_at": 1673864598
     }, 
-    "40478": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/NanoAOD/interface/FlatTable.h", 
-            "DataFormats/NanoAOD/src/FlatTable.cc", 
-            "DataFormats/NanoAOD/src/classes_def.xml", 
-            "PhysicsTools/NanoAOD/interface/SimpleFlatTableProducer.h", 
-            "PhysicsTools/NanoAOD/plugins/CandMCMatchTableProducer.cc", 
-            "PhysicsTools/NanoAOD/plugins/GenJetFlavourTableProducer.cc", 
-            "PhysicsTools/NanoAOD/plugins/LumiOutputBranches.cc", 
-            "PhysicsTools/NanoAOD/plugins/LumiOutputBranches.h", 
-            "PhysicsTools/NanoAOD/plugins/NanoAODDQM.cc", 
-            "PhysicsTools/NanoAOD/plugins/SummaryTableOutputBranches.cc", 
-            "PhysicsTools/NanoAOD/plugins/TableOutputBranches.cc", 
-            "PhysicsTools/NanoAOD/plugins/TableOutputBranches.h", 
-            "PhysicsTools/NanoAOD/plugins/TriggerObjectTableProducer.cc", 
-            "PhysicsTools/NanoAOD/plugins/VertexTableProducer.cc", 
-            "PhysicsTools/NanoAOD/python/boostedTaus_cff.py", 
-            "PhysicsTools/NanoAOD/python/electrons_cff.py", 
-            "PhysicsTools/NanoAOD/python/fsrPhotons_cff.py", 
-            "PhysicsTools/NanoAOD/python/genparticles_cff.py", 
-            "PhysicsTools/NanoAOD/python/isotracks_cff.py", 
-            "PhysicsTools/NanoAOD/python/jetMC_cff.py", 
-            "PhysicsTools/NanoAOD/python/jetsAK4_CHS_cff.py", 
-            "PhysicsTools/NanoAOD/python/jetsAK4_Puppi_cff.py", 
-            "PhysicsTools/NanoAOD/python/jetsAK8_cff.py", 
-            "PhysicsTools/NanoAOD/python/lowPtElectrons_cff.py", 
-            "PhysicsTools/NanoAOD/python/muons_cff.py", 
-            "PhysicsTools/NanoAOD/python/photons_cff.py", 
-            "PhysicsTools/NanoAOD/python/protons_cff.py", 
-            "PhysicsTools/NanoAOD/python/taus_cff.py"
-        ], 
-        "created_at": 1673445305, 
-        "number": 40478, 
-        "state": "open", 
-        "updated_at": 1673447622
-    }, 
     "40479": {
         "base_branch": "master", 
         "changed_files_names": [
