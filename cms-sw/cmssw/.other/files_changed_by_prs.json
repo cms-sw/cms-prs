@@ -2223,5 +2223,16 @@
         "number": 40525, 
         "state": "open", 
         "updated_at": 1673854266
+    }, 
+    "40526": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "DataFormats/PatCandidates/interface/PackedCandidate.h", 
+            "DataFormats/PatCandidates/src/PackedCandidate.cc"
+        ], 
+        "created_at": 1673858135, 
+        "number": 40526, 
+        "state": "open", 
+        "updated_at": 1673858164
     }
 }
