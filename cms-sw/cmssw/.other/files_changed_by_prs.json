@@ -2287,5 +2287,19 @@
         "number": 40531, 
         "state": "open", 
         "updated_at": 1673864775
+    }, 
+    "40532": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoEcal/EgammaClusterAlgos/src/Multi5x5BremRecoveryClusterAlgo.cc", 
+            "RecoEgamma/EgammaElectronAlgos/src/PixelHitMatcher.cc", 
+            "RecoEgamma/EgammaHFProducers/plugins/HFClusterAlgo.cc", 
+            "RecoEgamma/ElectronIdentification/plugins/CutBasedElectronID.cc", 
+            "RecoEgamma/PhotonIdentification/src/PhotonMIPHaloTagger.cc"
+        ], 
+        "created_at": 1673865327, 
+        "number": 40532, 
+        "state": "open", 
+        "updated_at": 1673865349
     }
 }
