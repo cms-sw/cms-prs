@@ -1810,6 +1810,7 @@
             "CUDADataFormats/Track/test/TrackSoAHeterogeneous_t.cpp", 
             "CUDADataFormats/Track/test/TrackSoAHeterogeneous_test.cpp", 
             "CUDADataFormats/Track/test/TrackSoAHeterogeneous_test.cu", 
+            "CUDADataFormats/Track/test/TrajectoryStateSOA_t.h", 
             "CUDADataFormats/TrackingRecHit/BuildFile.xml", 
             "CUDADataFormats/TrackingRecHit/interface/SiPixelHitStatus.h", 
             "CUDADataFormats/TrackingRecHit/interface/TrackingRecHit2DHeterogeneous.h", 
@@ -1898,7 +1899,7 @@
         "created_at": 1673357821, 
         "number": 40465, 
         "state": "open", 
-        "updated_at": 1673625855
+        "updated_at": 1673864598
     }, 
     "40478": {
         "base_branch": "master", 
