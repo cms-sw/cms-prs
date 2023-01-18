@@ -1714,8 +1714,11 @@
             "DPGAnalysis/HcalNanoAOD/plugins/BuildFile.xml", 
             "DPGAnalysis/HcalNanoAOD/plugins/HcalDetIdTableProducer.cc", 
             "DPGAnalysis/HcalNanoAOD/plugins/HcalDigiSortedTableProducer.cc", 
+            "DPGAnalysis/HcalNanoAOD/plugins/HcalRecHitTableProducer.cc", 
             "DPGAnalysis/HcalNanoAOD/python/hcalDetIdTable_cff.py", 
-            "DPGAnalysis/HcalNanoAOD/python/hcalSortedDigiTable_cff.py", 
+            "DPGAnalysis/HcalNanoAOD/python/hcalDigiSortedTable_cff.py", 
+            "DPGAnalysis/HcalNanoAOD/python/hcalNano_cff.py", 
+            "DPGAnalysis/HcalNanoAOD/python/hcalRecHitTable_cff.py", 
             "DPGAnalysis/HcalNanoAOD/src/HFPreRecHitSortedTable.cc", 
             "DPGAnalysis/HcalNanoAOD/src/HODigiSortedTable.cc", 
             "DPGAnalysis/HcalNanoAOD/src/QIE10DigiSortedTable.cc", 
@@ -1729,7 +1732,7 @@
         "created_at": 1673474031, 
         "number": 40489, 
         "state": "open", 
-        "updated_at": 1673474459
+        "updated_at": 1674075923
     }, 
     "40490": {
         "base_branch": "master", 
