@@ -1467,6 +1467,8 @@
             "HeterogeneousCore/AlpakaCore/interface/alpaka/ProducerBase.h", 
             "HeterogeneousCore/AlpakaCore/interface/alpaka/Record.h", 
             "HeterogeneousCore/AlpakaCore/interface/alpaka/typelookup.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/CopyToDevice.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/CopyToHost.h", 
             "HeterogeneousCore/AlpakaInterface/interface/TransferToHost.h", 
             "HeterogeneousCore/AlpakaTest/interface/AlpakaESTestData.h", 
             "HeterogeneousCore/AlpakaTest/interface/AlpakaESTestSoA.h", 
@@ -1491,7 +1493,7 @@
         "created_at": 1671743773, 
         "number": 40403, 
         "state": "open", 
-        "updated_at": 1673541098
+        "updated_at": 1674080574
     }, 
     "40412": {
         "base_branch": "master", 
