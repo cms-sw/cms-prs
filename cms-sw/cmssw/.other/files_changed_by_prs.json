@@ -1699,14 +1699,6 @@
     "40489": {
         "base_branch": "master", 
         "changed_files_names": [
-            "Configuration/Applications/python/ConfigBuilder.py", 
-            "DPGAnalysis/CaloNanoAOD/BuildFile.xml", 
-            "DPGAnalysis/CaloNanoAOD/plugins/BuildFile.xml", 
-            "DPGAnalysis/CaloNanoAOD/plugins/HCALHitPositionTableProducer.cc", 
-            "DPGAnalysis/CaloNanoAOD/plugins/SimpleCaloObjectFlatTableProducer.cc", 
-            "DPGAnalysis/CaloNanoAOD/python/hcalNano_cff.py", 
-            "DPGAnalysis/CaloNanoAOD/python/hcalRecHits_cff.py", 
-            "DPGAnalysis/CommonNanoAOD/interface/HitPositionTableProducer.h", 
             "DPGAnalysis/HcalNanoAOD/BuildFile.xml", 
             "DPGAnalysis/HcalNanoAOD/README.md", 
             "DPGAnalysis/HcalNanoAOD/interface/HFPreRecHitSortedTable.h", 
@@ -1734,7 +1726,7 @@
         "created_at": 1673474031, 
         "number": 40489, 
         "state": "open", 
-        "updated_at": 1674075923
+        "updated_at": 1674164466
     }, 
     "40490": {
         "base_branch": "master", 
