@@ -1731,12 +1731,14 @@
         "base_branch": "master", 
         "changed_files_names": [
             "CUDADataFormats/PortableTestObjects/src/classes_def.xml", 
-            "DataFormats/PortableTestObjects/src/alpaka/classes_serial_def.xml"
+            "DataFormats/Portable/interface/PortableHostCollection.h", 
+            "DataFormats/PortableTestObjects/src/alpaka/classes_serial_def.xml", 
+            "DataFormats/SoATemplate/interface/SoALayout.h"
         ], 
         "created_at": 1673479585, 
         "number": 40492, 
         "state": "open", 
-        "updated_at": 1673550771
+        "updated_at": 1674223139
     }, 
     "40498": {
         "base_branch": "master", 
