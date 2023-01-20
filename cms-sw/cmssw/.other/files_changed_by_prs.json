@@ -2155,5 +2155,22 @@
         "number": 40571, 
         "state": "open", 
         "updated_at": 1674143215
+    }, 
+    "40572": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "L1Trigger/CSCTriggerPrimitives/interface/CSCCathodeLCTProcessor.h", 
+            "L1Trigger/CSCTriggerPrimitives/interface/CSCMotherboard.h", 
+            "L1Trigger/CSCTriggerPrimitives/python/params/clctParams.py", 
+            "L1Trigger/CSCTriggerPrimitives/python/params/tmbParams.py", 
+            "L1Trigger/CSCTriggerPrimitives/src/CSCAnodeLCTProcessor.cc", 
+            "L1Trigger/CSCTriggerPrimitives/src/CSCCathodeLCTProcessor.cc", 
+            "L1Trigger/CSCTriggerPrimitives/src/CSCGEMMotherboard.cc", 
+            "L1Trigger/CSCTriggerPrimitives/src/CSCMotherboard.cc"
+        ], 
+        "created_at": 1674174662, 
+        "number": 40572, 
+        "state": "open", 
+        "updated_at": 1674174688
     }
 }
