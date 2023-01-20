@@ -2099,7 +2099,6 @@
             "CUDADataFormats/TrackingRecHit/interface/TrackingRecHitSoAHost.h", 
             "CUDADataFormats/TrackingRecHit/test/TrackingRecHitSoA_test.cu", 
             "RecoLocalTracker/SiPixelRecHits/plugins/PixelRecHitGPUKernel.cu", 
-            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.cc", 
             "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.cu", 
             "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorKernels.h", 
             "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletGeneratorOnGPU.h"
@@ -2107,6 +2106,6 @@
         "created_at": 1674204884, 
         "number": 40575, 
         "state": "open", 
-        "updated_at": 1674216996
+        "updated_at": 1674217677
     }
 }
