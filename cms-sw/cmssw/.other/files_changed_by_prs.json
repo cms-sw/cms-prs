@@ -2042,5 +2042,17 @@
         "number": 40595, 
         "state": "open", 
         "updated_at": 1674483078
+    }, 
+    "40596": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/scripts/runTheMatrix.py", 
+            "Configuration/PyReleaseValidation/test/BuildFile.xml", 
+            "Configuration/PyReleaseValidation/test/test-runTheMatrix_interactive.sh"
+        ], 
+        "created_at": 1674487508, 
+        "number": 40596, 
+        "state": "open", 
+        "updated_at": 1674487534
     }
 }
