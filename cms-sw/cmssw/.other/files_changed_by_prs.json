@@ -1934,5 +1934,21 @@
         "number": 40583, 
         "state": "open", 
         "updated_at": 1674234748
+    }, 
+    "40585": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/missD88.txt", 
+            "Geometry/HGCalCommonData/data/missD92.txt", 
+            "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h", 
+            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc", 
+            "Geometry/HGCalCommonData/src/HGCalWaferMask.cc", 
+            "Geometry/HGCalCommonData/test/HGCalValidityTester.cc", 
+            "Geometry/HGCalCommonData/test/python/testHGCalValidity_cfg.py"
+        ], 
+        "created_at": 1674440420, 
+        "number": 40585, 
+        "state": "open", 
+        "updated_at": 1674440445
     }
 }
