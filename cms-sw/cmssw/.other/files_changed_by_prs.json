@@ -1950,5 +1950,36 @@
         "number": 40585, 
         "state": "open", 
         "updated_at": 1674440445
+    }, 
+    "40586": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/test/python/runHGCalWafer8DDD_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/hgcGeomAnalyzer_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/runCaloCellGeometryTest_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalCellDumpDDD_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalCorner_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalGeomCheck_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalGeomLocatorSc_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalGeomLocator_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalGeometryCheck_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalGeometryMouseBite_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalGeometryNewCorners_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalGeometryRotCheck_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalGeometryRotTest_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalGeometry_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalNeighbor_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalValidScintTest_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalValidTest_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalWaferInFileCheck_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalWaferInFileOrientation_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalWaferInFileTest_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalWaferTypeTester_cfg.py", 
+            "Geometry/HGCalGeometry/test/python/testHGCalWafer_cfg.py"
+        ], 
+        "created_at": 1674440616, 
+        "number": 40586, 
+        "state": "open", 
+        "updated_at": 1674440641
     }
 }
