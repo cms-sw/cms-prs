@@ -1963,6 +1963,7 @@
             "Geometry/HGCalTBCommonData/data/dd4hep/cms-test-ddhgcalTBModuleX-algorithm.xml", 
             "Geometry/HGCalTBCommonData/plugins/HGCalTBNumberingInitialization.cc", 
             "Geometry/HGCalTBCommonData/plugins/HGCalTBParametersESModule.cc", 
+            "Geometry/HGCalTBCommonData/python/hgcalTBEEParametersInitialization_cfi.py", 
             "Geometry/HGCalTBCommonData/python/hgcalTBParametersInitialization_cfi.py", 
             "Geometry/HGCalTBCommonData/python/testTB181V0XML_cfi.py", 
             "Geometry/HGCalTBCommonData/python/testTB181V1XML_cfi.py", 
@@ -1978,7 +1979,7 @@
         "created_at": 1674554507, 
         "number": 40600, 
         "state": "open", 
-        "updated_at": 1674554535
+        "updated_at": 1674555155
     }, 
     "40601": {
         "base_branch": "master", 
