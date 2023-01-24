@@ -2010,5 +2010,17 @@
         "number": 40602, 
         "state": "open", 
         "updated_at": 1674566900
+    }, 
+    "40603": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/CaloTopology/BuildFile.xml", 
+            "Geometry/CaloTopology/interface/HGCalTBTopology.h", 
+            "Geometry/CaloTopology/src/HGCalTBTopology.cc"
+        ], 
+        "created_at": 1674575103, 
+        "number": 40603, 
+        "state": "open", 
+        "updated_at": 1674575126
     }
 }
