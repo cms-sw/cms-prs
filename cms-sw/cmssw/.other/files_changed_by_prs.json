@@ -1979,5 +1979,18 @@
         "number": 40600, 
         "state": "open", 
         "updated_at": 1674554535
+    }, 
+    "40601": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/TrackerRecHit2D/interface/ClusterRemovalInfo.h", 
+            "DataFormats/TrackerRecHit2D/interface/Phase2TrackerRecHit1D.h", 
+            "RecoLocalTracker/SubCollectionProducers/src/SeedClusterRemoverPhase2.cc", 
+            "SimTracker/TrackerHitAssociation/src/TrackerHitAssociator.cc"
+        ], 
+        "created_at": 1674554631, 
+        "number": 40601, 
+        "state": "open", 
+        "updated_at": 1674554650
     }
 }
