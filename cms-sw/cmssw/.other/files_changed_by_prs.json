@@ -1979,5 +1979,19 @@
         "number": 40603, 
         "state": "open", 
         "updated_at": 1674575126
+    }, 
+    "40605": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "HeterogeneousCore/CUDATestDeviceLib/BuildFile.xml", 
+            "HeterogeneousCore/CUDATestDeviceLib/interface/DeviceAddition.h", 
+            "HeterogeneousCore/CUDATestDeviceLib/src/DeviceAddition.cu", 
+            "HeterogeneousCore/CUDATestDeviceLib/test/BuildFile.xml", 
+            "HeterogeneousCore/CUDATestDeviceLib/test/testDeviceAddition.cu"
+        ], 
+        "created_at": 1674578029, 
+        "number": 40605, 
+        "state": "open", 
+        "updated_at": 1674578075
     }
 }
