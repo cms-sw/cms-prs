@@ -1985,14 +1985,20 @@
         "changed_files_names": [
             "HeterogeneousCore/CUDATestDeviceLib/BuildFile.xml", 
             "HeterogeneousCore/CUDATestDeviceLib/interface/DeviceAddition.h", 
+            "HeterogeneousCore/CUDATestDeviceLib/interface/DeviceAdditionKernel.h", 
+            "HeterogeneousCore/CUDATestDeviceLib/interface/DeviceAdditionWrapper.h", 
             "HeterogeneousCore/CUDATestDeviceLib/src/DeviceAddition.cu", 
+            "HeterogeneousCore/CUDATestDeviceLib/src/DeviceAdditionKernel.cu", 
+            "HeterogeneousCore/CUDATestDeviceLib/src/DeviceAdditionWrapper.cu", 
             "HeterogeneousCore/CUDATestDeviceLib/test/BuildFile.xml", 
-            "HeterogeneousCore/CUDATestDeviceLib/test/testDeviceAddition.cu"
+            "HeterogeneousCore/CUDATestDeviceLib/test/testDeviceAddition.cu", 
+            "HeterogeneousCore/CUDATestDeviceLib/test/testDeviceAdditionKernel.cu", 
+            "HeterogeneousCore/CUDATestDeviceLib/test/testDeviceAdditionWrapper.cc"
         ], 
         "created_at": 1674578029, 
         "number": 40605, 
         "state": "open", 
-        "updated_at": 1674578075
+        "updated_at": 1674622480
     }, 
     "40606": {
         "base_branch": "master", 
