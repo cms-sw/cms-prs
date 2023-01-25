@@ -1886,6 +1886,14 @@
             "HeterogeneousCore/CUDATestDevice/test/BuildFile.xml", 
             "HeterogeneousCore/CUDATestDevice/test/testCUDATestDeviceAdditionModule.py", 
             "HeterogeneousCore/CUDATestDevice/test/testDeviceAddition.cu", 
+            "HeterogeneousCore/CUDATestHidden/BuildFile.xml", 
+            "HeterogeneousCore/CUDATestHidden/interface/DeviceAdditionHidden.h", 
+            "HeterogeneousCore/CUDATestHidden/plugins/BuildFile.xml", 
+            "HeterogeneousCore/CUDATestHidden/plugins/CUDATestHiddenAdditionModule.cc", 
+            "HeterogeneousCore/CUDATestHidden/src/DeviceAdditionHidden.cu", 
+            "HeterogeneousCore/CUDATestHidden/test/BuildFile.xml", 
+            "HeterogeneousCore/CUDATestHidden/test/testCUDATestHiddenAdditionModule.py", 
+            "HeterogeneousCore/CUDATestHidden/test/testDeviceAdditionHidden.cc", 
             "HeterogeneousCore/CUDATestKernel/BuildFile.xml", 
             "HeterogeneousCore/CUDATestKernel/interface/DeviceAdditionKernel.h", 
             "HeterogeneousCore/CUDATestKernel/plugins/BuildFile.xml", 
@@ -1902,13 +1910,13 @@
             "HeterogeneousCore/CUDATestWrapper/plugins/CUDATestWrapperAdditionModule.cc", 
             "HeterogeneousCore/CUDATestWrapper/src/DeviceAdditionWrapper.cu", 
             "HeterogeneousCore/CUDATestWrapper/test/BuildFile.xml", 
-            "HeterogeneousCore/CUDATestWrapper/test/testCUDATestDeviceAdditionModule.py", 
+            "HeterogeneousCore/CUDATestWrapper/test/testCUDATestWrapperAdditionModule.py", 
             "HeterogeneousCore/CUDATestWrapper/test/testDeviceAdditionWrapper.cc"
         ], 
         "created_at": 1674578029, 
         "number": 40605, 
         "state": "open", 
-        "updated_at": 1674651161
+        "updated_at": 1674675472
     }, 
     "40608": {
         "base_branch": "master", 
