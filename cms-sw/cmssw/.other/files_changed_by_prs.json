@@ -1890,8 +1890,9 @@
             "HeterogeneousCore/CUDATestHidden/interface/DeviceAdditionHidden.h", 
             "HeterogeneousCore/CUDATestHidden/plugins/BuildFile.xml", 
             "HeterogeneousCore/CUDATestHidden/plugins/CUDATestHiddenAdditionModule.cc", 
-            "HeterogeneousCore/CUDATestHidden/src/DeviceAdditionHidden.cu", 
+            "HeterogeneousCore/CUDATestHidden/src/DeviceAdditionHidden.cc", 
             "HeterogeneousCore/CUDATestHidden/test/BuildFile.xml", 
+            "HeterogeneousCore/CUDATestHidden/test/testCUDATestAdditionModules.py", 
             "HeterogeneousCore/CUDATestHidden/test/testCUDATestHiddenAdditionModule.py", 
             "HeterogeneousCore/CUDATestHidden/test/testDeviceAdditionHidden.cc", 
             "HeterogeneousCore/CUDATestKernel/BuildFile.xml", 
@@ -1916,7 +1917,7 @@
         "created_at": 1674578029, 
         "number": 40605, 
         "state": "open", 
-        "updated_at": 1674675472
+        "updated_at": 1674676798
     }, 
     "40608": {
         "base_branch": "master", 
