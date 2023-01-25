@@ -1951,5 +1951,18 @@
         "number": 40609, 
         "state": "open", 
         "updated_at": 1674637154
+    }, 
+    "40610": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoLocalTracker/SubCollectionProducers/src/HITrackClusterRemover.cc", 
+            "RecoLocalTracker/SubCollectionProducers/src/HLTTrackClusterRemoverNew.cc", 
+            "RecoLocalTracker/SubCollectionProducers/src/SeedClusterRemover.cc", 
+            "RecoLocalTracker/SubCollectionProducers/src/SeedClusterRemoverPhase2.cc"
+        ], 
+        "created_at": 1674642132, 
+        "number": 40610, 
+        "state": "open", 
+        "updated_at": 1674642153
     }
 }
