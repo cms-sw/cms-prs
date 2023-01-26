@@ -2070,14 +2070,18 @@
     "40624": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Configuration/Applications/python/ConfigBuilder.py", 
+            "Configuration/Applications/python/Options.py", 
+            "Configuration/Applications/python/cmsDriverOptions.py", 
             "PerfTools/JeProf/plugins/BuildFile.xml", 
             "PerfTools/JeProf/plugins/JeProfService.cc", 
-            "PerfTools/JeProf/plugins/JeProfService.h"
+            "PerfTools/JeProf/plugins/JeProfService.h", 
+            "Validation/Performance/python/JeProfInfo.py"
         ], 
         "created_at": 1674749787, 
         "number": 40624, 
         "state": "open", 
-        "updated_at": 1674752120
+        "updated_at": 1674764064
     }, 
     "40625": {
         "base_branch": "master", 
