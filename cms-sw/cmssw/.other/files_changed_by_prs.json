@@ -1971,8 +1971,10 @@
     "40612": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Alignment/OfflineValidation/python/TkAlAllInOneTool/defaultInputFiles_cff.py", 
             "Alignment/OfflineValidation/test/BuildFile.xml", 
             "Alignment/OfflineValidation/test/testPrimaryVertexRelatedValidations_cfg.py", 
+            "Alignment/OfflineValidation/test/test_all_Phase2_cfg.py", 
             "Alignment/OfflineValidation/test/testingScripts/test_unitGeneralTrackAnalyser.sh", 
             "Alignment/OfflineValidation/test/testingScripts/test_unitMiscellanea.sh", 
             "Alignment/OfflineValidation/test/testingScripts/test_unitPrimaryVertex.sh"
@@ -1980,7 +1982,7 @@
         "created_at": 1674657269, 
         "number": 40612, 
         "state": "open", 
-        "updated_at": 1674657293
+        "updated_at": 1674739876
     }, 
     "40613": {
         "base_branch": "master", 
