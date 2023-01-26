@@ -2013,6 +2013,11 @@
             "HeterogeneousCore/CUDAUtilities/test/BuildFile.xml", 
             "HeterogeneousCore/CUDAUtilities/test/testCudaCheck.cpp", 
             "HeterogeneousCore/CUDAUtilities/test/testRequireCUDADevices.cpp", 
+            "HeterogeneousCore/ROCmServices/bin/BuildFile.xml", 
+            "HeterogeneousCore/ROCmServices/bin/isRocmDeviceSupported.h", 
+            "HeterogeneousCore/ROCmServices/bin/isRocmDeviceSupported.hip.cc", 
+            "HeterogeneousCore/ROCmServices/bin/rocmComputeCapabilities.cpp", 
+            "HeterogeneousCore/ROCmServices/bin/rocmIsEnabled.cpp", 
             "HeterogeneousCore/ROCmUtilities/BuildFile.xml", 
             "HeterogeneousCore/ROCmUtilities/interface/hipCheck.h", 
             "HeterogeneousCore/ROCmUtilities/interface/requireDevices.h", 
@@ -2024,7 +2029,7 @@
         "created_at": 1674738309, 
         "number": 40619, 
         "state": "open", 
-        "updated_at": 1674738360
+        "updated_at": 1674767929
     }, 
     "40620": {
         "base_branch": "CMSSW_12_5_X", 
