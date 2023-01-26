@@ -2009,5 +2009,19 @@
         "number": 40613, 
         "state": "open", 
         "updated_at": 1674660282
+    }, 
+    "40618": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoLocalTracker/SiStripZeroSuppression/src/SiStripFedZeroSuppression.cc", 
+            "SimTracker/SiStripDigitizer/interface/SiDigitalConverter.h", 
+            "SimTracker/SiStripDigitizer/interface/SiTrivialDigitalConverter.h", 
+            "SimTracker/SiStripDigitizer/plugins/PreMixingSiStripWorker.cc", 
+            "SimTracker/SiStripDigitizer/src/SiTrivialDigitalConverter.cc"
+        ], 
+        "created_at": 1674733568, 
+        "number": 40618, 
+        "state": "open", 
+        "updated_at": 1674733595
     }
 }
