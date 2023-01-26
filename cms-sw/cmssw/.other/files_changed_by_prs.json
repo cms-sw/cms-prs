@@ -1718,16 +1718,20 @@
             "FWCore/Catalog/src/FileLocator.cc", 
             "FWCore/Services/test/BuildFile.xml", 
             "FWCore/Services/test/SiteLocalConfigServiceCatalogTester.cc", 
-            "FWCore/Services/test/cross-site-local-config.testfile", 
-            "FWCore/Services/test/dummy_storage.json", 
-            "FWCore/Services/test/dummycross_storage.json", 
+            "FWCore/Services/test/sitelocalconfig_catalog/dummycross/storage.json", 
+            "FWCore/Services/test/sitelocalconfig_catalog/local/storage.json", 
+            "FWCore/Services/test/sitelocalconfig_catalog/site-local-config.xml", 
+            "FWCore/Services/test/sitelocalconfig_no_source/site-local-config.xml", 
+            "FWCore/Services/test/no-source-site-local-config.testfile", 
+            "FWCore/Services/test/sitelocalconfig_source/site-local-config.xml", 
+            "FWCore/Services/test/source-site-local-config.testfile", 
             "FWCore/Services/test/test_sitelocalconfig.sh", 
             "FWCore/Services/test/test_sitelocalconfig_catalog_cfg.py"
         ], 
         "created_at": 1674137288, 
         "number": 40569, 
         "state": "open", 
-        "updated_at": 1674226937
+        "updated_at": 1674747464
     }, 
     "40570": {
         "base_branch": "master", 
