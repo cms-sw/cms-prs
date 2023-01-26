@@ -2023,5 +2023,24 @@
         "number": 40618, 
         "state": "open", 
         "updated_at": 1674733595
+    }, 
+    "40619": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "HeterogeneousCore/CUDAUtilities/test/BuildFile.xml", 
+            "HeterogeneousCore/CUDAUtilities/test/testCudaCheck.cpp", 
+            "HeterogeneousCore/CUDAUtilities/test/testRequireCUDADevices.cpp", 
+            "HeterogeneousCore/ROCmUtilities/BuildFile.xml", 
+            "HeterogeneousCore/ROCmUtilities/interface/hipCheck.h", 
+            "HeterogeneousCore/ROCmUtilities/interface/requireDevices.h", 
+            "HeterogeneousCore/ROCmUtilities/src/requireDevices.cc", 
+            "HeterogeneousCore/ROCmUtilities/test/BuildFile.xml", 
+            "HeterogeneousCore/ROCmUtilities/test/testHipCheck.cpp", 
+            "HeterogeneousCore/ROCmUtilities/test/testRequireROCmDevices.cpp"
+        ], 
+        "created_at": 1674738309, 
+        "number": 40619, 
+        "state": "open", 
+        "updated_at": 1674738360
     }
 }
