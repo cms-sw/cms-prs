@@ -2044,5 +2044,17 @@
         "number": 40619, 
         "state": "open", 
         "updated_at": 1674738360
+    }, 
+    "40620": {
+        "base_branch": "CMSSW_12_5_X", 
+        "changed_files_names": [
+            "Configuration/StandardSequences/python/VtxSmeared.py", 
+            "IOMC/EventVertexGenerators/python/VtxSmearedParameters_cfi.py", 
+            "IOMC/EventVertexGenerators/python/VtxSmearedRealistic2022PbPbCollision_cfi.py"
+        ], 
+        "created_at": 1674740386, 
+        "number": 40620, 
+        "state": "open", 
+        "updated_at": 1674740415
     }
 }
