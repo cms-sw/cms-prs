@@ -1802,12 +1802,14 @@
             "HeterogeneousCore/CUDAUtilities/test/BuildFile.xml", 
             "HeterogeneousCore/CUDAUtilities/test/testCudaCheck.cpp", 
             "HeterogeneousCore/CUDAUtilities/test/testRequireCUDADevices.cpp", 
-            "HeterogeneousCore/ROCmServices/bin/BuildFile.xml", 
-            "HeterogeneousCore/ROCmServices/bin/isRocmDeviceSupported.h", 
-            "HeterogeneousCore/ROCmServices/bin/isRocmDeviceSupported.hip.cc", 
-            "HeterogeneousCore/ROCmServices/bin/rocmComputeCapabilities.cpp", 
-            "HeterogeneousCore/ROCmServices/bin/rocmIsEnabled.cpp", 
             "HeterogeneousCore/ROCmUtilities/BuildFile.xml", 
+            "HeterogeneousCore/ROCmUtilities/bin/BuildFile.xml", 
+            "HeterogeneousCore/ROCmUtilities/bin/isRocmDeviceSupported.h", 
+            "HeterogeneousCore/ROCmUtilities/bin/isRocmDeviceSupported.hip.cc", 
+            "HeterogeneousCore/ROCmUtilities/bin/rocmComputeCapabilities.cpp", 
+            "HeterogeneousCore/ROCmUtilities/bin/rocmComputeCapabilities_fallback.cpp", 
+            "HeterogeneousCore/ROCmUtilities/bin/rocmIsEnabled.cpp", 
+            "HeterogeneousCore/ROCmUtilities/bin/rocmIsEnabled_fallback.cpp", 
             "HeterogeneousCore/ROCmUtilities/interface/hipCheck.h", 
             "HeterogeneousCore/ROCmUtilities/interface/requireDevices.h", 
             "HeterogeneousCore/ROCmUtilities/src/requireDevices.cc", 
@@ -1818,7 +1820,7 @@
         "created_at": 1674738309, 
         "number": 40619, 
         "state": "open", 
-        "updated_at": 1674767929
+        "updated_at": 1675092053
     }, 
     "40622": {
         "base_branch": "master", 
