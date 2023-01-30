@@ -1722,14 +1722,14 @@
             "HeterogeneousTest/CUDAKernel/test/testCUDATestKernelAdditionModule.py", 
             "HeterogeneousTest/CUDAKernel/test/testDeviceAdditionKernel.cu", 
             "HeterogeneousTest/CUDAOpaque/BuildFile.xml", 
-            "HeterogeneousTest/CUDAOpaque/interface/DeviceAdditionHidden.h", 
+            "HeterogeneousTest/CUDAOpaque/interface/DeviceAdditionOpaque.h", 
             "HeterogeneousTest/CUDAOpaque/plugins/BuildFile.xml", 
-            "HeterogeneousTest/CUDAOpaque/plugins/CUDATestHiddenAdditionModule.cc", 
-            "HeterogeneousTest/CUDAOpaque/src/DeviceAdditionHidden.cc", 
+            "HeterogeneousTest/CUDAOpaque/plugins/CUDATestOpaqueAdditionModule.cc", 
+            "HeterogeneousTest/CUDAOpaque/src/DeviceAdditionOpaque.cc", 
             "HeterogeneousTest/CUDAOpaque/test/BuildFile.xml", 
             "HeterogeneousTest/CUDAOpaque/test/testCUDATestAdditionModules.py", 
-            "HeterogeneousTest/CUDAOpaque/test/testCUDATestHiddenAdditionModule.py", 
-            "HeterogeneousTest/CUDAOpaque/test/testDeviceAdditionHidden.cc", 
+            "HeterogeneousTest/CUDAOpaque/test/testCUDATestOpaqueAdditionModule.py", 
+            "HeterogeneousTest/CUDAOpaque/test/testDeviceAdditionOpaque.cc", 
             "HeterogeneousTest/CUDAWrapper/BuildFile.xml", 
             "HeterogeneousTest/CUDAWrapper/interface/DeviceAdditionWrapper.h", 
             "HeterogeneousTest/CUDAWrapper/plugins/BuildFile.xml", 
@@ -1742,7 +1742,7 @@
         "created_at": 1674578029, 
         "number": 40605, 
         "state": "open", 
-        "updated_at": 1675089635
+        "updated_at": 1675095221
     }, 
     "40610": {
         "base_branch": "master", 
