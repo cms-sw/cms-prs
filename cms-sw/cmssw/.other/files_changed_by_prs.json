@@ -2828,5 +2828,22 @@
         "number": 40638, 
         "state": "open", 
         "updated_at": 1675051710
+    }, 
+    "40639": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/CaloEventSetup/python/HGCalV9Topology_cfi.py", 
+            "Geometry/CaloTopology/interface/HGCalTBTopology.h", 
+            "Geometry/CaloTopology/python/hgcalTBTopologyTester_cfi.py", 
+            "Geometry/CaloTopology/src/HGCalTBTopology.cc", 
+            "Geometry/CaloTopology/test/HGCalTBTopologyTester.cc", 
+            "Geometry/CaloTopology/test/testHGCalTBTopology_cfg.py", 
+            "Geometry/HGCalTBCommonData/src/HGCalTBGeomParameters.cc", 
+            "Geometry/HGCalTBCommonData/src/HGCalTBParametersFromDD.cc"
+        ], 
+        "created_at": 1675063040, 
+        "number": 40639, 
+        "state": "open", 
+        "updated_at": 1675063070
     }
 }
