@@ -1799,6 +1799,18 @@
     "40619": {
         "base_branch": "master", 
         "changed_files_names": [
+            "HeterogeneousCore/CUDAServices/bin/BuildFile.xml", 
+            "HeterogeneousCore/CUDAUtilities/bin/BuildFile.xml", 
+            "HeterogeneousCore/CUDAUtilities/bin/cudaComputeCapabilities.cpp", 
+            "HeterogeneousCore/CUDAServices/bin/cudaComputeCapabilities.cpp", 
+            "HeterogeneousCore/CUDAUtilities/bin/cudaComputeCapabilities_fallback.cpp", 
+            "HeterogeneousCore/CUDAUtilities/bin/cudaIsEnabled.cpp", 
+            "HeterogeneousCore/CUDAServices/bin/cudaIsEnabled.cpp", 
+            "HeterogeneousCore/CUDAUtilities/bin/cudaIsEnabled_fallback.cpp", 
+            "HeterogeneousCore/CUDAUtilities/bin/isCudaDeviceSupported.cu", 
+            "HeterogeneousCore/CUDAServices/bin/isCudaDeviceSupported.cu", 
+            "HeterogeneousCore/CUDAUtilities/bin/isCudaDeviceSupported.h", 
+            "HeterogeneousCore/CUDAServices/bin/isCudaDeviceSupported.h", 
             "HeterogeneousCore/CUDAUtilities/test/BuildFile.xml", 
             "HeterogeneousCore/CUDAUtilities/test/testCudaCheck.cpp", 
             "HeterogeneousCore/CUDAUtilities/test/testRequireCUDADevices.cpp", 
@@ -1820,7 +1832,7 @@
         "created_at": 1674738309, 
         "number": 40619, 
         "state": "open", 
-        "updated_at": 1675092053
+        "updated_at": 1675092443
     }, 
     "40622": {
         "base_branch": "master", 
