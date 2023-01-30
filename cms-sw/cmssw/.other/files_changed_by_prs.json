@@ -1971,5 +1971,20 @@
         "number": 40639, 
         "state": "open", 
         "updated_at": 1675075103
+    }, 
+    "40640": {
+        "base_branch": "CMSSW_12_6_X", 
+        "changed_files_names": [
+            "CondFormats/Common/data/BeamSpotObjectsRcdByLumi_prep.json", 
+            "CondFormats/Common/data/BeamSpotObjectsRcdByRun_prep.json", 
+            "CondFormats/Common/data/CTPPSRPAlignmentCorrectionsDataRcd_prep.json", 
+            "CondFormats/Common/data/PPSTimingCalibrationRcd_Sampic_prep.json", 
+            "CondFormats/Common/data/PPSTimingCalibrationRcd_prep.json", 
+            "CondFormats/Common/data/SiStripBadStripRcd_prep.json"
+        ], 
+        "created_at": 1675109738, 
+        "number": 40640, 
+        "state": "open", 
+        "updated_at": 1675109769
     }
 }
