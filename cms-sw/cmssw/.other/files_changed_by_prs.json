@@ -2811,5 +2811,22 @@
         "number": 40637, 
         "state": "open", 
         "updated_at": 1675027668
+    }, 
+    "40638": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/hgcalConsData/v17Shift/hgcalConsData.xml", 
+            "Geometry/HGCalCommonData/data/hgcalEE/v17Shift/hgcalEE.xml", 
+            "Geometry/HGCalCommonData/data/hgcalHEmix/v17Shift/hgcalHEmix.xml", 
+            "Geometry/HGCalCommonData/python/testHGCalV17ShiftReco_cff.py", 
+            "Validation/HGCalValidation/scripts/testHGCalDigi_cfg.py", 
+            "Validation/HGCalValidation/scripts/testHGCalReco_cfg.py", 
+            "Validation/HGCalValidation/scripts/testHGCalSimSingleMuonPt100_cfg.py", 
+            "Validation/HGCalValidation/scripts/testHGCalSimTTBar_cfg.py"
+        ], 
+        "created_at": 1675051684, 
+        "number": 40638, 
+        "state": "open", 
+        "updated_at": 1675051710
     }
 }
