@@ -2058,5 +2058,32 @@
         "number": 40645, 
         "state": "open", 
         "updated_at": 1675156288
+    }, 
+    "40646": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareVertexSoA.cc", 
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorVertexSoA.cc", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelDigisClustersFromSoA.cc", 
+            "RecoLocalTracker/SiPixelClusterizer/python/siPixelClustersPreSplitting_cff.py", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/PixelCPEFastESProducer.cc", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitCUDA.cc", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitFromCUDA.cc", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitSoAFromCUDA.cc", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitSoAFromLegacy.cc", 
+            "RecoLocalTracker/SiPixelRecHits/python/PixelCPEESProducers_cff.py", 
+            "RecoLocalTracker/SiPixelRecHits/python/SiPixelRecHits_cfi.py", 
+            "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackDumpCUDA.cc", 
+            "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackProducerFromSoA.cc", 
+            "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackSoAFromCUDA.cc", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAHitNtupletCUDA.cc", 
+            "RecoPixelVertexing/PixelVertexFinding/plugins/PixelVertexProducerCUDA.cc", 
+            "RecoTracker/TkSeedGenerator/plugins/SeedProducerFromSoA.cc", 
+            "RecoTracker/TransientTrackingRecHit/python/TTRHBuilders_cff.py"
+        ], 
+        "created_at": 1675175882, 
+        "number": 40646, 
+        "state": "open", 
+        "updated_at": 1675175909
     }
 }
