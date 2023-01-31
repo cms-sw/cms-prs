@@ -1927,12 +1927,10 @@
             "HeterogeneousCore/CUDAUtilities/test/testRequireCUDADevices.cpp", 
             "HeterogeneousCore/ROCmServices/BuildFile.xml", 
             "HeterogeneousCore/ROCmServices/interface/ROCmService.h", 
-            "HeterogeneousCore/ROCmServices/interface/numberOfDevices.h", 
             "HeterogeneousCore/ROCmServices/plugins/BuildFile.xml", 
             "HeterogeneousCore/ROCmServices/plugins/ROCmMonitoringService.cc", 
             "HeterogeneousCore/ROCmServices/plugins/plugins.cc", 
             "HeterogeneousCore/ROCmServices/src/ROCmService.cc", 
-            "HeterogeneousCore/ROCmServices/src/numberOfDevices.cc", 
             "HeterogeneousCore/ROCmServices/test/BuildFile.xml", 
             "HeterogeneousCore/ROCmServices/test/testROCmService.cpp", 
             "HeterogeneousCore/ROCmServices/test/testROCmService.py", 
@@ -1995,7 +1993,7 @@
         "created_at": 1675027635, 
         "number": 40637, 
         "state": "open", 
-        "updated_at": 1675192921
+        "updated_at": 1675197552
     }, 
     "40639": {
         "base_branch": "master", 
