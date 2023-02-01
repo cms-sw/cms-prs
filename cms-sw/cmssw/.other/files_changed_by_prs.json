@@ -1859,8 +1859,12 @@
             "Configuration/Geometry/README.md", 
             "Configuration/Geometry/python/GeometryDD4hepExtended2026D98Reco_cff.py", 
             "Configuration/Geometry/python/GeometryDD4hepExtended2026D98_cff.py", 
+            "Configuration/Geometry/python/GeometryDD4hepExtended2026D99Reco_cff.py", 
+            "Configuration/Geometry/python/GeometryDD4hepExtended2026D99_cff.py", 
             "Configuration/Geometry/python/GeometryExtended2026D98Reco_cff.py", 
             "Configuration/Geometry/python/GeometryExtended2026D98_cff.py", 
+            "Configuration/Geometry/python/GeometryExtended2026D99Reco_cff.py", 
+            "Configuration/Geometry/python/GeometryExtended2026D99_cff.py", 
             "Configuration/Geometry/python/dict2026Geometry.py", 
             "Configuration/PyReleaseValidation/python/relval_2026.py", 
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
@@ -1874,7 +1878,7 @@
         "created_at": 1675176520, 
         "number": 40647, 
         "state": "open", 
-        "updated_at": 1675282538
+        "updated_at": 1675284823
     }, 
     "40648": {
         "base_branch": "master", 
