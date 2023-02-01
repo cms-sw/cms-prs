@@ -2289,43 +2289,5 @@
         "number": 40655, 
         "state": "open", 
         "updated_at": 1675201830
-    }, 
-    "40656": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DPGAnalysis/HcalTools/README", 
-            "DPGAnalysis/HcalTools/macros/cmt/RemoteMonitoringGLOBAL.cc", 
-            "DPGAnalysis/HcalTools/macros/cmt/RemoteMonitoringMAP_Global.cc", 
-            "DPGAnalysis/HcalTools/macros/cmt/zadcampltest.cc", 
-            "DPGAnalysis/HcalTools/macros/cmt/zamplpedcorr.cc", 
-            "DPGAnalysis/HcalTools/macros/cmt/zcorrtsnvsampltest.cc", 
-            "DPGAnalysis/HcalTools/macros/cmt/zlumiadcampltest.cc", 
-            "DPGAnalysis/HcalTools/macros/cmt/ztsmean.cc", 
-            "DPGAnalysis/HcalTools/macros/rmt/RemoteMonitoringMAP.cc", 
-            "DPGAnalysis/HcalTools/plugins/CMTRawAnalyzer.cc", 
-            "DPGAnalysis/HcalTools/python/remoteMonitoring_LASER_era2021_cfg.py", 
-            "DPGAnalysis/HcalTools/python/remoteMonitoring_MIXED_LASER_era2021_cfg.py", 
-            "DPGAnalysis/HcalTools/python/remoteMonitoring_MIXED_LED_era2021_cfg.py", 
-            "DPGAnalysis/HcalTools/python/remoteMonitoring_MIXED_PEDESTAL_era2021_cfg.py", 
-            "DPGAnalysis/HcalTools/python/remoteMonitoring_PEDESTAL_era2021_cfg.py", 
-            "DPGAnalysis/HcalTools/scripts/cmt/a.py.end", 
-            "DPGAnalysis/HcalTools/scripts/cmt/condor.jdl", 
-            "DPGAnalysis/HcalTools/scripts/cmt/file_lists.csh", 
-            "DPGAnalysis/HcalTools/scripts/cmt/index_zhokin.sh", 
-            "DPGAnalysis/HcalTools/scripts/cmt/index_zhokinHcalNZS.sh", 
-            "DPGAnalysis/HcalTools/scripts/cmt/index_zhokinZeroBias.sh", 
-            "DPGAnalysis/HcalTools/scripts/cmt/mkcfg_new120.csh", 
-            "DPGAnalysis/HcalTools/scripts/cmt/run_condor.csh", 
-            "DPGAnalysis/HcalTools/scripts/rmt/HcalRemoteMonitoringNewNewCombine.csh", 
-            "DPGAnalysis/HcalTools/scripts/rmt/batch_condor_combine.csh", 
-            "DPGAnalysis/HcalTools/scripts/rmt/mysort.py", 
-            "DPGAnalysis/HcalTools/scripts/rmt/mysortled.py", 
-            "DPGAnalysis/HcalTools/scripts/rmt/parce_newsql_aleko.csh", 
-            "DPGAnalysis/HcalTools/scripts/rmt/update_rdmpage_new.csh"
-        ], 
-        "created_at": 1675214201, 
-        "number": 40656, 
-        "state": "open", 
-        "updated_at": 1675214228
     }
 }
