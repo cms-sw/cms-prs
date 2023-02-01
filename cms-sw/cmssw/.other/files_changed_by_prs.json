@@ -1879,13 +1879,15 @@
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
             "Configuration/StandardSequences/python/GeometryConf.py", 
             "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D98.xml", 
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D99.xml", 
             "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D98XML_cfi.py", 
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D99XML_cfi.py", 
             "SimTracker/TrackerMaterialAnalysis/data/trackingMaterialGroups_ForPhaseII/v2/trackingMaterialGroups_ForPhaseII.xml"
         ], 
         "created_at": 1675176520, 
         "number": 40647, 
         "state": "open", 
-        "updated_at": 1675250512
+        "updated_at": 1675282538
     }, 
     "40648": {
         "base_branch": "master", 
