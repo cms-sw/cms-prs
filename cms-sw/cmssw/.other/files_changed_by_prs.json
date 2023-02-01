@@ -2135,5 +2135,17 @@
         "number": 40661, 
         "state": "open", 
         "updated_at": 1675251601
+    }, 
+    "40662": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/StandardSequences/python/VtxSmeared.py", 
+            "IOMC/EventVertexGenerators/python/VtxSmearedParameters_cfi.py", 
+            "IOMC/EventVertexGenerators/python/VtxSmearedRealistic25ns13p6TeVEOY2022Collision_cfi.py"
+        ], 
+        "created_at": 1675263172, 
+        "number": 40662, 
+        "state": "open", 
+        "updated_at": 1675263192
     }
 }
