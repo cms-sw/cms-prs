@@ -1581,6 +1581,7 @@
     "40551": {
         "base_branch": "master", 
         "changed_files_names": [
+            "PhysicsTools/TensorFlow/BuildFile.xml", 
             "PhysicsTools/TensorFlow/interface/TensorFlow.h", 
             "PhysicsTools/TensorFlow/plugins/TfGraphDefProducer.cc", 
             "PhysicsTools/TensorFlow/src/TensorFlow.cc", 
@@ -1589,16 +1590,22 @@
             "PhysicsTools/TensorFlow/test/creategraph.py", 
             "PhysicsTools/TensorFlow/test/testBase.h", 
             "PhysicsTools/TensorFlow/test/testConstSession.cc", 
+            "PhysicsTools/TensorFlow/test/testConstSessionCUDA.cc", 
             "PhysicsTools/TensorFlow/test/testGraphLoading.cc", 
+            "PhysicsTools/TensorFlow/test/testGraphLoadingCUDA.cc", 
             "PhysicsTools/TensorFlow/test/testHelloWorld.cc", 
+            "PhysicsTools/TensorFlow/test/testHelloWorldCUDA.cc", 
             "PhysicsTools/TensorFlow/test/testMetaGraphLoading.cc", 
+            "PhysicsTools/TensorFlow/test/testMetaGraphLoadingCUDA.cc", 
             "PhysicsTools/TensorFlow/test/testSessionCache.cc", 
-            "PhysicsTools/TensorFlow/test/testThreadPools.cc"
+            "PhysicsTools/TensorFlow/test/testSessionCacheCUDA.cc", 
+            "PhysicsTools/TensorFlow/test/testThreadPools.cc", 
+            "PhysicsTools/TensorFlow/test/testThreadPoolsCUDA.cc"
         ], 
         "created_at": 1673974214, 
         "number": 40551, 
         "state": "open", 
-        "updated_at": 1675182677
+        "updated_at": 1675327540
     }, 
     "40563": {
         "base_branch": "master", 
