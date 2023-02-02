@@ -2172,5 +2172,37 @@
         "number": 40673, 
         "state": "open", 
         "updated_at": 1675346601
+    }, 
+    "40674": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Fireworks/Core/interface/Context.h", 
+            "Fireworks/Core/interface/FW3DViewBase.h", 
+            "Fireworks/Core/interface/FW3DViewGeometry.h", 
+            "Fireworks/Core/interface/FWColorManager.h", 
+            "Fireworks/Core/interface/FWGeometry.h", 
+            "Fireworks/Core/interface/FWRPZView.h", 
+            "Fireworks/Core/interface/FWRPZViewGeometry.h", 
+            "Fireworks/Core/src/Context.cc", 
+            "Fireworks/Core/src/FW3DViewBase.cc", 
+            "Fireworks/Core/src/FW3DViewGeometry.cc", 
+            "Fireworks/Core/src/FWColorManager.cc", 
+            "Fireworks/Core/src/FWItemValueGetter.cc", 
+            "Fireworks/Core/src/FWRPZView.cc", 
+            "Fireworks/Core/src/FWRPZViewGeometry.cc", 
+            "Fireworks/Geometry/BuildFile.xml", 
+            "Fireworks/Geometry/interface/FWRecoGeometryESProducer.h", 
+            "Fireworks/Geometry/interface/FWRecoGeometryRecord.h", 
+            "Fireworks/Geometry/src/FWRecoGeometryESProducer.cc", 
+            "Fireworks/MTD/plugins/BuildFile.xml", 
+            "Fireworks/MTD/plugins/FWBtlClusterProxyBuilder.cc", 
+            "Fireworks/MTD/plugins/FWBtlRecHitsProxyBuilder.cc", 
+            "Fireworks/MTD/plugins/FWEtlClusterProxyBuilder.cc", 
+            "Fireworks/MTD/plugins/FWEtlRecHitsProxyBuilder.cc"
+        ], 
+        "created_at": 1675350641, 
+        "number": 40674, 
+        "state": "open", 
+        "updated_at": 1675350668
     }
 }
