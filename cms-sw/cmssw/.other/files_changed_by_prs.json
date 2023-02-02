@@ -2211,5 +2211,42 @@
         "number": 40677, 
         "state": "open", 
         "updated_at": 1675356504
+    }, 
+    "40678": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/Portable/interface/PortableCollection.h", 
+            "DataFormats/Portable/interface/PortableDeviceCollection.h", 
+            "DataFormats/Portable/interface/PortableHostCollection.h", 
+            "DataFormats/Portable/interface/Product.h", 
+            "DataFormats/Portable/interface/ProductBase.h", 
+            "DataFormats/SoATemplate/interface/SoACommon.h", 
+            "DataFormats/SoATemplate/test/BuildFile.xml", 
+            "DataFormats/SoATemplate/test/SoALayoutAndView_t.hip.cc", 
+            "DataFormats/SoATemplate/test/classes.h", 
+            "HeterogeneousCore/AlpakaCore/interface/ContextState.h", 
+            "HeterogeneousCore/AlpakaCore/interface/ScopedContext.h", 
+            "HeterogeneousCore/AlpakaCore/interface/chooseDevice.h", 
+            "HeterogeneousCore/AlpakaCore/src/alpaka/EDMetadata.cc", 
+            "HeterogeneousCore/AlpakaInterface/interface/AllocatorPolicy.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/CachedBufAlloc.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/CachingAllocator.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/ScopedContextFwd.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/devices.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/getDeviceCachingAllocator.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/getHostCachingAllocator.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/memory.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/traits.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/vec.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/workdivision.h", 
+            "HeterogeneousCore/AlpakaInterface/test/alpaka/testKernel.dev.cc", 
+            "HeterogeneousCore/AlpakaInterface/test/alpaka/testVec.cc", 
+            "HeterogeneousCore/AlpakaServices/src/alpaka/AlpakaService.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlgo.dev.cc"
+        ], 
+        "created_at": 1675357351, 
+        "number": 40678, 
+        "state": "open", 
+        "updated_at": 1675357377
     }
 }
