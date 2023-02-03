@@ -2249,5 +2249,20 @@
         "number": 40682, 
         "state": "open", 
         "updated_at": 1675415414
+    }, 
+    "40683": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoPPS/Local/interface/RPixDetPatternFinder.h", 
+            "RecoPPS/Local/interface/RPixRoadFinder.h", 
+            "RecoPPS/Local/plugins/CTPPSPixelLocalTrackProducer.cc", 
+            "RecoPPS/Local/src/RPixDetClusterizer.cc", 
+            "RecoPPS/Local/src/RPixPlaneCombinatoryTracking.cc", 
+            "RecoPPS/Local/src/RPixRoadFinder.cc"
+        ], 
+        "created_at": 1675421523, 
+        "number": 40683, 
+        "state": "open", 
+        "updated_at": 1675421543
     }
 }
