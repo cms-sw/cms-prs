@@ -1439,6 +1439,8 @@
         "base_branch": "master", 
         "changed_files_names": [
             "CommonTools/RecoAlgos/plugins/JetDeltaRValueMapProducer.cc", 
+            "Configuration/PyReleaseValidation/python/relval_standard.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
             "PhysicsTools/NanoAOD/plugins/NanoAODOutputModule.cc", 
             "PhysicsTools/NanoAOD/plugins/Run3ScoutingParticleToRecoPFCandidateProducer.cc", 
             "PhysicsTools/NanoAOD/plugins/SimpleFlatTableProducerPlugins.cc", 
@@ -1451,7 +1453,7 @@
         "created_at": 1673010982, 
         "number": 40438, 
         "state": "open", 
-        "updated_at": 1674151884
+        "updated_at": 1675407101
     }, 
     "40460": {
         "base_branch": "master", 
