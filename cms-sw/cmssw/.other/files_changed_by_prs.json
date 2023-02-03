@@ -1257,6 +1257,7 @@
             "DataFormats/PortableTestObjects/interface/TestSoA.h", 
             "DataFormats/PortableTestObjects/interface/alpaka/TestDeviceCollection.h", 
             "DataFormats/PortableTestObjects/src/alpaka/classes_cuda_def.xml", 
+            "DataFormats/PortableTestObjects/src/alpaka/classes_serial.h", 
             "DataFormats/PortableTestObjects/src/alpaka/classes_serial_def.xml", 
             "DataFormats/PortableTestObjects/src/classes_def.xml", 
             "HeterogeneousCore/AlpakaTest/plugins/TestAlpakaAnalyzer.cc", 
@@ -1269,7 +1270,7 @@
         "created_at": 1670834202, 
         "number": 40285, 
         "state": "open", 
-        "updated_at": 1674736264
+        "updated_at": 1675432712
     }, 
     "40331": {
         "base_branch": "CMSSW_12_4_X", 
