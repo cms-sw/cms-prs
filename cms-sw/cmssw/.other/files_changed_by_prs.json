@@ -623,7 +623,7 @@
         "created_at": 1605645236, 
         "number": 32167, 
         "state": "open", 
-        "updated_at": 1674563841
+        "updated_at": 1675330455
     }, 
     "32632": {
         "base_branch": "master", 
@@ -1066,7 +1066,7 @@
         "created_at": 1663241951, 
         "number": 39402, 
         "state": "open", 
-        "updated_at": 1670436354
+        "updated_at": 1675260439
     }, 
     "39554": {
         "base_branch": "master", 
@@ -1380,7 +1380,7 @@
         "created_at": 1671701354, 
         "number": 40396, 
         "state": "open", 
-        "updated_at": 1673624024
+        "updated_at": 1675161638
     }, 
     "40403": {
         "base_branch": "master", 
@@ -1421,7 +1421,7 @@
         "created_at": 1671743773, 
         "number": 40403, 
         "state": "open", 
-        "updated_at": 1674252636
+        "updated_at": 1675411025
     }, 
     "40415": {
         "base_branch": "CMSSW_10_6_X", 
@@ -1453,7 +1453,7 @@
         "created_at": 1673010982, 
         "number": 40438, 
         "state": "open", 
-        "updated_at": 1675407101
+        "updated_at": 1675410605
     }, 
     "40460": {
         "base_branch": "master", 
@@ -1466,7 +1466,7 @@
         "created_at": 1673282603, 
         "number": 40460, 
         "state": "open", 
-        "updated_at": 1674746397
+        "updated_at": 1675245736
     }, 
     "40489": {
         "base_branch": "master", 
@@ -1511,7 +1511,7 @@
         "created_at": 1673479585, 
         "number": 40492, 
         "state": "open", 
-        "updated_at": 1674563102
+        "updated_at": 1675269872
     }, 
     "40505": {
         "base_branch": "master", 
@@ -1556,7 +1556,7 @@
         "created_at": 1673622355, 
         "number": 40516, 
         "state": "open", 
-        "updated_at": 1675092471
+        "updated_at": 1675162566
     }, 
     "40547": {
         "base_branch": "master", 
@@ -1591,6 +1591,7 @@
             "PhysicsTools/TensorFlow/test/createconstantgraph.py", 
             "PhysicsTools/TensorFlow/test/creategraph.py", 
             "PhysicsTools/TensorFlow/test/testBase.h", 
+            "PhysicsTools/TensorFlow/test/testBaseCUDA.h", 
             "PhysicsTools/TensorFlow/test/testConstSession.cc", 
             "PhysicsTools/TensorFlow/test/testConstSessionCUDA.cc", 
             "PhysicsTools/TensorFlow/test/testGraphLoading.cc", 
@@ -1607,7 +1608,7 @@
         "created_at": 1673974214, 
         "number": 40551, 
         "state": "open", 
-        "updated_at": 1675327540
+        "updated_at": 1675415892
     }, 
     "40563": {
         "base_branch": "master", 
@@ -1642,7 +1643,7 @@
         "created_at": 1674204884, 
         "number": 40575, 
         "state": "open", 
-        "updated_at": 1674512585
+        "updated_at": 1675409887
     }, 
     "40596": {
         "base_branch": "master", 
@@ -1654,7 +1655,7 @@
         "created_at": 1674487508, 
         "number": 40596, 
         "state": "open", 
-        "updated_at": 1674497953
+        "updated_at": 1675261137
     }, 
     "40610": {
         "base_branch": "master", 
@@ -1691,7 +1692,7 @@
         "created_at": 1674649572, 
         "number": 40611, 
         "state": "open", 
-        "updated_at": 1675150122
+        "updated_at": 1675150612
     }, 
     "40618": {
         "base_branch": "master", 
@@ -1722,7 +1723,7 @@
         "created_at": 1674741297, 
         "number": 40622, 
         "state": "open", 
-        "updated_at": 1675083721
+        "updated_at": 1675410125
     }, 
     "40634": {
         "base_branch": "master", 
@@ -1738,7 +1739,7 @@
         "created_at": 1674913907, 
         "number": 40634, 
         "state": "open", 
-        "updated_at": 1675098424
+        "updated_at": 1675186835
     }, 
     "40643": {
         "base_branch": "master", 
@@ -1777,7 +1778,7 @@
         "created_at": 1675120701, 
         "number": 40643, 
         "state": "open", 
-        "updated_at": 1675207545
+        "updated_at": 1675387173
     }, 
     "40644": {
         "base_branch": "master", 
@@ -1805,7 +1806,7 @@
         "created_at": 1675137407, 
         "number": 40644, 
         "state": "open", 
-        "updated_at": 1675137432
+        "updated_at": 1675139256
     }, 
     "40645": {
         "base_branch": "master", 
@@ -1816,7 +1817,7 @@
         "created_at": 1675156263, 
         "number": 40645, 
         "state": "open", 
-        "updated_at": 1675156288
+        "updated_at": 1675250506
     }, 
     "40647": {
         "base_branch": "master", 
@@ -1843,7 +1844,7 @@
         "created_at": 1675176520, 
         "number": 40647, 
         "state": "open", 
-        "updated_at": 1675284823
+        "updated_at": 1675351538
     }, 
     "40653": {
         "base_branch": "master", 
@@ -1853,7 +1854,7 @@
         "created_at": 1675193730, 
         "number": 40653, 
         "state": "open", 
-        "updated_at": 1675193753
+        "updated_at": 1675256639
     }, 
     "40656": {
         "base_branch": "master", 
@@ -1891,7 +1892,7 @@
         "created_at": 1675214201, 
         "number": 40656, 
         "state": "open", 
-        "updated_at": 1675225505
+        "updated_at": 1675415597
     }, 
     "40660": {
         "base_branch": "master", 
@@ -1902,7 +1903,7 @@
         "created_at": 1675238949, 
         "number": 40660, 
         "state": "open", 
-        "updated_at": 1675238975
+        "updated_at": 1675321734
     }, 
     "40661": {
         "base_branch": "master", 
@@ -1914,7 +1915,7 @@
         "created_at": 1675251566, 
         "number": 40661, 
         "state": "open", 
-        "updated_at": 1675251601
+        "updated_at": 1675413060
     }, 
     "40663": {
         "base_branch": "master", 
@@ -1927,7 +1928,7 @@
         "created_at": 1675264179, 
         "number": 40663, 
         "state": "open", 
-        "updated_at": 1675264199
+        "updated_at": 1675412244
     }, 
     "40664": {
         "base_branch": "master", 
@@ -1959,7 +1960,7 @@
         "created_at": 1675264451, 
         "number": 40664, 
         "state": "open", 
-        "updated_at": 1675348257
+        "updated_at": 1675412302
     }, 
     "40665": {
         "base_branch": "master", 
@@ -1973,7 +1974,7 @@
         "created_at": 1675266277, 
         "number": 40665, 
         "state": "open", 
-        "updated_at": 1675266296
+        "updated_at": 1675406965
     }, 
     "40666": {
         "base_branch": "master", 
@@ -1985,7 +1986,7 @@
         "created_at": 1675271311, 
         "number": 40666, 
         "state": "open", 
-        "updated_at": 1675271340
+        "updated_at": 1675273328
     }, 
     "40667": {
         "base_branch": "master", 
@@ -1999,7 +2000,7 @@
         "created_at": 1675322922, 
         "number": 40667, 
         "state": "open", 
-        "updated_at": 1675322947
+        "updated_at": 1675409975
     }, 
     "40669": {
         "base_branch": "CMSSW_12_6_X", 
@@ -2013,7 +2014,7 @@
         "created_at": 1675328609, 
         "number": 40669, 
         "state": "open", 
-        "updated_at": 1675328636
+        "updated_at": 1675415684
     }, 
     "40670": {
         "base_branch": "master", 
@@ -2074,7 +2075,7 @@
         "created_at": 1675332265, 
         "number": 40670, 
         "state": "open", 
-        "updated_at": 1675332298
+        "updated_at": 1675344667
     }, 
     "40671": {
         "base_branch": "CMSSW_10_6_X", 
@@ -2101,7 +2102,7 @@
         "created_at": 1675346574, 
         "number": 40673, 
         "state": "open", 
-        "updated_at": 1675346601
+        "updated_at": 1675354209
     }, 
     "40674": {
         "base_branch": "master", 
@@ -2133,7 +2134,7 @@
         "created_at": 1675350641, 
         "number": 40674, 
         "state": "open", 
-        "updated_at": 1675350668
+        "updated_at": 1675411509
     }, 
     "40675": {
         "base_branch": "master", 
@@ -2144,7 +2145,7 @@
         "created_at": 1675352769, 
         "number": 40675, 
         "state": "open", 
-        "updated_at": 1675352797
+        "updated_at": 1675353385
     }, 
     "40678": {
         "base_branch": "master", 
@@ -2181,7 +2182,7 @@
         "created_at": 1675357351, 
         "number": 40678, 
         "state": "open", 
-        "updated_at": 1675357377
+        "updated_at": 1675400085
     }, 
     "40679": {
         "base_branch": "master", 
@@ -2195,7 +2196,7 @@
         "created_at": 1675357419, 
         "number": 40679, 
         "state": "open", 
-        "updated_at": 1675357441
+        "updated_at": 1675399962
     }, 
     "40681": {
         "base_branch": "master", 
@@ -2236,7 +2237,7 @@
         "created_at": 1675401708, 
         "number": 40681, 
         "state": "open", 
-        "updated_at": 1675401738
+        "updated_at": 1675402882
     }, 
     "40682": {
         "base_branch": "master", 
