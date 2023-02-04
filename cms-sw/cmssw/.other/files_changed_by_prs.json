@@ -2200,5 +2200,18 @@
         "number": 40691, 
         "state": "open", 
         "updated_at": 1675453155
+    }, 
+    "40692": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/AlCa/python/autoCond.py", 
+            "Configuration/AlCa/python/autoCondModifiers.py", 
+            "Configuration/HLT/python/autoCondHLT.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py"
+        ], 
+        "created_at": 1675472485, 
+        "number": 40692, 
+        "state": "open", 
+        "updated_at": 1675472592
     }
 }
