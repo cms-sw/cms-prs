@@ -2197,5 +2197,22 @@
         "number": 40692, 
         "state": "open", 
         "updated_at": 1675472592
+    }, 
+    "40694": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/Eras/python/Era_Phase2C20I13M9_cff.py", 
+            "Configuration/Eras/python/Era_Phase2C18I13M9_cff.py", 
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
+            "Configuration/StandardSequences/python/Eras.py", 
+            "Validation/HGCalValidation/test/python/runHFNoseDigiStudy_cfg.py", 
+            "Validation/HGCalValidation/test/python/runHFNoseRecHitStudy_cfg.py", 
+            "Validation/HGCalValidation/test/python/runHFNoseSimHitStudy_cfg.py", 
+            "Validation/HGCalValidation/test/python/testHFNoseSimHitStudy_cfg.py"
+        ], 
+        "created_at": 1675509071, 
+        "number": 40694, 
+        "state": "open", 
+        "updated_at": 1675509098
     }
 }
