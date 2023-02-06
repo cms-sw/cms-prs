@@ -1551,12 +1551,14 @@
             "PhysicsTools/TensorFlow/test/testSessionCacheCUDA.cc", 
             "PhysicsTools/TensorFlow/test/testThreadPools.cc", 
             "PhysicsTools/TensorFlow/test/testThreadPoolsCUDA.cc", 
+            "PhysicsTools/TensorFlow/test/testVisibleDevices.cc", 
+            "PhysicsTools/TensorFlow/test/testVisibleDevicesCUDA.cc", 
             "RecoTauTag/RecoTau/src/DeepTauBase.cc"
         ], 
         "created_at": 1673974214, 
         "number": 40551, 
         "state": "open", 
-        "updated_at": 1675438210
+        "updated_at": 1675698052
     }, 
     "40563": {
         "base_branch": "master", 
