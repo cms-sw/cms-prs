@@ -2229,5 +2229,28 @@
         "number": 40707, 
         "state": "open", 
         "updated_at": 1675698392
+    }, 
+    "40708": {
+        "base_branch": "CMSSW_8_0_X", 
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/HLT_25ns15e33_v4_cff.py", 
+            "HLTrigger/Configuration/python/HLT_FULL_cff.py", 
+            "HLTrigger/Configuration/python/HLT_GRun_cff.py", 
+            "HLTrigger/Configuration/python/HLT_HIon_cff.py", 
+            "HLTrigger/Configuration/python/HLT_PIon_cff.py", 
+            "HLTrigger/Configuration/python/HLT_PRef_cff.py", 
+            "HLTrigger/Configuration/python/HLTrigger_EventContent_cff.py", 
+            "HLTrigger/Configuration/python/Tools/confdb.py", 
+            "HLTrigger/Configuration/test/OnLine_HLT_GRun.py", 
+            "HLTrigger/Configuration/test/OnLine_HLT_HIon.py", 
+            "HLTrigger/Configuration/test/OnLine_HLT_PIon.py", 
+            "HLTrigger/Configuration/test/OnLine_HLT_PRef.py", 
+            "HLTrigger/Configuration/test/getEventContent.py", 
+            "HLTrigger/Configuration/test/getHLT.sh"
+        ], 
+        "created_at": 1675700085, 
+        "number": 40708, 
+        "state": "open", 
+        "updated_at": 1675700114
     }
 }
