@@ -2201,5 +2201,21 @@
         "number": 40705, 
         "state": "open", 
         "updated_at": 1675694146
+    }, 
+    "40706": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/BTauReco/interface/ChargedCandidateFeatures.h", 
+            "DataFormats/BTauReco/interface/NeutralCandidateFeatures.h", 
+            "DataFormats/BTauReco/interface/ParticleTransformerAK4Features.h", 
+            "DataFormats/BTauReco/interface/ParticleTransformerAK4TagInfo.h", 
+            "DataFormats/BTauReco/interface/SecondaryVertexFeatures.h", 
+            "DataFormats/BTauReco/src/classes.h", 
+            "DataFormats/BTauReco/src/classes_def.xml"
+        ], 
+        "created_at": 1675697812, 
+        "number": 40706, 
+        "state": "open", 
+        "updated_at": 1675697834
     }
 }
