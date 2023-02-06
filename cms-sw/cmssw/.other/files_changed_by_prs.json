@@ -2226,6 +2226,7 @@
     "40703": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Geometry/HcalSimData/python/HFParameters_cff.py", 
             "SimG4CMS/Calo/src/HFFibre.cc", 
             "SimG4CMS/Calo/src/HFShowerLibrary.cc", 
             "SimG4CMS/ShowerLibraryProducer/interface/HcalForwardLibWriter.h", 
@@ -2234,6 +2235,6 @@
         "created_at": 1675673413, 
         "number": 40703, 
         "state": "open", 
-        "updated_at": 1675673440
+        "updated_at": 1675683517
     }
 }
