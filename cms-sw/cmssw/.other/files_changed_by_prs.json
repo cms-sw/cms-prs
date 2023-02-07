@@ -2183,5 +2183,23 @@
         "number": 40712, 
         "state": "open", 
         "updated_at": 1675757163
+    }, 
+    "40713": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalGeometry/interface/HGCalTBGeometry.h", 
+            "Geometry/HGCalGeometry/interface/HGCalTBGeometryLoader.h", 
+            "Geometry/HGCalGeometry/plugins/HGCalTBGeometryESProducer.cc", 
+            "Geometry/HGCalGeometry/python/HGCalTBGeometryESProducer_cfi.py", 
+            "Geometry/HGCalGeometry/src/HGCalGeometry.cc", 
+            "Geometry/HGCalGeometry/src/HGCalTBGeometry.cc", 
+            "Geometry/HGCalGeometry/src/HGCalTBGeometryLoader.cc", 
+            "Geometry/HGCalGeometry/test/HGCalTBGeometryDump.cc", 
+            "Geometry/HGCalGeometry/test/python/testHGCalTBCellDump_cfg.py"
+        ], 
+        "created_at": 1675757262, 
+        "number": 40713, 
+        "state": "open", 
+        "updated_at": 1675757287
     }
 }
