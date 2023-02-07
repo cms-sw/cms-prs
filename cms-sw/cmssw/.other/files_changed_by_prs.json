@@ -1715,13 +1715,14 @@
         "base_branch": "master", 
         "changed_files_names": [
             "Configuration/Skimming/interface/DisappearingMuonsSkimming.h", 
-            "Configuration/Skimming/python/DisappearingMuonsSkim_cfi.py", 
+            "Configuration/Skimming/python/PDWG_EXODisappMuon_cff.py", 
+            "Configuration/Skimming/python/Skims_PDWG_cff.py", 
             "Configuration/Skimming/src/DisappearingMuonsSkimming.cc"
         ], 
         "created_at": 1675271311, 
         "number": 40666, 
         "state": "open", 
-        "updated_at": 1675273328
+        "updated_at": 1675789525
     }, 
     "40667": {
         "base_branch": "master", 
