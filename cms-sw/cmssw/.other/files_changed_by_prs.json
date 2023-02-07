@@ -1738,6 +1738,7 @@
         "changed_files_names": [
             "PhysicsTools/NanoAOD/python/custom_jme_cff.py", 
             "PhysicsTools/NanoAOD/python/nanojmeDQM_cff.py", 
+            "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py", 
             "RecoJets/JetProducers/interface/QGTagger.h", 
             "RecoJets/JetProducers/plugins/QGTagger.cc", 
             "RecoJets/JetProducers/python/QGTagger_cfi.py"
@@ -1745,7 +1746,7 @@
         "created_at": 1675322922, 
         "number": 40667, 
         "state": "open", 
-        "updated_at": 1675420913
+        "updated_at": 1675784437
     }, 
     "40670": {
         "base_branch": "master", 
