@@ -1562,5 +1562,23 @@
         "number": 40724, 
         "state": "open", 
         "updated_at": 1675857743
+    }, 
+    "40725": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/PortableTestObjects/src/alpaka/classes_rocm.h", 
+            "DataFormats/PortableTestObjects/src/alpaka/classes_rocm_def.xml", 
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/MakerMacros.h", 
+            "HeterogeneousCore/AlpakaCore/interface/MakerMacros.h", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaGlobalProducer.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaGlobalProducerOffset.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaProducer.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamProducer.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamSynchronizingProducer.cc"
+        ], 
+        "created_at": 1675858817, 
+        "number": 40725, 
+        "state": "open", 
+        "updated_at": 1675858842
     }
 }
