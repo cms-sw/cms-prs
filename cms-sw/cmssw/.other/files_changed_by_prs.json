@@ -1510,20 +1510,31 @@
     "40725": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Configuration/StandardSequences/python/Accelerators_cff.py", 
             "DataFormats/PortableTestObjects/src/alpaka/classes_rocm.h", 
             "DataFormats/PortableTestObjects/src/alpaka/classes_rocm_def.xml", 
+            "HeterogeneousCore/AlpakaCore/interface/EventCache.h", 
+            "HeterogeneousCore/AlpakaCore/interface/QueueCache.h", 
             "HeterogeneousCore/AlpakaCore/interface/alpaka/MakerMacros.h", 
             "HeterogeneousCore/AlpakaCore/interface/MakerMacros.h", 
+            "HeterogeneousCore/AlpakaCore/python/ProcessAcceleratorAlpaka.py", 
+            "HeterogeneousCore/AlpakaCore/src/module_backend_config.cc", 
+            "HeterogeneousCore/AlpakaInterface/interface/AlpakaServiceFwd.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/CachingAllocator.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/config.h", 
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaGlobalProducer.cc", 
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaGlobalProducerOffset.cc", 
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaProducer.cc", 
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamProducer.cc", 
-            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamSynchronizingProducer.cc"
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamSynchronizingProducer.cc", 
+            "HeterogeneousCore/AlpakaTest/test/writer.py", 
+            "HeterogeneousCore/ROCmCore/python/ProcessAcceleratorROCm.py", 
+            "HeterogeneousCore/ROCmCore/python/ProcessAcceleratorROCm_cfi.py"
         ], 
         "created_at": 1675858817, 
         "number": 40725, 
         "state": "open", 
-        "updated_at": 1675858842
+        "updated_at": 1675867496
     }, 
     "40726": {
         "base_branch": "master", 
