@@ -1528,13 +1528,14 @@
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamProducer.cc", 
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamSynchronizingProducer.cc", 
             "HeterogeneousCore/AlpakaTest/test/writer.py", 
+            "HeterogeneousCore/CUDACore/python/ProcessAcceleratorCUDA.py", 
             "HeterogeneousCore/ROCmCore/python/ProcessAcceleratorROCm.py", 
             "HeterogeneousCore/ROCmCore/python/ProcessAcceleratorROCm_cfi.py"
         ], 
         "created_at": 1675858817, 
         "number": 40725, 
         "state": "open", 
-        "updated_at": 1675867496
+        "updated_at": 1675874385
     }, 
     "40726": {
         "base_branch": "master", 
