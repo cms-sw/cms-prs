@@ -1464,5 +1464,37 @@
         "number": 40732, 
         "state": "open", 
         "updated_at": 1675920326
+    }, 
+    "40734": {
+        "base_branch": "CMSSW_12_6_X", 
+        "changed_files_names": [
+            "CalibTracker/SiPixelLorentzAngle/interface/SiPixelLorentzAngleCalibrationStruct.h", 
+            "CalibTracker/SiPixelLorentzAngle/python/SiPixelLorentzAnglePCLHarvesterMCS_cfi.py", 
+            "CalibTracker/SiPixelLorentzAngle/src/SiPixelLorentzAnglePCLHarvesterMCS.cc", 
+            "CalibTracker/SiPixelLorentzAngle/src/SiPixelLorentzAnglePCLWorker.cc", 
+            "Calibration/TkAlCaRecoProducers/python/ALCARECOPromptCalibProdSiPixelLorentzAngleMCS_Output_cff.py", 
+            "Calibration/TkAlCaRecoProducers/python/ALCARECOPromptCalibProdSiPixelLorentzAngleMCS_cff.py", 
+            "Calibration/TkAlCaRecoProducers/python/AlcaSiPixelLorentzAngleHarvesterMCS_cff.py", 
+            "Calibration/TkAlCaRecoProducers/python/AlcaSiPixelLorentzAngleHarvesterMCS_cfi.py", 
+            "Calibration/TkAlCaRecoProducers/test/parseFwkJobReport.py", 
+            "Calibration/TkAlCaRecoProducers/test/testPCLAlCaHarvesting.py", 
+            "CondFormats/Common/data/SiPixelLorentzAngleRcd_MCS_multirun_prep.json", 
+            "CondFormats/Common/data/SiPixelLorentzAngleRcd_MCS_multirun_prod.json", 
+            "CondFormats/Common/data/SiPixelLorentzAngleRcd_MCS_prep.json", 
+            "CondFormats/Common/data/SiPixelLorentzAngleRcd_MCS_prod.json", 
+            "CondFormats/Common/test/DropBoxMetadataReader.py", 
+            "CondFormats/Common/test/ProduceDropBoxMetadata.py", 
+            "Configuration/AlCa/python/autoAlca.py", 
+            "Configuration/AlCa/python/autoPCL.py", 
+            "Configuration/EventContent/python/AlCaRecoOutput_cff.py", 
+            "Configuration/PyReleaseValidation/python/relval_production.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
+            "Configuration/StandardSequences/python/AlCaHarvesting_cff.py", 
+            "Configuration/StandardSequences/python/AlCaRecoStreams_cff.py"
+        ], 
+        "created_at": 1675935881, 
+        "number": 40734, 
+        "state": "open", 
+        "updated_at": 1675935913
     }
 }
