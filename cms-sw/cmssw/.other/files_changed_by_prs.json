@@ -1298,23 +1298,6 @@
         "state": "open", 
         "updated_at": 1676027704
     }, 
-    "40724": {
-        "base_branch": "CMSSW_12_6_X", 
-        "changed_files_names": [
-            "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py", 
-            "RecoTauTag/RecoTau/interface/DeepTauScaling.h", 
-            "RecoTauTag/RecoTau/plugins/DeepTauId.cc", 
-            "RecoTauTag/RecoTau/python/PATTauDiscriminationAgainstElectronMVA6Phase2_cff.py", 
-            "RecoTauTag/RecoTau/python/mergedPhase2SlimmedElectronsForTauId_cff.py", 
-            "RecoTauTag/RecoTau/python/tauIdWPsDefs.py", 
-            "RecoTauTag/RecoTau/python/tools/runTauIdMVA.py", 
-            "RecoTauTag/RecoTau/test/runDeepTauIDsOnMiniAOD.py"
-        ], 
-        "created_at": 1675857714, 
-        "number": 40724, 
-        "state": "open", 
-        "updated_at": 1676025191
-    }, 
     "40725": {
         "base_branch": "master", 
         "changed_files_names": [
