@@ -1305,13 +1305,19 @@
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamSynchronizingProducer.cc", 
             "HeterogeneousCore/AlpakaTest/test/writer.py", 
             "HeterogeneousCore/CUDACore/python/ProcessAcceleratorCUDA.py", 
+            "HeterogeneousCore/CUDAUtilities/bin/PlatformStatus.h", 
+            "HeterogeneousCore/CUDAUtilities/bin/cudaIsEnabled.cpp", 
+            "HeterogeneousCore/CUDAUtilities/bin/cudaIsEnabled_fallback.cpp", 
             "HeterogeneousCore/ROCmCore/python/ProcessAcceleratorROCm.py", 
-            "HeterogeneousCore/ROCmCore/python/ProcessAcceleratorROCm_cfi.py"
+            "HeterogeneousCore/ROCmCore/python/ProcessAcceleratorROCm_cfi.py", 
+            "HeterogeneousCore/ROCmUtilities/bin/PlatformStatus.h", 
+            "HeterogeneousCore/ROCmUtilities/bin/rocmIsEnabled.cpp", 
+            "HeterogeneousCore/ROCmUtilities/bin/rocmIsEnabled_fallback.cpp"
         ], 
         "created_at": 1675858817, 
         "number": 40725, 
         "state": "open", 
-        "updated_at": 1676031490
+        "updated_at": 1676230745
     }, 
     "40735": {
         "base_branch": "master", 
