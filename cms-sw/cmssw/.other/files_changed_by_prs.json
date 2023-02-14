@@ -1457,5 +1457,27 @@
         "number": 40763, 
         "state": "open", 
         "updated_at": 1676381076
+    }, 
+    "40765": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibPPS/ESProducers/plugins/PrintTotemDAQMapping.cc", 
+            "CalibPPS/ESProducers/python/totemDAQMappingESSourceXML_cfi.py", 
+            "CalibPPS/ESProducers/test/test_readTotemDAQMapping.py", 
+            "CondCore/CTPPSPlugins/src/plugin.cc", 
+            "CondFormats/PPSObjects/interface/TotemDAQMapping.h", 
+            "CondFormats/PPSObjects/interface/TotemFramePosition.h", 
+            "CondFormats/PPSObjects/interface/TotemSymbId.h", 
+            "CondFormats/PPSObjects/src/classes.h", 
+            "CondFormats/PPSObjects/src/classes_def.xml", 
+            "CondFormats/PPSObjects/src/headers.h", 
+            "CondTools/CTPPS/src/WriteCTPPSTotemDAQMapping.cc", 
+            "CondTools/CTPPS/test/write-ctpps-totem_daqmap_cfg.py", 
+            "EventFilter/CTPPSRawToDigi/python/ctppsRawToDigi_cff.py"
+        ], 
+        "created_at": 1676383734, 
+        "number": 40765, 
+        "state": "open", 
+        "updated_at": 1676383785
     }
 }
