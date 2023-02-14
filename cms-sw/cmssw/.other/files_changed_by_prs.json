@@ -1443,5 +1443,19 @@
         "number": 40762, 
         "state": "open", 
         "updated_at": 1676377762
+    }, 
+    "40763": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibPPS/ESProducers/plugins/PrintTotemDAQMapping.cc", 
+            "CalibPPS/ESProducers/test/test_totemDAQMappingESSourceXML_cfg.py", 
+            "CondFormats/PPSObjects/xml/mapping_timing_diamond_2023.xml", 
+            "EventFilter/CTPPSRawToDigi/python/ctppsDiamondRawToDigi_cfi.py", 
+            "EventFilter/CTPPSRawToDigi/python/ctppsRawToDigi_cff.py"
+        ], 
+        "created_at": 1676381048, 
+        "number": 40763, 
+        "state": "open", 
+        "updated_at": 1676381076
     }
 }
