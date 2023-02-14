@@ -1109,13 +1109,13 @@
     "40671": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
-            "GeneratorInterface/GenFilters/interface/HTXSFilter.h", 
-            "GeneratorInterface/GenFilters/src/HTXSFilter.cc"
+            "GeneratorInterface/GenFilters/plugins/HTXSFilter.cc", 
+            "GeneratorInterface/GenFilters/plugins/HTXSFilter.h"
         ], 
         "created_at": 1675338297, 
         "number": 40671, 
         "state": "open", 
-        "updated_at": 1675948105
+        "updated_at": 1676384475
     }, 
     "40673": {
         "base_branch": "master", 
