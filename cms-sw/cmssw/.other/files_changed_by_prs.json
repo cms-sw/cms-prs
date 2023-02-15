@@ -1479,5 +1479,28 @@
         "number": 40770, 
         "state": "open", 
         "updated_at": 1676405064
+    }, 
+    "40771": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/ParameterSet/python/Config.py", 
+            "HeterogeneousCore/AlpakaCore/interface/EventCache.h", 
+            "HeterogeneousCore/AlpakaCore/interface/QueueCache.h", 
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/MakerMacros.h", 
+            "HeterogeneousCore/AlpakaCore/interface/MakerMacros.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/AlpakaServiceFwd.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/CachingAllocator.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/config.h", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaGlobalProducer.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaGlobalProducerOffset.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaProducer.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamProducer.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamSynchronizingProducer.cc", 
+            "HeterogeneousCore/AlpakaTest/test/writer.py"
+        ], 
+        "created_at": 1676416189, 
+        "number": 40771, 
+        "state": "open", 
+        "updated_at": 1676416212
     }
 }
