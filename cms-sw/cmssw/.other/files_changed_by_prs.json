@@ -1432,5 +1432,17 @@
         "number": 40773, 
         "state": "open", 
         "updated_at": 1676456141
+    }, 
+    "40778": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/Provenance/src/Hash.cc", 
+            "FWCore/Utilities/interface/Digest.h", 
+            "FWCore/Utilities/src/Digest.cc"
+        ], 
+        "created_at": 1676485225, 
+        "number": 40778, 
+        "state": "open", 
+        "updated_at": 1676485252
     }
 }
