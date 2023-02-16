@@ -1528,5 +1528,17 @@
         "number": 40788, 
         "state": "open", 
         "updated_at": 1676552534
+    }, 
+    "40789": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaGlobalProducer.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaGlobalProducerOffset.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamProducer.cc"
+        ], 
+        "created_at": 1676557862, 
+        "number": 40789, 
+        "state": "open", 
+        "updated_at": 1676557886
     }
 }
