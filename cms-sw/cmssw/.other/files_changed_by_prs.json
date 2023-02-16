@@ -1641,5 +1641,17 @@
         "number": 40795, 
         "state": "open", 
         "updated_at": 1676564739
+    }, 
+    "40796": {
+        "base_branch": "CMSSW_13_0_X", 
+        "changed_files_names": [
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaGlobalProducer.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaGlobalProducerOffset.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamProducer.cc"
+        ], 
+        "created_at": 1676567241, 
+        "number": 40796, 
+        "state": "open", 
+        "updated_at": 1676567268
     }
 }
