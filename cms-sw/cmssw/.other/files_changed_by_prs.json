@@ -1517,5 +1517,18 @@
         "number": 40786, 
         "state": "open", 
         "updated_at": 1676546076
+    }, 
+    "40787": {
+        "base_branch": "CMSSW_12_4_X", 
+        "changed_files_names": [
+            "DQMOffline/Trigger/interface/HLTDQMFilterEffHists.h", 
+            "DQMOffline/Trigger/interface/HLTDQMHist.h", 
+            "DQMOffline/Trigger/interface/HLTDQMTagAndProbeEff.h", 
+            "DQMOffline/Trigger/plugins/HLTTagAndProbeOfflineSource.cc"
+        ], 
+        "created_at": 1676546004, 
+        "number": 40787, 
+        "state": "open", 
+        "updated_at": 1676546066
     }
 }
