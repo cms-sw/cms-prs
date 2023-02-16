@@ -1237,12 +1237,15 @@
         "changed_files_names": [
             "RecoBTag/FeatureTools/plugins/ParticleNetFeatureEvaluator.cc", 
             "RecoBTag/ONNXRuntime/python/pfParticleNetFromMiniAODAK4_cff.py", 
-            "RecoBTag/ONNXRuntime/python/pfParticleNetFromMiniAODAK8_cff.py"
+            "RecoBTag/ONNXRuntime/python/pfParticleNetFromMiniAODAK8_cff.py", 
+            "RecoBTag/ONNXRuntime/test/test_particle_from_miniaod_ak4chs_cfg.py", 
+            "RecoBTag/ONNXRuntime/test/test_particle_from_miniaod_ak4puppi_cfg.py", 
+            "RecoBTag/ONNXRuntime/test/test_particle_from_miniaod_ak8_cfg.py"
         ], 
         "created_at": 1676033813, 
         "number": 40745, 
         "state": "open", 
-        "updated_at": 1676034452
+        "updated_at": 1676552837
     }, 
     "40748": {
         "base_branch": "master", 
