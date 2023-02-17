@@ -1754,5 +1754,28 @@
         "number": 40813, 
         "state": "open", 
         "updated_at": 1676651767
+    }, 
+    "40814": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "HeterogeneousCore/SonicTriton/README.md", 
+            "HeterogeneousCore/SonicTriton/batching_diagrams.png", 
+            "HeterogeneousCore/SonicTriton/interface/TritonClient.h", 
+            "HeterogeneousCore/SonicTriton/interface/TritonData.h", 
+            "HeterogeneousCore/SonicTriton/interface/TritonMemResource.h", 
+            "HeterogeneousCore/SonicTriton/scripts/cmsTriton", 
+            "HeterogeneousCore/SonicTriton/src/TritonClient.cc", 
+            "HeterogeneousCore/SonicTriton/src/TritonData.cc", 
+            "HeterogeneousCore/SonicTriton/src/TritonMemResource.cc", 
+            "HeterogeneousCore/SonicTriton/test/README.md", 
+            "HeterogeneousCore/SonicTriton/test/TritonIdentityProducer.cc", 
+            "HeterogeneousCore/SonicTriton/test/TritonImageProducer.cc", 
+            "HeterogeneousCore/SonicTriton/test/fetch_model.sh", 
+            "HeterogeneousCore/SonicTriton/test/tritonTest_cfg.py"
+        ], 
+        "created_at": 1676658718, 
+        "number": 40814, 
+        "state": "open", 
+        "updated_at": 1676658745
     }
 }
