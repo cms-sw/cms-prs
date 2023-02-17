@@ -1378,6 +1378,7 @@
             "Geometry/HGCalCommonData/data/hgcalwafer/v17n/hgcalwafer.xml", 
             "Geometry/HGCalCommonData/data/hgcalwafer/v17p/hgcal.xml", 
             "Geometry/HGCalCommonData/data/hgcalwafer/v17p/hgcalwafer.xml", 
+            "Geometry/HGCalCommonData/interface/HGCalWaferMask.h", 
             "Geometry/HGCalCommonData/plugins/DDHGCalCell.cc", 
             "Geometry/HGCalCommonData/plugins/DDHGCalWaferFullRotated.cc", 
             "Geometry/HGCalCommonData/plugins/DDHGCalWaferPartialRotated.cc", 
@@ -1392,7 +1393,7 @@
         "created_at": 1676508752, 
         "number": 40781, 
         "state": "open", 
-        "updated_at": 1676508781
+        "updated_at": 1676631309
     }, 
     "40783": {
         "base_branch": "master", 
