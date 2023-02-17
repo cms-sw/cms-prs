@@ -1723,5 +1723,19 @@
         "number": 40807, 
         "state": "open", 
         "updated_at": 1676642064
+    }, 
+    "40808": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "HeterogeneousCore/AlpakaInterface/test/alpaka/testKernel.dev.cc", 
+            "HeterogeneousCore/AlpakaTest/interface/AlpakaESTestData.h", 
+            "HeterogeneousCore/AlpakaTest/plugins/TestAlpakaAnalyzer.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaProducer.cc", 
+            "HeterogeneousCore/AlpakaTest/test/writer.py"
+        ], 
+        "created_at": 1676641973, 
+        "number": 40808, 
+        "state": "open", 
+        "updated_at": 1676642160
     }
 }
