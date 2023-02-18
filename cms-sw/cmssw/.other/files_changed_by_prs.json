@@ -1478,17 +1478,9 @@
     "40793": {
         "base_branch": "master", 
         "changed_files_names": [
-            "CalibTracker/SiStripChannelGain/plugins/DeDxDiscriminatorLearner.cc", 
-            "CalibTracker/SiStripChannelGain/plugins/SiStripGainCosmicCalculator.cc", 
-            "CalibTracker/SiStripChannelGain/plugins/SiStripGainFromAsciiFile.cc", 
             "CalibTracker/SiStripChannelGain/plugins/SiStripGainFromCalibTree.cc", 
-            "CalibTracker/SiStripChannelGain/plugins/SiStripGainFromData.cc", 
-            "CalibTracker/SiStripChannelGain/plugins/SiStripGainRandomCalculator.cc", 
             "CalibTracker/SiStripESProducers/plugins/fake/SiStripApvGainBuilderFromTag.h", 
             "CalibTracker/SiStripESProducers/plugins/fake/SiStripNoiseNormalizedWithApvGainBuilder.h", 
-            "CalibTracker/SiStripLorentzAngle/plugins/SiStripCalibLorentzAngle.cc", 
-            "CalibTracker/SiStripQuality/plugins/SiStripBadModuleByHandBuilder.cc", 
-            "CalibTracker/SiStripQuality/plugins/SiStripQualityHotStripIdentifier.cc", 
             "CommonTools/ConditionDBWriter/interface/ConditionDBWriter.h", 
             "CondCore/DBOutputService/interface/PoolDBOutputService.h", 
             "CondCore/DBOutputService/src/PoolDBOutputService.cc", 
@@ -1496,23 +1488,17 @@
             "CondFormats/PhysicsToolsObjects/test/SiStripDeDx3DBuilder.cc", 
             "CondFormats/PhysicsToolsObjects/test/SiStripDeDxMipBuilder.cc", 
             "CondFormats/PhysicsToolsObjects/test/SiStripDeDxMipBuilder.h", 
-            "CondTools/SiPhase2Tracker/plugins/SiPhase2BadStripChannelBuilder.cc", 
-            "CondTools/SiPixel/plugins/SiPixelBadModuleByHandBuilder.cc", 
             "CondTools/SiStrip/plugins/SiStripApvGainBuilder.cc", 
             "CondTools/SiStrip/plugins/SiStripApvSimulationParametersBuilder.cc", 
-            "CondTools/SiStrip/plugins/SiStripBadChannelBuilder.cc", 
-            "CondTools/SiStrip/plugins/SiStripBadFiberBuilder.cc", 
-            "CondTools/SiStrip/plugins/SiStripBadStripFromASCIIFile.cc", 
             "CondTools/SiStrip/plugins/SiStripNoisesBuilder.cc", 
             "CondTools/SiStrip/plugins/SiStripPedestalsBuilder.cc", 
             "CondTools/SiStrip/plugins/SiStripSummaryBuilder.cc", 
-            "CondTools/SiStrip/plugins/SiStripThresholdBuilder.cc", 
-            "DQMOffline/CalibTracker/plugins/SiStripQualityHotStripIdentifierRoot.cc"
+            "CondTools/SiStrip/plugins/SiStripThresholdBuilder.cc"
         ], 
         "created_at": 1676560153, 
         "number": 40793, 
         "state": "open", 
-        "updated_at": 1676647168
+        "updated_at": 1676726773
     }, 
     "40794": {
         "base_branch": "master", 
