@@ -1736,5 +1736,19 @@
         "number": 40817, 
         "state": "open", 
         "updated_at": 1676851927
+    }, 
+    "40818": {
+        "base_branch": "CMSSW_13_0_X", 
+        "changed_files_names": [
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/ProducerBase.h", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaESProducerB.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaESProducerD.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamProducer.cc", 
+            "HeterogeneousCore/AlpakaTest/test/testAlpakaModules_cfg.py"
+        ], 
+        "created_at": 1676872002, 
+        "number": 40818, 
+        "state": "open", 
+        "updated_at": 1676872029
     }
 }
