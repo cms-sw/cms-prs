@@ -1628,5 +1628,16 @@
         "number": 40821, 
         "state": "open", 
         "updated_at": 1676889513
+    }, 
+    "40822": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "EventFilter/L1TRawToDigi/python/gtStage2Raw_cfi.py", 
+            "L1Trigger/L1TMuon/src/MuonRawDigiTranslator.cc"
+        ], 
+        "created_at": 1676898934, 
+        "number": 40822, 
+        "state": "open", 
+        "updated_at": 1676898954
     }
 }
