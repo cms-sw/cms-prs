@@ -1453,31 +1453,6 @@
         "state": "open", 
         "updated_at": 1676646297
     }, 
-    "40793": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibTracker/SiStripChannelGain/plugins/SiStripGainFromCalibTree.cc", 
-            "CalibTracker/SiStripESProducers/plugins/fake/SiStripApvGainBuilderFromTag.h", 
-            "CalibTracker/SiStripESProducers/plugins/fake/SiStripNoiseNormalizedWithApvGainBuilder.h", 
-            "CommonTools/ConditionDBWriter/interface/ConditionDBWriter.h", 
-            "CondCore/DBOutputService/interface/PoolDBOutputService.h", 
-            "CondCore/DBOutputService/src/PoolDBOutputService.cc", 
-            "CondFormats/PhysicsToolsObjects/test/SiStripDeDx2DBuilder.cc", 
-            "CondFormats/PhysicsToolsObjects/test/SiStripDeDx3DBuilder.cc", 
-            "CondFormats/PhysicsToolsObjects/test/SiStripDeDxMipBuilder.cc", 
-            "CondFormats/PhysicsToolsObjects/test/SiStripDeDxMipBuilder.h", 
-            "CondTools/SiStrip/plugins/SiStripApvGainBuilder.cc", 
-            "CondTools/SiStrip/plugins/SiStripApvSimulationParametersBuilder.cc", 
-            "CondTools/SiStrip/plugins/SiStripNoisesBuilder.cc", 
-            "CondTools/SiStrip/plugins/SiStripPedestalsBuilder.cc", 
-            "CondTools/SiStrip/plugins/SiStripSummaryBuilder.cc", 
-            "CondTools/SiStrip/plugins/SiStripThresholdBuilder.cc"
-        ], 
-        "created_at": 1676560153, 
-        "number": 40793, 
-        "state": "open", 
-        "updated_at": 1676726773
-    }, 
     "40794": {
         "base_branch": "master", 
         "changed_files_names": [
