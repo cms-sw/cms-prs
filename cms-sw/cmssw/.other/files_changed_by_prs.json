@@ -1750,5 +1750,27 @@
         "number": 40816, 
         "state": "open", 
         "updated_at": 1676710050
+    }, 
+    "40817": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondTools/RunInfo/interface/LHCInfoPerFillPopConSourceHandler.h", 
+            "CondTools/RunInfo/interface/LHCInfoPerLSPopConSourceHandler.h", 
+            "CondTools/RunInfo/interface/OMSAccess.h", 
+            "CondTools/RunInfo/plugins/BuildFile.xml", 
+            "CondTools/RunInfo/plugins/LHCInfoPerFillPopConAnalyzer.cc", 
+            "CondTools/RunInfo/plugins/LHCInfoPerLSPopConAnalyzer.cc", 
+            "CondTools/RunInfo/python/LHCInfoPerFillPopConAnalyzerDuringFill.py", 
+            "CondTools/RunInfo/python/LHCInfoPerFillPopConAnalyzerEndFill.py", 
+            "CondTools/RunInfo/python/LHCInfoPerLSPopConAnalyzerDuringFill.py", 
+            "CondTools/RunInfo/python/LHCInfoPerLSPopConAnalyzerEndFill.py", 
+            "CondTools/RunInfo/src/LHCInfoPerFillPopConSourceHandler.cc", 
+            "CondTools/RunInfo/src/LHCInfoPerLSPopConSourceHandler.cc", 
+            "CondTools/RunInfo/src/OMSAccess.cc"
+        ], 
+        "created_at": 1676851902, 
+        "number": 40817, 
+        "state": "open", 
+        "updated_at": 1676851927
     }
 }
