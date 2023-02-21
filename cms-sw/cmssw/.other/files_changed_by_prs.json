@@ -1680,5 +1680,17 @@
         "number": 40842, 
         "state": "open", 
         "updated_at": 1677005020
+    }, 
+    "40843": {
+        "base_branch": "CMSSW_13_0_X", 
+        "changed_files_names": [
+            "CondFormats/PPSObjects/xml/mapping_timing_diamond_2023.xml", 
+            "EventFilter/CTPPSRawToDigi/python/ctppsDiamondRawToDigi_cfi.py", 
+            "EventFilter/CTPPSRawToDigi/python/ctppsRawToDigi_cff.py"
+        ], 
+        "created_at": 1677011130, 
+        "number": 40843, 
+        "state": "open", 
+        "updated_at": 1677011155
     }
 }
