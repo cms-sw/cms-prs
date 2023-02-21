@@ -1085,6 +1085,7 @@
             "DataFormats/PortableTestObjects/src/alpaka/classes_serial_def.xml", 
             "DataFormats/PortableTestObjects/src/classes.h", 
             "DataFormats/PortableTestObjects/src/classes_def.xml", 
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
             "HeterogeneousCore/AlpakaCore/python/ProcessAcceleratorAlpaka.py", 
             "HeterogeneousCore/AlpakaCore/src/module_backend_config.cc", 
             "HeterogeneousCore/CUDACore/python/ProcessAcceleratorCUDA.py", 
@@ -1137,7 +1138,7 @@
         "created_at": 1675858817, 
         "number": 40725, 
         "state": "open", 
-        "updated_at": 1676996611
+        "updated_at": 1677017337
     }, 
     "40735": {
         "base_branch": "master", 
