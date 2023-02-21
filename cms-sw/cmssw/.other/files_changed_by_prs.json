@@ -1270,37 +1270,6 @@
         "state": "open", 
         "updated_at": 1676966105
     }, 
-    "40781": {
-        "base_branch": "CMSSW_13_0_X", 
-        "changed_files_names": [
-            "Geometry/HGCalCommonData/data/hgcal/v17/hgcal.xml", 
-            "Geometry/HGCalCommonData/data/hgcalcell/v17/hgcal.xml", 
-            "Geometry/HGCalCommonData/data/hgcalcell/v17/hgcalcell.xml", 
-            "Geometry/HGCalCommonData/data/hgcalwafer/v17/hgcal.xml", 
-            "Geometry/HGCalCommonData/data/hgcalwafer/v17/hgcalwafer.xml", 
-            "Geometry/HGCalCommonData/data/hgcalwafer/v17f/hgcal.xml", 
-            "Geometry/HGCalCommonData/data/hgcalwafer/v17f/hgcalpos.xml", 
-            "Geometry/HGCalCommonData/data/hgcalwafer/v17f/hgcalwafer.xml", 
-            "Geometry/HGCalCommonData/data/hgcalwafer/v17n/hgcalwafer.xml", 
-            "Geometry/HGCalCommonData/data/hgcalwafer/v17p/hgcal.xml", 
-            "Geometry/HGCalCommonData/data/hgcalwafer/v17p/hgcalwafer.xml", 
-            "Geometry/HGCalCommonData/interface/HGCalWaferMask.h", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalCell.cc", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalWaferFullRotated.cc", 
-            "Geometry/HGCalCommonData/plugins/DDHGCalWaferPartialRotated.cc", 
-            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalCell.cc", 
-            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalWaferFullRotated.cc", 
-            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalWaferPartialRotated.cc", 
-            "Geometry/HGCalCommonData/src/HGCalCell.cc", 
-            "Geometry/HGCalCommonData/src/HGCalWaferMask.cc", 
-            "Geometry/HGCalCommonData/test/cms.xml", 
-            "Geometry/HGCalCommonData/test/python/g4OverlapCheck_cfg.py"
-        ], 
-        "created_at": 1676508752, 
-        "number": 40781, 
-        "state": "open", 
-        "updated_at": 1676899640
-    }, 
     "40794": {
         "base_branch": "master", 
         "changed_files_names": [
