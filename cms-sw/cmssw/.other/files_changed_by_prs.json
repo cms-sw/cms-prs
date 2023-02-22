@@ -1648,5 +1648,19 @@
         "number": 40843, 
         "state": "open", 
         "updated_at": 1677011155
+    }, 
+    "40845": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoLocalFastTime/FTLCommonAlgos/plugins/BTLUncalibRecHitAlgo.cc", 
+            "RecoMTD/DetLayers/src/MTDDetTray.cc", 
+            "RecoMTD/TrackExtender/plugins/TrackExtenderWithMTD.cc", 
+            "SimFastTiming/FastTimingCommon/test/MTDDigiDump.cc", 
+            "SimG4Core/Notification/src/SimTrackManager.cc"
+        ], 
+        "created_at": 1677054449, 
+        "number": 40845, 
+        "state": "open", 
+        "updated_at": 1677054473
     }
 }
