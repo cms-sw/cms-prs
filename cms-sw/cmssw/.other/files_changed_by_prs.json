@@ -1221,6 +1221,9 @@
             "CalibPPS/ESProducers/python/totemDAQMappingESSourceXML_cfi.py", 
             "CalibPPS/ESProducers/test/test_readTotemDAQMapping.py", 
             "CondCore/CTPPSPlugins/src/plugin.cc", 
+            "CondFormats/DataRecord/interface/TotemAnalysisMaskRcd.h", 
+            "CondFormats/DataRecord/src/TotemAnalysisMaskRcd.cc", 
+            "CondFormats/PPSObjects/interface/TotemAnalysisMask.h", 
             "CondFormats/PPSObjects/interface/TotemDAQMapping.h", 
             "CondFormats/PPSObjects/interface/TotemFramePosition.h", 
             "CondFormats/PPSObjects/interface/TotemSymbId.h", 
@@ -1229,12 +1232,14 @@
             "CondFormats/PPSObjects/src/headers.h", 
             "CondTools/CTPPS/src/WriteCTPPSTotemDAQMapping.cc", 
             "CondTools/CTPPS/test/write-ctpps-totem_daqmap_cfg.py", 
+            "DQM/CTPPS/test/diamond_dqm_test_cfg.py", 
+            "EventFilter/CTPPSRawToDigi/plugins/TotemVFATRawToDigi.cc", 
             "EventFilter/CTPPSRawToDigi/python/ctppsRawToDigi_cff.py"
         ], 
         "created_at": 1676383734, 
         "number": 40765, 
         "state": "open", 
-        "updated_at": 1676907254
+        "updated_at": 1677095364
     }, 
     "40773": {
         "base_branch": "master", 
