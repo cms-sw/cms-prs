@@ -652,6 +652,8 @@
             "DataFormats/Portable/interface/PortableDeviceCollection.h", 
             "DataFormats/Portable/interface/PortableHostCollection.h", 
             "DataFormats/Portable/interface/alpaka/PortableCollection.h", 
+            "DataFormats/Portable/scripts/portableDeviceCollectionHints", 
+            "DataFormats/Portable/scripts/portableHostCollectionHints", 
             "DataFormats/PortableTestObjects/interface/TestHostCollection.h", 
             "DataFormats/PortableTestObjects/interface/TestSoA.h", 
             "DataFormats/PortableTestObjects/interface/alpaka/TestDeviceCollection.h", 
@@ -667,7 +669,7 @@
         "created_at": 1670834202, 
         "number": 40285, 
         "state": "open", 
-        "updated_at": 1676974414
+        "updated_at": 1677062606
     }, 
     "40335": {
         "base_branch": "master", 
