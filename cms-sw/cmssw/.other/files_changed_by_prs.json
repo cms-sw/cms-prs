@@ -150,7 +150,7 @@
             "RecoLocalTracker/SiStripClusterizer/plugins/SiStripRawToClusterGPUKernel.cc", 
             "RecoLocalTracker/SiStripClusterizer/plugins/SiStripRawToClusterGPUKernel.cu", 
             "RecoLocalTracker/SiStripClusterizer/plugins/SiStripRawToClusterGPUKernel.h", 
-            "RecoLocalTracker/SiStripClusterizer/plugins/StripDataView.cuh", 
+            "RecoLocalTracker/SiStripClusterizer/plugins/StripDataView.h", 
             "RecoLocalTracker/SiStripClusterizer/python/DefaultClusterizer_cff.py", 
             "RecoLocalTracker/SiStripClusterizer/python/SiStripClusterizerOnDemand_cfi.py", 
             "RecoLocalTracker/SiStripClusterizer/python/customizeStripClustersFromRaw.py", 
@@ -165,7 +165,7 @@
         "created_at": 1627240643, 
         "number": 34618, 
         "state": "open", 
-        "updated_at": 1676570527
+        "updated_at": 1677165198
     }, 
     "34812": {
         "base_branch": "master", 
