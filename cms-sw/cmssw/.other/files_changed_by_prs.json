@@ -1714,5 +1714,19 @@
         "number": 40860, 
         "state": "open", 
         "updated_at": 1677157091
+    }, 
+    "40861": {
+        "base_branch": "CMSSW_13_0_X", 
+        "changed_files_names": [
+            "DQM/L1TMonitor/python/L1TStage2Emulator_cff.py", 
+            "L1Trigger/L1TGlobal/interface/GlobalBoard.h", 
+            "L1Trigger/L1TGlobal/src/GlobalBoard.cc", 
+            "L1Trigger/L1TGlobal/src/MuonShowerCondition.cc", 
+            "L1Trigger/L1TGlobal/test/testVectorCode_data.py"
+        ], 
+        "created_at": 1677158198, 
+        "number": 40861, 
+        "state": "open", 
+        "updated_at": 1677158259
     }
 }
