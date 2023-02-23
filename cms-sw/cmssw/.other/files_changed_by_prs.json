@@ -1249,12 +1249,13 @@
             "DQM/L1TMonitor/python/L1TStage2Emulator_cff.py", 
             "L1Trigger/L1TGlobal/interface/GlobalBoard.h", 
             "L1Trigger/L1TGlobal/src/GlobalBoard.cc", 
-            "L1Trigger/L1TGlobal/src/MuonShowerCondition.cc"
+            "L1Trigger/L1TGlobal/src/MuonShowerCondition.cc", 
+            "L1Trigger/L1TGlobal/test/testVectorCode_data.py"
         ], 
         "created_at": 1676456116, 
         "number": 40773, 
         "state": "open", 
-        "updated_at": 1677154272
+        "updated_at": 1677154327
     }, 
     "40779": {
         "base_branch": "master", 
