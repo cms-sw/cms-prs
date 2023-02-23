@@ -1069,16 +1069,10 @@
         "changed_files_names": [
             "Alignment/CommonAlignment/python/tools/trackselectionRefitting.py", 
             "Configuration/StandardSequences/python/Accelerators_cff.py", 
-            "DataFormats/PortableTestObjects/BuildFile.xml", 
             "DataFormats/PortableTestObjects/src/alpaka/classes_rocm.h", 
-            "DataFormats/PortableTestObjects/src/alpaka/classes_serial.h", 
             "DataFormats/PortableTestObjects/src/alpaka/classes_rocm_def.xml", 
-            "DataFormats/PortableTestObjects/src/alpaka/classes_serial_def.xml", 
-            "DataFormats/PortableTestObjects/src/classes.h", 
-            "DataFormats/PortableTestObjects/src/classes_def.xml", 
             "EventFilter/HcalRawToDigi/plugins/HcalDigisProducerGPU.cc", 
             "EventFilter/HcalRawToDigi/plugins/HcalRawToDigiGPU.cc", 
-            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
             "HeterogeneousCore/AlpakaCore/python/ProcessAcceleratorAlpaka.py", 
             "HeterogeneousCore/AlpakaCore/src/module_backend_config.cc", 
             "HeterogeneousCore/AlpakaServices/src/alpaka/AlpakaService.cc", 
@@ -1149,7 +1143,7 @@
         "created_at": 1675858817, 
         "number": 40725, 
         "state": "open", 
-        "updated_at": 1677145846
+        "updated_at": 1677146607
     }, 
     "40735": {
         "base_branch": "master", 
