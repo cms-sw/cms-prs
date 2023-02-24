@@ -1777,5 +1777,19 @@
         "number": 40870, 
         "state": "open", 
         "updated_at": 1677223327
+    }, 
+    "40871": {
+        "base_branch": "CMSSW_13_0_X", 
+        "changed_files_names": [
+            "HLTriggerOffline/Muon/BuildFile.xml", 
+            "HLTriggerOffline/Muon/interface/HLTMuonPlotter.h", 
+            "HLTriggerOffline/Muon/python/hltMuonValidator_cfi.py", 
+            "HLTriggerOffline/Muon/src/HLTMuonPlotter.cc", 
+            "HLTriggerOffline/Muon/src/HLTMuonValidator.cc"
+        ], 
+        "created_at": 1677224525, 
+        "number": 40871, 
+        "state": "open", 
+        "updated_at": 1677224567
     }
 }
