@@ -1803,5 +1803,18 @@
         "number": 40874, 
         "state": "open", 
         "updated_at": 1677232231
+    }, 
+    "40875": {
+        "base_branch": "CMSSW_13_0_X", 
+        "changed_files_names": [
+            "DQM/Integration/python/clients/hlt_dqm_sourceclient-live_cfg.py", 
+            "DQM/SiPixelPhase1Track/python/SiPixelPhase1TrackResiduals_cfi.py", 
+            "DQMOffline/Trigger/python/SiPixel_OfflineMonitoring_TrackCluster_cff.py", 
+            "DQMOffline/Trigger/python/SiPixel_OfflineMonitoring_cff.py"
+        ], 
+        "created_at": 1677232312, 
+        "number": 40875, 
+        "state": "open", 
+        "updated_at": 1677232335
     }
 }
