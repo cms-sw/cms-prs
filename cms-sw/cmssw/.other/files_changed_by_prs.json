@@ -1750,12 +1750,13 @@
             "DQM/Integration/python/clients/hlt_dqm_sourceclient-live_cfg.py", 
             "DQM/SiPixelPhase1Track/python/SiPixelPhase1TrackResiduals_cfi.py", 
             "DQMOffline/Trigger/python/SiPixel_OfflineMonitoring_TrackCluster_cff.py", 
-            "DQMOffline/Trigger/python/SiPixel_OfflineMonitoring_cff.py"
+            "DQMOffline/Trigger/python/SiPixel_OfflineMonitoring_cff.py", 
+            "RecoPixelVertexing/PixelLowPtUtilities/plugins/SiPixelClusterShapeCacheProducer.cc"
         ], 
         "created_at": 1677232169, 
         "number": 40873, 
         "state": "open", 
-        "updated_at": 1677232200
+        "updated_at": 1677310001
     }, 
     "40874": {
         "base_branch": "CMSSW_13_0_X", 
