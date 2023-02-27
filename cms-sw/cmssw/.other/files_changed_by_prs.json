@@ -1139,38 +1139,6 @@
         "state": "open", 
         "updated_at": 1676964513
     }, 
-    "40754": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibTracker/SiStripHitResolution/BuildFile.xml", 
-            "CalibTracker/SiStripHitResolution/README.md", 
-            "CalibTracker/SiStripHitResolution/doc/SiStripHitResolution.doc", 
-            "CalibTracker/SiStripHitResolution/interface/HitResol.h", 
-            "CalibTracker/SiStripHitResolution/interface/SiStripOverlapHit.h", 
-            "CalibTracker/SiStripHitResolution/macros/ResolutionPlots.cc", 
-            "CalibTracker/SiStripHitResolution/macros/Resolutions.cc", 
-            "CalibTracker/SiStripHitResolution/plugins/BuildFile.xml", 
-            "CalibTracker/SiStripHitResolution/plugins/SiStripCPEAnalyzer.cc", 
-            "CalibTracker/SiStripHitResolution/plugins/SiStripHitResolFromCalibTree.cc", 
-            "CalibTracker/SiStripHitResolution/python/SiStripHitResol_cff.py", 
-            "CalibTracker/SiStripHitResolution/src/HitResol.cc", 
-            "CalibTracker/SiStripHitResolution/src/SiStripOverlapHit.cc", 
-            "CalibTracker/SiStripHitResolution/test/BuildFile.xml", 
-            "CalibTracker/SiStripHitResolution/test/CPEanconfig.py", 
-            "CalibTracker/SiStripHitResolution/test/HitEffDriver.sh", 
-            "CalibTracker/SiStripHitResolution/test/SiStripHitEff_run325310.py", 
-            "CalibTracker/SiStripHitResolution/test/SiStripHitEff_template.py", 
-            "CalibTracker/SiStripHitResolution/test/SiStripHitResol_test.py", 
-            "CalibTracker/SiStripHitResolution/test/SiStripHitResol_testULcosmics.py", 
-            "CalibTracker/SiStripHitResolution/test/SiStripHitResolutionFromCalibTree_cfg.py", 
-            "CalibTracker/SiStripHitResolution/test/TestDriver.cpp", 
-            "CalibTracker/SiStripHitResolution/test/test_SiStripHitResolution.sh"
-        ], 
-        "created_at": 1676299661, 
-        "number": 40754, 
-        "state": "open", 
-        "updated_at": 1676738796
-    }, 
     "40765": {
         "base_branch": "master", 
         "changed_files_names": [
