@@ -1621,5 +1621,18 @@
         "number": 40894, 
         "state": "open", 
         "updated_at": 1677590359
+    }, 
+    "40895": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/CTPPS/plugins/CTPPSRandomDQMSource.cc", 
+            "DQM/CTPPS/python/ctppsDQM_cff.py", 
+            "DQM/CTPPS/python/ctppsRandomDQMSource_cfi.py", 
+            "DQM/CTPPS/test/pps_random_dqm_test_from_alcaraw_cfg.py"
+        ], 
+        "created_at": 1677594137, 
+        "number": 40895, 
+        "state": "open", 
+        "updated_at": 1677594158
     }
 }
