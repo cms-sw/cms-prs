@@ -1634,5 +1634,18 @@
         "number": 40895, 
         "state": "open", 
         "updated_at": 1677594158
+    }, 
+    "40896": {
+        "base_branch": "CMSSW_13_0_X", 
+        "changed_files_names": [
+            "Alignment/OfflineValidation/test/testPrimaryVertexRelatedValidations_cfg.py", 
+            "Alignment/OfflineValidation/test/test_all_Phase2_cfg.py", 
+            "RecoTracker/FinalTrackSelectors/plugins/TrackerTrackHitFilter.cc", 
+            "RecoTracker/FinalTrackSelectors/python/TrackerTrackHitFilter_cff.py"
+        ], 
+        "created_at": 1677596655, 
+        "number": 40896, 
+        "state": "open", 
+        "updated_at": 1677596726
     }
 }
