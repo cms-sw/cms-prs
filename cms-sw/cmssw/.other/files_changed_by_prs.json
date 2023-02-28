@@ -1058,6 +1058,7 @@
             "HeterogeneousCore/CUDACore/README.md", 
             "HeterogeneousCore/CUDACore/python/ProcessAcceleratorCUDA.py", 
             "HeterogeneousCore/CUDACore/src/chooseDevice.cc", 
+            "HeterogeneousCore/CUDAServices/BuildFile.xml", 
             "HeterogeneousCore/CUDAServices/interface/CUDAInterface.h", 
             "HeterogeneousCore/CUDAServices/interface/CUDAService.h", 
             "HeterogeneousCore/CUDAServices/plugins/BuildFile.xml", 
@@ -1079,6 +1080,7 @@
             "HeterogeneousCore/Common/python/PlatformStatus.py", 
             "HeterogeneousCore/ROCmCore/python/ProcessAcceleratorROCm.py", 
             "HeterogeneousCore/ROCmCore/python/ProcessAcceleratorROCm_cfi.py", 
+            "HeterogeneousCore/ROCmServices/BuildFile.xml", 
             "HeterogeneousCore/ROCmServices/interface/ROCmInterface.h", 
             "HeterogeneousCore/ROCmServices/interface/ROCmService.h", 
             "HeterogeneousCore/ROCmServices/plugins/BuildFile.xml", 
@@ -1122,7 +1124,7 @@
         "created_at": 1675858817, 
         "number": 40725, 
         "state": "open", 
-        "updated_at": 1677146607
+        "updated_at": 1677584866
     }, 
     "40745": {
         "base_branch": "master", 
