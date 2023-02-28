@@ -1420,6 +1420,7 @@
             "HeterogeneousTest/ROCmOpaque/test/testROCmTestOpaqueAdditionModule.py", 
             "HeterogeneousTest/ROCmWrapper/plugins/ROCmTestWrapperAdditionModule.cc", 
             "HeterogeneousTest/ROCmWrapper/test/testROCmTestWrapperAdditionModule.py", 
+            "PhysicsTools/TensorFlow/test/BuildFile.xml", 
             "PhysicsTools/TensorFlow/test/testBaseCUDA.h", 
             "PhysicsTools/TensorFlow/test/testConstSessionCUDA.cc", 
             "PhysicsTools/TensorFlow/test/testGraphLoadingCUDA.cc", 
@@ -1441,7 +1442,7 @@
         "created_at": 1676967210, 
         "number": 40832, 
         "state": "open", 
-        "updated_at": 1677590284
+        "updated_at": 1677592302
     }, 
     "40840": {
         "base_branch": "master", 
