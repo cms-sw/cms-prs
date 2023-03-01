@@ -1245,6 +1245,8 @@
     "40828": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/relval_standard.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
             "PhysicsTools/NanoAOD/plugins/BJetEnergyRegressionMVA.cc", 
             "PhysicsTools/NanoAOD/plugins/BuildFile.xml", 
             "PhysicsTools/NanoAOD/python/jets_cff.py", 
@@ -1258,7 +1260,7 @@
         "created_at": 1676911170, 
         "number": 40828, 
         "state": "open", 
-        "updated_at": 1677597243
+        "updated_at": 1677705915
     }, 
     "40849": {
         "base_branch": "master", 
