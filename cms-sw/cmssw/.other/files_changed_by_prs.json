@@ -1521,5 +1521,33 @@
         "number": 40903, 
         "state": "open", 
         "updated_at": 1677651621
+    }, 
+    "40906": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CUDADataFormats/TrackingRecHit/BuildFile.xml", 
+            "CalibTracker/SiStripCommon/plugins/BuildFile.xml", 
+            "DPGAnalysis/SiStripTools/BuildFile.xml", 
+            "DQM/SiStripMonitorApproximateCluster/plugins/BuildFile.xml", 
+            "Geometry/HGCalTBCommonData/BuildFile.xml", 
+            "Geometry/HGCalTBCommonData/plugins/BuildFile.xml", 
+            "Geometry/HGCalTBCommonData/test/BuildFile.xml", 
+            "HeterogeneousTest/CUDAOpaque/plugins/BuildFile.xml", 
+            "HeterogeneousTest/ROCmOpaque/plugins/BuildFile.xml", 
+            "IOMC/RandomEngine/BuildFile.xml", 
+            "IOMC/RandomEngine/plugins/BuildFile.xml", 
+            "JetMETCorrections/Modules/BuildFile.xml", 
+            "JetMETCorrections/Modules/plugins/BuildFile.xml", 
+            "JetMETCorrections/Objects/BuildFile.xml", 
+            "L1Trigger/Phase2L1ParticleFlow/BuildFile.xml", 
+            "L1Trigger/Phase2L1ParticleFlow/plugins/BuildFile.xml", 
+            "L1Trigger/Phase2L1Taus/plugins/BuildFile.xml", 
+            "RecoJets/JetAnalyzers/BuildFile.xml", 
+            "SimG4CMS/ShowerLibraryProducer/BuildFile.xml"
+        ], 
+        "created_at": 1677662166, 
+        "number": 40906, 
+        "state": "open", 
+        "updated_at": 1677662192
     }
 }
