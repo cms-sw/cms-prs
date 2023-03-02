@@ -1170,12 +1170,18 @@
         "base_branch": "master", 
         "changed_files_names": [
             "HeterogeneousCore/AlpakaCore/interface/alpaka/Event.h", 
-            "HeterogeneousCore/AlpakaCore/interface/alpaka/EventSetup.h"
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/EventSetup.h", 
+            "HeterogeneousCore/AlpakaTest/interface/TestHostOnlyHelperClass.h", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamSynchronizingProducer.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestHelperClass.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestHelperClass.h", 
+            "HeterogeneousCore/AlpakaTest/src/TestHostOnlyHelperClass.cc", 
+            "HeterogeneousCore/AlpakaTest/test/testAlpakaModules_cfg.py"
         ], 
         "created_at": 1677081819, 
         "number": 40849, 
         "state": "open", 
-        "updated_at": 1677143999
+        "updated_at": 1677771993
     }, 
     "40855": {
         "base_branch": "master", 
