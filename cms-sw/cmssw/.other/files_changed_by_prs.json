@@ -1481,12 +1481,15 @@
     "40907": {
         "base_branch": "CMSSW_12_4_X", 
         "changed_files_names": [
+            "Configuration/ProcessModifiers/python/run3_primaries_for_geant4_2022_cff.py", 
+            "SimG4Core/Application/python/g4SimHits_cfi.py", 
+            "SimG4Core/Generators/interface/Generator.h", 
             "SimG4Core/Generators/src/Generator.cc"
         ], 
         "created_at": 1677663307, 
         "number": 40907, 
         "state": "open", 
-        "updated_at": 1677663354
+        "updated_at": 1677756242
     }, 
     "40909": {
         "base_branch": "master", 
