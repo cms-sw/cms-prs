@@ -1634,5 +1634,25 @@
         "number": 40933, 
         "state": "open", 
         "updated_at": 1677766017
+    }, 
+    "40934": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoEcal/EgammaClusterAlgos/src/PFECALSuperClusterAlgo.cc", 
+            "RecoEcal/EgammaClusterProducers/python/particleFlowSuperClusterECAL_cfi.py", 
+            "RecoEcal/EgammaClusterProducers/src/PFECALSuperClusterProducer.cc", 
+            "RecoEcal/EgammaCoreTools/interface/DeepSCGraphEvaluation.h", 
+            "RecoEcal/EgammaCoreTools/interface/EcalClustersGraph.h", 
+            "RecoEcal/EgammaCoreTools/interface/GraphMap.h", 
+            "RecoEcal/EgammaCoreTools/interface/SCProducerCache.h", 
+            "RecoEcal/EgammaCoreTools/src/DeepSCGraphEvaluation.cc", 
+            "RecoEcal/EgammaCoreTools/src/EcalClustersGraph.cc", 
+            "RecoEcal/EgammaCoreTools/src/GraphMap.cc", 
+            "RecoEcal/EgammaCoreTools/test/testDeepSCinference.py"
+        ], 
+        "created_at": 1677773995, 
+        "number": 40934, 
+        "state": "open", 
+        "updated_at": 1677774020
     }
 }
