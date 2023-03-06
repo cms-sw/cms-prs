@@ -1609,5 +1609,17 @@
         "number": 40962, 
         "state": "open", 
         "updated_at": 1678116838
+    }, 
+    "40963": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibTracker/SiStripHitEfficiency/plugins/SiStripHitEffFromCalibTree.cc", 
+            "CalibTracker/SiStripHitResolution/plugins/SiStripHitResolFromCalibTree.cc", 
+            "CalibTracker/SiStripHitResolution/test/SiStripHitResolutionFromCalibTree_cfg.py"
+        ], 
+        "created_at": 1678117862, 
+        "number": 40963, 
+        "state": "open", 
+        "updated_at": 1678117886
     }
 }
