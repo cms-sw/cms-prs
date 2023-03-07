@@ -977,33 +977,6 @@
         "state": "open", 
         "updated_at": 1678104495
     }, 
-    "40765": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibPPS/ESProducers/plugins/PrintTotemDAQMapping.cc", 
-            "CalibPPS/ESProducers/python/totemDAQMappingESSourceXML_cfi.py", 
-            "CalibPPS/ESProducers/test/test_readTotemDAQMapping.py", 
-            "CondCore/CTPPSPlugins/src/plugin.cc", 
-            "CondFormats/DataRecord/interface/TotemAnalysisMaskRcd.h", 
-            "CondFormats/DataRecord/src/TotemAnalysisMaskRcd.cc", 
-            "CondFormats/PPSObjects/interface/TotemAnalysisMask.h", 
-            "CondFormats/PPSObjects/interface/TotemDAQMapping.h", 
-            "CondFormats/PPSObjects/interface/TotemFramePosition.h", 
-            "CondFormats/PPSObjects/interface/TotemSymbId.h", 
-            "CondFormats/PPSObjects/src/classes.h", 
-            "CondFormats/PPSObjects/src/classes_def.xml", 
-            "CondFormats/PPSObjects/src/headers.h", 
-            "CondTools/CTPPS/src/WriteCTPPSTotemDAQMapping.cc", 
-            "CondTools/CTPPS/test/write-ctpps-totem_daqmap_cfg.py", 
-            "DQM/CTPPS/test/diamond_dqm_test_cfg.py", 
-            "EventFilter/CTPPSRawToDigi/plugins/TotemVFATRawToDigi.cc", 
-            "EventFilter/CTPPSRawToDigi/python/ctppsRawToDigi_cff.py"
-        ], 
-        "created_at": 1676383734, 
-        "number": 40765, 
-        "state": "open", 
-        "updated_at": 1677632882
-    }, 
     "40794": {
         "base_branch": "master", 
         "changed_files_names": [
