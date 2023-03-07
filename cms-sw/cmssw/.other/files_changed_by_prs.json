@@ -1173,6 +1173,8 @@
             "DataFormats/PatCandidates/interface/Muon.h", 
             "DataFormats/PatCandidates/src/Muon.cc", 
             "DataFormats/PatCandidates/src/classes_def_objects.xml", 
+            "PhysicsTools/NanoAOD/python/muons_cff.py", 
+            "PhysicsTools/NanoAOD/python/nanoDQM_cfi.py", 
             "PhysicsTools/PatAlgos/interface/CalculatePtRatioRel.h", 
             "PhysicsTools/PatAlgos/interface/MuonMvaEstimator.h", 
             "PhysicsTools/PatAlgos/plugins/PATMuonProducer.cc", 
@@ -1185,7 +1187,7 @@
         "created_at": 1677245103, 
         "number": 40876, 
         "state": "open", 
-        "updated_at": 1677771539
+        "updated_at": 1678198669
     }, 
     "40879": {
         "base_branch": "master", 
