@@ -1782,5 +1782,18 @@
         "number": 40976, 
         "state": "open", 
         "updated_at": 1678170774
+    }, 
+    "40977": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "IOPool/Common/test/BuildFile.xml", 
+            "IOPool/Common/test/TestEdmFastMerge.sh", 
+            "IOPool/Common/test/run_TestEdmConfigDump.sh", 
+            "IOPool/Common/test/test_overlap_lumi_fast_copy.sh"
+        ], 
+        "created_at": 1678170779, 
+        "number": 40977, 
+        "state": "open", 
+        "updated_at": 1678170802
     }
 }
