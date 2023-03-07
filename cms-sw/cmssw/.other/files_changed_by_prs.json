@@ -1686,5 +1686,30 @@
         "number": 40971, 
         "state": "open", 
         "updated_at": 1678170588
+    }, 
+    "40972": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Alignment/OfflineValidation/scripts/submitPVValidationJobs.py", 
+            "Alignment/OfflineValidation/test/BuildFile.xml", 
+            "Alignment/OfflineValidation/test/testAlignmentOfflineValidation.cpp", 
+            "Alignment/OfflineValidation/test/testingScripts/testPVValidation.sh", 
+            "Alignment/OfflineValidation/test/testingScripts/test_unitDMR.sh", 
+            "Alignment/OfflineValidation/test/testingScripts/test_unitDiMuonVertex.sh", 
+            "Alignment/OfflineValidation/test/testingScripts/test_unitEoP.sh", 
+            "Alignment/OfflineValidation/test/testingScripts/test_unitGCP.sh", 
+            "Alignment/OfflineValidation/test/testingScripts/test_unitJetHT.sh", 
+            "Alignment/OfflineValidation/test/testingScripts/test_unitMiscellanea.sh", 
+            "Alignment/OfflineValidation/test/testingScripts/test_unitPV.sh", 
+            "Alignment/OfflineValidation/test/testingScripts/test_unitPrimaryVertex.sh", 
+            "Alignment/OfflineValidation/test/testingScripts/test_unitSplitV.sh", 
+            "Alignment/OfflineValidation/test/testingScripts/test_unitSubmitPVrbr.sh", 
+            "Alignment/OfflineValidation/test/testingScripts/test_unitSubmitPVsplit.sh", 
+            "Alignment/OfflineValidation/test/testingScripts/validateAlignments.sh"
+        ], 
+        "created_at": 1678170586, 
+        "number": 40972, 
+        "state": "open", 
+        "updated_at": 1678170615
     }
 }
