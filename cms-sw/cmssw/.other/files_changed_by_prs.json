@@ -1673,5 +1673,18 @@
         "number": 40970, 
         "state": "open", 
         "updated_at": 1678161482
+    }, 
+    "40971": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondFormats/Common/test/BuildFile.xml", 
+            "CondFormats/Common/test/ProduceDropBoxMetadata.py", 
+            "CondFormats/Common/test/createTestDBObjects.sh", 
+            "CondFormats/Common/test/testDropboxMetadataDB.cpp"
+        ], 
+        "created_at": 1678170556, 
+        "number": 40971, 
+        "state": "open", 
+        "updated_at": 1678170588
     }
 }
