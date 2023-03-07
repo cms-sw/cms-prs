@@ -689,6 +689,7 @@
             "DPGAnalysis/HcalNanoAOD/plugins/HcalRecHitTableProducer.cc", 
             "DPGAnalysis/HcalNanoAOD/plugins/HcalUMNioTableProducer.cc", 
             "DPGAnalysis/HcalNanoAOD/python/customiseHcalCalib_cff.py", 
+            "DPGAnalysis/HcalNanoAOD/python/customiseHcalLocal_cff.py", 
             "DPGAnalysis/HcalNanoAOD/python/hcalDetIdTable_cff.py", 
             "DPGAnalysis/HcalNanoAOD/python/hcalDigiSortedTable_cff.py", 
             "DPGAnalysis/HcalNanoAOD/python/hcalNano_cff.py", 
@@ -707,7 +708,7 @@
         "created_at": 1673474031, 
         "number": 40489, 
         "state": "open", 
-        "updated_at": 1676893032
+        "updated_at": 1678222941
     }, 
     "40547": {
         "base_branch": "master", 
