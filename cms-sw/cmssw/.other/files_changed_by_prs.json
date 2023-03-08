@@ -1676,5 +1676,18 @@
         "number": 40988, 
         "state": "open", 
         "updated_at": 1678263720
+    }, 
+    "40989": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Alignment/OfflineValidation/plugins/PixelBaryCentreAnalyzer.cc", 
+            "CondCore/AlignmentPlugins/interface/AlignmentPayloadInspectorHelper.h", 
+            "CondCore/SiPixelPlugins/interface/SiPixelPayloadInspectorHelper.h", 
+            "DQM/SiPixelPhase1Common/src/SiPixelCoordinates.cc"
+        ], 
+        "created_at": 1678267506, 
+        "number": 40989, 
+        "state": "open", 
+        "updated_at": 1678267537
     }
 }
