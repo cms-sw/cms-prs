@@ -1634,39 +1634,6 @@
         "state": "open", 
         "updated_at": 1678263289
     }, 
-    "40988": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/Framework/test/BuildFile.xml", 
-            "FWCore/Framework/test/TestDriver.cpp", 
-            "FWCore/Framework/test/run_PrintDependencies.sh", 
-            "FWCore/Framework/test/run_XMLException.sh", 
-            "FWCore/Framework/test/run_cmsRun.sh", 
-            "FWCore/Framework/test/run_deadlock_test.sh", 
-            "FWCore/Framework/test/run_es_refer_tests.sh", 
-            "FWCore/Framework/test/run_esproducerlooper.sh", 
-            "FWCore/Framework/test/run_global_stream_one.sh", 
-            "FWCore/Framework/test/run_module_delete_tests.sh", 
-            "FWCore/Framework/test/run_replace_tests.sh", 
-            "FWCore/Framework/test/run_statemachine.sh", 
-            "FWCore/Framework/test/run_tbbTasks.sh", 
-            "FWCore/Framework/test/run_testOptions.sh", 
-            "FWCore/Framework/test/run_test_1_thread_es_prefetching.sh", 
-            "FWCore/Framework/test/run_trigbit.sh", 
-            "FWCore/Framework/test/run_trigmask.sh", 
-            "FWCore/Framework/test/run_unscheduled.sh", 
-            "FWCore/Framework/test/test_InputTag_cache_failure.sh", 
-            "FWCore/Framework/test/test_deleteEarly.sh", 
-            "FWCore/Framework/test/test_earlyTerminationSignal.sh", 
-            "FWCore/Framework/test/test_emptyPath.sh", 
-            "FWCore/Framework/test/test_non_event_ordering.sh", 
-            "FWCore/Framework/test/transition_test.sh"
-        ], 
-        "created_at": 1678263693, 
-        "number": 40988, 
-        "state": "open", 
-        "updated_at": 1678263720
-    }, 
     "40989": {
         "base_branch": "master", 
         "changed_files_names": [
