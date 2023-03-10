@@ -1808,5 +1808,21 @@
         "number": 41026, 
         "state": "open", 
         "updated_at": 1678465567
+    }, 
+    "41027": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimFastTiming/FastTimingCommon/BuildFile.xml", 
+            "SimFastTiming/FastTimingCommon/interface/BTLDeviceSim.h", 
+            "SimFastTiming/FastTimingCommon/interface/BTLElectronicsSim.h", 
+            "SimFastTiming/FastTimingCommon/python/mtdDigitizer_cfi.py", 
+            "SimFastTiming/FastTimingCommon/src/BTLDeviceSim.cc", 
+            "SimFastTiming/FastTimingCommon/src/BTLElectronicsSim.cc", 
+            "Validation/MtdValidation/plugins/BtlLocalRecoValidation.cc"
+        ], 
+        "created_at": 1678466782, 
+        "number": 41027, 
+        "state": "open", 
+        "updated_at": 1678466804
     }
 }
