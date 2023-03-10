@@ -1071,7 +1071,13 @@
     "40855": {
         "base_branch": "master", 
         "changed_files_names": [
+            "CalibCalorimetry/EcalTrivialCondModules/interface/EcalTrivialConditionRetriever.h", 
+            "CalibCalorimetry/EcalTrivialCondModules/src/EcalTrivialConditionRetriever.cc", 
+            "CondCore/EcalPlugins/plugins/BuildFile.xml", 
+            "CondCore/EcalPlugins/plugins/EcalSimComponentShape_PayloadInspector.cc", 
             "CondCore/EcalPlugins/src/plugin.cc", 
+            "CondCore/Utilities/plugins/Module_2XML.cc", 
+            "CondCore/Utilities/src/CondFormats.h", 
             "CondFormats/DataRecord/interface/EcalSimComponentShapeRcd.h", 
             "CondFormats/DataRecord/src/EcalSimComponentShapeRcd.cc", 
             "CondFormats/EcalObjects/interface/EcalSimComponentShape.h", 
@@ -1080,6 +1086,11 @@
             "CondFormats/EcalObjects/src/classes.h", 
             "CondFormats/EcalObjects/src/classes_def.xml", 
             "CondFormats/EcalObjects/src/headers.h", 
+            "CondFormats/EcalObjects/test/testSerializationEcalObjects.cpp", 
+            "CondTools/Ecal/interface/EcalDBCopy.h", 
+            "CondTools/Ecal/interface/XMLTags.h", 
+            "CondTools/Ecal/python/copySimComponentShapeFromFiles_cfg.py", 
+            "CondTools/Ecal/src/EcalDBCopy.cc", 
             "Configuration/Eras/python/Modifier_run3_ecal_devel_cff.py", 
             "Configuration/StandardSequences/python/Eras.py", 
             "DataFormats/EcalDigi/interface/EcalTimeDigi.h", 
@@ -1113,7 +1124,7 @@
         "created_at": 1677109250, 
         "number": 40855, 
         "state": "open", 
-        "updated_at": 1677971199
+        "updated_at": 1678475747
     }, 
     "40876": {
         "base_branch": "master", 
