@@ -1194,12 +1194,14 @@
         "changed_files_names": [
             "PerfTools/JeProf/BuildFile.xml", 
             "PerfTools/JeProf/interface/jeprof.h", 
+            "PerfTools/JeProf/plugins/BuildFile.xml", 
+            "PerfTools/JeProf/plugins/JeProfService.cc", 
             "PerfTools/JeProf/src/jeprof.cc"
         ], 
         "created_at": 1677605038, 
         "number": 40899, 
         "state": "open", 
-        "updated_at": 1678126486
+        "updated_at": 1678483020
     }, 
     "40901": {
         "base_branch": "CMSSW_13_0_X", 
