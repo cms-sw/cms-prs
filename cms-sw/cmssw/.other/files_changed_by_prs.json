@@ -1969,5 +1969,17 @@
         "number": 41034, 
         "state": "open", 
         "updated_at": 1678469190
+    }, 
+    "41035": {
+        "base_branch": "CMSSW_13_0_X", 
+        "changed_files_names": [
+            "DataFormats/Scouting/interface/Run3ScoutingElectron.h", 
+            "DataFormats/Scouting/src/classes_def.xml", 
+            "HLTrigger/Egamma/plugins/HLTScoutingEgammaProducer.cc"
+        ], 
+        "created_at": 1678489490, 
+        "number": 41035, 
+        "state": "open", 
+        "updated_at": 1678489515
     }
 }
