@@ -1870,7 +1870,11 @@
         "changed_files_names": [
             "FWCore/Services/test/BuildFile.xml", 
             "FWCore/Services/test/TestFWCoreServicesDriver.cpp", 
+            "FWCore/Services/test/test_cpu.sh", 
+            "FWCore/Services/test/test_resource.sh", 
             "FWCore/Services/test/test_resourceInformationService.sh", 
+            "FWCore/Services/test/test_sitelocalconfig.sh", 
+            "FWCore/Services/test/test_zombiekiller.sh", 
             "FWCore/SharedMemory/test/test_monitor_thread_signals.sh", 
             "IOPool/Common/test/BuildFile.xml", 
             "IOPool/Common/test/TestEdmFastMerge.sh", 
@@ -1886,13 +1890,17 @@
             "IOPool/SecondaryInput/test/TestSecondaryInput.cpp", 
             "IOPool/SecondaryInput/test/TestSecondaryInput.sh", 
             "IOPool/Streamer/test/BuildFile.xml", 
+            "IOPool/Streamer/test/RunLZMA.sh", 
             "IOPool/Streamer/test/RunSimple_NewStreamer.sh", 
-            "IOPool/Streamer/test/RunThis_t.cpp"
+            "IOPool/Streamer/test/RunThis_t.cpp", 
+            "IOPool/Streamer/test/RunUNCOMPRESSED.sh", 
+            "IOPool/Streamer/test/RunZLIB.sh", 
+            "IOPool/Streamer/test/RunZSTD.sh"
         ], 
         "created_at": 1678468573, 
         "number": 41032, 
         "state": "open", 
-        "updated_at": 1678468598
+        "updated_at": 1678532373
     }, 
     "41033": {
         "base_branch": "master", 
