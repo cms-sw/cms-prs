@@ -1589,37 +1589,6 @@
         "state": "open", 
         "updated_at": 1678403029
     }, 
-    "41022": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4CMS/Calo/src/CaloSD.cc", 
-            "SimG4CMS/Forward/src/TimingSD.cc", 
-            "SimG4CMS/Muon/src/MuonSensitiveDetector.cc", 
-            "SimG4CMS/Tracker/src/TkAccumulatingSensitiveDetector.cc", 
-            "SimG4Core/Application/interface/EventAction.h", 
-            "SimG4Core/Application/interface/SteppingAction.h", 
-            "SimG4Core/Application/interface/TrackingAction.h", 
-            "SimG4Core/Application/python/g4SimHits_cfi.py", 
-            "SimG4Core/Application/src/EventAction.cc", 
-            "SimG4Core/Application/src/RunManagerMT.cc", 
-            "SimG4Core/Application/src/RunManagerMTWorker.cc", 
-            "SimG4Core/Application/src/StackingAction.cc", 
-            "SimG4Core/Application/src/SteppingAction.cc", 
-            "SimG4Core/Application/src/TrackingAction.cc", 
-            "SimG4Core/CustomPhysics/plugins/DBremWatcher.cc", 
-            "SimG4Core/CustomPhysics/plugins/DBremWatcher.h", 
-            "SimG4Core/Notification/interface/CMSSteppingVerbose.h", 
-            "SimG4Core/Notification/interface/TrackInformation.h", 
-            "SimG4Core/Notification/src/CMSSteppingVerbose.cc", 
-            "SimG4Core/Notification/src/NewTrackAction.cc", 
-            "SimG4Core/SaveSimTrackAction/src/SaveSimTrack.cc", 
-            "SimG4Core/Watcher/interface/SimWatcher.h"
-        ], 
-        "created_at": 1678456185, 
-        "number": 41022, 
-        "state": "open", 
-        "updated_at": 1678473331
-    }, 
     "41025": {
         "base_branch": "master", 
         "changed_files_names": [
