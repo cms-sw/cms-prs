@@ -1785,5 +1785,25 @@
         "number": 41044, 
         "state": "open", 
         "updated_at": 1678724140
+    }, 
+    "41046": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondFormats/L1TObjects/interface/CaloParams.h", 
+            "L1Trigger/L1TCaloLayer1/plugins/L1TCaloLayer1.cc", 
+            "L1Trigger/L1TCaloLayer1/src/L1TCaloLayer1FetchLUTs.cc", 
+            "L1Trigger/L1TCaloLayer1/src/L1TCaloLayer1FetchLUTs.hh", 
+            "L1Trigger/L1TCalorimeter/interface/CaloParamsHelper.h", 
+            "L1Trigger/L1TCalorimeter/plugins/L1TCaloParamsESProducer.cc", 
+            "L1Trigger/L1TCalorimeter/plugins/L1TCaloStage2ParamsESProducer.cc", 
+            "L1Trigger/L1TCalorimeter/python/caloParamsHI_2022_v0_6_cfi.py", 
+            "L1Trigger/L1TCalorimeter/python/caloParams_2022_v0_6_cfi.py", 
+            "L1TriggerConfig/L1TConfigProducers/src/CaloParamsHelperO2O.h", 
+            "L1TriggerConfig/L1TConfigProducers/src/L1TCaloParamsOnlineProd.cc"
+        ], 
+        "created_at": 1678736839, 
+        "number": 41046, 
+        "state": "open", 
+        "updated_at": 1678736865
     }
 }
