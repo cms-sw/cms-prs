@@ -1322,17 +1322,19 @@
             "EventFilter/Utilities/test/FU_scouting.py", 
             "EventFilter/Utilities/test/FU_scouting_2.py", 
             "EventFilter/Utilities/test/RunBUFU.sh", 
-            "EventFilter/Utilities/test/RunBUFU_daqsource.sh", 
             "EventFilter/Utilities/test/dumpMuonScouting.py", 
             "EventFilter/Utilities/test/unittest_FU_daqsource.py", 
             "FWCore/Sources/interface/DaqProvenanceHelper.h", 
             "FWCore/Sources/src/DaqProvenanceHelper.cc", 
-            "IOPool/Streamer/interface/FRDFileHeader.h"
+            "IOPool/Streamer/interface/FRDFileHeader.h", 
+            "IOPool/Streamer/interface/StreamerFileIO.h", 
+            "IOPool/Streamer/src/StreamerFileIO.cc", 
+            "IOPool/Streamer/src/StreamerOutputFile.cc"
         ], 
         "created_at": 1678108349, 
         "number": 40960, 
         "state": "open", 
-        "updated_at": 1678395020
+        "updated_at": 1678832901
     }, 
     "40961": {
         "base_branch": "master", 
