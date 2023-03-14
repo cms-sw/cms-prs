@@ -1921,5 +1921,36 @@
         "number": 41047, 
         "state": "open", 
         "updated_at": 1678739579
+    }, 
+    "41048": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/ForwardCommonData/data/hfnoseCons/v1/hfnoseCons.xml", 
+            "Geometry/ForwardCommonData/data/hfnoseCons/v1m/hfnoseCons.xml", 
+            "Geometry/HGCalCommonData/data/hgcalCons/v16/hgcalCons.xml", 
+            "Geometry/HGCalCommonData/data/hgcalCons/v17/hgcalCons.xml", 
+            "Geometry/HGCalCommonData/data/hgcalCons/v17n/hgcalCons.xml", 
+            "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h", 
+            "Geometry/HGCalCommonData/interface/HGCalParameters.h", 
+            "Geometry/HGCalCommonData/interface/HGCalWaferMask.h", 
+            "Geometry/HGCalCommonData/plugins/DDHGCalWaferP.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalWaferP.cc", 
+            "Geometry/HGCalCommonData/src/HGCalParametersFromDD.cc", 
+            "Geometry/HGCalCommonData/src/HGCalWaferMask.cc", 
+            "Geometry/HGCalCommonData/test/HGCalPartialCellTester.cc", 
+            "SimG4CMS/Calo/interface/HFNoseSD.h", 
+            "SimG4CMS/Calo/interface/HGCGuardRing.h", 
+            "SimG4CMS/Calo/interface/HGCMouseBite.h", 
+            "SimG4CMS/Calo/interface/HGCalSD.h", 
+            "SimG4CMS/Calo/src/HFNoseSD.cc", 
+            "SimG4CMS/Calo/src/HGCGuradRing.cc", 
+            "SimG4CMS/Calo/src/HGCMouseBite.cc", 
+            "SimG4CMS/Calo/src/HGCSD.cc", 
+            "SimG4CMS/Calo/src/HGCalSD.cc"
+        ], 
+        "created_at": 1678776387, 
+        "number": 41048, 
+        "state": "open", 
+        "updated_at": 1678776416
     }
 }
