@@ -1966,5 +1966,20 @@
         "number": 41049, 
         "state": "open", 
         "updated_at": 1678789320
+    }, 
+    "41050": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibTracker/SiStripHitEfficiency/interface/SiStripHitEfficiencyHelpers.h", 
+            "CalibTracker/SiStripHitEfficiency/plugins/HitEff.cc", 
+            "CalibTracker/SiStripHitEfficiency/plugins/HitEff.h", 
+            "CalibTracker/SiStripHitEfficiency/plugins/SiStripHitEffFromCalibTree.cc", 
+            "CalibTracker/SiStripHitEfficiency/plugins/SiStripHitEfficiencyHarvester.cc", 
+            "CalibTracker/SiStripHitEfficiency/test/testHitEffWorker.py"
+        ], 
+        "created_at": 1678794247, 
+        "number": 41050, 
+        "state": "open", 
+        "updated_at": 1678794276
     }
 }
