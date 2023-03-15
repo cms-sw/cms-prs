@@ -2425,5 +2425,17 @@
         "number": 41064, 
         "state": "open", 
         "updated_at": 1678906420
+    }, 
+    "41065": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibTracker/SiStripHitEfficiency/interface/SiStripHitEfficiencyHelpers.h", 
+            "CalibTracker/SiStripHitEfficiency/plugins/SiStripHitEffFromCalibTree.cc", 
+            "CalibTracker/SiStripHitEfficiency/plugins/SiStripHitEfficiencyHarvester.cc"
+        ], 
+        "created_at": 1678908431, 
+        "number": 41065, 
+        "state": "open", 
+        "updated_at": 1678908458
     }
 }
