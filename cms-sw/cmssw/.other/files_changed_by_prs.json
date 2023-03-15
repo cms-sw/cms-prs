@@ -2428,5 +2428,16 @@
         "number": 41061, 
         "state": "open", 
         "updated_at": 1678892462
+    }, 
+    "41062": {
+        "base_branch": "CMSSW_13_0_X", 
+        "changed_files_names": [
+            "DQMOffline/Trigger/python/PhotonMonitor_cff.py", 
+            "HLTriggerOffline/Exotica/python/analyses/hltExoticaHighPtPhoton_cff.py"
+        ], 
+        "created_at": 1678892498, 
+        "number": 41062, 
+        "state": "open", 
+        "updated_at": 1678892527
     }
 }
