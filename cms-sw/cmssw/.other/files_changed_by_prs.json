@@ -1528,24 +1528,6 @@
         "state": "open", 
         "updated_at": 1678646578
     }, 
-    "41038": {
-        "base_branch": "CMSSW_13_0_X", 
-        "changed_files_names": [
-            "HeterogeneousCore/AlpakaCore/interface/alpaka/ESProducer.h", 
-            "HeterogeneousCore/AlpakaCore/src/alpaka/ESProducer.cc", 
-            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaESProducerA.cc", 
-            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaESProducerB.cc", 
-            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaESProducerC.cc", 
-            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaESProducerD.cc", 
-            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaGlobalProducer.cc", 
-            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamProducer.cc", 
-            "HeterogeneousCore/AlpakaTest/test/testAlpakaModules_cfg.py"
-        ], 
-        "created_at": 1678698622, 
-        "number": 41038, 
-        "state": "open", 
-        "updated_at": 1678698691
-    }, 
     "41039": {
         "base_branch": "master", 
         "changed_files_names": [
