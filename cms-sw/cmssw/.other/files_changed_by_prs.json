@@ -1294,13 +1294,13 @@
             "Alignment/OfflineValidation/plugins/PixelBaryCentreAnalyzer.cc", 
             "CondCore/AlignmentPlugins/interface/AlignmentPayloadInspectorHelper.h", 
             "CondCore/SiPixelPlugins/interface/SiPixelPayloadInspectorHelper.h", 
-            "DQM/SiPixelPhase1Common/src/SiPixelCoordinates.cc", 
-            "DQM/TrackerRemapper/interface/Phase1PixelROCMaps.h"
+            "CondCore/SiPixelPlugins/plugins/SiPixelDynamicInefficiency_PayloadInspector.cc", 
+            "CondCore/SiPixelPlugins/plugins/SiPixelQuality_PayloadInspector.cc"
         ], 
         "created_at": 1678267506, 
         "number": 40989, 
         "state": "open", 
-        "updated_at": 1678301242
+        "updated_at": 1678953670
     }, 
     "41000": {
         "base_branch": "CMSSW_13_0_X", 
