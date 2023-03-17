@@ -1093,6 +1093,7 @@
             "CondTools/Ecal/python/copySimComponentShapeFromFiles_cfg.py", 
             "CondTools/Ecal/src/EcalDBCopy.cc", 
             "Configuration/Eras/python/Modifier_run3_ecal_devel_cff.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
             "Configuration/StandardSequences/python/Eras.py", 
             "DataFormats/EcalDigi/interface/EcalTimeDigi.h", 
             "DataFormats/EcalDigi/src/EcalTimeDigi.cc", 
@@ -1126,7 +1127,7 @@
         "created_at": 1677109250, 
         "number": 40855, 
         "state": "open", 
-        "updated_at": 1679055777
+        "updated_at": 1679083966
     }, 
     "40876": {
         "base_branch": "master", 
