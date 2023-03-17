@@ -2432,5 +2432,21 @@
         "number": 41092, 
         "state": "open", 
         "updated_at": 1679071822
+    }, 
+    "41093": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/Scouting/test/BuildFile.xml", 
+            "DataFormats/Scouting/test/scoutingCollectionsDumper.py", 
+            "DataFormats/Scouting/test/scoutingCollectionsIO_cfg.py", 
+            "DataFormats/Scouting/test/testDataFormatsScoutingRun2.sh", 
+            "DataFormats/Scouting/test/testDataFormatsScoutingRun2_expected.log", 
+            "DataFormats/Scouting/test/testDataFormatsScoutingRun3.sh", 
+            "DataFormats/Scouting/test/testDataFormatsScoutingRun3_expected.log"
+        ], 
+        "created_at": 1679089349, 
+        "number": 41093, 
+        "state": "open", 
+        "updated_at": 1679089372
     }
 }
