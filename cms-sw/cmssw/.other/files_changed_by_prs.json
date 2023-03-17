@@ -1460,17 +1460,15 @@
             "CondFormats/L1TObjects/interface/L1TUtmScale.h", 
             "CondFormats/L1TObjects/interface/L1TUtmTriggerMenu.h", 
             "DQM/CastorMonitor/interface/CastorMonitorModule.h", 
-            "L1Trigger/L1TGlobal/interface/utmFirmwareHelpers.h", 
             "L1Trigger/L1TGlobal/plugins/L1TUtmTriggerMenuDumper.cc", 
             "L1Trigger/L1TGlobal/plugins/L1TUtmTriggerMenuESProducer.cc", 
             "L1Trigger/L1TGlobal/plugins/TriggerMenuParser.cc", 
-            "L1Trigger/L1TGlobal/plugins/TriggerMenuParser.h", 
-            "L1Trigger/L1TGlobal/src/utmFirmwareHelpers.cc"
+            "L1Trigger/L1TGlobal/plugins/TriggerMenuParser.h"
         ], 
         "created_at": 1678493546, 
         "number": 41036, 
         "state": "open", 
-        "updated_at": 1678796341
+        "updated_at": 1679074801
     }, 
     "41039": {
         "base_branch": "master", 
