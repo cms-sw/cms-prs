@@ -1347,22 +1347,6 @@
         "state": "open", 
         "updated_at": 1679031214
     }, 
-    "41002": {
-        "base_branch": "CMSSW_13_0_X", 
-        "changed_files_names": [
-            "DQM/L1TMonitor/src/L1TStage2CaloLayer1.cc", 
-            "EventFilter/L1TRawToDigi/interface/Block.h", 
-            "EventFilter/L1TRawToDigi/plugins/implementations_stage2/CaloLayer1Unpacker.cc", 
-            "EventFilter/L1TRawToDigi/plugins/implementations_stage2/CaloLayer1Unpacker.h", 
-            "EventFilter/L1TRawToDigi/plugins/implementations_stage2/UCTCTP7RawData5BX_HCALFB.h", 
-            "EventFilter/L1TRawToDigi/plugins/implementations_stage2/UCTCTP7RawData_HCALFB.h", 
-            "EventFilter/L1TRawToDigi/src/Block.cc"
-        ], 
-        "created_at": 1678320530, 
-        "number": 41002, 
-        "state": "open", 
-        "updated_at": 1679002623
-    }, 
     "41003": {
         "base_branch": "master", 
         "changed_files_names": [
