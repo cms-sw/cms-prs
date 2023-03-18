@@ -2406,11 +2406,12 @@
     "41096": {
         "base_branch": "master", 
         "changed_files_names": [
-            "EventFilter/Utilities/src/DAQSource.cc"
+            "EventFilter/Utilities/src/DAQSource.cc", 
+            "EventFilter/Utilities/test/unittest_FU_daqsource.py"
         ], 
         "created_at": 1679139496, 
         "number": 41096, 
         "state": "open", 
-        "updated_at": 1679139523
+        "updated_at": 1679168798
     }
 }
