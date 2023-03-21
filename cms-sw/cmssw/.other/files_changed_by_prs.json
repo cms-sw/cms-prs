@@ -2206,6 +2206,9 @@
         "changed_files_names": [
             "RecoTauTag/HLTProducers/interface/CaloTowerCreatorForTauHLT.h", 
             "RecoTauTag/HLTProducers/interface/CaloTowerFromL1TCreatorForTauHLT.h", 
+            "RecoTauTag/HLTProducers/interface/L1HLTJetsMatching.h", 
+            "RecoTauTag/HLTProducers/interface/L1HLTTauMatching.h", 
+            "RecoTauTag/HLTProducers/interface/L1THLTTauMatching.h", 
             "RecoTauTag/HLTProducers/interface/L1TJetsMatching.h", 
             "RecoTauTag/HLTProducers/interface/PFJetsMaxInvMassModule.h", 
             "RecoTauTag/HLTProducers/src/CaloTowerCreatorForTauHLT.cc", 
@@ -2220,7 +2223,7 @@
         "created_at": 1679241928, 
         "number": 41100, 
         "state": "open", 
-        "updated_at": 1679299200
+        "updated_at": 1679386605
     }, 
     "41101": {
         "base_branch": "master", 
