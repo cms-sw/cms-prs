@@ -2910,5 +2910,17 @@
         "number": 41139, 
         "state": "open", 
         "updated_at": 1679501897
+    }, 
+    "41140": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondCore/ESSources/test/BuildFile.xml", 
+            "CondCore/ESSources/test/TestConcurrentIOVsCondCore.sh", 
+            "CondCore/ESSources/test/TestCondCoreESSources.cpp"
+        ], 
+        "created_at": 1679501884, 
+        "number": 41140, 
+        "state": "open", 
+        "updated_at": 1679501904
     }
 }
