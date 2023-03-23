@@ -2762,5 +2762,25 @@
         "number": 41151, 
         "state": "open", 
         "updated_at": 1679569357
+    }, 
+    "41152": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/SiStripMonitorClient/test/BuildFile.xml", 
+            "DQM/SiStripMonitorClient/test/TestDriver.cpp", 
+            "DQM/SiStripMonitorClient/test/test_SiStripDQM_OfflineTkMap.sh", 
+            "DQM/SiStripMonitorClient/test/test_TreeAndTkMapProducer.sh", 
+            "DQM/TrackerCommon/test/BuildFile.xml", 
+            "DQM/TrackerCommon/test/test_DetectorStateFilter.cpp", 
+            "DQM/TrackerCommon/test/test_DetectorStateFilter.sh", 
+            "DQMOffline/Alignment/test/BuildFile.xml", 
+            "DQMOffline/Alignment/test/TestDriver.cpp", 
+            "DQMOffline/Alignment/test/testDiMuonVertexMonitor.sh", 
+            "Validation/CTPPS/test/TestDriver.cc"
+        ], 
+        "created_at": 1679569364, 
+        "number": 41152, 
+        "state": "open", 
+        "updated_at": 1679569387
     }
 }
