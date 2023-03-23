@@ -2565,14 +2565,20 @@
             "IOPool/Streamer/src/StreamerFileWriter.cc", 
             "IOPool/Streamer/src/StreamerInputFile.cc", 
             "IOPool/Streamer/src/StreamerOutputFile.cc", 
+            "IOPool/Streamer/test/NewStreamCopy_cfg.py", 
+            "IOPool/Streamer/test/NewStreamIn2_cfg.py", 
             "IOPool/Streamer/test/NewStreamInPadding_cfg.py", 
+            "IOPool/Streamer/test/NewStreamIn_cfg.py", 
             "IOPool/Streamer/test/NewStreamOutPadding_cfg.py", 
-            "IOPool/Streamer/test/RunSimple_NewStreamer.sh"
+            "IOPool/Streamer/test/NewStreamOut_cfg.py", 
+            "IOPool/Streamer/test/RunSimple_NewStreamer.sh", 
+            "IOPool/Streamer/test/StreamThingAnalyzer.cc", 
+            "IOPool/Streamer/test/StreamThingAnalyzer.h"
         ], 
         "created_at": 1679431479, 
         "number": 41125, 
         "state": "open", 
-        "updated_at": 1679511055
+        "updated_at": 1679562656
     }, 
     "41128": {
         "base_branch": "master", 
