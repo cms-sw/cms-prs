@@ -1145,12 +1145,14 @@
             "PerfTools/JeProf/plugins/JeProfService.cc", 
             "PerfTools/JeProf/src/jeprof.cc", 
             "PerfTools/JeProf/test/BuildFile.xml", 
-            "PerfTools/JeProf/test/jeprof_t.cc"
+            "PerfTools/JeProf/test/jeprof_nowarn_t.sh", 
+            "PerfTools/JeProf/test/jeprof_t.cc", 
+            "PerfTools/JeProf/test/jeprof_warn_t.sh"
         ], 
         "created_at": 1677605038, 
         "number": 40899, 
         "state": "open", 
-        "updated_at": 1679489213
+        "updated_at": 1679606234
     }, 
     "40921": {
         "base_branch": "master", 
