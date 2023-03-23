@@ -2815,39 +2815,6 @@
         "state": "open", 
         "updated_at": 1679569425
     }, 
-    "41156": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibTracker/SiPixelESProducers/test/BuildFile.xml", 
-            "CalibTracker/SiPixelESProducers/test/testSiPixelFakeLorentzAngleESSource.cpp", 
-            "CalibTracker/SiPixelESProducers/test/testSiPixelFakeLorentzAngleESSource.sh", 
-            "CalibTracker/SiStripChannelGain/test/BuildFile.xml", 
-            "CalibTracker/SiStripChannelGain/test/testSSTGain_PCL_FromCalibTree.cpp", 
-            "CalibTracker/SiStripChannelGain/test/testSSTGain_PCL_FromCalibTree.sh", 
-            "CalibTracker/SiStripChannelGain/test/testSSTGain_PCL_FromRECO.cpp", 
-            "CalibTracker/SiStripChannelGain/test/testSSTGain_PCL_FromRECO.sh", 
-            "CalibTracker/SiStripHitEfficiency/test/BuildFile.xml", 
-            "CalibTracker/SiStripHitEfficiency/test/TestDriver.cpp", 
-            "CalibTracker/SiStripHitEfficiency/test/test_SiStripHitEfficiency.sh", 
-            "CalibTracker/SiStripHitResolution/test/BuildFile.xml", 
-            "CalibTracker/SiStripHitResolution/test/TestDriver.cpp", 
-            "CalibTracker/SiStripHitResolution/test/test_SiStripHitResolution.sh", 
-            "CalibTracker/SiStripQuality/test/BuildFile.xml", 
-            "CalibTracker/SiStripQuality/test/TestDriver.cpp", 
-            "CalibTracker/SiStripQuality/test/test_SiStripQualityStatistics.sh", 
-            "CalibTracker/SiStripQuality/test/test_makeMergedBadComponentsWithFedErr.sh", 
-            "Calibration/PPSAlCaRecoProducer/test/BuildFile.xml", 
-            "Calibration/PPSAlCaRecoProducer/test/TestDriver.cpp", 
-            "Calibration/PPSAlCaRecoProducer/test/test_express_AlCaRecoProducer.sh", 
-            "Calibration/PPSAlCaRecoProducer/test/test_express_PPSAlCaReco_output.sh", 
-            "Calibration/PPSAlCaRecoProducer/test/test_prompt_AlCaRecoProducer.sh", 
-            "Calibration/PPSAlCaRecoProducer/test/test_prompt_PPSAlCaReco_output.sh"
-        ], 
-        "created_at": 1679569412, 
-        "number": 41156, 
-        "state": "open", 
-        "updated_at": 1679569435
-    }, 
     "41157": {
         "base_branch": "master", 
         "changed_files_names": [
