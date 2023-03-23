@@ -3124,5 +3124,17 @@
         "number": 41166, 
         "state": "open", 
         "updated_at": 1679603209
+    }, 
+    "41167": {
+        "base_branch": "CMSSW_13_0_X", 
+        "changed_files_names": [
+            "Configuration/Skimming/python/PDWG_EXOLLPJetHCAL_cff.py", 
+            "Configuration/Skimming/python/Skims_PDWG_cff.py", 
+            "Configuration/Skimming/test/test_EXOLLPJetHCAL_SKIM.py"
+        ], 
+        "created_at": 1679605945, 
+        "number": 41167, 
+        "state": "open", 
+        "updated_at": 1679605975
     }
 }
