@@ -2657,12 +2657,16 @@
             "CondTools/Hcal/interface/HcalPFCutsHandler.h", 
             "CondTools/Hcal/plugins/HcalDumpConditions.cc", 
             "CondTools/Hcal/plugins/HcalPFCutsPopConAnalyzer.cc", 
-            "CondTools/Hcal/src/HcalPFCutsHandler.cc"
+            "CondTools/Hcal/src/HcalPFCutsHandler.cc", 
+            "CondTools/Hcal/test/BuildFile.xml", 
+            "CondTools/Hcal/test/HcalPFCuts_unittest.cc", 
+            "CondTools/Hcal/test/hcalpfcuts.txt", 
+            "CondTools/Hcal/test/pfcuts_db_io_test.csh"
         ], 
         "created_at": 1679495052, 
         "number": 41128, 
         "state": "open", 
-        "updated_at": 1679495077
+        "updated_at": 1679542365
     }, 
     "41129": {
         "base_branch": "master", 
