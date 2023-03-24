@@ -3007,5 +3007,20 @@
         "number": 41173, 
         "state": "open", 
         "updated_at": 1679654385
+    }, 
+    "41174": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/DTGeometry/src/DTTopology.cc", 
+            "Geometry/DTGeometry/test/DTGeometryAnalyzer.cc", 
+            "Geometry/DTGeometry/test/DTRecoIdealDBLoader.cc", 
+            "Geometry/DTGeometryBuilder/src/DTGeometryBuilderFromCondDB.cc", 
+            "Geometry/DTGeometryBuilder/src/DTGeometryBuilderFromDDD.cc", 
+            "Geometry/DTGeometryBuilder/src/DTGeometryParsFromDD.cc"
+        ], 
+        "created_at": 1679657999, 
+        "number": 41174, 
+        "state": "open", 
+        "updated_at": 1679658026
     }
 }
