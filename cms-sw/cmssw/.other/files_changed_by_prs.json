@@ -3090,5 +3090,21 @@
         "number": 41167, 
         "state": "open", 
         "updated_at": 1679605975
+    }, 
+    "41168": {
+        "base_branch": "CMSSW_13_0_X", 
+        "changed_files_names": [
+            "DataFormats/Scouting/test/BuildFile.xml", 
+            "DataFormats/Scouting/test/scoutingCollectionsDumper.py", 
+            "DataFormats/Scouting/test/scoutingCollectionsIO_cfg.py", 
+            "DataFormats/Scouting/test/testDataFormatsScoutingRun2.sh", 
+            "DataFormats/Scouting/test/testDataFormatsScoutingRun2_expected.log", 
+            "DataFormats/Scouting/test/testDataFormatsScoutingRun3.sh", 
+            "DataFormats/Scouting/test/testDataFormatsScoutingRun3_expected.log"
+        ], 
+        "created_at": 1679641010, 
+        "number": 41168, 
+        "state": "open", 
+        "updated_at": 1679641056
     }
 }
