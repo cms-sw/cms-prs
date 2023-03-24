@@ -2820,33 +2820,6 @@
         "state": "open", 
         "updated_at": 1679535056
     }, 
-    "41134": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "JetMETCorrections/Type1MET/test/BuildFile.xml", 
-            "JetMETCorrections/Type1MET/test/TestDriver.cpp", 
-            "JetMETCorrections/Type1MET/test/runtests.sh", 
-            "RecoEgamma/ElectronIdentification/test/BuildFile.xml", 
-            "RecoEgamma/ElectronIdentification/test/runtestRecoEgammaElectronIdentification.cpp", 
-            "RecoEgamma/ElectronIdentification/test/runtests.sh", 
-            "RecoEgamma/PhotonIdentification/test/BuildFile.xml", 
-            "RecoEgamma/PhotonIdentification/test/runtestRecoEgammaPhotonIdentification.cpp", 
-            "RecoEgamma/PhotonIdentification/test/runtests.sh", 
-            "RecoLuminosity/LumiProducer/test/BuildFile.xml", 
-            "RecoLuminosity/LumiProducer/test/TestIntegration.cpp", 
-            "RecoLuminosity/LumiProducer/test/run_lumiProd.sh", 
-            "RecoMET/METProducers/test/BuildFile.xml", 
-            "RecoMET/METProducers/test/TestDriver.cpp", 
-            "RecoMET/METProducers/test/runtests.sh", 
-            "RecoTauTag/RecoTau/test/BuildFile.xml", 
-            "RecoTauTag/RecoTau/test/runtestRecoTauTagRecoTau.cpp", 
-            "RecoTauTag/RecoTau/test/runtests.sh"
-        ], 
-        "created_at": 1679501814, 
-        "number": 41134, 
-        "state": "open", 
-        "updated_at": 1679522804
-    }, 
     "41145": {
         "base_branch": "master", 
         "changed_files_names": [
