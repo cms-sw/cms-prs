@@ -3160,5 +3160,21 @@
         "number": 41190, 
         "state": "open", 
         "updated_at": 1679830391
+    }, 
+    "41191": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/EcalMapping/src/ESElectronicsMapper.cc", 
+            "Geometry/EcalMapping/src/EcalElectronicsMapping.cc", 
+            "Geometry/EcalTestBeam/plugins/DDTBH4Algo.cc", 
+            "Geometry/EcalTestBeam/plugins/EcalTBHodoscopeGeometryLoaderFromDDD.cc", 
+            "Geometry/EcalTestBeam/test/CrystalCenterDump.cc", 
+            "Geometry/EcalTestBeam/test/EcalTBHodoscopeGeometryAnalyzer.cc", 
+            "Geometry/EcalTestBeam/test/testEcalTBHodoscopeGeometry.cc"
+        ], 
+        "created_at": 1679840316, 
+        "number": 41191, 
+        "state": "open", 
+        "updated_at": 1679840338
     }
 }
