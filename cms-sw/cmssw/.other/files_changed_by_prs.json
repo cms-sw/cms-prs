@@ -2888,28 +2888,6 @@
         "state": "open", 
         "updated_at": 1679649274
     }, 
-    "41172": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "EventFilter/L1TRawToDigi/plugins/implementations_stage2/GMTSetup.cc", 
-            "EventFilter/L1TRawToDigi/plugins/implementations_stage2/MuonPacker.cc", 
-            "EventFilter/L1TRawToDigi/plugins/implementations_stage2/MuonUnpacker.cc", 
-            "EventFilter/L1TRawToDigi/plugins/implementations_stage2/RegionalMuonGMTPacker.cc", 
-            "EventFilter/L1TRawToDigi/plugins/implementations_stage2/RegionalMuonGMTPacker.h", 
-            "EventFilter/L1TRawToDigi/plugins/implementations_stage2/RegionalMuonGMTUnpacker.cc", 
-            "EventFilter/L1TRawToDigi/plugins/implementations_stage2/RegionalMuonGMTUnpacker.h", 
-            "EventFilter/L1TRawToDigi/python/gmtStage2Raw_cfi.py", 
-            "EventFilter/L1TRawToDigi/python/gtStage2Raw_cfi.py", 
-            "L1Trigger/L1TMuon/interface/MuonRawDigiTranslator.h", 
-            "L1Trigger/L1TMuon/interface/RegionalMuonRawDigiTranslator.h", 
-            "L1Trigger/L1TMuon/src/MuonRawDigiTranslator.cc", 
-            "L1Trigger/L1TMuon/src/RegionalMuonRawDigiTranslator.cc"
-        ], 
-        "created_at": 1679653993, 
-        "number": 41172, 
-        "state": "open", 
-        "updated_at": 1679656374
-    }, 
     "41173": {
         "base_branch": "master", 
         "changed_files_names": [
