@@ -3112,5 +3112,18 @@
         "number": 41192, 
         "state": "open", 
         "updated_at": 1679842050
+    }, 
+    "41193": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/HLT_75e33/eventsetup/hltESPOnlineBeamSpotProducer_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltOnlineBeamSpot_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33_cff.py", 
+            "RecoVertex/BeamSpotProducer/plugins/BeamSpotOnlineProducer.cc"
+        ], 
+        "created_at": 1679909087, 
+        "number": 41193, 
+        "state": "open", 
+        "updated_at": 1679909112
     }
 }
