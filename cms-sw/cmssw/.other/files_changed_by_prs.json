@@ -2898,5 +2898,18 @@
         "number": 41210, 
         "state": "open", 
         "updated_at": 1680009321
+    }, 
+    "41211": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "L1Trigger/L1TGlobal/interface/MuonShowerTemplate.h", 
+            "L1Trigger/L1TGlobal/plugins/TriggerMenuParser.cc", 
+            "L1Trigger/L1TGlobal/src/GlobalBoard.cc", 
+            "L1Trigger/L1TGlobal/src/MuonShowerCondition.cc"
+        ], 
+        "created_at": 1680017456, 
+        "number": 41211, 
+        "state": "open", 
+        "updated_at": 1680017477
     }
 }
