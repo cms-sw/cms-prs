@@ -1152,28 +1152,6 @@
         "state": "open", 
         "updated_at": 1678896350
     }, 
-    "41043": {
-        "base_branch": "CMSSW_13_0_X", 
-        "changed_files_names": [
-            "DataFormats/PatCandidates/interface/Muon.h", 
-            "DataFormats/PatCandidates/src/Muon.cc", 
-            "DataFormats/PatCandidates/src/classes_def_objects.xml", 
-            "PhysicsTools/NanoAOD/python/muons_cff.py", 
-            "PhysicsTools/NanoAOD/python/nanoDQM_cfi.py", 
-            "PhysicsTools/PatAlgos/interface/CalculatePtRatioRel.h", 
-            "PhysicsTools/PatAlgos/interface/MuonMvaEstimator.h", 
-            "PhysicsTools/PatAlgos/plugins/PATMuonProducer.cc", 
-            "PhysicsTools/PatAlgos/python/producersLayer1/displacedMuonProducer_cff.py", 
-            "PhysicsTools/PatAlgos/python/producersLayer1/muonProducer_cfi.py", 
-            "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py", 
-            "PhysicsTools/PatAlgos/src/CalculatePtRatioRel.cc", 
-            "PhysicsTools/PatAlgos/src/MuonMvaEstimator.cc"
-        ], 
-        "created_at": 1678723399, 
-        "number": 41043, 
-        "state": "open", 
-        "updated_at": 1679903026
-    }, 
     "41049": {
         "base_branch": "CMSSW_13_0_X", 
         "changed_files_names": [
