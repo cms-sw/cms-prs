@@ -759,6 +759,7 @@
     "40663": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/relval_nano.py", 
             "PhysicsTools/NanoAOD/interface/SimpleFlatTableProducer.h", 
             "PhysicsTools/NanoAOD/plugins/SimpleFlatTableProducerPlugins.cc", 
             "PhysicsTools/NanoAOD/python/l1trig_cff.py", 
@@ -767,7 +768,7 @@
         "created_at": 1675264179, 
         "number": 40663, 
         "state": "open", 
-        "updated_at": 1679894959
+        "updated_at": 1679994567
     }, 
     "40670": {
         "base_branch": "master", 
