@@ -79,19 +79,15 @@
             "HeterogeneousCore/MPICore/src/classes.h", 
             "HeterogeneousCore/MPICore/src/classes_def.xml", 
             "HeterogeneousCore/MPICore/test/BuildFile.xml", 
+            "HeterogeneousCore/MPICore/test/createTestFile.py", 
             "HeterogeneousCore/MPICore/test/testMPI.sh", 
             "HeterogeneousCore/MPICore/test/testMPIDriver.py", 
-            "HeterogeneousCore/MPICore/test/testMPISource.py", 
-            "HeterogeneousCore/MPIServices/BuildFile.xml", 
-            "HeterogeneousCore/MPIServices/interface/MPIService.h", 
-            "HeterogeneousCore/MPIServices/plugins/BuildFile.xml", 
-            "HeterogeneousCore/MPIServices/plugins/MPIService.cc", 
-            "HeterogeneousCore/MPIServices/src/MPIService.cc"
+            "HeterogeneousCore/MPICore/test/testMPISource.py"
         ], 
         "created_at": 1610412286, 
         "number": 32632, 
         "state": "open", 
-        "updated_at": 1676105366
+        "updated_at": 1680032312
     }, 
     "33532": {
         "base_branch": "master", 
