@@ -2674,28 +2674,6 @@
         "state": "open", 
         "updated_at": 1679816646
     }, 
-    "41173": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/CaloTopology/interface/EcalBarrelHardcodedTopology.h", 
-            "Geometry/CaloTopology/interface/EcalBarrelTopology.h", 
-            "Geometry/CaloTopology/interface/EcalEndcapHardcodedTopology.h", 
-            "Geometry/CaloTopology/interface/EcalEndcapTopology.h", 
-            "Geometry/CaloTopology/src/EcalTrigTowerConstituentsMap.cc", 
-            "Geometry/CommonTopologies/src/RectangularStripTopology.cc", 
-            "Geometry/CommonTopologies/src/TkRadialStripTopology.cc", 
-            "Geometry/CommonTopologies/src/TrapezoidalStripTopology.cc", 
-            "Geometry/CommonTopologies/src/TwoBowedSurfacesDeformation.cc", 
-            "Geometry/CommonTopologies/test/ValidateRadial.cc", 
-            "Geometry/CommonTopologies/test/python/ValidateRadial_cfg.py", 
-            "Geometry/CommonTopologies/test/testDetSort.cpp", 
-            "Geometry/CommonTopologies/test/testGeomDetEnumerators.cpp"
-        ], 
-        "created_at": 1679654385, 
-        "number": 41173, 
-        "state": "open", 
-        "updated_at": 1680005234
-    }, 
     "41175": {
         "base_branch": "master", 
         "changed_files_names": [
