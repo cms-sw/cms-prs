@@ -2554,5 +2554,16 @@
         "number": 41253, 
         "state": "open", 
         "updated_at": 1680395023
+    }, 
+    "41255": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelPhase2DigiToClusterCUDA.cc"
+        ], 
+        "created_at": 1680508211, 
+        "number": 41255, 
+        "state": "open", 
+        "updated_at": 1680508236
     }
 }
