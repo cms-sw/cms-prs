@@ -2445,5 +2445,20 @@
         "number": 41271, 
         "state": "open", 
         "updated_at": 1680607158
+    }, 
+    "41272": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HcalEventSetup/python/HcalDDDGeometry_cfi.py", 
+            "Geometry/HcalEventSetup/src/HcalTopologyIdealEP.cc", 
+            "Geometry/HcalEventSetup/test/runTestHcalDDDGeometry_cfg.py", 
+            "Geometry/HcalTestBeamData/data/dd4hep/cms-test-ddTB2006-algorithm.xml", 
+            "Geometry/HcalTestBeamData/data/dd4hep/cms-test-ddTB2007-algorithm.xml", 
+            "Geometry/HcalTestBeamData/plugins/HcalTBParameterTester.cc"
+        ], 
+        "created_at": 1680608895, 
+        "number": 41272, 
+        "state": "open", 
+        "updated_at": 1680608925
     }
 }
