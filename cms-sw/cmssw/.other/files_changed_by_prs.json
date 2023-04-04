@@ -2517,5 +2517,31 @@
         "number": 41275, 
         "state": "open", 
         "updated_at": 1680635566
+    }, 
+    "41276": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "PhysicsTools/TensorFlow/interface/TensorFlow.h", 
+            "PhysicsTools/TensorFlow/src/TensorFlow.cc", 
+            "PhysicsTools/TensorFlow/test/testConstSession.cc", 
+            "PhysicsTools/TensorFlow/test/testConstSessionCUDA.cc", 
+            "PhysicsTools/TensorFlow/test/testGraphLoading.cc", 
+            "PhysicsTools/TensorFlow/test/testGraphLoadingCUDA.cc", 
+            "PhysicsTools/TensorFlow/test/testHelloWorld.cc", 
+            "PhysicsTools/TensorFlow/test/testHelloWorldCUDA.cc", 
+            "PhysicsTools/TensorFlow/test/testMetaGraphLoading.cc", 
+            "PhysicsTools/TensorFlow/test/testMetaGraphLoadingCUDA.cc", 
+            "PhysicsTools/TensorFlow/test/testSessionCache.cc", 
+            "PhysicsTools/TensorFlow/test/testSessionCacheCUDA.cc", 
+            "PhysicsTools/TensorFlow/test/testThreadPools.cc", 
+            "PhysicsTools/TensorFlow/test/testThreadPoolsCUDA.cc", 
+            "PhysicsTools/TensorFlow/test/testVisibleDevices.cc", 
+            "PhysicsTools/TensorFlow/test/testVisibleDevicesCUDA.cc", 
+            "RecoTauTag/RecoTau/src/DeepTauBase.cc"
+        ], 
+        "created_at": 1680636162, 
+        "number": 41276, 
+        "state": "open", 
+        "updated_at": 1680636191
     }
 }
