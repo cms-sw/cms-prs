@@ -2201,12 +2201,15 @@
     "41251": {
         "base_branch": "CMSSW_12_5_X", 
         "changed_files_names": [
-            "SimCalorimetry/HcalTrigPrimProducers/python/hcaltpdigi_cff.py"
+            "CalibCalorimetry/CaloTPG/python/CaloTPGTranscoder_cfi.py", 
+            "CalibCalorimetry/CaloTPG/python/tpScales_cff.py", 
+            "SimCalorimetry/HcalTrigPrimProducers/python/hcaltpdigi_cff.py", 
+            "SimCalorimetry/HcalTrigPrimProducers/python/hcaltpdigi_cfi.py"
         ], 
         "created_at": 1680333158, 
         "number": 41251, 
         "state": "open", 
-        "updated_at": 1680333181
+        "updated_at": 1680598289
     }, 
     "41252": {
         "base_branch": "master", 
