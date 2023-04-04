@@ -843,12 +843,14 @@
             "CondTools/RunInfo/python/LHCInfoPerLSPopConAnalyzerEndFill.py", 
             "CondTools/RunInfo/src/LHCInfoPerFillPopConSourceHandler.cc", 
             "CondTools/RunInfo/src/LHCInfoPerLSPopConSourceHandler.cc", 
-            "CondTools/RunInfo/src/OMSAccess.cc"
+            "CondTools/RunInfo/src/OMSAccess.cc", 
+            "CondTools/RunInfo/test/BuildFile.xml", 
+            "CondTools/RunInfo/test/test_lhcInfoNewPopCon.sh"
         ], 
         "created_at": 1676851902, 
         "number": 40817, 
         "state": "open", 
-        "updated_at": 1678726296
+        "updated_at": 1680639448
     }, 
     "40828": {
         "base_branch": "CMSSW_10_6_X", 
