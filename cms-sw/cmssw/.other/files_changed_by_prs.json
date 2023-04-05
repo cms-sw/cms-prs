@@ -2196,6 +2196,8 @@
             "FWCore/Integration/test/unit_test_outputs/testGetBy1.log", 
             "FWCore/Integration/test/unit_test_outputs/testGetBy2.log", 
             "FWCore/Integration/test/unit_test_outputs/testSubProcess.grep2.txt", 
+            "FWCore/ServiceRegistry/interface/ActivityRegistry.h", 
+            "FWCore/ServiceRegistry/src/ActivityRegistry.cc", 
             "FWCore/Services/plugins/Timing.cc", 
             "FWCore/Services/test/BuildFile.xml", 
             "FWCore/Services/test/test_Timing.sh", 
@@ -2204,7 +2206,7 @@
         "created_at": 1680545929, 
         "number": 41262, 
         "state": "open", 
-        "updated_at": 1680707905
+        "updated_at": 1680722446
     }, 
     "41263": {
         "base_branch": "master", 
