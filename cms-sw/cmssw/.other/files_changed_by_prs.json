@@ -2387,6 +2387,8 @@
             "PhysicsTools/NanoAOD/python/custom_jme_cff.py", 
             "PhysicsTools/NanoAOD/python/jetsAK4_CHS_cff.py", 
             "PhysicsTools/NanoAOD/python/jetsAK4_Puppi_cff.py", 
+            "PhysicsTools/NanoAOD/python/nanoDQM_cff.py", 
+            "PhysicsTools/NanoAOD/python/nanoDQM_cfi.py", 
             "PhysicsTools/NanoAOD/python/nano_cff.py", 
             "PhysicsTools/PatAlgos/python/recoLayer0/bTagging_cff.py", 
             "PhysicsTools/PatAlgos/python/slimming/applyDeepBtagging_cff.py", 
@@ -2408,7 +2410,7 @@
         "created_at": 1680635536, 
         "number": 41275, 
         "state": "open", 
-        "updated_at": 1680639653
+        "updated_at": 1680705427
     }, 
     "41276": {
         "base_branch": "master", 
