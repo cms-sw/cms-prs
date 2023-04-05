@@ -2549,5 +2549,17 @@
         "number": 41282, 
         "state": "open", 
         "updated_at": 1680702470
+    }, 
+    "41283": {
+        "base_branch": "CMSSW_13_0_X", 
+        "changed_files_names": [
+            "Geometry/CommonTopologies/interface/SimplePixelTopology.h", 
+            "RecoPixelVertexing/PixelTrackFitting/plugins/PixelTrackProducerFromSoA.cc", 
+            "RecoPixelVertexing/PixelTriplets/plugins/CAStructures.h"
+        ], 
+        "created_at": 1680702479, 
+        "number": 41283, 
+        "state": "open", 
+        "updated_at": 1680702500
     }
 }
