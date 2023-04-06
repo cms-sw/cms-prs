@@ -2805,5 +2805,18 @@
         "number": 41294, 
         "state": "open", 
         "updated_at": 1680752713
+    }, 
+    "41296": {
+        "base_branch": "CMSSW_13_0_X", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/interface/HGCalWaferMask.h", 
+            "Geometry/HGCalCommonData/plugins/DDHGCalWaferP.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalWaferP.cc", 
+            "Geometry/HGCalCommonData/src/HGCalWaferMask.cc"
+        ], 
+        "created_at": 1680766712, 
+        "number": 41296, 
+        "state": "open", 
+        "updated_at": 1680766742
     }
 }
