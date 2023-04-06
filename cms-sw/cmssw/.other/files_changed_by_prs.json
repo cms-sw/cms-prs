@@ -1247,12 +1247,14 @@
     "41146": {
         "base_branch": "CMSSW_13_0_X", 
         "changed_files_names": [
+            "Configuration/DataProcessing/test/run_CfgTest.sh", 
+            "Configuration/PyReleaseValidation/python/relval_standard.py", 
             "Configuration/Skimming/python/autoSkim.py"
         ], 
         "created_at": 1679543129, 
         "number": 41146, 
         "state": "open", 
-        "updated_at": 1680617548
+        "updated_at": 1680762868
     }, 
     "41149": {
         "base_branch": "master", 
