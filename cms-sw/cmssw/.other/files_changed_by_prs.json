@@ -2329,6 +2329,7 @@
     "41273": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Configuration/PyReleaseValidation/README.md", 
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
             "SimTracker/SiPhase2Digitizer/plugins/PixelDigitizerAlgorithm.cc", 
             "SimTracker/SiPhase2Digitizer/python/customizeForPhase2TrackerSignalShape.py", 
@@ -2337,7 +2338,7 @@
         "created_at": 1680617573, 
         "number": 41273, 
         "state": "open", 
-        "updated_at": 1680695778
+        "updated_at": 1680745167
     }, 
     "41275": {
         "base_branch": "master", 
