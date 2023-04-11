@@ -2057,13 +2057,17 @@
     "41255": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/relval_2017.py", 
+            "Configuration/PyReleaseValidation/python/relval_2026.py", 
+            "Configuration/PyReleaseValidation/python/relval_gpu.py", 
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
+            "Configuration/PyReleaseValidation/scripts/runTheMatrix.py", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelPhase2DigiToClusterCUDA.cc"
         ], 
         "created_at": 1680508211, 
         "number": 41255, 
         "state": "open", 
-        "updated_at": 1681119173
+        "updated_at": 1681198339
     }, 
     "41259": {
         "base_branch": "CMSSW_10_6_X", 
