@@ -2670,32 +2670,6 @@
         "state": "open", 
         "updated_at": 1681297189
     }, 
-    "41318": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/MTDNumberingBuilder/src/CmsMTDStringToEnum.cc", 
-            "Geometry/MTDSimData/data/v2/mtdProdCuts.xml", 
-            "Geometry/MTDSimData/data/v4/mtdProdCuts.xml", 
-            "SimG4CMS/Forward/interface/MtdSD.h", 
-            "SimG4CMS/Forward/interface/TimingSD.h", 
-            "SimG4CMS/Forward/src/MtdSD.cc", 
-            "SimG4CMS/Forward/src/TimingSD.cc", 
-            "SimG4Core/Application/interface/SteppingAction.h", 
-            "SimG4Core/Application/python/g4SimHits_cfi.py", 
-            "SimG4Core/Application/src/StackingAction.cc", 
-            "SimG4Core/Application/src/SteppingAction.cc", 
-            "SimG4Core/Application/src/TrackingAction.cc", 
-            "SimG4Core/Notification/interface/NewTrackAction.h", 
-            "SimG4Core/Notification/interface/TrackInformation.h", 
-            "SimG4Core/Notification/src/NewTrackAction.cc", 
-            "SimG4Core/Notification/src/SimTrackManager.cc", 
-            "SimG4Core/Notification/src/TrackInformation.cc"
-        ], 
-        "created_at": 1681218074, 
-        "number": 41318, 
-        "state": "open", 
-        "updated_at": 1681317120
-    }, 
     "41319": {
         "base_branch": "master", 
         "changed_files_names": [
