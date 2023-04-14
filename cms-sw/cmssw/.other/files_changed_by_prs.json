@@ -2689,5 +2689,18 @@
         "number": 41346, 
         "state": "open", 
         "updated_at": 1681448224
+    }, 
+    "41349": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Framework/test/BuildFile.xml", 
+            "FWCore/Framework/test/run_wrongOptionsType.sh", 
+            "FWCore/Framework/test/test_wrongOptionsType_cfg.py", 
+            "FWCore/ParameterSet/src/ThreadsInfo.cc"
+        ], 
+        "created_at": 1681498619, 
+        "number": 41349, 
+        "state": "open", 
+        "updated_at": 1681498648
     }
 }
