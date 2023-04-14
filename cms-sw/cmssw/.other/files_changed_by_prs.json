@@ -3033,5 +3033,22 @@
         "number": 41345, 
         "state": "open", 
         "updated_at": 1681441977
+    }, 
+    "41346": {
+        "base_branch": "CMSSW_13_0_X", 
+        "changed_files_names": [
+            "DataFormats/Portable/interface/Product.h", 
+            "DataFormats/Portable/interface/ProductBase.h", 
+            "DataFormats/PortableTestObjects/src/alpaka/classes_cuda.h", 
+            "DataFormats/PortableTestObjects/src/alpaka/classes_rocm.h", 
+            "DataFormats/PortableTestObjects/src/classes.h", 
+            "HeterogeneousCore/AlpakaCore/interface/ContextState.h", 
+            "HeterogeneousCore/AlpakaCore/interface/ScopedContext.h", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaProducer.cc"
+        ], 
+        "created_at": 1681448188, 
+        "number": 41346, 
+        "state": "open", 
+        "updated_at": 1681448224
     }
 }
