@@ -2710,5 +2710,22 @@
         "number": 41352, 
         "state": "open", 
         "updated_at": 1681649669
+    }, 
+    "41353": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            ".gitignore", 
+            "DataFormats/EcalDigi/interface/EcalConstants.h", 
+            "DataFormats/EcalRecHit/interface/EcalRecHit.h", 
+            "DataFormats/EcalRecHit/interface/EcalUncalibratedRecHit.h", 
+            "DataFormats/EcalRecHit/src/EcalUncalibratedRecHit.cc", 
+            "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitWorkerMultiFit.cc", 
+            "RecoLocalCalo/EcalRecProducers/python/ecalMultiFitUncalibRecHit_cfi.py", 
+            "RecoLocalCalo/EcalRecProducers/test/testEcalUncalibRechitProducerWithCC_cfg.py"
+        ], 
+        "created_at": 1681679733, 
+        "number": 41353, 
+        "state": "open", 
+        "updated_at": 1681679761
     }
 }
