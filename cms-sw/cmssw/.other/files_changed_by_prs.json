@@ -2739,5 +2739,20 @@
         "number": 41354, 
         "state": "open", 
         "updated_at": 1681708522
+    }, 
+    "41355": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h", 
+            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc", 
+            "Geometry/HGCalCommonData/test/HGCalWaferIDTester.cc", 
+            "SimG4CMS/Calo/plugins/HGCalTestPartialWaferHits.cc", 
+            "SimG4CMS/Calo/src/HGCScintSD.cc", 
+            "SimG4CMS/Calo/src/HGCalSD.cc"
+        ], 
+        "created_at": 1681713386, 
+        "number": 41355, 
+        "state": "open", 
+        "updated_at": 1681713407
     }
 }
