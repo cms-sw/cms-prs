@@ -2723,5 +2723,43 @@
         "number": 41369, 
         "state": "open", 
         "updated_at": 1681830457
+    }, 
+    "41370": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4Core/Application/interface/EventAction.h", 
+            "SimG4Core/Application/interface/RunManagerMTWorker.h", 
+            "SimG4Core/Application/interface/SimRunInterface.h", 
+            "SimG4Core/Application/interface/StackingAction.h", 
+            "SimG4Core/Application/plugins/OscarMTProducer.cc", 
+            "SimG4Core/Application/src/EventAction.cc", 
+            "SimG4Core/Application/src/RunManagerMT.cc", 
+            "SimG4Core/Application/src/RunManagerMTWorker.cc", 
+            "SimG4Core/Application/src/SimRunInterface.cc", 
+            "SimG4Core/Application/src/StackingAction.cc", 
+            "SimG4Core/Application/src/TrackingAction.cc", 
+            "SimG4Core/KillSecondaries/interface/KillSecondariesStackingAction.h", 
+            "SimG4Core/KillSecondaries/src/KillSecondariesStackingAction.cc", 
+            "SimG4Core/Notification/interface/MCTruthUtil.h", 
+            "SimG4Core/Notification/interface/NewTrackAction.h", 
+            "SimG4Core/Notification/interface/SimTrackManager.h", 
+            "SimG4Core/Notification/interface/TmpSimEvent.h", 
+            "SimG4Core/Notification/interface/G4SimEvent.h", 
+            "SimG4Core/Notification/interface/TmpSimTrack.h", 
+            "SimG4Core/Notification/interface/G4SimTrack.h", 
+            "SimG4Core/Notification/interface/TmpSimVertex.h", 
+            "SimG4Core/Notification/interface/G4SimVertex.h", 
+            "SimG4Core/Notification/interface/TrackInformation.h", 
+            "SimG4Core/Notification/src/MCTruthUtil.cc", 
+            "SimG4Core/Notification/src/NewTrackAction.cc", 
+            "SimG4Core/Notification/src/SimTrackManager.cc", 
+            "SimG4Core/Notification/src/TmpSimEvent.cc", 
+            "SimG4Core/Notification/src/G4SimEvent.cc", 
+            "SimG4Core/Notification/src/TrackInformation.cc"
+        ], 
+        "created_at": 1681835720, 
+        "number": 41370, 
+        "state": "open", 
+        "updated_at": 1681835747
     }
 }
