@@ -2634,12 +2634,13 @@
         "changed_files_names": [
             "Configuration/PyReleaseValidation/python/relval_gpu.py", 
             "Configuration/PyReleaseValidation/python/relval_standard.py", 
-            "Configuration/PyReleaseValidation/python/relval_steps.py"
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py"
         ], 
         "created_at": 1681708499, 
         "number": 41354, 
         "state": "open", 
-        "updated_at": 1681708522
+        "updated_at": 1681836233
     }, 
     "41355": {
         "base_branch": "master", 
