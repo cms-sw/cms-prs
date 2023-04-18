@@ -2723,5 +2723,24 @@
         "number": 41365, 
         "state": "open", 
         "updated_at": 1681758289
+    }, 
+    "41368": {
+        "base_branch": "CMSSW_13_0_X", 
+        "changed_files_names": [
+            "Configuration/DataProcessing/python/Impl/ppEra_Run3_2023.py", 
+            "Configuration/DataProcessing/python/RecoTLR.py", 
+            "Configuration/DataProcessing/test/run_CfgTest.sh", 
+            "Configuration/Eras/python/Era_Run3_2023_cff.py", 
+            "Configuration/Eras/python/Modifier_run3_egamma_2023_cff.py", 
+            "Configuration/StandardSequences/python/Eras.py", 
+            "RecoEgamma/EgammaIsolationAlgos/python/egammaHBHERecHitThreshold_cff.py", 
+            "RecoParticleFlow/PFClusterProducer/python/particleFlowClusterHBHE_cfi.py", 
+            "RecoParticleFlow/PFClusterProducer/python/particleFlowClusterHCAL_cfi.py", 
+            "RecoParticleFlow/PFClusterProducer/python/particleFlowRecHitHBHE_cfi.py"
+        ], 
+        "created_at": 1681808562, 
+        "number": 41368, 
+        "state": "open", 
+        "updated_at": 1681808593
     }
 }
