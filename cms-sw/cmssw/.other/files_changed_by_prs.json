@@ -2132,6 +2132,7 @@
             "CalibTracker/SiPixelESProducers/BuildFile.xml", 
             "CalibTracker/SiPixelESProducers/plugins/BuildFile.xml", 
             "CalibTracker/SiPixelESProducers/plugins/alpaka/SiPixelCablingSoAESProducer.cc", 
+            "CalibTracker/SiPixelESProducers/plugins/alpaka/SiPixelGainCalibrationForHLTSoAESProducer.cc", 
             "CalibTracker/SiPixelESProducers/src/ES_SiPixelGainCalibrationForHLTSoA.cc", 
             "CalibTracker/SiPixelESProducers/src/ES_SiPixelMappingSoA.cc", 
             "CalibTracker/SiPixelESProducers/src/alpaka/ES_SiPixelGainCalibrationForHLTSoA.cc", 
@@ -2234,7 +2235,7 @@
         "created_at": 1680702636, 
         "number": 41285, 
         "state": "open", 
-        "updated_at": 1680721388
+        "updated_at": 1681809384
     }, 
     "41286": {
         "base_branch": "master", 
