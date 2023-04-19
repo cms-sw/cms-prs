@@ -2601,6 +2601,7 @@
         "base_branch": "master", 
         "changed_files_names": [
             "FWCore/Framework/test/run_wrongOptionsType.sh", 
+            "FWCore/Framework/test/test_wrongOptionsType_cfg.py", 
             "FWCore/ParameterSet/python/Config.py", 
             "FWCore/ParameterSet/python/MassReplace.py", 
             "FWCore/ParameterSet/python/Mixins.py", 
@@ -2611,7 +2612,7 @@
         "created_at": 1681749447, 
         "number": 41361, 
         "state": "open", 
-        "updated_at": 1681902308
+        "updated_at": 1681902605
     }, 
     "41365": {
         "base_branch": "master", 
