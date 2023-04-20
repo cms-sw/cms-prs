@@ -2686,5 +2686,24 @@
         "number": 41379, 
         "state": "open", 
         "updated_at": 1681973738
+    }, 
+    "41380": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/interface/HGCalCassette.h", 
+            "Geometry/HGCalCommonData/plugins/DDHGCalMixRotatedLayer.cc", 
+            "Geometry/HGCalCommonData/plugins/DDHGCalSiliconRotatedModule.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalMixRotatedLayer.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalSiliconRotatedModule.cc", 
+            "Geometry/HGCalCommonData/src/HGCalCassette.cc", 
+            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc", 
+            "Geometry/HGCalCommonData/test/HGCalParameterTester.cc", 
+            "Geometry/HGCalCommonData/test/python/testHGCalParametersDDD_cfg.py", 
+            "SimG4CMS/Calo/src/HGCalSD.cc"
+        ], 
+        "created_at": 1681975683, 
+        "number": 41380, 
+        "state": "open", 
+        "updated_at": 1681975709
     }
 }
