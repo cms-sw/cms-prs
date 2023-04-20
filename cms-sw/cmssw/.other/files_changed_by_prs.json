@@ -2646,5 +2646,23 @@
         "number": 41375, 
         "state": "open", 
         "updated_at": 1681908563
+    }, 
+    "41377": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "PhysicsTools/MXNet/BuildFile.xml", 
+            "PhysicsTools/MXNet/interface/Predictor.h", 
+            "PhysicsTools/MXNet/src/Predictor.cc", 
+            "PhysicsTools/MXNet/test/BuildFile.xml", 
+            "PhysicsTools/MXNet/test/data/testmxnet-0000.params", 
+            "PhysicsTools/MXNet/test/data/testmxnet-symbol.json", 
+            "PhysicsTools/MXNet/test/testMXNetCppPredictor.cc", 
+            "PhysicsTools/MXNet/test/testRunner.cpp", 
+            "PhysicsTools/MXNet/test/test_mxnet.py"
+        ], 
+        "created_at": 1681971967, 
+        "number": 41377, 
+        "state": "open", 
+        "updated_at": 1681971993
     }
 }
