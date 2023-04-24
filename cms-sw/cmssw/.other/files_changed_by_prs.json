@@ -2373,24 +2373,6 @@
         "state": "open", 
         "updated_at": 1680720833
     }, 
-    "41313": {
-        "base_branch": "CMSSW_13_0_X", 
-        "changed_files_names": [
-            "L1Trigger/L1TGlobal/interface/CaloTemplate.h", 
-            "L1Trigger/L1TGlobal/interface/ConditionEvaluation.h", 
-            "L1Trigger/L1TGlobal/interface/MuonTemplate.h", 
-            "L1Trigger/L1TGlobal/plugins/GtRecordDump.cc", 
-            "L1Trigger/L1TGlobal/plugins/TriggerMenuParser.cc", 
-            "L1Trigger/L1TGlobal/src/CaloCondition.cc", 
-            "L1Trigger/L1TGlobal/src/MuCondition.cc", 
-            "L1Trigger/L1TGlobal/src/MuonTemplate.cc", 
-            "L1Trigger/L1TGlobal/test/runGlobalFakeInputProducer.py"
-        ], 
-        "created_at": 1681193363, 
-        "number": 41313, 
-        "state": "open", 
-        "updated_at": 1681358001
-    }, 
     "41323": {
         "base_branch": "master", 
         "changed_files_names": [
