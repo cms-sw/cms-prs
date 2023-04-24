@@ -2754,5 +2754,28 @@
         "number": 41390, 
         "state": "open", 
         "updated_at": 1682313839
+    }, 
+    "41392": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4Core/Application/src/ParametrisedEMPhysics.cc", 
+            "SimG4Core/PhysicsLists/interface/CMSEmStandardPhysicsEMMT.h", 
+            "SimG4Core/PhysicsLists/interface/CMSEmStandardPhysicsTrackingManager.h", 
+            "SimG4Core/PhysicsLists/interface/CMSHepEmTrackingManager.h", 
+            "SimG4Core/PhysicsLists/plugins/FTFPCMS_BERT_EMM.cc", 
+            "SimG4Core/PhysicsLists/plugins/FTFPCMS_BERT_EMMT.cc", 
+            "SimG4Core/PhysicsLists/plugins/FTFPCMS_BERT_EMMT.h", 
+            "SimG4Core/PhysicsLists/plugins/module.cc", 
+            "SimG4Core/PhysicsLists/src/CMSEmStandardPhysics.cc", 
+            "SimG4Core/PhysicsLists/src/CMSEmStandardPhysicsEMMT.cc", 
+            "SimG4Core/PhysicsLists/src/CMSEmStandardPhysicsTrackingManager.cc", 
+            "SimG4Core/PhysicsLists/src/CMSEmStandardPhysicsXS.cc", 
+            "SimG4Core/PhysicsLists/src/CMSHadronPhysicsFTFP_BERT.cc", 
+            "SimG4Core/PhysicsLists/src/CMSHepEmTrackingManager.cc"
+        ], 
+        "created_at": 1682323829, 
+        "number": 41392, 
+        "state": "open", 
+        "updated_at": 1682323854
     }
 }
