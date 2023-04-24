@@ -2737,5 +2737,22 @@
         "number": 41389, 
         "state": "open", 
         "updated_at": 1682273787
+    }, 
+    "41390": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/hgcal/v18/hgcal.xml", 
+            "Geometry/HGCalCommonData/data/hgcalCons/v18/hgcalCons.xml", 
+            "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h", 
+            "Geometry/HGCalCommonData/interface/HGCalGeometryMode.h", 
+            "Geometry/HGCalCommonData/interface/HGCalParameters.h", 
+            "Geometry/HGCalCommonData/src/HGCalGeomParameters.cc", 
+            "Geometry/HGCalCommonData/src/HGCalGeometryMode.cc", 
+            "Geometry/HGCalCommonData/src/HGCalParametersFromDD.cc"
+        ], 
+        "created_at": 1682313815, 
+        "number": 41390, 
+        "state": "open", 
+        "updated_at": 1682313839
     }
 }
