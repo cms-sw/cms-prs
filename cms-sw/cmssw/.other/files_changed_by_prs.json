@@ -2702,5 +2702,23 @@
         "number": 41405, 
         "state": "open", 
         "updated_at": 1682445910
+    }, 
+    "41406": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/dd4hep/testHGCalV17Shift.xml", 
+            "Geometry/HGCalCommonData/data/dd4hep/testHGCalV18.xml", 
+            "Geometry/HGCalCommonData/interface/HGCalCalibrationCell.h", 
+            "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h", 
+            "Geometry/HGCalCommonData/src/HGCalCalibrationCell.cc", 
+            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc", 
+            "Geometry/HGCalCommonData/test/HGCalParameterTester.cc", 
+            "Geometry/HGCalCommonData/test/python/testHGCalParametersDD4hep_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/testHGCalParametersDDD_cfg.py"
+        ], 
+        "created_at": 1682487754, 
+        "number": 41406, 
+        "state": "open", 
+        "updated_at": 1682487778
     }
 }
