@@ -2943,5 +2943,21 @@
         "number": 41431, 
         "state": "open", 
         "updated_at": 1682521639
+    }, 
+    "41432": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/Geometry/python/GeometryDD4hepExtended2017Reco_cff.py", 
+            "Configuration/Geometry/python/GeometryDD4hepExtended2017DD4hepReco_cff.py", 
+            "Configuration/Geometry/python/GeometryDD4hepExtended2018Reco_cff.py", 
+            "Configuration/Geometry/python/GeometryDD4hepExtended2018DD4hepReco_cff.py", 
+            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheckDD4hep_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheckDDD_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheck_cfg.py"
+        ], 
+        "created_at": 1682522201, 
+        "number": 41432, 
+        "state": "open", 
+        "updated_at": 1682522225
     }
 }
