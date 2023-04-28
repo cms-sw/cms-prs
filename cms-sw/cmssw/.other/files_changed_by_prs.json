@@ -2805,5 +2805,27 @@
         "number": 41458, 
         "state": "open", 
         "updated_at": 1682686506
+    }, 
+    "41460": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQMServices/FwkIO/plugins/DQMRootOutputModule.cc", 
+            "FWCore/Framework/interface/GetterOfProducts.h", 
+            "FWCore/Framework/interface/OutputModuleCore.h", 
+            "FWCore/Framework/interface/global/OutputModuleBase.h", 
+            "FWCore/Framework/interface/limited/OutputModuleBase.h", 
+            "FWCore/Framework/interface/one/OutputModuleBase.h", 
+            "FWCore/Framework/src/OutputModuleCore.cc", 
+            "FWCore/Integration/plugins/BuildFile.xml", 
+            "FWCore/Integration/plugins/TestOutputWithGetterOfProducts.cc", 
+            "FWCore/Integration/plugins/TestOutputWithGetterOfProductsGlobal.cc", 
+            "FWCore/Integration/plugins/TestOutputWithGetterOfProductsLimited.cc", 
+            "FWCore/Integration/test/run_TestGetBy.sh", 
+            "FWCore/Integration/test/testGetterOfProductsWithOutputModule_cfg.py"
+        ], 
+        "created_at": 1682690319, 
+        "number": 41460, 
+        "state": "open", 
+        "updated_at": 1682690343
     }
 }
