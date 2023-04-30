@@ -2834,5 +2834,36 @@
         "number": 41471, 
         "state": "open", 
         "updated_at": 1682865231
+    }, 
+    "41472": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibPPS/ESProducers/plugins/TotemDAQMappingESSourceXML.cc", 
+            "CalibPPS/ESProducers/python/totemT2DAQMapping_cff.py", 
+            "CondFormats/PPSObjects/interface/TotemDAQMapping.h", 
+            "CondFormats/PPSObjects/interface/TotemT2FramePosition.h", 
+            "CondFormats/PPSObjects/src/TotemDAQMapping.cc", 
+            "CondFormats/PPSObjects/src/TotemT2FramePosition.cc", 
+            "CondFormats/PPSObjects/xml/mapping_totem_nt2_2023.xml", 
+            "DataFormats/TotemReco/interface/TotemT2Digi.h", 
+            "DataFormats/TotemReco/src/TotemT2Digi.cc", 
+            "DataFormats/TotemReco/src/classes_def.xml", 
+            "EventFilter/CTPPSRawToDigi/interface/RawDataUnpacker.h", 
+            "EventFilter/CTPPSRawToDigi/interface/SimpleVFATFrameCollection.h", 
+            "EventFilter/CTPPSRawToDigi/interface/TotemT2VFATFrame.h", 
+            "EventFilter/CTPPSRawToDigi/interface/VFATFrame.h", 
+            "EventFilter/CTPPSRawToDigi/plugins/TotemVFATRawToDigi.cc", 
+            "EventFilter/CTPPSRawToDigi/python/totemT2Digis_cfi.py", 
+            "EventFilter/CTPPSRawToDigi/src/RawDataUnpacker.cc", 
+            "EventFilter/CTPPSRawToDigi/src/RawToDigiConverter.cc", 
+            "EventFilter/CTPPSRawToDigi/src/VFATFrame.cc", 
+            "RecoPPS/Local/plugins/TotemT2RecHitProducer.cc", 
+            "RecoPPS/Local/src/TotemT2RecHitProducerAlgorithm.cc", 
+            "RecoPPS/Local/test/totemT2NewDigi_reco_cfg.py"
+        ], 
+        "created_at": 1682868275, 
+        "number": 41472, 
+        "state": "open", 
+        "updated_at": 1682868302
     }
 }
