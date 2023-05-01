@@ -2792,5 +2792,17 @@
         "number": 41476, 
         "state": "open", 
         "updated_at": 1682929434
+    }, 
+    "41479": {
+        "base_branch": "CMSSW_13_0_3_patchHLT", 
+        "changed_files_names": [
+            "HLTrigger/HLTfilters/plugins/HLTL1TSeed.cc", 
+            "RecoEgamma/EgammaHLTProducers/plugins/BuildFile.xml", 
+            "RecoEgamma/EgammaHLTProducers/plugins/HLTRecHitInAllL1RegionsProducer.cc"
+        ], 
+        "created_at": 1682941419, 
+        "number": 41479, 
+        "state": "open", 
+        "updated_at": 1682941444
     }
 }
