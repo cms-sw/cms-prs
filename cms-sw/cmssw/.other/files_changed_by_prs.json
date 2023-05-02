@@ -2794,5 +2794,18 @@
         "number": 41487, 
         "state": "open", 
         "updated_at": 1683029084
+    }, 
+    "41488": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimDataFormats/CrossingFrame/interface/MixCollection.h", 
+            "SimTracker/Common/interface/SiPixelChargeReweightingAlgorithm.h", 
+            "SimTracker/TrackTriggerAssociation/interface/TTClusterAssociationMap.h", 
+            "SimTracker/TrackTriggerAssociation/plugins/StubAssociator.cc"
+        ], 
+        "created_at": 1683030118, 
+        "number": 41488, 
+        "state": "open", 
+        "updated_at": 1683030146
     }
 }
