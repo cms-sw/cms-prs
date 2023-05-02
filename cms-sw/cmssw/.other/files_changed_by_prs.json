@@ -2675,12 +2675,14 @@
             "EventFilter/CTPPSRawToDigi/src/VFATFrame.cc", 
             "RecoPPS/Local/plugins/TotemT2RecHitProducer.cc", 
             "RecoPPS/Local/src/TotemT2RecHitProducerAlgorithm.cc", 
+            "RecoPPS/Local/test/BuildFile.xml", 
+            "RecoPPS/Local/test/testNT2.sh", 
             "RecoPPS/Local/test/totemT2NewDigi_reco_cfg.py"
         ], 
         "created_at": 1682868275, 
         "number": 41472, 
         "state": "open", 
-        "updated_at": 1682879881
+        "updated_at": 1683033447
     }, 
     "41476": {
         "base_branch": "master", 
