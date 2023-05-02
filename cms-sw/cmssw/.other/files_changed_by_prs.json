@@ -2796,5 +2796,17 @@
         "number": 41488, 
         "state": "open", 
         "updated_at": 1683030146
+    }, 
+    "41490": {
+        "base_branch": "CMSSW_13_0_X", 
+        "changed_files_names": [
+            "Configuration/AlCa/python/autoCond.py", 
+            "Configuration/AlCa/python/autoCondModifiers.py", 
+            "Configuration/HLT/python/autoCondHLT.py"
+        ], 
+        "created_at": 1683033754, 
+        "number": 41490, 
+        "state": "open", 
+        "updated_at": 1683033780
     }
 }
