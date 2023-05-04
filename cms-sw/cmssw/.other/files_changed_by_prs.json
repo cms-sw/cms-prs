@@ -3020,5 +3020,20 @@
         "number": 41533, 
         "state": "open", 
         "updated_at": 1683200046
+    }, 
+    "41534": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/plugins/DDHGCalModule.cc", 
+            "Geometry/HGCalCommonData/plugins/DDHGCalModuleAlgo.cc", 
+            "Geometry/HGCalCommonData/plugins/DDHGCalTBModule.cc", 
+            "Geometry/HGCalCommonData/src/HGCalGeomParameters.cc", 
+            "Geometry/HGCalCommonData/test/HGCalValidityTester.cc", 
+            "Geometry/MTDNumberingBuilder/plugins/CondDBCmsMTDConstruction.cc"
+        ], 
+        "created_at": 1683200085, 
+        "number": 41534, 
+        "state": "open", 
+        "updated_at": 1683200108
     }
 }
