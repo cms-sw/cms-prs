@@ -657,31 +657,6 @@
         "state": "open", 
         "updated_at": 1678104054
     }, 
-    "40563": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/L1Trigger/interface/TkJetWord.h", 
-            "DataFormats/L1Trigger/src/TkJetWord.cc", 
-            "DataFormats/L1Trigger/src/classes_def.xml", 
-            "DataFormats/StdDictionaries/src/classes_def_others.xml", 
-            "L1Trigger/Configuration/python/SimL1Emulator_cff.py", 
-            "L1Trigger/DemonstratorTools/src/codecs_tkjets.cc", 
-            "L1Trigger/L1TTrackMatch/interface/L1Clustering.h", 
-            "L1Trigger/L1TTrackMatch/interface/L1TrackJetEmulationProducer.h", 
-            "L1Trigger/L1TTrackMatch/plugins/L1TrackJetClustering.h", 
-            "L1Trigger/L1TTrackMatch/plugins/L1TrackJetEmulationProducer.cc", 
-            "L1Trigger/L1TTrackMatch/plugins/L1TrackJetEmulatorProducer.cc", 
-            "L1Trigger/L1TTrackMatch/plugins/L1TrackJetProducer.cc", 
-            "L1Trigger/L1TTrackMatch/python/l1tTrackJetsEmulation_cfi.py", 
-            "L1Trigger/L1TTrackMatch/python/l1tTrackJets_cfi.py", 
-            "L1Trigger/L1TTrackMatch/test/L1TrackObjectNtupleMaker_cfg.py", 
-            "L1Trigger/TrackFindingTracklet/test/L1TrackNtupleMaker_cfg.py"
-        ], 
-        "created_at": 1674080897, 
-        "number": 40563, 
-        "state": "open", 
-        "updated_at": 1683007065
-    }, 
     "40610": {
         "base_branch": "master", 
         "changed_files_names": [
