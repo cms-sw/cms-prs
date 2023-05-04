@@ -2983,5 +2983,18 @@
         "number": 41530, 
         "state": "open", 
         "updated_at": 1683198297
+    }, 
+    "41531": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FastSimulation/CaloHitMakers/src/EcalHitMaker.cc", 
+            "FastSimulation/MaterialEffects/src/NuclearInteractionSimulator.cc", 
+            "FastSimulation/ShowerDevelopment/src/HDRShower.cc", 
+            "FastSimulation/SimplifiedGeometryPropagator/plugins/NuclearInteraction.cc"
+        ], 
+        "created_at": 1683199988, 
+        "number": 41531, 
+        "state": "open", 
+        "updated_at": 1683200045
     }
 }
