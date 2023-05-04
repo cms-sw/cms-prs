@@ -2187,22 +2187,6 @@
         "state": "open", 
         "updated_at": 1681650237
     }, 
-    "41360": {
-        "base_branch": "CMSSW_13_0_X", 
-        "changed_files_names": [
-            "DataFormats/EcalDigi/interface/EcalConstants.h", 
-            "DataFormats/EcalRecHit/interface/EcalRecHit.h", 
-            "DataFormats/EcalRecHit/interface/EcalUncalibratedRecHit.h", 
-            "DataFormats/EcalRecHit/src/EcalUncalibratedRecHit.cc", 
-            "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitWorkerMultiFit.cc", 
-            "RecoLocalCalo/EcalRecProducers/python/ecalMultiFitUncalibRecHit_cfi.py", 
-            "RecoLocalCalo/EcalRecProducers/test/testEcalUncalibRechitProducerWithCC_cfg.py"
-        ], 
-        "created_at": 1681746142, 
-        "number": 41360, 
-        "state": "open", 
-        "updated_at": 1683185978
-    }, 
     "41361": {
         "base_branch": "master", 
         "changed_files_names": [
