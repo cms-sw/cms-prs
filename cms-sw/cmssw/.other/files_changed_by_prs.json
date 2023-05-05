@@ -3142,5 +3142,17 @@
         "number": 41554, 
         "state": "open", 
         "updated_at": 1683275853
+    }, 
+    "41555": {
+        "base_branch": "CMSSW_13_1_X", 
+        "changed_files_names": [
+            "CondCore/SiPixelPlugins/plugins/SiPixelDynamicInefficiency_PayloadInspector.cc", 
+            "CondCore/SiPixelPlugins/test/testSiPixelDynamicInefficiency.sh", 
+            "CondCore/SiPixelPlugins/test/testSiPixelPayloadInspector.cpp"
+        ], 
+        "created_at": 1683276837, 
+        "number": 41555, 
+        "state": "open", 
+        "updated_at": 1683276865
     }
 }
