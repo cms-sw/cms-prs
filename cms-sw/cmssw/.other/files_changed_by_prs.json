@@ -3136,12 +3136,13 @@
         "changed_files_names": [
             "FWCore/Integration/test/run_SubProcess.sh", 
             "FWCore/MessageService/test/u2.sh", 
-            "FWCore/MessageService/test/u20.sh"
+            "FWCore/MessageService/test/u20.sh", 
+            "FWCore/Services/test/test_resource_succeed_cfg.py"
         ], 
         "created_at": 1683274907, 
         "number": 41554, 
         "state": "open", 
-        "updated_at": 1683275853
+        "updated_at": 1683276965
     }, 
     "41555": {
         "base_branch": "CMSSW_13_1_X", 
