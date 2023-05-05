@@ -2468,32 +2468,6 @@
         "state": "open", 
         "updated_at": 1683183094
     }, 
-    "41497": {
-        "base_branch": "CMSSW_13_0_3_patchHLT", 
-        "changed_files_names": [
-            "Calibration/TkAlCaRecoProducers/python/ALCARECOSiPixelCalSingleMuonTight_Output_cff.py", 
-            "Configuration/DataProcessing/python/Impl/ppEra_Run3_2023.py", 
-            "Configuration/DataProcessing/python/RecoTLR.py", 
-            "Configuration/DataProcessing/test/run_CfgTest.sh", 
-            "Configuration/Eras/python/Era_Run3_2023_cff.py", 
-            "Configuration/Eras/python/Modifier_run3_egamma_2023_cff.py", 
-            "Configuration/StandardSequences/python/Eras.py", 
-            "DQMServices/Core/interface/DQMStore.h", 
-            "DQMServices/Core/python/nanoDQMIO_perLSoutput_cff.py", 
-            "DQMServices/Core/src/DQMStore.cc", 
-            "EventFilter/L1TRawToDigi/plugins/implementations_stage2/GlobalAlgBlkUnpacker.cc", 
-            "RecoEgamma/EgammaIsolationAlgos/python/egammaHBHERecHitThreshold_cff.py", 
-            "RecoParticleFlow/PFClusterProducer/python/particleFlowClusterHBHE_cfi.py", 
-            "RecoParticleFlow/PFClusterProducer/python/particleFlowClusterHCAL_cfi.py", 
-            "RecoParticleFlow/PFClusterProducer/python/particleFlowRecHitHBHE_cfi.py", 
-            "RecoParticleFlow/PFProducer/plugins/PFLinker.cc", 
-            "TrackingTools/GsfTracking/src/GsfMultiStateUpdator.cc"
-        ], 
-        "created_at": 1683102320, 
-        "number": 41497, 
-        "state": "open", 
-        "updated_at": 1683201429
-    }, 
     "41502": {
         "base_branch": "master", 
         "changed_files_names": [
