@@ -3317,5 +3317,19 @@
         "number": 41578, 
         "state": "open", 
         "updated_at": 1683409187
+    }, 
+    "41579": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Calibration/HcalAlCaRecoProducers/plugins/AlCaHOCalibProducer.cc", 
+            "Calibration/HcalCalibAlgos/macros/hocalib_tmpfit.C", 
+            "Calibration/HcalCalibAlgos/plugins/HOCalibAnalyzer.cc", 
+            "DataFormats/HcalCalibObjects/interface/HOCalibVariables.h", 
+            "DataFormats/HcalCalibObjects/src/classes_def.xml"
+        ], 
+        "created_at": 1683444688, 
+        "number": 41579, 
+        "state": "open", 
+        "updated_at": 1683444713
     }
 }
