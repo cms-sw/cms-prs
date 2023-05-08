@@ -3126,22 +3126,6 @@
         "state": "open", 
         "updated_at": 1683451085
     }, 
-    "41581": {
-        "base_branch": "CMSSW_12_4_X", 
-        "changed_files_names": [
-            "Configuration/Eras/python/Era_Run3_2022_rereco_cff.py", 
-            "Configuration/Eras/python/Modifier_run3_egamma_2022_rereco_cff.py", 
-            "Configuration/StandardSequences/python/Eras.py", 
-            "RecoEgamma/EgammaIsolationAlgos/python/egammaHBHERecHitThreshold_cff.py", 
-            "RecoParticleFlow/PFClusterProducer/python/particleFlowClusterHBHE_cfi.py", 
-            "RecoParticleFlow/PFClusterProducer/python/particleFlowClusterHCAL_cfi.py", 
-            "RecoParticleFlow/PFClusterProducer/python/particleFlowRecHitHBHE_cfi.py"
-        ], 
-        "created_at": 1683459174, 
-        "number": 41581, 
-        "state": "open", 
-        "updated_at": 1683459197
-    }, 
     "41582": {
         "base_branch": "master", 
         "changed_files_names": [
