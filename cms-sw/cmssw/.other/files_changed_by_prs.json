@@ -2242,38 +2242,6 @@
         "state": "open", 
         "updated_at": 1683628598
     }, 
-    "41434": {
-        "base_branch": "CMSSW_13_0_X", 
-        "changed_files_names": [
-            "DataFormats/BTauReco/interface/ParticleTransformerAK4Features.h", 
-            "PhysicsTools/NanoAOD/python/custom_jme_cff.py", 
-            "PhysicsTools/NanoAOD/python/jetsAK4_CHS_cff.py", 
-            "PhysicsTools/NanoAOD/python/jetsAK4_Puppi_cff.py", 
-            "PhysicsTools/NanoAOD/python/nanoDQM_cff.py", 
-            "PhysicsTools/NanoAOD/python/nanoDQM_cfi.py", 
-            "PhysicsTools/NanoAOD/python/nano_cff.py", 
-            "PhysicsTools/PatAlgos/python/recoLayer0/bTagging_cff.py", 
-            "PhysicsTools/PatAlgos/python/slimming/applyDeepBtagging_cff.py", 
-            "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py", 
-            "PhysicsTools/PatAlgos/python/tools/jetTools.py", 
-            "RecoBTag/Configuration/python/RecoBTag_cff.py", 
-            "RecoBTag/FeatureTools/interface/ChargedCandidateConverter.h", 
-            "RecoBTag/FeatureTools/interface/NeutralCandidateConverter.h", 
-            "RecoBTag/FeatureTools/interface/deep_helpers.h", 
-            "RecoBTag/FeatureTools/plugins/ParticleTransformerAK4TagInfoProducer.cc", 
-            "RecoBTag/FeatureTools/src/ChargedCandidateConverter.cc", 
-            "RecoBTag/FeatureTools/src/SecondaryVertexConverter.cc", 
-            "RecoBTag/FeatureTools/src/deep_helpers.cc", 
-            "RecoBTag/ONNXRuntime/plugins/DeepFlavourONNXJetTagsProducer.cc", 
-            "RecoBTag/ONNXRuntime/plugins/ParticleTransformerAK4ONNXJetTagsProducer.cc", 
-            "RecoBTag/ONNXRuntime/python/pfParticleTransformerAK4DiscriminatorsJetTags_cfi.py", 
-            "RecoBTag/ONNXRuntime/python/pfParticleTransformerAK4_cff.py"
-        ], 
-        "created_at": 1682523397, 
-        "number": 41434, 
-        "state": "open", 
-        "updated_at": 1683546791
-    }, 
     "41461": {
         "base_branch": "master", 
         "changed_files_names": [
