@@ -599,42 +599,6 @@
         "state": "open", 
         "updated_at": 1683178027
     }, 
-    "40489": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DPGAnalysis/HcalNanoAOD/BuildFile.xml", 
-            "DPGAnalysis/HcalNanoAOD/README.md", 
-            "DPGAnalysis/HcalNanoAOD/interface/HFPreRecHitSortedTable.h", 
-            "DPGAnalysis/HcalNanoAOD/interface/HODigiSortedTable.h", 
-            "DPGAnalysis/HcalNanoAOD/interface/QIE10DigiSortedTable.h", 
-            "DPGAnalysis/HcalNanoAOD/interface/QIE11DigiSortedTable.h", 
-            "DPGAnalysis/HcalNanoAOD/plugins/BuildFile.xml", 
-            "DPGAnalysis/HcalNanoAOD/plugins/HcalDetIdTableProducer.cc", 
-            "DPGAnalysis/HcalNanoAOD/plugins/HcalDigiSortedTableProducer.cc", 
-            "DPGAnalysis/HcalNanoAOD/plugins/HcalRecHitTableProducer.cc", 
-            "DPGAnalysis/HcalNanoAOD/plugins/HcalUMNioTableProducer.cc", 
-            "DPGAnalysis/HcalNanoAOD/python/customiseHcalCalib_cff.py", 
-            "DPGAnalysis/HcalNanoAOD/python/customiseHcalLocal_cff.py", 
-            "DPGAnalysis/HcalNanoAOD/python/hcalDetIdTable_cff.py", 
-            "DPGAnalysis/HcalNanoAOD/python/hcalDigiSortedTable_cff.py", 
-            "DPGAnalysis/HcalNanoAOD/python/hcalNano_cff.py", 
-            "DPGAnalysis/HcalNanoAOD/python/hcalRecHitTable_cff.py", 
-            "DPGAnalysis/HcalNanoAOD/python/hcalUMNioTable_cff.py", 
-            "DPGAnalysis/HcalNanoAOD/src/HFPreRecHitSortedTable.cc", 
-            "DPGAnalysis/HcalNanoAOD/src/HODigiSortedTable.cc", 
-            "DPGAnalysis/HcalNanoAOD/src/QIE10DigiSortedTable.cc", 
-            "DPGAnalysis/HcalNanoAOD/src/QIE11DigiSortedTable.cc", 
-            "DPGAnalysis/HcalNanoAOD/src/classes.h", 
-            "DPGAnalysis/HcalNanoAOD/src/classes_def.xml", 
-            "DPGAnalysis/HcalNanoAOD/test/testhcalnano_cfg.py", 
-            "DataFormats/HcalDetId/src/classes.h", 
-            "DataFormats/HcalDetId/src/classes_def.xml"
-        ], 
-        "created_at": 1673474031, 
-        "number": 40489, 
-        "state": "open", 
-        "updated_at": 1683178028
-    }, 
     "40547": {
         "base_branch": "master", 
         "changed_files_names": [
