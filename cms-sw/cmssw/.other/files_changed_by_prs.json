@@ -2619,32 +2619,6 @@
         "state": "open", 
         "updated_at": 1683560011
     }, 
-    "41588": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Validation/CaloTowers/src/CaloTowersValidation.cc", 
-            "Validation/EcalClusters/src/ContainmentCorrectionAnalyzer.cc", 
-            "Validation/EcalDigis/plugins/EcalSelectiveReadoutValidation.cc", 
-            "Validation/HGCalValidation/src/HGVHistoProducerAlgo.cc", 
-            "Validation/HcalHits/plugins/HcalGeomCheck.cc", 
-            "Validation/HcalHits/src/HcalSimHitsValidation.cc", 
-            "Validation/HcalHits/src/SimHitsValidationHcal.cc", 
-            "Validation/HcalRecHits/src/HcalRecHitsValidation.cc", 
-            "Validation/MuonCSCDigis/src/CSCStubMatcher.cc", 
-            "Validation/MuonME0Validation/src/ME0SegmentsValidation.cc", 
-            "Validation/RecoEgamma/plugins/ElectronMcMiniAODSignalValidator.cc", 
-            "Validation/RecoEgamma/plugins/ElectronMcSignalValidator.cc", 
-            "Validation/RecoEgamma/plugins/PhotonValidator.cc", 
-            "Validation/RecoTrack/plugins/MultiTrackValidator.cc", 
-            "Validation/RecoTrack/plugins/MultiTrackValidatorGenPs.cc", 
-            "Validation/RecoTrack/plugins/TrackingNtuple.cc", 
-            "Validation/RecoVertex/src/V0Validator.cc"
-        ], 
-        "created_at": 1683537603, 
-        "number": 41588, 
-        "state": "open", 
-        "updated_at": 1683770899
-    }, 
     "41589": {
         "base_branch": "master", 
         "changed_files_names": [
