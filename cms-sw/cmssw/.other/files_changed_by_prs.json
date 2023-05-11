@@ -3084,13 +3084,13 @@
     "41633": {
         "base_branch": "master", 
         "changed_files_names": [
-            "CondFormats/L1TObjects/bin/BuildFile.xml", 
-            "CondFormats/L1TObjects/bin/l1tMenuFirmwareUUIDHashed.cpp"
+            "CondTools/L1Trigger/bin/BuildFile.xml", 
+            "CondTools/L1Trigger/bin/l1tHashMenuFirmwareUUID.cpp"
         ], 
         "created_at": 1683815061, 
         "number": 41633, 
         "state": "open", 
-        "updated_at": 1683815080
+        "updated_at": 1683824685
     }, 
     "41635": {
         "base_branch": "CMSSW_13_1_X", 
