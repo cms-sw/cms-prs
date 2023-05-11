@@ -2642,32 +2642,6 @@
         "state": "open", 
         "updated_at": 1683449658
     }, 
-    "41584": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4CMS/Calo/plugins/CaloSimHitAnalysis.cc", 
-            "SimG4CMS/Calo/plugins/CaloSimHitStudy.cc", 
-            "SimG4CMS/Calo/src/CaloSD.cc", 
-            "SimG4CMS/Calo/src/HFGflash.cc", 
-            "SimG4CMS/Calo/src/HFShower.cc", 
-            "SimG4CMS/CherenkovAnalysis/plugins/XtalDedxAnalysis.cc", 
-            "SimG4CMS/HcalTestBeam/plugins/HcalTB04Analysis.cc", 
-            "SimG4CMS/ShowerLibraryProducer/plugins/HcalForwardLibWriter.cc", 
-            "SimG4Core/CustomPhysics/src/FullModelReactionDynamics.cc", 
-            "SimG4Core/Geometry/src/DDG4Builder.cc", 
-            "SimG4Core/PrintGeomInfo/plugins/PrintGeomSummary.cc", 
-            "SimGeneral/MixingModule/plugins/InputAnalyzer.cc", 
-            "SimMuon/MCTruth/src/MuonAssociatorByHitsHelper.cc", 
-            "SimMuon/RPCDigitizer/src/RPCSimSetUp.cc", 
-            "SimTracker/TrackHistory/src/TrackClassifier.cc", 
-            "SimTracker/TrackHistory/src/VertexClassifier.cc", 
-            "SimTracker/TrackerHitAssociation/test/TestAssociator.cc"
-        ], 
-        "created_at": 1683537320, 
-        "number": 41584, 
-        "state": "open", 
-        "updated_at": 1683570966
-    }, 
     "41587": {
         "base_branch": "master", 
         "changed_files_names": [
