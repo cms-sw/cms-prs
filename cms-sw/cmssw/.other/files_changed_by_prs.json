@@ -2691,6 +2691,12 @@
             "HLTrigger/Configuration/python/HLT_75e33/modules/filteredLayerClustersHAD_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/filteredLayerClustersTrkEM_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/filteredLayerClustersTrk_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hgcalLayerClustersEEL1Seeded_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hgcalLayerClustersEE_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hgcalLayerClustersHSciL1Seeded_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hgcalLayerClustersHSci_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hgcalLayerClustersHSiL1Seeded_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hgcalLayerClustersHSi_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/hgcalLayerClustersL1Seeded_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/hgcalLayerClusters_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/hgcalMergeLayerClusters_cfi.py", 
@@ -2775,7 +2781,7 @@
         "created_at": 1683545407, 
         "number": 41589, 
         "state": "open", 
-        "updated_at": 1683637658
+        "updated_at": 1683806749
     }, 
     "41590": {
         "base_branch": "master", 
