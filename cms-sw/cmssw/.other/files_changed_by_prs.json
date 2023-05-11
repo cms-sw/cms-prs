@@ -3153,5 +3153,18 @@
         "number": 41642, 
         "state": "open", 
         "updated_at": 1683823440
+    }, 
+    "41643": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "FWCore/Framework/bin/cmsRun.cpp", 
+            "FWCore/Framework/test/BuildFile.xml", 
+            "FWCore/Framework/test/run_wrongOptionsType.sh", 
+            "FWCore/Framework/test/test_wrongOptionsType_cfg.py"
+        ], 
+        "created_at": 1683833051, 
+        "number": 41643, 
+        "state": "open", 
+        "updated_at": 1683833072
     }
 }
