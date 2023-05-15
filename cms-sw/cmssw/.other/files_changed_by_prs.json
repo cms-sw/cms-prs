@@ -339,7 +339,7 @@
         "created_at": 1654247444, 
         "number": 38226, 
         "state": "open", 
-        "updated_at": 1683178011
+        "updated_at": 1684133137
     }, 
     "38924": {
         "base_branch": "master", 
@@ -567,7 +567,7 @@
         "created_at": 1671127317, 
         "number": 40335, 
         "state": "open", 
-        "updated_at": 1683649602
+        "updated_at": 1684003404
     }, 
     "40391": {
         "base_branch": "master", 
@@ -597,17 +597,29 @@
         "created_at": 1673010982, 
         "number": 40438, 
         "state": "open", 
-        "updated_at": 1683178027
+        "updated_at": 1684129724
     }, 
     "40547": {
         "base_branch": "master", 
         "changed_files_names": [
-            "PhysicsTools/NanoAOD/plugins/BuildFile.xml"
+            "PhysicsTools/NanoAOD/plugins/BuildFile.xml", 
+            "PhysicsTools/NanoAOD/plugins/rntuple/EventStringOutputFields.cc", 
+            "PhysicsTools/NanoAOD/plugins/rntuple/EventStringOutputFields.h", 
+            "PhysicsTools/NanoAOD/plugins/rntuple/NanoAODRNTupleOutputModule.cc", 
+            "PhysicsTools/NanoAOD/plugins/rntuple/NanoAODRNTuples.cc", 
+            "PhysicsTools/NanoAOD/plugins/rntuple/NanoAODRNTuples.h", 
+            "PhysicsTools/NanoAOD/plugins/rntuple/RNTupleFieldPtr.h", 
+            "PhysicsTools/NanoAOD/plugins/rntuple/SummaryTableOutputFields.cc", 
+            "PhysicsTools/NanoAOD/plugins/rntuple/SummaryTableOutputFields.h", 
+            "PhysicsTools/NanoAOD/plugins/rntuple/TableOutputFields.cc", 
+            "PhysicsTools/NanoAOD/plugins/rntuple/TableOutputFields.h", 
+            "PhysicsTools/NanoAOD/plugins/rntuple/TriggerOutputFields.cc", 
+            "PhysicsTools/NanoAOD/plugins/rntuple/TriggerOutputFields.h"
         ], 
         "created_at": 1673953862, 
         "number": 40547, 
         "state": "open", 
-        "updated_at": 1684134969
+        "updated_at": 1684135046
     }, 
     "40610": {
         "base_branch": "master", 
@@ -686,7 +698,7 @@
         "created_at": 1676598528, 
         "number": 40802, 
         "state": "open", 
-        "updated_at": 1683507441
+        "updated_at": 1684129927
     }, 
     "40828": {
         "base_branch": "CMSSW_10_6_X", 
@@ -706,7 +718,7 @@
         "created_at": 1676911170, 
         "number": 40828, 
         "state": "open", 
-        "updated_at": 1683809618
+        "updated_at": 1683910890
     }, 
     "40921": {
         "base_branch": "master", 
@@ -777,7 +789,7 @@
         "created_at": 1678374817, 
         "number": 41011, 
         "state": "open", 
-        "updated_at": 1683809713
+        "updated_at": 1683813182
     }, 
     "41018": {
         "base_branch": "master", 
@@ -1769,7 +1781,7 @@
         "created_at": 1680508211, 
         "number": 41255, 
         "state": "open", 
-        "updated_at": 1683808461
+        "updated_at": 1684128999
     }, 
     "41284": {
         "base_branch": "master", 
@@ -1907,7 +1919,7 @@
         "created_at": 1680702636, 
         "number": 41285, 
         "state": "open", 
-        "updated_at": 1683323549
+        "updated_at": 1683897342
     }, 
     "41286": {
         "base_branch": "master", 
@@ -2071,7 +2083,7 @@
         "created_at": 1680704054, 
         "number": 41290, 
         "state": "open", 
-        "updated_at": 1683716378
+        "updated_at": 1684131718
     }, 
     "41323": {
         "base_branch": "master", 
@@ -2154,7 +2166,7 @@
         "created_at": 1681749447, 
         "number": 41361, 
         "state": "open", 
-        "updated_at": 1683801359
+        "updated_at": 1684132906
     }, 
     "41382": {
         "base_branch": "master", 
@@ -2218,7 +2230,7 @@
         "created_at": 1682692132, 
         "number": 41461, 
         "state": "open", 
-        "updated_at": 1683715826
+        "updated_at": 1684130488
     }, 
     "41463": {
         "base_branch": "CMSSW_12_6_X", 
@@ -2255,7 +2267,7 @@
         "created_at": 1682865206, 
         "number": 41471, 
         "state": "open", 
-        "updated_at": 1683798322
+        "updated_at": 1684132856
     }, 
     "41492": {
         "base_branch": "master", 
@@ -2281,7 +2293,7 @@
         "created_at": 1683045489, 
         "number": 41492, 
         "state": "open", 
-        "updated_at": 1683178098
+        "updated_at": 1683883799
     }, 
     "41510": {
         "base_branch": "master", 
@@ -2333,7 +2345,7 @@
         "created_at": 1683266306, 
         "number": 41550, 
         "state": "open", 
-        "updated_at": 1683810991
+        "updated_at": 1684131330
     }, 
     "41551": {
         "base_branch": "CMSSW_13_0_X", 
@@ -2380,7 +2392,7 @@
         "created_at": 1683290329, 
         "number": 41558, 
         "state": "open", 
-        "updated_at": 1683302525
+        "updated_at": 1684036405
     }, 
     "41559": {
         "base_branch": "CMSSW_13_0_X", 
@@ -2439,7 +2451,7 @@
         "created_at": 1683290872, 
         "number": 41559, 
         "state": "open", 
-        "updated_at": 1683302503
+        "updated_at": 1684036342
     }, 
     "41561": {
         "base_branch": "master", 
@@ -2469,7 +2481,7 @@
         "created_at": 1683293844, 
         "number": 41562, 
         "state": "open", 
-        "updated_at": 1683311295
+        "updated_at": 1684036547
     }, 
     "41564": {
         "base_branch": "master", 
@@ -2622,7 +2634,7 @@
         "created_at": 1683545407, 
         "number": 41589, 
         "state": "open", 
-        "updated_at": 1683807916
+        "updated_at": 1683891954
     }, 
     "41596": {
         "base_branch": "CMSSW_10_6_X", 
@@ -2636,24 +2648,7 @@
         "created_at": 1683622159, 
         "number": 41596, 
         "state": "open", 
-        "updated_at": 1683631891
-    }, 
-    "41597": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondFormats/BeamSpotObjects/interface/BeamSpotOnlineObjects.h", 
-            "CondFormats/BeamSpotObjects/src/BeamSpotOnlineObjects.cc", 
-            "CondTools/BeamSpot/plugins/BeamSpotOnlineFromOfflineConverter.cc", 
-            "CondTools/BeamSpot/test/BeamSpotOnlineFromOfflineConverter_cfg.py", 
-            "CondTools/BeamSpot/test/testReadWriteOnlineBSFromDB.sh", 
-            "Configuration/AlCa/python/autoCond.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/eventsetup/hltOnlineBeamSpotESProducer_cfi.py", 
-            "RecoVertex/BeamSpotProducer/plugins/BeamSpotOnlineProducer.cc"
-        ], 
-        "created_at": 1683628619, 
-        "number": 41597, 
-        "state": "open", 
-        "updated_at": 1683803166
+        "updated_at": 1684036207
     }, 
     "41607": {
         "base_branch": "master", 
@@ -2693,7 +2688,7 @@
         "created_at": 1683688340, 
         "number": 41607, 
         "state": "open", 
-        "updated_at": 1683747318
+        "updated_at": 1684019641
     }, 
     "41608": {
         "base_branch": "CMSSW_13_1_X", 
@@ -2719,7 +2714,7 @@
         "created_at": 1683713290, 
         "number": 41613, 
         "state": "open", 
-        "updated_at": 1683783174
+        "updated_at": 1683907812
     }, 
     "41616": {
         "base_branch": "master", 
@@ -2746,7 +2741,7 @@
         "created_at": 1683725027, 
         "number": 41618, 
         "state": "open", 
-        "updated_at": 1683796425
+        "updated_at": 1684036078
     }, 
     "41619": {
         "base_branch": "CMSSW_12_4_X", 
@@ -2759,7 +2754,7 @@
         "created_at": 1683739061, 
         "number": 41619, 
         "state": "open", 
-        "updated_at": 1683751532
+        "updated_at": 1684036003
     }, 
     "41621": {
         "base_branch": "CMSSW_13_1_X", 
@@ -2769,7 +2764,7 @@
         "created_at": 1683748727, 
         "number": 41621, 
         "state": "open", 
-        "updated_at": 1683750469
+        "updated_at": 1684093029
     }, 
     "41622": {
         "base_branch": "CMSSW_13_0_X", 
@@ -2779,7 +2774,7 @@
         "created_at": 1683750399, 
         "number": 41622, 
         "state": "open", 
-        "updated_at": 1683750426
+        "updated_at": 1684093027
     }, 
     "41629": {
         "base_branch": "master", 
@@ -2790,7 +2785,7 @@
         "created_at": 1683806961, 
         "number": 41629, 
         "state": "open", 
-        "updated_at": 1683807388
+        "updated_at": 1683976722
     }, 
     "41632": {
         "base_branch": "master", 
@@ -2863,7 +2858,7 @@
         "created_at": 1683812096, 
         "number": 41632, 
         "state": "open", 
-        "updated_at": 1684132574
+        "updated_at": 1684133115
     }, 
     "41639": {
         "base_branch": "CMSSW_12_1_X", 
@@ -2873,7 +2868,7 @@
         "created_at": 1683822386, 
         "number": 41639, 
         "state": "open", 
-        "updated_at": 1683822415
+        "updated_at": 1683873938
     }, 
     "41644": {
         "base_branch": "master", 
@@ -2883,7 +2878,7 @@
         "created_at": 1683834314, 
         "number": 41644, 
         "state": "open", 
-        "updated_at": 1683834334
+        "updated_at": 1683988417
     }, 
     "41646": {
         "base_branch": "CMSSW_12_4_X", 
@@ -2893,7 +2888,7 @@
         "created_at": 1683866517, 
         "number": 41646, 
         "state": "open", 
-        "updated_at": 1683866580
+        "updated_at": 1684133945
     }, 
     "41647": {
         "base_branch": "master", 
@@ -2904,7 +2899,7 @@
         "created_at": 1683868189, 
         "number": 41647, 
         "state": "open", 
-        "updated_at": 1683868209
+        "updated_at": 1684133897
     }, 
     "41648": {
         "base_branch": "CMSSW_13_1_X", 
@@ -2930,7 +2925,7 @@
         "created_at": 1683872226, 
         "number": 41648, 
         "state": "open", 
-        "updated_at": 1683872274
+        "updated_at": 1684132990
     }, 
     "41649": {
         "base_branch": "master", 
@@ -2941,7 +2936,7 @@
         "created_at": 1683876342, 
         "number": 41649, 
         "state": "open", 
-        "updated_at": 1683876367
+        "updated_at": 1684097485
     }, 
     "41650": {
         "base_branch": "CMSSW_13_1_X", 
@@ -2952,7 +2947,7 @@
         "created_at": 1683877739, 
         "number": 41650, 
         "state": "open", 
-        "updated_at": 1683877768
+        "updated_at": 1684120861
     }, 
     "41651": {
         "base_branch": "CMSSW_13_0_X", 
@@ -2963,7 +2958,7 @@
         "created_at": 1683878990, 
         "number": 41651, 
         "state": "open", 
-        "updated_at": 1683879016
+        "updated_at": 1684113947
     }, 
     "41654": {
         "base_branch": "CMSSW_9_4_X", 
@@ -2977,7 +2972,7 @@
         "created_at": 1683887280, 
         "number": 41654, 
         "state": "open", 
-        "updated_at": 1683887306
+        "updated_at": 1683903180
     }, 
     "41656": {
         "base_branch": "CMSSW_13_0_X", 
@@ -2989,7 +2984,7 @@
         "created_at": 1683889411, 
         "number": 41656, 
         "state": "open", 
-        "updated_at": 1683889439
+        "updated_at": 1684125426
     }, 
     "41657": {
         "base_branch": "CMSSW_13_1_X", 
@@ -3001,7 +2996,7 @@
         "created_at": 1683889507, 
         "number": 41657, 
         "state": "open", 
-        "updated_at": 1683889534
+        "updated_at": 1684125423
     }, 
     "41661": {
         "base_branch": "CMSSW_13_0_X", 
@@ -3011,7 +3006,7 @@
         "created_at": 1683895253, 
         "number": 41661, 
         "state": "open", 
-        "updated_at": 1683895275
+        "updated_at": 1683895839
     }, 
     "41662": {
         "base_branch": "master", 
@@ -3039,7 +3034,7 @@
         "created_at": 1683921615, 
         "number": 41662, 
         "state": "open", 
-        "updated_at": 1683921640
+        "updated_at": 1684134984
     }, 
     "41663": {
         "base_branch": "CMSSW_13_0_X", 
@@ -3065,7 +3060,7 @@
         "created_at": 1683954543, 
         "number": 41663, 
         "state": "open", 
-        "updated_at": 1683954576
+        "updated_at": 1684134294
     }, 
     "41664": {
         "base_branch": "master", 
@@ -3076,7 +3071,7 @@
         "created_at": 1684064929, 
         "number": 41664, 
         "state": "open", 
-        "updated_at": 1684064955
+        "updated_at": 1684077368
     }, 
     "41666": {
         "base_branch": "CMSSW_13_1_X", 
@@ -3086,7 +3081,7 @@
         "created_at": 1684068200, 
         "number": 41666, 
         "state": "open", 
-        "updated_at": 1684068238
+        "updated_at": 1684125435
     }, 
     "41667": {
         "base_branch": "CMSSW_13_0_X", 
@@ -3096,7 +3091,7 @@
         "created_at": 1684068216, 
         "number": 41667, 
         "state": "open", 
-        "updated_at": 1684068252
+        "updated_at": 1684125433
     }, 
     "41669": {
         "base_branch": "CMSSW_13_1_X", 
@@ -3109,7 +3104,7 @@
         "created_at": 1684084004, 
         "number": 41669, 
         "state": "open", 
-        "updated_at": 1684084027
+        "updated_at": 1684125431
     }, 
     "41670": {
         "base_branch": "CMSSW_13_0_X", 
@@ -3120,7 +3115,7 @@
         "created_at": 1684084291, 
         "number": 41670, 
         "state": "open", 
-        "updated_at": 1684084320
+        "updated_at": 1684125429
     }, 
     "41671": {
         "base_branch": "master", 
@@ -3145,6 +3140,6 @@
         "created_at": 1684128303, 
         "number": 41671, 
         "state": "open", 
-        "updated_at": 1684128327
+        "updated_at": 1684131902
     }
 }
