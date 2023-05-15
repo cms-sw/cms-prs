@@ -2814,6 +2814,7 @@
             "CUDADataFormats/TrackingRecHit/interface/TrackingRecHitSoADevice.h", 
             "CUDADataFormats/TrackingRecHit/interface/TrackingRecHitSoAHost.h", 
             "CUDADataFormats/TrackingRecHit/src/classes_def.xml", 
+            "Configuration/PyReleaseValidation/python/relval_gpu.py", 
             "Configuration/PyReleaseValidation/python/relval_standard.py", 
             "Configuration/PyReleaseValidation/python/relval_steps.py", 
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
@@ -2874,7 +2875,7 @@
         "created_at": 1683812096, 
         "number": 41632, 
         "state": "open", 
-        "updated_at": 1683813011
+        "updated_at": 1684132574
     }, 
     "41633": {
         "base_branch": "master", 
