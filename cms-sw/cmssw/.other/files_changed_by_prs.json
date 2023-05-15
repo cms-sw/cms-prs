@@ -3160,5 +3160,20 @@
         "number": 41673, 
         "state": "open", 
         "updated_at": 1684135639
+    }, 
+    "41674": {
+        "base_branch": "CMSSW_13_0_X", 
+        "changed_files_names": [
+            "CondFormats/BeamSpotObjects/interface/BeamSpotOnlineObjects.h", 
+            "CondFormats/BeamSpotObjects/src/BeamSpotOnlineObjects.cc", 
+            "CondTools/BeamSpot/plugins/BeamSpotOnlineFromOfflineConverter.cc", 
+            "CondTools/BeamSpot/test/BeamSpotOnlineFromOfflineConverter_cfg.py", 
+            "CondTools/BeamSpot/test/testReadWriteOnlineBSFromDB.sh", 
+            "RecoVertex/BeamSpotProducer/plugins/BeamSpotOnlineProducer.cc"
+        ], 
+        "created_at": 1684140682, 
+        "number": 41674, 
+        "state": "open", 
+        "updated_at": 1684140708
     }
 }
