@@ -2937,23 +2937,6 @@
         "state": "open", 
         "updated_at": 1684172876
     }, 
-    "41673": {
-        "base_branch": "CMSSW_13_1_X", 
-        "changed_files_names": [
-            "CondFormats/BeamSpotObjects/interface/BeamSpotOnlineObjects.h", 
-            "CondFormats/BeamSpotObjects/src/BeamSpotOnlineObjects.cc", 
-            "CondTools/BeamSpot/plugins/BeamSpotOnlineFromOfflineConverter.cc", 
-            "CondTools/BeamSpot/test/BeamSpotOnlineFromOfflineConverter_cfg.py", 
-            "CondTools/BeamSpot/test/testReadWriteOnlineBSFromDB.sh", 
-            "Configuration/AlCa/python/autoCond.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/eventsetup/hltOnlineBeamSpotESProducer_cfi.py", 
-            "RecoVertex/BeamSpotProducer/plugins/BeamSpotOnlineProducer.cc"
-        ], 
-        "created_at": 1684135614, 
-        "number": 41673, 
-        "state": "open", 
-        "updated_at": 1684151809
-    }, 
     "41674": {
         "base_branch": "CMSSW_13_0_X", 
         "changed_files_names": [
