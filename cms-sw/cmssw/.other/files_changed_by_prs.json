@@ -2993,11 +2993,13 @@
         "base_branch": "master", 
         "changed_files_names": [
             "DQM/BeamMonitor/plugins/AlcaBeamMonitor.cc", 
-            "DQM/BeamMonitor/plugins/AlcaBeamMonitor.h"
+            "DQM/BeamMonitor/plugins/AlcaBeamMonitor.h", 
+            "DQM/BeamMonitor/plugins/OnlineBeamMonitor.cc", 
+            "DQM/BeamMonitor/plugins/OnlineBeamMonitor.h"
         ], 
         "created_at": 1684251784, 
         "number": 41700, 
         "state": "open", 
-        "updated_at": 1684251808
+        "updated_at": 1684265263
     }
 }
