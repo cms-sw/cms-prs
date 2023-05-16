@@ -2814,19 +2814,20 @@
             "SimDataFormats/CaloAnalysis/interface/MtdSimTrackster.h", 
             "SimDataFormats/CaloAnalysis/interface/MtdSimTracksterFwd.h", 
             "SimDataFormats/CaloAnalysis/interface/SimCluster.h", 
-            "SimDataFormats/CaloAnalysis/src/MtdSimCluster.cc", 
+            "SimDataFormats/CaloAnalysis/src/MtdSimLayerCluster.cc", 
             "SimDataFormats/CaloAnalysis/src/MtdSimTrackster.cc", 
             "SimDataFormats/CaloAnalysis/src/classes.h", 
             "SimDataFormats/CaloAnalysis/src/classes_def.xml", 
             "SimGeneral/CaloAnalysis/plugins/BuildFile.xml", 
             "SimGeneral/CaloAnalysis/plugins/MtdTruthAccumulator.cc", 
             "SimGeneral/MixingModule/python/digitizers_cfi.py", 
+            "SimGeneral/MixingModule/python/mtdTruthProducer_cfi.py", 
             "Validation/MtdValidation/plugins/BuildFile.xml"
         ], 
         "created_at": 1683921615, 
         "number": 41662, 
         "state": "open", 
-        "updated_at": 1684155877
+        "updated_at": 1684262274
     }, 
     "41671": {
         "base_branch": "master", 
