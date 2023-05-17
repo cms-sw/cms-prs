@@ -3030,5 +3030,24 @@
         "number": 41711, 
         "state": "open", 
         "updated_at": 1684338807
+    }, 
+    "41712": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimCalorimetry/EcalSelectiveReadoutProducers/BuildFile.xml", 
+            "SimCalorimetry/EcalSelectiveReadoutProducers/interface/EcalSRCondTools.h", 
+            "SimCalorimetry/EcalSelectiveReadoutProducers/interface/EcalSelectiveReadoutProducer.h", 
+            "SimCalorimetry/EcalSelectiveReadoutProducers/interface/namespace_ecalsrcondtools.h", 
+            "SimCalorimetry/EcalSelectiveReadoutProducers/plugins/BuildFile.xml", 
+            "SimCalorimetry/EcalSelectiveReadoutProducers/plugins/EcalSRCondTools.cc", 
+            "SimCalorimetry/EcalSelectiveReadoutProducers/plugins/EcalSelectiveReadoutProducer.cc", 
+            "SimCalorimetry/EcalSelectiveReadoutProducers/src/EcalSelectiveReadoutProducer.cc", 
+            "SimCalorimetry/EcalSelectiveReadoutProducers/plugins/SealModule.cc", 
+            "SimCalorimetry/EcalSelectiveReadoutProducers/src/EcalSRCondTools.cc"
+        ], 
+        "created_at": 1684348306, 
+        "number": 41712, 
+        "state": "open", 
+        "updated_at": 1684348337
     }
 }
