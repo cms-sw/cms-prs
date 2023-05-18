@@ -3159,5 +3159,21 @@
         "number": 41726, 
         "state": "open", 
         "updated_at": 1684409895
+    }, 
+    "41727": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "L1Trigger/Phase2L1ParticleFlow/interface/egamma/pftkegsorter_barrel_ref.h", 
+            "L1Trigger/Phase2L1ParticleFlow/interface/egamma/pftkegsorter_ref.h", 
+            "L1Trigger/Phase2L1ParticleFlow/interface/regionizer/tdr_regionizer_elements_ref.h", 
+            "L1Trigger/Phase2L1ParticleFlow/plugins/L1TCorrelatorLayer1Producer.cc", 
+            "L1Trigger/Phase2L1ParticleFlow/python/l1ctLayer1_cff.py", 
+            "L1Trigger/Phase2L1ParticleFlow/src/egamma/pftkegalgo_ref.cpp", 
+            "L1Trigger/Phase2L1ParticleFlow/test/make_l1ct_binaryFiles_cfg.py"
+        ], 
+        "created_at": 1684410590, 
+        "number": 41727, 
+        "state": "open", 
+        "updated_at": 1684410615
     }
 }
