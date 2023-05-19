@@ -3134,5 +3134,18 @@
         "number": 41739, 
         "state": "open", 
         "updated_at": 1684518872
+    }, 
+    "41740": {
+        "base_branch": "CMSSW_13_0_X", 
+        "changed_files_names": [
+            "DQM/TrackingMonitor/interface/TrackSplittingMonitor.h", 
+            "DQM/TrackingMonitor/python/TrackSplittingMonitor_cfi.py", 
+            "DQM/TrackingMonitor/src/TrackSplittingMonitor.cc", 
+            "DQM/TrackingMonitorSource/python/TrackingSourceConfig_Tier0_cff.py"
+        ], 
+        "created_at": 1684518818, 
+        "number": 41740, 
+        "state": "open", 
+        "updated_at": 1684518877
     }
 }
