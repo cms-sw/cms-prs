@@ -2866,5 +2866,24 @@
         "number": 41744, 
         "state": "open", 
         "updated_at": 1684740051
+    }, 
+    "41745": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/EgammaReco/interface/SuperCluster.h", 
+            "DataFormats/EgammaReco/src/SuperCluster.cc", 
+            "DataFormats/EgammaReco/src/classes_def.xml", 
+            "RecoEcal/EgammaClusterAlgos/BuildFile.xml", 
+            "RecoEcal/EgammaClusterAlgos/interface/PFECALSuperClusterAlgo.h", 
+            "RecoEcal/EgammaClusterAlgos/src/PFECALSuperClusterAlgo.cc", 
+            "RecoEcal/EgammaClusterProducers/python/particleFlowSuperClusterECAL_cfi.py", 
+            "RecoEcal/EgammaClusterProducers/src/PFECALSuperClusterProducer.cc", 
+            "RecoEgamma/EgammaIsolationAlgos/interface/EgammaHLTTrackIsolation.h", 
+            "RecoEgamma/EgammaIsolationAlgos/src/EgammaHLTTrackIsolation.cc"
+        ], 
+        "created_at": 1684741286, 
+        "number": 41745, 
+        "state": "open", 
+        "updated_at": 1684741308
     }
 }
