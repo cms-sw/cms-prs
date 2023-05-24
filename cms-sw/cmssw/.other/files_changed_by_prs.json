@@ -2591,31 +2591,6 @@
         "state": "open", 
         "updated_at": 1684262274
     }, 
-    "41671": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4CMS/CherenkovAnalysis/plugins/XtalDedxAnalysis.cc", 
-            "SimG4CMS/HcalTestBeam/plugins/HcalTB04Analysis.cc", 
-            "SimG4CMS/ShowerLibraryProducer/plugins/HcalForwardLibWriter.cc", 
-            "SimG4Core/CustomPhysics/src/FullModelReactionDynamics.cc", 
-            "SimG4Core/Geometry/src/DDG4Builder.cc", 
-            "SimG4Core/PrintGeomInfo/plugins/PrintGeomSummary.cc", 
-            "SimGeneral/MixingModule/plugins/InputAnalyzer.cc", 
-            "SimGeneral/MixingModule/test/read_Input_PCFcfg.py", 
-            "SimGeneral/MixingModule/test/read_Input_cfg.py", 
-            "SimMuon/MCTruth/src/MuonAssociatorByHitsHelper.cc", 
-            "SimMuon/RPCDigitizer/src/RPCSimSetUp.cc", 
-            "SimTracker/TrackHistory/src/TrackClassifier.cc", 
-            "SimTracker/TrackHistory/src/VertexClassifier.cc", 
-            "SimTracker/TrackerHitAssociation/test/TestAssoc_Phase0-1_cfg.py", 
-            "SimTracker/TrackerHitAssociation/test/TestAssoc_Phase2_cfg.py", 
-            "SimTracker/TrackerHitAssociation/test/TestAssociator.cc"
-        ], 
-        "created_at": 1684128303, 
-        "number": 41671, 
-        "state": "open", 
-        "updated_at": 1684206157
-    }, 
     "41692": {
         "base_branch": "master", 
         "changed_files_names": [
