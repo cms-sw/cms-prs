@@ -2981,5 +2981,19 @@
         "number": 41772, 
         "state": "open", 
         "updated_at": 1684931981
+    }, 
+    "41775": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondTools/SiPixel/BuildFile.xml", 
+            "CondTools/SiPixel/plugins/SiPixelQualityPlotter.cc", 
+            "CondTools/SiPixel/test/BuildFile.xml", 
+            "CondTools/SiPixel/test/SiPixelQualityPlotter_cfg.py", 
+            "CondTools/SiPixel/test/testPlottingSiPixelObjects.sh"
+        ], 
+        "created_at": 1684998273, 
+        "number": 41775, 
+        "state": "open", 
+        "updated_at": 1684998295
     }
 }
