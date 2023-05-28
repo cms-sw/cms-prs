@@ -2701,5 +2701,21 @@
         "number": 41780, 
         "state": "open", 
         "updated_at": 1685103025
+    }, 
+    "41785": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/CTPPS/test/totemt2_dqm_test_cfg.py", 
+            "EventFilter/CTPPSRawToDigi/interface/RawToDigiConverter.h", 
+            "EventFilter/CTPPSRawToDigi/python/ctppsRawToDigi_cff.py", 
+            "EventFilter/CTPPSRawToDigi/python/totemT2Digis_cfi.py", 
+            "EventFilter/CTPPSRawToDigi/python/totemTimingRawToDigi_cfi.py", 
+            "EventFilter/CTPPSRawToDigi/python/totemVFATRawToDigi_cfi.py", 
+            "EventFilter/CTPPSRawToDigi/src/RawToDigiConverter.cc"
+        ], 
+        "created_at": 1685260271, 
+        "number": 41785, 
+        "state": "open", 
+        "updated_at": 1685260300
     }
 }
