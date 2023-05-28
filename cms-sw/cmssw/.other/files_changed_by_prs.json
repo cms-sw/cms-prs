@@ -2705,6 +2705,7 @@
     "41784": {
         "base_branch": "master", 
         "changed_files_names": [
+            "DQM/CTPPS/test/totemt2_dqm_test_cfg.py", 
             "EventFilter/CTPPSRawToDigi/interface/RawToDigiConverter.h", 
             "EventFilter/CTPPSRawToDigi/python/ctppsRawToDigi_cff.py", 
             "EventFilter/CTPPSRawToDigi/python/totemT2Digis_cfi.py", 
@@ -2715,6 +2716,6 @@
         "created_at": 1685257028, 
         "number": 41784, 
         "state": "open", 
-        "updated_at": 1685257051
+        "updated_at": 1685257711
     }
 }
