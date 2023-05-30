@@ -2555,28 +2555,6 @@
         "state": "open", 
         "updated_at": 1684933444
     }, 
-    "41768": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/DemonstratorTools/interface/BoardData.h", 
-            "L1Trigger/DemonstratorTools/interface/BoardDataWriter.h", 
-            "L1Trigger/DemonstratorTools/interface/FileFormat.h", 
-            "L1Trigger/DemonstratorTools/interface/Frame.h", 
-            "L1Trigger/DemonstratorTools/src/BoardData.cc", 
-            "L1Trigger/DemonstratorTools/src/BoardDataWriter.cc", 
-            "L1Trigger/DemonstratorTools/src/FileFormat.cc", 
-            "L1Trigger/DemonstratorTools/src/utilities.cc", 
-            "L1Trigger/DemonstratorTools/test/gtt/createFirmwareInputFiles_cfg.py", 
-            "L1Trigger/DemonstratorTools/test/gtt/example_vertex_empV1.txt", 
-            "L1Trigger/DemonstratorTools/test/gtt/example_vertex_emp.txt", 
-            "L1Trigger/DemonstratorTools/test/gtt/example_vertex_empV2.txt", 
-            "L1Trigger/DemonstratorTools/test/gtt/verifyFirmwareOutput_cfg.py"
-        ], 
-        "created_at": 1684920826, 
-        "number": 41768, 
-        "state": "open", 
-        "updated_at": 1684934045
-    }, 
     "41771": {
         "base_branch": "master", 
         "changed_files_names": [
