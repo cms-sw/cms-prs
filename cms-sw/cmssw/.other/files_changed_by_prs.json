@@ -2757,5 +2757,19 @@
         "number": 41820, 
         "state": "open", 
         "updated_at": 1685515980
+    }, 
+    "41822": {
+        "base_branch": "CMSSW_13_1_X", 
+        "changed_files_names": [
+            "DQM/Integration/python/clients/beam_dqm_sourceclient-live_cfg.py", 
+            "DQM/Integration/python/clients/beamhlt_dqm_sourceclient-live_cfg.py", 
+            "DQM/Integration/python/clients/onlinebeammonitor_dqm_sourceclient-live_cfg.py", 
+            "DQM/Integration/python/clients/pixel_dqm_sourceclient-live_cfg.py", 
+            "DQM/Integration/python/clients/sistrip_dqm_sourceclient-live_cfg.py"
+        ], 
+        "created_at": 1685521075, 
+        "number": 41822, 
+        "state": "open", 
+        "updated_at": 1685521101
     }
 }
