@@ -2413,38 +2413,6 @@
         "state": "open", 
         "updated_at": 1685367155
     }, 
-    "41787": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQM/TrackingMonitorSource/interface/AlcaRecoTrackSelector.h", 
-            "DQM/TrackingMonitorSource/interface/TrackMultiplicityFilter.h", 
-            "DQM/TrackingMonitorSource/interface/TtbarTrackProducer.h", 
-            "DQM/TrackingMonitorSource/interface/WtoLNuSelector.h", 
-            "DQM/TrackingMonitorSource/interface/ZEEDetails.h", 
-            "DQM/TrackingMonitorSource/interface/ZtoEEElectronTrackProducer.h", 
-            "DQM/TrackingMonitorSource/interface/ZtoMMMuonTrackProducer.h", 
-            "DQM/TrackingMonitorSource/interface/ttbarEventSelector.h", 
-            "DQM/TrackingMonitorSource/plugins/AlcaRecoTrackSelector.cc", 
-            "DQM/TrackingMonitorSource/plugins/BuildFile.xml", 
-            "DQM/TrackingMonitorSource/plugins/StandaloneTrackMonitor.cc", 
-            "DQM/TrackingMonitorSource/plugins/TrackMultiplicityFilter.cc", 
-            "DQM/TrackingMonitorSource/plugins/TtbarTrackProducer.cc", 
-            "DQM/TrackingMonitorSource/plugins/WtoLNuSelector.cc", 
-            "DQM/TrackingMonitorSource/plugins/ZEEDetails.cc", 
-            "DQM/TrackingMonitorSource/plugins/ZtoEEElectronTrackProducer.cc", 
-            "DQM/TrackingMonitorSource/plugins/ZtoEEEventSelector.cc", 
-            "DQM/TrackingMonitorSource/plugins/ZtoMMEventSelector.cc", 
-            "DQM/TrackingMonitorSource/plugins/ZtoMMMuonTrackProducer.cc", 
-            "DQM/TrackingMonitorSource/plugins/ttbarEventSelector.cc", 
-            "DQM/TrackingMonitorSource/python/StandaloneTrackMonitor_cfi.py", 
-            "DQM/TrackingMonitorSource/python/TrackingDataMCValidation_Standalone_cff.py", 
-            "DQM/TrackingMonitorSource/python/ZEEDetails_cfi.py"
-        ], 
-        "created_at": 1685338872, 
-        "number": 41787, 
-        "state": "open", 
-        "updated_at": 1685431361
-    }, 
     "41792": {
         "base_branch": "master", 
         "changed_files_names": [
