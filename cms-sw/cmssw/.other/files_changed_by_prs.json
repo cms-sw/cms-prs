@@ -2731,5 +2731,18 @@
         "number": 41852, 
         "state": "open", 
         "updated_at": 1685710188
+    }, 
+    "41853": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/Common/interface/DetSetVectorNew.h", 
+            "DataFormats/Common/test/DetSetNewTS_t.cpp", 
+            "DataFormats/Common/test/DetSetNew_t.cpp", 
+            "RecoLocalTracker/SiStripClusterizer/plugins/ClustersFromRawProducer.cc"
+        ], 
+        "created_at": 1685711441, 
+        "number": 41853, 
+        "state": "open", 
+        "updated_at": 1685711459
     }
 }
