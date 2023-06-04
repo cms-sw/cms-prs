@@ -2633,6 +2633,8 @@
     "41859": {
         "base_branch": "master", 
         "changed_files_names": [
+            "CalibPPS/ESProducers/plugins/TotemDAQMappingESSourceXML.cc", 
+            "CalibPPS/ESProducers/python/totemDAQMappingESSourceXML_cfi.py", 
             "CalibPPS/ESProducers/python/totemT2DAQMapping_cff.py", 
             "CondFormats/PPSObjects/xml/mapping_totem_nt2_2023_final.xml", 
             "DQM/CTPPS/plugins/TotemT2DQMSource.cc", 
@@ -2662,7 +2664,7 @@
         "created_at": 1685725419, 
         "number": 41859, 
         "state": "open", 
-        "updated_at": 1685725449
+        "updated_at": 1685897643
     }, 
     "41861": {
         "base_branch": "master", 
