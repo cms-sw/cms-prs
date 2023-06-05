@@ -305,42 +305,6 @@
         "state": "open", 
         "updated_at": 1683178009
     }, 
-    "38226": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DPGAnalysis/MuonTools/BuildFile.xml", 
-            "DPGAnalysis/MuonTools/interface/MuBaseFlatTableProducer.h", 
-            "DPGAnalysis/MuonTools/interface/MuDigiBaseProducer.h", 
-            "DPGAnalysis/MuonTools/interface/MuLocalRecoBaseProducer.h", 
-            "DPGAnalysis/MuonTools/interface/MuNtupleUtils.h", 
-            "DPGAnalysis/MuonTools/plugins/BuildFile.xml", 
-            "DPGAnalysis/MuonTools/plugins/MuCSCTnPFlatTableProducer.cc", 
-            "DPGAnalysis/MuonTools/plugins/MuDTMuonExtTableProducer.cc", 
-            "DPGAnalysis/MuonTools/plugins/MuDTSegmentExtTableProducer.cc", 
-            "DPGAnalysis/MuonTools/plugins/MuDTTPGPhiFlatTableProducer.cc", 
-            "DPGAnalysis/MuonTools/plugins/MuDTTPGThetaFlatTableProducer.cc", 
-            "DPGAnalysis/MuonTools/plugins/MuDigiFlatTableProducers.cc", 
-            "DPGAnalysis/MuonTools/plugins/MuGEMMuonExtTableProducer.cc", 
-            "DPGAnalysis/MuonTools/plugins/MuLocalRecoFlatTableProducers.cc", 
-            "DPGAnalysis/MuonTools/python/common_cff.py", 
-            "DPGAnalysis/MuonTools/python/customiseMuNtuples_cff.py", 
-            "DPGAnalysis/MuonTools/python/muNtupleProducerBkg_cff.py", 
-            "DPGAnalysis/MuonTools/python/muNtupleProducerRaw_cff.py", 
-            "DPGAnalysis/MuonTools/python/muNtupleProducer_cff.py", 
-            "DPGAnalysis/MuonTools/python/nano_mu_digi_cff.py", 
-            "DPGAnalysis/MuonTools/python/nano_mu_l1t_cff.py", 
-            "DPGAnalysis/MuonTools/python/nano_mu_local_reco_cff.py", 
-            "DPGAnalysis/MuonTools/python/nano_mu_reco_cff.py", 
-            "DPGAnalysis/MuonTools/src/MuBaseFlatTableProducer.cc", 
-            "DPGAnalysis/MuonTools/src/MuNtupleUtils.cc", 
-            "DPGAnalysis/MuonTools/test/muDpgNtuplesRaw_cfg.py", 
-            "DPGAnalysis/MuonTools/test/muDpgNtuplesZMu_cfg.py"
-        ], 
-        "created_at": 1654247444, 
-        "number": 38226, 
-        "state": "open", 
-        "updated_at": 1684142509
-    }, 
     "38924": {
         "base_branch": "master", 
         "changed_files_names": [
