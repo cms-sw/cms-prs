@@ -2634,6 +2634,10 @@
     "41866": {
         "base_branch": "master", 
         "changed_files_names": [
+            "CalibFormats/SiStripObjects/test/BuildFile.xml", 
+            "CalibFormats/SiStripObjects/test/testSiStripHashedDetId.sh", 
+            "CalibFormats/SiStripObjects/test/testSiStripHashedDetId_cfg.py", 
+            "CalibPPS/ESProducers/plugins/TotemDAQMappingESSourceXML.cc", 
             "Calibration/HcalAlCaRecoProducers/plugins/AlCaHcalHBHEMuonProducer.cc", 
             "Calibration/HcalCalibAlgos/macros/CalibCorr.C", 
             "Calibration/HcalCalibAlgos/macros/CalibFitPlots.C", 
@@ -2642,12 +2646,21 @@
             "Calibration/HcalCalibAlgos/macros/CalibPlotProperties.C", 
             "Calibration/HcalCalibAlgos/macros/CalibTree.C", 
             "Calibration/IsolatedParticles/interface/eECALMatrix.h", 
-            "Calibration/IsolatedParticles/src/eECALMatrix.cc"
+            "Calibration/IsolatedParticles/src/eECALMatrix.cc", 
+            "DataFormats/Scouting/README.md", 
+            "DataFormats/Scouting/test/BuildFile.xml", 
+            "DataFormats/Scouting/test/TestReadRun3Scouting.cc", 
+            "DataFormats/Scouting/test/TestRun3ScoutingFormats.sh", 
+            "DataFormats/Scouting/test/TestWriteRun3Scouting.cc", 
+            "DataFormats/Scouting/test/create_Run3Scouting_test_file_cfg.py", 
+            "DataFormats/Scouting/test/test_readRun3Scouting_CMSSW_12_4_0_cfg.py", 
+            "DataFormats/Scouting/test/test_readRun3Scouting_cfg.py", 
+            "RecoLocalTracker/SiStripClusterizer/plugins/SiStripRawToClusterGPUKernel.cu"
         ], 
         "created_at": 1685949337, 
         "number": 41866, 
         "state": "open", 
-        "updated_at": 1685949359
+        "updated_at": 1686008150
     }, 
     "41867": {
         "base_branch": "master", 
