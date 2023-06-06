@@ -637,22 +637,6 @@
         "state": "open", 
         "updated_at": 1683178038
     }, 
-    "40802": {
-        "base_branch": "CMSSW_12_6_X", 
-        "changed_files_names": [
-            "CommonTools/PileupAlgos/plugins/PuppiProducer.cc", 
-            "PhysicsTools/NanoAOD/python/custom_jme_cff.py", 
-            "RecoJets/JetProducers/interface/PileupJetIdAlgo.h", 
-            "RecoJets/JetProducers/plugins/PileupJetIdProducer.cc", 
-            "RecoJets/JetProducers/plugins/PileupJetIdProducer.h", 
-            "RecoJets/JetProducers/python/PileupJetID_cfi.py", 
-            "RecoJets/JetProducers/src/PileupJetIdAlgo.cc"
-        ], 
-        "created_at": 1676598528, 
-        "number": 40802, 
-        "state": "open", 
-        "updated_at": 1684917068
-    }, 
     "40828": {
         "base_branch": "CMSSW_10_6_X", 
         "changed_files_names": [
