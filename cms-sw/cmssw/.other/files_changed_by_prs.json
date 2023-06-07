@@ -2487,6 +2487,7 @@
             "EventFilter/CTPPSRawToDigi/interface/RawToDigiConverter.h", 
             "EventFilter/CTPPSRawToDigi/interface/TotemT2VFATFrame.h", 
             "EventFilter/CTPPSRawToDigi/interface/VFATFrame.h", 
+            "EventFilter/CTPPSRawToDigi/plugins/TotemVFATRawToDigi.cc", 
             "EventFilter/CTPPSRawToDigi/python/ctppsRawToDigi_cff.py", 
             "EventFilter/CTPPSRawToDigi/python/totemT2Digis_cfi.py", 
             "EventFilter/CTPPSRawToDigi/python/totemTimingRawToDigi_cfi.py", 
@@ -2501,7 +2502,7 @@
         "created_at": 1685725419, 
         "number": 41859, 
         "state": "open", 
-        "updated_at": 1686049373
+        "updated_at": 1686095032
     }, 
     "41861": {
         "base_branch": "master", 
