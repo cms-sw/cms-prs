@@ -2642,5 +2642,20 @@
         "number": 41885, 
         "state": "open", 
         "updated_at": 1686077413
+    }, 
+    "41887": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/MessageLogger/interface/ErrorObj.h", 
+            "FWCore/MessageLogger/interface/ErrorObj.icc", 
+            "FWCore/MessageLogger/interface/MessageLogger.h", 
+            "FWCore/MessageLogger/interface/MessageSender.h", 
+            "FWCore/MessageService/test/UnitTestClient_C.cc", 
+            "FWCore/MessageService/test/fmt_test.cppunit.cpp"
+        ], 
+        "created_at": 1686115396, 
+        "number": 41887, 
+        "state": "open", 
+        "updated_at": 1686115422
     }
 }
