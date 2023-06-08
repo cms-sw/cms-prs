@@ -2502,8 +2502,6 @@
             "Geometry/CommonDetUnit/interface/DoubleSensGeomDet.h", 
             "Geometry/CommonTopologies/interface/DoubleSensGeomDet.h", 
             "Geometry/CommonTopologies/src/DoubleSensGeomDet.cc", 
-            "Geometry/TrackerCommonData/data/PhaseII/Tracker_DD4hep_compatible_IT710_2023_04/pixel.xml", 
-            "Geometry/TrackerCommonData/data/PhaseII/Tracker_DD4hep_compatible_IT710_2023_04/pixelStructureTopology.xml", 
             "Geometry/TrackerCommonData/data/PhaseII/Tracker_DD4hep_compatible_IT711_2023_05/pixel.xml", 
             "Geometry/TrackerCommonData/data/PhaseII/Tracker_DD4hep_compatible_IT711_2023_05/pixelStructureTopology.xml", 
             "Geometry/TrackerCommonData/data/PhaseII/trackerParameters.xml", 
@@ -2518,8 +2516,6 @@
             "Geometry/TrackerNumberingBuilder/src/GeometricDet.cc", 
             "Geometry/TrackerRecoData/data/PhaseII/Tracker_DD4hep_compatible_IT710_2023_04/trackerRecoMaterial.xml", 
             "Geometry/TrackerRecoData/data/PhaseII/Tracker_DD4hep_compatible_IT711_2023_05/trackerRecoMaterial.xml", 
-            "Geometry/TrackerSimData/data/PhaseII/Tracker_DD4hep_compatible_IT710_2023_04/pixelProdCuts.xml", 
-            "Geometry/TrackerSimData/data/PhaseII/Tracker_DD4hep_compatible_IT710_2023_04/pixelsens.xml", 
             "Geometry/TrackerSimData/data/PhaseII/Tracker_DD4hep_compatible_IT711_2023_05/pixelProdCuts.xml", 
             "Geometry/TrackerSimData/data/PhaseII/Tracker_DD4hep_compatible_IT711_2023_05/pixelsens.xml", 
             "RecoTracker/MeasurementDet/plugins/MeasurementTrackerImpl.cc", 
@@ -2532,7 +2528,7 @@
         "created_at": 1686034779, 
         "number": 41880, 
         "state": "open", 
-        "updated_at": 1686034806
+        "updated_at": 1686244122
     }, 
     "41885": {
         "base_branch": "master", 
