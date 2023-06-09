@@ -2669,5 +2669,25 @@
         "number": 41910, 
         "state": "open", 
         "updated_at": 1686301409
+    }, 
+    "41913": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/Scouting/README.md", 
+            "DataFormats/Scouting/src/classes_def.xml", 
+            "DataFormats/Scouting/test/BuildFile.xml", 
+            "DataFormats/Scouting/test/TestReadRun2Scouting.cc", 
+            "DataFormats/Scouting/test/TestRun2ScoutingFormats.sh", 
+            "DataFormats/Scouting/test/TestRun3ScoutingFormats.sh", 
+            "DataFormats/Scouting/test/TestWriteRun2Scouting.cc", 
+            "DataFormats/Scouting/test/create_Run2Scouting_test_file_cfg.py", 
+            "DataFormats/Scouting/test/test_readRun2Scouting_cfg.py", 
+            "DataFormats/Scouting/test/test_readRun3Scouting_CMSSW_12_4_0_cfg.py", 
+            "DataFormats/Scouting/test/test_readRun3Scouting_cfg.py"
+        ], 
+        "created_at": 1686317042, 
+        "number": 41913, 
+        "state": "open", 
+        "updated_at": 1686317069
     }
 }
