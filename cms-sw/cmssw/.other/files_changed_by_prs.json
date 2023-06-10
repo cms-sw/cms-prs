@@ -2637,5 +2637,20 @@
         "number": 41917, 
         "state": "open", 
         "updated_at": 1686413625
+    }, 
+    "41918": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondCore/Utilities/plugins/Module_2XML.cc", 
+            "CondCore/Utilities/src/CondDBFetch.cc", 
+            "CondCore/Utilities/src/CondDBImport.cc", 
+            "CondCore/Utilities/src/CondFormats.h", 
+            "IOMC/EventVertexGenerators/src/BeamProfile2DB.cc", 
+            "IOMC/EventVertexGenerators/test/BeamProfile2DBWriter_cfg.py"
+        ], 
+        "created_at": 1686423660, 
+        "number": 41918, 
+        "state": "open", 
+        "updated_at": 1686423686
     }
 }
