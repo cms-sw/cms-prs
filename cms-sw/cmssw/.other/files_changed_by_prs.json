@@ -2688,5 +2688,18 @@
         "number": 41921, 
         "state": "open", 
         "updated_at": 1686484094
+    }, 
+    "41922": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/CTPPS/interface/TotemT2Segmentation.h", 
+            "DQM/CTPPS/plugins/TotemT2DQMSource.cc", 
+            "DQM/CTPPS/src/TotemT2Segmentation.cc", 
+            "DQM/CTPPS/test/totemt2_dqm_test_common_cfg.py"
+        ], 
+        "created_at": 1686505197, 
+        "number": 41922, 
+        "state": "open", 
+        "updated_at": 1686505222
     }
 }
