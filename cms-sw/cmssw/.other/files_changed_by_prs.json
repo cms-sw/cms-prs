@@ -2650,14 +2650,17 @@
             "CondCore/Utilities/src/CondFormats.h", 
             "CondFormats/BeamSpotObjects/interface/SimBeamSpotObjects.h", 
             "CondFormats/BeamSpotObjects/src/SimBeamSpotObjects.cc", 
+            "CondTools/BeamSpot/BuildFile.xml", 
+            "CondTools/BeamSpot/plugins/BeamProfile2DB.cc", 
             "IOMC/EventVertexGenerators/src/BeamProfile2DB.cc", 
-            "IOMC/EventVertexGenerators/src/BetafuncEvtVtxGenerator.cc", 
-            "IOMC/EventVertexGenerators/test/BeamProfile2DBWriter_cfg.py"
+            "CondTools/BeamSpot/test/BeamProfile2DBWriter_cfg.py", 
+            "IOMC/EventVertexGenerators/BuildFile.xml", 
+            "IOMC/EventVertexGenerators/src/BetafuncEvtVtxGenerator.cc"
         ], 
         "created_at": 1686423660, 
         "number": 41918, 
         "state": "open", 
-        "updated_at": 1686466733
+        "updated_at": 1686468145
     }, 
     "41919": {
         "base_branch": "master", 
