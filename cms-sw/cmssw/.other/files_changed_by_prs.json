@@ -2663,5 +2663,18 @@
         "number": 41919, 
         "state": "open", 
         "updated_at": 1686442767
+    }, 
+    "41920": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareRecHitsSoA.cc", 
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelPhase1RawDataErrorComparator.cc", 
+            "DQM/SiPixelHeterogeneous/python/SiPixelHeterogenousDQMHarvesting_cff.py", 
+            "DQM/SiPixelHeterogeneous/python/SiPixelHeterogenousDQM_FirstStep_cff.py"
+        ], 
+        "created_at": 1686471476, 
+        "number": 41920, 
+        "state": "open", 
+        "updated_at": 1686471502
     }
 }
