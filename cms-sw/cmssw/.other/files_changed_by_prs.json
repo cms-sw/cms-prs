@@ -5410,6 +5410,7 @@
             "Geometry/HGCalCommonData/data/hgcal/v15/hgcal.xml", 
             "Geometry/HGCalCommonData/data/hgcal/v16/hgcal.xml", 
             "Geometry/HGCalCommonData/data/hgcal/v17/hgcal.xml", 
+            "Geometry/HGCalCommonData/data/hgcal/v17ng/hgcal.xml", 
             "Geometry/HGCalCommonData/data/hgcal/v18/hgcal.xml", 
             "Geometry/HGCalCommonData/data/hgcalCons/v10/hgcalCons.xml", 
             "Geometry/HGCalCommonData/data/hgcalCons/v11/hgcalCons.xml", 
@@ -5480,6 +5481,7 @@
             "Geometry/HGCalCommonData/data/hgcalwafer/v17f/hgcalpos.xml", 
             "Geometry/HGCalCommonData/data/hgcalwafer/v17f/hgcalwafer.xml", 
             "Geometry/HGCalCommonData/data/hgcalwafer/v17n/hgcalwafer.xml", 
+            "Geometry/HGCalCommonData/data/hgcalwafer/v17ng/hgcalwafer.xml", 
             "Geometry/HGCalCommonData/data/hgcalwafer/v17p/hgcal.xml", 
             "Geometry/HGCalCommonData/data/hgcalwafer/v17p/hgcalwafer.xml", 
             "Geometry/HGCalCommonData/data/hgcalwafer/v9/hgcal.xml", 
@@ -5530,6 +5532,8 @@
             "Geometry/HGCalCommonData/python/testHGCalV17ShiftXML_cfi.py", 
             "Geometry/HGCalCommonData/python/testHGCalV17XML_cfi.py", 
             "Geometry/HGCalCommonData/python/testHGCalV17nXML_cfi.py", 
+            "Geometry/HGCalCommonData/python/testHGCalV17ngXML_cfi.py", 
+            "Geometry/HGCalCommonData/python/testHGCalV17ng_cff.py", 
             "Geometry/HGCalCommonData/python/testHGCalV18Reco_cff.py", 
             "Geometry/HGCalCommonData/python/testHGCalV18XML_cfi.py", 
             "Geometry/HGCalCommonData/python/testHGCalWafer8XML_cfi.py", 
@@ -5834,16 +5838,12 @@
             "Geometry/TrackerGeometryBuilder/test/phase1PixelTopology_t.cu", 
             "Geometry/TrackerGeometryBuilder/test/python/testTrackerMap_cfg.py", 
             "Geometry/TrackerGeometryBuilder/test/python/testTrackerModuleInfoDD4hep_cfg.py", 
-            "Geometry/TrackerGeometryBuilder/test/python/testTrackerModuleInfoDDD_cfg.py", 
-            "Geometry/TrackerGeometryBuilder/test/python/testTrackerParametersFromDD4hep_cfg.py", 
-            "Geometry/TrackerGeometryBuilder/test/python/testTrackerParametersFromDDD_cfg.py", 
-            "Geometry/TrackerGeometryBuilder/test/runTest.sh", 
-            "Geometry/TrackerGeometryBuilder/test/runTests.cpp"
+            "Geometry/TrackerGeometryBuilder/test/python/testTrackerModuleInfoDDD_cfg.py"
         ], 
         "created_at": 1686577155, 
         "number": 41929, 
         "state": "open", 
-        "updated_at": 1686577189
+        "updated_at": 1686593234
     }, 
     "41930": {
         "base_branch": "master", 
