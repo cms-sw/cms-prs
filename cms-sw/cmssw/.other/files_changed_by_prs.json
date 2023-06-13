@@ -4037,6 +4037,7 @@
             "DQMOffline/Trigger/plugins/HLTTauRefProducer.cc", 
             "DQMOffline/Trigger/plugins/JetMETHLTOfflineSource.cc", 
             "DQMOffline/Trigger/plugins/LepHTMonitor.cc", 
+            "DQMOffline/Trigger/plugins/ParticleNetJetTagMonitor.cc", 
             "DQMOffline/Trigger/python/B2GMonitoring_cff.py", 
             "DQMOffline/Trigger/python/DQMOffline_Trigger_cff.py", 
             "DQMOffline/Trigger/python/DQMOffline_Trigger_cosmics_cff.py", 
@@ -5797,13 +5798,12 @@
             "Geometry/TrackerGeometryBuilder/src/PixelTopologyBuilder.cc", 
             "Geometry/TrackerGeometryBuilder/src/TrackerGeomBuilderFromGeometricDet.cc", 
             "Geometry/TrackerGeometryBuilder/test/BuildFile.xml", 
-            "Geometry/TrackerGeometryBuilder/test/ModuleInfo.cc", 
-            "Geometry/TrackerGeometryBuilder/test/TrackerDigiGeometryAnalyzer.cc"
+            "Geometry/TrackerGeometryBuilder/test/ModuleInfo.cc"
         ], 
         "created_at": 1686577155, 
         "number": 41929, 
         "state": "open", 
-        "updated_at": 1686627791
+        "updated_at": 1686632030
     }, 
     "41932": {
         "base_branch": "master", 
