@@ -5860,5 +5860,20 @@
         "number": 41942, 
         "state": "open", 
         "updated_at": 1686657260
+    }, 
+    "41943": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/hgcalPassive/v18/hgcalPassive.xml", 
+            "Geometry/HGCalCommonData/data/hgcalPassive/v18/hgcalpos.xml", 
+            "Geometry/HGCalCommonData/plugins/DDHGCalPassiveFull.cc", 
+            "Geometry/HGCalCommonData/plugins/DDHGCalPassivePartial.cc", 
+            "Geometry/HGCalCommonData/python/testHGCalPassiveXML_cfi.py", 
+            "Geometry/HGCalCommonData/test/python/dumpHGCalPassive_cfg.py"
+        ], 
+        "created_at": 1686664455, 
+        "number": 41943, 
+        "state": "open", 
+        "updated_at": 1686664483
     }
 }
