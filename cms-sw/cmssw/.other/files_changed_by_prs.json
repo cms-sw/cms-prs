@@ -2614,13 +2614,15 @@
         "base_branch": "master", 
         "changed_files_names": [
             "DataFormats/SoATemplate/interface/SoACommon.h", 
+            "DataFormats/SoATemplate/interface/SoALayout.h", 
             "DataFormats/SoATemplate/interface/SoAView.h", 
+            "DataFormats/SoATemplate/test/SoALayoutAndView_t.cu", 
             "DataFormats/SoATemplate/test/SoALayoutAndView_t.hip.cc"
         ], 
         "created_at": 1686576758, 
         "number": 41928, 
         "state": "open", 
-        "updated_at": 1686576780
+        "updated_at": 1686654185
     }, 
     "41929": {
         "base_branch": "CMSSW_12_6_X", 
