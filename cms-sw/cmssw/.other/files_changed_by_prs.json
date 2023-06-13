@@ -3723,6 +3723,7 @@
             "DQM/CSCMonitorModule/plugins/CSCDQM_StripClusterFinder.cc", 
             "DQM/CSCMonitorModule/plugins/CSCDQM_StripClusterFinder.h", 
             "DQM/CTPPS/BuildFile.xml", 
+            "DQM/CTPPS/interface/TotemT2Segmentation.h", 
             "DQM/CTPPS/plugins/BuildFile.xml", 
             "DQM/CTPPS/plugins/CTPPSCommonDQMSource.cc", 
             "DQM/CTPPS/plugins/CTPPSDiamondDQMSource.cc", 
@@ -3733,6 +3734,7 @@
             "DQM/CTPPS/python/ctppsPixelDQMSource_cfi.py", 
             "DQM/CTPPS/python/totemRPDQMSource_cfi.py", 
             "DQM/CTPPS/python/totemT2DQMSource_cfi.py", 
+            "DQM/CTPPS/src/TotemT2Segmentation.cc", 
             "DQM/CTPPS/test/pps_random_dqm_test_from_alcaraw_cfg.py", 
             "DQM/CTPPS/test/totemt2_dqm_test_cfg.py", 
             "DQM/CTPPS/test/totemt2_dqm_test_common_cfg.py", 
@@ -5771,14 +5773,12 @@
             "Geometry/TrackerGeometryBuilder/interface/TrackerGeomBuilderFromGeometricDet.h", 
             "Geometry/TrackerGeometryBuilder/plugins/TrackerAdditionalParametersPerDetESModule.cc", 
             "Geometry/TrackerGeometryBuilder/plugins/TrackerDigiGeometryESModule.cc", 
-            "Geometry/TrackerGeometryBuilder/src/PixelTopologyBuilder.cc", 
-            "Geometry/TrackerGeometryBuilder/src/TrackerGeomBuilderFromGeometricDet.cc", 
-            "Geometry/TrackerGeometryBuilder/test/BuildFile.xml"
+            "Geometry/TrackerGeometryBuilder/src/PixelTopologyBuilder.cc"
         ], 
         "created_at": 1686577155, 
         "number": 41929, 
         "state": "open", 
-        "updated_at": 1686632785
+        "updated_at": 1686637213
     }, 
     "41932": {
         "base_branch": "master", 
