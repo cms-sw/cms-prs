@@ -2561,38 +2561,6 @@
         "state": "open", 
         "updated_at": 1686413625
     }, 
-    "41918": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondCore/BeamSpotPlugins/interface/BeamSpotPayloadInspectorHelper.h", 
-            "CondCore/BeamSpotPlugins/plugins/BeamSpotOnline_PayloadInspector.cc", 
-            "CondCore/BeamSpotPlugins/plugins/BeamSpot_PayloadInspector.cc", 
-            "CondCore/BeamSpotPlugins/plugins/BuildFile.xml", 
-            "CondCore/BeamSpotPlugins/plugins/SimBeamSpot_PayloadInspector.cc", 
-            "CondCore/Utilities/plugins/Module_2XML.cc", 
-            "CondCore/Utilities/src/CondDBFetch.cc", 
-            "CondCore/Utilities/src/CondDBImport.cc", 
-            "CondCore/Utilities/src/CondFormats.h", 
-            "CondFormats/BeamSpotObjects/interface/SimBeamSpotObjects.h", 
-            "CondFormats/BeamSpotObjects/src/SimBeamSpotObjects.cc", 
-            "CondTools/BeamSpot/BuildFile.xml", 
-            "CondTools/BeamSpot/plugins/BeamProfile2DBReader.cc", 
-            "CondTools/BeamSpot/plugins/BeamProfile2DBWriter.cc", 
-            "IOMC/EventVertexGenerators/src/BeamProfile2DB.cc", 
-            "CondTools/BeamSpot/python/BeamProfile2DBRead_cfi.py", 
-            "CondTools/BeamSpot/test/BeamProfile2DBReader_cfg.py", 
-            "CondTools/BeamSpot/test/BeamProfile2DBWriter_cfg.py", 
-            "CondTools/BeamSpot/test/BuildFile.xml", 
-            "CondTools/BeamSpot/test/testReadWriteBeamSpotsFromDB.sh", 
-            "CondTools/BeamSpot/test/testReadWriteOnlineBSFromDB.sh", 
-            "IOMC/EventVertexGenerators/BuildFile.xml", 
-            "IOMC/EventVertexGenerators/src/BetafuncEvtVtxGenerator.cc"
-        ], 
-        "created_at": 1686423660, 
-        "number": 41918, 
-        "state": "open", 
-        "updated_at": 1686583211
-    }, 
     "41923": {
         "base_branch": "CMSSW_13_0_7_TOTEM_X", 
         "changed_files_names": [
