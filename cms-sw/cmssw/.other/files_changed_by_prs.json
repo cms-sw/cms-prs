@@ -4320,9 +4320,13 @@
             "DataFormats/Scouting/interface/Run3ScoutingElectron.h", 
             "DataFormats/Scouting/src/classes_def.xml", 
             "DataFormats/Scouting/test/BuildFile.xml", 
+            "DataFormats/Scouting/test/TestReadRun2Scouting.cc", 
             "DataFormats/Scouting/test/TestReadRun3Scouting.cc", 
+            "DataFormats/Scouting/test/TestRun2ScoutingFormats.sh", 
             "DataFormats/Scouting/test/TestRun3ScoutingFormats.sh", 
+            "DataFormats/Scouting/test/TestWriteRun2Scouting.cc", 
             "DataFormats/Scouting/test/TestWriteRun3Scouting.cc", 
+            "DataFormats/Scouting/test/create_Run2Scouting_test_file_cfg.py", 
             "DataFormats/Scouting/test/create_Run3Scouting_test_file_cfg.py", 
             "DataFormats/Scouting/test/scoutingCollectionsDumper.py", 
             "DataFormats/Scouting/test/scoutingCollectionsIO_cfg.py", 
@@ -4330,7 +4334,7 @@
             "DataFormats/Scouting/test/testDataFormatsScoutingRun2_expected.log", 
             "DataFormats/Scouting/test/testDataFormatsScoutingRun3.sh", 
             "DataFormats/Scouting/test/testDataFormatsScoutingRun3_expected.log", 
-            "DataFormats/Scouting/test/test_readRun3Scouting_CMSSW_12_4_0_cfg.py", 
+            "DataFormats/Scouting/test/test_readRun2Scouting_cfg.py", 
             "DataFormats/Scouting/test/test_readRun3Scouting_cfg.py", 
             "DataFormats/SiStripCluster/interface/SiStripClusterfwd.h", 
             "DataFormats/SiStripCluster/interface/SiStripClustersSOA.h", 
@@ -5814,16 +5818,12 @@
             "Geometry/TrackerGeometryBuilder/src/TrackerGeomBuilderFromGeometricDet.cc", 
             "Geometry/TrackerGeometryBuilder/test/BuildFile.xml", 
             "Geometry/TrackerGeometryBuilder/test/ModuleInfo.cc", 
-            "Geometry/TrackerGeometryBuilder/test/TrackerDigiGeometryAnalyzer.cc", 
-            "Geometry/TrackerGeometryBuilder/test/phase1PixelTopology_t.cu", 
-            "Geometry/TrackerGeometryBuilder/test/python/testTrackerMap_cfg.py", 
-            "Geometry/TrackerGeometryBuilder/test/python/testTrackerModuleInfoDD4hep_cfg.py", 
-            "Geometry/TrackerGeometryBuilder/test/python/testTrackerModuleInfoDDD_cfg.py"
+            "Geometry/TrackerGeometryBuilder/test/TrackerDigiGeometryAnalyzer.cc"
         ], 
         "created_at": 1686577155, 
         "number": 41929, 
         "state": "open", 
-        "updated_at": 1686593234
+        "updated_at": 1686627791
     }, 
     "41930": {
         "base_branch": "master", 
