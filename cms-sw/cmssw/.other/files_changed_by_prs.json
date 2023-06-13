@@ -3884,6 +3884,7 @@
             "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorRecHitsSoA.cc", 
             "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorTrackSoA.cc", 
             "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorVertexSoA.cc", 
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelPhase1RawDataErrorComparator.cc", 
             "DQM/SiPixelHeterogeneous/plugins/SiPixelTrackComparisonHarvester.cc", 
             "DQM/SiPixelHeterogeneous/python/SiPixelHeterogenousDQMHarvesting_cff.py", 
             "DQM/SiPixelHeterogeneous/python/SiPixelHeterogenousDQM_FirstStep_cff.py", 
@@ -5784,13 +5785,12 @@
             "Geometry/TrackerGeometryBuilder/plugins/TrackerDigiGeometryESModule.cc", 
             "Geometry/TrackerGeometryBuilder/src/PixelTopologyBuilder.cc", 
             "Geometry/TrackerGeometryBuilder/src/TrackerGeomBuilderFromGeometricDet.cc", 
-            "Geometry/TrackerGeometryBuilder/test/BuildFile.xml", 
-            "Geometry/TrackerGeometryBuilder/test/ModuleInfo.cc"
+            "Geometry/TrackerGeometryBuilder/test/BuildFile.xml"
         ], 
         "created_at": 1686577155, 
         "number": 41929, 
         "state": "open", 
-        "updated_at": 1686632030
+        "updated_at": 1686632785
     }, 
     "41932": {
         "base_branch": "master", 
