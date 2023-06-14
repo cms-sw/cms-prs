@@ -5638,12 +5638,15 @@
     "41936": {
         "base_branch": "master", 
         "changed_files_names": [
+            "DataFormats/Common/interface/DetSetNew.h", 
+            "DataFormats/Common/interface/DetSetVectorNew.h", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelClusterProducer.cc", 
             "RecoTracker/MeasurementDet/src/TkMeasurementDetSet.h"
         ], 
         "created_at": 1686596510, 
         "number": 41936, 
         "state": "open", 
-        "updated_at": 1686596583
+        "updated_at": 1686743915
     }, 
     "41938": {
         "base_branch": "CMSSW_13_1_X", 
