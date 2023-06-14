@@ -5780,5 +5780,27 @@
         "number": 41964, 
         "state": "open", 
         "updated_at": 1686762233
+    }, 
+    "41967": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondCore/BeamSpotPlugins/interface/BeamSpotPayloadInspectorHelper.h", 
+            "CondCore/BeamSpotPlugins/plugins/SimBeamSpot_PayloadInspector.cc", 
+            "CondCore/BeamSpotPlugins/test/testBeamSpotPayloadInspector.cpp", 
+            "CondTools/BeamSpot/plugins/BeamProfile2DBReader.cc", 
+            "CondTools/BeamSpot/plugins/BeamProfile2DBWriter.cc", 
+            "CondTools/BeamSpot/plugins/BeamSpotRcdReader.cc", 
+            "CondTools/BeamSpot/python/BeamProfile2DBRead_cfi.py", 
+            "CondTools/BeamSpot/python/BeamSpotRcdRead_cfi.py", 
+            "CondTools/BeamSpot/test/BeamProfile2DBReader_cfg.py", 
+            "CondTools/BeamSpot/test/BeamProfile2DBWriterAll_cfg.py", 
+            "CondTools/BeamSpot/test/BeamProfile2DBWriter_cfg.py", 
+            "CondTools/BeamSpot/test/extractAndUploadAll.py", 
+            "IOMC/EventVertexGenerators/src/BetafuncEvtVtxGenerator.cc"
+        ], 
+        "created_at": 1686771844, 
+        "number": 41967, 
+        "state": "open", 
+        "updated_at": 1686771871
     }
 }
