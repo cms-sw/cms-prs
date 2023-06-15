@@ -2612,5 +2612,28 @@
         "number": 41978, 
         "state": "open", 
         "updated_at": 1686845928
+    }, 
+    "41979": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4CMS/Forward/interface/BHMNumberingScheme.h", 
+            "SimG4CMS/Forward/interface/BHMSD.h", 
+            "SimG4CMS/Forward/interface/BscNumberingScheme.h", 
+            "SimG4CMS/Forward/interface/BscSD.h", 
+            "SimG4CMS/Forward/interface/ZdcNumberingScheme.h", 
+            "SimG4CMS/Forward/interface/ZdcSD.h", 
+            "SimG4CMS/Forward/plugins/BscTest.cc", 
+            "SimG4CMS/Forward/plugins/ZdcTestAnalysis.cc", 
+            "SimG4CMS/Forward/src/BHMNumberingScheme.cc", 
+            "SimG4CMS/Forward/src/BHMSD.cc", 
+            "SimG4CMS/Forward/src/BscNumberingScheme.cc", 
+            "SimG4CMS/Forward/src/BscSD.cc", 
+            "SimG4CMS/Forward/src/ZdcNumberingScheme.cc", 
+            "SimG4CMS/Forward/src/ZdcSD.cc"
+        ], 
+        "created_at": 1686852714, 
+        "number": 41979, 
+        "state": "open", 
+        "updated_at": 1686852735
     }
 }
