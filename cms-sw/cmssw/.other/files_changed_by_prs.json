@@ -1620,30 +1620,6 @@
         "state": "open", 
         "updated_at": 1681472027
     }, 
-    "41224": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/L1TCalorimeterPhase2/BuildFile.xml", 
-            "DataFormats/L1TCalorimeterPhase2/interface/CaloCrystalCluster.h", 
-            "DataFormats/L1TCalorimeterPhase2/interface/DigitizedClusterCorrelator.h", 
-            "DataFormats/L1TCalorimeterPhase2/interface/DigitizedClusterGT.h", 
-            "DataFormats/L1TCalorimeterPhase2/interface/DigitizedTowerCorrelator.h", 
-            "DataFormats/L1TCalorimeterPhase2/src/classes.h", 
-            "DataFormats/L1TCalorimeterPhase2/src/classes_def.xml", 
-            "L1Trigger/Configuration/python/SimL1Emulator_cff.py", 
-            "L1Trigger/L1CaloTrigger/BuildFile.xml", 
-            "L1Trigger/L1CaloTrigger/interface/Phase2L1CaloEGammaUtils.h", 
-            "L1Trigger/L1CaloTrigger/interface/Phase2L1GCT.h", 
-            "L1Trigger/L1CaloTrigger/interface/Phase2L1RCT.h", 
-            "L1Trigger/L1CaloTrigger/plugins/L1EGammaCrystalsEmulatorProducer.cc", 
-            "L1Trigger/L1CaloTrigger/plugins/Phase2L1CaloEGammaEmulator.cc", 
-            "L1Trigger/L1CaloTrigger/python/l1tPhase2L1CaloEGammaEmulator_cfi.py"
-        ], 
-        "created_at": 1680095774, 
-        "number": 41224, 
-        "state": "open", 
-        "updated_at": 1686770167
-    }, 
     "41255": {
         "base_branch": "master", 
         "changed_files_names": [
