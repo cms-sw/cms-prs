@@ -2669,5 +2669,22 @@
         "number": 41983, 
         "state": "open", 
         "updated_at": 1686873725
+    }, 
+    "41984": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalEEAlgo.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalEEFileAlgo.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalHEAlgo.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalHEFileAlgo.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalMixLayer.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalMixRotatedLayer.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalSiliconModule.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalSiliconRotatedModule.cc"
+        ], 
+        "created_at": 1686884014, 
+        "number": 41984, 
+        "state": "open", 
+        "updated_at": 1686884038
     }
 }
