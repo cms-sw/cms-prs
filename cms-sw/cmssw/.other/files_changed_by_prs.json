@@ -2656,5 +2656,18 @@
         "number": 41982, 
         "state": "open", 
         "updated_at": 1686870893
+    }, 
+    "41983": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/dd4hep/testHGCalPassive.xml", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalPassiveFull.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalPassivePartial.cc", 
+            "Geometry/HGCalCommonData/test/python/dumpHGCalPassive_cfg.py"
+        ], 
+        "created_at": 1686873697, 
+        "number": 41983, 
+        "state": "open", 
+        "updated_at": 1686873725
     }
 }
