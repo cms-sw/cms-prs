@@ -3128,5 +3128,23 @@
         "number": 42005, 
         "state": "open", 
         "updated_at": 1687167421
+    }, 
+    "42007": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/EgammaReco/interface/SlimmedSuperCluster.h", 
+            "DataFormats/EgammaReco/interface/SlimmedSuperClusterFwd.h", 
+            "DataFormats/EgammaReco/src/SlimmedSuperCluster.cc", 
+            "DataFormats/EgammaReco/src/classes.h", 
+            "DataFormats/EgammaReco/src/classes_def.xml", 
+            "RecoEgamma/EgammaIsolationAlgos/interface/EgammaHLTTrackIsolation.h", 
+            "RecoEgamma/EgammaIsolationAlgos/src/EgammaHLTTrackIsolation.cc", 
+            "RecoEgamma/EgammaPhotonProducers/python/reducedEgamma_cfi.py", 
+            "RecoEgamma/EgammaPhotonProducers/src/ReducedEGProducer.cc"
+        ], 
+        "created_at": 1687171247, 
+        "number": 42007, 
+        "state": "open", 
+        "updated_at": 1687171270
     }
 }
