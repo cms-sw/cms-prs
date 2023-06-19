@@ -3154,5 +3154,18 @@
         "number": 42017, 
         "state": "open", 
         "updated_at": 1687179783
+    }, 
+    "42018": {
+        "base_branch": "CMSSW_13_0_X", 
+        "changed_files_names": [
+            "Configuration/StandardSequences/python/Harvesting_cff.py", 
+            "DQMOffline/Configuration/python/DQMOffline_SecondStep_cff.py", 
+            "DQMOffline/Configuration/python/DQMOffline_cff.py", 
+            "DQMOffline/Configuration/python/autoDQM.py"
+        ], 
+        "created_at": 1687182933, 
+        "number": 42018, 
+        "state": "open", 
+        "updated_at": 1687182963
     }
 }
