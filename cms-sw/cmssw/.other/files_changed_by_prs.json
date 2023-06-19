@@ -3139,5 +3139,20 @@
         "number": 42016, 
         "state": "open", 
         "updated_at": 1687179438
+    }, 
+    "42017": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Alignment/CommonAlignmentMonitor/plugins/AlignmentStats.cc", 
+            "Alignment/CommonAlignmentMonitor/plugins/AlignmentStats.h", 
+            "Alignment/CommonAlignmentMonitor/test/BuildFile.xml", 
+            "Alignment/CommonAlignmentMonitor/test/testAlignmentStats.sh", 
+            "Alignment/CommonAlignmentMonitor/test/testAlignmentStats_cfg.py", 
+            "Alignment/TrackerAlignment/plugins/TkAlCaOverlapTagger.cc"
+        ], 
+        "created_at": 1687179765, 
+        "number": 42017, 
+        "state": "open", 
+        "updated_at": 1687179783
     }
 }
