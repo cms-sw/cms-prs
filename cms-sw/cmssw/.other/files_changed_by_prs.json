@@ -599,26 +599,6 @@
         "state": "open", 
         "updated_at": 1686259550
     }, 
-    "40828": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "Configuration/PyReleaseValidation/python/relval_standard.py", 
-            "Configuration/PyReleaseValidation/python/relval_steps.py", 
-            "PhysicsTools/NanoAOD/plugins/BJetEnergyRegressionMVA.cc", 
-            "PhysicsTools/NanoAOD/plugins/BuildFile.xml", 
-            "PhysicsTools/NanoAOD/python/jets_cff.py", 
-            "PhysicsTools/ONNXRuntime/interface/ONNXRuntime.h", 
-            "PhysicsTools/PatAlgos/BuildFile.xml", 
-            "PhysicsTools/PatAlgos/interface/BaseMVAValueMapProducer.h", 
-            "PhysicsTools/PatAlgos/plugins/BaseMVAValueMapProducer.cc", 
-            "PhysicsTools/PatAlgos/plugins/BaseMVAValueMapProducer.h", 
-            "PhysicsTools/PatAlgos/plugins/BuildFile.xml"
-        ], 
-        "created_at": 1676911170, 
-        "number": 40828, 
-        "state": "open", 
-        "updated_at": 1686903635
-    }, 
     "40921": {
         "base_branch": "master", 
         "changed_files_names": [
