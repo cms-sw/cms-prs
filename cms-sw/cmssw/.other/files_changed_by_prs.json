@@ -3144,5 +3144,20 @@
         "number": 42021, 
         "state": "open", 
         "updated_at": 1687199277
+    }, 
+    "42022": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/SiStripCluster/interface/SiStripApproximateClusterCollection.h", 
+            "DataFormats/SiStripCluster/src/SiStripApproximateClusterCollection.cc", 
+            "DataFormats/SiStripCluster/src/classes.h", 
+            "DataFormats/SiStripCluster/src/classes_def.xml", 
+            "RecoLocalTracker/SiStripClusterizer/plugins/SiStripApprox2Clusters.cc", 
+            "RecoLocalTracker/SiStripClusterizer/plugins/SiStripClusters2ApproxClusters.cc"
+        ], 
+        "created_at": 1687236985, 
+        "number": 42022, 
+        "state": "open", 
+        "updated_at": 1687237011
     }
 }
