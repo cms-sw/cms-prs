@@ -433,6 +433,7 @@
     "40285": {
         "base_branch": "master", 
         "changed_files_names": [
+            "DataFormats/Portable/README.md", 
             "DataFormats/Portable/interface/PortableCollection.h", 
             "DataFormats/Portable/interface/PortableCollectionCommon.h", 
             "DataFormats/Portable/interface/PortableDeviceCollection.h", 
@@ -444,6 +445,7 @@
             "DataFormats/PortableTestObjects/interface/TestSoA.h", 
             "DataFormats/PortableTestObjects/interface/alpaka/TestDeviceCollection.h", 
             "DataFormats/PortableTestObjects/src/alpaka/classes_cuda_def.xml", 
+            "DataFormats/PortableTestObjects/src/alpaka/classes_rocm_def.xml", 
             "DataFormats/PortableTestObjects/src/classes_def.xml", 
             "HeterogeneousCore/AlpakaTest/plugins/TestAlpakaAnalyzer.cc", 
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlgo.dev.cc", 
@@ -454,7 +456,7 @@
         "created_at": 1670834202, 
         "number": 40285, 
         "state": "open", 
-        "updated_at": 1683178022
+        "updated_at": 1687249671
     }, 
     "40335": {
         "base_branch": "master", 
