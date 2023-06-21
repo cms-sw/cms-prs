@@ -2583,22 +2583,6 @@
         "state": "open", 
         "updated_at": 1687271902
     }, 
-    "42003": {
-        "base_branch": "CMSSW_13_1_X", 
-        "changed_files_names": [
-            "DataFormats/L1TMuon/interface/EMTF/ME.h", 
-            "DataFormats/L1TMuon/interface/EMTF/SP.h", 
-            "DataFormats/L1TMuon/interface/EMTFHit.h", 
-            "DataFormats/L1TMuon/src/EMTFHit.cc", 
-            "EventFilter/L1TRawToDigi/plugins/implementations_stage2/EMTFBlockME.cc", 
-            "EventFilter/L1TRawToDigi/plugins/implementations_stage2/EMTFBlockSP.cc", 
-            "EventFilter/L1TRawToDigi/plugins/implementations_stage2/EMTFUnpackerTools.cc"
-        ], 
-        "created_at": 1687154465, 
-        "number": 42003, 
-        "state": "open", 
-        "updated_at": 1687180834
-    }, 
     "42005": {
         "base_branch": "master", 
         "changed_files_names": [
