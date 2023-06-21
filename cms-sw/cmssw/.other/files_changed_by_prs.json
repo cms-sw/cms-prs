@@ -2886,5 +2886,18 @@
         "number": 42041, 
         "state": "open", 
         "updated_at": 1687366045
+    }, 
+    "42042": {
+        "base_branch": "CMSSW_13_0_X", 
+        "changed_files_names": [
+            "DataFormats/Common/interface/DetSetNew.h", 
+            "DataFormats/Common/interface/DetSetVectorNew.h", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelClusterProducer.cc", 
+            "RecoTracker/MeasurementDet/src/TkMeasurementDetSet.h"
+        ], 
+        "created_at": 1687366047, 
+        "number": 42042, 
+        "state": "open", 
+        "updated_at": 1687366069
     }
 }
