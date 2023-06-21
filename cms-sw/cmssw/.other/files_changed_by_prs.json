@@ -1858,21 +1858,6 @@
         "state": "open", 
         "updated_at": 1687331545
     }, 
-    "41562": {
-        "base_branch": "CMSSW_13_1_X", 
-        "changed_files_names": [
-            "RecoTracker/PixelSeeding/plugins/PixelTripletHLTGenerator.cc", 
-            "RecoTracker/PixelSeeding/plugins/PixelTripletLargeTipGenerator.cc", 
-            "RecoTracker/TkHitPairs/interface/HitPairGeneratorFromLayerPair.h", 
-            "RecoTracker/TkHitPairs/plugins/HitPairEDProducer.cc", 
-            "RecoTracker/TkHitPairs/src/HitPairGeneratorFromLayerPair.cc", 
-            "RecoTracker/TkSeedGenerator/plugins/MultiHitGeneratorFromChi2.cc"
-        ], 
-        "created_at": 1683293844, 
-        "number": 41562, 
-        "state": "open", 
-        "updated_at": 1685452774
-    }, 
     "41564": {
         "base_branch": "master", 
         "changed_files_names": [
