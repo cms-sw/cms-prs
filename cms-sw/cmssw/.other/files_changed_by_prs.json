@@ -2899,5 +2899,19 @@
         "number": 42042, 
         "state": "open", 
         "updated_at": 1687366069
+    }, 
+    "42044": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "GeneratorInterface/RivetInterface/interface/ParticleLevelProducer.h", 
+            "GeneratorInterface/RivetInterface/interface/RivetAnalyzer.h", 
+            "GeneratorInterface/RivetInterface/plugins/HTXSRivetProducer.cc", 
+            "GeneratorInterface/RivetInterface/plugins/ParticleLevelProducer.cc", 
+            "GeneratorInterface/RivetInterface/plugins/RivetAnalyzer.cc"
+        ], 
+        "created_at": 1687370493, 
+        "number": 42044, 
+        "state": "open", 
+        "updated_at": 1687370520
     }
 }
