@@ -2118,8 +2118,6 @@
             "RecoLocalTracker/SiStripClusterizer/plugins/SiStripApprox2ApproxClusters.cc", 
             "RecoLocalTracker/SiStripClusterizer/plugins/SiStripClusters2ApproxClusters.cc", 
             "RecoLocalTracker/SiStripClusterizer/python/SiStripClusters2ApproxClusters_cff.py", 
-            "RecoLocalTracker/SiStripClusterizer/test/step3_RAW2DIGI_RECO_VALIDATION_DQM_PU.py", 
-            "RecoLocalTracker/SiStripClusterizer/test/step4_HARVESTING.py", 
             "RecoTracker/IterativeTracking/python/PixelLessStep_cff.py", 
             "RecoTracker/IterativeTracking/python/TobTecStep_cff.py", 
             "RecoTracker/PixelLowPtUtilities/interface/SlidingPeakFinder.h", 
@@ -2128,7 +2126,7 @@
         "created_at": 1685475199, 
         "number": 41815, 
         "state": "open", 
-        "updated_at": 1687256920
+        "updated_at": 1687331790
     }, 
     "41901": {
         "base_branch": "master", 
