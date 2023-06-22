@@ -2915,5 +2915,41 @@
         "number": 42057, 
         "state": "open", 
         "updated_at": 1687444804
+    }, 
+    "42058": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQMServices/Components/plugins/DQMFileSaver.cc", 
+            "DataFormats/Provenance/interface/ProductResolverIndexHelper.h", 
+            "DataFormats/Provenance/src/ProductResolverIndexHelper.cc", 
+            "DataFormats/Provenance/test/productResolverIndexHelper_t.cppunit.cc", 
+            "FWCore/Framework/interface/ConsumesCollector.h", 
+            "FWCore/Framework/interface/EDConsumerBase.h", 
+            "FWCore/Framework/interface/Event.h", 
+            "FWCore/Framework/interface/LuminosityBlock.h", 
+            "FWCore/Framework/interface/Principal.h", 
+            "FWCore/Framework/interface/PrincipalGetAdapter.h", 
+            "FWCore/Framework/interface/Run.h", 
+            "FWCore/Framework/src/EDConsumerBase.cc", 
+            "FWCore/Framework/src/Principal.cc", 
+            "FWCore/Framework/src/PrincipalGetAdapter.cc", 
+            "FWCore/Framework/src/StreamSchedule.cc", 
+            "FWCore/Framework/test/BuildFile.xml", 
+            "FWCore/Framework/test/Event_t.cpp", 
+            "FWCore/Framework/test/edconsumerbase_t.cppunit.cc", 
+            "FWCore/Framework/test/eventprincipal_t.cppunit.cc", 
+            "FWCore/Framework/test/stubs/TestFilterModule.cc", 
+            "FWCore/Framework/test/stubs/TestTriggerNames.cc", 
+            "FWCore/Framework/test/stubs/ToyIntProducers.cc", 
+            "FWCore/Framework/test/test_conditionaltasks_cfg.py", 
+            "FWCore/Framework/test/test_get_by_type_cfg.py", 
+            "FWCore/Integration/test/unit_test_outputs/testConsumesInfo_1.log", 
+            "FWCore/ServiceRegistry/interface/ConsumesInfo.h", 
+            "FWCore/ServiceRegistry/interface/PathsAndConsumesOfModulesBase.h"
+        ], 
+        "created_at": 1687446699, 
+        "number": 42058, 
+        "state": "open", 
+        "updated_at": 1687446727
     }
 }
