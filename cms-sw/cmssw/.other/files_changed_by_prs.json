@@ -1832,32 +1832,6 @@
         "state": "open", 
         "updated_at": 1687181584
     }, 
-    "41492": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/L1TParticleFlow/interface/PFTau.h", 
-            "DataFormats/L1TParticleFlow/interface/gt_datatypes.h", 
-            "DataFormats/L1TParticleFlow/interface/taus.h", 
-            "DataFormats/L1TParticleFlow/src/PFTau.cc", 
-            "DataFormats/L1TParticleFlow/src/classes_def.xml", 
-            "L1Trigger/Phase2L1ParticleFlow/interface/TauNNId.h", 
-            "L1Trigger/Phase2L1ParticleFlow/interface/taus/TauNNIdHW.h", 
-            "L1Trigger/Phase2L1ParticleFlow/interface/taus/weights/b1.h", 
-            "L1Trigger/Phase2L1ParticleFlow/interface/taus/weights/b2.h", 
-            "L1Trigger/Phase2L1ParticleFlow/interface/taus/weights/b3.h", 
-            "L1Trigger/Phase2L1ParticleFlow/interface/taus/weights/b4.h", 
-            "L1Trigger/Phase2L1ParticleFlow/interface/taus/weights/w1.h", 
-            "L1Trigger/Phase2L1ParticleFlow/interface/taus/weights/w2.h", 
-            "L1Trigger/Phase2L1ParticleFlow/interface/taus/weights/w3.h", 
-            "L1Trigger/Phase2L1ParticleFlow/interface/taus/weights/w4.h", 
-            "L1Trigger/Phase2L1ParticleFlow/plugins/L1NNTauProducer.cc", 
-            "L1Trigger/Phase2L1ParticleFlow/python/L1NNTauProducer_cff.py"
-        ], 
-        "created_at": 1683045489, 
-        "number": 41492, 
-        "state": "open", 
-        "updated_at": 1687331545
-    }, 
     "41564": {
         "base_branch": "master", 
         "changed_files_names": [
