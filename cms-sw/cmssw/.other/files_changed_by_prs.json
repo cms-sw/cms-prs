@@ -2905,5 +2905,16 @@
         "number": 42058, 
         "state": "open", 
         "updated_at": 1687446727
+    }, 
+    "42060": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Utilities/StorageFactory/src/StatisticsSenderService.cc", 
+            "Utilities/StorageFactory/test/test_file_statistics_sender.sh"
+        ], 
+        "created_at": 1687460608, 
+        "number": 42060, 
+        "state": "open", 
+        "updated_at": 1687460632
     }
 }
