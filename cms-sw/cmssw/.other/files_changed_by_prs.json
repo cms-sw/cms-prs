@@ -3029,5 +3029,18 @@
         "number": 42080, 
         "state": "open", 
         "updated_at": 1687674771
+    }, 
+    "42082": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/StandardSequences/python/Eras.py", 
+            "SimCalorimetry/EcalSimProducers/python/componentDigiParameters_cff.py", 
+            "SimCalorimetry/EcalSimProducers/python/ecalTimeDigiParameters_cff.py", 
+            "SimG4Core/Application/python/g4SimHits_cfi.py"
+        ], 
+        "created_at": 1687715867, 
+        "number": 42082, 
+        "state": "open", 
+        "updated_at": 1687715894
     }
 }
