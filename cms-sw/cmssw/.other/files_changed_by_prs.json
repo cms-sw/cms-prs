@@ -3082,5 +3082,30 @@
         "number": 42079, 
         "state": "open", 
         "updated_at": 1687651467
+    }, 
+    "42080": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/hgcalEE/v18/hgcalEE.xml", 
+            "Geometry/HGCalCommonData/data/hgcalHEsil/v18/hgcalHEsil.xml", 
+            "Geometry/HGCalCommonData/data/hgcalPassive/v18/hgcalPassive.xml", 
+            "Geometry/HGCalCommonData/plugins/DDHGCalPassiveFull.cc", 
+            "Geometry/HGCalCommonData/plugins/DDHGCalPassivePartial.cc", 
+            "Geometry/HGCalCommonData/plugins/DDHGCalSiliconRotatedCassette.cc", 
+            "Geometry/HGCalCommonData/python/testHGCV16XML_cfi.py", 
+            "Geometry/HGCalCommonData/python/testHGCV17XML_cfi.py", 
+            "Geometry/HGCalCommonData/python/testHGCV17nXML_cfi.py", 
+            "Geometry/HGCalCommonData/python/testHGCalV16XML_cfi.py", 
+            "Geometry/HGCalCommonData/python/testHGCalV17ShiftXML_cfi.py", 
+            "Geometry/HGCalCommonData/python/testHGCalV17XML_cfi.py", 
+            "Geometry/HGCalCommonData/python/testHGCalV17nXML_cfi.py", 
+            "Geometry/HGCalCommonData/python/testHGCalV17ngXML_cfi.py", 
+            "Geometry/HGCalCommonData/python/testHGCalV18XML_cfi.py", 
+            "Geometry/HGCalCommonData/test/python/g4OverlapCheck_cfg.py"
+        ], 
+        "created_at": 1687663441, 
+        "number": 42080, 
+        "state": "open", 
+        "updated_at": 1687663463
     }
 }
