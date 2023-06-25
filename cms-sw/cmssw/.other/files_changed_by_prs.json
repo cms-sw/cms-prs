@@ -2008,31 +2008,6 @@
         "state": "open", 
         "updated_at": 1687526770
     }, 
-    "41815": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/StandardSequences/python/DigiToRaw_Repack_cff.py", 
-            "DataFormats/SiStripCluster/interface/SiStripApproximateCluster.h", 
-            "DataFormats/SiStripCluster/interface/SiStripCluster.h", 
-            "DataFormats/SiStripCluster/src/SiStripApproximateCluster.cc", 
-            "DataFormats/SiStripCluster/src/SiStripCluster.cc", 
-            "DataFormats/SiStripCluster/src/classes_def.xml", 
-            "DataFormats/SiStripCommon/interface/ConstantsForHardwareSystems.h", 
-            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
-            "RecoLocalTracker/SiStripClusterizer/plugins/BuildFile.xml", 
-            "RecoLocalTracker/SiStripClusterizer/plugins/SiStripApprox2ApproxClusters.cc", 
-            "RecoLocalTracker/SiStripClusterizer/plugins/SiStripClusters2ApproxClusters.cc", 
-            "RecoLocalTracker/SiStripClusterizer/python/SiStripClusters2ApproxClusters_cff.py", 
-            "RecoTracker/IterativeTracking/python/PixelLessStep_cff.py", 
-            "RecoTracker/IterativeTracking/python/TobTecStep_cff.py", 
-            "RecoTracker/PixelLowPtUtilities/interface/SlidingPeakFinder.h", 
-            "RecoTracker/PixelLowPtUtilities/src/StripSubClusterShapeTrajectoryFilter.cc"
-        ], 
-        "created_at": 1685475199, 
-        "number": 41815, 
-        "state": "open", 
-        "updated_at": 1687505905
-    }, 
     "41901": {
         "base_branch": "master", 
         "changed_files_names": [
