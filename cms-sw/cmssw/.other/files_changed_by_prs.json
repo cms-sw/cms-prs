@@ -3050,6 +3050,7 @@
             "Geometry/HcalCommonData/interface/HcalHitRelabeller.h", 
             "Geometry/HcalCommonData/src/HcalDDDRecConstants.cc", 
             "Geometry/HcalCommonData/src/HcalHitRelabeller.cc", 
+            "Geometry/HcalCommonData/src/HcalLayerDepthMap.cc", 
             "Geometry/HcalCommonData/src/HcalNumberingFromDDD.cc", 
             "Geometry/HcalCommonData/test/HcalHitRelabellerTester.cc", 
             "Geometry/HcalCommonData/test/python/testHitRelabeller_cfg.py"
@@ -3057,6 +3058,6 @@
         "created_at": 1687748710, 
         "number": 42083, 
         "state": "open", 
-        "updated_at": 1687748736
+        "updated_at": 1687752012
     }
 }
