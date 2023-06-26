@@ -2722,5 +2722,21 @@
         "number": 42095, 
         "state": "open", 
         "updated_at": 1687783973
+    }, 
+    "42097": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/ProcessModifiers/python/ecal_component_cff.py", 
+            "Configuration/ProcessModifiers/python/ecal_component_finely_sampled_waveforms_cff.py", 
+            "Configuration/PyReleaseValidation/README.md", 
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
+            "SimCalorimetry/EcalSimProducers/python/componentDigiParameters_cff.py", 
+            "SimCalorimetry/EcalSimProducers/python/ecalTimeDigiParameters_cff.py", 
+            "SimG4Core/Application/python/g4SimHits_cfi.py"
+        ], 
+        "created_at": 1687796695, 
+        "number": 42097, 
+        "state": "open", 
+        "updated_at": 1687796766
     }
 }
