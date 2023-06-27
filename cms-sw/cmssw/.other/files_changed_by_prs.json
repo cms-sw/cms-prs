@@ -2734,5 +2734,17 @@
         "number": 42108, 
         "state": "open", 
         "updated_at": 1687854859
+    }, 
+    "42109": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/SoATemplate/interface/SoALayout.h", 
+            "DataFormats/SoATemplate/test/SoALayoutAndView_t.cu", 
+            "DataFormats/SoATemplate/test/SoALayoutAndView_t.hip.cc"
+        ], 
+        "created_at": 1687864251, 
+        "number": 42109, 
+        "state": "open", 
+        "updated_at": 1687864275
     }
 }
