@@ -2458,27 +2458,6 @@
         "state": "open", 
         "updated_at": 1687675245
     }, 
-    "42085": {
-        "base_branch": "CMSSW_13_0_X", 
-        "changed_files_names": [
-            "Alignment/APEEstimation/python/ApeEstimator_cfi.py", 
-            "Alignment/APEEstimation/python/samples/MC_UnitTest_TkAlMuonIsolated_cff.py", 
-            "Alignment/APEEstimation/scripts/initialise.bash", 
-            "Alignment/APEEstimation/test/BuildFile.xml", 
-            "Alignment/APEEstimation/test/SkimProducer/skimProducer_cfg.py", 
-            "Alignment/APEEstimation/test/SkimProducer/startSkim.py", 
-            "Alignment/APEEstimation/test/autoSubmitter/autoSubmitter.py", 
-            "Alignment/APEEstimation/test/autoSubmitter/autoSubmitterTemplates.py", 
-            "Alignment/APEEstimation/test/autoSubmitter/helpers.py", 
-            "Alignment/APEEstimation/test/autoSubmitter/unitTest.ini", 
-            "Alignment/APEEstimation/test/trackerTreeGenerator_cfg.py", 
-            "Alignment/APEEstimation/test/unitTest.sh"
-        ], 
-        "created_at": 1687758120, 
-        "number": 42085, 
-        "state": "open", 
-        "updated_at": 1687767061
-    }, 
     "42089": {
         "base_branch": "CMSSW_13_0_X", 
         "changed_files_names": [
