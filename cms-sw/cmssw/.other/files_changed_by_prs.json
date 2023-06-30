@@ -2875,5 +2875,23 @@
         "number": 42168, 
         "state": "open", 
         "updated_at": 1688119728
+    }, 
+    "42169": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4Core/PrintGeomInfo/plugins/PrintGeomSolids.cc", 
+            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheck2026DD4hep_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheck2026DDD_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheckHGCal_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/runDD4hep2026_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/runDDD2026_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/runPrintG4Solids_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/runSens2026_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/runSummary2026_cfg.py"
+        ], 
+        "created_at": 1688129088, 
+        "number": 42169, 
+        "state": "open", 
+        "updated_at": 1688129111
     }
 }
