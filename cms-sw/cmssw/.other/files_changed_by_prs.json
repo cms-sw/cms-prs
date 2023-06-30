@@ -2818,5 +2818,26 @@
         "number": 42159, 
         "state": "open", 
         "updated_at": 1688100748
+    }, 
+    "42163": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D98Calo.xml", 
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D98Tracker.xml", 
+            "Geometry/CMSCommonData/python/GeometryDD4hepExtended2026D98CaloReco_cff.py", 
+            "Geometry/CMSCommonData/python/GeometryDD4hepExtended2026D98HGCalReco_cff.py", 
+            "Geometry/CMSCommonData/python/GeometryDD4hepExtended2026D98TrackerReco_cff.py", 
+            "Geometry/CMSCommonData/python/GeometryExtended2026D98CaloReco_cff.py", 
+            "Geometry/CMSCommonData/python/GeometryExtended2026D98TrackerReco_cff.py", 
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D98CaloXML_cfi.py", 
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D98TrackerXML_cfi.py", 
+            "SimG4Core/PrintGeomInfo/test/python/runDD4hep2026D98_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/runDDD2026D98_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/runPrintSolid2026_cfg.py"
+        ], 
+        "created_at": 1688109208, 
+        "number": 42163, 
+        "state": "open", 
+        "updated_at": 1688109229
     }
 }
