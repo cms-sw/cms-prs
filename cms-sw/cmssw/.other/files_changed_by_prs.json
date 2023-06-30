@@ -2513,12 +2513,17 @@
             "Geometry/MTDGeometryBuilder/test/mtd_cfg.py", 
             "Geometry/MTDNumberingBuilder/test/dd4hep_mtd_cfg.py", 
             "Geometry/MTDNumberingBuilder/test/mtd_cfg.py", 
-            "RecoMTD/DetLayers/test/mtd_cfg.py"
+            "RecoMTD/DetLayers/test/mtd_cfg.py", 
+            "SimG4CMS/Forward/test/BuildFile.xml", 
+            "SimG4CMS/Forward/test/PrintMTDSens.cc", 
+            "SimG4CMS/Forward/test/python/runMTDSens_DD4hep_cfg.py", 
+            "SimG4CMS/Forward/test/python/runMTDSens_cfg.py", 
+            "SimG4CMS/Forward/test/runTest.sh"
         ], 
         "created_at": 1687980562, 
         "number": 42127, 
         "state": "open", 
-        "updated_at": 1687980590
+        "updated_at": 1688140293
     }, 
     "42128": {
         "base_branch": "master", 
