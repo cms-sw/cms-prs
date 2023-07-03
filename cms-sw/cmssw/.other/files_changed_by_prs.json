@@ -2611,5 +2611,18 @@
         "number": 42178, 
         "state": "open", 
         "updated_at": 1688394354
+    }, 
+    "42180": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "GeneratorInterface/Pythia8Interface/plugins/Pythia8Hadronizer.cc", 
+            "GeneratorInterface/Pythia8Interface/plugins/TopRecoilHook.h", 
+            "GeneratorInterface/Pythia8Interface/src/Py8InterfaceBase.cc", 
+            "GeneratorInterface/Pythia8Interface/test/TopRecoilHook_test_cfg.py"
+        ], 
+        "created_at": 1688409868, 
+        "number": 42180, 
+        "state": "open", 
+        "updated_at": 1688409894
     }
 }
