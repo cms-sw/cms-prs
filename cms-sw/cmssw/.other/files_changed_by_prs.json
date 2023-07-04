@@ -2612,5 +2612,18 @@
         "number": 42182, 
         "state": "open", 
         "updated_at": 1688451054
+    }, 
+    "42183": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4CMS/Calo/interface/HGCGuardRingPartial.h", 
+            "SimG4CMS/Calo/interface/HGCalSD.h", 
+            "SimG4CMS/Calo/src/HGCGuardRingPartial.cc", 
+            "SimG4CMS/Calo/src/HGCalSD.cc"
+        ], 
+        "created_at": 1688452924, 
+        "number": 42183, 
+        "state": "open", 
+        "updated_at": 1688452946
     }
 }
