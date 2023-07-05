@@ -2531,5 +2531,18 @@
         "number": 42194, 
         "state": "open", 
         "updated_at": 1688561438
+    }, 
+    "42195": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/dd4hep/testHGCalV18.xml", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalSiliconRotatedCassette.cc", 
+            "Geometry/HGCalCommonData/test/python/dumpHGCalDD4hep_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/dumpHGCalDDD_cfg.py"
+        ], 
+        "created_at": 1688566870, 
+        "number": 42195, 
+        "state": "open", 
+        "updated_at": 1688566898
     }
 }
