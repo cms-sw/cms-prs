@@ -2524,5 +2524,26 @@
         "number": 42191, 
         "state": "open", 
         "updated_at": 1688551857
+    }, 
+    "42192": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/hgcalEE/v18/hgcalEE.xml", 
+            "Geometry/HGCalCommonData/data/hgcalHEsil/v18/hgcalHEsil.xml", 
+            "Geometry/HGCalCommonData/data/hgcalPassive/v18/hgcalPassive.xml", 
+            "Geometry/HGCalCommonData/plugins/DDHGCalSiliconRotatedCassette.cc", 
+            "Geometry/HGCalCommonData/python/testHGCV17XML_cfi.py", 
+            "Geometry/HGCalCommonData/python/testHGCV17nXML_cfi.py", 
+            "Geometry/HGCalCommonData/python/testHGCalV16XML_cfi.py", 
+            "Geometry/HGCalCommonData/python/testHGCalV17ShiftXML_cfi.py", 
+            "Geometry/HGCalCommonData/python/testHGCalV17XML_cfi.py", 
+            "Geometry/HGCalCommonData/python/testHGCalV17nXML_cfi.py", 
+            "Geometry/HGCalCommonData/python/testHGCalV17ngXML_cfi.py", 
+            "Geometry/HGCalCommonData/python/testHGCalV18XML_cfi.py"
+        ], 
+        "created_at": 1688554658, 
+        "number": 42192, 
+        "state": "open", 
+        "updated_at": 1688554684
     }
 }
