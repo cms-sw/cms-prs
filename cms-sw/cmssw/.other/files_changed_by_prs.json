@@ -2565,5 +2565,20 @@
         "number": 42199, 
         "state": "open", 
         "updated_at": 1688632862
+    }, 
+    "42200": {
+        "base_branch": "CMSSW_13_1_X", 
+        "changed_files_names": [
+            "CalibTracker/SiStripHitEfficiency/plugins/HitEff.cc", 
+            "CalibTracker/SiStripHitEfficiency/plugins/HitEff.h", 
+            "CalibTracker/SiStripHitEfficiency/plugins/SiStripHitEfficiencyHarvester.cc", 
+            "CalibTracker/SiStripHitEfficiency/plugins/SiStripHitEfficiencyWorker.cc", 
+            "CalibTracker/SiStripHitEfficiency/python/SiStripHitEff_cff.py", 
+            "Calibration/TkAlCaRecoProducers/python/ALCARECOPromptCalibProdSiStripHitEfficiency_cff.py"
+        ], 
+        "created_at": 1688637525, 
+        "number": 42200, 
+        "state": "open", 
+        "updated_at": 1688637549
     }
 }
