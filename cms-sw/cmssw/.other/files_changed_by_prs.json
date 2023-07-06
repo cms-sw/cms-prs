@@ -1987,12 +1987,13 @@
         "base_branch": "master", 
         "changed_files_names": [
             "PhysicsTools/NanoAOD/python/muons_cff.py", 
-            "PhysicsTools/PatAlgos/plugins/PATMuonProducer.cc"
+            "PhysicsTools/PatAlgos/plugins/PATMuonProducer.cc", 
+            "PhysicsTools/PatAlgos/python/producersLayer1/muonProducer_cfi.py"
         ], 
         "created_at": 1686220622, 
         "number": 41903, 
         "state": "open", 
-        "updated_at": 1688378429
+        "updated_at": 1688625675
     }, 
     "41915": {
         "base_branch": "master", 
