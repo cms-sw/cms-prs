@@ -2431,25 +2431,6 @@
         "state": "open", 
         "updated_at": 1688551857
     }, 
-    "42197": {
-        "base_branch": "CMSSW_13_0_X", 
-        "changed_files_names": [
-            "CondTools/RunInfo/interface/OMSAccess.h", 
-            "CondTools/RunInfo/plugins/BuildFile.xml", 
-            "CondTools/RunInfo/plugins/LHCInfoPerFillPopConAnalyzer.cc", 
-            "CondTools/RunInfo/plugins/LHCInfoPerLSPopConAnalyzer.cc", 
-            "CondTools/RunInfo/plugins/LumiSectionFilter.h", 
-            "CondTools/RunInfo/python/LHCInfoPerFillPopConAnalyzer.py", 
-            "CondTools/RunInfo/python/LHCInfoPerLSPopConAnalyzer.py", 
-            "CondTools/RunInfo/src/OMSAccess.cc", 
-            "CondTools/RunInfo/test/BuildFile.xml", 
-            "CondTools/RunInfo/test/test_lhcInfoNewPopCon.sh"
-        ], 
-        "created_at": 1688625815, 
-        "number": 42197, 
-        "state": "open", 
-        "updated_at": 1688625843
-    }, 
     "42198": {
         "base_branch": "master", 
         "changed_files_names": [
