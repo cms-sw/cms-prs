@@ -2668,5 +2668,21 @@
         "number": 42211, 
         "state": "open", 
         "updated_at": 1688692415
+    }, 
+    "42212": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/HcalTasks/BuildFile.xml", 
+            "DQM/HcalTasks/data/models/HB_2022/CGAE_MultiDim_SPATIAL_vONNX_RCLv22_PIXEL_BT_BN_RIN_IPHI_MED_5218_v06_02_2023_21h01_stateful.onnx", 
+            "DQM/HcalTasks/data/models/HE_2022/CGAE_MultiDim_SPATIAL_vONNX_RCLv22_PIXEL_BT_BN_RIN_IPHI_MED_7763_v06_02_2023_22h55_stateful.onnx", 
+            "DQM/HcalTasks/interface/OnlineDQMDigiAD_cmssw.h", 
+            "DQM/HcalTasks/plugins/HcalMLTask.cc", 
+            "DQM/HcalTasks/plugins/OnlineDQMDigiAD_cmssw.cc", 
+            "DQM/Integration/python/clients/hcal_dqm_sourceclient-live_cfg.py"
+        ], 
+        "created_at": 1688704741, 
+        "number": 42212, 
+        "state": "open", 
+        "updated_at": 1688704767
     }
 }
