@@ -1842,8 +1842,8 @@
             "CUDADataFormats/TrackingRecHit/interface/TrackingRecHitSoADevice.h", 
             "CUDADataFormats/TrackingRecHit/interface/TrackingRecHitSoAHost.h", 
             "CUDADataFormats/TrackingRecHit/src/classes_def.xml", 
+            "Configuration/PyReleaseValidation/python/relval_2017.py", 
             "Configuration/PyReleaseValidation/python/relval_gpu.py", 
-            "Configuration/PyReleaseValidation/python/relval_standard.py", 
             "Configuration/PyReleaseValidation/python/relval_steps.py", 
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
             "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareRecHitsSoA.cc", 
@@ -1903,7 +1903,7 @@
         "created_at": 1683812096, 
         "number": 41632, 
         "state": "open", 
-        "updated_at": 1688137779
+        "updated_at": 1689007531
     }, 
     "41808": {
         "base_branch": "master", 
