@@ -2448,5 +2448,17 @@
         "number": 42231, 
         "state": "open", 
         "updated_at": 1689067885
+    }, 
+    "42232": {
+        "base_branch": "CMSSW_13_0_X", 
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/relval_standard.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
+            "Configuration/Skimming/python/autoSkim.py"
+        ], 
+        "created_at": 1689074909, 
+        "number": 42232, 
+        "state": "open", 
+        "updated_at": 1689074933
     }
 }
