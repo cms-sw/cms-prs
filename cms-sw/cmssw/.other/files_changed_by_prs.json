@@ -2501,5 +2501,16 @@
         "number": 42226, 
         "state": "open", 
         "updated_at": 1689005061
+    }, 
+    "42228": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQMServices/Core/interface/ROOTFilePB.pb.h", 
+            "DQMServices/Core/src/ROOTFilePB.pb.cc"
+        ], 
+        "created_at": 1689048984, 
+        "number": 42228, 
+        "state": "open", 
+        "updated_at": 1689049006
     }
 }
