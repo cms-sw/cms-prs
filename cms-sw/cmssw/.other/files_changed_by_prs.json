@@ -2487,5 +2487,16 @@
         "number": 42242, 
         "state": "open", 
         "updated_at": 1689152917
+    }, 
+    "42243": {
+        "base_branch": "CMSSW_13_1_X", 
+        "changed_files_names": [
+            "DQM/EcalMonitorClient/python/PresampleClient_cfi.py", 
+            "DQM/EcalMonitorClient/python/TrigPrimClient_cfi.py"
+        ], 
+        "created_at": 1689152986, 
+        "number": 42243, 
+        "state": "open", 
+        "updated_at": 1689153079
     }
 }
