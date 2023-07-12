@@ -2516,7 +2516,7 @@
     "42249": {
         "base_branch": "master", 
         "changed_files_names": [
-            "FWCore/Catalog/interface/FileLocator.h", 
+            "FWCore/Catalog/interface/ShouldBeFatalException.h", 
             "FWCore/Catalog/src/FileLocator.cc", 
             "FWCore/Catalog/src/InputFileCatalog.cc", 
             "IOPool/Input/src/RootInputFileSequence.cc", 
@@ -2531,6 +2531,6 @@
         "created_at": 1689173822, 
         "number": 42249, 
         "state": "open", 
-        "updated_at": 1689173846
+        "updated_at": 1689191626
     }
 }
