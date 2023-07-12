@@ -2512,5 +2512,25 @@
         "number": 42247, 
         "state": "open", 
         "updated_at": 1689164962
+    }, 
+    "42249": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Catalog/interface/FileLocator.h", 
+            "FWCore/Catalog/src/FileLocator.cc", 
+            "FWCore/Catalog/src/InputFileCatalog.cc", 
+            "IOPool/Input/src/RootInputFileSequence.cc", 
+            "IOPool/Input/test/BuildFile.xml", 
+            "IOPool/Input/test/sitelocalconfig/noFallbackFile/local/storage.json", 
+            "IOPool/Input/test/sitelocalconfig/noFallbackFile/site-local-config.xml", 
+            "IOPool/Input/test/sitelocalconfig/useFallbackFile/local/storage.json", 
+            "IOPool/Input/test/sitelocalconfig/useFallbackFile/site-local-config.xml", 
+            "IOPool/Input/test/testFileOpenErrorExitCode.sh", 
+            "IOPool/Input/test/test_fileOpenErrorExitCode_cfg.py"
+        ], 
+        "created_at": 1689173822, 
+        "number": 42249, 
+        "state": "open", 
+        "updated_at": 1689173846
     }
 }
