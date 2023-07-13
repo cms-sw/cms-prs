@@ -2559,5 +2559,22 @@
         "number": 42251, 
         "state": "open", 
         "updated_at": 1689221934
+    }, 
+    "42252": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/test/python/testHGCGeometry_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/testHGCalNumbering_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/testHGCalPartialWaferTester_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/testHGCalScintID_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/testHGCalValidHex_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/testHGCalValidity_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/testHGCalWaferID_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/testHGCalWafer_cfg.py"
+        ], 
+        "created_at": 1689224042, 
+        "number": 42252, 
+        "state": "open", 
+        "updated_at": 1689224071
     }
 }
