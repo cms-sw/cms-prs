@@ -2542,5 +2542,22 @@
         "number": 42250, 
         "state": "open", 
         "updated_at": 1689193040
+    }, 
+    "42251": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/hgcalHEmix/v18/hgcalHEmix.xml", 
+            "Geometry/HGCalCommonData/plugins/DDHGCalMixRotatedCassette.cc", 
+            "Geometry/HGCalCommonData/python/testHGCalEEV18XML_cfi.py", 
+            "Geometry/HGCalCommonData/python/testHGCalHEmixV18XML_cfi.py", 
+            "Geometry/HGCalCommonData/python/testHGCalHEsilV18XML_cfi.py", 
+            "Geometry/HGCalCommonData/test/python/dumpHGCalEEDDD_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/dumpHGCalHEmixDDD_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/dumpHGCalHEsilDDD_cfg.py"
+        ], 
+        "created_at": 1689221911, 
+        "number": 42251, 
+        "state": "open", 
+        "updated_at": 1689221934
     }
 }
