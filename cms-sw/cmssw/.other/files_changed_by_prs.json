@@ -2585,5 +2585,26 @@
         "number": 42261, 
         "state": "open", 
         "updated_at": 1689278661
+    }, 
+    "42262": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalEEV18-algorithm.xml", 
+            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalHEmixV18-algorithm.xml", 
+            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalHEsilV18-algorithm.xml", 
+            "Geometry/HGCalCommonData/data/dd4hep/testHGCalV18.xml", 
+            "Geometry/HGCalCommonData/plugins/DDHGCalMixRotatedCassette.cc", 
+            "Geometry/HGCalCommonData/plugins/DDHGCalSiliconRotatedCassette.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalMixRotatedCassette.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalSiliconRotatedCassette.cc", 
+            "Geometry/HGCalCommonData/python/testHGCalV18XML_cfi.py", 
+            "Geometry/HGCalCommonData/test/python/dumpHGCalEEDD4hep_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/dumpHGCalHEmixDD4hep_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/dumpHGCalHEsilDD4hep_cfg.py"
+        ], 
+        "created_at": 1689292983, 
+        "number": 42262, 
+        "state": "open", 
+        "updated_at": 1689293009
     }
 }
