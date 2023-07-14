@@ -2606,5 +2606,18 @@
         "number": 42262, 
         "state": "open", 
         "updated_at": 1689293009
+    }, 
+    "42263": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalMixRotatedLayer.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalPassiveFull.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalPassivePartial.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalSiliconRotatedModule.cc"
+        ], 
+        "created_at": 1689299602, 
+        "number": 42263, 
+        "state": "open", 
+        "updated_at": 1689299629
     }
 }
