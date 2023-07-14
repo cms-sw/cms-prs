@@ -2595,5 +2595,20 @@
         "number": 42270, 
         "state": "open", 
         "updated_at": 1689345971
+    }, 
+    "42271": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQMOffline/Trigger/interface/EgHLTDebugFuncs.h", 
+            "Validation/EcalClusters/src/EnergyScaleAnalyzer.cc", 
+            "Validation/GlobalHits/src/GlobalHitsProdHist.cc", 
+            "Validation/GlobalHits/src/GlobalHitsProdHistStripper.cc", 
+            "Validation/GlobalHits/src/GlobalHitsProducer.cc", 
+            "Validation/GlobalRecHits/src/GlobalRecHitsProducer.cc"
+        ], 
+        "created_at": 1689361098, 
+        "number": 42271, 
+        "state": "open", 
+        "updated_at": 1689361122
     }
 }
