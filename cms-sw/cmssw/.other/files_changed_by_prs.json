@@ -1926,6 +1926,7 @@
         "base_branch": "master", 
         "changed_files_names": [
             "Validation/Configuration/python/globalValidation_cff.py", 
+            "Validation/Configuration/python/postValidation_cff.py", 
             "Validation/RecoTau/README.md", 
             "Validation/RecoTau/Tools/CreateSqliteForCondDB_cfg.py", 
             "Validation/RecoTau/Tools/makeLayoutFileForGui.py", 
@@ -1954,7 +1955,7 @@
         "created_at": 1686999346, 
         "number": 41995, 
         "state": "open", 
-        "updated_at": 1689527408
+        "updated_at": 1689607216
     }, 
     "42005": {
         "base_branch": "master", 
