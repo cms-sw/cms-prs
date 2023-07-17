@@ -1871,12 +1871,13 @@
             "DQM/GEM/plugins/GEMDigiSource.cc", 
             "DQM/GEM/plugins/GEMRecHitSource.cc", 
             "DQM/GEM/python/GEMDQM_cff.py", 
-            "DQM/GEM/src/GEMDQMBase.cc"
+            "DQM/GEM/src/GEMDQMBase.cc", 
+            "Validation/MuonGEMHits/interface/GEMValidationUtils.h"
         ], 
         "created_at": 1686363489, 
         "number": 41915, 
         "state": "open", 
-        "updated_at": 1688457397
+        "updated_at": 1689605659
     }, 
     "41928": {
         "base_branch": "master", 
