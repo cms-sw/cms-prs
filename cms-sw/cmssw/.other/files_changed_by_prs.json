@@ -2560,5 +2560,17 @@
         "number": 42295, 
         "state": "open", 
         "updated_at": 1689675192
+    }, 
+    "42296": {
+        "base_branch": "CMSSW_13_2_X", 
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/relval_standard.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
+            "DPGAnalysis/Skims/python/WElectronSkim_cff.py"
+        ], 
+        "created_at": 1689678334, 
+        "number": 42296, 
+        "state": "open", 
+        "updated_at": 1689678380
     }
 }
