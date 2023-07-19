@@ -2462,25 +2462,6 @@
         "state": "open", 
         "updated_at": 1689679720
     }, 
-    "42298": {
-        "base_branch": "CMSSW_13_2_X", 
-        "changed_files_names": [
-            "DQMOffline/Trigger/plugins/BTagAndProbe.cc", 
-            "DQMOffline/Trigger/plugins/ParticleNetJetTagMonitor.cc", 
-            "DQMOffline/Trigger/plugins/TopMonitor.cc", 
-            "DQMOffline/Trigger/python/B2GTnPMonitor_cfi.py", 
-            "DQMOffline/Trigger/python/BTagAndProbeMonitor_cfi.py", 
-            "DQMOffline/Trigger/python/BTagAndProbeMonitoring_cfi.py", 
-            "DQMOffline/Trigger/python/LepHTMonitor_cff.py", 
-            "DQMOffline/Trigger/python/ParticleNetAK4BTagMonitoring_cfi.py", 
-            "DQMOffline/Trigger/python/ParticleNetAK8HbbTagMonitoring_cfi.py", 
-            "DQMOffline/Trigger/python/TopMonitor_cfi.py"
-        ], 
-        "created_at": 1689686926, 
-        "number": 42298, 
-        "state": "open", 
-        "updated_at": 1689686949
-    }, 
     "42300": {
         "base_branch": "master", 
         "changed_files_names": [
