@@ -2508,5 +2508,19 @@
         "number": 42303, 
         "state": "open", 
         "updated_at": 1689768725
+    }, 
+    "42304": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
+            "RecoHI/HiTracking/python/HILowPtConformalPixelTracks_cfi.py", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelPhase2DigiToClusterCUDA.cc", 
+            "RecoTracker/PixelSeeding/plugins/CAHitNtupletGeneratorOnGPU.cc", 
+            "Validation/RecoTrack/python/TrackValidation_cff.py"
+        ], 
+        "created_at": 1689769651, 
+        "number": 42304, 
+        "state": "open", 
+        "updated_at": 1689769672
     }
 }
