@@ -2617,5 +2617,20 @@
         "number": 42311, 
         "state": "open", 
         "updated_at": 1689778736
+    }, 
+    "42312": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4Core/PrintGeomInfo/plugins/PrintG4Solids.cc", 
+            "SimG4Core/PrintGeomInfo/python/g4PrintG4Solids_cfi.py", 
+            "SimG4Core/PrintGeomInfo/test/BuildFile.xml", 
+            "SimG4Core/PrintGeomInfo/test/SolidFileCompare.cpp", 
+            "SimG4Core/PrintGeomInfo/test/python/runPrintG4Solids2_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/runPrintG4Solids_cfg.py"
+        ], 
+        "created_at": 1689808598, 
+        "number": 42312, 
+        "state": "open", 
+        "updated_at": 1689808625
     }
 }
