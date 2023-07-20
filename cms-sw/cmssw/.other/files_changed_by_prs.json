@@ -2157,9 +2157,7 @@
     "42249": {
         "base_branch": "master", 
         "changed_files_names": [
-            "FWCore/Catalog/interface/ShouldBeFatalException.h", 
             "FWCore/Catalog/src/FileLocator.cc", 
-            "FWCore/Catalog/src/InputFileCatalog.cc", 
             "IOPool/Input/src/RootInputFileSequence.cc", 
             "IOPool/Input/test/BuildFile.xml", 
             "IOPool/Input/test/sitelocalconfig/noFallbackFile/local/storage.json", 
@@ -2172,7 +2170,7 @@
         "created_at": 1689173822, 
         "number": 42249, 
         "state": "open", 
-        "updated_at": 1689662544
+        "updated_at": 1689866881
     }, 
     "42255": {
         "base_branch": "master", 
