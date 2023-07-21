@@ -2589,5 +2589,17 @@
         "number": 42325, 
         "state": "open", 
         "updated_at": 1689883226
+    }, 
+    "42326": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4Core/PrintGeomInfo/plugins/BuildFile.xml", 
+            "SimG4Core/PrintGeomInfo/plugins/PrintG4Touch.cc", 
+            "SimG4Core/PrintGeomInfo/test/python/runPrintG4Touch_cfg.py"
+        ], 
+        "created_at": 1689909803, 
+        "number": 42326, 
+        "state": "open", 
+        "updated_at": 1689909825
     }
 }
