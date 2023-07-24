@@ -2675,5 +2675,17 @@
         "number": 42341, 
         "state": "open", 
         "updated_at": 1690198723
+    }, 
+    "42343": {
+        "base_branch": "CMSSW_13_0_X", 
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/relval_2017.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py"
+        ], 
+        "created_at": 1690215397, 
+        "number": 42343, 
+        "state": "open", 
+        "updated_at": 1690215420
     }
 }
