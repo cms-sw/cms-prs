@@ -2757,5 +2757,18 @@
         "number": 42338, 
         "state": "open", 
         "updated_at": 1690112280
+    }, 
+    "42341": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/CommonTopologies/interface/ProxyPixelTopology.h", 
+            "Geometry/MTDGeometryBuilder/interface/MTDGeomDetType.h", 
+            "Geometry/MTDGeometryBuilder/interface/ProxyMTDTopology.h", 
+            "Geometry/TrackerGeometryBuilder/interface/ProxyStripTopology.h"
+        ], 
+        "created_at": 1690198665, 
+        "number": 42341, 
+        "state": "open", 
+        "updated_at": 1690198723
     }
 }
