@@ -2779,5 +2779,17 @@
         "number": 42345, 
         "state": "open", 
         "updated_at": 1690221855
+    }, 
+    "42346": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/Eras/python/Era_Run3_2023_FastSim_cff.py", 
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
+            "Configuration/StandardSequences/python/Eras.py"
+        ], 
+        "created_at": 1690226242, 
+        "number": 42346, 
+        "state": "open", 
+        "updated_at": 1690226265
     }
 }
