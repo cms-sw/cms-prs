@@ -2837,5 +2837,38 @@
         "number": 42352, 
         "state": "open", 
         "updated_at": 1690270807
+    }, 
+    "42354": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/MTDCommonData/data/CrystalBarPhiFlat/mtdParameters.xml", 
+            "Geometry/MTDCommonData/data/CrystalBarPhiFlat/mtdStructureTopology.xml", 
+            "Geometry/MTDCommonData/data/CrystalBarPhiFlat/v3/mtd.xml", 
+            "Geometry/MTDCommonData/data/dd4hep/cms-mtdD76-geometry.xml", 
+            "Geometry/MTDCommonData/data/dd4hep/tracker.xml", 
+            "Geometry/MTDCommonData/data/etl/v2/etl.xml", 
+            "Geometry/MTDCommonData/data/etl/v3/etl.xml", 
+            "Geometry/MTDCommonData/data/etl/v4/etl.xml", 
+            "Geometry/MTDCommonData/data/etl/v5/etl.xml", 
+            "Geometry/MTDCommonData/data/mtdMaterial/v1/mtdMaterial.xml", 
+            "Geometry/MTDCommonData/data/mtdMaterial/v2/mtdMaterial.xml", 
+            "Geometry/MTDCommonData/data/mtdParameters/v1/mtdParameters.xml", 
+            "Geometry/MTDCommonData/data/mtdParameters/v1/mtdStructureTopology.xml", 
+            "Geometry/MTDCommonData/src/ETLNumberingScheme.cc", 
+            "Geometry/MTDNumberingBuilder/src/CmsMTDStringToEnum.cc", 
+            "RecoMTD/DetLayers/interface/ETLDetLayerGeometryBuilder.h", 
+            "RecoMTD/DetLayers/interface/MTDDetRing.h", 
+            "RecoMTD/DetLayers/interface/MTDRingForwardDoubleLayer.h", 
+            "RecoMTD/DetLayers/interface/MTDRingForwardLayer.h", 
+            "RecoMTD/DetLayers/src/ETLDetLayerGeometryBuilder.cc", 
+            "RecoMTD/DetLayers/src/MTDDetRing.cc", 
+            "RecoMTD/DetLayers/src/MTDRingForwardDoubleLayer.cc", 
+            "RecoMTD/DetLayers/src/MTDRingForwardLayer.cc", 
+            "RecoMTD/DetLayers/test/MTDRecoGeometryAnalyzer.cc"
+        ], 
+        "created_at": 1690282519, 
+        "number": 42354, 
+        "state": "open", 
+        "updated_at": 1690282546
     }
 }
