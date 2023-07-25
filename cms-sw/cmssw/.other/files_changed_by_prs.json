@@ -2774,5 +2774,23 @@
         "number": 42349, 
         "state": "open", 
         "updated_at": 1690267019
+    }, 
+    "42350": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/partialD98.txt", 
+            "Geometry/HGCalCommonData/data/partialD99.txt", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalWaferP.cc", 
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalWaferPartialRotated.cc", 
+            "Geometry/HGCalCommonData/python/hgcalPartialIDTester_cff.py", 
+            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc", 
+            "Geometry/HGCalCommonData/test/HGCalPartialIDTester.cc", 
+            "Geometry/HGCalCommonData/test/python/testHGCalPartialIDTester_cfg.py", 
+            "SimG4CMS/Calo/src/HGCalNumberingScheme.cc"
+        ], 
+        "created_at": 1690268749, 
+        "number": 42350, 
+        "state": "open", 
+        "updated_at": 1690268772
     }
 }
