@@ -2878,5 +2878,17 @@
         "number": 42361, 
         "state": "open", 
         "updated_at": 1690290439
+    }, 
+    "42362": {
+        "base_branch": "CMSSW_13_1_X", 
+        "changed_files_names": [
+            "CondTools/RunInfo/plugins/LHCInfoPerFillPopConAnalyzer.cc", 
+            "CondTools/RunInfo/plugins/LHCInfoPerLSPopConAnalyzer.cc", 
+            "CondTools/RunInfo/src/LHCInfoPopConSourceHandler.cc"
+        ], 
+        "created_at": 1690290539, 
+        "number": 42362, 
+        "state": "open", 
+        "updated_at": 1690290563
     }
 }
