@@ -2751,5 +2751,18 @@
         "number": 42347, 
         "state": "open", 
         "updated_at": 1690261847
+    }, 
+    "42348": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQMOffline/Trigger/interface/HLTMuonMatchAndPlot.h", 
+            "DQMOffline/Trigger/python/HLTMuonOfflineAnalyzer_cff.py", 
+            "DQMOffline/Trigger/python/HLTMuonOfflineAnalyzer_cfi.py", 
+            "DQMOffline/Trigger/src/HLTMuonMatchAndPlot.cc"
+        ], 
+        "created_at": 1690262028, 
+        "number": 42348, 
+        "state": "open", 
+        "updated_at": 1690262053
     }
 }
