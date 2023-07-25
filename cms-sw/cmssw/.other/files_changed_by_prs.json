@@ -2490,40 +2490,6 @@
         "state": "open", 
         "updated_at": 1690284767
     }, 
-    "42336": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/MillePedeAlignmentAlgorithm/test/BuildFile.xml", 
-            "CalibTracker/SiStripHitResolution/BuildFile.xml", 
-            "CalibTracker/SiStripHitResolution/plugins/BuildFile.xml", 
-            "Calibration/HcalCalibAlgos/test/BuildFile.xml", 
-            "CondCore/JetMETPlugins/plugins/BuildFile.xml", 
-            "CondCore/JetMETPlugins/test/BuildFile.xml", 
-            "CondCore/SiStripPlugins/test/BuildFile.xml", 
-            "CondTools/SiPixel/BuildFile.xml", 
-            "CondTools/SiPixel/plugins/BuildFile.xml", 
-            "Configuration/DataProcessing/test/BuildFile.xml", 
-            "DPGAnalysis/HcalNanoAOD/BuildFile.xml", 
-            "DPGAnalysis/HcalNanoAOD/plugins/BuildFile.xml", 
-            "DPGAnalysis/MuonTools/BuildFile.xml", 
-            "DPGAnalysis/MuonTools/plugins/BuildFile.xml", 
-            "DPGAnalysis/MuonTools/plugins/MuCSCTnPFlatTableProducer.cc", 
-            "DQM/CTPPS/BuildFile.xml", 
-            "DQMServices/Components/test/BuildFile.xml", 
-            "DQMServices/Demo/test/BuildFile.xml", 
-            "DQMServices/FwkIO/test/BuildFile.xml", 
-            "EventFilter/HGCalRawToDigi/BuildFile.xml", 
-            "EventFilter/HGCalRawToDigi/plugins/BuildFile.xml", 
-            "EventFilter/SiStripChannelChargeFilter/BuildFile.xml", 
-            "RecoTauTag/RecoTau/BuildFile.xml", 
-            "RecoTauTag/RecoTau/plugins/BuildFile.xml", 
-            "SimCalorimetry/EcalSelectiveReadoutProducers/plugins/BuildFile.xml"
-        ], 
-        "created_at": 1690108142, 
-        "number": 42336, 
-        "state": "open", 
-        "updated_at": 1690289664
-    }, 
     "42337": {
         "base_branch": "CMSSW_13_1_X", 
         "changed_files_names": [
