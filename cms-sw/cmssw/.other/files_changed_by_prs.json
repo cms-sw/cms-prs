@@ -2898,5 +2898,22 @@
         "number": 42382, 
         "state": "open", 
         "updated_at": 1690394820
+    }, 
+    "42383": {
+        "base_branch": "CMSSW_12_6_X", 
+        "changed_files_names": [
+            "IOPool/Input/src/RootInputFileSequence.cc", 
+            "IOPool/Input/test/BuildFile.xml", 
+            "IOPool/Input/test/sitelocalconfig/noFallbackFile/local/storage.json", 
+            "IOPool/Input/test/sitelocalconfig/noFallbackFile/site-local-config.xml", 
+            "IOPool/Input/test/sitelocalconfig/useFallbackFile/local/storage.json", 
+            "IOPool/Input/test/sitelocalconfig/useFallbackFile/site-local-config.xml", 
+            "IOPool/Input/test/testFileOpenErrorExitCode.sh", 
+            "IOPool/Input/test/test_fileOpenErrorExitCode_cfg.py"
+        ], 
+        "created_at": 1690397264, 
+        "number": 42383, 
+        "state": "open", 
+        "updated_at": 1690397288
     }
 }
