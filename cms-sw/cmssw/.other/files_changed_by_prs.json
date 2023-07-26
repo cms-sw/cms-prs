@@ -2600,12 +2600,13 @@
             "DQMOffline/Trigger/interface/HLTMuonMatchAndPlot.h", 
             "DQMOffline/Trigger/python/HLTMuonOfflineAnalyzer_cff.py", 
             "DQMOffline/Trigger/python/HLTMuonOfflineAnalyzer_cfi.py", 
+            "DQMOffline/Trigger/python/HLTMuonOfflineAnalyzer_cosmics_cff.py", 
             "DQMOffline/Trigger/src/HLTMuonMatchAndPlot.cc"
         ], 
         "created_at": 1690262028, 
         "number": 42348, 
         "state": "open", 
-        "updated_at": 1690284379
+        "updated_at": 1690380204
     }, 
     "42351": {
         "base_branch": "master", 
