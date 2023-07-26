@@ -2747,6 +2747,9 @@
             "Geometry/MTDCommonData/data/mtdParameters/v1/mtdParameters.xml", 
             "Geometry/MTDCommonData/data/mtdParameters/v1/mtdStructureTopology.xml", 
             "Geometry/MTDCommonData/src/ETLNumberingScheme.cc", 
+            "Geometry/MTDNumberingBuilder/plugins/CmsMTDConstruction.cc", 
+            "Geometry/MTDNumberingBuilder/plugins/CmsMTDConstruction.h", 
+            "Geometry/MTDNumberingBuilder/plugins/DDCmsMTDConstruction.cc", 
             "Geometry/MTDNumberingBuilder/src/CmsMTDStringToEnum.cc", 
             "RecoMTD/DetLayers/interface/ETLDetLayerGeometryBuilder.h", 
             "RecoMTD/DetLayers/interface/MTDDetRing.h", 
@@ -2762,7 +2765,7 @@
         "created_at": 1690282519, 
         "number": 42354, 
         "state": "open", 
-        "updated_at": 1690286349
+        "updated_at": 1690358387
     }, 
     "42357": {
         "base_branch": "master", 
