@@ -2161,22 +2161,6 @@
         "state": "open", 
         "updated_at": 1689811276
     }, 
-    "42305": {
-        "base_branch": "CMSSW_13_2_X", 
-        "changed_files_names": [
-            "EventFilter/CTPPSRawToDigi/interface/CTPPSPixelDataFormatter.h", 
-            "EventFilter/CTPPSRawToDigi/interface/CTPPSPixelErrorSummary.h", 
-            "EventFilter/CTPPSRawToDigi/interface/CTPPSPixelRawToDigi.h", 
-            "EventFilter/CTPPSRawToDigi/plugins/CTPPSPixelDigiToRaw.cc", 
-            "EventFilter/CTPPSRawToDigi/plugins/CTPPSPixelRawToDigi.cc", 
-            "EventFilter/CTPPSRawToDigi/src/CTPPSPixelDataFormatter.cc", 
-            "EventFilter/CTPPSRawToDigi/src/CTPPSPixelErrorSummary.cc"
-        ], 
-        "created_at": 1689770267, 
-        "number": 42305, 
-        "state": "open", 
-        "updated_at": 1690374776
-    }, 
     "42306": {
         "base_branch": "CMSSW_13_1_X", 
         "changed_files_names": [
