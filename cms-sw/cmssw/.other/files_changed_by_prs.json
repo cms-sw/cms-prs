@@ -2728,5 +2728,20 @@
         "number": 42391, 
         "state": "open", 
         "updated_at": 1690455569
+    }, 
+    "42392": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondFormats/PPSObjects/interface/TotemDAQMapping.h", 
+            "MagneticField/Interpolation/src/binary_ofstream.cc", 
+            "RecoLocalCalo/HcalRecAlgos/bin/generateQIEShapes.cc", 
+            "SimG4Core/PrintGeomInfo/test/SimFileCompare.cpp", 
+            "SimG4Core/PrintGeomInfo/test/SolidFileCompare.cpp", 
+            "SimPPS/RPDigiProducer/interface/RPSimTypes.h"
+        ], 
+        "created_at": 1690462096, 
+        "number": 42392, 
+        "state": "open", 
+        "updated_at": 1690462122
     }
 }
