@@ -2647,5 +2647,18 @@
         "number": 42418, 
         "state": "open", 
         "updated_at": 1690618583
+    }, 
+    "42419": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4CMS/Calo/src/HGCalSD.cc", 
+            "SimG4CMS/Calo/test/python/Sim2026_cfg.py", 
+            "SimG4Core/Geometry/src/SensitiveDetectorCatalog.cc", 
+            "SimG4Core/SensitiveDetector/src/SensitiveDetector.cc"
+        ], 
+        "created_at": 1690675156, 
+        "number": 42419, 
+        "state": "open", 
+        "updated_at": 1690675179
     }
 }
