@@ -1967,5 +1967,23 @@
         "number": 42419, 
         "state": "open", 
         "updated_at": 1690676178
+    }, 
+    "42420": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4Core/PrintGeomInfo/data/D98DD4hepSD.txt", 
+            "SimG4Core/PrintGeomInfo/data/D98DDDSD.txt", 
+            "SimG4Core/PrintGeomInfo/data/D99DD4hepSD.txt", 
+            "SimG4Core/PrintGeomInfo/data/D99DDDSD.txt", 
+            "SimG4Core/PrintGeomInfo/plugins/PrintG4Touch.cc", 
+            "SimG4Core/PrintGeomInfo/test/BuildFile.xml", 
+            "SimG4Core/PrintGeomInfo/test/SolidFileCompare.cpp", 
+            "SimG4Core/PrintGeomInfo/test/TouchFileCompare.cpp", 
+            "SimG4Core/PrintGeomInfo/test/python/runPrintG4Touch_cfg.py"
+        ], 
+        "created_at": 1690701987, 
+        "number": 42420, 
+        "state": "open", 
+        "updated_at": 1690702012
     }
 }
