@@ -1972,5 +1972,15 @@
         "number": 42420, 
         "state": "open", 
         "updated_at": 1690702012
+    }, 
+    "42422": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "GeneratorInterface/Pythia8Interface/plugins/EmissionVetoHook1.cc"
+        ], 
+        "created_at": 1690789104, 
+        "number": 42422, 
+        "state": "open", 
+        "updated_at": 1690789129
     }
 }
