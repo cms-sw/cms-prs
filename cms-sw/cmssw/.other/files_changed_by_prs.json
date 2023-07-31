@@ -1812,20 +1812,6 @@
         "state": "open", 
         "updated_at": 1690560529
     }, 
-    "42410": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
-            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterCUDA.cc", 
-            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.cu", 
-            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.h", 
-            "RecoLocalTracker/SiPixelClusterizer/python/siPixelClustersPreSplitting_cff.py"
-        ], 
-        "created_at": 1690574625, 
-        "number": 42410, 
-        "state": "open", 
-        "updated_at": 1690602969
-    }, 
     "42411": {
         "base_branch": "CMSSW_13_2_X", 
         "changed_files_names": [
