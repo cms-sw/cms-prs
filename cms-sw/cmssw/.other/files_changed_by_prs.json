@@ -1906,5 +1906,32 @@
         "number": 42429, 
         "state": "open", 
         "updated_at": 1690807267
+    }, 
+    "42430": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibPPS/ESProducers/plugins/PrintTotemDAQMapping.cc", 
+            "CalibPPS/ESProducers/plugins/WriteTotemDAQMapping.cc", 
+            "CalibPPS/ESProducers/test/scipt_test_many_writeTotemDAQMapping.py", 
+            "CalibPPS/ESProducers/test/test_printTotemDAQMapping.py", 
+            "CalibPPS/ESProducers/test/test_writeTotemDAQMapping.py", 
+            "CondCore/CTPPSPlugins/src/plugin.cc", 
+            "CondFormats/DataRecord/interface/TotemAnalysisMaskRcd.h", 
+            "CondFormats/DataRecord/src/TotemAnalysisMaskRcd.cc", 
+            "CondFormats/PPSObjects/interface/TotemAnalysisMask.h", 
+            "CondFormats/PPSObjects/interface/TotemDAQMapping.h", 
+            "CondFormats/PPSObjects/interface/TotemFramePosition.h", 
+            "CondFormats/PPSObjects/interface/TotemSymbId.h", 
+            "CondFormats/PPSObjects/src/classes.h", 
+            "CondFormats/PPSObjects/src/classes_def.xml", 
+            "CondFormats/PPSObjects/src/headers.h", 
+            "CondTools/CTPPS/plugins/WriteCTPPSTotemDAQMappingMask.cc", 
+            "CondTools/CTPPS/test/script-ctpps-write-many-XML-to-SQLite.py", 
+            "CondTools/CTPPS/test/write-ctpps-totem_daqmap_cfg.py"
+        ], 
+        "created_at": 1690815597, 
+        "number": 42430, 
+        "state": "open", 
+        "updated_at": 1690815626
     }
 }
