@@ -1439,22 +1439,6 @@
         "state": "open", 
         "updated_at": 1690471834
     }, 
-    "42307": {
-        "base_branch": "CMSSW_13_0_X", 
-        "changed_files_names": [
-            "EventFilter/CTPPSRawToDigi/interface/CTPPSPixelDataFormatter.h", 
-            "EventFilter/CTPPSRawToDigi/interface/CTPPSPixelErrorSummary.h", 
-            "EventFilter/CTPPSRawToDigi/interface/CTPPSPixelRawToDigi.h", 
-            "EventFilter/CTPPSRawToDigi/plugins/CTPPSPixelDigiToRaw.cc", 
-            "EventFilter/CTPPSRawToDigi/plugins/CTPPSPixelRawToDigi.cc", 
-            "EventFilter/CTPPSRawToDigi/src/CTPPSPixelDataFormatter.cc", 
-            "EventFilter/CTPPSRawToDigi/src/CTPPSPixelErrorSummary.cc"
-        ], 
-        "created_at": 1689770456, 
-        "number": 42307, 
-        "state": "open", 
-        "updated_at": 1690638062
-    }, 
     "42323": {
         "base_branch": "master", 
         "changed_files_names": [
