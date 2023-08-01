@@ -1760,10 +1760,6 @@
     "42420": {
         "base_branch": "master", 
         "changed_files_names": [
-            "SimG4Core/PrintGeomInfo/data/D98DD4hepSD.txt", 
-            "SimG4Core/PrintGeomInfo/data/D98DDDSD.txt", 
-            "SimG4Core/PrintGeomInfo/data/D99DD4hepSD.txt", 
-            "SimG4Core/PrintGeomInfo/data/D99DDDSD.txt", 
             "SimG4Core/PrintGeomInfo/plugins/PrintG4Touch.cc", 
             "SimG4Core/PrintGeomInfo/test/BuildFile.xml", 
             "SimG4Core/PrintGeomInfo/test/SolidFileCompare.cpp", 
@@ -1773,7 +1769,7 @@
         "created_at": 1690701987, 
         "number": 42420, 
         "state": "open", 
-        "updated_at": 1690702012
+        "updated_at": 1690851190
     }, 
     "42422": {
         "base_branch": "CMSSW_10_6_X", 
