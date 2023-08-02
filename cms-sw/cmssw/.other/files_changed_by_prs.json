@@ -1841,5 +1841,19 @@
         "number": 42441, 
         "state": "open", 
         "updated_at": 1690910349
+    }, 
+    "42442": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4CMS/Calo/interface/HGCSD.h", 
+            "SimG4CMS/Calo/interface/HGCalSD.h", 
+            "SimG4CMS/Calo/src/HGCSD.cc", 
+            "SimG4CMS/Calo/src/HGCalSD.cc", 
+            "SimG4CMS/Calo/test/python/Sim2026_cfg.py"
+        ], 
+        "created_at": 1690937957, 
+        "number": 42442, 
+        "state": "open", 
+        "updated_at": 1690937978
     }
 }
