@@ -1847,5 +1847,29 @@
         "number": 42446, 
         "state": "open", 
         "updated_at": 1690963528
+    }, 
+    "42447": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoTauTag/RecoTau/interface/RecoTauVertexAssociator.h", 
+            "RecoTauTag/RecoTau/plugins/DeepTauId.cc", 
+            "RecoTauTag/RecoTau/plugins/PFRecoTauChargedHadronFromGenericTrackPlugin.cc", 
+            "RecoTauTag/RecoTau/plugins/PFRecoTauChargedHadronFromPFCandidatePlugin.cc", 
+            "RecoTauTag/RecoTau/plugins/PFRecoTauDiscriminationByIsolation.cc", 
+            "RecoTauTag/RecoTau/plugins/PFRecoTauDiscriminationByIsolationContainer.cc", 
+            "RecoTauTag/RecoTau/plugins/RecoTauBuilderCombinatoricPlugin.cc", 
+            "RecoTauTag/RecoTau/plugins/RecoTauBuilderConePlugin.cc", 
+            "RecoTauTag/RecoTau/plugins/RecoTauPiZeroCombinatoricPlugin.cc", 
+            "RecoTauTag/RecoTau/plugins/RecoTauPiZeroStripPlugin.cc", 
+            "RecoTauTag/RecoTau/plugins/RecoTauPiZeroStripPlugin2.cc", 
+            "RecoTauTag/RecoTau/plugins/RecoTauPiZeroStripPlugin3.cc", 
+            "RecoTauTag/RecoTau/plugins/RecoTauPiZeroTrivialPlugin.cc", 
+            "RecoTauTag/RecoTau/plugins/TauDiscriminantCutMultiplexer.cc", 
+            "RecoTauTag/RecoTau/src/RecoTauVertexAssociator.cc"
+        ], 
+        "created_at": 1690978053, 
+        "number": 42447, 
+        "state": "open", 
+        "updated_at": 1690978080
     }
 }
