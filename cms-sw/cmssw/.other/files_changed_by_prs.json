@@ -1840,12 +1840,13 @@
             "Geometry/TrackerGeometryBuilder/src/TrackerGeomBuilderFromGeometricDet.cc", 
             "Geometry/TrackerGeometryBuilder/test/python/testTrackerMap_cfg.py", 
             "Geometry/TrackerGeometryBuilder/test/python/testTrackerModuleInfoDD4hep_cfg.py", 
-            "Geometry/TrackerGeometryBuilder/test/python/testTrackerModuleInfoDDD_cfg.py"
+            "Geometry/TrackerGeometryBuilder/test/python/testTrackerModuleInfoDDD_cfg.py", 
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py"
         ], 
         "created_at": 1691003101, 
         "number": 42454, 
         "state": "open", 
-        "updated_at": 1691003141
+        "updated_at": 1691055307
     }, 
     "42455": {
         "base_branch": "master", 
