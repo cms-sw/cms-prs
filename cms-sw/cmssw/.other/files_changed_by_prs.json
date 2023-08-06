@@ -3095,5 +3095,19 @@
         "number": 42479, 
         "state": "open", 
         "updated_at": 1691304907
+    }, 
+    "42480": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/EventContent/python/EventContent_cff.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
+            "Configuration/StandardSequences/python/DigiToRaw_Repack_cff.py", 
+            "RecoLocalTracker/SiStripZeroSuppression/python/SiStripZeroSuppression_cfi.py", 
+            "RecoTracker/MeasurementDet/python/MeasurementTrackerEventProducer_cfi.py"
+        ], 
+        "created_at": 1691305687, 
+        "number": 42480, 
+        "state": "open", 
+        "updated_at": 1691305713
     }
 }
