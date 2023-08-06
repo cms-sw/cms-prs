@@ -3084,5 +3084,16 @@
         "number": 42478, 
         "state": "open", 
         "updated_at": 1691301226
+    }, 
+    "42479": {
+        "base_branch": "CMSSW_13_2_X", 
+        "changed_files_names": [
+            "DQMOffline/RecoB/plugins/PrimaryVertexMonitor.cc", 
+            "DQMOffline/RecoB/plugins/PrimaryVertexMonitor.h"
+        ], 
+        "created_at": 1691304882, 
+        "number": 42479, 
+        "state": "open", 
+        "updated_at": 1691304907
     }
 }
