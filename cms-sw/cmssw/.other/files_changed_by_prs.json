@@ -3333,7 +3333,6 @@
             "CalibTracker/SiPixelLorentzAngle/src/SiPixelLorentzAnglePCLWorker.cc", 
             "Calibration/TkAlCaRecoProducers/python/ALCARECOPromptCalibProdSiPixelLorentzAngleMCS_cff.py", 
             "Calibration/TkAlCaRecoProducers/python/ALCARECOPromptCalibProdSiPixelLorentzAngle_cff.py", 
-            "CondFormats/SiPixelTransient/BuildFile.xml", 
             "CondFormats/SiPixelTransient/src/T_EventSetup_SiPixelTemplateStore.cc", 
             "DQM/SiPixelPhase1Config/python/SiPixelPhase1OfflineDQM_source_cff.py", 
             "DQM/SiPixelPhase1Config/python/SiPixelPhase1OnlineDQM_Timing_cff.py", 
@@ -3359,7 +3358,7 @@
         "created_at": 1691524217, 
         "number": 42514, 
         "state": "open", 
-        "updated_at": 1691526155
+        "updated_at": 1691527307
     }, 
     "42515": {
         "base_branch": "master", 
