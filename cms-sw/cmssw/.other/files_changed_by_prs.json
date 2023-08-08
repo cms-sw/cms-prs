@@ -3161,5 +3161,20 @@
         "number": 42506, 
         "state": "open", 
         "updated_at": 1691479965
+    }, 
+    "42507": {
+        "base_branch": "CMSSW_13_2_X", 
+        "changed_files_names": [
+            "Configuration/EventContent/python/EventContent_cff.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
+            "Configuration/StandardSequences/python/DigiToRaw_Repack_cff.py", 
+            "Configuration/StandardSequences/python/RawToDigi_Repacked_cff.py", 
+            "RecoLocalTracker/SiStripZeroSuppression/python/SiStripZeroSuppression_cfi.py", 
+            "RecoTracker/MeasurementDet/python/MeasurementTrackerEventProducer_cfi.py"
+        ], 
+        "created_at": 1691491412, 
+        "number": 42507, 
+        "state": "open", 
+        "updated_at": 1691491480
     }
 }
