@@ -3326,5 +3326,35 @@
         "number": 42513, 
         "state": "open", 
         "updated_at": 1691523084
+    }, 
+    "42514": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibTracker/SiPixelLorentzAngle/src/SiPixelLorentzAnglePCLWorker.cc", 
+            "CondFormats/SiPixelTransient/BuildFile.xml", 
+            "CondFormats/SiPixelTransient/src/T_EventSetup_SiPixelTemplateStore.cc", 
+            "DQM/SiPixelPhase1Config/python/SiPixelPhase1OfflineDQM_source_cff.py", 
+            "DQM/SiPixelPhase1Config/python/SiPixelPhase1OnlineDQM_Timing_cff.py", 
+            "DQM/SiPixelPhase1Config/python/SiPixelPhase1OnlineDQM_cff.py", 
+            "DQM/SiPixelPhase1Track/plugins/SiPixelPhase1TrackClusters.cc", 
+            "DQMOffline/Trigger/python/SiPixel_OfflineMonitoring_cff.py", 
+            "FastSimulation/TrackingRecHitProducer/interface/PixelTemplateSmearerBase.h", 
+            "FastSimulation/TrackingRecHitProducer/interface/TrackingRecHitAlgorithm.h", 
+            "FastSimulation/TrackingRecHitProducer/plugins/TrackingRecHitProducer.cc", 
+            "FastSimulation/TrackingRecHitProducer/src/PixelTemplateSmearerBase.cc", 
+            "FastSimulation/TrackingRecHitProducer/src/TrackingRecHitAlgorithm.cc", 
+            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEClusterRepair.h", 
+            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPETemplateReco.h", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/BuildFile.xml", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/PixelCPEClusterRepairESProducer.cc", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/PixelCPETemplateRecoESProducer.cc", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelTemplateStoreESProducer.cc", 
+            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEClusterRepair.cc", 
+            "RecoLocalTracker/SiPixelRecHits/src/PixelCPETemplateReco.cc"
+        ], 
+        "created_at": 1691524217, 
+        "number": 42514, 
+        "state": "open", 
+        "updated_at": 1691524247
     }
 }
