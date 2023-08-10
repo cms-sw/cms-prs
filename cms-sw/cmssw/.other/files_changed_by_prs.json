@@ -2144,6 +2144,7 @@
             "FastSimulation/TrackingRecHitProducer/plugins/TrackingRecHitProducer.cc", 
             "FastSimulation/TrackingRecHitProducer/src/PixelTemplateSmearerBase.cc", 
             "FastSimulation/TrackingRecHitProducer/src/TrackingRecHitAlgorithm.cc", 
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
             "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEClusterRepair.h", 
             "RecoLocalTracker/SiPixelRecHits/interface/PixelCPETemplateReco.h", 
             "RecoLocalTracker/SiPixelRecHits/plugins/BuildFile.xml", 
@@ -2151,12 +2152,13 @@
             "RecoLocalTracker/SiPixelRecHits/plugins/PixelCPETemplateRecoESProducer.cc", 
             "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelTemplateStoreESProducer.cc", 
             "RecoLocalTracker/SiPixelRecHits/src/PixelCPEClusterRepair.cc", 
-            "RecoLocalTracker/SiPixelRecHits/src/PixelCPETemplateReco.cc"
+            "RecoLocalTracker/SiPixelRecHits/src/PixelCPETemplateReco.cc", 
+            "RecoTracker/FinalTrackSelectors/python/MergeTrackCollections_cff.py"
         ], 
         "created_at": 1691524217, 
         "number": 42514, 
         "state": "open", 
-        "updated_at": 1691527307
+        "updated_at": 1691667657
     }, 
     "42515": {
         "base_branch": "master", 
