@@ -2439,5 +2439,18 @@
         "number": 42548, 
         "state": "open", 
         "updated_at": 1691754989
+    }, 
+    "42549": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HcalCommonData/python/cmsExtendedGeometry2021XML_cfi.py", 
+            "Geometry/HcalCommonData/src/HcalGeomParameters.cc", 
+            "SimG4CMS/Calo/test/python/Gen_MinBias.py", 
+            "SimG4CMS/Calo/test/python/Gen_SingleMuon.py"
+        ], 
+        "created_at": 1691758762, 
+        "number": 42549, 
+        "state": "open", 
+        "updated_at": 1691758783
     }
 }
