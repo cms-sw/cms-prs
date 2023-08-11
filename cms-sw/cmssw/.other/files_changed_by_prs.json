@@ -2146,12 +2146,14 @@
         "base_branch": "master", 
         "changed_files_names": [
             "FWCore/Catalog/interface/FileLocator.h", 
-            "FWCore/Catalog/src/FileLocator.cc"
+            "FWCore/Catalog/src/FileLocator.cc", 
+            "FWCore/Catalog/test/FileLocator_t.cpp", 
+            "FWCore/Catalog/test/storage.json"
         ], 
         "created_at": 1691609245, 
         "number": 42530, 
         "state": "open", 
-        "updated_at": 1691609273
+        "updated_at": 1691786192
     }, 
     "42532": {
         "base_branch": "master", 
