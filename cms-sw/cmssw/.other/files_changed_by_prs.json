@@ -2388,5 +2388,19 @@
         "number": 42566, 
         "state": "open", 
         "updated_at": 1692022343
+    }, 
+    "42567": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/SiPixelPhase1Common/interface/HistogramManager.h", 
+            "DQM/SiPixelPhase1Common/src/HistogramManager.cc", 
+            "DQM/TrackerRemapper/plugins/TrackerRemapper.cc", 
+            "HLTriggerOffline/Egamma/interface/EmDQM.h", 
+            "HLTriggerOffline/Egamma/src/EmDQM.cc"
+        ], 
+        "created_at": 1692037074, 
+        "number": 42567, 
+        "state": "open", 
+        "updated_at": 1692037095
     }
 }
