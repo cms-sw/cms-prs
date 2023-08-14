@@ -2293,42 +2293,6 @@
         "state": "open", 
         "updated_at": 1691817641
     }, 
-    "42554": {
-        "base_branch": "CMSSW_13_2_X", 
-        "changed_files_names": [
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEcalPreshowerDigis_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEcalPreshowerRecHit_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPFPuppiMETv0_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPFSoftKillerMET_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleFlowClusterECALL1Seeded_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleFlowClusterECALUnseeded_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleFlowClusterPSL1Seeded_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleFlowClusterPSUnseeded_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleFlowRecHitPSL1Seeded_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleFlowRecHitPSUnseeded_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleFlowSoftKiller_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/particleFlowBlock_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/particleFlowClusterECAL_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/particleFlowClusterPS_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/particleFlowRecHitPS_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/paths/HLT_IsoMu24_FromL1TkMuon_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTJMESequence_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPFPuppiJMEReconstruction_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPFSoftKillerMETReconstruction_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/tasks/HLTDoFullUnpackingEgammaEcalL1SeededTask_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/tasks/HLTDoFullUnpackingEgammaEcalTask_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/tasks/HLTPFClusteringForEgammaL1SeededTask_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/tasks/HLTPFClusteringForEgammaUnseededTask_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/tasks/RawToDigiTask_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/tasks/ecalRecHitNoTPTask_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/tasks/particleFlowClusterTask_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/tasks/pfClusteringPSTask_cfi.py"
-        ], 
-        "created_at": 1691815882, 
-        "number": 42554, 
-        "state": "open", 
-        "updated_at": 1691832193
-    }, 
     "42555": {
         "base_branch": "CMSSW_13_1_X", 
         "changed_files_names": [
