@@ -2355,18 +2355,17 @@
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltPFTauPiZeros_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltPreDoublePFTauHPS_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltTauPFJets08Region_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/paths/HLT_DoubleMediumChargedIsoPFTauHPS_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/paths/HLT_DoubleMediumDeepTauPFTauHPS_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/paths/HLT_DoublePFTauHPS_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/paths/HLT_DoubleMediumChargedIsoPFTauHPS40_eta2p1_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/paths/HLT_DoubleMediumDeepTauPFTauHPS35_eta2p1_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTHPSDeepTauPFTauSequence_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTHPSMediumChargedIsoPFTauSequence_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/hltPFTauHPS_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPFTauHPS_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33_cff.py"
         ], 
         "created_at": 1691992657, 
         "number": 42562, 
         "state": "open", 
-        "updated_at": 1691996439
+        "updated_at": 1692034046
     }, 
     "42563": {
         "base_branch": "CMSSW_13_2_X", 
