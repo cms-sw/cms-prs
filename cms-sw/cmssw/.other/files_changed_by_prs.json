@@ -2470,5 +2470,34 @@
         "number": 42573, 
         "state": "open", 
         "updated_at": 1692087430
+    }, 
+    "42574": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibTracker/SiStripLorentzAngle/interface/SiStripLorentzAngleCalibrationHelpers.h", 
+            "CalibTracker/SiStripLorentzAngle/interface/SiStripLorentzAngleCalibrationStruct.h", 
+            "CalibTracker/SiStripLorentzAngle/plugins/BuildFile.xml", 
+            "CalibTracker/SiStripLorentzAngle/plugins/SiStripLorentzAnglePCLHarvester.cc", 
+            "CalibTracker/SiStripLorentzAngle/plugins/SiStripLorentzAnglePCLMonitor.cc", 
+            "CalibTracker/SiStripLorentzAngle/python/SiStripLorentzAnglePCLHarvester_cfi.py", 
+            "CalibTracker/SiStripLorentzAngle/python/SiStripLorentzAnglePCLMonitor_cfi.py", 
+            "CalibTracker/SiStripLorentzAngle/test/step_PromptCalibProdSiStripLA_ALCAHARVEST_cfg.py", 
+            "CalibTracker/SiStripLorentzAngle/test/step_PromptCalibProdSiStripLA_cfg.py", 
+            "Calibration/TkAlCaRecoProducers/python/ALCARECOPromptCalibProdSiStripLorentzAngle_Output_cff.py", 
+            "Calibration/TkAlCaRecoProducers/python/ALCARECOPromptCalibProdSiStripLorentzAngle_cff.py", 
+            "Calibration/TkAlCaRecoProducers/python/AlcaSiStripLorentzAngleHarvester_cff.py", 
+            "Calibration/TkAlCaRecoProducers/python/AlcaSiStripLorentzAngleHarvester_cfi.py", 
+            "Configuration/AlCa/python/autoAlca.py", 
+            "Configuration/AlCa/python/autoPCL.py", 
+            "Configuration/EventContent/python/AlCaRecoOutput_cff.py", 
+            "Configuration/PyReleaseValidation/python/relval_production.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
+            "Configuration/StandardSequences/python/AlCaHarvesting_cff.py", 
+            "Configuration/StandardSequences/python/AlCaRecoStreams_cff.py"
+        ], 
+        "created_at": 1692087465, 
+        "number": 42574, 
+        "state": "open", 
+        "updated_at": 1692087487
     }
 }
