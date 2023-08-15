@@ -1805,6 +1805,7 @@
             "CondFormats/PPSObjects/interface/TotemSymbId.h", 
             "CondFormats/PPSObjects/src/TotemAnalysisMask.cc", 
             "CondFormats/PPSObjects/src/TotemDAQMapping.cc", 
+            "CondFormats/PPSObjects/src/TotemSymbId.cc", 
             "CondFormats/PPSObjects/src/classes_def.xml", 
             "CondFormats/PPSObjects/src/headers.h", 
             "CondTools/CTPPS/plugins/WriteCTPPSTotemDAQMappingMask.cc", 
@@ -1814,7 +1815,7 @@
         "created_at": 1691153124, 
         "number": 42471, 
         "state": "open", 
-        "updated_at": 1691768014
+        "updated_at": 1692106524
     }, 
     "42481": {
         "base_branch": "CMSSW_13_2_X", 
