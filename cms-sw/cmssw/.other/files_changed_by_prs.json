@@ -1878,12 +1878,16 @@
             "RecoPPS/ProtonReconstruction/plugins/BuildFile.xml", 
             "RecoPPS/ProtonReconstruction/plugins/CTPPSProtonProducer.cc", 
             "RecoPPS/ProtonReconstruction/python/ctppsProtons_cff.py", 
-            "RecoPPS/ProtonReconstruction/src/ProtonReconstructionAlgorithm.cc"
+            "RecoPPS/ProtonReconstruction/src/ProtonReconstructionAlgorithm.cc", 
+            "Validation/CTPPS/plugins/BuildFile.xml", 
+            "Validation/CTPPS/plugins/CTPPSLHCInfoPlotter.cc", 
+            "Validation/CTPPS/python/base_cff.py", 
+            "Validation/CTPPS/test/simu/template_cfg.py"
         ], 
         "created_at": 1691526143, 
         "number": 42515, 
         "state": "open", 
-        "updated_at": 1692175356
+        "updated_at": 1692192048
     }, 
     "42518": {
         "base_branch": "master", 
