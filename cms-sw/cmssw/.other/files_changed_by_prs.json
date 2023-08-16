@@ -1889,11 +1889,11 @@
             "CalibPPS/ESProducers/python/ctppsOpticalFunctions_cff.py", 
             "CalibPPS/ESProducers/python/ctppsOpticalFunctions_non_DB_cff.py", 
             "Calibration/PPSAlCaRecoProducer/python/ALCARECOPPSCalMaxTracks_cff.py", 
-            "Calibration/PPSAlCaRecoProducer/test/2023_lhcinfo_test_recoCTPPS_cfg.py", 
             "CondFormats/DataRecord/interface/CTPPSInterpolatedOpticsRcd.h", 
             "CondFormats/RunInfo/BuildFile.xml", 
             "CondTools/RunInfo/interface/LHCInfoCombined.h", 
             "CondTools/RunInfo/src/LHCInfoCombined.cc", 
+            "RecoPPS/Local/test/2023_lhcinfo_test_recoCTPPS_cfg.py", 
             "RecoPPS/ProtonReconstruction/interface/ProtonReconstructionAlgorithm.h", 
             "RecoPPS/ProtonReconstruction/plugins/BuildFile.xml", 
             "RecoPPS/ProtonReconstruction/plugins/CTPPSProtonProducer.cc", 
@@ -1903,7 +1903,7 @@
         "created_at": 1691526143, 
         "number": 42515, 
         "state": "open", 
-        "updated_at": 1692030890
+        "updated_at": 1692174476
     }, 
     "42518": {
         "base_branch": "master", 
