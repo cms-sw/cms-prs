@@ -2066,24 +2066,6 @@
         "state": "open", 
         "updated_at": 1691669114
     }, 
-    "42545": {
-        "base_branch": "CMSSW_13_2_X", 
-        "changed_files_names": [
-            "Configuration/PyReleaseValidation/python/relval_standard.py", 
-            "Configuration/PyReleaseValidation/python/relval_steps.py", 
-            "DQM/SiStripMonitorApproximateCluster/plugins/SiStripMonitorApproximateCluster.cc", 
-            "DataFormats/SiStripCluster/interface/SiStripApproximateClusterCollection.h", 
-            "DataFormats/SiStripCluster/src/SiStripApproximateClusterCollection.cc", 
-            "DataFormats/SiStripCluster/src/classes.h", 
-            "DataFormats/SiStripCluster/src/classes_def.xml", 
-            "RecoLocalTracker/SiStripClusterizer/plugins/SiStripApprox2Clusters.cc", 
-            "RecoLocalTracker/SiStripClusterizer/plugins/SiStripClusters2ApproxClusters.cc"
-        ], 
-        "created_at": 1691744658, 
-        "number": 42545, 
-        "state": "open", 
-        "updated_at": 1691768098
-    }, 
     "42546": {
         "base_branch": "master", 
         "changed_files_names": [
