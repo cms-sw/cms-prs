@@ -2040,34 +2040,6 @@
         "state": "open", 
         "updated_at": 1692186954
     }, 
-    "42576": {
-        "base_branch": "CMSSW_13_0_X", 
-        "changed_files_names": [
-            "FWCore/MessageLogger/interface/JobReport.h", 
-            "FWCore/MessageLogger/src/JobReport.cc", 
-            "FWCore/MessageService/test/unit_test_outputs/FrameworkJobReport-timing_t.xml", 
-            "FWCore/MessageService/test/unit_test_outputs/FrameworkJobReport.xml", 
-            "FWCore/MessageService/test/unit_test_outputs/job_report.xml", 
-            "FWCore/MessageService/test/unit_test_outputs/u10_job_report.xml", 
-            "FWCore/MessageService/test/unit_test_outputs/u14_job_report.mxml", 
-            "FWCore/MessageService/test/unit_test_outputs/u16_job_report.mmxml", 
-            "FWCore/MessageService/test/unit_test_outputs/u1_job_report.mxml", 
-            "FWCore/MessageService/test/unit_test_outputs/u1d_job_report.mxml", 
-            "FWCore/MessageService/test/unit_test_outputs/u27FJR.xml", 
-            "FWCore/MessageService/test/unit_test_outputs/u7_job_report.mxml", 
-            "FWCore/Utilities/interface/EDMException.h", 
-            "FWCore/Utilities/src/EDMException.cc", 
-            "IOPool/Common/test/proper_RLfjr_output", 
-            "IOPool/Common/test/proper_Rfjr_output", 
-            "IOPool/Common/test/proper_fjr_output", 
-            "IOPool/Common/test/proper_fjrx_output", 
-            "IOPool/Common/test/proper_fjrx_second_output"
-        ], 
-        "created_at": 1692125760, 
-        "number": 42576, 
-        "state": "open", 
-        "updated_at": 1692188736
-    }, 
     "42577": {
         "base_branch": "CMSSW_12_6_X", 
         "changed_files_names": [
