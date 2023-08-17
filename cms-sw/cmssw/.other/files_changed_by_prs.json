@@ -2074,26 +2074,6 @@
         "state": "open", 
         "updated_at": 1692198828
     }, 
-    "42579": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "RecoLocalCalo/EcalRecAlgos/interface/EcalUncalibRecHitTimingCCAlgo.h", 
-            "RecoLocalCalo/EcalRecAlgos/src/EcalUncalibRecHitTimingCCAlgo.cc", 
-            "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitProducer.cc", 
-            "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitWorkerMultiFit.cc", 
-            "RecoLocalCalo/EcalRecProducers/python/ecalAnalFitUncalibRecHit_cfi.py", 
-            "RecoLocalCalo/EcalRecProducers/python/ecalFixedAlphaBetaFitUncalibRecHit_cfi.py", 
-            "RecoLocalCalo/EcalRecProducers/python/ecalGlobalUncalibRecHit_cfi.py", 
-            "RecoLocalCalo/EcalRecProducers/python/ecalMaxSampleUncalibRecHit_cfi.py", 
-            "RecoLocalCalo/EcalRecProducers/python/ecalMultiFitUncalibRecHit_cfi.py", 
-            "RecoLocalCalo/EcalRecProducers/python/ecalRatioUncalibRecHit_cfi.py", 
-            "RecoLocalCalo/EcalRecProducers/python/ecalWeightUncalibRecHit_cfi.py"
-        ], 
-        "created_at": 1692166748, 
-        "number": 42579, 
-        "state": "open", 
-        "updated_at": 1692187256
-    }, 
     "42583": {
         "base_branch": "CMSSW_13_2_X", 
         "changed_files_names": [
