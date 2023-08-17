@@ -2016,5 +2016,25 @@
         "number": 42591, 
         "state": "open", 
         "updated_at": 1692258665
+    }, 
+    "42592": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Alignment/OfflineValidation/test/BuildFile.xml", 
+            "Alignment/OfflineValidation/test/DiElectronVertexValidation_cfg.py", 
+            "Alignment/OfflineValidation/test/PVValidation_TEMPL_cfg.py", 
+            "Alignment/OfflineValidation/test/PVValidation_T_cfg.py", 
+            "Alignment/OfflineValidation/test/PrimaryVertexResolution_cfg.py", 
+            "Alignment/OfflineValidation/test/PrimaryVertexResolution_templ_cfg.py", 
+            "Alignment/OfflineValidation/test/testPVValidation_Relvals_DATA.ini", 
+            "Alignment/OfflineValidation/test/test_all_Phase2_cfg.py", 
+            "Alignment/OfflineValidation/test/test_all_cfg.py", 
+            "Alignment/OfflineValidation/test/testingScripts/test_unitDiElectronVertex.sh", 
+            "Alignment/OfflineValidation/test/testingScripts/test_unitSubmitPVrbr.sh"
+        ], 
+        "created_at": 1692258975, 
+        "number": 42592, 
+        "state": "open", 
+        "updated_at": 1692258995
     }
 }
