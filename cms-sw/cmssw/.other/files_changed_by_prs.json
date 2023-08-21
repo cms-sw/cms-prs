@@ -1421,20 +1421,12 @@
     "42396": {
         "base_branch": "CMSSW_12_4_X", 
         "changed_files_names": [
-            "IOPool/Input/src/RootInputFileSequence.cc", 
-            "IOPool/Input/test/BuildFile.xml", 
-            "IOPool/Input/test/sitelocalconfig/noFallbackFile/local/storage.json", 
-            "IOPool/Input/test/sitelocalconfig/noFallbackFile/site-local-config.xml", 
-            "IOPool/Input/test/sitelocalconfig/useFallbackFile/local/storage.json", 
-            "IOPool/Input/test/sitelocalconfig/useFallbackFile/site-local-config.xml", 
-            "IOPool/Input/test/testFileOpenErrorExitCode.sh", 
-            "IOPool/Input/test/test_fileOpenErrorExitCode2_cfg.py", 
-            "IOPool/Input/test/test_fileOpenErrorExitCode_cfg.py"
+            "IOPool/Input/src/RootInputFileSequence.cc"
         ], 
         "created_at": 1690484760, 
         "number": 42396, 
         "state": "open", 
-        "updated_at": 1690991955
+        "updated_at": 1692641446
     }, 
     "42424": {
         "base_branch": "master", 
