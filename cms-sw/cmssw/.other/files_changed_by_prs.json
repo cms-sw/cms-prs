@@ -2078,5 +2078,15 @@
         "number": 42617, 
         "state": "open", 
         "updated_at": 1692624142
+    }, 
+    "42618": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.cu"
+        ], 
+        "created_at": 1692625234, 
+        "number": 42618, 
+        "state": "open", 
+        "updated_at": 1692625258
     }
 }
