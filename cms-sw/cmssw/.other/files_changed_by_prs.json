@@ -2095,5 +2095,24 @@
         "number": 42611, 
         "state": "open", 
         "updated_at": 1692472001
+    }, 
+    "42612": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/HLT_75e33/modules/MeasurementTrackerEvent_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/siPixelClusters_cfi.py", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/PixelThresholdClusterizer.h", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelClusterProducer.cc", 
+            "RecoLocalTracker/SiPixelClusterizer/python/SiPixelClusterizer_cfi.py", 
+            "RecoTracker/MeasurementDet/plugins/MeasurementTrackerESProducer.cc", 
+            "RecoTracker/MeasurementDet/python/MeasurementTrackerEventProducer_cfi.py", 
+            "SimTracker/SiPhase2Digitizer/plugins/Phase2TrackerDigitizerAlgorithm.h", 
+            "SimTracker/SiPhase2Digitizer/plugins/PixelDigitizerAlgorithm.cc", 
+            "SimTracker/SiPhase2Digitizer/plugins/PixelDigitizerAlgorithm.h"
+        ], 
+        "created_at": 1692593228, 
+        "number": 42612, 
+        "state": "open", 
+        "updated_at": 1692593251
     }
 }
