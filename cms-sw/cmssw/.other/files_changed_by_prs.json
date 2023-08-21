@@ -2065,6 +2065,8 @@
     "42617": {
         "base_branch": "master", 
         "changed_files_names": [
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltBTagPFPuppiDeepCSV0p865DoubleEta2p4_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltBTagPFPuppiDeepFlavour0p935DoubleEta2p4_cfi.py", 
             "HLTrigger/btau/plugins/HLTJetTagWithMatching.cc", 
             "HLTrigger/btau/plugins/HLTJetTagWithMatching.h", 
             "HLTrigger/btau/plugins/modules.cc"
@@ -2072,7 +2074,7 @@
         "created_at": 1692624117, 
         "number": 42617, 
         "state": "open", 
-        "updated_at": 1692624142
+        "updated_at": 1692641525
     }, 
     "42618": {
         "base_branch": "master", 
