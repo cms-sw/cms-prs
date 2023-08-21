@@ -2055,5 +2055,17 @@
         "number": 42614, 
         "state": "open", 
         "updated_at": 1692605428
+    }, 
+    "42615": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "IOPool/Input/src/RootInputFileSequence.cc", 
+            "IOPool/Input/test/sitelocalconfig/useFallbackFile/local/storage.json", 
+            "IOPool/Input/test/testFileOpenErrorExitCode.sh"
+        ], 
+        "created_at": 1692622351, 
+        "number": 42615, 
+        "state": "open", 
+        "updated_at": 1692622373
     }
 }
