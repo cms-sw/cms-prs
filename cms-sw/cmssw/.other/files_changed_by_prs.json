@@ -2236,5 +2236,18 @@
         "number": 42626, 
         "state": "open", 
         "updated_at": 1692694823
+    }, 
+    "42628": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/TrackCandidate/interface/TrajectoryStopReasons.h", 
+            "DataFormats/TrackCandidate/src/TrajectoryStopReasons.cc", 
+            "DataFormats/TrackReco/interface/SeedStopReason.h", 
+            "DataFormats/TrackReco/src/SeedStopReason.cc"
+        ], 
+        "created_at": 1692702551, 
+        "number": 42628, 
+        "state": "open", 
+        "updated_at": 1692702576
     }
 }
