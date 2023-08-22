@@ -2319,11 +2319,13 @@
             "L1Trigger/L1TGlobal/plugins/L1TGlobalProducer.h", 
             "L1Trigger/L1TGlobal/plugins/TriggerMenuParser.cc", 
             "L1Trigger/L1TGlobal/plugins/TriggerMenuParser.h", 
+            "L1Trigger/L1TGlobal/python/simGtStage2Digis_cfi.py", 
             "L1Trigger/L1TGlobal/src/EnergySumCondition.cc", 
             "L1Trigger/L1TGlobal/src/GlobalBoard.cc", 
             "L1Trigger/L1TGlobal/src/TriggerMenu.cc", 
             "L1Trigger/L1TGlobal/src/ZdcEnergySumCondition.cc", 
             "L1Trigger/L1TGlobal/src/ZdcEnergySumTemplate.cc", 
+            "L1Trigger/L1TGlobal/src/classes_def.xml", 
             "L1Trigger/L1TNtuples/python/L1NtupleEMU_cff.py", 
             "L1Trigger/L1TNtuples/python/L1NtupleRAW_cff.py", 
             "L1Trigger/L1TNtuples/python/l1UpgradeTree_cfi.py"
@@ -2331,6 +2333,6 @@
         "created_at": 1692737153, 
         "number": 42635, 
         "state": "open", 
-        "updated_at": 1692737174
+        "updated_at": 1692737213
     }
 }
