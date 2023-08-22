@@ -2110,6 +2110,9 @@
             "Geometry/HcalCommonData/data/hcalRecNumbering/NoHE/v2/hcalRecNumbering.xml", 
             "Geometry/HcalCommonData/data/hcalSimNumbering/2021/v2/hcalSimNumbering.xml", 
             "Geometry/HcalCommonData/data/hcalSimNumbering/NoHE/v2/hcalSimNumbering.xml", 
+            "Geometry/HcalCommonData/data/hcalsens/2021/v2/hcalsenspmf.xml", 
+            "Geometry/HcalCommonData/data/hcalsens/NoHE/v1/hcalsenspm.xml", 
+            "Geometry/HcalCommonData/data/hcalsens/NoHE/v1/hcalsenspmf.xml", 
             "Geometry/HcalCommonData/python/GeometryDD4hepExtended2021Reco_cff.py", 
             "Geometry/HcalCommonData/python/GeometryDD4hepExtended2026D99Reco_cff.py", 
             "Geometry/HcalCommonData/python/GeometryExtended2016Reco_cff.py", 
@@ -2124,7 +2127,7 @@
         "created_at": 1692629577, 
         "number": 42619, 
         "state": "open", 
-        "updated_at": 1692629608
+        "updated_at": 1692662092
     }, 
     "42620": {
         "base_branch": "CMSSW_13_1_X", 
