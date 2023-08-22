@@ -2242,5 +2242,19 @@
         "number": 42628, 
         "state": "open", 
         "updated_at": 1692711971
+    }, 
+    "42629": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondTools/RunInfo/interface/LHCInfoPopConSourceHandler.h", 
+            "CondTools/RunInfo/plugins/LHCInfoPerFillPopConAnalyzer.cc", 
+            "CondTools/RunInfo/plugins/LHCInfoPerLSPopConAnalyzer.cc", 
+            "CondTools/RunInfo/src/LHCInfoPopConSourceHandler.cc", 
+            "CondTools/RunInfo/test/test_lhcInfoNewPopCon.sh"
+        ], 
+        "created_at": 1692715021, 
+        "number": 42629, 
+        "state": "open", 
+        "updated_at": 1692715044
     }
 }
