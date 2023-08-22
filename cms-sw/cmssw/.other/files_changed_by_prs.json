@@ -2232,5 +2232,17 @@
         "number": 42621, 
         "state": "open", 
         "updated_at": 1692662257
+    }, 
+    "42622": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondTools/SiPixel/test/BuildFile.xml", 
+            "CondTools/SiPixel/test/SiPixelBadModuleByHandBuilderFromROCList_cfg.py", 
+            "CondTools/SiPixel/test/createTestDBObjects.sh"
+        ], 
+        "created_at": 1692689339, 
+        "number": 42622, 
+        "state": "open", 
+        "updated_at": 1692689358
     }
 }
