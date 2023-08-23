@@ -2338,11 +2338,8 @@
     "42637": {
         "base_branch": "master", 
         "changed_files_names": [
-            "DQM/GEM/python/gem_dqm_offline_client_cff.py", 
-            "DQM/GEM/python/gem_dqm_offline_source_cff.py", 
             "DQMOffline/MuonDPG/plugins/GEMTnPEfficiencyTask.cc", 
             "DQMOffline/MuonDPG/python/gemTnPEfficiencyClient_cfi.py", 
-            "DQMOffline/MuonDPG/python/gemTnPEfficiencyTask_cfi.py", 
             "DQMOffline/MuonDPG/src/BaseTnPEfficiencyTask.cc", 
             "DataFormats/MuonReco/interface/MuonGEMHitMatch.h", 
             "DataFormats/MuonReco/src/classes_def.xml", 
@@ -2353,6 +2350,6 @@
         "created_at": 1692763188, 
         "number": 42637, 
         "state": "open", 
-        "updated_at": 1692766472
+        "updated_at": 1692766601
     }
 }
