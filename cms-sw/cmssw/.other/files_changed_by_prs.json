@@ -2330,5 +2330,19 @@
         "number": 42641, 
         "state": "open", 
         "updated_at": 1692780362
+    }, 
+    "42642": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondCore/SiStripPlugins/plugins/SiStripBadStrip_PayloadInspector.cc", 
+            "CondCore/SiStripPlugins/plugins/SiStripLorentzAngle_PayloadInspector.cc", 
+            "CondCore/SiStripPlugins/test/test.sh", 
+            "CondCore/SiStripPlugins/test/testSiStripPayloadInspector.cpp", 
+            "DQM/TrackerRemapper/src/SiStripTkMaps.cc"
+        ], 
+        "created_at": 1692783756, 
+        "number": 42642, 
+        "state": "open", 
+        "updated_at": 1692783778
     }
 }
