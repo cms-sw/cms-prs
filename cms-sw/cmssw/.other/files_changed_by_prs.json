@@ -2334,22 +2334,5 @@
         "number": 42635, 
         "state": "open", 
         "updated_at": 1692737213
-    }, 
-    "42637": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMOffline/MuonDPG/plugins/GEMTnPEfficiencyTask.cc", 
-            "DQMOffline/MuonDPG/python/gemTnPEfficiencyClient_cfi.py", 
-            "DQMOffline/MuonDPG/src/BaseTnPEfficiencyTask.cc", 
-            "DataFormats/MuonReco/interface/MuonGEMHitMatch.h", 
-            "DataFormats/MuonReco/src/classes_def.xml", 
-            "RecoMuon/MuonIdentification/plugins/MuonIdProducer.cc", 
-            "TrackingTools/TrackAssociator/plugins/MuonDetIdAssociator.cc", 
-            "TrackingTools/TrackAssociator/src/TrackDetectorAssociator.cc"
-        ], 
-        "created_at": 1692763188, 
-        "number": 42637, 
-        "state": "open", 
-        "updated_at": 1692766601
     }
 }
