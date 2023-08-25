@@ -2350,5 +2350,17 @@
         "number": 42660, 
         "state": "open", 
         "updated_at": 1692936105
+    }, 
+    "42661": {
+        "base_branch": "CMSSW_13_2_X", 
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/relval_standard.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
+            "Configuration/StandardSequences/python/DigiToRaw_Repack_cff.py"
+        ], 
+        "created_at": 1692936739, 
+        "number": 42661, 
+        "state": "open", 
+        "updated_at": 1692936768
     }
 }
