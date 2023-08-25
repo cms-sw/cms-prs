@@ -1507,38 +1507,6 @@
         "state": "open", 
         "updated_at": 1691483635
     }, 
-    "42471": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibPPS/ESProducers/plugins/PrintTotemDAQMapping.cc", 
-            "CalibPPS/ESProducers/plugins/WriteTotemDAQMapping.cc", 
-            "CalibPPS/ESProducers/test/script_test_many_writeTotemDAQMapping.py", 
-            "CalibPPS/ESProducers/test/test_printTotemDAQMapping.py", 
-            "CalibPPS/ESProducers/test/test_writeTotemDAQMapping.py", 
-            "CondCore/CTPPSPlugins/src/plugin.cc", 
-            "CondFormats/DataRecord/interface/TotemAnalysisMaskRcd.h", 
-            "CondFormats/DataRecord/src/TotemAnalysisMaskRcd.cc", 
-            "CondFormats/PPSObjects/interface/TotemAnalysisMask.h", 
-            "CondFormats/PPSObjects/interface/TotemDAQMapping.h", 
-            "CondFormats/PPSObjects/interface/TotemFramePosition.h", 
-            "CondFormats/PPSObjects/interface/TotemSymbId.h", 
-            "CondFormats/PPSObjects/src/TotemAnalysisMask.cc", 
-            "CondFormats/PPSObjects/src/TotemDAQMapping.cc", 
-            "CondFormats/PPSObjects/src/TotemSymbId.cc", 
-            "CondFormats/PPSObjects/src/classes_def.xml", 
-            "CondFormats/PPSObjects/src/headers.h", 
-            "CondTools/CTPPS/plugins/WriteCTPPSTotemDAQMappingMask.cc", 
-            "CondTools/CTPPS/python/mappings_PPSObjects_XML_cfi.py", 
-            "CondTools/CTPPS/test/BuildFile.xml", 
-            "CondTools/CTPPS/test/script-ctpps-write-many-XML-to-SQLite.py", 
-            "CondTools/CTPPS/test/test_XML_to_SQLite_mapping.sh", 
-            "CondTools/CTPPS/test/write-ctpps-totem_daqmap_cfg.py"
-        ], 
-        "created_at": 1691153124, 
-        "number": 42471, 
-        "state": "open", 
-        "updated_at": 1692706827
-    }, 
     "42487": {
         "base_branch": "master", 
         "changed_files_names": [
