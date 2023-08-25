@@ -2339,5 +2339,16 @@
         "number": 42659, 
         "state": "open", 
         "updated_at": 1692935735
+    }, 
+    "42660": {
+        "base_branch": "CMSSW_13_2_X", 
+        "changed_files_names": [
+            "DQM/Integration/python/config/unitteststreamerinputsource_cfi.py", 
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelPhase1RawDataErrorComparator.cc"
+        ], 
+        "created_at": 1692936075, 
+        "number": 42660, 
+        "state": "open", 
+        "updated_at": 1692936105
     }
 }
