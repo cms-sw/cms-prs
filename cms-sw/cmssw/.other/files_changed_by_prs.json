@@ -2300,12 +2300,15 @@
             "Alignment/OfflineValidation/python/TkAlAllInOneTool/SplitV_cfg.py", 
             "Calibration/TkAlCaRecoProducers/python/ALCARECOPromptCalibProdSiPixelLorentzAngle_cff.py", 
             "Calibration/TkAlCaRecoProducers/python/ALCARECOPromptCalibProdSiStripGainsAAG_cff.py", 
-            "Calibration/TkAlCaRecoProducers/python/ALCARECOSiPixelCalSingleMuonTight_cff.py"
+            "Calibration/TkAlCaRecoProducers/python/ALCARECOSiPixelCalSingleMuonTight_cff.py", 
+            "DQM/SiPixelPhase1Config/python/SiPixelPhase1OfflineDQM_source_cff.py", 
+            "DQM/SiPixelPhase1Config/python/SiPixelPhase1OnlineDQM_Timing_cff.py", 
+            "DQM/SiPixelPhase1Config/python/SiPixelPhase1OnlineDQM_cff.py"
         ], 
         "created_at": 1692890750, 
         "number": 42656, 
         "state": "open", 
-        "updated_at": 1692890775
+        "updated_at": 1692944081
     }, 
     "42658": {
         "base_branch": "CMSSW_13_0_X", 
