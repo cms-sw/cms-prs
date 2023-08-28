@@ -2468,12 +2468,13 @@
             "GeneratorInterface/LHEInterface/scripts/mergeLHE.py", 
             "GeneratorInterface/LHEInterface/src/LHEEvent.cc", 
             "GeneratorInterface/LHEInterface/src/LHEReader.cc", 
-            "SimDataFormats/GeneratorProducts/interface/LHEEventProduct.h"
+            "SimDataFormats/GeneratorProducts/interface/LHEEventProduct.h", 
+            "SimDataFormats/GeneratorProducts/src/classes_def.xml"
         ], 
         "created_at": 1693232547, 
         "number": 42673, 
         "state": "open", 
-        "updated_at": 1693232574
+        "updated_at": 1693234160
     }, 
     "42674": {
         "base_branch": "master", 
