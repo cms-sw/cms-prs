@@ -2413,6 +2413,7 @@
             "PerfTools/AllocMonitor/interface/AllocMonitorRegistry.h", 
             "PerfTools/AllocMonitor/plugins/BuildFile.xml", 
             "PerfTools/AllocMonitor/plugins/EventProcessingAllocMonitor.cc", 
+            "PerfTools/AllocMonitor/plugins/HistogrammingAllocMonitor.cc", 
             "PerfTools/AllocMonitor/plugins/SimpleAllocMonitor.cc", 
             "PerfTools/AllocMonitor/src/AllocMonitorBase.cc", 
             "PerfTools/AllocMonitor/src/AllocMonitorRegistry.cc", 
@@ -2429,7 +2430,7 @@
         "created_at": 1692983700, 
         "number": 42665, 
         "state": "open", 
-        "updated_at": 1692983724
+        "updated_at": 1693248390
     }, 
     "42670": {
         "base_branch": "master", 
