@@ -2488,5 +2488,16 @@
         "number": 42674, 
         "state": "open", 
         "updated_at": 1693233903
+    }, 
+    "42675": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Calibration/HcalAlCaRecoProducers/plugins/AlCaHcalIsotrkProducer.cc", 
+            "DataFormats/HLTReco/interface/TriggerEvent.h"
+        ], 
+        "created_at": 1693248654, 
+        "number": 42675, 
+        "state": "open", 
+        "updated_at": 1693248675
     }
 }
