@@ -1517,39 +1517,6 @@
         "state": "open", 
         "updated_at": 1693235966
     }, 
-    "42515": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibPPS/ESProducers/plugins/BuildFile.xml", 
-            "CalibPPS/ESProducers/plugins/CTPPSInterpolatedOpticalFunctionsESSource.cc", 
-            "CalibPPS/ESProducers/python/ctppsInterpolatedOpticalFunctionsESSource_cff.py", 
-            "CalibPPS/ESProducers/python/ctppsLHCInfo_cff.py", 
-            "CalibPPS/ESProducers/python/ctppsOpticalFunctions_cff.py", 
-            "CalibPPS/ESProducers/python/ctppsOpticalFunctions_non_DB_cff.py", 
-            "Calibration/PPSAlCaRecoProducer/test/test_express_PPSAlCaReco_output.py", 
-            "Calibration/PPSAlCaRecoProducer/test/test_prompt_PPSAlCaReco_output.py", 
-            "CondFormats/DataRecord/interface/CTPPSInterpolatedOpticsRcd.h", 
-            "CondFormats/RunInfo/BuildFile.xml", 
-            "CondTools/RunInfo/interface/LHCInfoCombined.h", 
-            "CondTools/RunInfo/src/LHCInfoCombined.cc", 
-            "RecoPPS/Local/test/2023_lhcinfo_test_recoCTPPS_cfg.py", 
-            "RecoPPS/ProtonReconstruction/interface/ProtonReconstructionAlgorithm.h", 
-            "RecoPPS/ProtonReconstruction/plugins/BuildFile.xml", 
-            "RecoPPS/ProtonReconstruction/plugins/CTPPSProtonProducer.cc", 
-            "RecoPPS/ProtonReconstruction/python/ctppsProtons_cff.py", 
-            "RecoPPS/ProtonReconstruction/src/ProtonReconstructionAlgorithm.cc", 
-            "SimTransport/PPSProtonTransport/python/PPSTransportESSources_cfi.py", 
-            "Validation/CTPPS/plugins/BuildFile.xml", 
-            "Validation/CTPPS/plugins/CTPPSLHCInfoPlotter.cc", 
-            "Validation/CTPPS/python/base_cff.py", 
-            "Validation/CTPPS/python/ctppsLHCInfoPlotter_cff.py", 
-            "Validation/CTPPS/test/simu/template_cfg.py"
-        ], 
-        "created_at": 1691526143, 
-        "number": 42515, 
-        "state": "open", 
-        "updated_at": 1693297530
-    }, 
     "42518": {
         "base_branch": "master", 
         "changed_files_names": [
