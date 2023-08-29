@@ -2458,11 +2458,12 @@
         "base_branch": "master", 
         "changed_files_names": [
             "Calibration/HcalAlCaRecoProducers/plugins/AlCaHcalIsotrkProducer.cc", 
-            "DataFormats/HLTReco/interface/TriggerEvent.h"
+            "DataFormats/HLTReco/interface/TriggerEvent.h", 
+            "PhysicsTools/PatAlgos/plugins/PATTriggerProducer.cc"
         ], 
         "created_at": 1693248654, 
         "number": 42675, 
         "state": "open", 
-        "updated_at": 1693248675
+        "updated_at": 1693292761
     }
 }
