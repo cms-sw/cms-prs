@@ -2501,5 +2501,23 @@
         "number": 42691, 
         "state": "open", 
         "updated_at": 1693479306
+    }, 
+    "42692": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalTBCommonData/python/hgcalParametersInitialization_cfi.py", 
+            "SimG4CMS/Calo/BuildFile.xml", 
+            "SimG4CMS/Calo/interface/HGCNumberingScheme.h", 
+            "SimG4CMS/Calo/interface/HGCSD.h", 
+            "SimG4CMS/Calo/plugins/BuildFile.xml", 
+            "SimG4CMS/Calo/plugins/HGCSensitiveDetectorBuilder.cc", 
+            "SimG4CMS/Calo/src/HGCNumberingScheme.cc", 
+            "SimG4CMS/Calo/src/HGCSD.cc", 
+            "SimG4CMS/HGCalTestBeam/test/HGCalTBCERN181Oct1_cfg.py"
+        ], 
+        "created_at": 1693484394, 
+        "number": 42692, 
+        "state": "open", 
+        "updated_at": 1693484418
     }
 }
