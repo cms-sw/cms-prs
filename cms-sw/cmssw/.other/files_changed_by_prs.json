@@ -2446,11 +2446,12 @@
         "base_branch": "CMSSW_13_0_X", 
         "changed_files_names": [
             "DQMOffline/MuonDPG/plugins/GEMTnPEfficiencyTask.cc", 
+            "DQMOffline/MuonDPG/python/gemTnPEfficiencyClient_cfi.py", 
             "TrackingTools/TrackAssociator/src/TrackDetectorAssociator.cc"
         ], 
         "created_at": 1693438997, 
         "number": 42685, 
         "state": "open", 
-        "updated_at": 1693439024
+        "updated_at": 1693442059
     }
 }
