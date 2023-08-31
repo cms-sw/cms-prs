@@ -1684,6 +1684,7 @@
             "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2023FlatMinus10Percent.xml", 
             "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2023FlatPlus05Percent.xml", 
             "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2023FlatPlus10Percent.xml", 
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2023ZeroMaterial.xml", 
             "Geometry/CMSCommonData/python/cmsExtendedGeometry2021FlatMinus05PercentXML_cfi.py", 
             "Geometry/CMSCommonData/python/cmsExtendedGeometry2021FlatMinus10PercentXML_cfi.py", 
             "Geometry/CMSCommonData/python/cmsExtendedGeometry2021FlatPlus05PercentXML_cfi.py", 
@@ -1695,6 +1696,7 @@
             "Geometry/CMSCommonData/python/cmsExtendedGeometry2023FlatPlus05PercentXML_cfi.py", 
             "Geometry/CMSCommonData/python/cmsExtendedGeometry2023FlatPlus10PercentXML_cfi.py", 
             "Geometry/CMSCommonData/python/cmsExtendedGeometry2023XML_cfi.py", 
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2023ZeroMaterialXML_cfi.py", 
             "Geometry/HcalCommonData/data/dd4hep/cmsExtendedGeometry2021.xml", 
             "Geometry/HcalCommonData/data/dd4hep/cmsExtendedGeometry2026D99.xml", 
             "Geometry/HcalCommonData/data/hcalRecNumbering/2021/v1/hcalRecNumbering.xml", 
@@ -1724,7 +1726,7 @@
         "created_at": 1692629773, 
         "number": 42620, 
         "state": "open", 
-        "updated_at": 1692679323
+        "updated_at": 1693467904
     }, 
     "42621": {
         "base_branch": "CMSSW_13_0_X", 
