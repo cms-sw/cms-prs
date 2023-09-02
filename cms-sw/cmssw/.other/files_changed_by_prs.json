@@ -2545,5 +2545,17 @@
         "number": 42706, 
         "state": "open", 
         "updated_at": 1693581954
+    }, 
+    "42707": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/HLTReco/interface/TriggerTypeDefs.h", 
+            "HLTrigger/HLTfilters/plugins/HLTL1TSeed.cc", 
+            "HLTrigger/HLTfilters/plugins/HLTL1TSeed.h"
+        ], 
+        "created_at": 1693634271, 
+        "number": 42707, 
+        "state": "open", 
+        "updated_at": 1693634290
     }
 }
