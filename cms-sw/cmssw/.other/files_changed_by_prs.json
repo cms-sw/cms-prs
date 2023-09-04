@@ -2509,5 +2509,18 @@
         "number": 42710, 
         "state": "open", 
         "updated_at": 1693822540
+    }, 
+    "42711": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/CTPPS/test/strip_dqm_test_xml_cfg.py", 
+            "EventFilter/CTPPSRawToDigi/plugins/TotemVFATRawToDigi.cc", 
+            "EventFilter/CTPPSRawToDigi/python/ctppsRawToDigi_cff.py", 
+            "EventFilter/CTPPSRawToDigi/python/ctppsRawToDigi_xml_cff.py"
+        ], 
+        "created_at": 1693838153, 
+        "number": 42711, 
+        "state": "open", 
+        "updated_at": 1693838173
     }
 }
