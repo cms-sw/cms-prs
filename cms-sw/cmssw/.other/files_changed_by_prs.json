@@ -2229,43 +2229,6 @@
         "state": "open", 
         "updated_at": 1693492936
     }, 
-    "42683": {
-        "base_branch": "CMSSW_13_2_X", 
-        "changed_files_names": [
-            "CalibTracker/SiStripLorentzAngle/interface/SiStripLorentzAngleCalibrationHelpers.h", 
-            "CalibTracker/SiStripLorentzAngle/interface/SiStripLorentzAngleCalibrationStruct.h", 
-            "CalibTracker/SiStripLorentzAngle/plugins/BuildFile.xml", 
-            "CalibTracker/SiStripLorentzAngle/plugins/SiStripLorentzAnglePCLHarvester.cc", 
-            "CalibTracker/SiStripLorentzAngle/plugins/SiStripLorentzAnglePCLMonitor.cc", 
-            "CalibTracker/SiStripLorentzAngle/python/SiStripLorentzAnglePCLHarvester_cfi.py", 
-            "CalibTracker/SiStripLorentzAngle/python/SiStripLorentzAnglePCLMonitor_cfi.py", 
-            "CalibTracker/SiStripLorentzAngle/test/step_PromptCalibProdSiStripLA_ALCAHARVEST_cfg.py", 
-            "CalibTracker/SiStripLorentzAngle/test/step_PromptCalibProdSiStripLA_cfg.py", 
-            "Calibration/TkAlCaRecoProducers/python/ALCARECOPromptCalibProdSiStripLorentzAngle_Output_cff.py", 
-            "Calibration/TkAlCaRecoProducers/python/ALCARECOPromptCalibProdSiStripLorentzAngle_cff.py", 
-            "Calibration/TkAlCaRecoProducers/python/AlcaSiStripLorentzAngleHarvester_cff.py", 
-            "Calibration/TkAlCaRecoProducers/python/AlcaSiStripLorentzAngleHarvester_cfi.py", 
-            "Calibration/TkAlCaRecoProducers/test/parseFwkJobReport.py", 
-            "Calibration/TkAlCaRecoProducers/test/testPCLAlCaHarvesting.py", 
-            "CondFormats/Common/data/SiStripLorentzAngleRcd_multirun_prep.json", 
-            "CondFormats/Common/data/SiStripLorentzAngleRcd_multirun_prod.json", 
-            "CondFormats/Common/data/SiStripLorentzAngleRcd_prep.json", 
-            "CondFormats/Common/data/SiStripLorentzAngleRcd_prod.json", 
-            "CondFormats/Common/test/DropBoxMetadataReader.py", 
-            "CondFormats/Common/test/ProduceDropBoxMetadata.py", 
-            "Configuration/AlCa/python/autoAlca.py", 
-            "Configuration/AlCa/python/autoPCL.py", 
-            "Configuration/EventContent/python/AlCaRecoOutput_cff.py", 
-            "Configuration/PyReleaseValidation/python/relval_production.py", 
-            "Configuration/PyReleaseValidation/python/relval_steps.py", 
-            "Configuration/StandardSequences/python/AlCaHarvesting_cff.py", 
-            "Configuration/StandardSequences/python/AlCaRecoStreams_cff.py"
-        ], 
-        "created_at": 1693382833, 
-        "number": 42683, 
-        "state": "open", 
-        "updated_at": 1693486715
-    }, 
     "42685": {
         "base_branch": "CMSSW_13_0_X", 
         "changed_files_names": [
