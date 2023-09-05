@@ -2317,5 +2317,17 @@
         "number": 42724, 
         "state": "open", 
         "updated_at": 1693917740
+    }, 
+    "42725": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "GeneratorInterface/GenFilters/plugins/PhotonGenFilter.cc", 
+            "GeneratorInterface/GenFilters/plugins/PhotonGenFilter.h", 
+            "GeneratorInterface/GenFilters/python/PhotonGenFilter_cfi.py"
+        ], 
+        "created_at": 1693926644, 
+        "number": 42725, 
+        "state": "open", 
+        "updated_at": 1693926666
     }
 }
