@@ -2694,5 +2694,21 @@
         "number": 42717, 
         "state": "open", 
         "updated_at": 1693851923
+    }, 
+    "42718": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4CMS/Calo/src/HGCSD.cc", 
+            "SimG4CMS/HGCalTestBeam/plugins/HGCalTBAnalyzer.cc", 
+            "SimG4CMS/HGCalTestBeam/plugins/HGCalTimingAnalyzer.cc", 
+            "SimG4CMS/HGCalTestBeam/test/HGCalTBCERN181Oct1_cfg.py", 
+            "SimG4CMS/HGCalTestBeam/test/HGCalTBGenSimDigiReco_cfg.py", 
+            "SimG4CMS/HGCalTestBeam/test/HGCalTBGenSimDigi_cfg.py", 
+            "SimG4CMS/HGCalTestBeam/test/runTBAnalCERN181Oct1_cfg.py"
+        ], 
+        "created_at": 1693869326, 
+        "number": 42718, 
+        "state": "open", 
+        "updated_at": 1693869351
     }
 }
