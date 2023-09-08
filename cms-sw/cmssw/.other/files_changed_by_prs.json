@@ -2169,14 +2169,22 @@
         "base_branch": "master", 
         "changed_files_names": [
             "DQM/CTPPS/test/strip_dqm_test_xml_cfg.py", 
+            "EventFilter/CTPPSRawToDigi/interface/CTPPSPixelDataFormatter.h", 
+            "EventFilter/CTPPSRawToDigi/interface/CTPPSPixelRawToDigi.h", 
+            "EventFilter/CTPPSRawToDigi/interface/CTPPSRawToDigiErrorSummary.h", 
+            "EventFilter/CTPPSRawToDigi/interface/CTPPSPixelErrorSummary.h", 
+            "EventFilter/CTPPSRawToDigi/plugins/CTPPSPixelDigiToRaw.cc", 
             "EventFilter/CTPPSRawToDigi/plugins/TotemVFATRawToDigi.cc", 
             "EventFilter/CTPPSRawToDigi/python/ctppsRawToDigi_cff.py", 
-            "EventFilter/CTPPSRawToDigi/python/ctppsRawToDigi_xml_cff.py"
+            "EventFilter/CTPPSRawToDigi/python/ctppsRawToDigi_xml_cff.py", 
+            "EventFilter/CTPPSRawToDigi/src/CTPPSPixelDataFormatter.cc", 
+            "EventFilter/CTPPSRawToDigi/src/CTPPSRawToDigiErrorSummary.cc", 
+            "EventFilter/CTPPSRawToDigi/src/CTPPSPixelErrorSummary.cc"
         ], 
         "created_at": 1693838153, 
         "number": 42711, 
         "state": "open", 
-        "updated_at": 1693838173
+        "updated_at": 1694175570
     }, 
     "42713": {
         "base_branch": "master", 
