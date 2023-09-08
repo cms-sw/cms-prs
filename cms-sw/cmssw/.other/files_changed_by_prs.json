@@ -2274,5 +2274,37 @@
         "number": 42740, 
         "state": "open", 
         "updated_at": 1694182964
+    }, 
+    "42742": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Framework/test/unit_test_outputs/test_deepCall_unscheduled.log", 
+            "FWCore/Integration/test/unit_test_outputs/testGetBy1.log", 
+            "FWCore/Integration/test/unit_test_outputs/testGetBy2.log", 
+            "FWCore/Integration/test/unit_test_outputs/testSubProcessEventSetup.grep.txt", 
+            "FWCore/Integration/test/unit_test_outputs/testSubProcessEventSetup1.grep.txt", 
+            "FWCore/ParameterSet/interface/Entry.h", 
+            "FWCore/ParameterSet/interface/ParameterDescriptionNode.h", 
+            "FWCore/ParameterSet/interface/ParameterSet.h", 
+            "FWCore/ParameterSet/interface/ParameterSetEntry.h", 
+            "FWCore/ParameterSet/interface/VParameterSetEntry.h", 
+            "FWCore/ParameterSet/interface/types.h", 
+            "FWCore/ParameterSet/src/Entry.cc", 
+            "FWCore/ParameterSet/src/FillDescriptionFromPSet.cc", 
+            "FWCore/ParameterSet/src/ParameterSet.cc", 
+            "FWCore/ParameterSet/src/ParameterSetConverter.cc", 
+            "FWCore/ParameterSet/src/ParameterSetEntry.cc", 
+            "FWCore/ParameterSet/src/VParameterSetEntry.cc", 
+            "FWCore/ParameterSet/src/split.h", 
+            "FWCore/ParameterSet/src/types.cc", 
+            "FWCore/ParameterSet/test/BuildFile.xml", 
+            "FWCore/ParameterSet/test/ps_t.cppunit.cc", 
+            "FWCore/ParameterSet/test/test_catch2_ps.cc", 
+            "IOPool/Common/test/unit_test_outputs/provdump.log"
+        ], 
+        "created_at": 1694195757, 
+        "number": 42742, 
+        "state": "open", 
+        "updated_at": 1694195782
     }
 }
