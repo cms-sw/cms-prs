@@ -2261,5 +2261,18 @@
         "number": 42739, 
         "state": "open", 
         "updated_at": 1694156655
+    }, 
+    "42740": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/Eras/python/Modifier_run3_miniAOD_12X_cff.py", 
+            "Configuration/StandardSequences/python/Eras.py", 
+            "PhysicsTools/PatAlgos/python/slimming/applySubstructure_cff.py", 
+            "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py"
+        ], 
+        "created_at": 1694182940, 
+        "number": 42740, 
+        "state": "open", 
+        "updated_at": 1694182964
     }
 }
