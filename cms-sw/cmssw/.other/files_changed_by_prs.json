@@ -2317,5 +2317,21 @@
         "number": 42744, 
         "state": "open", 
         "updated_at": 1694372449
+    }, 
+    "42745": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoMuon/TrackerSeedGenerator/BuildFile.xml", 
+            "RecoMuon/TrackerSeedGenerator/interface/SeedMvaEstimatorPhase2.h", 
+            "RecoMuon/TrackerSeedGenerator/plugins/BuildFile.xml", 
+            "RecoMuon/TrackerSeedGenerator/plugins/MuonHLTSeedMVAClassifierPhase2.cc", 
+            "RecoMuon/TrackerSeedGenerator/python/customizerForMuonHLTSeedingPhase2.py", 
+            "RecoMuon/TrackerSeedGenerator/python/mvaScale.py", 
+            "RecoMuon/TrackerSeedGenerator/src/SeedMvaEstimatorPhase2.cc"
+        ], 
+        "created_at": 1694414222, 
+        "number": 42745, 
+        "state": "open", 
+        "updated_at": 1694414266
     }
 }
