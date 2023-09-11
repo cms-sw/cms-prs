@@ -2269,5 +2269,17 @@
         "number": 42750, 
         "state": "open", 
         "updated_at": 1694436197
+    }, 
+    "42752": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/SiStripMonitorApproximateCluster/plugins/SiStripMonitorApproximateCluster.cc", 
+            "DataFormats/SiStripCluster/interface/SiStripApproximateClusterCollection.h", 
+            "RecoLocalTracker/SiStripClusterizer/plugins/SiStripApprox2Clusters.cc"
+        ], 
+        "created_at": 1694440929, 
+        "number": 42752, 
+        "state": "open", 
+        "updated_at": 1694440954
     }
 }
