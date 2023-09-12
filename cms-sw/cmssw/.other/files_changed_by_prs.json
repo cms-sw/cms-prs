@@ -2369,12 +2369,13 @@
         "changed_files_names": [
             "PhysicsTools/NanoAOD/python/muons_cff.py", 
             "PhysicsTools/NanoAOD/python/nanoDQM_cfi.py", 
-            "RecoMuon/GlobalTrackingTools/plugins/BuildFile.xml"
+            "RecoMuon/GlobalTrackingTools/plugins/BuildFile.xml", 
+            "RecoMuon/GlobalTrackingTools/plugins/MuonBeamspotConstraintValueMapProducer.cc"
         ], 
         "created_at": 1694526813, 
         "number": 42762, 
         "state": "open", 
-        "updated_at": 1694526839
+        "updated_at": 1694534648
     }, 
     "42763": {
         "base_branch": "CMSSW_13_0_X", 
