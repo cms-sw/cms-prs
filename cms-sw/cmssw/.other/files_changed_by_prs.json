@@ -2473,5 +2473,22 @@
         "number": 42766, 
         "state": "open", 
         "updated_at": 1694542592
+    }, 
+    "42767": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoLocalCalo/EcalRecProducers/test/ecalRawDecodingAndMultifit.py", 
+            "RecoLocalCalo/EcalRecProducers/test/testEcalRechitProducer_cfg.py", 
+            "RecoLocalCalo/EcalRecProducers/test/testEcalUncalibRecHitPhase2WeightsProducer.py", 
+            "RecoLocalCalo/EcalRecProducers/test/testEcalUncalibRecHitPhase2WeightsProducerGPU.py", 
+            "RecoLocalCalo/EcalRecProducers/test/testEcalUncalibRecHitPhase2WeightsProducerGPU_harvesting.py", 
+            "RecoLocalCalo/EcalRecProducers/test/testEcalUncalibRechitProducerWithCC_cfg.py", 
+            "RecoLocalCalo/EcalRecProducers/test/testEcalUncalibRechitProducer_cfg.py", 
+            "RecoTauTag/HLTProducers/test/testL2TauTagNN.py"
+        ], 
+        "created_at": 1694542711, 
+        "number": 42767, 
+        "state": "open", 
+        "updated_at": 1694542737
     }
 }
