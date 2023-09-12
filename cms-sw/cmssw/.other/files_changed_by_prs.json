@@ -2303,12 +2303,14 @@
     "42755": {
         "base_branch": "master", 
         "changed_files_names": [
-            "DataFormats/Common/interface/SortedCollection.h"
+            "DataFormats/Common/interface/SortedCollection.h", 
+            "EventFilter/EcalRawToDigi/src/EcalElectronicsMapper.cc", 
+            "RecoLocalCalo/HcalRecProducers/bin/makeHcalRecHitGpuValidationPlots.cpp"
         ], 
         "created_at": 1694498881, 
         "number": 42755, 
         "state": "open", 
-        "updated_at": 1694498904
+        "updated_at": 1694504977
     }, 
     "42756": {
         "base_branch": "master", 
