@@ -2283,8 +2283,8 @@
         "base_branch": "master", 
         "changed_files_names": [
             "DataFormats/Common/interface/SortedCollection.h", 
-            "DataFormats/FTLDigi/src/classes_def.xml", 
-            "DataFormats/HGCDigi/src/classes_def.xml", 
+            "DataFormats/FTLDigi/src/classes.h", 
+            "DataFormats/HGCDigi/src/classes.h", 
             "EventFilter/EcalRawToDigi/src/EcalElectronicsMapper.cc", 
             "RecoCaloTools/Selectors/interface/CaloConeSelector.h", 
             "RecoCaloTools/Selectors/interface/CaloDualConeSelector.h", 
@@ -2294,7 +2294,7 @@
         "created_at": 1694498881, 
         "number": 42755, 
         "state": "open", 
-        "updated_at": 1694512814
+        "updated_at": 1694521120
     }, 
     "42756": {
         "base_branch": "master", 
