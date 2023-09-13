@@ -2643,5 +2643,20 @@
         "number": 42781, 
         "state": "open", 
         "updated_at": 1694606201
+    }, 
+    "42782": {
+        "base_branch": "CMSSW_13_0_X", 
+        "changed_files_names": [
+            "Configuration/Eras/python/Modifier_run3_miniAOD_12X_cff.py", 
+            "Configuration/PyReleaseValidation/python/relval_standard.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
+            "Configuration/StandardSequences/python/Eras.py", 
+            "PhysicsTools/PatAlgos/python/slimming/applySubstructure_cff.py", 
+            "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py"
+        ], 
+        "created_at": 1694610846, 
+        "number": 42782, 
+        "state": "open", 
+        "updated_at": 1694610914
     }
 }
