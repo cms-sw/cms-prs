@@ -1234,29 +1234,6 @@
         "state": "open", 
         "updated_at": 1690204570
     }, 
-    "42246": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/ForwardDetId/interface/HGCalTriggerModuleDetId.h", 
-            "DataFormats/ForwardDetId/src/HGCalTriggerBackendDetId.cc", 
-            "DataFormats/L1THGCal/interface/HGCalTowerID.h", 
-            "DataFormats/L1THGCal/interface/HGCalTowerMap.h", 
-            "DataFormats/L1THGCal/src/HGCalTowerMap.cc", 
-            "L1Trigger/L1THGCal/interface/HGCalTriggerTowerGeometryHelper.h", 
-            "L1Trigger/L1THGCal/interface/backend/HGCalHistoSeedingImpl.h", 
-            "L1Trigger/L1THGCal/python/customHistoSeeding.py", 
-            "L1Trigger/L1THGCal/python/customTowers.py", 
-            "L1Trigger/L1THGCal/python/l1tHGCalBackEndLayer2Producer_cfi.py", 
-            "L1Trigger/L1THGCal/python/l1tHGCalTowerMapProducer_cfi.py", 
-            "L1Trigger/L1THGCal/src/HGCalTriggerTowerGeometryHelper.cc", 
-            "L1Trigger/L1THGCal/src/backend/HGCalHistoSeedingImpl.cc", 
-            "L1Trigger/L1THGCalUtilities/python/clustering3d.py"
-        ], 
-        "created_at": 1689162722, 
-        "number": 42246, 
-        "state": "open", 
-        "updated_at": 1694523481
-    }, 
     "42323": {
         "base_branch": "master", 
         "changed_files_names": [
