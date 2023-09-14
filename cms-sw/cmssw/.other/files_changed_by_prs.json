@@ -2378,6 +2378,8 @@
         "base_branch": "master", 
         "changed_files_names": [
             "Configuration/EventContent/python/EventContent_cff.py", 
+            "DQM/SiTrackerPhase2/plugins/Phase2ITMonitorCluster.cc", 
+            "DQM/SiTrackerPhase2/plugins/Phase2OTMonitorCluster.cc", 
             "DQMOffline/Configuration/python/autoDQM.py", 
             "DQMOffline/Trigger/python/DQMOffline_Trigger_cff.py", 
             "DQMOffline/Trigger/python/PrimaryVertexMonitoring_cff.py", 
@@ -2388,7 +2390,7 @@
         "created_at": 1694617434, 
         "number": 42783, 
         "state": "open", 
-        "updated_at": 1694674986
+        "updated_at": 1694698720
     }, 
     "42784": {
         "base_branch": "CMSSW_13_2_X", 
