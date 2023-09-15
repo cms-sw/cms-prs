@@ -2031,6 +2031,7 @@
     "42742": {
         "base_branch": "master", 
         "changed_files_names": [
+            "DQMOffline/Trigger/src/EgHLTTrigTools.cc", 
             "FWCore/Framework/test/unit_test_outputs/test_deepCall_unscheduled.log", 
             "FWCore/Integration/test/unit_test_outputs/testGetBy1.log", 
             "FWCore/Integration/test/unit_test_outputs/testGetBy2.log", 
@@ -2064,7 +2065,7 @@
         "created_at": 1694195757, 
         "number": 42742, 
         "state": "open", 
-        "updated_at": 1694712905
+        "updated_at": 1694778380
     }, 
     "42745": {
         "base_branch": "master", 
