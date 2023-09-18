@@ -2313,35 +2313,6 @@
         "state": "open", 
         "updated_at": 1694688297
     }, 
-    "42791": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "HLTrigger/Configuration/python/HLT_75e33/modules/L1TkEleDouble12Filter_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/L1TkEleSingle25Filter_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/L1TkEleSingle36Filter_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/L1TkEmDouble12Filter_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/L1TkEmDouble24Filter_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/L1TkEmSingle37Filter_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/L1TkEmSingle51Filter_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/L1TkIsoEleSingle22Filter_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/L1TkIsoEleSingle28Filter_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/L1TkIsoEmDouble12Filter_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/L1TkIsoEmSingle22Filter_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/L1TkIsoEmSingle36Filter_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltL1TEGammaHGCFilteredCollectionProducer_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/ticlSeedingL1_cfi.py", 
-            "HLTrigger/HLTfilters/plugins/L1TTkEleFilter.cc", 
-            "HLTrigger/HLTfilters/plugins/L1TTkEleFilter.h", 
-            "HLTrigger/HLTfilters/plugins/L1TTkEmFilter.cc", 
-            "HLTrigger/HLTfilters/plugins/L1TTkEmFilter.h", 
-            "RecoHGCal/TICL/plugins/SeedingRegionByL1.cc", 
-            "RecoHGCal/TICL/plugins/SeedingRegionByL1.h"
-        ], 
-        "created_at": 1694699981, 
-        "number": 42791, 
-        "state": "open", 
-        "updated_at": 1694702208
-    }, 
     "42792": {
         "base_branch": "CMSSW_13_1_X", 
         "changed_files_names": [
