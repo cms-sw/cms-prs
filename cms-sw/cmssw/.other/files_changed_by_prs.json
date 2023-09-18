@@ -1491,14 +1491,16 @@
             "CommonTools/Utils/interface/parser/ExpressionBinaryOperatorSetter.h", 
             "CommonTools/Utils/interface/parser/Grammar.h", 
             "CommonTools/Utils/test/testExpressionParser.cc", 
+            "Configuration/ProcessModifiers/python/egmCustomNano_cff.py", 
             "PhysicsTools/NanoAOD/python/egamma_custom_cff.py", 
             "PhysicsTools/NanoAOD/python/electrons_cff.py", 
+            "PhysicsTools/NanoAOD/python/nanoDQM_cff.py", 
             "PhysicsTools/NanoAOD/python/photons_cff.py"
         ], 
         "created_at": 1692382814, 
         "number": 42607, 
         "state": "open", 
-        "updated_at": 1692961433
+        "updated_at": 1695041157
     }, 
     "42619": {
         "base_branch": "CMSSW_13_2_X", 
