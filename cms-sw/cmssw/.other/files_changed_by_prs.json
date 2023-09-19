@@ -2088,27 +2088,6 @@
         "state": "open", 
         "updated_at": 1694889687
     }, 
-    "42745": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltIter2Phase2L3FromL1TkMuonCkfTrackCandidates_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltIter2Phase2L3FromL1TkMuonPixelSeedsFiltered_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/paths/HLT_IsoMu24_FromL1TkMuon_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/paths/HLT_Mu17_TrkIsoVVL_Mu8_TrkIsoVVL_DZ_FromL1TkMuon_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/paths/HLT_Mu37_Mu27_FromL1TkMuon_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/paths/HLT_Mu50_FromL1TkMuon_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/paths/HLT_TriMu_10_5_5_DZ_FromL1TkMuon_cfi.py", 
-            "RecoMuon/TrackerSeedGenerator/BuildFile.xml", 
-            "RecoMuon/TrackerSeedGenerator/interface/SeedMvaEstimatorPhase2.h", 
-            "RecoMuon/TrackerSeedGenerator/plugins/BuildFile.xml", 
-            "RecoMuon/TrackerSeedGenerator/plugins/MuonHLTSeedMVAClassifierPhase2.cc", 
-            "RecoMuon/TrackerSeedGenerator/src/SeedMvaEstimatorPhase2.cc"
-        ], 
-        "created_at": 1694414222, 
-        "number": 42745, 
-        "state": "open", 
-        "updated_at": 1695108871
-    }, 
     "42756": {
         "base_branch": "master", 
         "changed_files_names": [
