@@ -2194,35 +2194,6 @@
         "state": "open", 
         "updated_at": 1695040906
     }, 
-    "42798": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Calibration/LumiAlCaRecoProducers/test/test.sh", 
-            "CondCore/ESSources/test/TestConcurrentIOVsCondCore.sh", 
-            "CondTools/DT/test/DTReadOutMapping-O2OProcedure", 
-            "CondTools/Ecal/o2oTests/read_o2o.sh", 
-            "CondTools/RPC/test/writeL1RPCHwConfig2DB.csh", 
-            "DQM/SiStripMonitorClient/test/ReadMe.txt", 
-            "DQM/SiStripMonitorCluster/test/batch_mtcc.sh", 
-            "DQM/SiStripMonitorCluster/test/filter_mtcc.sh", 
-            "DQM/SiStripMonitorCluster/test/filter_mtcc_reprocessed.sh", 
-            "DQMServices/FwkIO/test/run_tests.sh", 
-            "IOPool/Common/test/TestEdmFastMerge.sh", 
-            "RecoJets/JetProducers/doc/html/jetSimuChain.html", 
-            "RecoLuminosity/LumiProducer/test/run_lumiProd.sh", 
-            "Validation/GlobalDigis/test/valid_global.csh", 
-            "Validation/GlobalHits/test/README", 
-            "Validation/GlobalHits/test/valid_global.csh", 
-            "Validation/GlobalRecHits/test/valid_global.csh", 
-            "Validation/Mixing/test/testsuite.csh", 
-            "Validation/Mixing/test/testsuite_SmartPointers.csh", 
-            "Validation/TrackerHits/test/README"
-        ], 
-        "created_at": 1694772819, 
-        "number": 42798, 
-        "state": "open", 
-        "updated_at": 1695103266
-    }, 
     "42803": {
         "base_branch": "master", 
         "changed_files_names": [
