@@ -3076,5 +3076,25 @@
         "number": 42817, 
         "state": "open", 
         "updated_at": 1695069658
+    }, 
+    "42818": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibCalorimetry/HcalTPGAlgos/interface/HcaluLUTTPGCoder.h", 
+            "CalibCalorimetry/HcalTPGAlgos/src/HcaluLUTTPGCoder.cc", 
+            "CalibFormats/HcalObjects/interface/HcalTPGCoder.h", 
+            "CalibFormats/HcalObjects/src/HcalTPGCoder.cc", 
+            "Geometry/HcalTowerAlgo/interface/HcalTrigTowerGeometry.h", 
+            "Geometry/HcalTowerAlgo/src/HcalTrigTowerGeometry.cc", 
+            "L1Trigger/L1TZDC/plugins/L1TZDCMapper.cc", 
+            "L1Trigger/L1TZDC/python/etSumZDCMapper_cfi.py", 
+            "L1Trigger/L1TZDC/python/etSumZDCProducer_cfi.py", 
+            "SimCalorimetry/HcalTrigPrimAlgos/interface/HcalTriggerPrimitiveAlgo.h", 
+            "SimCalorimetry/HcalTrigPrimAlgos/src/HcalTriggerPrimitiveAlgo.cc"
+        ], 
+        "created_at": 1695089883, 
+        "number": 42818, 
+        "state": "open", 
+        "updated_at": 1695089913
     }
 }
