@@ -3144,5 +3144,19 @@
         "number": 42827, 
         "state": "open", 
         "updated_at": 1695149854
+    }, 
+    "42829": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/interface/HGCalCellOffset.h", 
+            "Geometry/HGCalCommonData/src/HGCalCell.cc", 
+            "Geometry/HGCalCommonData/src/HGCalCellOffset.cc", 
+            "Geometry/HGCalCommonData/test/HGCalCellOffsetTester.cc", 
+            "Geometry/HGCalCommonData/test/python/testHGCalCellOffsetTester_cfg.py"
+        ], 
+        "created_at": 1695191658, 
+        "number": 42829, 
+        "state": "open", 
+        "updated_at": 1695191682
     }
 }
