@@ -3220,5 +3220,26 @@
         "number": 42840, 
         "state": "open", 
         "updated_at": 1695277218
+    }, 
+    "42841": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondTools/RunInfo/plugins/BuildFile.xml", 
+            "CondTools/RunInfo/plugins/LHCInfoAnalyzer.cc", 
+            "CondTools/RunInfo/plugins/LHCInfoPerFillAnalyzer.cc", 
+            "CondTools/RunInfo/plugins/LHCInfoPerLSCsvAnalyzer.cc", 
+            "CondTools/RunInfo/python/LHCInfoAnalyzer.py", 
+            "CondTools/RunInfo/python/LHCInfoMultianalyzer.sh", 
+            "CondTools/RunInfo/python/getIovList.sh", 
+            "CondTools/RunInfo/python/ppsLHCInfoComp.py", 
+            "CondTools/RunInfo/python/ppsLHCInfoOldPerLSComp.py", 
+            "CondTools/RunInfo/python/timestampFormat.py", 
+            "CondTools/RunInfo/test/LHCInfoPerFillAnalyzer_cfg.py", 
+            "CondTools/RunInfo/test/LHCInfoPerLSCsvAnalyzer_cfg.py"
+        ], 
+        "created_at": 1695284735, 
+        "number": 42841, 
+        "state": "open", 
+        "updated_at": 1695284757
     }
 }
