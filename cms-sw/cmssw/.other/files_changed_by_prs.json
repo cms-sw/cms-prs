@@ -3202,5 +3202,23 @@
         "number": 42839, 
         "state": "open", 
         "updated_at": 1695236194
+    }, 
+    "42840": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "L1Trigger/Configuration/python/L1Trigger_EventContent_cff.py", 
+            "L1Trigger/Configuration/python/SimL1Emulator_cff.py", 
+            "L1Trigger/L1CaloTrigger/plugins/BuildFile.xml", 
+            "L1Trigger/L1CaloTrigger/plugins/L1NNCaloTauEmulator.cc", 
+            "L1Trigger/L1CaloTrigger/plugins/L1NNCaloTauProducer.cc", 
+            "L1Trigger/L1CaloTrigger/python/l1tNNCaloTauEmulator_cff.py", 
+            "L1Trigger/L1CaloTrigger/python/l1tNNCaloTauEmulator_cfi.py", 
+            "L1Trigger/L1CaloTrigger/python/l1tNNCaloTauProducer_cff.py", 
+            "L1Trigger/L1CaloTrigger/python/l1tNNCaloTauProducer_cfi.py"
+        ], 
+        "created_at": 1695277193, 
+        "number": 42840, 
+        "state": "open", 
+        "updated_at": 1695277218
     }
 }
