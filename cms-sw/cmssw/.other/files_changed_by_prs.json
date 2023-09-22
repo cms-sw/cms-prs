@@ -3240,5 +3240,16 @@
         "number": 42841, 
         "state": "open", 
         "updated_at": 1695284757
+    }, 
+    "42844": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "EventFilter/EcalRawToDigi/plugins/EcalCPUDigisProducer.cc", 
+            "EventFilter/EcalRawToDigi/python/ecalDigis_cff.py"
+        ], 
+        "created_at": 1695371054, 
+        "number": 42844, 
+        "state": "open", 
+        "updated_at": 1695371081
     }
 }
