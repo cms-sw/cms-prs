@@ -2642,5 +2642,19 @@
         "number": 42859, 
         "state": "open", 
         "updated_at": 1695652411
+    }, 
+    "42860": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoLocalCalo/EcalRecProducers/plugins/EcalRecHitProducer.cc", 
+            "RecoLocalCalo/EcalRecProducers/plugins/EcalRecHitWorkerSimple.cc", 
+            "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitProducerGPU.cc", 
+            "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitWorkerGlobal.cc", 
+            "RecoLocalCalo/EcalRecProducers/python/ecalRecHit_cfi.py"
+        ], 
+        "created_at": 1695664887, 
+        "number": 42860, 
+        "state": "open", 
+        "updated_at": 1695664912
     }
 }
