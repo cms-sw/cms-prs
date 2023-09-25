@@ -2509,12 +2509,13 @@
         "base_branch": "master", 
         "changed_files_names": [
             "CondTools/RunInfo/plugins/LHCInfoPerFillPopConAnalyzer.cc", 
-            "CondTools/RunInfo/plugins/LHCInfoPerLSPopConAnalyzer.cc"
+            "CondTools/RunInfo/plugins/LHCInfoPerLSPopConAnalyzer.cc", 
+            "CondTools/RunInfo/test/test_lhcInfoNewPopCon.sh"
         ], 
         "created_at": 1695235840, 
         "number": 42837, 
         "state": "open", 
-        "updated_at": 1695235862
+        "updated_at": 1695638032
     }, 
     "42838": {
         "base_branch": "master", 
