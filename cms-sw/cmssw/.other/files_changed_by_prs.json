@@ -1451,9 +1451,10 @@
             "SimDataFormats/Associations/src/classes.h", 
             "SimDataFormats/Associations/src/classes_def.xml", 
             "SimDataFormats/Track/BuildFile.xml", 
+            "SimDataFormats/TrackingAnalysis/interface/UniqueSimTrackId.h", 
             "SimDataFormats/Track/interface/UniqueSimTrackId.h", 
-            "SimDataFormats/Track/src/classes.h", 
-            "SimDataFormats/Track/src/classes_def.xml", 
+            "SimDataFormats/TrackingAnalysis/src/classes.h", 
+            "SimDataFormats/TrackingAnalysis/src/classes_def.xml", 
             "SimGeneral/TrackingAnalysis/plugins/SimHitTPAssociationProducer.cc", 
             "SimTracker/Configuration/python/SimTracker_EventContent_cff.py", 
             "Validation/Configuration/python/hgcalSimValid_cff.py"
@@ -1461,7 +1462,7 @@
         "created_at": 1691564847, 
         "number": 42518, 
         "state": "open", 
-        "updated_at": 1695191854
+        "updated_at": 1695743563
     }, 
     "42594": {
         "base_branch": "master", 
