@@ -1456,12 +1456,14 @@
             "SimDataFormats/TrackingAnalysis/src/classes_def.xml", 
             "SimGeneral/TrackingAnalysis/plugins/SimHitTPAssociationProducer.cc", 
             "SimTracker/Configuration/python/SimTracker_EventContent_cff.py", 
+            "SimTracker/TrackAssociation/plugins/DigiSimLinkPruner.cc", 
+            "SimTracker/TrackerHitAssociation/plugins/ClusterTPAssociationProducer.cc", 
             "Validation/Configuration/python/hgcalSimValid_cff.py"
         ], 
         "created_at": 1691564847, 
         "number": 42518, 
         "state": "open", 
-        "updated_at": 1695747273
+        "updated_at": 1695751537
     }, 
     "42594": {
         "base_branch": "master", 
