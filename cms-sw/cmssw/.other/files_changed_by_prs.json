@@ -2728,5 +2728,39 @@
         "number": 42889, 
         "state": "open", 
         "updated_at": 1695817247
+    }, 
+    "42890": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibPPS/ESProducers/plugins/CTPPSBeamParametersFromLHCInfoESSource.cc", 
+            "CalibPPS/ESProducers/plugins/CTPPSInterpolatedOpticalFunctionsESSource.cc", 
+            "CalibPPS/ESProducers/python/ctppsBeamParametersFromLHCInfoESSource_cff.py", 
+            "CalibPPS/ESProducers/python/ctppsInterpolatedOpticalFunctionsESSource_cff.py", 
+            "CondFormats/DataRecord/interface/CTPPSBeamParametersRcd.h", 
+            "CondTools/RunInfo/interface/LHCInfoCombined.h", 
+            "CondTools/RunInfo/src/LHCInfoCombined.cc", 
+            "Configuration/Eras/python/Era_Run3_CTPPS_directSim_cff.py", 
+            "Configuration/Eras/python/Modifier_run3_directSim_cff.py", 
+            "RecoPPS/ProtonReconstruction/plugins/CTPPSProtonProducer.cc", 
+            "RecoPPS/ProtonReconstruction/python/ctppsProtons_cff.py", 
+            "SimPPS/DirectSimProducer/python/ppsDirectProtonSimulation_cff.py", 
+            "SimTransport/PPSProtonTransport/python/PPSTransportESSources_cfi.py", 
+            "Validation/CTPPS/plugins/CTPPSHepMCDistributionPlotter.cc", 
+            "Validation/CTPPS/plugins/CTPPSLHCInfoPlotter.cc", 
+            "Validation/CTPPS/plugins/CTPPSProtonReconstructionEfficiencyEstimatorData.cc", 
+            "Validation/CTPPS/plugins/CTPPSProtonReconstructionEfficiencyEstimatorMC.cc", 
+            "Validation/CTPPS/plugins/CTPPSProtonReconstructionSimulationValidator.cc", 
+            "Validation/CTPPS/python/ctppsHepMCDistributionPlotter_cff.py", 
+            "Validation/CTPPS/python/ctppsLHCInfoPlotter_cff.py", 
+            "Validation/CTPPS/python/ctppsProtonReconstructionEfficiencyEstimatorData_cff.py", 
+            "Validation/CTPPS/python/ctppsProtonReconstructionEfficiencyEstimatorMC_cff.py", 
+            "Validation/CTPPS/python/ctppsProtonReconstructionSimulationValidator_cff.py", 
+            "Validation/CTPPS/test/simu/run_multiple", 
+            "Validation/CTPPS/test/simu/template_cfg.py"
+        ], 
+        "created_at": 1695819235, 
+        "number": 42890, 
+        "state": "open", 
+        "updated_at": 1695819258
     }
 }
