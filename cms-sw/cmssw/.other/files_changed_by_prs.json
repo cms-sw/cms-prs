@@ -1751,9 +1751,11 @@
             "FWCore/Framework/bin/cmsRun.cpp", 
             "FWCore/Framework/test/BuildFile.xml", 
             "FWCore/Framework/test/eventprocessor_t.cppunit.cc", 
+            "FWCore/Framework/test/help_cmsRun_tests.sh", 
             "FWCore/Framework/test/run_XMLException.sh", 
             "FWCore/Framework/test/run_cmsRun_argparse.sh", 
             "FWCore/Framework/test/run_cmsRun_argv.sh", 
+            "FWCore/Framework/test/run_cmsRun_parser.sh", 
             "FWCore/Framework/test/run_cmsRun_varparsing.sh", 
             "FWCore/Framework/test/run_testOptions.sh", 
             "FWCore/Framework/test/run_wrongOptionsType.sh", 
@@ -1890,7 +1892,7 @@
         "created_at": 1692815341, 
         "number": 42650, 
         "state": "open", 
-        "updated_at": 1695121810
+        "updated_at": 1695820785
     }, 
     "42663": {
         "base_branch": "master", 
