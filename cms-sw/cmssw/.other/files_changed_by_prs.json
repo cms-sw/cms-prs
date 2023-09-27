@@ -2768,12 +2768,13 @@
     "42891": {
         "base_branch": "master", 
         "changed_files_names": [
-            "Configuration/DataProcessing/python/Impl/ppEra_Run3_2023_repacked.py"
+            "Configuration/DataProcessing/python/Impl/ppEra_Run3_2023_repacked.py", 
+            "Configuration/DataProcessing/test/run_CfgTest.sh"
         ], 
         "created_at": 1695819448, 
         "number": 42891, 
         "state": "open", 
-        "updated_at": 1695819475
+        "updated_at": 1695824318
     }, 
     "42892": {
         "base_branch": "CMSSW_13_2_X", 
