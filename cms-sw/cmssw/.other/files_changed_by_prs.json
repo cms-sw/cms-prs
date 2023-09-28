@@ -2626,12 +2626,13 @@
         "base_branch": "master", 
         "changed_files_names": [
             "DQM/Integration/python/clients/sistrip_approx_dqm_sourceclient-live_cfg.py", 
+            "DQM/Integration/python/clients/sistrip_dqm_sourceclient-live_cfg.py", 
             "DQM/SiStripMonitorApproximateCluster/plugins/SiStripMonitorApproximateCluster.cc"
         ], 
         "created_at": 1695794507, 
         "number": 42881, 
         "state": "open", 
-        "updated_at": 1695885468
+        "updated_at": 1695890338
     }, 
     "42882": {
         "base_branch": "CMSSW_13_2_X", 
