@@ -2625,26 +2625,13 @@
     "42881": {
         "base_branch": "master", 
         "changed_files_names": [
-            "CondTools/RunInfo/plugins/BuildFile.xml", 
-            "Configuration/DataProcessing/python/Impl/ppEra_Run3_2023_repacked.py", 
-            "Configuration/DataProcessing/test/run_CfgTest.sh", 
-            "Configuration/EventContent/python/EventContent_cff.py", 
-            "DQM/EcalMonitorTasks/interface/EcalDQMonitorTask.h", 
-            "DQM/EcalMonitorTasks/interface/GpuTask.h", 
-            "DQM/EcalMonitorTasks/plugins/EcalDQMonitorTask.cc", 
-            "DQM/EcalMonitorTasks/plugins/EcalDQMonitorTask2.cc", 
-            "DQM/EcalMonitorTasks/python/EcalMonitorTask_cfi.py", 
-            "DQM/EcalMonitorTasks/python/ecalGpuTask_cfi.py", 
-            "DQM/EcalMonitorTasks/src/GpuTask.cc", 
             "DQM/Integration/python/clients/sistrip_approx_dqm_sourceclient-live_cfg.py", 
-            "DQM/SiStripMonitorApproximateCluster/plugins/SiStripMonitorApproximateCluster.cc", 
-            "DQMOffline/Ecal/python/ecal_dqm_source_offline_cff.py", 
-            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.cu"
+            "DQM/SiStripMonitorApproximateCluster/plugins/SiStripMonitorApproximateCluster.cc"
         ], 
         "created_at": 1695794507, 
         "number": 42881, 
         "state": "open", 
-        "updated_at": 1695882421
+        "updated_at": 1695882724
     }, 
     "42882": {
         "base_branch": "CMSSW_13_2_X", 
