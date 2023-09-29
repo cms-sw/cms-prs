@@ -2814,5 +2814,17 @@
         "number": 42915, 
         "state": "open", 
         "updated_at": 1695993479
+    }, 
+    "42916": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoLocalCalo/HcalRecAlgos/interface/HcalMahiPulseOffsetsGPU.h", 
+            "RecoLocalCalo/HcalRecAlgos/src/HcalMahiPulseOffsetsGPU.cc", 
+            "RecoLocalCalo/HcalRecProducers/src/HcalMahiPulseOffsetsGPUESProducer.cc"
+        ], 
+        "created_at": 1695995153, 
+        "number": 42916, 
+        "state": "open", 
+        "updated_at": 1695995174
     }
 }
