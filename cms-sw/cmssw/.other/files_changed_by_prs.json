@@ -2145,16 +2145,19 @@
             "CalibFormats/HcalObjects/src/HcalTPGCoder.cc", 
             "Geometry/HcalTowerAlgo/interface/HcalTrigTowerGeometry.h", 
             "Geometry/HcalTowerAlgo/src/HcalTrigTowerGeometry.cc", 
-            "L1Trigger/L1TZDC/plugins/L1TZDCMapper.cc", 
-            "L1Trigger/L1TZDC/python/etSumZDCMapper_cfi.py", 
-            "L1Trigger/L1TZDC/python/etSumZDCProducer_cfi.py", 
+            "L1Trigger/L1TZDC/plugins/L1TZDCProducer.cc", 
+            "L1Trigger/L1TZDC/python/etSumZdcAnalyzer_cfi.py", 
+            "L1Trigger/L1TZDC/python/etSumZdcProducer_cfi.py", 
+            "L1Trigger/L1TZDC/test/L1TZDCProducerV1.cc", 
+            "L1Trigger/L1TZDC/test/README", 
+            "L1Trigger/L1TZDC/test/etSumZDCProducerV1_cfi.py", 
             "SimCalorimetry/HcalTrigPrimAlgos/interface/HcalTriggerPrimitiveAlgo.h", 
             "SimCalorimetry/HcalTrigPrimAlgos/src/HcalTriggerPrimitiveAlgo.cc"
         ], 
         "created_at": 1695089883, 
         "number": 42818, 
         "state": "open", 
-        "updated_at": 1695809310
+        "updated_at": 1696004765
     }, 
     "42820": {
         "base_branch": "master", 
