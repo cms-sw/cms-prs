@@ -2845,5 +2845,18 @@
         "number": 42926, 
         "state": "open", 
         "updated_at": 1696235140
+    }, 
+    "42928": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/Eras/python/Era_Run3_cff.py", 
+            "Configuration/Eras/python/Modifier_run3_ecal_cff.py", 
+            "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitWorkerMultiFit.cc", 
+            "RecoLocalCalo/EcalRecProducers/python/ecalMultiFitUncalibRecHit_cfi.py"
+        ], 
+        "created_at": 1696247506, 
+        "number": 42928, 
+        "state": "open", 
+        "updated_at": 1696247527
     }
 }
