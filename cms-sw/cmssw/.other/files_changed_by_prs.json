@@ -2397,20 +2397,6 @@
         "state": "open", 
         "updated_at": 1695642580
     }, 
-    "42861": {
-        "base_branch": "CMSSW_13_2_X", 
-        "changed_files_names": [
-            "RecoLocalCalo/EcalRecProducers/plugins/EcalRecHitProducer.cc", 
-            "RecoLocalCalo/EcalRecProducers/plugins/EcalRecHitWorkerSimple.cc", 
-            "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitProducerGPU.cc", 
-            "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitWorkerGlobal.cc", 
-            "RecoLocalCalo/EcalRecProducers/python/ecalRecHit_cfi.py"
-        ], 
-        "created_at": 1695667734, 
-        "number": 42861, 
-        "state": "open", 
-        "updated_at": 1695817510
-    }, 
     "42868": {
         "base_branch": "CMSSW_13_1_X", 
         "changed_files_names": [
