@@ -1739,20 +1739,24 @@
     "42650": {
         "base_branch": "master", 
         "changed_files_names": [
+            "FWCore/Framework/BuildFile.xml", 
             "FWCore/Framework/bin/cmsRun.cpp", 
+            "FWCore/Framework/interface/CmsRunParser.h", 
+            "FWCore/Framework/src/CmsRunParser.cc", 
             "FWCore/Framework/test/BuildFile.xml", 
             "FWCore/Framework/test/eventprocessor_t.cppunit.cc", 
             "FWCore/Framework/test/help_cmsRun_tests.sh", 
             "FWCore/Framework/test/run_XMLException.sh", 
             "FWCore/Framework/test/run_cmsRun_argparse.sh", 
             "FWCore/Framework/test/run_cmsRun_argv.sh", 
-            "FWCore/Framework/test/run_cmsRun_parser.sh", 
+            "FWCore/Framework/test/run_cmsRun_parsing.sh", 
             "FWCore/Framework/test/run_cmsRun_varparsing.sh", 
             "FWCore/Framework/test/run_testOptions.sh", 
             "FWCore/Framework/test/run_wrongOptionsType.sh", 
             "FWCore/Framework/test/test_argparse.py", 
             "FWCore/Framework/test/test_argv.py", 
             "FWCore/Framework/test/test_bad_schedule_exception_message_cfg.py", 
+            "FWCore/Framework/test/test_catch2_CmsRunParser.cc", 
             "FWCore/Framework/test/test_conditionaltasks_cfg.py", 
             "FWCore/Framework/test/test_get_by_type_cfg.py", 
             "FWCore/Framework/test/test_varparsing.py", 
@@ -1883,7 +1887,7 @@
         "created_at": 1692815341, 
         "number": 42650, 
         "state": "open", 
-        "updated_at": 1695841605
+        "updated_at": 1696315872
     }, 
     "42663": {
         "base_branch": "master", 
