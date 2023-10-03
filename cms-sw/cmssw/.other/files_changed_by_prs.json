@@ -2900,5 +2900,17 @@
         "number": 42936, 
         "state": "open", 
         "updated_at": 1696333979
+    }, 
+    "42937": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQMOffline/Trigger/python/BTaggingMonitor_cfi.py", 
+            "HLTrigger/Configuration/python/HLTrigger_EventContent_cff.py", 
+            "RecoBTag/Configuration/python/RecoBTag_cff.py"
+        ], 
+        "created_at": 1696334967, 
+        "number": 42937, 
+        "state": "open", 
+        "updated_at": 1696334994
     }
 }
