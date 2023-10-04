@@ -2743,5 +2743,20 @@
         "number": 42941, 
         "state": "open", 
         "updated_at": 1696401841
+    }, 
+    "42942": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/DataProcessing/python/Impl/ppEra_Run3_2023_repacked.py", 
+            "Configuration/Eras/python/Era_Run3_2023_ZDC_cff.py", 
+            "Configuration/ProcessModifiers/python/storeZDCDigis_cff.py", 
+            "Configuration/StandardSequences/python/Eras.py", 
+            "PhysicsTools/PatAlgos/python/slimming/MicroEventContent_cff.py", 
+            "RecoLocalCalo/Configuration/python/RecoLocalCalo_EventContent_cff.py"
+        ], 
+        "created_at": 1696409715, 
+        "number": 42942, 
+        "state": "open", 
+        "updated_at": 1696409743
     }
 }
