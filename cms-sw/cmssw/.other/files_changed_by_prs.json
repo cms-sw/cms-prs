@@ -2158,6 +2158,7 @@
             "DQMOffline/Trigger/test/testHLTFiltersDQMonitor_cfg.py", 
             "DQMServices/StreamerIO/test/DQMStreamerOutputRepackerTest_cfg.py", 
             "DataFormats/Common/test/test_readTriggerResults_cfg.py", 
+            "DataFormats/DetId/test/test_readVectorDetId_cfg.py", 
             "DataFormats/FEDRawData/test/test_readFEDRawDataCollection_cfg.py", 
             "DataFormats/HLTReco/test/test_readTriggerEvent_cfg.py", 
             "DataFormats/L1TGlobal/test/test_readGlobalObjectMapRecord_cfg.py", 
@@ -2165,6 +2166,7 @@
             "DataFormats/Scouting/test/TestRun3ScoutingFormats.sh", 
             "DataFormats/Scouting/test/test_readRun2Scouting_cfg.py", 
             "DataFormats/Scouting/test/test_readRun3Scouting_cfg.py", 
+            "DataFormats/SiStripCluster/test/test_readSiStripApproximateClusterCollection_cfg.py", 
             "GeneratorInterface/Core/test/test_FailingGeneratorFilter_cfg.py", 
             "GeneratorInterface/LHEInterface/test/testMerge_cfg.py", 
             "GeneratorInterface/LHEInterface/test/testNoMerge_cfg.py", 
@@ -2213,7 +2215,7 @@
         "created_at": 1695119214, 
         "number": 42823, 
         "state": "open", 
-        "updated_at": 1695753654
+        "updated_at": 1696440147
     }, 
     "42825": {
         "base_branch": "master", 
