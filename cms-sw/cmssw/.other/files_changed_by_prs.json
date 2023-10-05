@@ -2349,23 +2349,6 @@
         "state": "open", 
         "updated_at": 1695801983
     }, 
-    "42879": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibPPS/ESProducers/plugins/WriteTotemDAQMapping.cc", 
-            "CalibPPS/ESProducers/test/script_test_many_writeTotemDAQMapping.py", 
-            "CalibPPS/ESProducers/test/test_printTotemDAQMapping.py", 
-            "CalibPPS/ESProducers/test/test_writeTotemDAQMapping.py", 
-            "CondTools/CTPPS/plugins/WriteCTPPSTotemDAQMappingMask.cc", 
-            "CondTools/CTPPS/python/mappings_PPSObjects_XML_cfi.py", 
-            "CondTools/CTPPS/test/script-ctpps-write-many-XML-to-SQLite.py", 
-            "CondTools/CTPPS/test/test_XML_to_SQLite_mapping.sh"
-        ], 
-        "created_at": 1695769440, 
-        "number": 42879, 
-        "state": "open", 
-        "updated_at": 1695801825
-    }, 
     "42880": {
         "base_branch": "master", 
         "changed_files_names": [
