@@ -2847,5 +2847,17 @@
         "number": 42965, 
         "state": "open", 
         "updated_at": 1696678337
+    }, 
+    "42966": {
+        "base_branch": "CMSSW_13_2_X", 
+        "changed_files_names": [
+            "Alignment/CommonAlignmentProducer/python/ALCARECOTkAlMinBias_cff.py", 
+            "Calibration/TkAlCaRecoProducers/python/ALCARECOSiStripCalMinBias_cff.py", 
+            "HLTrigger/HLTfilters/plugins/TriggerResultsFilterFromDB.cc"
+        ], 
+        "created_at": 1696678321, 
+        "number": 42966, 
+        "state": "open", 
+        "updated_at": 1696678346
     }
 }
