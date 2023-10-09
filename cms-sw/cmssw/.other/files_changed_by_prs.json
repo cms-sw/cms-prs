@@ -2888,5 +2888,24 @@
         "number": 42968, 
         "state": "open", 
         "updated_at": 1696831028
+    }, 
+    "42969": {
+        "base_branch": "CMSSW_13_2_X", 
+        "changed_files_names": [
+            "HLTrigger/Configuration/scripts/hltPrintMenuVersions", 
+            "HLTrigger/Configuration/scripts/utils/.gitignore", 
+            "HLTrigger/Configuration/scripts/utils/hltListPathsWithoutOwners", 
+            "HLTrigger/Configuration/scripts/utils/hltMenuContentToCSVs", 
+            "HLTrigger/Configuration/scripts/utils/hltPathOwners.json", 
+            "HLTrigger/Configuration/scripts/utils/readme.md", 
+            "HLTrigger/Configuration/test/.gitignore", 
+            "HLTrigger/Configuration/test/BuildFile.xml", 
+            "HLTrigger/Configuration/test/test_hltMenuContentToCSVs.sh", 
+            "HLTrigger/Configuration/test/test_hltPrintMenuVersions.sh"
+        ], 
+        "created_at": 1696835270, 
+        "number": 42969, 
+        "state": "open", 
+        "updated_at": 1696835294
     }
 }
