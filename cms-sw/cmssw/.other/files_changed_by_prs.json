@@ -2657,40 +2657,6 @@
         "state": "open", 
         "updated_at": 1696350447
     }, 
-    "42943": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/GlobalRuns/python/reco_TLR_35X.py", 
-            "Configuration/GlobalRuns/python/reco_TLR_36X.py", 
-            "Configuration/GlobalRuns/python/reco_TLR_37X.py", 
-            "Configuration/GlobalRuns/python/reco_TLR_38X.py", 
-            "DQM/Integration/python/clients/pixel_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/sistrip_dqm_sourceclient-live_cfg.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltIter2Phase2L3FromL1TkMuonPixelClusterCheck_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/trackerClusterCheck_cfi.py", 
-            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
-            "HLTrigger/special/test/test_CosmicsFilters_cfg.py", 
-            "RecoHI/HiTracking/python/hiPixelPairStep_cff.py", 
-            "RecoTracker/Configuration/python/RecoTrackerTopBottom_cff.py", 
-            "RecoTracker/ConversionSeedGenerators/python/PhotonConversionTrajectorySeedProducerFromQuadruplets_cfi.py", 
-            "RecoTracker/ConversionSeedGenerators/python/PhotonConversionTrajectorySeedProducerFromSingleLeg_cfi.py", 
-            "RecoTracker/SpecialSeedGenerators/python/CombinatorialSeedGeneratorForBeamHalo_cfi.py", 
-            "RecoTracker/SpecialSeedGenerators/python/CombinatorialSeedGeneratorForCosmicsRegionalReconstruction_cfi.py", 
-            "RecoTracker/SpecialSeedGenerators/python/CombinatorialSeedGeneratorForCosmics_cfi.py", 
-            "RecoTracker/SpecialSeedGenerators/python/CosmicSeed_cfi.py", 
-            "RecoTracker/SpecialSeedGenerators/python/SimpleCosmicBONSeeder_cfi.py", 
-            "RecoTracker/TkSeedGenerator/interface/ClusterChecker.h", 
-            "RecoTracker/TkSeedGenerator/python/GlobalPixelLessSeeds_cff.py", 
-            "RecoTracker/TkSeedGenerator/python/SeedGeneratorFromRegionHitsEDProducer_cfi.py", 
-            "RecoTracker/TkSeedGenerator/python/trackerClusterCheck_cfi.py", 
-            "RecoTracker/TkSeedGenerator/src/ClusterChecker.cc", 
-            "SimGeneral/DataMixingModule/python/supplementary/recoT0DQM_EvContent_40T_digiOnly_cfg.py"
-        ], 
-        "created_at": 1696410301, 
-        "number": 42943, 
-        "state": "open", 
-        "updated_at": 1696410321
-    }, 
     "42946": {
         "base_branch": "CMSSW_13_2_X", 
         "changed_files_names": [
