@@ -2326,21 +2326,6 @@
         "state": "open", 
         "updated_at": 1695642580
     }, 
-    "42875": {
-        "base_branch": "CMSSW_13_2_X", 
-        "changed_files_names": [
-            "CondTools/RunInfo/interface/LHCInfoPopConSourceHandler.h", 
-            "CondTools/RunInfo/plugins/LHCInfoPerFillPopConAnalyzer.cc", 
-            "CondTools/RunInfo/plugins/LHCInfoPerLSPopConAnalyzer.cc", 
-            "CondTools/RunInfo/src/LHCInfoPopConSourceHandler.cc", 
-            "CondTools/RunInfo/test/summarizePerLSPopConValidityLogs.sh", 
-            "CondTools/RunInfo/test/test_lhcInfoNewPopCon.sh"
-        ], 
-        "created_at": 1695737394, 
-        "number": 42875, 
-        "state": "open", 
-        "updated_at": 1695801983
-    }, 
     "42887": {
         "base_branch": "CMSSW_13_2_X", 
         "changed_files_names": [
