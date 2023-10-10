@@ -2203,24 +2203,6 @@
         "state": "open", 
         "updated_at": 1695758175
     }, 
-    "42827": {
-        "base_branch": "CMSSW_13_1_X", 
-        "changed_files_names": [
-            "Configuration/EventContent/python/EventContent_cff.py", 
-            "DQM/SiTrackerPhase2/plugins/Phase2ITMonitorCluster.cc", 
-            "DQM/SiTrackerPhase2/plugins/Phase2OTMonitorCluster.cc", 
-            "DQMOffline/Configuration/python/autoDQM.py", 
-            "DQMOffline/Trigger/python/DQMOffline_Trigger_cff.py", 
-            "DQMOffline/Trigger/python/PrimaryVertexMonitoring_cff.py", 
-            "DQMOffline/Trigger/python/SiTrackerPhase2_OfflineMonitoring_cff.py", 
-            "DQMOffline/Trigger/python/TrackToTrackMonitoring_cff.py", 
-            "DQMOffline/Trigger/python/TrackingMonitoring_cff.py"
-        ], 
-        "created_at": 1695149829, 
-        "number": 42827, 
-        "state": "open", 
-        "updated_at": 1695842507
-    }, 
     "42840": {
         "base_branch": "master", 
         "changed_files_names": [
