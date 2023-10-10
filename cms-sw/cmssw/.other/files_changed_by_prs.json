@@ -2660,5 +2660,17 @@
         "number": 42971, 
         "state": "open", 
         "updated_at": 1696929485
+    }, 
+    "42972": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Alignment/OfflineValidation/bin/PVmerge.cc", 
+            "Alignment/OfflineValidation/macros/FitPVResiduals.C", 
+            "Alignment/OfflineValidation/python/TkAlAllInOneTool/primaryVertexValidationTemplates.py"
+        ], 
+        "created_at": 1696935635, 
+        "number": 42972, 
+        "state": "open", 
+        "updated_at": 1696935656
     }
 }
