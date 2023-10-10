@@ -2041,8 +2041,6 @@
             "CalibFormats/HcalObjects/src/HcalTPGCoder.cc", 
             "CaloOnlineTools/HcalOnlineDb/interface/HcalLutManager.h", 
             "CaloOnlineTools/HcalOnlineDb/src/HcalLutManager.cc", 
-            "DataFormats/HcalDetId/interface/HcalZDCDetId.h", 
-            "DataFormats/HcalDetId/src/HcalZDCDetId.cc", 
             "Geometry/HcalTowerAlgo/interface/HcalTrigTowerGeometry.h", 
             "Geometry/HcalTowerAlgo/src/HcalTrigTowerGeometry.cc", 
             "L1Trigger/L1TZDC/plugins/L1TZDCProducer.cc", 
@@ -2057,7 +2055,7 @@
         "created_at": 1695089883, 
         "number": 42818, 
         "state": "open", 
-        "updated_at": 1696585627
+        "updated_at": 1696961025
     }, 
     "42823": {
         "base_branch": "master", 
