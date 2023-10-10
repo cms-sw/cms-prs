@@ -2357,31 +2357,6 @@
         "state": "open", 
         "updated_at": 1695903114
     }, 
-    "42907": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "Configuration/Generator/python/DYToLL01234Jets_5FS_TuneCH3_13TeV_madgraphMLM_herwig7_cff.py", 
-            "Configuration/Generator/python/DYToLL012Jets_5FS_TuneCH3_13TeV_amcatnloFxFx_herwig7_cff.py", 
-            "Configuration/Generator/python/DYToll01234Jets_5f_LO_MLM_Madgraph_LHE_13TeV_cff.py", 
-            "Configuration/Generator/python/Herwig7Settings/Herwig7LHECommonSettings_cfi.py", 
-            "Configuration/Generator/python/Herwig7Settings/Herwig7MGMergingSettings_cfi.py", 
-            "Configuration/Generator/python/TT_13TeV_Pow_Herwig7_cff.py", 
-            "Configuration/Generator/python/TTbar_Pow_LHE_13TeV_cff.py", 
-            "GeneratorInterface/Herwig7Interface/plugins/Herwig7Hadronizer.cc", 
-            "GeneratorInterface/LHEInterface/interface/LHEEvent.h", 
-            "GeneratorInterface/LHEInterface/plugins/ExternalLHEProducer.cc", 
-            "GeneratorInterface/LHEInterface/scripts/addLHEnumbers.py", 
-            "GeneratorInterface/LHEInterface/scripts/mergeLHE.py", 
-            "GeneratorInterface/LHEInterface/src/LHEEvent.cc", 
-            "GeneratorInterface/LHEInterface/src/LHEReader.cc", 
-            "SimDataFormats/GeneratorProducts/interface/LHEEventProduct.h", 
-            "SimDataFormats/GeneratorProducts/src/classes_def.xml"
-        ], 
-        "created_at": 1695905009, 
-        "number": 42907, 
-        "state": "open", 
-        "updated_at": 1695905030
-    }, 
     "42917": {
         "base_branch": "master", 
         "changed_files_names": [
