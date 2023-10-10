@@ -2648,5 +2648,17 @@
         "number": 42970, 
         "state": "open", 
         "updated_at": 1696876545
+    }, 
+    "42971": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Alignment/OfflineValidation/plugins/DiMuonVertexValidation.cc", 
+            "Alignment/OfflineValidation/test/DiMuonVertexValidation_cfg.py", 
+            "DQMOffline/Alignment/src/DiMuonVertexMonitor.cc"
+        ], 
+        "created_at": 1696929456, 
+        "number": 42971, 
+        "state": "open", 
+        "updated_at": 1696929485
     }
 }
