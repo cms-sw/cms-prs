@@ -2671,5 +2671,20 @@
         "number": 42972, 
         "state": "open", 
         "updated_at": 1696936445
+    }, 
+    "42973": {
+        "base_branch": "CMSSW_13_2_X", 
+        "changed_files_names": [
+            "Alignment/OfflineValidation/plugins/DiMuonVertexValidation.cc", 
+            "Alignment/OfflineValidation/test/DiMuonVertexValidation_cfg.py", 
+            "DQMOffline/Alignment/interface/DiMuonVertexMonitor.h", 
+            "DQMOffline/Alignment/python/ALCARECOTkAlDQM_cff.py", 
+            "DQMOffline/Alignment/python/DiMuonVertexMonitor_cfi.py", 
+            "DQMOffline/Alignment/src/DiMuonVertexMonitor.cc"
+        ], 
+        "created_at": 1696937570, 
+        "number": 42973, 
+        "state": "open", 
+        "updated_at": 1696937598
     }
 }
