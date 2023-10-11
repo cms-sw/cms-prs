@@ -2639,5 +2639,20 @@
         "number": 42981, 
         "state": "open", 
         "updated_at": 1697008680
+    }, 
+    "42982": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h", 
+            "SimG4CMS/Calo/interface/HGCalSD.h", 
+            "SimG4CMS/Calo/src/CaloSD.cc", 
+            "SimG4CMS/Calo/src/HGCalSD.cc", 
+            "SimG4CMS/Calo/test/python/runHGC1_cfg.py", 
+            "SimG4Core/Application/plugins/OscarMTProducer.cc"
+        ], 
+        "created_at": 1697010443, 
+        "number": 42982, 
+        "state": "open", 
+        "updated_at": 1697010465
     }
 }
