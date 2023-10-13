@@ -2426,5 +2426,17 @@
         "number": 43011, 
         "state": "open", 
         "updated_at": 1697165674
+    }, 
+    "43012": {
+        "base_branch": "CMSSW_13_2_X", 
+        "changed_files_names": [
+            "EventFilter/HcalRawToDigi/interface/AMC13Header.h", 
+            "EventFilter/HcalRawToDigi/interface/HcalUHTRData.h", 
+            "EventFilter/HcalRawToDigi/src/HcalUnpacker.cc"
+        ], 
+        "created_at": 1697166009, 
+        "number": 43012, 
+        "state": "open", 
+        "updated_at": 1697166036
     }
 }
