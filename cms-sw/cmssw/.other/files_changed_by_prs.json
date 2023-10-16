@@ -1914,32 +1914,6 @@
         "state": "open", 
         "updated_at": 1695639746
     }, 
-    "42856": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "L1Trigger/L1THGCal/interface/HGCalTriggerGeometryBase.h", 
-            "L1Trigger/L1THGCal/interface/HGCalVFECompressionImpl.h", 
-            "L1Trigger/L1THGCal/interface/backend/HGCalStage1TruncationImpl_SA.h", 
-            "L1Trigger/L1THGCal/plugins/geometries/HGCalTriggerGeometryV9Imp2.cc", 
-            "L1Trigger/L1THGCal/plugins/geometries/HGCalTriggerGeometryV9Imp3.cc", 
-            "L1Trigger/L1THGCal/plugins/veryfrontend/HGCalVFEProcessorSums.cc", 
-            "L1Trigger/L1THGCal/src/HGCalVFECompressionImpl.cc", 
-            "L1Trigger/L1THGCal/src/backend/HGCalStage1TruncationImpl_SA.cc", 
-            "L1Trigger/L1THGCal/src/concentrator/HGCalConcentratorCoarsenerImpl.cc", 
-            "L1Trigger/L1THGCal/src/concentrator/HGCalConcentratorSuperTriggerCellImpl.cc", 
-            "L1Trigger/L1THGCal/test/BuildFile.xml", 
-            "L1Trigger/L1THGCal/test/HGCalBackendStage1ParameterExtractor.cc", 
-            "L1Trigger/L1THGCal/test/HGCalTriggerGeomTesterV9Imp3.cc", 
-            "L1Trigger/L1THGCal/test/testHGCalBackendStage1ParameterExtractor_cfg.py", 
-            "Validation/HGCalValidation/plugins/HGCalTriggerValidator.cc", 
-            "Validation/HGCalValidation/python/hgcalValidationTPG_cfi.py", 
-            "Validation/HGCalValidation/test/python/testValidationHGCalTrigPrim_RelVal_cfg.py"
-        ], 
-        "created_at": 1695642045, 
-        "number": 42856, 
-        "state": "open", 
-        "updated_at": 1695642580
-    }, 
     "42890": {
         "base_branch": "master", 
         "changed_files_names": [
