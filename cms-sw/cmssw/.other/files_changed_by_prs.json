@@ -1807,10 +1807,9 @@
             "DataFormats/ParticleFlowReco/src/alpaka/classes_cuda_def.xml", 
             "DataFormats/ParticleFlowReco/src/alpaka/classes_rocm.h", 
             "DataFormats/ParticleFlowReco/src/alpaka/classes_rocm_def.xml", 
-            "DataFormats/ParticleFlowReco/src/classes_2.h", 
-            "DataFormats/ParticleFlowReco/src/classes_def_2.xml", 
+            "DataFormats/ParticleFlowReco/src/classes_serial.h", 
+            "DataFormats/ParticleFlowReco/src/classes_serial_def.xml", 
             "RecoParticleFlow/PFRecHitProducer/BuildFile.xml", 
-            "RecoParticleFlow/PFRecHitProducer/DQMIO.root", 
             "RecoParticleFlow/PFRecHitProducer/interface/PFRecHitParamsHostCollection.h", 
             "RecoParticleFlow/PFRecHitProducer/interface/PFRecHitParamsRecord.h", 
             "RecoParticleFlow/PFRecHitProducer/interface/PFRecHitParamsSoA.h", 
@@ -1829,7 +1828,6 @@
             "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/PFRecHitProducerKernel.dev.cc", 
             "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/PFRecHitProducerKernel.h", 
             "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/PFRecHitTopologyESProducer.cc", 
-            "RecoParticleFlow/PFRecHitProducer/reHLT_HLT.root", 
             "RecoParticleFlow/PFRecHitProducer/src/PFRecHitParamsHostCollection.cc", 
             "RecoParticleFlow/PFRecHitProducer/src/PFRecHitParamsRecord.cc", 
             "RecoParticleFlow/PFRecHitProducer/src/PFRecHitTopologyHostCollection.cc", 
@@ -1845,7 +1843,7 @@
         "created_at": 1695025680, 
         "number": 42807, 
         "state": "open", 
-        "updated_at": 1697550318
+        "updated_at": 1697555527
     }, 
     "42818": {
         "base_branch": "master", 
