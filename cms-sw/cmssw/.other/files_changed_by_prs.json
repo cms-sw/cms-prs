@@ -2448,5 +2448,21 @@
         "number": 43044, 
         "state": "open", 
         "updated_at": 1697558463
+    }, 
+    "43045": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/ForwardDetId/interface/HGCSiliconDetId.h", 
+            "DataFormats/ForwardDetId/src/HGCSiliconDetId.cc", 
+            "Geometry/HGCalCommonData/interface/HGCalTypes.h", 
+            "SimG4CMS/Calo/interface/CaloSD.h", 
+            "SimG4CMS/Calo/interface/HGCalSD.h", 
+            "SimG4CMS/Calo/src/CaloSD.cc", 
+            "SimG4CMS/Calo/src/HGCalSD.cc"
+        ], 
+        "created_at": 1697559747, 
+        "number": 43045, 
+        "state": "open", 
+        "updated_at": 1697559774
     }
 }
