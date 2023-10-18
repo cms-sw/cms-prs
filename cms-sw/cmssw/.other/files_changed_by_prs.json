@@ -2431,5 +2431,38 @@
         "number": 43048, 
         "state": "open", 
         "updated_at": 1697612608
+    }, 
+    "43049": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheck2026DD4hep_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheck2026DDD_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheckCalo_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheckDDD_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheckEcal_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheckHGCal_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheckMuon_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheckNoseDDD_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheckTracker_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/runDD4hep2026D98_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/runDD4hep2026_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/runDDD2026D98_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/runDDD2026_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/runPrintG4Solids2_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/runPrintG4SolidsRun3_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/runPrintG4Solids_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/runPrintG4Touch2026_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/runPrintSolid2026D98_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/runPrintSolid2026_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/runPrintSolid_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/runSens2026_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/runSens_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/runSummary2026_cfg.py", 
+            "SimG4Core/PrintGeomInfo/test/python/runSummary_cfg.py"
+        ], 
+        "created_at": 1697624923, 
+        "number": 43049, 
+        "state": "open", 
+        "updated_at": 1697624947
     }
 }
