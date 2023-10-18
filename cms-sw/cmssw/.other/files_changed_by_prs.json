@@ -1824,9 +1824,9 @@
             "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/CalorimeterDefinitions.h", 
             "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/PFRecHitECALParamsESProducer.cc", 
             "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/PFRecHitHCALParamsESProducer.cc", 
-            "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/PFRecHitProducerAlpaka.cc", 
             "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/PFRecHitProducerKernel.dev.cc", 
             "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/PFRecHitProducerKernel.h", 
+            "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/PFRecHitSoAProducer.cc", 
             "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/PFRecHitTopologyESProducer.cc", 
             "RecoParticleFlow/PFRecHitProducer/src/PFRecHitParamsHostCollection.cc", 
             "RecoParticleFlow/PFRecHitProducer/src/PFRecHitParamsRecord.cc", 
@@ -1843,7 +1843,7 @@
         "created_at": 1695025680, 
         "number": 42807, 
         "state": "open", 
-        "updated_at": 1697630308
+        "updated_at": 1697637379
     }, 
     "42818": {
         "base_branch": "master", 
