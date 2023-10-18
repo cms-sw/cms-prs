@@ -1816,12 +1816,12 @@
             "RecoParticleFlow/PFRecHitProducer/interface/PFRecHitTopologyHostCollection.h", 
             "RecoParticleFlow/PFRecHitProducer/interface/PFRecHitTopologyRecord.h", 
             "RecoParticleFlow/PFRecHitProducer/interface/PFRecHitTopologySoA.h", 
-            "RecoParticleFlow/PFRecHitProducer/interface/alpaka/CalorimeterDefinitions.h", 
             "RecoParticleFlow/PFRecHitProducer/interface/alpaka/PFRecHitParamsDeviceCollection.h", 
             "RecoParticleFlow/PFRecHitProducer/interface/alpaka/PFRecHitTopologyDeviceCollection.h", 
             "RecoParticleFlow/PFRecHitProducer/plugins/BuildFile.xml", 
             "RecoParticleFlow/PFRecHitProducer/plugins/LegacyPFRecHitProducer.cc", 
             "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/CaloRecHitSoAProducer.cc", 
+            "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/CalorimeterDefinitions.h", 
             "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/PFRecHitECALParamsESProducer.cc", 
             "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/PFRecHitHCALParamsESProducer.cc", 
             "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/PFRecHitProducerAlpaka.cc", 
@@ -1843,7 +1843,7 @@
         "created_at": 1695025680, 
         "number": 42807, 
         "state": "open", 
-        "updated_at": 1697627712
+        "updated_at": 1697630308
     }, 
     "42818": {
         "base_branch": "master", 
