@@ -2354,9 +2354,24 @@
     "43045": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Alignment/OfflineValidation/plugins/BuildFile.xml", 
+            "Calibration/IsolatedParticles/src/FindDistCone.cc", 
+            "CommonTools/TrackerMap/src/TrackerMap.cc", 
+            "CondCore/RunInfoPlugins/plugins/RunInfo_PayloadInspector.cc", 
+            "CondFormats/DQMObjects/src/HDQMSummary.cc", 
+            "CondFormats/SiStripObjects/src/SiStripSummary.cc", 
+            "DQM/HcalCommon/src/ElectronicsQuantity.cc", 
+            "DQM/HcalCommon/src/HashFunctions.cc", 
             "DataFormats/ForwardDetId/interface/HGCSiliconDetId.h", 
             "DataFormats/ForwardDetId/src/HGCSiliconDetId.cc", 
             "Geometry/HGCalCommonData/interface/HGCalTypes.h", 
+            "Geometry/HGCalCommonData/test/HGCalParameterTester.cc", 
+            "Geometry/HGCalCommonData/test/python/testHGCalNumbering_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/testHGCalParametersDD4hep_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/testHGCalParametersDDD_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/testHGCalPartialIDTester_cfg.py", 
+            "Geometry/HGCalCommonData/test/python/testHGCalPartialMissingIDTester_cfg.py", 
+            "RecoVertex/BeamSpotProducer/plugins/OnlineBeamSpotESProducer.cc", 
             "SimG4CMS/Calo/interface/CaloSD.h", 
             "SimG4CMS/Calo/interface/HGCalSD.h", 
             "SimG4CMS/Calo/src/CaloSD.cc", 
@@ -2365,7 +2380,7 @@
         "created_at": 1697559747, 
         "number": 43045, 
         "state": "open", 
-        "updated_at": 1697585930
+        "updated_at": 1697725418
     }, 
     "43046": {
         "base_branch": "master", 
