@@ -2609,6 +2609,8 @@
     "43076": {
         "base_branch": "master", 
         "changed_files_names": [
+            "CUDADataFormats/PortableTestObjects/interface/TestDeviceCollection.h", 
+            "CUDADataFormats/PortableTestObjects/interface/TestHostCollection.h", 
             "DataFormats/Common/interface/StdArray.h", 
             "DataFormats/Common/src/classes.h", 
             "DataFormats/Common/src/classes_def.xml", 
@@ -2618,11 +2620,14 @@
             "DataFormats/PortableTestObjects/test/BuildFile.xml", 
             "DataFormats/PortableTestObjects/test/TestSoA.cc", 
             "HeterogeneousCore/AlpakaTest/plugins/TestAlpakaAnalyzer.cc", 
-            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlgo.dev.cc"
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlgo.dev.cc", 
+            "HeterogeneousCore/CUDATest/plugins/TestAlgo.cc", 
+            "HeterogeneousCore/CUDATest/plugins/TestAlgo.cu", 
+            "HeterogeneousCore/CUDATest/plugins/TestPortableAnalyzer.cc"
         ], 
         "created_at": 1697811866, 
         "number": 43076, 
         "state": "open", 
-        "updated_at": 1697811891
+        "updated_at": 1697829083
     }
 }
