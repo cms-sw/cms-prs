@@ -2216,11 +2216,15 @@
             "HLTrigger/Configuration/python/HLT_75e33/modules/particleFlowClusterHO_cfi.py", 
             "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
             "RecoParticleFlow/PFClusterProducer/interface/InitialClusteringStepBase.h", 
+            "RecoParticleFlow/PFClusterProducer/interface/PFCPositionCalculatorBase.h", 
             "RecoParticleFlow/PFClusterProducer/interface/PFClusterBuilderBase.h", 
             "RecoParticleFlow/PFClusterProducer/interface/SeedFinderBase.h", 
             "RecoParticleFlow/PFClusterProducer/plugins/Basic2DClusterForEachSeed.cc", 
             "RecoParticleFlow/PFClusterProducer/plugins/Basic2DGenericPFlowClusterizer.cc", 
+            "RecoParticleFlow/PFClusterProducer/plugins/Basic2DGenericPFlowPositionCalc.cc", 
             "RecoParticleFlow/PFClusterProducer/plugins/Basic2DGenericTopoClusterizer.cc", 
+            "RecoParticleFlow/PFClusterProducer/plugins/Cluster3DPCACalculator.cc", 
+            "RecoParticleFlow/PFClusterProducer/plugins/ECAL2DPositionCalcWithDepthCorr.cc", 
             "RecoParticleFlow/PFClusterProducer/plugins/LocalMaximumSeedFinder.cc", 
             "RecoParticleFlow/PFClusterProducer/plugins/PFClusterFromHGCalTrackster.cc", 
             "RecoParticleFlow/PFClusterProducer/plugins/PFClusterProducer.cc", 
@@ -2234,13 +2238,14 @@
             "RecoParticleFlow/PFClusterProducer/python/particleFlowClusterHBHE_cfi.py", 
             "RecoParticleFlow/PFClusterProducer/python/particleFlowClusterHCAL_cfi.py", 
             "RecoParticleFlow/PFClusterProducer/python/particleFlowClusterHF_cfi.py", 
+            "RecoParticleFlow/PFClusterProducer/python/particleFlowClusterHGC_cfi.py", 
             "RecoParticleFlow/PFClusterProducer/python/particleFlowClusterHO_cfi.py", 
             "RecoParticleFlow/PFClusterProducer/python/particleFlowClusterPS_cfi.py"
         ], 
         "created_at": 1697446071, 
         "number": 43025, 
         "state": "open", 
-        "updated_at": 1697702644
+        "updated_at": 1697776589
     }, 
     "43027": {
         "base_branch": "CMSSW_13_2_X", 
