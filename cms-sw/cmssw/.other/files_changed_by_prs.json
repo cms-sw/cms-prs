@@ -2137,6 +2137,7 @@
         "base_branch": "master", 
         "changed_files_names": [
             "FWCore/Concurrency/scripts/edmStreamStallGrapher.py", 
+            "FWCore/Framework/interface/maker/Worker.h", 
             "FWCore/Framework/src/EventProcessor.cc", 
             "FWCore/ServiceRegistry/interface/ActivityRegistry.h", 
             "FWCore/ServiceRegistry/src/ActivityRegistry.cc", 
@@ -2152,7 +2153,7 @@
         "created_at": 1696876524, 
         "number": 42970, 
         "state": "open", 
-        "updated_at": 1697714270
+        "updated_at": 1697822192
     }, 
     "42990": {
         "base_branch": "master", 
