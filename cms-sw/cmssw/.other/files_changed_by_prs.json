@@ -2665,5 +2665,23 @@
         "number": 43081, 
         "state": "open", 
         "updated_at": 1698038825
+    }, 
+    "43082": {
+        "base_branch": "CMSSW_13_2_X", 
+        "changed_files_names": [
+            "CalibTracker/StandaloneTrackerTopology/src/StandaloneTrackerTopology.cc", 
+            "CalibTracker/StandaloneTrackerTopology/test/BuildFile.xml", 
+            "CalibTracker/StandaloneTrackerTopology/test/StandaloneTrackerTopologyTest.cc", 
+            "CalibTracker/StandaloneTrackerTopology/test/testStandaloneTrackerTopology.sh", 
+            "CalibTracker/StandaloneTrackerTopology/test/testStandaloneTrackerTopology_cfg.py", 
+            "CondCore/SiPixelPlugins/interface/PixelRegionContainers.h", 
+            "CondCore/SiPixelPlugins/interface/SiPixelPayloadInspectorHelper.h", 
+            "CondCore/SiPixelPlugins/plugins/SiPixelLorentzAngle_PayloadInspector.cc", 
+            "CondCore/SiPixelPlugins/test/testSiPixelLorentzAngle.sh"
+        ], 
+        "created_at": 1698039131, 
+        "number": 43082, 
+        "state": "open", 
+        "updated_at": 1698039159
     }
 }
