@@ -1114,31 +1114,6 @@
         "state": "open", 
         "updated_at": 1689662508
     }, 
-    "41564": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "HeterogeneousCore/AlpakaCore/interface/alpaka/ProducerBase.h", 
-            "HeterogeneousCore/AlpakaCore/interface/alpaka/global/EDProducer.h", 
-            "HeterogeneousCore/AlpakaCore/interface/alpaka/stream/EDProducer.h", 
-            "HeterogeneousCore/AlpakaCore/interface/alpaka/stream/SynchronizingEDProducer.h", 
-            "HeterogeneousCore/AlpakaInterface/BuildFile.xml", 
-            "HeterogeneousCore/AlpakaInterface/interface/AllocatorConfig.h", 
-            "HeterogeneousCore/AlpakaInterface/interface/Backend.h", 
-            "HeterogeneousCore/AlpakaInterface/interface/config.h", 
-            "HeterogeneousCore/AlpakaInterface/interface/host.h", 
-            "HeterogeneousCore/AlpakaInterface/src/Backend.cc", 
-            "HeterogeneousCore/AlpakaInterface/test/BuildFile.xml", 
-            "HeterogeneousCore/AlpakaInterface/test/testBackend.cc", 
-            "HeterogeneousCore/AlpakaTest/plugins/BuildFile.xml", 
-            "HeterogeneousCore/AlpakaTest/plugins/TestAlpakaAnalyzer.cc", 
-            "HeterogeneousCore/AlpakaTest/test/reader.py", 
-            "HeterogeneousCore/AlpakaTest/test/testAlpakaModules_cfg.py"
-        ], 
-        "created_at": 1683312763, 
-        "number": 41564, 
-        "state": "open", 
-        "updated_at": 1697608327
-    }, 
     "41928": {
         "base_branch": "master", 
         "changed_files_names": [
