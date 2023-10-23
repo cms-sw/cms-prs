@@ -2673,5 +2673,17 @@
         "number": 43083, 
         "state": "open", 
         "updated_at": 1698043869
+    }, 
+    "43084": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/Common/interface/DetSetVector.h", 
+            "DataFormats/Common/interface/OrphanHandleBase.h", 
+            "DataFormats/Common/test/DetSetVector_t.cpp"
+        ], 
+        "created_at": 1698054724, 
+        "number": 43084, 
+        "state": "open", 
+        "updated_at": 1698054750
     }
 }
