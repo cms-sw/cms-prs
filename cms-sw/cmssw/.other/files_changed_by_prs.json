@@ -2510,5 +2510,19 @@
         "number": 43110, 
         "state": "open", 
         "updated_at": 1698229437
+    }, 
+    "43112": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/L1THGCal/interface/HGCalClusterT.h", 
+            "DataFormats/L1THGCal/src/classes_def.xml", 
+            "L1Trigger/L1THGCal/interface/backend/HGCalShowerShape.h", 
+            "L1Trigger/L1THGCal/src/backend/HGCalShowerShape.cc", 
+            "L1Trigger/L1THGCalUtilities/test/ntuples/HGCalTriggerNtupleHGCMulticlusters.cc"
+        ], 
+        "created_at": 1698234163, 
+        "number": 43112, 
+        "state": "open", 
+        "updated_at": 1698234190
     }
 }
