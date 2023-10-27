@@ -2608,6 +2608,8 @@
             "Configuration/Geometry/python/GeometryExtended2026D103Reco_cff.py", 
             "Configuration/Geometry/python/GeometryExtended2026D103_cff.py", 
             "Configuration/Geometry/python/dict2026Geometry.py", 
+            "Configuration/PyReleaseValidation/python/relval_2026.py", 
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
             "Configuration/StandardSequences/python/GeometryConf.py", 
             "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D100.xml", 
             "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D101.xml", 
@@ -2625,7 +2627,7 @@
         "created_at": 1698389435, 
         "number": 43133, 
         "state": "open", 
-        "updated_at": 1698401731
+        "updated_at": 1698411702
     }, 
     "43134": {
         "base_branch": "master", 
