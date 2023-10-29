@@ -2006,12 +2006,14 @@
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleFlowClusterECALUncorrectedUnseeded_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleFlowClusterHBHE_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleFlowClusterHCAL_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleFlowRecHitHBHE_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/particleFlowClusterECALUncorrected_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/particleFlowClusterHF_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/particleFlowClusterHGCalFromTICLL1Seeded_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/particleFlowClusterHGCalFromTICLUnseeded_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/particleFlowClusterHGCal_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/particleFlowClusterHO_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/particleFlowRecHitHF_cfi.py", 
             "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
             "RecoParticleFlow/PFClusterProducer/interface/InitialClusteringStepBase.h", 
             "RecoParticleFlow/PFClusterProducer/interface/PFCPositionCalculatorBase.h", 
@@ -2046,7 +2048,7 @@
         "created_at": 1697446071, 
         "number": 43025, 
         "state": "open", 
-        "updated_at": 1698484850
+        "updated_at": 1698555069
     }, 
     "43027": {
         "base_branch": "CMSSW_13_2_X", 
