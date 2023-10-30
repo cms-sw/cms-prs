@@ -780,16 +780,11 @@
             "RecoTracker/PixelTrackFitting/interface/alpaka/BrokenLine.h", 
             "RecoTracker/PixelTrackFitting/interface/alpaka/FitResult.h", 
             "RecoTracker/PixelTrackFitting/interface/alpaka/FitUtils.h", 
-            "RecoTracker/PixelTrackFitting/interface/alpaka/PixelNtupletsFitter.h", 
             "RecoTracker/PixelTrackFitting/interface/alpaka/RiemannFit.h", 
             "RecoTracker/PixelTrackFitting/plugins/BuildFile.xml", 
             "RecoTracker/PixelTrackFitting/plugins/PixelTrackDumpAlpaka.cc", 
             "RecoTracker/PixelTrackFitting/plugins/PixelTrackProducerFromSoAAlpaka.cc", 
-            "RecoTracker/PixelTrackFitting/plugins/alpaka/PixelNtupletsFitterAlpaka.dev.cc", 
-            "RecoTracker/PixelTrackFitting/plugins/alpaka/PixelNtupletsFitterProducerAlpaka.cc", 
             "RecoTracker/PixelTrackFitting/python/PixelTracks_cff.py", 
-            "RecoTracker/PixelTrackFitting/src/alpaka/classes_serial.h", 
-            "RecoTracker/PixelTrackFitting/src/alpaka/classes_serial_def.xml", 
             "RecoTracker/PixelVertexFinding/plugins/BuildFile.xml", 
             "RecoTracker/PixelVertexFinding/plugins/PixelVertexProducerFromSoAAlpaka.cc", 
             "RecoTracker/PixelVertexFinding/plugins/PixelVertexWorkSpaceLayout.h", 
@@ -815,7 +810,7 @@
         "created_at": 1679395679, 
         "number": 41117, 
         "state": "open", 
-        "updated_at": 1698062252
+        "updated_at": 1698681032
     }, 
     "41162": {
         "base_branch": "master", 
