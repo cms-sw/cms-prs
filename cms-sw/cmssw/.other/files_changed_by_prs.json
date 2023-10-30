@@ -2439,14 +2439,14 @@
             "RecoParticleFlow/PFClusterProducer/python/particleFlowCluster_cff.py", 
             "RecoParticleFlow/PFClusterProducerAlpaka/BuildFile.xml", 
             "RecoParticleFlow/PFClusterProducerAlpaka/interface/AlpakaPFCommon.h", 
+            "RecoParticleFlow/PFClusterProducerAlpaka/interface/ClusteringEdgeVarsSoA.h", 
+            "RecoParticleFlow/PFClusterProducerAlpaka/interface/ClusteringVarsSoA.h", 
             "RecoParticleFlow/PFClusterProducerAlpaka/interface/PFClusterParamsAlpakaESData.h", 
             "RecoParticleFlow/PFClusterProducerAlpaka/interface/PFClusterParamsAlpakaESDataSoA.h", 
             "RecoParticleFlow/PFClusterProducerAlpaka/interface/PFClusterParamsAlpakaESRecord.h", 
+            "RecoParticleFlow/PFClusterProducerAlpaka/interface/alpaka/ClusteringEdgeVarsDeviceCollection.h", 
+            "RecoParticleFlow/PFClusterProducerAlpaka/interface/alpaka/ClusteringVarsDeviceCollection.h", 
             "RecoParticleFlow/PFClusterProducerAlpaka/interface/alpaka/PFClusterParamsAlpakaESData.h", 
-            "RecoParticleFlow/PFClusterProducerAlpaka/interface/alpaka/tmpDeviceCollection.h", 
-            "RecoParticleFlow/PFClusterProducerAlpaka/interface/alpaka/tmpEdgeDeviceCollection.h", 
-            "RecoParticleFlow/PFClusterProducerAlpaka/interface/tmpEdgeSoA.h", 
-            "RecoParticleFlow/PFClusterProducerAlpaka/interface/tmpSoA.h", 
             "RecoParticleFlow/PFClusterProducerAlpaka/plugins/BuildFile.xml", 
             "RecoParticleFlow/PFClusterProducerAlpaka/plugins/LegacyPFClusterProducer.cc", 
             "RecoParticleFlow/PFClusterProducerAlpaka/plugins/alpaka/PFClusterParamsESProducer.cc", 
@@ -2493,7 +2493,7 @@
         "created_at": 1698382073, 
         "number": 43130, 
         "state": "open", 
-        "updated_at": 1698521078
+        "updated_at": 1698676502
     }, 
     "43131": {
         "base_branch": "CMSSW_13_1_X", 
