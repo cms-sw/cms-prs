@@ -1790,7 +1790,6 @@
         "base_branch": "master", 
         "changed_files_names": [
             "CalibPPS/ESProducers/plugins/CTPPSBeamParametersFromLHCInfoESSource.cc", 
-            "CalibPPS/ESProducers/plugins/CTPPSInterpolatedOpticalFunctionsESSource.cc", 
             "CalibPPS/ESProducers/python/ctppsBeamParametersFromLHCInfoESSource_cff.py", 
             "CalibPPS/ESProducers/python/ctppsInterpolatedOpticalFunctionsESSource_cff.py", 
             "CondFormats/DataRecord/interface/CTPPSBeamParametersRcd.h", 
@@ -1798,12 +1797,10 @@
             "CondTools/RunInfo/src/LHCInfoCombined.cc", 
             "Configuration/Eras/python/Era_Run3_CTPPS_directSim_cff.py", 
             "Configuration/Eras/python/Modifier_run3_directSim_cff.py", 
-            "RecoPPS/ProtonReconstruction/plugins/CTPPSProtonProducer.cc", 
             "RecoPPS/ProtonReconstruction/python/ctppsProtons_cff.py", 
             "SimPPS/DirectSimProducer/python/ppsDirectProtonSimulation_cff.py", 
             "SimTransport/PPSProtonTransport/python/PPSTransportESSources_cfi.py", 
             "Validation/CTPPS/plugins/CTPPSHepMCDistributionPlotter.cc", 
-            "Validation/CTPPS/plugins/CTPPSLHCInfoPlotter.cc", 
             "Validation/CTPPS/plugins/CTPPSProtonReconstructionEfficiencyEstimatorData.cc", 
             "Validation/CTPPS/plugins/CTPPSProtonReconstructionEfficiencyEstimatorMC.cc", 
             "Validation/CTPPS/plugins/CTPPSProtonReconstructionSimulationValidator.cc", 
@@ -1818,7 +1815,7 @@
         "created_at": 1695819235, 
         "number": 42890, 
         "state": "open", 
-        "updated_at": 1695904411
+        "updated_at": 1698769679
     }, 
     "42917": {
         "base_branch": "master", 
