@@ -2118,31 +2118,6 @@
         "state": "open", 
         "updated_at": 1698338843
     }, 
-    "43115": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/Eras/python/Era_Phase2C22I13M9_cff.py", 
-            "Configuration/Eras/python/Modifier_phase2_hgcalV18_cff.py", 
-            "Geometry/HGCalCommonData/interface/HGCalCellOffset.h", 
-            "Geometry/HGCalCommonData/interface/HGCalParameters.h", 
-            "Geometry/HGCalCommonData/src/HGCalCellOffset.cc", 
-            "SimG4CMS/Calo/interface/CaloSD.h", 
-            "SimG4CMS/Calo/interface/HGCalSD.h", 
-            "SimG4CMS/Calo/src/CaloSD.cc", 
-            "SimG4CMS/Calo/src/HGCMouseBite.cc", 
-            "SimG4CMS/Calo/src/HGCalSD.cc", 
-            "SimG4CMS/Calo/test/python/runHGC1_cfg.py", 
-            "SimG4Core/Application/python/g4SimHits_cfi.py", 
-            "SimG4Core/SensitiveDetector/interface/SensitiveCaloDetector.h", 
-            "SimG4Core/SensitiveDetector/interface/SensitiveDetector.h", 
-            "SimG4Core/SensitiveDetector/interface/SensitiveTkDetector.h", 
-            "SimG4Core/SensitiveDetector/src/SensitiveDetector.cc"
-        ], 
-        "created_at": 1698244543, 
-        "number": 43115, 
-        "state": "open", 
-        "updated_at": 1698381466
-    }, 
     "43121": {
         "base_branch": "CMSSW_13_2_X", 
         "changed_files_names": [
