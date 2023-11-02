@@ -2606,5 +2606,16 @@
         "number": 43167, 
         "state": "open", 
         "updated_at": 1698910353
+    }, 
+    "43168": {
+        "base_branch": "CMSSW_13_2_X", 
+        "changed_files_names": [
+            "RecoTracker/DeDx/plugins/HLTDeDxFilter.cc", 
+            "RecoTracker/DeDx/plugins/HLTDeDxFilter.h"
+        ], 
+        "created_at": 1698912402, 
+        "number": 43168, 
+        "state": "open", 
+        "updated_at": 1698912428
     }
 }
