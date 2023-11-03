@@ -2545,5 +2545,38 @@
         "number": 43185, 
         "state": "open", 
         "updated_at": 1699045475
+    }, 
+    "43186": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondCore/BeamSpotPlugins/interface/BeamSpotPayloadInspectorHelper.h", 
+            "CondCore/BeamSpotPlugins/plugins/BuildFile.xml", 
+            "CondCore/BeamSpotPlugins/plugins/SimBeamSpotHLLHC_PayloadInspector.cc", 
+            "CondCore/BeamSpotPlugins/src/plugin.cc", 
+            "CondCore/BeamSpotPlugins/test/testBeamSpotPayloadInspector.cpp", 
+            "CondCore/Utilities/plugins/Module_2XML.cc", 
+            "CondCore/Utilities/src/CondDBFetch.cc", 
+            "CondCore/Utilities/src/CondDBImport.cc", 
+            "CondCore/Utilities/src/CondFormats.h", 
+            "CondFormats/BeamSpotObjects/interface/SimBeamSpotHLLHCObjects.h", 
+            "CondFormats/BeamSpotObjects/src/SimBeamSpotHLLHCObjects.cc", 
+            "CondFormats/BeamSpotObjects/src/T_EventSetup_SimBeamSpotHLLHCObjects.cc", 
+            "CondFormats/BeamSpotObjects/src/classes_def.xml", 
+            "CondFormats/BeamSpotObjects/src/headers.h", 
+            "CondFormats/BeamSpotObjects/test/testSerializationBeamSpotObjects.cpp", 
+            "CondFormats/DataRecord/interface/SimBeamSpotHLLHCObjectsRcd.h", 
+            "CondFormats/DataRecord/src/SimBeamSpotHLLHCObjectsRcd.cc", 
+            "CondTools/BeamSpot/plugins/BeamProfileHLLHC2DBReader.cc", 
+            "CondTools/BeamSpot/plugins/BeamProfileHLLHC2DBWriter.cc", 
+            "CondTools/BeamSpot/test/BeamProfileHLLHC2DBReader_cfg.py", 
+            "CondTools/BeamSpot/test/BeamProfileHLLHC2DBWriter_cfg.py", 
+            "CondTools/BeamSpot/test/testReadWriteBeamSpotsFromDB.sh", 
+            "IOMC/EventVertexGenerators/interface/HLLHCEvtVtxGenerator.h", 
+            "IOMC/EventVertexGenerators/src/HLLHCEvtVtxGenerator.cc"
+        ], 
+        "created_at": 1699047102, 
+        "number": 43186, 
+        "state": "open", 
+        "updated_at": 1699047127
     }
 }
