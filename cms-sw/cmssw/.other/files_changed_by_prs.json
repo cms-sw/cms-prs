@@ -2463,28 +2463,6 @@
         "state": "open", 
         "updated_at": 1698767175
     }, 
-    "43160": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondCore/BeamSpotPlugins/interface/BeamSpotPayloadInspectorHelper.h", 
-            "CondCore/BeamSpotPlugins/test/testBeamSpotPayloadInspector.cpp", 
-            "CondFormats/BeamSpotObjects/interface/SimBeamSpotObjects.h", 
-            "CondFormats/BeamSpotObjects/src/SimBeamSpotObjects.cc", 
-            "CondTools/BeamSpot/plugins/BeamProfile2DBReader.cc", 
-            "CondTools/BeamSpot/plugins/BeamProfile2DBWriter.cc", 
-            "CondTools/BeamSpot/test/BeamProfile2DBWriterAll_cfg.py", 
-            "CondTools/BeamSpot/test/BeamProfile2DBWriter_cfg.py", 
-            "CondTools/BeamSpot/test/extractAndUploadAll.py", 
-            "IOMC/EventVertexGenerators/interface/BetafuncEvtVtxGenerator.h", 
-            "IOMC/EventVertexGenerators/interface/GaussEvtVtxGenerator.h", 
-            "IOMC/EventVertexGenerators/src/BetafuncEvtVtxGenerator.cc", 
-            "IOMC/EventVertexGenerators/src/GaussEvtVtxGenerator.cc"
-        ], 
-        "created_at": 1698772585, 
-        "number": 43160, 
-        "state": "open", 
-        "updated_at": 1698834434
-    }, 
     "43161": {
         "base_branch": "master", 
         "changed_files_names": [
