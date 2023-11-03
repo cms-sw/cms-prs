@@ -2198,24 +2198,6 @@
         "state": "open", 
         "updated_at": 1698779973
     }, 
-    "43131": {
-        "base_branch": "CMSSW_13_1_X", 
-        "changed_files_names": [
-            "Configuration/StandardSequences/python/Harvesting_cff.py", 
-            "Configuration/StandardSequences/python/Validation_cff.py", 
-            "HLTriggerOffline/Common/python/HLTValidationHarvest_cff.py", 
-            "HLTriggerOffline/Common/python/HLTValidation_cff.py", 
-            "HLTriggerOffline/JetMET/python/Validation/SingleJetValidation_cfi.py", 
-            "Validation/Configuration/python/autoValidation.py", 
-            "Validation/RecoTrack/python/HLTmultiTrackValidator_cff.py", 
-            "Validation/RecoTrack/python/associators_cff.py", 
-            "Validation/RecoVertex/python/HLTmultiPVvalidator_cff.py"
-        ], 
-        "created_at": 1698384833, 
-        "number": 43131, 
-        "state": "open", 
-        "updated_at": 1698398408
-    }, 
     "43137": {
         "base_branch": "master", 
         "changed_files_names": [
