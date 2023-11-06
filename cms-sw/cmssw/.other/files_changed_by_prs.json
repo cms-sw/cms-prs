@@ -2648,5 +2648,21 @@
         "number": 43195, 
         "state": "open", 
         "updated_at": 1699260436
+    }, 
+    "43196": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/ForwardDetId/interface/HGCSiliconDetId.h", 
+            "DataFormats/ForwardDetId/src/HGCSiliconDetIdToModule.cc", 
+            "DataFormats/ForwardDetId/test/testHGCDetId.cc", 
+            "Geometry/HGCalCommonData/test/HGCalPartialWaferTester.cc", 
+            "Geometry/HGCalCommonData/test/HGCalValidHexTester.cc", 
+            "Geometry/HGCalGeometry/src/HGCalMouseBite.cc", 
+            "Geometry/HGCalGeometry/test/HGCalGeometryMouseBiteTester.cc"
+        ], 
+        "created_at": 1699260980, 
+        "number": 43196, 
+        "state": "open", 
+        "updated_at": 1699261005
     }
 }
