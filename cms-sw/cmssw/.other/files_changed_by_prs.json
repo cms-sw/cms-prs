@@ -2710,5 +2710,21 @@
         "number": 43206, 
         "state": "open", 
         "updated_at": 1699294649
+    }, 
+    "43207": {
+        "base_branch": "CMSSW_13_3_X", 
+        "changed_files_names": [
+            "DataFormats/ForwardDetId/interface/HGCSiliconDetId.h", 
+            "DataFormats/ForwardDetId/src/HGCSiliconDetIdToModule.cc", 
+            "DataFormats/ForwardDetId/test/testHGCDetId.cc", 
+            "Geometry/HGCalCommonData/test/HGCalPartialWaferTester.cc", 
+            "Geometry/HGCalCommonData/test/HGCalValidHexTester.cc", 
+            "Geometry/HGCalGeometry/src/HGCalMouseBite.cc", 
+            "Geometry/HGCalGeometry/test/HGCalGeometryMouseBiteTester.cc"
+        ], 
+        "created_at": 1699295750, 
+        "number": 43207, 
+        "state": "open", 
+        "updated_at": 1699295774
     }
 }
