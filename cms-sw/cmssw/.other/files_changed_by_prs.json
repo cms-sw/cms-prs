@@ -2614,6 +2614,7 @@
     "43200": {
         "base_branch": "master", 
         "changed_files_names": [
+            "CondTools/Hcal/test/BuildFile.xml", 
             "DataFormats/HcalDetId/interface/HcalZDCDetId.h", 
             "DataFormats/HcalDetId/src/HcalZDCDetId.cc", 
             "DataFormats/HcalDetId/src/classes_def.xml", 
@@ -2624,7 +2625,7 @@
         "created_at": 1699278405, 
         "number": 43200, 
         "state": "open", 
-        "updated_at": 1699280534
+        "updated_at": 1699348611
     }, 
     "43201": {
         "base_branch": "CMSSW_12_4_X", 
