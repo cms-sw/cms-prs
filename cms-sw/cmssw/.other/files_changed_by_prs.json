@@ -2554,6 +2554,7 @@
     "43206": {
         "base_branch": "CMSSW_13_3_X", 
         "changed_files_names": [
+            "CondTools/Hcal/test/pfcuts_db_io_test.sh", 
             "DataFormats/HcalDetId/interface/HcalZDCDetId.h", 
             "DataFormats/HcalDetId/src/HcalZDCDetId.cc", 
             "DataFormats/HcalDetId/src/classes_def.xml", 
@@ -2564,7 +2565,7 @@
         "created_at": 1699294623, 
         "number": 43206, 
         "state": "open", 
-        "updated_at": 1699432175
+        "updated_at": 1699432686
     }, 
     "43207": {
         "base_branch": "CMSSW_13_3_X", 
