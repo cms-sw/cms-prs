@@ -1839,6 +1839,8 @@
     "43025": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Configuration/Eras/python/Era_Run3_cff.py", 
+            "Configuration/Eras/python/Modifier_hcalPfCutsFromDB_cff.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleFlowClusterECALUncorrectedL1Seeded_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleFlowClusterECALUncorrectedUnseeded_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleFlowClusterHBHE_cfi.py", 
@@ -1886,7 +1888,7 @@
         "created_at": 1697446071, 
         "number": 43025, 
         "state": "open", 
-        "updated_at": 1699537392
+        "updated_at": 1699552682
     }, 
     "43027": {
         "base_branch": "CMSSW_13_2_X", 
