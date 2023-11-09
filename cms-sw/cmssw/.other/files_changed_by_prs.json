@@ -2757,5 +2757,17 @@
         "number": 43237, 
         "state": "open", 
         "updated_at": 1699538114
+    }, 
+    "43240": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Framework/src/EventProcessor.cc", 
+            "FWCore/Framework/src/LuminosityBlockProcessingStatus.h", 
+            "FWCore/Integration/test/testLateLumiClosure_cfg.py"
+        ], 
+        "created_at": 1699547666, 
+        "number": 43240, 
+        "state": "open", 
+        "updated_at": 1699547691
     }
 }
