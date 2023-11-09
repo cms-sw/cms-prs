@@ -2786,5 +2786,18 @@
         "number": 43241, 
         "state": "open", 
         "updated_at": 1699547949
+    }, 
+    "43242": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
+            "Configuration/StandardSequences/python/VtxSmeared.py", 
+            "IOMC/EventVertexGenerators/python/VtxSmearedDesign_cfi.py", 
+            "IOMC/EventVertexGenerators/python/VtxSmearedRealistic_cfi.py"
+        ], 
+        "created_at": 1699553919, 
+        "number": 43242, 
+        "state": "open", 
+        "updated_at": 1699553945
     }
 }
