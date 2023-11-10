@@ -2011,7 +2011,9 @@
             "DataFormats/ParticleFlowReco/interface/PFClusterSoA.h", 
             "DataFormats/ParticleFlowReco/interface/PFRecHitFractionHostCollection.h", 
             "DataFormats/ParticleFlowReco/interface/PFRecHitFractionSoA.h", 
+            "DataFormats/ParticleFlowReco/interface/alpaka/CaloRecHitDeviceCollection.h", 
             "DataFormats/ParticleFlowReco/interface/alpaka/PFClusterDeviceCollection.h", 
+            "DataFormats/ParticleFlowReco/interface/alpaka/PFRecHitDeviceCollection.h", 
             "DataFormats/ParticleFlowReco/interface/alpaka/PFRecHitFractionDeviceCollection.h", 
             "DataFormats/ParticleFlowReco/src/alpaka/classes_cuda.h", 
             "DataFormats/ParticleFlowReco/src/alpaka/classes_cuda_def.xml", 
@@ -2043,7 +2045,7 @@
         "created_at": 1698382073, 
         "number": 43130, 
         "state": "open", 
-        "updated_at": 1699566423
+        "updated_at": 1699639192
     }, 
     "43144": {
         "base_branch": "master", 
