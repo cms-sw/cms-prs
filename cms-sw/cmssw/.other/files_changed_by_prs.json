@@ -2195,6 +2195,7 @@
         "base_branch": "master", 
         "changed_files_names": [
             "Configuration/Eras/python/Era_Run3_cff.py", 
+            "Configuration/Eras/python/Modifier_hcalPfCutsFromDB_cff.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaHoverEL1Seeded_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaHoverEUnseeded_cfi.py", 
             "RecoEgamma/EgammaElectronAlgos/interface/ElectronHcalHelper.h", 
@@ -2223,7 +2224,7 @@
         "created_at": 1698857678, 
         "number": 43164, 
         "state": "open", 
-        "updated_at": 1699877374
+        "updated_at": 1699887625
     }, 
     "43176": {
         "base_branch": "master", 
