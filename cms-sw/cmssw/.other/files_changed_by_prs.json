@@ -1457,7 +1457,6 @@
             "CalibCalorimetry/EBPhase2TPGTools/BuildFile.xml", 
             "CalibCalorimetry/EBPhase2TPGTools/plugins/BuildFile.xml", 
             "CalibCalorimetry/EBPhase2TPGTools/plugins/EcalEBPhase2TPParamProducer.cc", 
-            "CalibCalorimetry/EBPhase2TPGTools/plugins/EcalEBPhase2TPParamProducer.h", 
             "CalibCalorimetry/EBPhase2TPGTools/python/ecalEBPhase2TPParamProducer_cfi.py", 
             "CalibCalorimetry/EBPhase2TPGTools/test/runEBPhase2TPParamProducer.py", 
             "CondFormats/DataRecord/interface/EcalEBPhase2TPGAmplWeightIdMapRcd.h", 
@@ -1511,9 +1510,7 @@
             "SimCalorimetry/EcalEBTrigPrimAlgos/src/EcalEBPhase2TimeReconstructor.cc", 
             "SimCalorimetry/EcalEBTrigPrimAlgos/src/EcalEBPhase2TrigPrimAlgo.cc", 
             "SimCalorimetry/EcalEBTrigPrimProducers/plugins/EcalEBTrigPrimPhase2ESProducer.cc", 
-            "SimCalorimetry/EcalEBTrigPrimProducers/plugins/EcalEBTrigPrimPhase2ESProducer.h", 
             "SimCalorimetry/EcalEBTrigPrimProducers/plugins/EcalEBTrigPrimPhase2Producer.cc", 
-            "SimCalorimetry/EcalEBTrigPrimProducers/plugins/EcalEBTrigPrimPhase2Producer.h", 
             "SimCalorimetry/EcalEBTrigPrimProducers/plugins/SealModules.cc", 
             "SimCalorimetry/EcalEBTrigPrimProducers/python/ecalEBTriggerPrimitivePhase2Digis_cff.py", 
             "SimCalorimetry/EcalEBTrigPrimProducers/python/ecalEBTriggerPrimitivePhase2Digis_cfi.py", 
@@ -1523,7 +1520,7 @@
         "created_at": 1692727678, 
         "number": 42633, 
         "state": "open", 
-        "updated_at": 1699355311
+        "updated_at": 1699874733
     }, 
     "42663": {
         "base_branch": "master", 
