@@ -2714,5 +2714,24 @@
         "number": 43271, 
         "state": "open", 
         "updated_at": 1699973652
+    }, 
+    "43272": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondCore/EcalPlugins/plugins/EcalIntercalibConstantsMC_PayloadInspector.cc", 
+            "CondCore/EcalPlugins/plugins/EcalIntercalibConstants_PayloadInspector.cc", 
+            "CondCore/EcalPlugins/plugins/EcalIntercalibErrors_PayloadInspector.cc", 
+            "CondCore/EcalPlugins/plugins/EcalLaserAPDPNRatiosRef_PayloadInspector.cc", 
+            "CondCore/EcalPlugins/plugins/EcalLaserAPDPNRatios_PayloadInspector.cc", 
+            "CondCore/EcalPlugins/plugins/EcalLaserAlphas_PayloadInspector.cc", 
+            "CondCore/EcalPlugins/plugins/EcalPFRecHitThresholds_PayloadInspector.cc", 
+            "CondCore/EcalPlugins/plugins/EcalPedestals_PayloadInspector.cc", 
+            "CondCore/EcalPlugins/plugins/EcalTimeCalibConstants_PayloadInspector.cc", 
+            "CondCore/EcalPlugins/plugins/EcalTimeCalibErrors_PayloadInspector.cc"
+        ], 
+        "created_at": 1699975031, 
+        "number": 43272, 
+        "state": "open", 
+        "updated_at": 1699975053
     }
 }
