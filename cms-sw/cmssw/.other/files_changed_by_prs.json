@@ -2704,5 +2704,26 @@
         "number": 43265, 
         "state": "open", 
         "updated_at": 1699950425
+    }, 
+    "43266": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/Eras/python/Modifier_zdcAddRPD_cff.py", 
+            "DataFormats/HcalDetId/interface/HcalElectronicsId.h", 
+            "DataFormats/HcalDetId/interface/HcalZDCDetId.h", 
+            "Geometry/CaloGeometry/interface/CaloSubdetectorGeometry.h", 
+            "Geometry/ForwardGeometry/interface/ZdcGeometry.h", 
+            "Geometry/ForwardGeometry/interface/ZdcHardcodeGeometryLoader.h", 
+            "Geometry/ForwardGeometry/plugins/ZdcHardcodeGeometryEP.cc", 
+            "Geometry/ForwardGeometry/plugins/ZdcHardcodeGeometryEP.h", 
+            "Geometry/ForwardGeometry/python/ZdcGeometry_cfi.py", 
+            "Geometry/ForwardGeometry/src/ZdcGeometry.cc", 
+            "Geometry/ForwardGeometry/src/ZdcHardcodeGeometryLoader.cc", 
+            "Geometry/ForwardGeometry/src/ZdcTopology.cc"
+        ], 
+        "created_at": 1699953663, 
+        "number": 43266, 
+        "state": "open", 
+        "updated_at": 1699953689
     }
 }
