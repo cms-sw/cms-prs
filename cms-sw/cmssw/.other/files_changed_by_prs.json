@@ -2611,6 +2611,8 @@
             "EventFilter/EcalRawToDigi/plugins/alpaka/UnpackPortable.h", 
             "EventFilter/EcalRawToDigi/python/ecalDigis_cff.py", 
             "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
+            "HeterogeneousCore/AlpakaInterface/interface/workdivision.h", 
+            "HeterogeneousCore/AlpakaInterface/test/alpaka/testKernel.dev.cc", 
             "RecoLocalCalo/EcalRecProducers/plugins/BuildFile.xml", 
             "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitConvertPortable2CPUFormat.cc", 
             "RecoLocalCalo/EcalRecProducers/plugins/alpaka/AmplitudeComputationCommonKernels.h", 
@@ -2630,7 +2632,7 @@
         "created_at": 1699883945, 
         "number": 43257, 
         "state": "open", 
-        "updated_at": 1699883969
+        "updated_at": 1699956824
     }, 
     "43259": {
         "base_branch": "master", 
