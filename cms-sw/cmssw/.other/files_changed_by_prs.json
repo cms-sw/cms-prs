@@ -2354,14 +2354,12 @@
         "changed_files_names": [
             "Configuration/Geometry/README.md", 
             "Configuration/Geometry/python/dict2021Geometry.py", 
-            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2021FlatPlus10Percent.xml", 
             "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2023.xml", 
             "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2023FlatMinus05Percent.xml", 
             "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2023FlatMinus10Percent.xml", 
             "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2023FlatPlus05Percent.xml", 
             "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2023FlatPlus10Percent.xml", 
             "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2023ZeroMaterial.xml", 
-            "Geometry/CMSCommonData/python/cmsExtendedGeometry2021FlatPlus10PercentXML_cfi.py", 
             "Geometry/CMSCommonData/python/cmsExtendedGeometry2023FlatMinus05PercentXML_cfi.py", 
             "Geometry/CMSCommonData/python/cmsExtendedGeometry2023FlatMinus10PercentXML_cfi.py", 
             "Geometry/CMSCommonData/python/cmsExtendedGeometry2023FlatPlus05PercentXML_cfi.py", 
@@ -2373,7 +2371,7 @@
         "created_at": 1699537465, 
         "number": 43237, 
         "state": "open", 
-        "updated_at": 1699782335
+        "updated_at": 1699974493
     }, 
     "43242": {
         "base_branch": "master", 
