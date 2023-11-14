@@ -1725,7 +1725,7 @@
             "CondTools/RunInfo/interface/LHCInfoCombined.h", 
             "CondTools/RunInfo/src/LHCInfoCombined.cc", 
             "Configuration/Eras/python/Era_Run3_CTPPS_directSim_cff.py", 
-            "Configuration/Eras/python/Modifier_run3_directSim_cff.py", 
+            "Configuration/Eras/python/Modifier_ctpps_directSim_cff.py", 
             "RecoPPS/ProtonReconstruction/python/ctppsProtons_cff.py", 
             "SimPPS/DirectSimProducer/python/ppsDirectProtonSimulation_cff.py", 
             "SimTransport/PPSProtonTransport/python/PPSTransportESSources_cfi.py", 
@@ -1744,7 +1744,7 @@
         "created_at": 1695819235, 
         "number": 42890, 
         "state": "open", 
-        "updated_at": 1699303479
+        "updated_at": 1700001277
     }, 
     "42917": {
         "base_branch": "master", 
