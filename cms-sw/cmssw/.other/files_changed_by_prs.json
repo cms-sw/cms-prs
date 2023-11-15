@@ -968,16 +968,6 @@
     "41287": {
         "base_branch": "master", 
         "changed_files_names": [
-            "DataFormats/BeamSpot/BuildFile.xml", 
-            "DataFormats/BeamSpot/interface/BeamSpotHostProduct.h", 
-            "DataFormats/BeamSpot/interface/BeamSpotPOD.h", 
-            "DataFormats/BeamSpot/interface/alpaka/BeamSpotDeviceProduct.h", 
-            "DataFormats/BeamSpot/src/alpaka/classes_cuda.h", 
-            "DataFormats/BeamSpot/src/alpaka/classes_cuda_def.xml", 
-            "DataFormats/BeamSpot/src/alpaka/classes_rocm.h", 
-            "DataFormats/BeamSpot/src/alpaka/classes_rocm_def.xml", 
-            "DataFormats/BeamSpot/src/classes.h", 
-            "DataFormats/BeamSpot/src/classes_def.xml", 
             "DataFormats/Vertex/BuildFile.xml", 
             "DataFormats/Vertex/README.md", 
             "DataFormats/Vertex/interface/ZVertexDefinitions.h", 
@@ -1014,13 +1004,12 @@
             "RecoTracker/PixelVertexFinding/test/alpaka/VertexFinder_t.cc", 
             "RecoTracker/PixelVertexFinding/test/alpaka/VertexFinder_t.dev.cc", 
             "RecoVertex/BeamSpotProducer/plugins/BuildFile.xml", 
-            "RecoVertex/BeamSpotProducer/plugins/alpaka/BeamSpotDeviceProducer.cc", 
-            "RecoVertex/BeamSpotProducer/python/BeamSpot_cff.py"
+            "RecoVertex/BeamSpotProducer/plugins/alpaka/BeamSpotDeviceProducer.cc"
         ], 
         "created_at": 1680702642, 
         "number": 41287, 
         "state": "open", 
-        "updated_at": 1700064816
+        "updated_at": 1700067100
     }, 
     "41288": {
         "base_branch": "master", 
