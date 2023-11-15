@@ -810,8 +810,6 @@
             "Configuration/ProcessModifiers/python/alpakaValidationPixel_cff.py", 
             "Configuration/ProcessModifiers/python/alpakaValidation_cff.py", 
             "Configuration/ProcessModifiers/python/alpaka_cff.py", 
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
-            "Configuration/StandardSequences/python/Services_cff.py", 
             "DataFormats/SiPixelClusterSoA/BuildFile.xml", 
             "DataFormats/SiPixelClusterSoA/interface/ClusteringConstants.h", 
             "DataFormats/SiPixelClusterSoA/interface/SiPixelClustersDevice.h", 
@@ -866,7 +864,6 @@
             "DataFormats/TrackingRecHitSoA/test/alpaka/Hits_test.cc", 
             "DataFormats/TrackingRecHitSoA/test/alpaka/Hits_test.dev.cc", 
             "EventFilter/SiPixelRawToDigi/plugins/SiPixelDigiErrorsFromSoAAlpaka.cc", 
-            "EventFilter/SiPixelRawToDigi/python/siPixelDigis_cff.py", 
             "RecoLocalTracker/Records/BuildFile.xml", 
             "RecoLocalTracker/Records/interface/PixelCPEFastParamsRecord.h", 
             "RecoLocalTracker/Records/src/PixelCPEFastParamsRecord.cc", 
@@ -882,7 +879,6 @@
             "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToClusterKernel.dev.cc", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToClusterKernel.h", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/gpuCalibPixel.h", 
-            "RecoLocalTracker/SiPixelClusterizer/python/siPixelClustersPreSplitting_cff.py", 
             "RecoLocalTracker/SiPixelRecHits/BuildFile.xml", 
             "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEFastParamsDevice.h", 
             "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEFastParamsHost.h", 
@@ -895,8 +891,6 @@
             "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelRecHitGPUKernel.h", 
             "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelRecHits.h", 
             "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/SiPixelRecHitAlpaka.cc", 
-            "RecoLocalTracker/SiPixelRecHits/python/PixelCPEESProducers_cff.py", 
-            "RecoLocalTracker/SiPixelRecHits/python/SiPixelRecHits_cfi.py", 
             "RecoLocalTracker/SiPixelRecHits/src/ES_PixelCPEFastParams.cc", 
             "RecoLocalTracker/SiPixelRecHits/src/PixelCPEFastParams.cc", 
             "RecoLocalTracker/SiPixelRecHits/src/PixelCPEFastParamsHost.cc", 
@@ -905,7 +899,7 @@
         "created_at": 1680702636, 
         "number": 41285, 
         "state": "open", 
-        "updated_at": 1700063203
+        "updated_at": 1700067233
     }, 
     "41286": {
         "base_branch": "master", 
