@@ -2914,5 +2914,21 @@
         "number": 43292, 
         "state": "open", 
         "updated_at": 1700056848
+    }, 
+    "43294": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/ProcessModifiers/python/alpakaValidationPixel_cff.py", 
+            "Configuration/ProcessModifiers/python/alpakaValidation_cff.py", 
+            "Configuration/ProcessModifiers/python/alpaka_cff.py", 
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
+            "Configuration/StandardSequences/python/Services_cff.py", 
+            "HLTrigger/Configuration/python/customizeHLTforPatatrack.py", 
+            "HLTrigger/Configuration/test/testHLTWithAlpakaPixelReco.sh"
+        ], 
+        "created_at": 1700065635, 
+        "number": 43294, 
+        "state": "open", 
+        "updated_at": 1700065662
     }
 }
