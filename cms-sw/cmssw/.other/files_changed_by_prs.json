@@ -2934,6 +2934,16 @@
     "43295": {
         "base_branch": "master", 
         "changed_files_names": [
+            "DataFormats/BeamSpot/BuildFile.xml", 
+            "DataFormats/BeamSpot/interface/BeamSpotHostProduct.h", 
+            "DataFormats/BeamSpot/interface/BeamSpotPOD.h", 
+            "DataFormats/BeamSpot/interface/alpaka/BeamSpotDeviceProduct.h", 
+            "DataFormats/BeamSpot/src/alpaka/classes_cuda.h", 
+            "DataFormats/BeamSpot/src/alpaka/classes_cuda_def.xml", 
+            "DataFormats/BeamSpot/src/alpaka/classes_rocm.h", 
+            "DataFormats/BeamSpot/src/alpaka/classes_rocm_def.xml", 
+            "DataFormats/BeamSpot/src/classes.h", 
+            "DataFormats/BeamSpot/src/classes_def.xml", 
             "DataFormats/Portable/interface/PortableDeviceProduct.h", 
             "DataFormats/Portable/interface/PortableHostProduct.h", 
             "DataFormats/Portable/interface/PortableProduct.h", 
@@ -2952,6 +2962,6 @@
         "created_at": 1700066237, 
         "number": 43295, 
         "state": "open", 
-        "updated_at": 1700066259
+        "updated_at": 1700066763
     }
 }
