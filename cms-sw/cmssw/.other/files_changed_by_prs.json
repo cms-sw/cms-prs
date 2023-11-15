@@ -2902,13 +2902,21 @@
             "Configuration/ProcessModifiers/python/alpaka_cff.py", 
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
             "Configuration/StandardSequences/python/Services_cff.py", 
+            "DQM/SiPixelHeterogeneous/python/SiPixelHeterogenousDQM_FirstStep_cff.py", 
+            "EventFilter/SiPixelRawToDigi/python/siPixelDigis_cff.py", 
             "HLTrigger/Configuration/python/customizeHLTforPatatrack.py", 
-            "HLTrigger/Configuration/test/testHLTWithAlpakaPixelReco.sh"
+            "RecoLocalTracker/SiPixelClusterizer/python/siPixelClustersPreSplitting_cff.py", 
+            "RecoLocalTracker/SiPixelRecHits/python/PixelCPEESProducers_cff.py", 
+            "RecoLocalTracker/SiPixelRecHits/python/SiPixelRecHits_cfi.py", 
+            "RecoTracker/Configuration/python/RecoPixelVertexing_cff.py", 
+            "RecoTracker/Configuration/python/customizePixelOnlyForProfiling.py", 
+            "RecoTracker/PixelTrackFitting/python/PixelTracks_cff.py", 
+            "RecoVertex/BeamSpotProducer/python/BeamSpot_cff.py"
         ], 
         "created_at": 1700065635, 
         "number": 43294, 
         "state": "open", 
-        "updated_at": 1700065662
+        "updated_at": 1700067644
     }, 
     "43295": {
         "base_branch": "master", 
