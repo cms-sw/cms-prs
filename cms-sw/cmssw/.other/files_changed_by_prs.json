@@ -2930,5 +2930,28 @@
         "number": 43294, 
         "state": "open", 
         "updated_at": 1700065662
+    }, 
+    "43295": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/Portable/interface/PortableDeviceProduct.h", 
+            "DataFormats/Portable/interface/PortableHostProduct.h", 
+            "DataFormats/Portable/interface/PortableProduct.h", 
+            "DataFormats/Portable/interface/alpaka/PortableCollection.h", 
+            "DataFormats/Portable/interface/alpaka/PortableProduct.h", 
+            "DataFormats/PortableTestObjects/interface/TestHostProduct.h", 
+            "DataFormats/PortableTestObjects/interface/TestStruct.h", 
+            "DataFormats/PortableTestObjects/interface/alpaka/TestDeviceProduct.h", 
+            "DataFormats/PortableTestObjects/src/alpaka/classes_cuda.h", 
+            "DataFormats/PortableTestObjects/src/alpaka/classes_cuda_def.xml", 
+            "DataFormats/PortableTestObjects/src/alpaka/classes_rocm.h", 
+            "DataFormats/PortableTestObjects/src/alpaka/classes_rocm_def.xml", 
+            "DataFormats/PortableTestObjects/src/classes.h", 
+            "DataFormats/PortableTestObjects/src/classes_def.xml"
+        ], 
+        "created_at": 1700066237, 
+        "number": 43295, 
+        "state": "open", 
+        "updated_at": 1700066259
     }
 }
