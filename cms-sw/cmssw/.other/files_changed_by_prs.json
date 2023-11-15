@@ -657,7 +657,10 @@
             "HLTrigger/Configuration/python/customizeHLTforPatatrack.py", 
             "HLTrigger/Configuration/test/testHLTWithAlpakaPixelReco.sh", 
             "HeterogeneousCore/AlpakaInterface/interface/AtomicPairCounter.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/FlexiStorage.h", 
             "HeterogeneousCore/AlpakaInterface/interface/HistoContainer.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/OneToManyAssoc.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/OneToManyAssoc_HistoContainer.md", 
             "HeterogeneousCore/AlpakaInterface/interface/SimpleVector.h", 
             "HeterogeneousCore/AlpakaInterface/interface/VecArray.h", 
             "HeterogeneousCore/AlpakaInterface/interface/alpakastdAlgorithm.h", 
@@ -766,7 +769,7 @@
         "created_at": 1679395679, 
         "number": 41117, 
         "state": "open", 
-        "updated_at": 1699303634
+        "updated_at": 1700061901
     }, 
     "41162": {
         "base_branch": "master", 
