@@ -921,8 +921,6 @@
             "DataFormats/TrackSoA/test/BuildFile.xml", 
             "DataFormats/TrackSoA/test/alpaka/TrackSoAHeterogeneous_test.cc", 
             "DataFormats/TrackSoA/test/alpaka/TrackSoAHeterogeneous_test.dev.cc", 
-            "RecoTracker/Configuration/python/RecoPixelVertexing_cff.py", 
-            "RecoTracker/Configuration/python/customizePixelOnlyForProfiling.py", 
             "RecoTracker/PixelSeeding/BuildFile.xml", 
             "RecoTracker/PixelSeeding/plugins/BuildFile.xml", 
             "RecoTracker/PixelSeeding/plugins/alpaka/BrokenLineFit.dev.cc", 
@@ -951,13 +949,12 @@
             "RecoTracker/PixelTrackFitting/interface/alpaka/RiemannFit.h", 
             "RecoTracker/PixelTrackFitting/plugins/BuildFile.xml", 
             "RecoTracker/PixelTrackFitting/plugins/PixelTrackDumpAlpaka.cc", 
-            "RecoTracker/PixelTrackFitting/plugins/PixelTrackProducerFromSoAAlpaka.cc", 
-            "RecoTracker/PixelTrackFitting/python/PixelTracks_cff.py"
+            "RecoTracker/PixelTrackFitting/plugins/PixelTrackProducerFromSoAAlpaka.cc"
         ], 
         "created_at": 1680702640, 
         "number": 41286, 
         "state": "open", 
-        "updated_at": 1700065289
+        "updated_at": 1700067351
     }, 
     "41287": {
         "base_branch": "master", 
