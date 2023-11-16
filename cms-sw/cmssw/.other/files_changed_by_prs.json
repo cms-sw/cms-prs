@@ -2437,6 +2437,7 @@
         "base_branch": "master", 
         "changed_files_names": [
             "DataFormats/CaloRecHit/interface/MultifitComputations.h", 
+            "DataFormats/EcalDigi/interface/EcalDigiCollections.h", 
             "EventFilter/EcalRawToDigi/plugins/BuildFile.xml", 
             "EventFilter/EcalRawToDigi/plugins/EcalDigisFromPortableProducer.cc", 
             "EventFilter/EcalRawToDigi/plugins/alpaka/DeclsForKernels.h", 
@@ -2474,7 +2475,7 @@
         "created_at": 1699883945, 
         "number": 43257, 
         "state": "open", 
-        "updated_at": 1700145268
+        "updated_at": 1700153451
     }, 
     "43259": {
         "base_branch": "master", 
