@@ -2431,8 +2431,13 @@
     "43257": {
         "base_branch": "master", 
         "changed_files_names": [
+            "CUDADataFormats/EcalRecHitSoA/BuildFile.xml", 
+            "CUDADataFormats/EcalRecHitSoA/interface/EcalRecHit.h", 
+            "CUDADataFormats/EcalRecHitSoA/interface/EcalUncalibratedRecHit.h", 
+            "CUDADataFormats/EcalRecHitSoA/interface/RecoTypes.h", 
             "DataFormats/CaloRecHit/interface/MultifitComputations.h", 
             "DataFormats/EcalDigi/interface/EcalDigiCollections.h", 
+            "DataFormats/EcalRecHit/interface/RecoTypes.h", 
             "EventFilter/EcalRawToDigi/plugins/BuildFile.xml", 
             "EventFilter/EcalRawToDigi/plugins/EcalDigisFromPortableProducer.cc", 
             "EventFilter/EcalRawToDigi/plugins/alpaka/DeclsForKernels.h", 
@@ -2451,6 +2456,8 @@
             "RecoLocalCalo/EcalRecProducers/plugins/AmplitudeComputationKernels.h", 
             "RecoLocalCalo/EcalRecProducers/plugins/BuildFile.xml", 
             "RecoLocalCalo/EcalRecProducers/plugins/DeclsForKernels.h", 
+            "RecoLocalCalo/EcalRecProducers/plugins/EcalCPURecHitProducer.cc", 
+            "RecoLocalCalo/EcalRecProducers/plugins/EcalRecHitProducerGPU.cc", 
             "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitConvertPortable2CPUFormat.cc", 
             "RecoLocalCalo/EcalRecProducers/plugins/TimeComputationKernels.h", 
             "RecoLocalCalo/EcalRecProducers/plugins/alpaka/AmplitudeComputationCommonKernels.h", 
@@ -2470,7 +2477,7 @@
         "created_at": 1699883945, 
         "number": 43257, 
         "state": "open", 
-        "updated_at": 1700153451
+        "updated_at": 1700167491
     }, 
     "43259": {
         "base_branch": "master", 
