@@ -574,6 +574,7 @@
             "DataFormats/SiPixelClusterSoA/src/alpaka/classes_cuda_def.xml", 
             "DataFormats/SiPixelClusterSoA/src/alpaka/classes_rocm.h", 
             "DataFormats/SiPixelClusterSoA/src/alpaka/classes_rocm_def.xml", 
+            "DataFormats/SiPixelClusterSoA/src/classes.cc", 
             "DataFormats/SiPixelClusterSoA/src/classes.h", 
             "DataFormats/SiPixelClusterSoA/src/classes_def.xml", 
             "DataFormats/SiPixelClusterSoA/test/BuildFile.xml", 
@@ -768,7 +769,7 @@
         "created_at": 1679395679, 
         "number": 41117, 
         "state": "open", 
-        "updated_at": 1700124109
+        "updated_at": 1700128810
     }, 
     "41162": {
         "base_branch": "master", 
