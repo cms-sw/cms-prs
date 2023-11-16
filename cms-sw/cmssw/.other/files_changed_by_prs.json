@@ -2126,8 +2126,6 @@
     "43164": {
         "base_branch": "master", 
         "changed_files_names": [
-            "Configuration/Eras/python/Era_Run3_cff.py", 
-            "Configuration/Eras/python/Modifier_hcalPfCutsFromDB_cff.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaHoverEL1Seeded_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaHoverEUnseeded_cfi.py", 
             "RecoEgamma/EgammaElectronAlgos/interface/ElectronHcalHelper.h", 
@@ -2151,13 +2149,12 @@
             "RecoEgamma/EgammaPhotonProducers/src/GEDPhotonProducer.cc", 
             "RecoEgamma/EgammaPhotonProducers/src/PhotonProducer.cc", 
             "RecoEgamma/PhotonIdentification/interface/PhotonIsolationCalculator.h", 
-            "RecoEgamma/PhotonIdentification/src/PhotonIsolationCalculator.cc", 
-            "RecoLocalCalo/HcalRecAlgos/plugins/HcalChannelPropertiesEP.cc"
+            "RecoEgamma/PhotonIdentification/src/PhotonIsolationCalculator.cc"
         ], 
         "created_at": 1698857678, 
         "number": 43164, 
         "state": "open", 
-        "updated_at": 1700045764
+        "updated_at": 1700165437
     }, 
     "43176": {
         "base_branch": "master", 
