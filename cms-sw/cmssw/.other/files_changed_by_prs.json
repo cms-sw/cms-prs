@@ -2448,8 +2448,15 @@
             "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
             "HeterogeneousCore/AlpakaInterface/interface/workdivision.h", 
             "HeterogeneousCore/AlpakaInterface/test/alpaka/testKernel.dev.cc", 
+            "RecoLocalCalo/EcalRecProducers/BuildFile.xml", 
+            "RecoLocalCalo/EcalRecProducers/interface/EigenMatrixTypes_gpu.h", 
+            "RecoLocalCalo/EcalRecProducers/plugins/EigenMatrixTypes_gpu.h", 
+            "RecoLocalCalo/EcalRecProducers/plugins/AmplitudeComputationCommonKernels.h", 
+            "RecoLocalCalo/EcalRecProducers/plugins/AmplitudeComputationKernels.h", 
             "RecoLocalCalo/EcalRecProducers/plugins/BuildFile.xml", 
+            "RecoLocalCalo/EcalRecProducers/plugins/DeclsForKernels.h", 
             "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitConvertPortable2CPUFormat.cc", 
+            "RecoLocalCalo/EcalRecProducers/plugins/TimeComputationKernels.h", 
             "RecoLocalCalo/EcalRecProducers/plugins/alpaka/AmplitudeComputationCommonKernels.h", 
             "RecoLocalCalo/EcalRecProducers/plugins/alpaka/AmplitudeComputationKernels.dev.cc", 
             "RecoLocalCalo/EcalRecProducers/plugins/alpaka/AmplitudeComputationKernels.h", 
@@ -2467,7 +2474,7 @@
         "created_at": 1699883945, 
         "number": 43257, 
         "state": "open", 
-        "updated_at": 1699956824
+        "updated_at": 1700145268
     }, 
     "43259": {
         "base_branch": "master", 
