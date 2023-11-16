@@ -3168,5 +3168,18 @@
         "number": 43309, 
         "state": "open", 
         "updated_at": 1700169121
+    }, 
+    "43310": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/Portable/interface/PortableCollection.h", 
+            "DataFormats/Portable/interface/alpaka/PortableCollection.h", 
+            "DataFormats/Portable/test/BuildFile.xml", 
+            "DataFormats/Portable/test/portableCollectionOnHost.cc"
+        ], 
+        "created_at": 1700171244, 
+        "number": 43310, 
+        "state": "open", 
+        "updated_at": 1700171290
     }
 }
