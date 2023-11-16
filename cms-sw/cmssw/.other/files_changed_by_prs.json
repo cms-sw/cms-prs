@@ -807,9 +807,6 @@
             "CalibTracker/SiPixelESProducers/plugins/BuildFile.xml", 
             "CalibTracker/SiPixelESProducers/plugins/alpaka/SiPixelCablingSoAESProducer.cc", 
             "CalibTracker/SiPixelESProducers/plugins/alpaka/SiPixelGainCalibrationForHLTSoAESProducer.cc", 
-            "Configuration/ProcessModifiers/python/alpakaValidationPixel_cff.py", 
-            "Configuration/ProcessModifiers/python/alpakaValidation_cff.py", 
-            "Configuration/ProcessModifiers/python/alpaka_cff.py", 
             "DataFormats/SiPixelClusterSoA/BuildFile.xml", 
             "DataFormats/SiPixelClusterSoA/interface/ClusteringConstants.h", 
             "DataFormats/SiPixelClusterSoA/interface/SiPixelClustersDevice.h", 
@@ -820,6 +817,7 @@
             "DataFormats/SiPixelClusterSoA/src/alpaka/classes_cuda_def.xml", 
             "DataFormats/SiPixelClusterSoA/src/alpaka/classes_rocm.h", 
             "DataFormats/SiPixelClusterSoA/src/alpaka/classes_rocm_def.xml", 
+            "DataFormats/SiPixelClusterSoA/src/classes.cc", 
             "DataFormats/SiPixelClusterSoA/src/classes.h", 
             "DataFormats/SiPixelClusterSoA/src/classes_def.xml", 
             "DataFormats/SiPixelClusterSoA/test/BuildFile.xml", 
@@ -899,7 +897,7 @@
         "created_at": 1680702636, 
         "number": 41285, 
         "state": "open", 
-        "updated_at": 1700067233
+        "updated_at": 1700129220
     }, 
     "41286": {
         "base_branch": "master", 
