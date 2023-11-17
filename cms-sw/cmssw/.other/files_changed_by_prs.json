@@ -1890,6 +1890,7 @@
     "43065": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/relval_nano.py", 
             "DPGAnalysis/MuonTools/plugins/MuCSCTnPFlatTableProducer.cc", 
             "DPGAnalysis/MuonTools/plugins/MuDTMuonExtTableProducer.cc", 
             "DPGAnalysis/MuonTools/plugins/MuGEMMuonExtTableProducer.cc", 
@@ -1898,12 +1899,14 @@
             "DPGAnalysis/MuonTools/python/nano_mu_global_cff.py", 
             "DPGAnalysis/MuonTools/python/nano_mu_local_reco_cff.py", 
             "PhysicsTools/NanoAOD/plugins/BuildFile.xml", 
-            "PhysicsTools/NanoAOD/plugins/SimpleFlatTableProducerPlugins.cc"
+            "PhysicsTools/NanoAOD/plugins/SimpleFlatTableProducerPlugins.cc", 
+            "PhysicsTools/NanoAOD/python/autoNANO.py", 
+            "PhysicsTools/NanoAOD/python/nano_cff.py"
         ], 
         "created_at": 1697704518, 
         "number": 43065, 
         "state": "open", 
-        "updated_at": 1699303425
+        "updated_at": 1700221679
     }, 
     "43107": {
         "base_branch": "master", 
