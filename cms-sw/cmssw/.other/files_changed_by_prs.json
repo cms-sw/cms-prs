@@ -3342,5 +3342,17 @@
         "number": 43330, 
         "state": "open", 
         "updated_at": 1700469607
+    }, 
+    "43331": {
+        "base_branch": "CMSSW_13_3_X", 
+        "changed_files_names": [
+            "Configuration/EventContent/python/EventContent_cff.py", 
+            "HLTrigger/Configuration/python/HLTrigger_EventContent_cff.py", 
+            "HLTrigger/Configuration/test/getEventContent.py"
+        ], 
+        "created_at": 1700474426, 
+        "number": 43331, 
+        "state": "open", 
+        "updated_at": 1700474454
     }
 }
