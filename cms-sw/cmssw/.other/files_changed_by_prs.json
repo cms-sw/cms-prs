@@ -1572,31 +1572,6 @@
         "state": "open", 
         "updated_at": 1699303499
     }, 
-    "42818": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CalibCalorimetry/HcalTPGAlgos/interface/HcaluLUTTPGCoder.h", 
-            "CalibCalorimetry/HcalTPGAlgos/src/HcaluLUTTPGCoder.cc", 
-            "CalibFormats/HcalObjects/interface/HcalTPGCoder.h", 
-            "CalibFormats/HcalObjects/src/HcalTPGCoder.cc", 
-            "CaloOnlineTools/HcalOnlineDb/interface/HcalLutManager.h", 
-            "CaloOnlineTools/HcalOnlineDb/src/HcalLutManager.cc", 
-            "Geometry/HcalTowerAlgo/interface/HcalTrigTowerGeometry.h", 
-            "Geometry/HcalTowerAlgo/src/HcalTrigTowerGeometry.cc", 
-            "L1Trigger/L1TZDC/plugins/L1TZDCProducer.cc", 
-            "L1Trigger/L1TZDC/python/etSumZdcAnalyzer_cfi.py", 
-            "L1Trigger/L1TZDC/python/etSumZdcProducer_cfi.py", 
-            "L1Trigger/L1TZDC/test/L1TZDCProducerV1.cc", 
-            "L1Trigger/L1TZDC/test/README", 
-            "L1Trigger/L1TZDC/test/etSumZDCProducerV1_cfi.py", 
-            "SimCalorimetry/HcalTrigPrimAlgos/interface/HcalTriggerPrimitiveAlgo.h", 
-            "SimCalorimetry/HcalTrigPrimAlgos/src/HcalTriggerPrimitiveAlgo.cc"
-        ], 
-        "created_at": 1695089883, 
-        "number": 42818, 
-        "state": "open", 
-        "updated_at": 1699372344
-    }, 
     "42840": {
         "base_branch": "master", 
         "changed_files_names": [
