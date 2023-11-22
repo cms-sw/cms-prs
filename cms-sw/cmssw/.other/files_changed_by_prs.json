@@ -2663,5 +2663,16 @@
         "number": 43365, 
         "state": "open", 
         "updated_at": 1700671058
+    }, 
+    "43366": {
+        "base_branch": "CMSSW_13_2_X", 
+        "changed_files_names": [
+            "SimG4Core/CustomPhysics/interface/RHStopTracer.h", 
+            "SimG4Core/CustomPhysics/plugins/RHStopTracer.cc"
+        ], 
+        "created_at": 1700671037, 
+        "number": 43366, 
+        "state": "open", 
+        "updated_at": 1700671075
     }
 }
