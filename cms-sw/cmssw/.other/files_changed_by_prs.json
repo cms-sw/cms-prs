@@ -2701,5 +2701,21 @@
         "number": 43368, 
         "state": "open", 
         "updated_at": 1700682328
+    }, 
+    "43369": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "PhysicsTools/NanoAOD/python/electrons_cff.py", 
+            "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py", 
+            "RecoEgamma/EgammaTools/python/egammaObjectModificationsInMiniAOD_cff.py", 
+            "RecoEgamma/ElectronIdentification/python/ElectronMVAValueMapProducer_cfi.py", 
+            "RecoEgamma/ElectronIdentification/python/FWLite.py", 
+            "RecoEgamma/ElectronIdentification/python/Identification/mvaElectronID_Winter22_HZZ_V1_cff.py", 
+            "RecoEgamma/ElectronIdentification/test/testElectronMVARun3_cfg.py"
+        ], 
+        "created_at": 1700683687, 
+        "number": 43369, 
+        "state": "open", 
+        "updated_at": 1700683715
     }
 }
