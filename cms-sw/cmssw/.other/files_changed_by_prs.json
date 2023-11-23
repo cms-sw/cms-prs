@@ -2110,12 +2110,13 @@
     "43249": {
         "base_branch": "master", 
         "changed_files_names": [
-            "CalibPPS/AlignmentGlobal/plugins/PPSAlignmentHarvester.cc"
+            "CalibPPS/AlignmentGlobal/plugins/PPSAlignmentHarvester.cc", 
+            "CalibPPS/AlignmentGlobal/python/PPSAlignmentHarvester_cff.py"
         ], 
         "created_at": 1699699353, 
         "number": 43249, 
         "state": "open", 
-        "updated_at": 1699829939
+        "updated_at": 1700739380
     }, 
     "43257": {
         "base_branch": "master", 
