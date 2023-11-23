@@ -2636,5 +2636,35 @@
         "number": 43376, 
         "state": "open", 
         "updated_at": 1700755620
+    }, 
+    "43378": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/Eras/python/Era_Run3_UPC_2023_cff.py", 
+            "Configuration/Eras/python/Era_Run3_UPC_cff.py", 
+            "Configuration/Eras/python/Modifier_highBetaStar_2023_cff.py", 
+            "Configuration/Eras/python/Modifier_run3_upc_cff.py", 
+            "Configuration/StandardSequences/python/Eras.py", 
+            "Configuration/StandardSequences/python/Reconstruction_cff.py", 
+            "PhysicsTools/PatAlgos/python/selectionLayer1/lowPtElectronSelector_cfi.py", 
+            "PhysicsTools/PatAlgos/python/slimming/MicroEventContent_cff.py", 
+            "PhysicsTools/PatAlgos/python/slimming/isolatedTracks_cfi.py", 
+            "PhysicsTools/PatAlgos/python/slimming/lostTracks_cfi.py", 
+            "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py", 
+            "PhysicsTools/PatAlgos/python/slimming/packedPFCandidates_cfi.py", 
+            "PhysicsTools/PatAlgos/python/slimming/slimmedCaloJets_cfi.py", 
+            "PhysicsTools/PatAlgos/python/slimming/slimming_cff.py", 
+            "RecoEgamma/EgammaElectronProducers/python/lowPtGsfElectronSeeds_cfi.py", 
+            "RecoHI/HiCentralityAlgos/python/HiCentrality_cfi.py", 
+            "RecoHI/HiTracking/python/HILowPtConformalPixelTracks_cfi.py", 
+            "RecoJets/Configuration/python/RecoJets_EventContent_cff.py", 
+            "RecoTracker/Configuration/python/RecoTracker_EventContent_cff.py", 
+            "RecoTracker/IterativeTracking/python/PixelPairStep_cff.py", 
+            "RecoTracker/TkSeedGenerator/python/trackerClusterCheck_cfi.py"
+        ], 
+        "created_at": 1700775095, 
+        "number": 43378, 
+        "state": "open", 
+        "updated_at": 1700775121
     }
 }
