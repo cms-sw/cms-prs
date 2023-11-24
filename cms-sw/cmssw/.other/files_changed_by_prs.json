@@ -3283,5 +3283,17 @@
         "number": 43383, 
         "state": "open", 
         "updated_at": 1700821526
+    }, 
+    "43384": {
+        "base_branch": "CMSSW_13_2_X", 
+        "changed_files_names": [
+            "PhysicsTools/NanoAOD/python/nanoDQM_cfi.py", 
+            "PhysicsTools/NanoAOD/python/taus_cff.py", 
+            "PhysicsTools/PatAlgos/plugins/PATTauSignalCandidatesProducer.cc"
+        ], 
+        "created_at": 1700822422, 
+        "number": 43384, 
+        "state": "open", 
+        "updated_at": 1700822459
     }
 }
