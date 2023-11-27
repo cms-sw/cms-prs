@@ -2641,6 +2641,7 @@
     "43349": {
         "base_branch": "master", 
         "changed_files_names": [
+            "CondCore/CondHDF5ESSource/plugins/HDF5ProductResolver.cc", 
             "FWCore/Framework/interface/CallbackBase.h", 
             "FWCore/Framework/src/ESSourceProductResolverBase.cc", 
             "FWCore/ServiceRegistry/interface/ESModuleCallingContext.h", 
@@ -2650,7 +2651,7 @@
         "created_at": 1700594444, 
         "number": 43349, 
         "state": "open", 
-        "updated_at": 1700604782
+        "updated_at": 1701098387
     }, 
     "43351": {
         "base_branch": "master", 
