@@ -1845,6 +1845,37 @@
         "state": "open", 
         "updated_at": 1699303486
     }, 
+    "42890": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibPPS/ESProducers/plugins/CTPPSBeamParametersFromLHCInfoESSource.cc", 
+            "CalibPPS/ESProducers/python/ctppsBeamParametersFromLHCInfoESSource_cff.py", 
+            "CalibPPS/ESProducers/python/ctppsInterpolatedOpticalFunctionsESSource_cff.py", 
+            "CondFormats/DataRecord/interface/CTPPSBeamParametersRcd.h", 
+            "CondTools/RunInfo/interface/LHCInfoCombined.h", 
+            "CondTools/RunInfo/src/LHCInfoCombined.cc", 
+            "Configuration/Eras/python/Modifier_ctpps_directSim_cff.py", 
+            "Configuration/ProcessModifiers/python/Era_Run3_CTPPS_directSim_cff.py", 
+            "RecoPPS/ProtonReconstruction/python/ctppsProtons_cff.py", 
+            "SimPPS/DirectSimProducer/python/ppsDirectProtonSimulation_cff.py", 
+            "SimTransport/PPSProtonTransport/python/PPSTransportESSources_cfi.py", 
+            "Validation/CTPPS/plugins/CTPPSHepMCDistributionPlotter.cc", 
+            "Validation/CTPPS/plugins/CTPPSProtonReconstructionEfficiencyEstimatorData.cc", 
+            "Validation/CTPPS/plugins/CTPPSProtonReconstructionEfficiencyEstimatorMC.cc", 
+            "Validation/CTPPS/plugins/CTPPSProtonReconstructionSimulationValidator.cc", 
+            "Validation/CTPPS/python/ctppsHepMCDistributionPlotter_cff.py", 
+            "Validation/CTPPS/python/ctppsLHCInfoPlotter_cff.py", 
+            "Validation/CTPPS/python/ctppsProtonReconstructionEfficiencyEstimatorData_cff.py", 
+            "Validation/CTPPS/python/ctppsProtonReconstructionEfficiencyEstimatorMC_cff.py", 
+            "Validation/CTPPS/python/ctppsProtonReconstructionSimulationValidator_cff.py", 
+            "Validation/CTPPS/test/simu/run_multiple", 
+            "Validation/CTPPS/test/simu/template_cfg.py"
+        ], 
+        "created_at": 1695819235, 
+        "number": 42890, 
+        "state": "open", 
+        "updated_at": 1701088687
+    }, 
     "42917": {
         "base_branch": "master", 
         "changed_files_names": [
@@ -1909,7 +1940,7 @@
         "created_at": 1696425680, 
         "number": 42946, 
         "state": "open", 
-        "updated_at": 1701068302
+        "updated_at": 1701085479
     }, 
     "43019": {
         "base_branch": "CMSSW_13_2_X", 
@@ -1991,7 +2022,7 @@
         "created_at": 1698213278, 
         "number": 43107, 
         "state": "open", 
-        "updated_at": 1701073581
+        "updated_at": 1701088871
     }, 
     "43130": {
         "base_branch": "master", 
@@ -2183,7 +2214,7 @@
         "created_at": 1698998043, 
         "number": 43176, 
         "state": "open", 
-        "updated_at": 1701068885
+        "updated_at": 1701081283
     }, 
     "43186": {
         "base_branch": "master", 
@@ -2683,7 +2714,7 @@
         "created_at": 1700682305, 
         "number": 43368, 
         "state": "open", 
-        "updated_at": 1700777943
+        "updated_at": 1701083437
     }, 
     "43369": {
         "base_branch": "master", 
@@ -2733,7 +2764,7 @@
         "created_at": 1700734647, 
         "number": 43372, 
         "state": "open", 
-        "updated_at": 1701075128
+        "updated_at": 1701079041
     }, 
     "43373": {
         "base_branch": "master", 
@@ -3071,7 +3102,7 @@
         "created_at": 1701075953, 
         "number": 43396, 
         "state": "open", 
-        "updated_at": 1701076371
+        "updated_at": 1701086971
     }, 
     "43398": {
         "base_branch": "master", 
@@ -3082,7 +3113,7 @@
         "created_at": 1701077521, 
         "number": 43398, 
         "state": "open", 
-        "updated_at": 1701077549
+        "updated_at": 1701087497
     }, 
     "43399": {
         "base_branch": "master", 
@@ -3092,6 +3123,6 @@
         "created_at": 1701079820, 
         "number": 43399, 
         "state": "open", 
-        "updated_at": 1701079839
+        "updated_at": 1701085824
     }
 }
