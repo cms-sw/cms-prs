@@ -3072,5 +3072,36 @@
         "number": 43396, 
         "state": "open", 
         "updated_at": 1701076371
+    }, 
+    "43397": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibPPS/ESProducers/plugins/CTPPSBeamParametersFromLHCInfoESSource.cc", 
+            "CalibPPS/ESProducers/python/ctppsBeamParametersFromLHCInfoESSource_cff.py", 
+            "CalibPPS/ESProducers/python/ctppsInterpolatedOpticalFunctionsESSource_cff.py", 
+            "CondFormats/DataRecord/interface/CTPPSBeamParametersRcd.h", 
+            "CondTools/RunInfo/interface/LHCInfoCombined.h", 
+            "CondTools/RunInfo/src/LHCInfoCombined.cc", 
+            "Configuration/Eras/python/Modifier_ctpps_directSim_cff.py", 
+            "Configuration/ProcessModifiers/python/Era_Run3_CTPPS_directSim_cff.py", 
+            "RecoPPS/ProtonReconstruction/python/ctppsProtons_cff.py", 
+            "SimPPS/DirectSimProducer/python/ppsDirectProtonSimulation_cff.py", 
+            "SimTransport/PPSProtonTransport/python/PPSTransportESSources_cfi.py", 
+            "Validation/CTPPS/plugins/CTPPSHepMCDistributionPlotter.cc", 
+            "Validation/CTPPS/plugins/CTPPSProtonReconstructionEfficiencyEstimatorData.cc", 
+            "Validation/CTPPS/plugins/CTPPSProtonReconstructionEfficiencyEstimatorMC.cc", 
+            "Validation/CTPPS/plugins/CTPPSProtonReconstructionSimulationValidator.cc", 
+            "Validation/CTPPS/python/ctppsHepMCDistributionPlotter_cff.py", 
+            "Validation/CTPPS/python/ctppsLHCInfoPlotter_cff.py", 
+            "Validation/CTPPS/python/ctppsProtonReconstructionEfficiencyEstimatorData_cff.py", 
+            "Validation/CTPPS/python/ctppsProtonReconstructionEfficiencyEstimatorMC_cff.py", 
+            "Validation/CTPPS/python/ctppsProtonReconstructionSimulationValidator_cff.py", 
+            "Validation/CTPPS/test/simu/run_multiple", 
+            "Validation/CTPPS/test/simu/template_cfg.py"
+        ], 
+        "created_at": 1701077082, 
+        "number": 43397, 
+        "state": "open", 
+        "updated_at": 1701077107
     }
 }
