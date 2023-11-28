@@ -2174,39 +2174,6 @@
         "state": "open", 
         "updated_at": 1699387136
     }, 
-    "43164": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaHoverEL1Seeded_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaHoverEUnseeded_cfi.py", 
-            "RecoEgamma/EgammaElectronAlgos/interface/ElectronHcalHelper.h", 
-            "RecoEgamma/EgammaElectronAlgos/interface/GsfElectronAlgo.h", 
-            "RecoEgamma/EgammaElectronAlgos/src/ElectronHcalHelper.cc", 
-            "RecoEgamma/EgammaElectronAlgos/src/GsfElectronAlgo.cc", 
-            "RecoEgamma/EgammaElectronProducers/plugins/ElectronSeedProducer.cc", 
-            "RecoEgamma/EgammaElectronProducers/plugins/GsfElectronProducer.cc", 
-            "RecoEgamma/EgammaElectronProducers/python/ecalDrivenElectronSeeds_cfi.py", 
-            "RecoEgamma/EgammaElectronProducers/python/gsfElectronProducer_cfi.py", 
-            "RecoEgamma/EgammaHLTProducers/plugins/EgammaHLTHcalVarProducerFromRecHit.cc", 
-            "RecoEgamma/EgammaIsolationAlgos/interface/EgammaHcalIsolation.h", 
-            "RecoEgamma/EgammaIsolationAlgos/python/egammaHBHERecHitThreshold_cff.py", 
-            "RecoEgamma/EgammaIsolationAlgos/src/EgammaHcalIsolation.cc", 
-            "RecoEgamma/EgammaPhotonProducers/python/conversionTrackCandidates_cfi.py", 
-            "RecoEgamma/EgammaPhotonProducers/python/conversions_cfi.py", 
-            "RecoEgamma/EgammaPhotonProducers/python/gedPhotons_cfi.py", 
-            "RecoEgamma/EgammaPhotonProducers/python/photons_cfi.py", 
-            "RecoEgamma/EgammaPhotonProducers/src/ConversionTrackCandidateProducer.cc", 
-            "RecoEgamma/EgammaPhotonProducers/src/ConvertedPhotonProducer.cc", 
-            "RecoEgamma/EgammaPhotonProducers/src/GEDPhotonProducer.cc", 
-            "RecoEgamma/EgammaPhotonProducers/src/PhotonProducer.cc", 
-            "RecoEgamma/PhotonIdentification/interface/PhotonIsolationCalculator.h", 
-            "RecoEgamma/PhotonIdentification/src/PhotonIsolationCalculator.cc"
-        ], 
-        "created_at": 1698857678, 
-        "number": 43164, 
-        "state": "open", 
-        "updated_at": 1701103113
-    }, 
     "43176": {
         "base_branch": "master", 
         "changed_files_names": [
