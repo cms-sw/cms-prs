@@ -2666,8 +2666,10 @@
     "43378": {
         "base_branch": "master", 
         "changed_files_names": [
-            "Configuration/Eras/python/Era_Run3_UPC_2023_cff.py", 
+            "Configuration/Eras/python/Era_Run3_2023_UPC_cff.py", 
             "Configuration/Eras/python/Modifier_run3_upc_cff.py", 
+            "Configuration/PyReleaseValidation/python/relval_standard.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
             "Configuration/StandardSequences/python/Eras.py", 
             "Configuration/StandardSequences/python/Reconstruction_cff.py", 
             "PhysicsTools/PatAlgos/python/selectionLayer1/lowPtElectronSelector_cfi.py", 
@@ -2689,7 +2691,7 @@
         "created_at": 1700775095, 
         "number": 43378, 
         "state": "open", 
-        "updated_at": 1701096438
+        "updated_at": 1701209666
     }, 
     "43382": {
         "base_branch": "master", 
