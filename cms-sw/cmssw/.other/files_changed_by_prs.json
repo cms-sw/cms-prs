@@ -2975,6 +2975,7 @@
             "Configuration/Geometry/python/GeometryExtended2026D104Reco_cff.py", 
             "Configuration/Geometry/python/GeometryExtended2026D104_cff.py", 
             "Configuration/Geometry/python/dict2026Geometry.py", 
+            "Configuration/PyReleaseValidation/python/relval_2026.py", 
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
             "Configuration/StandardSequences/python/GeometryConf.py", 
             "DataFormats/ForwardDetId/interface/ETLDetId.h", 
@@ -3006,7 +3007,7 @@
         "created_at": 1701102589, 
         "number": 43407, 
         "state": "open", 
-        "updated_at": 1701103135
+        "updated_at": 1701270168
     }, 
     "43409": {
         "base_branch": "master", 
