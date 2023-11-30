@@ -3043,5 +3043,17 @@
         "number": 43449, 
         "state": "open", 
         "updated_at": 1701351945
+    }, 
+    "43451": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "HeterogeneousCore/ROCmServices/plugins/ROCmService.cc", 
+            "HeterogeneousCore/ROCmUtilities/bin/rocmComputeCapabilities.cpp", 
+            "HeterogeneousCore/ROCmUtilities/interface/rsmiCheck.h"
+        ], 
+        "created_at": 1701353578, 
+        "number": 43451, 
+        "state": "open", 
+        "updated_at": 1701353605
     }
 }
