@@ -2945,5 +2945,17 @@
         "number": 43453, 
         "state": "open", 
         "updated_at": 1701361834
+    }, 
+    "43454": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4Core/Application/plugins/OscarMTProducer.cc", 
+            "SimG4Core/Application/python/g4SimHits_cfi.py", 
+            "SimG4Core/SensitiveDetector/src/AttachSD.cc"
+        ], 
+        "created_at": 1701364884, 
+        "number": 43454, 
+        "state": "open", 
+        "updated_at": 1701364907
     }
 }
