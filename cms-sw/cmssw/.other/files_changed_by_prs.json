@@ -2975,5 +2975,24 @@
         "number": 43444, 
         "state": "open", 
         "updated_at": 1701337303
+    }, 
+    "43445": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/ForwardCommonData/data/hfnose/v5/hfnose.xml", 
+            "Geometry/ForwardCommonData/data/hfnoseCell/v2/hfnoseCell.xml", 
+            "Geometry/ForwardCommonData/data/hfnoseWafer/v2/hfnose.xml", 
+            "Geometry/ForwardCommonData/data/hfnoseWafer/v2/hfnoseWafer.xml", 
+            "Geometry/ForwardCommonData/data/hfnoseWafer/v2/hfnosepos.xml", 
+            "Geometry/ForwardCommonData/python/hfnoseWaferV1XML_cfi.py", 
+            "Geometry/ForwardCommonData/python/hfnoseWaferXML_cfi.py", 
+            "Geometry/ForwardCommonData/python/hfnoseWaferV2XML_cfi.py", 
+            "Geometry/ForwardCommonData/test/dumpHFNoseWafer_cfg.py", 
+            "Geometry/HGCalCommonData/data/hgcalMaterial/v3/hgcalMaterial.xml"
+        ], 
+        "created_at": 1701347064, 
+        "number": 43445, 
+        "state": "open", 
+        "updated_at": 1701347091
     }
 }
