@@ -3081,5 +3081,27 @@
         "number": 43473, 
         "state": "open", 
         "updated_at": 1701442492
+    }, 
+    "43475": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "PhysicsTools/PyTorch/BuildFile.xml", 
+            "PhysicsTools/PyTorch/test/BuildFile.xml", 
+            "PhysicsTools/PyTorch/test/create_simple_dnn.py", 
+            "PhysicsTools/PyTorch/test/simple_dnn.pt", 
+            "PhysicsTools/PyTorch/test/testBase.h", 
+            "PhysicsTools/PyTorch/test/testBaseCUDA.h", 
+            "PhysicsTools/PyTorch/test/testRunner.cc", 
+            "PhysicsTools/PyTorch/test/testTorchSimpleDnn.cc", 
+            "PhysicsTools/PyTorch/test/testTorchSimpleDnnCUDA.cc", 
+            "PhysicsTools/PyTorch/test/testTorchSimpleDnnCuda.cc", 
+            "PhysicsTools/PythonAnalysis/test/BuildFile.xml", 
+            "PhysicsTools/PythonAnalysis/test/testTorch.cc", 
+            "PhysicsTools/PythonAnalysis/test/time_serie_prediction.cpp"
+        ], 
+        "created_at": 1701446396, 
+        "number": 43475, 
+        "state": "open", 
+        "updated_at": 1701446423
     }
 }
