@@ -3190,5 +3190,25 @@
         "number": 43467, 
         "state": "open", 
         "updated_at": 1701420968
+    }, 
+    "43468": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoHGCal/Configuration/python/RecoHGCal_EventContent_cff.py", 
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/SimTauCPLinkProducer.cc", 
+            "SimCalorimetry/HGCalAssociatorProducers/python/SimTauCPLink_cfi.py", 
+            "SimDataFormats/CaloAnalysis/interface/SimTauCPLink.h", 
+            "SimDataFormats/CaloAnalysis/src/classes.h", 
+            "SimDataFormats/CaloAnalysis/src/classes_def.xml", 
+            "SimGeneral/Debugging/plugins/BuildFile.xml", 
+            "SimGeneral/Debugging/plugins/SimTauAnalyzer.cc", 
+            "SimGeneral/Debugging/python/caloParticleDebugger_cfg.py", 
+            "SimGeneral/Debugging/test/simTauAnalyzer_cfg.py", 
+            "Validation/Configuration/python/hgcalSimValid_cff.py"
+        ], 
+        "created_at": 1701422753, 
+        "number": 43468, 
+        "state": "open", 
+        "updated_at": 1701422773
     }
 }
