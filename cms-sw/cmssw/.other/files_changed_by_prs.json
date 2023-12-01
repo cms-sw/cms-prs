@@ -2891,12 +2891,13 @@
         "changed_files_names": [
             "SimG4Core/Application/plugins/OscarMTProducer.cc", 
             "SimG4Core/Application/python/g4SimHits_cfi.py", 
+            "SimG4Core/Application/src/RunManagerMTWorker.cc", 
             "SimG4Core/SensitiveDetector/src/AttachSD.cc"
         ], 
         "created_at": 1701364884, 
         "number": 43454, 
         "state": "open", 
-        "updated_at": 1701370210
+        "updated_at": 1701426797
     }, 
     "43455": {
         "base_branch": "CMSSW_13_0_HeavyIon_X", 
