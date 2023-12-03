@@ -3189,5 +3189,16 @@
         "number": 43482, 
         "state": "open", 
         "updated_at": 1701529536
+    }, 
+    "43483": {
+        "base_branch": "CMSSW_13_0_X", 
+        "changed_files_names": [
+            "SimG4Core/Application/interface/SteppingAction.h", 
+            "SimG4Core/Application/src/SteppingAction.cc"
+        ], 
+        "created_at": 1701604060, 
+        "number": 43483, 
+        "state": "open", 
+        "updated_at": 1701604089
     }
 }
