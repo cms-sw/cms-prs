@@ -2890,25 +2890,6 @@
         "state": "open", 
         "updated_at": 1701492839
     }, 
-    "43481": {
-        "base_branch": "CMSSW_13_3_X", 
-        "changed_files_names": [
-            "CalibFormats/SiStripObjects/interface/SiStripHashedDetId.h", 
-            "CalibFormats/SiStripObjects/src/SiStripHashedDetId.cc", 
-            "CalibFormats/SiStripObjects/test/BuildFile.xml", 
-            "CalibFormats/SiStripObjects/test/test_catch2_SiStripHashedDetId.cc", 
-            "CalibFormats/SiStripObjects/test/test_catch2_main.cc", 
-            "CalibTracker/SiStripLorentzAngle/interface/SiStripLorentzAngleCalibrationStruct.h", 
-            "CalibTracker/SiStripLorentzAngle/plugins/SiStripLorentzAnglePCLMonitor.cc", 
-            "CalibTracker/SiStripLorentzAngle/test/BuildFile.xml", 
-            "CalibTracker/SiStripLorentzAngle/test/step_PromptCalibProdSiStripLA_cfg.py", 
-            "CalibTracker/SiStripLorentzAngle/test/testPromptCalibProdSiStripLA.sh"
-        ], 
-        "created_at": 1701525983, 
-        "number": 43481, 
-        "state": "open", 
-        "updated_at": 1701526033
-    }, 
     "43483": {
         "base_branch": "CMSSW_13_0_X", 
         "changed_files_names": [
