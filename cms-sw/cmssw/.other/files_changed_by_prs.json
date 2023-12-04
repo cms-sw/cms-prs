@@ -2670,24 +2670,6 @@
         "state": "open", 
         "updated_at": 1701350751
     }, 
-    "43449": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Geometry/HGCalCommonData/interface/HGCalCellUV.h", 
-            "Geometry/HGCalCommonData/interface/HGCalTypes.h", 
-            "Geometry/HGCalCommonData/interface/HGCalWaferMask.h", 
-            "Geometry/HGCalCommonData/src/HGCalCellUV.cc", 
-            "Geometry/HGCalCommonData/src/HGCalWaferMask.cc", 
-            "SimG4CMS/Calo/plugins/HGCalMouseBiteTester.cc", 
-            "SimG4CMS/Calo/src/HGCGuardRing.cc", 
-            "SimG4CMS/Calo/src/HGCGuardRingPartial.cc", 
-            "SimG4CMS/Calo/test/python/testHGCalMouseBite_cfg.py"
-        ], 
-        "created_at": 1701351924, 
-        "number": 43449, 
-        "state": "open", 
-        "updated_at": 1701369109
-    }, 
     "43452": {
         "base_branch": "CMSSW_13_1_X", 
         "changed_files_names": [
