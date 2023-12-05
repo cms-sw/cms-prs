@@ -2731,5 +2731,17 @@
         "number": 43490, 
         "state": "open", 
         "updated_at": 1701703595
+    }, 
+    "43493": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4Core/Application/interface/SteppingAction.h", 
+            "SimG4Core/Application/python/g4SimHits_cfi.py", 
+            "SimG4Core/Application/src/SteppingAction.cc"
+        ], 
+        "created_at": 1701766795, 
+        "number": 43493, 
+        "state": "open", 
+        "updated_at": 1701766820
     }
 }
