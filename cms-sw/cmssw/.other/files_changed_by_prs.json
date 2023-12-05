@@ -2211,8 +2211,12 @@
             "Configuration/Geometry/README.md", 
             "Configuration/Geometry/python/GeometryDD4hepExtended2026D104Reco_cff.py", 
             "Configuration/Geometry/python/GeometryDD4hepExtended2026D104_cff.py", 
+            "Configuration/Geometry/python/GeometryDD4hepExtended2026D105Reco_cff.py", 
+            "Configuration/Geometry/python/GeometryDD4hepExtended2026D105_cff.py", 
             "Configuration/Geometry/python/GeometryExtended2026D104Reco_cff.py", 
             "Configuration/Geometry/python/GeometryExtended2026D104_cff.py", 
+            "Configuration/Geometry/python/GeometryExtended2026D105Reco_cff.py", 
+            "Configuration/Geometry/python/GeometryExtended2026D105_cff.py", 
             "Configuration/Geometry/python/dict2026Geometry.py", 
             "Configuration/PyReleaseValidation/python/relval_2026.py", 
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
@@ -2220,7 +2224,9 @@
             "DataFormats/ForwardDetId/interface/ETLDetId.h", 
             "DataFormats/ForwardDetId/src/ETLDetId.cc", 
             "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D104.xml", 
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D105.xml", 
             "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D104XML_cfi.py", 
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D105XML_cfi.py", 
             "Geometry/MTDCommonData/data/etl/v8/etl.xml", 
             "Geometry/MTDCommonData/data/mtdParameters/v5/mtdParameters.xml", 
             "Geometry/MTDCommonData/data/mtdParameters/v5/mtdStructureTopology.xml", 
@@ -2243,7 +2249,7 @@
         "created_at": 1701102589, 
         "number": 43407, 
         "state": "open", 
-        "updated_at": 1701603322
+        "updated_at": 1701790262
     }, 
     "43420": {
         "base_branch": "CMSSW_13_3_X", 
