@@ -2671,13 +2671,15 @@
     "43505": {
         "base_branch": "master", 
         "changed_files_names": [
+            "CondCore/AlignmentPlugins/interface/AlignmentPayloadInspectorHelper.h", 
             "CondTools/BeamSpot/plugins/BeamSpotOnlineShifter.cc", 
+            "CondTools/BeamSpot/plugins/BuildFile.xml", 
             "CondTools/BeamSpot/test/BeamSpotOnlineShifter_cfg.py"
         ], 
         "created_at": 1701868584, 
         "number": 43505, 
         "state": "open", 
-        "updated_at": 1701868603
+        "updated_at": 1701877587
     }, 
     "43507": {
         "base_branch": "master", 
