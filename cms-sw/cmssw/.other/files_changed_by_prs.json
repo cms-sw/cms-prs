@@ -2717,5 +2717,20 @@
         "number": 43525, 
         "state": "open", 
         "updated_at": 1702032851
+    }, 
+    "43528": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Framework/src/ProductResolvers.cc", 
+            "FWCore/Framework/src/WorkerT.cc", 
+            "FWCore/Services/plugins/monitor_file_utilities.h", 
+            "FWCore/Services/plugins/tracer_setupFile.cc", 
+            "FWCore/Services/scripts/edmTracerCompactLogViewer.py", 
+            "FWCore/Services/web/transitions.js"
+        ], 
+        "created_at": 1702060226, 
+        "number": 43528, 
+        "state": "open", 
+        "updated_at": 1702060249
     }
 }
