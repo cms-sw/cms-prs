@@ -2876,5 +2876,20 @@
         "number": 43540, 
         "state": "open", 
         "updated_at": 1702218596
+    }, 
+    "43541": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            ".clang-format", 
+            "CondCore/CTPPSPlugins/interface/DAQMappingPayloadInspectorHelper.h", 
+            "CondCore/CTPPSPlugins/plugins/BuildFile.xml", 
+            "CondCore/CTPPSPlugins/plugins/DAQMapping_PayloadInspector.cc", 
+            "CondCore/CTPPSPlugins/src/plugin.cc", 
+            "CondCore/CTPPSPlugins/test/testDAQMapping.sh"
+        ], 
+        "created_at": 1702246681, 
+        "number": 43541, 
+        "state": "open", 
+        "updated_at": 1702246707
     }
 }
