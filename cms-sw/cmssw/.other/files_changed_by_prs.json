@@ -2415,12 +2415,14 @@
             "CondCore/AlignmentPlugins/interface/AlignmentPayloadInspectorHelper.h", 
             "CondTools/BeamSpot/plugins/BeamSpotOnlineShifter.cc", 
             "CondTools/BeamSpot/plugins/BuildFile.xml", 
-            "CondTools/BeamSpot/test/BeamSpotOnlineShifter_cfg.py"
+            "CondTools/BeamSpot/test/BeamSpotOnlineShifter_cfg.py", 
+            "CondTools/BeamSpot/test/BuildFile.xml", 
+            "CondTools/BeamSpot/test/testShiftBeamSpotsFromDB.sh"
         ], 
         "created_at": 1701868584, 
         "number": 43505, 
         "state": "open", 
-        "updated_at": 1701878108
+        "updated_at": 1702309858
     }, 
     "43520": {
         "base_branch": "CMSSW_13_2_X", 
