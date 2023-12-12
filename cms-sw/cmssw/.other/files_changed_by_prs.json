@@ -1400,9 +1400,11 @@
             "CondTools/RunInfo/src/LHCInfoCombined.cc", 
             "Configuration/Eras/python/Modifier_ctpps_directSim_cff.py", 
             "Configuration/ProcessModifiers/python/Era_Run3_CTPPS_directSim_cff.py", 
+            "RecoPPS/Configuration/python/recoCTPPS_cff.py", 
             "RecoPPS/Local/test/2023_lhcinfo_test_recoCTPPS_cfg.py", 
             "RecoPPS/ProtonReconstruction/plugins/CTPPSProtonProducer.cc", 
             "RecoPPS/ProtonReconstruction/python/ctppsProtons_cff.py", 
+            "RecoPPS/ProtonReconstruction/python/ctppsProtons_cfi.py", 
             "SimTransport/PPSProtonTransport/python/PPSTransportESSources_cfi.py", 
             "Validation/CTPPS/plugins/CTPPSHepMCDistributionPlotter.cc", 
             "Validation/CTPPS/plugins/CTPPSLHCInfoPlotter.cc", 
@@ -1421,7 +1423,7 @@
         "created_at": 1695819235, 
         "number": 42890, 
         "state": "open", 
-        "updated_at": 1702381620
+        "updated_at": 1702397041
     }, 
     "42917": {
         "base_branch": "master", 
