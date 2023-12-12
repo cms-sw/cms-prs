@@ -2725,5 +2725,20 @@
         "number": 43545, 
         "state": "open", 
         "updated_at": 1702318565
+    }, 
+    "43546": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4CMS/Calo/test/python/minbias2023_cfg.py", 
+            "SimG4Core/Application/interface/Phase2SteppingAction.h", 
+            "SimG4Core/Application/interface/SteppingAction.h", 
+            "SimG4Core/Application/python/g4SimHits_cfi.py", 
+            "SimG4Core/Application/src/Phase2SteppingAction.cc", 
+            "SimG4Core/Application/src/SteppingAction.cc"
+        ], 
+        "created_at": 1702346280, 
+        "number": 43546, 
+        "state": "open", 
+        "updated_at": 1702346306
     }
 }
