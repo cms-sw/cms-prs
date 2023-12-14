@@ -2469,5 +2469,20 @@
         "number": 43565, 
         "state": "open", 
         "updated_at": 1702520107
+    }, 
+    "43567": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/partialD104.txt", 
+            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc", 
+            "Geometry/HGCalCommonData/test/HGCalPartialIDTester.cc", 
+            "Geometry/HGCalCommonData/test/python/testHGCalPartialIDTester2_cfg.py", 
+            "SimG4CMS/Calo/interface/HGCalNumberingScheme.h", 
+            "SimG4CMS/Calo/src/HGCalNumberingScheme.cc"
+        ], 
+        "created_at": 1702564232, 
+        "number": 43567, 
+        "state": "open", 
+        "updated_at": 1702564260
     }
 }
