@@ -2609,27 +2609,6 @@
         "state": "open", 
         "updated_at": 1702459022
     }, 
-    "43559": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Alignment/OfflineValidation/bin/BuildFile.xml", 
-            "Alignment/OfflineValidation/bin/DiMuonVmerge.cc", 
-            "Alignment/OfflineValidation/interface/DiLeptonVertexHelpers.h", 
-            "Alignment/OfflineValidation/macros/loopAndPlot.C", 
-            "Alignment/OfflineValidation/plugins/DiMuonVertexValidation.cc", 
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/DiMuonV.py", 
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/DiMuonV_cfg.py", 
-            "Alignment/OfflineValidation/scripts/validateAlignments.py", 
-            "Alignment/OfflineValidation/test/BuildFile.xml", 
-            "Alignment/OfflineValidation/test/testingScripts/test_unitDiMuonV.sh", 
-            "Alignment/OfflineValidation/test/unit_test.json", 
-            "Alignment/OfflineValidation/test/unit_test.yaml"
-        ], 
-        "created_at": 1702457504, 
-        "number": 43559, 
-        "state": "open", 
-        "updated_at": 1702457893
-    }, 
     "43562": {
         "base_branch": "CMSSW_12_4_X", 
         "changed_files_names": [
