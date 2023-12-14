@@ -1818,6 +1818,7 @@
             "DQM/Integration/python/clients/l1tstage1emulator_dqm_sourceclient-live_cfg.py", 
             "DQM/Integration/python/clients/l1tstage2_dqm_sourceclient-live_cfg.py", 
             "DQM/Integration/python/clients/l1tstage2emulator_dqm_sourceclient-live_cfg.py", 
+            "DQM/Integration/python/clients/pixel_dqm_sourceclient-live_cfg.py", 
             "DQM/Integration/python/clients/scal_dqm_sourceclient-live_cfg.py", 
             "DQM/Integration/python/clients/sistrip_approx_dqm_sourceclient-live_cfg.py", 
             "DQM/Integration/python/clients/sistrip_dqm_sourceclient-live_cfg.py", 
@@ -1863,7 +1864,7 @@
         "created_at": 1699883945, 
         "number": 43257, 
         "state": "open", 
-        "updated_at": 1702390919
+        "updated_at": 1702552302
     }, 
     "43276": {
         "base_branch": "master", 
