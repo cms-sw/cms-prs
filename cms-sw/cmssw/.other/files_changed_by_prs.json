@@ -2531,32 +2531,6 @@
         "state": "open", 
         "updated_at": 1702452685
     }, 
-    "43553": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/Geometry/README.md", 
-            "Configuration/Geometry/python/dict2026Geometry.py", 
-            "DataFormats/ForwardDetId/interface/BTLDetId.h", 
-            "DataFormats/ForwardDetId/src/BTLDetId.cc", 
-            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D105.xml", 
-            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D105XML_cfi.py", 
-            "Geometry/MTDCommonData/data/btl/v3/btl.xml", 
-            "Geometry/MTDCommonData/data/mtdParameters/v5/mtdStructureTopology.xml", 
-            "Geometry/MTDCommonData/interface/BTLNumberingScheme.h", 
-            "Geometry/MTDCommonData/interface/MTDTopologyMode.h", 
-            "Geometry/MTDCommonData/src/BTLNumberingScheme.cc", 
-            "Geometry/MTDCommonData/src/MTDTopologyMode.cc", 
-            "Geometry/MTDGeometryBuilder/test/DD4hep_TestBTLPixelTopology.cc", 
-            "Geometry/MTDNumberingBuilder/src/MTDTopology.cc", 
-            "Geometry/MTDSimData/data/v5/mtdProdCuts.xml", 
-            "Geometry/MTDSimData/data/v5/mtdsens.xml", 
-            "RecoMTD/DetLayers/src/BTLDetLayerGeometryBuilder.cc"
-        ], 
-        "created_at": 1702394335, 
-        "number": 43553, 
-        "state": "open", 
-        "updated_at": 1702456564
-    }, 
     "43554": {
         "base_branch": "CMSSW_13_0_HeavyIon_X", 
         "changed_files_names": [
