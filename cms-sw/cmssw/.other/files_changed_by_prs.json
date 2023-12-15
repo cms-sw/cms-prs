@@ -2571,5 +2571,22 @@
         "number": 43575, 
         "state": "open", 
         "updated_at": 1702626176
+    }, 
+    "43576": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4CMS/Forward/src/ZdcSD.cc", 
+            "SimG4Core/Application/interface/StackingAction.h", 
+            "SimG4Core/Application/interface/SteppingAction.h", 
+            "SimG4Core/Application/plugins/OscarMTProducer.cc", 
+            "SimG4Core/Application/python/g4SimHits_cfi.py", 
+            "SimG4Core/Application/src/EventAction.cc", 
+            "SimG4Core/Application/src/StackingAction.cc", 
+            "SimG4Core/Application/src/SteppingAction.cc"
+        ], 
+        "created_at": 1702636076, 
+        "number": 43576, 
+        "state": "open", 
+        "updated_at": 1702636105
     }
 }
