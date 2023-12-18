@@ -2244,12 +2244,18 @@
             "FWCore/Framework/src/EventProcessor.cc", 
             "FWCore/Framework/src/LuminosityBlockProcessingStatus.cc", 
             "FWCore/Framework/src/LuminosityBlockProcessingStatus.h", 
+            "FWCore/Framework/test/modules_2_concurrent_lumis_cfg.py", 
+            "FWCore/Framework/test/stubs/TestGlobalAnalyzers.cc", 
+            "FWCore/Framework/test/stubs/TestGlobalProducers.cc", 
+            "FWCore/Framework/test/testRunLumiCaches_cfg.py", 
+            "FWCore/Framework/test/test_exceptionAtGlobalBeginRun_cfg.py", 
+            "FWCore/Framework/test/test_global_modules_cfg.py", 
             "FWCore/Services/plugins/CheckTransitions.cc"
         ], 
         "created_at": 1701976439, 
         "number": 43522, 
         "state": "open", 
-        "updated_at": 1702573633
+        "updated_at": 1702912302
     }, 
     "43524": {
         "base_branch": "master", 
