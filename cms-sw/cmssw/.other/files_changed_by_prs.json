@@ -2315,5 +2315,18 @@
         "number": 43611, 
         "state": "open", 
         "updated_at": 1703006244
+    }, 
+    "43612": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/HLT_75e33/modules/particleFlowBlock_cfi.py", 
+            "RecoHI/Configuration/python/Reconstruction_hiPF_cff.py", 
+            "RecoParticleFlow/PFProducer/plugins/importers/SuperClusterImporter.cc", 
+            "RecoParticleFlow/PFProducer/python/particleFlowBlock_cfi.py"
+        ], 
+        "created_at": 1703008480, 
+        "number": 43612, 
+        "state": "open", 
+        "updated_at": 1703008506
     }
 }
