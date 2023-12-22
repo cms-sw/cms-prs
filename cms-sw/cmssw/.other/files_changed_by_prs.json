@@ -1567,14 +1567,18 @@
         "base_branch": "master", 
         "changed_files_names": [
             "DataFormats/Portable/interface/PortableCollection.h", 
+            "DataFormats/Portable/interface/PortableObject.h", 
             "DataFormats/Portable/interface/alpaka/PortableCollection.h", 
+            "DataFormats/Portable/interface/alpaka/PortableObject.h", 
             "DataFormats/Portable/test/BuildFile.xml", 
-            "DataFormats/Portable/test/portableCollectionOnHost.cc"
+            "DataFormats/Portable/test/portableCollectionOnHost.cc", 
+            "DataFormats/Portable/test/portableObjectOnHost.cc", 
+            "DataFormats/Portable/test/test_catch2_main.cc"
         ], 
         "created_at": 1700171244, 
         "number": 43310, 
         "state": "open", 
-        "updated_at": 1702312701
+        "updated_at": 1703265100
     }, 
     "43334": {
         "base_branch": "master", 
