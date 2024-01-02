@@ -2454,5 +2454,17 @@
         "number": 43643, 
         "state": "open", 
         "updated_at": 1704190647
+    }, 
+    "43644": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "HLTrigger/Configuration/scripts/hltFindDuplicates", 
+            "HLTrigger/Configuration/test/BuildFile.xml", 
+            "HLTrigger/Configuration/test/test_hltFindDuplicates.sh"
+        ], 
+        "created_at": 1704191192, 
+        "number": 43644, 
+        "state": "open", 
+        "updated_at": 1704191219
     }
 }
