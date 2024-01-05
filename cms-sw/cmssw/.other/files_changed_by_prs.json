@@ -2674,5 +2674,21 @@
         "number": 43660, 
         "state": "open", 
         "updated_at": 1704403118
+    }, 
+    "43661": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/Geometry/python/dict2026Geometry.py", 
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
+            "Configuration/StandardSequences/python/Eras.py", 
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D104.xml", 
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D104XML_cfi.py", 
+            "SimG4CMS/Calo/src/CaloSD.cc", 
+            "SimG4CMS/Calo/src/HGCalSD.cc"
+        ], 
+        "created_at": 1704426922, 
+        "number": 43661, 
+        "state": "open", 
+        "updated_at": 1704426951
     }
 }
