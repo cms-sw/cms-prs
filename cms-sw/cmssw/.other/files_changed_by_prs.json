@@ -2461,12 +2461,13 @@
         "changed_files_names": [
             "HLTrigger/Configuration/scripts/hltFindDuplicates", 
             "HLTrigger/Configuration/test/BuildFile.xml", 
-            "HLTrigger/Configuration/test/test_hltFindDuplicates.sh"
+            "HLTrigger/Configuration/test/test_hltFindDuplicates.sh", 
+            "HLTrigger/Configuration/test/test_hltFindDuplicates_cfg.py"
         ], 
         "created_at": 1704191192, 
         "number": 43644, 
         "state": "open", 
-        "updated_at": 1704263096
+        "updated_at": 1704646663
     }, 
     "43645": {
         "base_branch": "master", 
