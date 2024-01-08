@@ -1709,24 +1709,6 @@
         "state": "open", 
         "updated_at": 1702112803
     }, 
-    "43535": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DQMOffline/Trigger/interface/EgHLTOffHelper.h", 
-            "DQMOffline/Trigger/src/EgHLTOffHelper.cc", 
-            "RecoEgamma/EgammaElectronAlgos/src/GsfElectronAlgo.cc", 
-            "RecoEgamma/EgammaIsolationAlgos/interface/EgammaRecHitIsolation.h", 
-            "RecoEgamma/EgammaIsolationAlgos/plugins/EgammaEcalRecHitIsolationProducer.cc", 
-            "RecoEgamma/EgammaIsolationAlgos/src/EgammaRecHitIsolation.cc", 
-            "RecoEgamma/EgammaPhotonProducers/src/ConversionTrackCandidateProducer.cc", 
-            "RecoEgamma/PhotonIdentification/interface/PhotonIsolationCalculator.h", 
-            "RecoEgamma/PhotonIdentification/src/PhotonIsolationCalculator.cc"
-        ], 
-        "created_at": 1702144321, 
-        "number": 43535, 
-        "state": "open", 
-        "updated_at": 1703167816
-    }, 
     "43536": {
         "base_branch": "CMSSW_13_0_X", 
         "changed_files_names": [
