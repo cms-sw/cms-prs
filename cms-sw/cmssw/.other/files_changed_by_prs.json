@@ -2442,5 +2442,18 @@
         "number": 43678, 
         "state": "open", 
         "updated_at": 1704730808
+    }, 
+    "43679": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "HLTrigger/HLTcore/BuildFile.xml", 
+            "HLTrigger/HLTcore/plugins/TriggerSummaryProducerAOD.cc", 
+            "HLTrigger/HLTcore/src/HLTConfigData.cc", 
+            "HLTrigger/HLTcore/src/HLTConfigProvider.cc"
+        ], 
+        "created_at": 1704751275, 
+        "number": 43679, 
+        "state": "open", 
+        "updated_at": 1704751302
     }
 }
