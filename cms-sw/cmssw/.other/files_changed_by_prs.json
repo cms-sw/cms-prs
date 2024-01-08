@@ -2836,5 +2836,18 @@
         "number": 43675, 
         "state": "open", 
         "updated_at": 1704701174
+    }, 
+    "43676": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4Core/Application/BuildFile.xml", 
+            "SimG4Core/Application/interface/RunManagerMT.h", 
+            "SimG4Core/Application/src/RunManagerMT.cc", 
+            "SimG4Core/CustomPhysics/BuildFile.xml"
+        ], 
+        "created_at": 1704707827, 
+        "number": 43676, 
+        "state": "open", 
+        "updated_at": 1704707853
     }
 }
