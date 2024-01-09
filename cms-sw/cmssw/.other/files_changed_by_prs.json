@@ -2480,5 +2480,27 @@
         "number": 43681, 
         "state": "open", 
         "updated_at": 1704817117
+    }, 
+    "43682": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "HeterogeneousCore/AlpakaTest/interface/AlpakaESTestData.h", 
+            "HeterogeneousCore/AlpakaTest/interface/AlpakaESTestSoA.h", 
+            "HeterogeneousCore/AlpakaTest/interface/alpaka/AlpakaESTestData.h", 
+            "HeterogeneousCore/AlpakaTest/plugins/TestAlpakaAnalyzer.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlgo.dev.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlgo.h", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaESProducerA.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaESProducerC.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaESProducerE.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaGlobalProducerE.cc", 
+            "HeterogeneousCore/AlpakaTest/src/ES_AlpakaESTestData.cc", 
+            "HeterogeneousCore/AlpakaTest/src/alpaka/ES_AlpakaESTestData.cc", 
+            "HeterogeneousCore/AlpakaTest/test/testAlpakaModules_cfg.py"
+        ], 
+        "created_at": 1704817438, 
+        "number": 43682, 
+        "state": "open", 
+        "updated_at": 1704817469
     }
 }
