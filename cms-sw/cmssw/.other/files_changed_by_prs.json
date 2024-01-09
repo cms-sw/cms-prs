@@ -1741,6 +1741,7 @@
             "RecoVertex/PrimaryVertexProducer/plugins/PrimaryVertexProducer.cc", 
             "RecoVertex/PrimaryVertexProducer/src/AdaptiveChisquarePrimaryVertexFitter.cc", 
             "RecoVertex/PrimaryVertexProducer/src/DAClusterizerInZ.cc", 
+            "RecoVertex/PrimaryVertexProducer/src/DAClusterizerInZT_vect.cc", 
             "RecoVertex/PrimaryVertexProducer/src/DAClusterizerInZ_vect.cc", 
             "RecoVertex/PrimaryVertexProducer/src/GapClusterizerInZ.cc", 
             "RecoVertex/PrimaryVertexProducer/src/PrimaryVertexProducerAlgorithm.cc", 
@@ -1753,7 +1754,7 @@
         "created_at": 1702913418, 
         "number": 43592, 
         "state": "open", 
-        "updated_at": 1704381953
+        "updated_at": 1704814919
     }, 
     "43593": {
         "base_branch": "CMSSW_10_6_X", 
