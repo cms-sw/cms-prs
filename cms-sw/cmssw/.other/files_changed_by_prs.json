@@ -2455,5 +2455,18 @@
         "number": 43679, 
         "state": "open", 
         "updated_at": 1704751302
+    }, 
+    "43680": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibTracker/SiStripCommon/plugins/SiStripGainCalibTableProducer.cc", 
+            "CalibTracker/SiStripCommon/plugins/TkInstLumiTableProducer.cc", 
+            "CalibTracker/SiStripCommon/test/testCalibTree_nano.py", 
+            "CalibTracker/SiStripCommon/test/testCalibTree_nano_G2.py"
+        ], 
+        "created_at": 1704802981, 
+        "number": 43680, 
+        "state": "open", 
+        "updated_at": 1704803381
     }
 }
