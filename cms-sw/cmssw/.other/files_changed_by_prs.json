@@ -2624,5 +2624,26 @@
         "number": 43687, 
         "state": "open", 
         "updated_at": 1704872907
+    }, 
+    "43689": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/EventContent/python/EventContentCosmics_cff.py", 
+            "Configuration/PyReleaseValidation/python/relval_standard.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
+            "Configuration/StandardSequences/python/DigiCosmics_cff.py", 
+            "Configuration/StandardSequences/python/ReconstructionCosmics_cff.py", 
+            "DQMOffline/Configuration/python/DQMOfflineCosmics_cff.py", 
+            "DQMOffline/Configuration/python/autoDQM.py", 
+            "RecoLocalMuon/Configuration/python/RecoLocalMuonCosmics_cff.py", 
+            "RecoLocalTracker/Configuration/python/RecoLocalTracker_Cosmics_EventContent_cff.py", 
+            "RecoLocalTracker/Configuration/python/RecoLocalTracker_Cosmics_cff.py", 
+            "RecoVertex/PrimaryVertexProducer/plugins/PrimaryVertexProducer.cc", 
+            "SimGeneral/MixingModule/python/digitizersCosmics_cfi.py"
+        ], 
+        "created_at": 1704884030, 
+        "number": 43689, 
+        "state": "open", 
+        "updated_at": 1704884058
     }
 }
