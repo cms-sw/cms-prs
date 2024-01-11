@@ -2740,5 +2740,18 @@
         "number": 43701, 
         "state": "open", 
         "updated_at": 1704991848
+    }, 
+    "43702": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Framework/src/PathsAndConsumesOfModules.cc", 
+            "FWCore/Framework/test/BuildFile.xml", 
+            "FWCore/Framework/test/test_bad_schedule_exception_message_cfg.py", 
+            "FWCore/Framework/test/unit_test_outputs/test_bad_schedule_8.log"
+        ], 
+        "created_at": 1704996984, 
+        "number": 43702, 
+        "state": "open", 
+        "updated_at": 1704997008
     }
 }
