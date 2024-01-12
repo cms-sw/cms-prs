@@ -2795,5 +2795,30 @@
         "number": 43705, 
         "state": "open", 
         "updated_at": 1705063872
+    }, 
+    "43706": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "L1Trigger/L1THGCal/python/customNewProcessors.py", 
+            "L1Trigger/L1THGCal/python/hgcalLayersCalibrationCoefficients_cfi.py", 
+            "L1Trigger/L1THGCal/python/l1tHGCalConcentratorProducer_cfi.py", 
+            "L1Trigger/L1THGCal/python/l1tHGCalTriggerGeometryESProducer_cfi.py", 
+            "L1Trigger/L1THGCal/python/l1tHGCalVFEProducer_cfi.py", 
+            "L1Trigger/L1THGCal/test/testHGCalL1TGeometryV16Imp3_cfg.py", 
+            "L1Trigger/L1THGCalUtilities/python/hgcalTriggerNtuples_cff.py", 
+            "L1Trigger/L1THGCalUtilities/python/hgcalTriggerNtuples_cfi.py", 
+            "L1Trigger/L1THGCalUtilities/test/testHGCalL1T_RelValV11_cfg.py", 
+            "L1Trigger/L1THGCalUtilities/test/testHGCalL1T_RelValV16_cfg.py", 
+            "L1Trigger/L1THGCalUtilities/test/testHGCalL1T_multialgo_V11_cfg.py", 
+            "L1Trigger/L1THGCalUtilities/test/testHGCalL1T_multialgo_V16_cfg.py", 
+            "L1Trigger/L1THGCalUtilities/test/testHGCalL1T_newProcessors_V11_cfg.py", 
+            "L1Trigger/L1THGCalUtilities/test/testHGCalL1T_newProcessors_V16_cfg.py", 
+            "L1Trigger/L1THGCalUtilities/test/testHGCalL1T_stage1Truncation_V11_cfg.py", 
+            "L1Trigger/L1THGCalUtilities/test/testHGCalL1T_stage1Truncation_V16_cfg.py"
+        ], 
+        "created_at": 1705064000, 
+        "number": 43706, 
+        "state": "open", 
+        "updated_at": 1705064029
     }
 }
