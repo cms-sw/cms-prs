@@ -2819,5 +2819,22 @@
         "number": 43706, 
         "state": "open", 
         "updated_at": 1705064029
+    }, 
+    "43707": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/HLTReco/interface/TriggerEventWithRefs.h", 
+            "DataFormats/HLTReco/interface/TriggerRefsCollections.h", 
+            "DataFormats/HLTReco/src/classes_def.xml", 
+            "HLTrigger/HLTcore/interface/HLTEventAnalyzerRAW.h", 
+            "HLTrigger/HLTcore/interface/TriggerSummaryProducerAOD.h", 
+            "HLTrigger/HLTcore/plugins/HLTEventAnalyzerRAW.cc", 
+            "HLTrigger/HLTcore/plugins/TriggerSummaryProducerAOD.cc", 
+            "HLTrigger/HLTcore/plugins/TriggerSummaryProducerRAW.cc"
+        ], 
+        "created_at": 1705067226, 
+        "number": 43707, 
+        "state": "open", 
+        "updated_at": 1705067285
     }
 }
