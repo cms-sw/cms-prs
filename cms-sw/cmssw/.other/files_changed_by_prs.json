@@ -2264,6 +2264,7 @@
             "Configuration/AlCa/python/autoAlca.py", 
             "Configuration/AlCa/python/autoPCL.py", 
             "Configuration/EventContent/python/AlCaRecoOutput_cff.py", 
+            "Configuration/PyReleaseValidation/python/relval_production.py", 
             "Configuration/PyReleaseValidation/python/relval_steps.py", 
             "Configuration/StandardSequences/python/AlCaHarvesting_cff.py", 
             "Configuration/StandardSequences/python/AlCaRecoStreams_cff.py"
@@ -2271,7 +2272,7 @@
         "created_at": 1705421745, 
         "number": 43721, 
         "state": "open", 
-        "updated_at": 1705421778
+        "updated_at": 1705439275
     }, 
     "43724": {
         "base_branch": "master", 
