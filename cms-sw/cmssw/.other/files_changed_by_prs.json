@@ -1349,7 +1349,7 @@
             "EventFilter/EcalRawToDigi/plugins/alpaka/UnpackPortable.dev.cc", 
             "EventFilter/EcalRawToDigi/plugins/alpaka/UnpackPortable.h", 
             "EventFilter/EcalRawToDigi/python/ecalDigis_cff.py", 
-            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
+            "HLTrigger/Configuration/python/customizeHLTforAlpaka.py", 
             "RecoLocalCalo/EcalRecProducers/BuildFile.xml", 
             "RecoLocalCalo/EcalRecProducers/interface/EigenMatrixTypes_gpu.h", 
             "RecoLocalCalo/EcalRecProducers/plugins/EigenMatrixTypes_gpu.h", 
@@ -1359,7 +1359,7 @@
             "RecoLocalCalo/EcalRecProducers/plugins/DeclsForKernels.h", 
             "RecoLocalCalo/EcalRecProducers/plugins/EcalCPURecHitProducer.cc", 
             "RecoLocalCalo/EcalRecProducers/plugins/EcalRecHitProducerGPU.cc", 
-            "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitConvertPortable2CPUFormat.cc", 
+            "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitSoAToLegacy.cc", 
             "RecoLocalCalo/EcalRecProducers/plugins/TimeComputationKernels.h", 
             "RecoLocalCalo/EcalRecProducers/plugins/alpaka/AmplitudeComputationCommonKernels.h", 
             "RecoLocalCalo/EcalRecProducers/plugins/alpaka/AmplitudeComputationKernels.dev.cc", 
@@ -1380,7 +1380,7 @@
         "created_at": 1699883945, 
         "number": 43257, 
         "state": "open", 
-        "updated_at": 1705338491
+        "updated_at": 1705417795
     }, 
     "43276": {
         "base_branch": "master", 
