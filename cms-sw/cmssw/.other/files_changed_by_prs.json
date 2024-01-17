@@ -2364,28 +2364,6 @@
         "state": "open", 
         "updated_at": 1705462278
     }, 
-    "43728": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CommonTools/CandAlgos/plugins/CandMerger.cc", 
-            "CommonTools/CandAlgos/plugins/CandRefMerger.cc", 
-            "CommonTools/CandAlgos/plugins/CandViewMerger.cc", 
-            "CommonTools/ParticleFlow/plugins/IsolatedPFCandidateMerger.cc", 
-            "CommonTools/RecoAlgos/plugins/BasicClusterMerger.cc", 
-            "CommonTools/RecoAlgos/plugins/ElectronCollectionMerger.cc", 
-            "CommonTools/RecoAlgos/plugins/PFClusterCandidateMerger.cc", 
-            "CommonTools/RecoAlgos/plugins/SuperClusterMerger.cc", 
-            "CommonTools/RecoAlgos/plugins/TrackSimpleMerger.cc", 
-            "CommonTools/UtilAlgos/interface/Merger.h", 
-            "L1Trigger/Phase2L1ParticleFlow/plugins/L1TPFCandMerger.cc", 
-            "RecoEgamma/EgammaIsolationAlgos/plugins/plugins.cc", 
-            "RecoParticleFlow/PFProducer/plugins/plugins.cc"
-        ], 
-        "created_at": 1705484294, 
-        "number": 43728, 
-        "state": "open", 
-        "updated_at": 1705488638
-    }, 
     "43729": {
         "base_branch": "master", 
         "changed_files_names": [
