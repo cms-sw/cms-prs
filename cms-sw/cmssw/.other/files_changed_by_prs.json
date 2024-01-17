@@ -2256,12 +2256,16 @@
             "Alignment/CommonAlignmentProducer/python/ALCARECOPromptCalibProdSiPixelAliHGDiMuon_cff.py", 
             "Alignment/CommonAlignmentProducer/python/ALCARECOPromptCalibProdSiPixelAliHG_cff.py", 
             "Alignment/CommonAlignmentProducer/python/AlcaSiPixelAliHarvesterHGCombined_cff.py", 
+            "Alignment/CommonAlignmentProducer/python/AlcaSiPixelAliHarvesterHG_cff.py", 
             "Alignment/CommonAlignmentProducer/python/customizeLSNumberFilterForRelVals.py", 
             "Alignment/MillePedeAlignmentAlgorithm/plugins/MillePedeAlignmentAlgorithm.cc", 
+            "Alignment/MillePedeAlignmentAlgorithm/plugins/MillePedeDQMModule.cc", 
+            "Alignment/MillePedeAlignmentAlgorithm/plugins/MillePedeDQMModule.h", 
             "Alignment/MillePedeAlignmentAlgorithm/plugins/MillePedeFileConverter.cc", 
             "Alignment/MillePedeAlignmentAlgorithm/plugins/MillePedeFileConverter.h", 
             "Alignment/MillePedeAlignmentAlgorithm/plugins/MillePedeFileExtractor.cc", 
             "Alignment/MillePedeAlignmentAlgorithm/plugins/MillePedeFileExtractor.h", 
+            "Alignment/MillePedeAlignmentAlgorithm/python/MillePedeDQMModule_cff.py", 
             "Configuration/AlCa/python/autoAlca.py", 
             "Configuration/AlCa/python/autoPCL.py", 
             "Configuration/EventContent/python/AlCaRecoOutput_cff.py", 
@@ -2273,7 +2277,7 @@
         "created_at": 1705421745, 
         "number": 43721, 
         "state": "open", 
-        "updated_at": 1705439275
+        "updated_at": 1705476905
     }, 
     "43724": {
         "base_branch": "master", 
