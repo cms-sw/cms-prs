@@ -1320,6 +1320,9 @@
             "CUDADataFormats/EcalRecHitSoA/interface/EcalUncalibratedRecHit.h", 
             "CUDADataFormats/EcalRecHitSoA/interface/RecoTypes.h", 
             "Calibration/EcalCalibAlgos/python/EcalPhiSymRecoSequence_cff.py", 
+            "Configuration/PyReleaseValidation/README.md", 
+            "Configuration/PyReleaseValidation/python/relval_gpu.py", 
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
             "Configuration/StandardSequences/python/RawToDigi_Repacked_cff.py", 
             "Configuration/StandardSequences/python/RawToDigi_cff.py", 
             "Configuration/StandardSequences/python/SimL1EmulatorRepack_GCTGT_cff.py", 
@@ -1380,7 +1383,7 @@
         "created_at": 1699883945, 
         "number": 43257, 
         "state": "open", 
-        "updated_at": 1705417795
+        "updated_at": 1705616262
     }, 
     "43276": {
         "base_branch": "master", 
