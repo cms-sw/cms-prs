@@ -2501,5 +2501,19 @@
         "number": 43746, 
         "state": "open", 
         "updated_at": 1705588177
+    }, 
+    "43747": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Framework/src/EventPrincipal.cc", 
+            "FWCore/Integration/test/BuildFile.xml", 
+            "FWCore/Integration/test/makeEmptyRootFile.py", 
+            "FWCore/Integration/test/run_TestEmptyRootFile.sh", 
+            "FWCore/Integration/test/useEmptyRootFile.py"
+        ], 
+        "created_at": 1705588947, 
+        "number": 43747, 
+        "state": "open", 
+        "updated_at": 1705588974
     }
 }
