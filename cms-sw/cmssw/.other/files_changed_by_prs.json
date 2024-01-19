@@ -2015,30 +2015,6 @@
         "state": "open", 
         "updated_at": 1705064388
     }, 
-    "43712": {
-        "base_branch": "CMSSW_14_0_DEVEL_X", 
-        "changed_files_names": [
-            "Configuration/Geometry/python/dict2026Geometry.py", 
-            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D102.xml", 
-            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D104.xml", 
-            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D102XML_cfi.py", 
-            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D104XML_cfi.py", 
-            "Geometry/TrackerCommonData/data/PhaseII/Tracker_DD4hep_compatible_IT711_2023_05/pixel.xml", 
-            "Geometry/TrackerCommonData/data/PhaseII/Tracker_DD4hep_compatible_IT711_2023_05/pixelStructureTopology.xml", 
-            "Geometry/TrackerCommonData/data/PhaseII/Tracker_DD4hep_compatible_IT711_2023_05V1/pixel.xml", 
-            "Geometry/TrackerCommonData/data/PhaseII/Tracker_DD4hep_compatible_IT711_2023_05V2/pixel.xml", 
-            "Geometry/TrackerCommonData/python/GeometryExtended2026D100V1_cff.py", 
-            "Geometry/TrackerCommonData/python/GeometryExtended2026D100V2_cff.py", 
-            "Geometry/TrackerCommonData/python/cmsExtendedGeometry2026D100V1XML_cfi.py", 
-            "Geometry/TrackerCommonData/python/cmsExtendedGeometry2026D100V2XML_cfi.py", 
-            "Geometry/TrackerCommonData/test/python/g4CheckOverlaps_cfg.py", 
-            "Geometry/TrackerCommonData/test/g4OverlapV100_cfg.py"
-        ], 
-        "created_at": 1705260611, 
-        "number": 43712, 
-        "state": "open", 
-        "updated_at": 1705323757
-    }, 
     "43715": {
         "base_branch": "master", 
         "changed_files_names": [
