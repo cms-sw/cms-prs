@@ -2412,5 +2412,26 @@
         "number": 43754, 
         "state": "open", 
         "updated_at": 1705674372
+    }, 
+    "43757": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Alignment/CommonAlignmentProducer/interface/AlignmentTracksFromVertexCompositeCandidateSelector.h", 
+            "Alignment/CommonAlignmentProducer/plugins/AlignmentTracksFromVertexCompositeCandidateSelectorModule.cc", 
+            "Alignment/CommonAlignmentProducer/python/ALCARECOTkAlV0s_Output_cff.py", 
+            "Alignment/CommonAlignmentProducer/python/ALCARECOTkAlV0s_cff.py", 
+            "Alignment/CommonAlignmentProducer/python/AlignmentTracksFromVertexCompositeCandidateSelector_cfi.py", 
+            "Alignment/CommonAlignmentProducer/src/AlignmentTracksFromVertexCompositeCandidateSelector.cc", 
+            "Alignment/OfflineValidation/plugins/TkAlV0sAnalyzer.cc", 
+            "Alignment/OfflineValidation/test/TkAlV0sAnalyzer_cfg.py", 
+            "Configuration/AlCa/python/autoAlca.py", 
+            "Configuration/EventContent/python/AlCaRecoOutput_cff.py", 
+            "Configuration/StandardSequences/python/AlCaRecoStreams_cff.py", 
+            "DQMOffline/Alignment/python/ALCARECOTkAlDQM_cff.py"
+        ], 
+        "created_at": 1705678588, 
+        "number": 43757, 
+        "state": "open", 
+        "updated_at": 1705678611
     }
 }
