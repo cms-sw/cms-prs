@@ -2437,5 +2437,27 @@
         "number": 43761, 
         "state": "open", 
         "updated_at": 1705755783
+    }, 
+    "43762": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/FTLDigi/interface/ETLSample.h", 
+            "DataFormats/FTLDigi/src/classes_def.xml", 
+            "RecoLocalFastTime/FTLCommonAlgos/plugins/ETLUncalibRecHitAlgo.cc", 
+            "RecoLocalFastTime/FTLRecProducers/python/mtdUncalibratedRecHits_cfi.py", 
+            "SimFastTiming/FastTimingCommon/interface/ETLDeviceSim.h", 
+            "SimFastTiming/FastTimingCommon/interface/ETLElectronicsSim.h", 
+            "SimFastTiming/FastTimingCommon/interface/ETLPulseShape.h", 
+            "SimFastTiming/FastTimingCommon/interface/MTDShapeBase.h", 
+            "SimFastTiming/FastTimingCommon/python/mtdDigitizer_cfi.py", 
+            "SimFastTiming/FastTimingCommon/src/ETLDeviceSim.cc", 
+            "SimFastTiming/FastTimingCommon/src/ETLElectronicsSim.cc", 
+            "SimFastTiming/FastTimingCommon/src/ETLPulseShape.cc", 
+            "SimFastTiming/FastTimingCommon/src/MTDShapeBase.cc"
+        ], 
+        "created_at": 1705875371, 
+        "number": 43762, 
+        "state": "open", 
+        "updated_at": 1705875402
     }
 }
