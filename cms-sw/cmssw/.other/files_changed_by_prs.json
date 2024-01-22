@@ -1101,8 +1101,6 @@
             "HeterogeneousCore/AlpakaInterface/test/BuildFile.xml", 
             "HeterogeneousCore/AlpakaInterface/test/alpaka/testAtomicPairCounter.dev.cc", 
             "HeterogeneousCore/AlpakaInterface/test/alpaka/testHistoContainer.dev.cc", 
-            "HeterogeneousCore/AlpakaInterface/test/alpaka/testIndependentKernel.dev.cc", 
-            "HeterogeneousCore/AlpakaInterface/test/alpaka/testKernel.dev.cc", 
             "HeterogeneousCore/AlpakaInterface/test/alpaka/testOneHistoContainer.dev.cc", 
             "HeterogeneousCore/AlpakaInterface/test/alpaka/testOneRadixSort.dev.cc", 
             "HeterogeneousCore/AlpakaInterface/test/alpaka/testOneToManyAssoc.dev.cc", 
@@ -1115,7 +1113,7 @@
         "created_at": 1697703077, 
         "number": 43064, 
         "state": "open", 
-        "updated_at": 1705680349
+        "updated_at": 1705932144
     }, 
     "43154": {
         "base_branch": "master", 
