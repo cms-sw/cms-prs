@@ -2363,16 +2363,24 @@
             "HeterogeneousCore/AlpakaCore/interface/alpaka/ESDeviceProductType.h", 
             "HeterogeneousCore/AlpakaInterface/interface/CachedBufAlloc.h", 
             "HeterogeneousCore/AlpakaInterface/interface/CachingAllocator.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/HistoContainer.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/OneToManyAssoc.h", 
             "HeterogeneousCore/AlpakaInterface/interface/config.h", 
             "HeterogeneousCore/AlpakaInterface/interface/devices.h", 
             "HeterogeneousCore/AlpakaInterface/interface/getDeviceCachingAllocator.h", 
             "HeterogeneousCore/AlpakaInterface/interface/host.h", 
-            "HeterogeneousCore/AlpakaInterface/interface/memory.h"
+            "HeterogeneousCore/AlpakaInterface/interface/memory.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/prefixScan.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/radixSort.h", 
+            "HeterogeneousCore/AlpakaInterface/test/alpaka/testHistoContainer.dev.cc", 
+            "HeterogeneousCore/AlpakaInterface/test/alpaka/testOneHistoContainer.dev.cc", 
+            "HeterogeneousCore/AlpakaInterface/test/alpaka/testOneToManyAssoc.dev.cc", 
+            "HeterogeneousCore/AlpakaInterface/test/alpaka/testPrefixScan.dev.cc"
         ], 
         "created_at": 1706012705, 
         "number": 43772, 
         "state": "open", 
-        "updated_at": 1706012733
+        "updated_at": 1706017173
     }, 
     "43773": {
         "base_branch": "master", 
