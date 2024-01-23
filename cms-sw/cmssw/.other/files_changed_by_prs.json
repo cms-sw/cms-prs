@@ -1641,13 +1641,15 @@
     "43642": {
         "base_branch": "master", 
         "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/relval_nano.py", 
             "PhysicsTools/NanoAOD/plugins/MuonSpecialVariables.cc", 
+            "PhysicsTools/NanoAOD/python/autoNANO.py", 
             "PhysicsTools/NanoAOD/python/custom_muon_cff.py"
         ], 
         "created_at": 1704095398, 
         "number": 43642, 
         "state": "open", 
-        "updated_at": 1704868005
+        "updated_at": 1706016855
     }, 
     "43645": {
         "base_branch": "master", 
