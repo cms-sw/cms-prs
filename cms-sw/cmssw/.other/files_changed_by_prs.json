@@ -2392,5 +2392,24 @@
         "number": 43771, 
         "state": "open", 
         "updated_at": 1705997115
+    }, 
+    "43772": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "HeterogeneousCore/AlpakaCore/interface/EventCache.h", 
+            "HeterogeneousCore/AlpakaCore/interface/QueueCache.h", 
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/ESDeviceProductType.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/CachedBufAlloc.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/CachingAllocator.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/config.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/devices.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/getDeviceCachingAllocator.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/host.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/memory.h"
+        ], 
+        "created_at": 1706012705, 
+        "number": 43772, 
+        "state": "open", 
+        "updated_at": 1706012733
     }
 }
