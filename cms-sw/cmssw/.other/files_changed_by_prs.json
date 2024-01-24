@@ -2050,8 +2050,10 @@
         "changed_files_names": [
             "DataFormats/Scouting/interface/Run3ScoutingVertex.h", 
             "DataFormats/Scouting/src/classes_def.xml", 
+            "DataFormats/Scouting/test/TestReadRun3Scouting.cc", 
             "DataFormats/Scouting/test/TestWriteRun3Scouting.cc", 
             "DataFormats/Scouting/test/create_Run3Scouting_test_file_cfg.py", 
+            "DataFormats/Scouting/test/test_readRun3Scouting_cfg.py", 
             "HLTrigger/JetMET/plugins/HLTScoutingPFProducer.cc", 
             "HLTrigger/JetMET/plugins/HLTScoutingPrimaryVertexProducer.cc", 
             "HLTrigger/Muon/plugins/HLTScoutingMuonProducer.cc"
@@ -2059,7 +2061,7 @@
         "created_at": 1705682730, 
         "number": 43758, 
         "state": "open", 
-        "updated_at": 1705682761
+        "updated_at": 1706114778
     }, 
     "43760": {
         "base_branch": "master", 
