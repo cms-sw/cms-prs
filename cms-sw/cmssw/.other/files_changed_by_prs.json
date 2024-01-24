@@ -662,6 +662,7 @@
     "41285": {
         "base_branch": "master", 
         "changed_files_names": [
+            "CUDADataFormats/SiPixelDigi/interface/SiPixelDigisCUDA.h", 
             "CalibTracker/Records/interface/SiPixelGainCalibrationForHLTSoARcd.h", 
             "CalibTracker/Records/interface/SiPixelMappingSoARecord.h", 
             "CalibTracker/Records/src/SiPixelGainCalibrationForHLTSoARcd.cc", 
@@ -698,6 +699,10 @@
             "DataFormats/SiPixelClusterSoA/test/BuildFile.xml", 
             "DataFormats/SiPixelClusterSoA/test/alpaka/Clusters_test.cc", 
             "DataFormats/SiPixelClusterSoA/test/alpaka/Clusters_test.dev.cc", 
+            "DataFormats/SiPixelDigi/interface/SiPixelDigisSoA.h", 
+            "DataFormats/SiPixelDigi/src/SiPixelDigisSoA.cc", 
+            "DataFormats/SiPixelDigi/src/classes.h", 
+            "DataFormats/SiPixelDigi/src/classes_def.xml", 
             "DataFormats/SiPixelDigiSoA/BuildFile.xml", 
             "DataFormats/SiPixelDigiSoA/interface/SiPixelDigiErrorsDevice.h", 
             "DataFormats/SiPixelDigiSoA/interface/SiPixelDigiErrorsHost.h", 
@@ -740,6 +745,7 @@
             "DataFormats/TrackingRecHitSoA/test/alpaka/Hits_test.dev.cc", 
             "EventFilter/SiPixelRawToDigi/plugins/BuildFile.xml", 
             "EventFilter/SiPixelRawToDigi/plugins/SiPixelDigiErrorsFromSoAAlpaka.cc", 
+            "EventFilter/SiPixelRawToDigi/plugins/SiPixelDigisSoAFromCUDA.cc", 
             "EventFilter/SiPixelRawToDigi/python/siPixelDigis_cff.py", 
             "HeterogeneousCore/AlpakaInterface/interface/workdivision.h", 
             "RecoLocalTracker/Records/interface/PixelCPEFastParamsRecord.h", 
@@ -772,11 +778,13 @@
             "RecoLocalTracker/SiPixelRecHits/interface/pixelCPEforDevice.h", 
             "RecoLocalTracker/SiPixelRecHits/plugins/BuildFile.xml", 
             "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitFromSoAAlpaka.cc", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitSoAFromLegacy.cc", 
             "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelCPEFastParamsESProducerAlpaka.cc", 
             "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelRecHitKernel.h", 
             "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelRecHitKernels.dev.cc", 
             "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelRecHits.h", 
             "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/SiPixelRecHitAlpaka.cc", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/gpuPixelRecHits.h", 
             "RecoLocalTracker/SiPixelRecHits/python/PixelCPEESProducers_cff.py", 
             "RecoLocalTracker/SiPixelRecHits/python/SiPixelRecHits_cfi.py", 
             "RecoLocalTracker/SiPixelRecHits/src/ES_PixelCPEFastParams.cc", 
@@ -787,7 +795,7 @@
         "created_at": 1680702636, 
         "number": 41285, 
         "state": "open", 
-        "updated_at": 1706086069
+        "updated_at": 1706098822
     }, 
     "41286": {
         "base_branch": "master", 
