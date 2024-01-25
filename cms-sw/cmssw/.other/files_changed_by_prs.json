@@ -711,7 +711,6 @@
             "DataFormats/SiPixelDigiSoA/interface/SiPixelDigisHost.h", 
             "DataFormats/SiPixelDigiSoA/interface/SiPixelDigisSoA.h", 
             "DataFormats/SiPixelDigiSoA/interface/alpaka/SiPixelDigiErrorsSoACollection.h", 
-            "DataFormats/SiPixelDigiSoA/interface/alpaka/SiPixelDigiErrorsUtilities.h", 
             "DataFormats/SiPixelDigiSoA/interface/alpaka/SiPixelDigisSoACollection.h", 
             "DataFormats/SiPixelDigiSoA/src/alpaka/classes_cuda.h", 
             "DataFormats/SiPixelDigiSoA/src/alpaka/classes_cuda_def.xml", 
@@ -795,7 +794,7 @@
         "created_at": 1680702636, 
         "number": 41285, 
         "state": "open", 
-        "updated_at": 1706098822
+        "updated_at": 1706137051
     }, 
     "41286": {
         "base_branch": "master", 
