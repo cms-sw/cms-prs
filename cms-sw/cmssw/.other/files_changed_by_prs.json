@@ -871,23 +871,6 @@
     "41287": {
         "base_branch": "master", 
         "changed_files_names": [
-            "DataFormats/Vertex/BuildFile.xml", 
-            "DataFormats/Vertex/README.md", 
-            "DataFormats/Vertex/interface/ZVertexDefinitions.h", 
-            "DataFormats/Vertex/interface/ZVertexLayout.h", 
-            "DataFormats/Vertex/interface/ZVertexSoADevice.h", 
-            "DataFormats/Vertex/interface/ZVertexSoAHost.h", 
-            "DataFormats/Vertex/interface/alpaka/ZVertexSoACollection.h", 
-            "DataFormats/Vertex/interface/alpaka/ZVertexUtilities.h", 
-            "DataFormats/Vertex/src/alpaka/classes_cuda.h", 
-            "DataFormats/Vertex/src/alpaka/classes_cuda_def.xml", 
-            "DataFormats/Vertex/src/alpaka/classes_rocm.h", 
-            "DataFormats/Vertex/src/alpaka/classes_rocm_def.xml", 
-            "DataFormats/Vertex/src/classes.h", 
-            "DataFormats/Vertex/src/classes_def.xml", 
-            "DataFormats/Vertex/test/BuildFile.xml", 
-            "DataFormats/Vertex/test/alpaka/ZVertexSoA_test.cc", 
-            "DataFormats/Vertex/test/alpaka/ZVertexSoA_test.dev.cc", 
             "RecoTracker/PixelVertexFinding/interface/PixelVertexWorkSpaceLayout.h", 
             "RecoTracker/PixelVertexFinding/plugins/BuildFile.xml", 
             "RecoTracker/PixelVertexFinding/plugins/PixelVertexProducerFromSoAAlpaka.cc", 
@@ -911,7 +894,7 @@
         "created_at": 1680702642, 
         "number": 41287, 
         "state": "open", 
-        "updated_at": 1706167566
+        "updated_at": 1706167625
     }, 
     "41288": {
         "base_branch": "master", 
