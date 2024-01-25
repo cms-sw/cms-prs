@@ -2026,36 +2026,6 @@
         "state": "open", 
         "updated_at": 1705476905
     }, 
-    "43734": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DPGAnalysis/MuonTools/interface/MuDigiBaseProducer.h", 
-            "DPGAnalysis/MuonTools/interface/MuLocalRecoBaseProducer.h", 
-            "DPGAnalysis/MuonTools/plugins/MuDTMuonExtTableProducer.cc", 
-            "DPGAnalysis/MuonTools/plugins/MuDTSegmentExtTableProducer.cc", 
-            "DPGAnalysis/MuonTools/plugins/MuDTTPGPhiFlatTableProducer.cc", 
-            "DPGAnalysis/MuonTools/plugins/MuDTTPGThetaFlatTableProducer.cc", 
-            "DPGAnalysis/MuonTools/plugins/MuGEMMuonExtTableProducer.cc", 
-            "DPGAnalysis/MuonTools/python/muNtupleProducer_cff.py", 
-            "DPGAnalysis/MuonTools/python/nano_mu_digi_cff.py", 
-            "DPGAnalysis/MuonTools/python/nano_mu_local_reco_cff.py", 
-            "DPGAnalysis/MuonTools/python/nano_mu_reco_cff.py", 
-            "DataFormats/NanoAOD/interface/FlatTable.h", 
-            "DataFormats/NanoAOD/src/FlatTable.cc", 
-            "DataFormats/NanoAOD/src/classes_def.xml", 
-            "PhysicsTools/NanoAOD/interface/SimpleFlatTableProducer.h", 
-            "PhysicsTools/NanoAOD/plugins/NanoAODDQM.cc", 
-            "PhysicsTools/NanoAOD/plugins/TableOutputBranches.cc", 
-            "PhysicsTools/NanoAOD/plugins/TableOutputBranches.h", 
-            "PhysicsTools/NanoAOD/python/electrons_cff.py", 
-            "PhysicsTools/NanoAOD/python/globals_cff.py", 
-            "PhysicsTools/NanoAOD/python/photons_cff.py"
-        ], 
-        "created_at": 1705507928, 
-        "number": 43734, 
-        "state": "open", 
-        "updated_at": 1705657918
-    }, 
     "43739": {
         "base_branch": "master", 
         "changed_files_names": [
