@@ -888,13 +888,12 @@
             "DataFormats/Vertex/test/BuildFile.xml", 
             "DataFormats/Vertex/test/alpaka/ZVertexSoA_test.cc", 
             "DataFormats/Vertex/test/alpaka/ZVertexSoA_test.dev.cc", 
+            "RecoTracker/PixelVertexFinding/interface/PixelVertexWorkSpaceLayout.h", 
             "RecoTracker/PixelVertexFinding/plugins/BuildFile.xml", 
             "RecoTracker/PixelVertexFinding/plugins/PixelVertexProducerFromSoAAlpaka.cc", 
-            "RecoTracker/PixelVertexFinding/plugins/PixelVertexWorkSpaceLayout.h", 
             "RecoTracker/PixelVertexFinding/plugins/PixelVertexWorkSpaceSoAHostAlpaka.h", 
             "RecoTracker/PixelVertexFinding/plugins/alpaka/PixelVertexProducerAlpaka.cc", 
             "RecoTracker/PixelVertexFinding/plugins/alpaka/PixelVertexWorkSpaceSoADeviceAlpaka.h", 
-            "RecoTracker/PixelVertexFinding/plugins/alpaka/PixelVertexWorkSpaceUtilitiesAlpaka.h", 
             "RecoTracker/PixelVertexFinding/plugins/alpaka/clusterTracksByDensity.h", 
             "RecoTracker/PixelVertexFinding/plugins/alpaka/clusterTracksDBSCAN.h", 
             "RecoTracker/PixelVertexFinding/plugins/alpaka/clusterTracksIterative.h", 
@@ -912,7 +911,7 @@
         "created_at": 1680702642, 
         "number": 41287, 
         "state": "open", 
-        "updated_at": 1704820479
+        "updated_at": 1706167566
     }, 
     "41288": {
         "base_branch": "master", 
