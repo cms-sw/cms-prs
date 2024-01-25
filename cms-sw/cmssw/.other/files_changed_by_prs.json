@@ -1162,6 +1162,7 @@
             "RecoLocalTracker/SiPixelRecHits/src/PixelCPEFastParams.cc", 
             "RecoLocalTracker/SiPixelRecHits/src/PixelCPEFastParamsHost.cc", 
             "RecoLocalTracker/SiPixelRecHits/src/alpaka/ES_PixelCPEFastParams.cc", 
+            "RecoTracker/Configuration/python/RecoPixelVertexing_cff.py", 
             "RecoTracker/PixelSeeding/plugins/BuildFile.xml", 
             "RecoTracker/PixelSeeding/plugins/alpaka/BrokenLineFit.dev.cc", 
             "RecoTracker/PixelSeeding/plugins/alpaka/CACell.h", 
@@ -1190,6 +1191,7 @@
             "RecoTracker/PixelTrackFitting/plugins/PixelTrackDumpAlpaka.cc", 
             "RecoTracker/PixelTrackFitting/plugins/PixelTrackProducerFromSoAAlpaka.cc", 
             "RecoTracker/PixelTrackFitting/python/PixelTracks_cff.py", 
+            "RecoTracker/PixelVertexFinding/BuildFile.xml", 
             "RecoTracker/PixelVertexFinding/interface/PixelVertexWorkSpaceLayout.h", 
             "RecoTracker/PixelVertexFinding/plugins/BuildFile.xml", 
             "RecoTracker/PixelVertexFinding/plugins/PixelVertexProducerFromSoAAlpaka.cc", 
@@ -1210,12 +1212,13 @@
             "RecoTracker/PixelVertexFinding/test/alpaka/VertexFinder_t.cc", 
             "RecoTracker/PixelVertexFinding/test/alpaka/VertexFinder_t.dev.cc", 
             "RecoVertex/BeamSpotProducer/plugins/BuildFile.xml", 
-            "RecoVertex/BeamSpotProducer/plugins/alpaka/BeamSpotDeviceProducer.cc"
+            "RecoVertex/BeamSpotProducer/plugins/alpaka/BeamSpotDeviceProducer.cc", 
+            "RecoVertex/BeamSpotProducer/python/BeamSpot_cff.py"
         ], 
         "created_at": 1680702642, 
         "number": 41287, 
         "state": "open", 
-        "updated_at": 1706200067
+        "updated_at": 1706213849
     }, 
     "41288": {
         "base_branch": "master", 
