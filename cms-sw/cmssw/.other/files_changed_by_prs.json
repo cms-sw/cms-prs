@@ -1193,6 +1193,8 @@
             "RecoTracker/PixelVertexFinding/interface/PixelVertexWorkSpaceLayout.h", 
             "RecoTracker/PixelVertexFinding/plugins/BuildFile.xml", 
             "RecoTracker/PixelVertexFinding/plugins/PixelVertexProducerFromSoAAlpaka.cc", 
+            "RecoTracker/PixelVertexFinding/plugins/PixelVertexWorkSpaceSoADevice.h", 
+            "RecoTracker/PixelVertexFinding/plugins/PixelVertexWorkSpaceSoAHost.h", 
             "RecoTracker/PixelVertexFinding/plugins/PixelVertexWorkSpaceSoAHostAlpaka.h", 
             "RecoTracker/PixelVertexFinding/plugins/alpaka/PixelVertexProducerAlpaka.cc", 
             "RecoTracker/PixelVertexFinding/plugins/alpaka/PixelVertexWorkSpaceSoADeviceAlpaka.h", 
@@ -1213,7 +1215,7 @@
         "created_at": 1680702642, 
         "number": 41287, 
         "state": "open", 
-        "updated_at": 1706196998
+        "updated_at": 1706200067
     }, 
     "41288": {
         "base_branch": "master", 
