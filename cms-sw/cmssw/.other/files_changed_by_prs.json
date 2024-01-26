@@ -2981,12 +2981,14 @@
             "IOMC/RandomEngine/plugins/RandomNumberGeneratorService.cc", 
             "IOMC/RandomEngine/plugins/RandomNumberGeneratorService.h", 
             "IOMC/RandomEngine/src/cloneEngine.cc", 
-            "IOMC/RandomEngine/test/TestRandomNumberServiceGlobal.cc"
+            "IOMC/RandomEngine/test/TestRandomNumberServiceGlobal.cc", 
+            "Mixing/Base/src/PileupRandomNumberGenerator.cc", 
+            "Mixing/Base/src/PileupRandomNumberGenerator.h"
         ], 
         "created_at": 1706189590, 
         "number": 43786, 
         "state": "open", 
-        "updated_at": 1706189615
+        "updated_at": 1706259520
     }, 
     "43788": {
         "base_branch": "master", 
