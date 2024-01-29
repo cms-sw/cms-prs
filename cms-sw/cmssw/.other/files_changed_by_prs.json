@@ -1022,15 +1022,10 @@
             "Configuration/ProcessModifiers/python/alpakaValidationPixel_cff.py", 
             "Configuration/ProcessModifiers/python/alpakaValidation_cff.py", 
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
-            "DQM/SiPixelHeterogeneous/plugins/BuildFile.xml", 
-            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareRecHitsSoAAlpaka.cc", 
-            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareTrackSoAAlpaka.cc", 
-            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareVertexSoAAlpaka.cc", 
-            "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorRecHitsSoAAlpaka.cc", 
-            "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorTrackSoAAlpaka.cc", 
-            "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorVertexSoAAlpaka.cc", 
             "DQM/SiPixelHeterogeneous/python/SiPixelHeterogenousDQM_FirstStep_cff.py", 
             "HLTrigger/Configuration/python/customizeHLTforPatatrack.py", 
+            "HeterogeneousCore/AlpakaCore/python/functions.py", 
+            "HeterogeneousCore/AlpakaTest/test/writer.py", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelDigisClustersFromSoA.cc", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelDigisClustersFromSoAAlpaka.cc", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.cu", 
@@ -1064,7 +1059,7 @@
         "created_at": 1700065635, 
         "number": 43294, 
         "state": "open", 
-        "updated_at": 1706537154
+        "updated_at": 1706544722
     }, 
     "43334": {
         "base_branch": "master", 
