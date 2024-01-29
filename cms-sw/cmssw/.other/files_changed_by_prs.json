@@ -778,7 +778,17 @@
             "Configuration/ProcessModifiers/python/alpakaValidationPixel_cff.py", 
             "Configuration/ProcessModifiers/python/alpakaValidation_cff.py", 
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareTrackSoAAlpaka.cc", 
             "DQM/SiPixelHeterogeneous/python/SiPixelHeterogenousDQM_FirstStep_cff.py", 
+            "DataFormats/TrackSoA/interface/TracksSoA.h", 
+            "DataFormats/TrackSoA/interface/alpaka/TrackUtilities.h", 
+            "DataFormats/TrackSoA/src/alpaka/classes_cuda.h", 
+            "DataFormats/TrackSoA/src/alpaka/classes_cuda_def.xml", 
+            "DataFormats/TrackSoA/src/alpaka/classes_rocm.h", 
+            "DataFormats/TrackSoA/src/alpaka/classes_rocm_def.xml", 
+            "DataFormats/TrackSoA/src/classes.h", 
+            "DataFormats/TrackSoA/src/classes_def.xml", 
+            "DataFormats/TrackSoA/test/alpaka/TrackSoAHeterogeneous_test.dev.cc", 
             "HLTrigger/Configuration/python/customizeHLTforPatatrack.py", 
             "HeterogeneousCore/AlpakaCore/python/functions.py", 
             "HeterogeneousCore/AlpakaTest/test/writer.py", 
@@ -810,12 +820,13 @@
             "RecoTracker/PixelSeeding/plugins/alpaka/CAPixelDoubletsAlgos.h", 
             "RecoTracker/PixelSeeding/plugins/gpuPixelDoubletsAlgos.h", 
             "RecoTracker/PixelTrackFitting/plugins/PixelTrackProducerFromSoAAlpaka.cc", 
-            "RecoTracker/PixelTrackFitting/python/PixelTracks_cff.py"
+            "RecoTracker/PixelTrackFitting/python/PixelTracks_cff.py", 
+            "RecoTracker/PixelVertexFinding/plugins/alpaka/vertexFinder.dev.cc"
         ], 
         "created_at": 1700065635, 
         "number": 43294, 
         "state": "open", 
-        "updated_at": 1706544722
+        "updated_at": 1706548676
     }, 
     "43334": {
         "base_branch": "master", 
