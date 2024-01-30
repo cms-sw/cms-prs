@@ -1604,6 +1604,8 @@
     "43772": {
         "base_branch": "master", 
         "changed_files_names": [
+            "DataFormats/TrackSoA/test/alpaka/TrackSoAHeterogeneous_test.dev.cc", 
+            "DataFormats/VertexSoA/test/alpaka/ZVertexSoA_test.dev.cc", 
             "HeterogeneousCore/AlpakaCore/interface/EventCache.h", 
             "HeterogeneousCore/AlpakaCore/interface/QueueCache.h", 
             "HeterogeneousCore/AlpakaCore/interface/alpaka/ESDeviceProductType.h", 
@@ -1621,12 +1623,30 @@
             "HeterogeneousCore/AlpakaInterface/test/alpaka/testHistoContainer.dev.cc", 
             "HeterogeneousCore/AlpakaInterface/test/alpaka/testOneHistoContainer.dev.cc", 
             "HeterogeneousCore/AlpakaInterface/test/alpaka/testOneToManyAssoc.dev.cc", 
-            "HeterogeneousCore/AlpakaInterface/test/alpaka/testPrefixScan.dev.cc"
+            "HeterogeneousCore/AlpakaInterface/test/alpaka/testPrefixScan.dev.cc", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/ClusterChargeCut.h", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/PixelClustering.h", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToClusterKernel.dev.cc", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelRecHits.h", 
+            "RecoTracker/PixelSeeding/plugins/alpaka/BrokenLineFit.dev.cc", 
+            "RecoTracker/PixelSeeding/plugins/alpaka/CACell.h", 
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernels.dev.cc", 
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernelsImpl.h", 
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAPixelDoublets.h", 
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAPixelDoubletsAlgos.h", 
+            "RecoTracker/PixelSeeding/plugins/alpaka/HelixFit.cc", 
+            "RecoTracker/PixelSeeding/plugins/alpaka/RiemannFit.dev.cc", 
+            "RecoTracker/PixelVertexFinding/plugins/alpaka/clusterTracksByDensity.h", 
+            "RecoTracker/PixelVertexFinding/plugins/alpaka/clusterTracksDBSCAN.h", 
+            "RecoTracker/PixelVertexFinding/plugins/alpaka/clusterTracksIterative.h", 
+            "RecoTracker/PixelVertexFinding/plugins/alpaka/fitVertices.h", 
+            "RecoTracker/PixelVertexFinding/plugins/alpaka/splitVertices.h", 
+            "RecoTracker/PixelVertexFinding/plugins/alpaka/vertexFinder.dev.cc"
         ], 
         "created_at": 1706012705, 
         "number": 43772, 
         "state": "open", 
-        "updated_at": 1706048292
+        "updated_at": 1706614249
     }, 
     "43778": {
         "base_branch": "master", 
