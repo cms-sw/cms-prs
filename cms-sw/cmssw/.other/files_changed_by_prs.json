@@ -789,7 +789,8 @@
             "DataFormats/TrackSoA/src/classes.h", 
             "DataFormats/TrackSoA/src/classes_def.xml", 
             "DataFormats/TrackSoA/test/alpaka/TrackSoAHeterogeneous_test.dev.cc", 
-            "HLTrigger/Configuration/python/customizeHLTforPatatrack.py", 
+            "HLTrigger/Configuration/python/customizeHLTforAlpaka.py", 
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
             "HeterogeneousCore/AlpakaCore/python/functions.py", 
             "HeterogeneousCore/AlpakaTest/test/writer.py", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelDigisClustersFromSoA.cc", 
@@ -806,6 +807,7 @@
             "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelRecHits.h", 
             "RecoLocalTracker/SiPixelRecHits/plugins/gpuPixelRecHits.h", 
             "RecoLocalTracker/SiPixelRecHits/python/SiPixelRecHits_cfi.py", 
+            "RecoTauTag/HLTProducers/src/L2TauTagNNProducerAlpaka.cc", 
             "RecoTracker/Configuration/python/RecoPixelVertexing_cff.py", 
             "RecoTracker/Configuration/python/customizePixelOnlyForProfiling.py", 
             "RecoTracker/PixelSeeding/plugins/CAHitNtupletGeneratorKernels.cu", 
@@ -826,7 +828,7 @@
         "created_at": 1700065635, 
         "number": 43294, 
         "state": "open", 
-        "updated_at": 1706548676
+        "updated_at": 1706595109
     }, 
     "43334": {
         "base_branch": "master", 
