@@ -1652,6 +1652,7 @@
             "HeterogeneousCore/SonicTriton/README.md", 
             "HeterogeneousCore/SonicTriton/interface/TritonClient.h", 
             "HeterogeneousCore/SonicTriton/interface/TritonException.h", 
+            "HeterogeneousCore/SonicTriton/interface/TritonMemResource.h", 
             "HeterogeneousCore/SonicTriton/interface/TritonService.h", 
             "HeterogeneousCore/SonicTriton/interface/triton_utils.h", 
             "HeterogeneousCore/SonicTriton/scripts/cmsTriton", 
@@ -1660,6 +1661,7 @@
             "HeterogeneousCore/SonicTriton/src/TritonException.cc", 
             "HeterogeneousCore/SonicTriton/src/TritonMemResource.cc", 
             "HeterogeneousCore/SonicTriton/src/TritonService.cc", 
+            "HeterogeneousCore/SonicTriton/src/triton_utils.cc", 
             "HeterogeneousCore/SonicTriton/test/README.md", 
             "HeterogeneousCore/SonicTriton/test/tritonTest_cfg.py", 
             "HeterogeneousCore/SonicTriton/test/unittest.sh"
@@ -1667,7 +1669,7 @@
         "created_at": 1706627146, 
         "number": 43814, 
         "state": "open", 
-        "updated_at": 1706719450
+        "updated_at": 1706734701
     }, 
     "43815": {
         "base_branch": "master", 
