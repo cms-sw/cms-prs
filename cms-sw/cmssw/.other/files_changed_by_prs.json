@@ -1759,7 +1759,6 @@
             "RecoHI/HiMuonAlgos/test/reMuonReco_test.py", 
             "RecoHI/HiTracking/interface/BestVertexComparator.h", 
             "RecoHI/HiTracking/interface/HIBestVertexProducer.h", 
-            "RecoHI/HiTracking/interface/HICaloCompatibleTrackSelector.h", 
             "RecoHI/HiTracking/interface/HIProtoTrackFilter.h", 
             "RecoHI/HiTracking/plugins/HIBestVertexProducer.cc", 
             "RecoHI/HiTracking/plugins/HIBestVertexSelector.cc", 
@@ -1774,8 +1773,6 @@
             "RecoHI/HiTracking/plugins/HIProtoTrackSelector.h", 
             "RecoHI/HiTracking/plugins/modules.cc", 
             "RecoHI/HiTracking/python/HIBestVertexSequences_cff.py", 
-            "RecoHI/HiTracking/python/HICaloCompatibleTracks_cff.py", 
-            "RecoHI/HiTracking/python/HICaloCompatibleTracks_cfi.py", 
             "RecoHI/HiTracking/python/HICkfTrackCandidates_cff.py", 
             "RecoHI/HiTracking/python/HIInitialJetCoreClusterSplitting_cff.py", 
             "RecoHI/HiTracking/python/HIPixel3PrimTracks_cfi.py", 
@@ -1812,15 +1809,12 @@
             "RecoHI/HiTracking/python/hiRegitPixelPairStep_cff.py", 
             "RecoHI/HiTracking/python/hiRegitTracking_cff.py", 
             "RecoHI/HiTracking/python/hiTobTecStep_cff.py", 
-            "RecoHI/HiTracking/src/HICaloCompatibleTrackSelector.cc", 
-            "RecoHI/HiTracking/src/HIPixelTrackFilter.cc", 
-            "RecoHI/HiTracking/src/HIProtoTrackFilter.cc", 
-            "RecoHI/HiTracking/src/SealModules.cc"
+            "RecoHI/HiTracking/src/HIProtoTrackFilter.cc"
         ], 
         "created_at": 1706703511, 
         "number": 43824, 
         "state": "open", 
-        "updated_at": 1706724222
+        "updated_at": 1706730075
     }, 
     "43825": {
         "base_branch": "master", 
