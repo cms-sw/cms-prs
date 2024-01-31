@@ -1784,5 +1784,19 @@
         "number": 43820, 
         "state": "open", 
         "updated_at": 1706683046
+    }, 
+    "43821": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DataFormats/L1TParticleFlow/interface/datatypes.h", 
+            "DataFormats/L1TParticleFlow/interface/puppi.h", 
+            "L1Trigger/Phase2L1ParticleFlow/interface/puppi/linpuppi_bits.h", 
+            "L1Trigger/Phase2L1ParticleFlow/interface/puppi/linpuppi_ref.h", 
+            "L1Trigger/Phase2L1ParticleFlow/src/puppi/linpuppi_ref.cpp"
+        ], 
+        "created_at": 1706687883, 
+        "number": 43821, 
+        "state": "open", 
+        "updated_at": 1706687909
     }
 }
