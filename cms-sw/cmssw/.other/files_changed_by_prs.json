@@ -1735,7 +1735,6 @@
             "Configuration/PyReleaseValidation/python/relval_steps.py", 
             "Configuration/PyReleaseValidation/scripts/runTheMatrix.py", 
             "Configuration/StandardSequences/python/ReconstructionHeavyIons_cff.py", 
-            "RecoHI/Configuration/python/RecoHI_EventContent_cff.py", 
             "RecoHI/Configuration/python/Reconstruction_HI_cff.py", 
             "RecoHI/Configuration/python/Reconstruction_hiPF_cff.py", 
             "RecoHI/Configuration/python/customise_PF.py", 
@@ -1743,8 +1742,6 @@
             "RecoHI/HiEgammaAlgos/python/HiEgammaPostPF_cff.py", 
             "RecoHI/HiEgammaAlgos/python/HiEgamma_cff.py", 
             "RecoHI/HiEgammaAlgos/python/HiElectronSequence_cff.py", 
-            "RecoHI/HiEgammaAlgos/python/RecoHiEgamma_EventContent_cff.py", 
-            "RecoHI/HiJetAlgos/python/RecoHiJets_EventContent_cff.py", 
             "RecoHI/HiJetAlgos/python/hiCaloJetsForTrk_cff.py", 
             "RecoHI/HiMuonAlgos/python/HiRecoMuon_cff.py", 
             "RecoHI/HiMuonAlgos/python/HiRegionalRecoMuon_cff.py", 
@@ -1754,7 +1751,6 @@
             "RecoHI/HiMuonAlgos/python/HiRegitMuonPixelLessStep_cff.py", 
             "RecoHI/HiMuonAlgos/python/HiRegitMuonPixelPairStep_cff.py", 
             "RecoHI/HiMuonAlgos/python/HiRegitMuonSeededStep_cff.py", 
-            "RecoHI/HiMuonAlgos/python/RecoHiMuon_EventContent_cff.py", 
             "RecoHI/HiMuonAlgos/python/hiMuonIterativeTk_cff.py", 
             "RecoHI/HiMuonAlgos/test/reMuonReco_test.py", 
             "RecoHI/HiTracking/plugins/HIMultiTrackSelector.cc", 
@@ -1780,7 +1776,6 @@
             "RecoHI/HiTracking/python/MergeRegitTrackCollectionsHI_cff.py", 
             "RecoHI/HiTracking/python/MergeRegit_cff.py", 
             "RecoHI/HiTracking/python/MergeTrackCollectionsHI_cff.py", 
-            "RecoHI/HiTracking/python/RecoHiTracker_EventContent_cff.py", 
             "RecoHI/HiTracking/python/hiDetachedQuadStep_cff.py", 
             "RecoHI/HiTracking/python/hiDetachedTripletStep_cff.py", 
             "RecoHI/HiTracking/python/hiHighPtTripletStep_cff.py", 
@@ -1803,7 +1798,7 @@
         "created_at": 1706703511, 
         "number": 43824, 
         "state": "open", 
-        "updated_at": 1706784114
+        "updated_at": 1706795706
     }, 
     "43825": {
         "base_branch": "master", 
