@@ -329,13 +329,18 @@
             "HeterogeneousCore/AlpakaTest/plugins/TestAlpakaAnalyzer.cc", 
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlgo.dev.cc", 
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlgo.h", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaGlobalProducer.cc", 
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaProducer.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamProducer.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamSynchronizingProducer.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestHelperClass.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestHelperClass.h", 
             "HeterogeneousCore/AlpakaTest/test/writer.py"
         ], 
         "created_at": 1670834202, 
         "number": 40285, 
         "state": "open", 
-        "updated_at": 1699303694
+        "updated_at": 1706884810
     }, 
     "40610": {
         "base_branch": "master", 
