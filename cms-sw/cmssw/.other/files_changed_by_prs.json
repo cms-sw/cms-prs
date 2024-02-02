@@ -1862,5 +1862,17 @@
         "number": 43846, 
         "state": "open", 
         "updated_at": 1706879372
+    }, 
+    "43848": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "L1Trigger/Phase2L1ParticleFlow/interface/taus/L1HPSPFTauEmulator.h", 
+            "L1Trigger/Phase2L1ParticleFlow/plugins/L1HPSPFTauProducer.cxx", 
+            "L1Trigger/Phase2L1ParticleFlow/python/L1HPSPFTauProducer_cfi.py"
+        ], 
+        "created_at": 1706883014, 
+        "number": 43848, 
+        "state": "open", 
+        "updated_at": 1706883043
     }
 }
