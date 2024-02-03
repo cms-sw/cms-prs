@@ -1907,5 +1907,21 @@
         "number": 43852, 
         "state": "open", 
         "updated_at": 1706896138
+    }, 
+    "43853": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondFormats/SiPixelObjects/BuildFile.xml", 
+            "CondFormats/SiPixelObjects/interface/SiPixelMappingHost.h", 
+            "CondFormats/SiPixelObjects/interface/alpaka/SiPixelMappingDevice.h", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/CalibPixel.h", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToClusterKernel.dev.cc", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToClusterKernel.h", 
+            "RecoTracker/MeasurementDet/plugins/MeasurementTrackerEventProducer.cc"
+        ], 
+        "created_at": 1706916555, 
+        "number": 43853, 
+        "state": "open", 
+        "updated_at": 1706916583
     }
 }
