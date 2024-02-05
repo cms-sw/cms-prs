@@ -1840,12 +1840,13 @@
             "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/PixelClustering.h", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToClusterKernel.dev.cc", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToClusterKernel.h", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/gpuClusterChargeCut.h", 
             "RecoTracker/MeasurementDet/plugins/MeasurementTrackerEventProducer.cc"
         ], 
         "created_at": 1706916555, 
         "number": 43853, 
         "state": "open", 
-        "updated_at": 1707149370
+        "updated_at": 1707164898
     }, 
     "43854": {
         "base_branch": "master", 
