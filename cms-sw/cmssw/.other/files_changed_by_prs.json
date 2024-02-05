@@ -1833,6 +1833,8 @@
             "CondFormats/SiPixelObjects/interface/SiPixelMappingHost.h", 
             "CondFormats/SiPixelObjects/interface/alpaka/SiPixelMappingDevice.h", 
             "Geometry/CommonTopologies/interface/SimplePixelTopology.h", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelDigisClustersFromSoAAlpaka.cc", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.cu", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/CalibPixel.h", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/ClusterChargeCut.h", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/PixelClustering.h", 
@@ -1843,7 +1845,7 @@
         "created_at": 1706916555, 
         "number": 43853, 
         "state": "open", 
-        "updated_at": 1707122942
+        "updated_at": 1707149370
     }, 
     "43854": {
         "base_branch": "master", 
