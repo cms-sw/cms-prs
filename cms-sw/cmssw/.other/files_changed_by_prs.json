@@ -1962,5 +1962,17 @@
         "number": 43862, 
         "state": "open", 
         "updated_at": 1707024904
+    }, 
+    "43865": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "HLTrigger/Configuration/tables/online_grun.txt", 
+            "HLTrigger/Configuration/test/BuildFile.xml", 
+            "HLTrigger/Configuration/test/test_OnlineVsDevTablesConsistency.sh"
+        ], 
+        "created_at": 1707125900, 
+        "number": 43865, 
+        "state": "open", 
+        "updated_at": 1707125924
     }
 }
