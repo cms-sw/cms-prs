@@ -2142,5 +2142,28 @@
         "number": 43878, 
         "state": "open", 
         "updated_at": 1707221636
+    }, 
+    "43879": {
+        "base_branch": "CMSSW_14_0_X", 
+        "changed_files_names": [
+            "CondFormats/SiPixelObjects/BuildFile.xml", 
+            "CondFormats/SiPixelObjects/interface/SiPixelMappingHost.h", 
+            "CondFormats/SiPixelObjects/interface/alpaka/SiPixelMappingDevice.h", 
+            "CondFormats/SiPixelObjects/test/BuildFile.xml", 
+            "Geometry/CommonTopologies/interface/SimplePixelTopology.h", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelDigisClustersFromSoAAlpaka.cc", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.cu", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/CalibPixel.h", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/ClusterChargeCut.h", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/PixelClustering.h", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToClusterKernel.dev.cc", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToClusterKernel.h", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/gpuClusterChargeCut.h", 
+            "RecoTracker/MeasurementDet/plugins/MeasurementTrackerEventProducer.cc"
+        ], 
+        "created_at": 1707223738, 
+        "number": 43879, 
+        "state": "open", 
+        "updated_at": 1707223780
     }
 }
