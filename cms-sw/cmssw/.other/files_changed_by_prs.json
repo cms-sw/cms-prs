@@ -1712,15 +1712,17 @@
     "43837": {
         "base_branch": "master", 
         "changed_files_names": [
+            "CondTools/RunInfo/interface/LHCInfoHelper.h", 
             "CondTools/RunInfo/plugins/LHCInfoPerFillPopConAnalyzer.cc", 
             "CondTools/RunInfo/plugins/LHCInfoPerLSPopConAnalyzer.cc", 
             "CondTools/RunInfo/python/LHCInfoPerFillPopConAnalyzer.py", 
-            "CondTools/RunInfo/python/LHCInfoPerLSPopConAnalyzer.py"
+            "CondTools/RunInfo/python/LHCInfoPerLSPopConAnalyzer.py", 
+            "CondTools/RunInfo/src/LHCInfoHelper.cc"
         ], 
         "created_at": 1706799747, 
         "number": 43837, 
         "state": "open", 
-        "updated_at": 1706799776
+        "updated_at": 1707253319
     }, 
     "43840": {
         "base_branch": "master", 
