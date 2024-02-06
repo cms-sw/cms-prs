@@ -2137,5 +2137,31 @@
         "number": 43881, 
         "state": "open", 
         "updated_at": 1707234147
+    }, 
+    "43883": {
+        "base_branch": "CMSSW_14_0_X", 
+        "changed_files_names": [
+            "Configuration/Geometry/README.md", 
+            "Configuration/Geometry/python/GeometryDD4hepExtended2026D107Reco_cff.py", 
+            "Configuration/Geometry/python/GeometryDD4hepExtended2026D107_cff.py", 
+            "Configuration/Geometry/python/GeometryDD4hepExtended2026D108Reco_cff.py", 
+            "Configuration/Geometry/python/GeometryDD4hepExtended2026D108_cff.py", 
+            "Configuration/Geometry/python/GeometryExtended2026D107Reco_cff.py", 
+            "Configuration/Geometry/python/GeometryExtended2026D107_cff.py", 
+            "Configuration/Geometry/python/GeometryExtended2026D108Reco_cff.py", 
+            "Configuration/Geometry/python/GeometryExtended2026D108_cff.py", 
+            "Configuration/Geometry/python/dict2026Geometry.py", 
+            "Configuration/PyReleaseValidation/python/relval_2026.py", 
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
+            "Configuration/StandardSequences/python/GeometryConf.py", 
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D107.xml", 
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D108.xml", 
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D107XML_cfi.py", 
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D108XML_cfi.py"
+        ], 
+        "created_at": 1707246558, 
+        "number": 43883, 
+        "state": "open", 
+        "updated_at": 1707246581
     }
 }
