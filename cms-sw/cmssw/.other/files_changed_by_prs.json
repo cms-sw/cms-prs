@@ -307,7 +307,10 @@
             "DataFormats/Portable/interface/PortableCollectionCommon.h", 
             "DataFormats/Portable/interface/PortableDeviceCollection.h", 
             "DataFormats/Portable/interface/PortableHostCollection.h", 
+            "DataFormats/Portable/interface/PortableHostCollectionReadRules.h", 
+            "DataFormats/Portable/interface/PortableObject.h", 
             "DataFormats/Portable/interface/alpaka/PortableCollection.h", 
+            "DataFormats/Portable/interface/alpaka/PortableObject.h", 
             "DataFormats/Portable/scripts/portableDeviceCollectionHints", 
             "DataFormats/Portable/scripts/portableHostCollectionHints", 
             "DataFormats/PortableTestObjects/interface/TestHostCollection.h", 
@@ -315,11 +318,13 @@
             "DataFormats/PortableTestObjects/interface/alpaka/TestDeviceCollection.h", 
             "DataFormats/PortableTestObjects/src/alpaka/classes_cuda_def.xml", 
             "DataFormats/PortableTestObjects/src/alpaka/classes_rocm_def.xml", 
+            "DataFormats/PortableTestObjects/src/classes.cc", 
             "DataFormats/PortableTestObjects/src/classes_def.xml", 
             "HeterogeneousCore/AlpakaTest/plugins/TestAlpakaAnalyzer.cc", 
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlgo.dev.cc", 
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlgo.h", 
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaGlobalProducer.cc", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaGlobalProducerE.cc", 
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaProducer.cc", 
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamProducer.cc", 
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamSynchronizingProducer.cc", 
@@ -330,7 +335,7 @@
         "created_at": 1670834202, 
         "number": 40285, 
         "state": "open", 
-        "updated_at": 1706884810
+        "updated_at": 1707297484
     }, 
     "40610": {
         "base_branch": "master", 
