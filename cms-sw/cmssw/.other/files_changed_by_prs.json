@@ -1811,6 +1811,9 @@
             "CondFormats/SiPixelObjects/interface/SiPixelMappingHost.h", 
             "CondFormats/SiPixelObjects/interface/alpaka/SiPixelMappingDevice.h", 
             "CondFormats/SiPixelObjects/test/BuildFile.xml", 
+            "Configuration/PyReleaseValidation/README.md", 
+            "Configuration/PyReleaseValidation/python/relval_gpu.py", 
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
             "Geometry/CommonTopologies/interface/SimplePixelTopology.h", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelDigisClustersFromSoAAlpaka.cc", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.cu", 
@@ -1825,7 +1828,7 @@
         "created_at": 1707223738, 
         "number": 43879, 
         "state": "open", 
-        "updated_at": 1707223780
+        "updated_at": 1707338565
     }, 
     "43880": {
         "base_branch": "CMSSW_14_0_X", 
