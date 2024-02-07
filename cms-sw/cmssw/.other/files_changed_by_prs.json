@@ -2193,5 +2193,18 @@
         "number": 43885, 
         "state": "open", 
         "updated_at": 1707312285
+    }, 
+    "43888": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "L1Trigger/L1TMuon/interface/MicroGMTConfiguration.h", 
+            "L1Trigger/L1TMuon/plugins/L1TMuonProducer.cc", 
+            "L1Trigger/L1TMuon/python/fakeGmtParams_cff.py", 
+            "L1Trigger/L1TMuon/src/MicroGMTConfiguration.cc"
+        ], 
+        "created_at": 1707312731, 
+        "number": 43888, 
+        "state": "open", 
+        "updated_at": 1707312753
     }
 }
