@@ -2044,5 +2044,17 @@
         "number": 43901, 
         "state": "open", 
         "updated_at": 1707326333
+    }, 
+    "43902": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "FWCore/ParameterSet/src/Entry.cc", 
+            "IOPool/Input/src/InputFile.cc", 
+            "IOPool/Input/src/RootFile.cc"
+        ], 
+        "created_at": 1707332225, 
+        "number": 43902, 
+        "state": "open", 
+        "updated_at": 1707332253
     }
 }
