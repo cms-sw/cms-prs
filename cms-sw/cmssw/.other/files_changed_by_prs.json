@@ -2192,5 +2192,16 @@
         "number": 43907, 
         "state": "open", 
         "updated_at": 1707377533
+    }, 
+    "43908": {
+        "base_branch": "CMSSW_14_0_X", 
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
+            "RecoEgamma/EgammaHLTProducers/plugins/EgammaHLTClusterShapeProducer.cc"
+        ], 
+        "created_at": 1707381940, 
+        "number": 43908, 
+        "state": "open", 
+        "updated_at": 1707381985
     }
 }
