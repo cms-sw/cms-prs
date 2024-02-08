@@ -1672,6 +1672,10 @@
             "Configuration/PyReleaseValidation/README.md", 
             "Configuration/PyReleaseValidation/python/relval_gpu.py", 
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
+            "DataFormats/TrackingRecHitSoA/interface/TrackingRecHitsDevice.h", 
+            "DataFormats/TrackingRecHitSoA/interface/TrackingRecHitsHost.h", 
+            "DataFormats/TrackingRecHitSoA/interface/alpaka/TrackingRecHitsSoACollection.h", 
+            "DataFormats/TrackingRecHitSoA/test/alpaka/Hits_test.cc", 
             "Geometry/CommonTopologies/interface/SimplePixelTopology.h", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelDigisClustersFromSoAAlpaka.cc", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.cu", 
@@ -1681,12 +1685,18 @@
             "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToClusterKernel.dev.cc", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToClusterKernel.h", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/gpuClusterChargeCut.h", 
-            "RecoTracker/MeasurementDet/plugins/MeasurementTrackerEventProducer.cc"
+            "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelRecHitKernels.dev.cc", 
+            "RecoTracker/MeasurementDet/plugins/MeasurementTrackerEventProducer.cc", 
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAFishbone.h", 
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGenerator.cc", 
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernels.dev.cc", 
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernels.h", 
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAPixelDoublets.h"
         ], 
         "created_at": 1706916555, 
         "number": 43853, 
         "state": "open", 
-        "updated_at": 1707338579
+        "updated_at": 1707372880
     }, 
     "43854": {
         "base_branch": "master", 
