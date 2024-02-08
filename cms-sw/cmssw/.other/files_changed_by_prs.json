@@ -2159,7 +2159,6 @@
         "changed_files_names": [
             "Configuration/HLT/python/addOnTestsHLT.py", 
             "HLTrigger/Configuration/python/HLT_2023v12_cff.py", 
-            "HLTrigger/Configuration/python/HLT_75e33_cff.py", 
             "HLTrigger/Configuration/python/HLT_FULL_cff.py", 
             "HLTrigger/Configuration/python/HLT_Fake1_cff.py", 
             "HLTrigger/Configuration/python/HLT_Fake2_cff.py", 
@@ -2175,6 +2174,7 @@
             "HLTrigger/Configuration/python/HLTrigger_Datasets_PRef_cff.py", 
             "HLTrigger/Configuration/python/HLTrigger_Datasets_Special_cff.py", 
             "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
+            "HLTrigger/Configuration/tables/makeSubTables", 
             "HLTrigger/Configuration/test/OnLine_HLT_2023v12.py", 
             "HLTrigger/Configuration/test/OnLine_HLT_FULL.py", 
             "HLTrigger/Configuration/test/OnLine_HLT_Fake.py", 
@@ -2191,7 +2191,7 @@
         "created_at": 1707377508, 
         "number": 43907, 
         "state": "open", 
-        "updated_at": 1707377533
+        "updated_at": 1707390634
     }, 
     "43908": {
         "base_branch": "CMSSW_14_0_X", 
