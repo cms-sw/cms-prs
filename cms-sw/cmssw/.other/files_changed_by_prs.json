@@ -1769,21 +1769,6 @@
         "state": "open", 
         "updated_at": 1707210850
     }, 
-    "43877": {
-        "base_branch": "CMSSW_14_0_X", 
-        "changed_files_names": [
-            "Configuration/Eras/python/Modifier_phase2_hgcalOnly_cff.py", 
-            "Geometry/HGCalCommonData/python/testHGCalV18OReco_cff.py", 
-            "Geometry/HGCalCommonData/python/testHGCalV18OXML_cfi.py", 
-            "Geometry/HGCalCommonData/test/python/g4OverlapCheck_cfg.py", 
-            "SimG4CMS/Calo/test/python/runHGC9_cfg.py", 
-            "SimG4Core/Application/python/g4SimHits_cfi.py"
-        ], 
-        "created_at": 1707216638, 
-        "number": 43877, 
-        "state": "open", 
-        "updated_at": 1707292147
-    }, 
     "43878": {
         "base_branch": "master", 
         "changed_files_names": [
