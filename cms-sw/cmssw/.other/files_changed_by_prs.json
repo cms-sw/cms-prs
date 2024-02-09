@@ -1650,6 +1650,7 @@
             "Configuration/PyReleaseValidation/README.md", 
             "Configuration/PyReleaseValidation/python/relval_gpu.py", 
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
+            "DataFormats/SiPixelClusterSoA/interface/alpaka/SiPixelClustersSoACollection.h", 
             "DataFormats/TrackSoA/interface/alpaka/TrackUtilities.h", 
             "DataFormats/TrackSoA/interface/alpaka/TracksSoACollection.h", 
             "DataFormats/TrackSoA/src/alpaka/classes_cuda.h", 
@@ -1703,7 +1704,7 @@
         "created_at": 1706916555, 
         "number": 43853, 
         "state": "open", 
-        "updated_at": 1707460101
+        "updated_at": 1707466302
     }, 
     "43854": {
         "base_branch": "master", 
