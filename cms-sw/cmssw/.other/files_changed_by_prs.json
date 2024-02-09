@@ -2270,5 +2270,19 @@
         "number": 43922, 
         "state": "open", 
         "updated_at": 1707416948
+    }, 
+    "43925": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/interface/HGCalCell.h", 
+            "Geometry/HGCalCommonData/interface/HGCalCellOffset.h", 
+            "Geometry/HGCalCommonData/src/HGCalCell.cc", 
+            "Geometry/HGCalCommonData/src/HGCalCellOffset.cc", 
+            "Geometry/HGCalCommonData/test/HGCalCellOffsetTester.cc"
+        ], 
+        "created_at": 1707458649, 
+        "number": 43925, 
+        "state": "open", 
+        "updated_at": 1707458678
     }
 }
