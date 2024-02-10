@@ -1585,6 +1585,9 @@
             "DataFormats/TrackingRecHitSoA/test/alpaka/Hits_test.cc", 
             "DataFormats/TrackingRecHitSoA/test/alpaka/Hits_test.dev.cc", 
             "Geometry/CommonTopologies/interface/SimplePixelTopology.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/workdivision.h", 
+            "HeterogeneousCore/AlpakaInterface/test/alpaka/testKernel.dev.cc", 
+            "HeterogeneousCore/AlpakaInterface/test/alpaka/testWorkDivision.dev.cc", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelDigisClustersFromSoAAlpaka.cc", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.cu", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/CalibPixel.h", 
@@ -1627,7 +1630,7 @@
         "created_at": 1706916555, 
         "number": 43853, 
         "state": "open", 
-        "updated_at": 1707466302
+        "updated_at": 1707582896
     }, 
     "43857": {
         "base_branch": "master", 
