@@ -1653,6 +1653,9 @@
             "RecoTracker/PixelSeeding/plugins/alpaka/HelixFit.h", 
             "RecoTracker/PixelSeeding/plugins/alpaka/RiemannFit.dev.cc", 
             "RecoTracker/PixelSeeding/test/alpaka/CAsizes_t.cpp", 
+            "RecoTracker/PixelTrackFitting/interface/BrokenLine.h", 
+            "RecoTracker/PixelTrackFitting/interface/FitResult.h", 
+            "RecoTracker/PixelTrackFitting/interface/RiemannFit.h", 
             "RecoTracker/PixelTrackFitting/interface/alpaka/BrokenLine.h", 
             "RecoTracker/PixelTrackFitting/interface/alpaka/FitResult.h", 
             "RecoTracker/PixelTrackFitting/interface/alpaka/FitUtils.h", 
@@ -1670,7 +1673,7 @@
         "created_at": 1706916555, 
         "number": 43853, 
         "state": "open", 
-        "updated_at": 1707633669
+        "updated_at": 1707730422
     }, 
     "43857": {
         "base_branch": "master", 
