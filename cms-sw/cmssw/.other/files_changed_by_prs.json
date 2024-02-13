@@ -2001,5 +2001,34 @@
         "number": 43951, 
         "state": "open", 
         "updated_at": 1707836675
+    }, 
+    "43952": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareVertexSoAAlpaka.cc", 
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorVertexSoAAlpaka.cc", 
+            "DataFormats/VertexSoA/interface/ZVertexDevice.h", 
+            "DataFormats/VertexSoA/interface/ZVertexHost.h", 
+            "DataFormats/VertexSoA/interface/ZVertexSoA.h", 
+            "DataFormats/VertexSoA/src/classes_def.xml", 
+            "DataFormats/VertexSoA/test/alpaka/ZVertexSoA_test.cc", 
+            "DataFormats/VertexSoA/test/alpaka/ZVertexSoA_test.dev.cc", 
+            "RecoTauTag/HLTProducers/src/L2TauTagNNProducerAlpaka.cc", 
+            "RecoTracker/PixelTrackFitting/plugins/PixelTrackDumpAlpaka.cc", 
+            "RecoTracker/PixelVertexFinding/plugins/PixelVertexProducerFromSoAAlpaka.cc", 
+            "RecoTracker/PixelVertexFinding/plugins/alpaka/clusterTracksByDensity.h", 
+            "RecoTracker/PixelVertexFinding/plugins/alpaka/clusterTracksDBSCAN.h", 
+            "RecoTracker/PixelVertexFinding/plugins/alpaka/clusterTracksIterative.h", 
+            "RecoTracker/PixelVertexFinding/plugins/alpaka/fitVertices.h", 
+            "RecoTracker/PixelVertexFinding/plugins/alpaka/sortByPt2.h", 
+            "RecoTracker/PixelVertexFinding/plugins/alpaka/splitVertices.h", 
+            "RecoTracker/PixelVertexFinding/plugins/alpaka/vertexFinder.dev.cc", 
+            "RecoTracker/PixelVertexFinding/plugins/alpaka/vertexFinder.h", 
+            "RecoTracker/PixelVertexFinding/test/alpaka/VertexFinder_t.dev.cc"
+        ], 
+        "created_at": 1707836856, 
+        "number": 43952, 
+        "state": "open", 
+        "updated_at": 1707836887
     }
 }
