@@ -2020,8 +2020,10 @@
             "Configuration/ProcessModifiers/python/alpakaCUDAValidation_cff.py", 
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
             "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareRecHits.cc", 
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareRecHitsSoAAlpaka.cc", 
             "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareTrackSoAAlpaka.cc", 
             "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareTracks.cc", 
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareVertexSoAAlpaka.cc", 
             "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareVertices.cc", 
             "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorTrackSoAAlpaka.cc", 
             "DQM/SiPixelHeterogeneous/python/SiPixelHeterogenousDQM_FirstStep_cff.py", 
@@ -2066,7 +2068,7 @@
         "created_at": 1707925166, 
         "number": 43964, 
         "state": "open", 
-        "updated_at": 1707928502
+        "updated_at": 1707938202
     }, 
     "43965": {
         "base_branch": "master", 
