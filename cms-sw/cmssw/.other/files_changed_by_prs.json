@@ -2043,21 +2043,9 @@
             "DataFormats/TrackingRecHitSoA/src/classes_def.xml", 
             "DataFormats/TrackingRecHitSoA/test/alpaka/Hits_test.cc", 
             "DataFormats/TrackingRecHitSoA/test/alpaka/Hits_test.dev.cc", 
-            "HLTrigger/Configuration/python/HLT_2023v12_cff.py", 
-            "HLTrigger/Configuration/python/HLT_FULL_cff.py", 
-            "HLTrigger/Configuration/python/HLT_GRun_cff.py", 
-            "HLTrigger/Configuration/python/HLT_HIon_cff.py", 
-            "HLTrigger/Configuration/python/HLT_PRef_cff.py", 
-            "HLTrigger/Configuration/python/HLT_Special_cff.py", 
             "HLTrigger/Configuration/python/customizeHLTforAlpaka.py", 
             "HLTrigger/Configuration/python/customizeHLTforAlpakavsCUDA.py", 
             "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_2023v12.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_FULL.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_GRun.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_HIon.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_PRef.py", 
-            "HLTrigger/Configuration/test/OnLine_HLT_Special.py", 
             "RecoLocalTracker/SiPixelClusterizer/python/siPixelClustersPreSplitting_cff.py", 
             "RecoLocalTracker/SiPixelRecHits/interface/pixelCPEforDevice.h", 
             "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitFromSoAAlpaka.cc", 
@@ -2083,6 +2071,6 @@
         "created_at": 1707925166, 
         "number": 43964, 
         "state": "open", 
-        "updated_at": 1707925206
+        "updated_at": 1707926789
     }
 }
