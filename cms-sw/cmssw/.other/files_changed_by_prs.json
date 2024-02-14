@@ -2031,6 +2031,7 @@
             "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelRecHitKernels.dev.cc", 
             "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelRecHits.h", 
             "RecoLocalTracker/SiPixelRecHits/python/SiPixelRecHits_cfi.py", 
+            "RecoTauTag/HLTProducers/src/L2TauTagNNProducerAlpaka.cc", 
             "RecoTracker/Configuration/python/RecoPixelVertexing_cff.py", 
             "RecoTracker/PixelSeeding/plugins/alpaka/BrokenLineFit.dev.cc", 
             "RecoTracker/PixelSeeding/plugins/alpaka/CACell.h", 
@@ -2050,7 +2051,7 @@
         "created_at": 1707925166, 
         "number": 43964, 
         "state": "open", 
-        "updated_at": 1707944309
+        "updated_at": 1707948953
     }, 
     "43965": {
         "base_branch": "master", 
