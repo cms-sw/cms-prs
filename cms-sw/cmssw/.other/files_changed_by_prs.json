@@ -912,6 +912,7 @@
             "L1Trigger/L1TMuonOverlapPhase1/src/Omtf/AlgoMuon.cc", 
             "L1Trigger/L1TMuonOverlapPhase1/src/Omtf/GhostBuster.cc", 
             "L1Trigger/L1TMuonOverlapPhase1/src/Omtf/GhostBusterPreferRefDt.cc", 
+            "L1Trigger/L1TMuonOverlapPhase1/src/Omtf/GoldenPattern.cc", 
             "L1Trigger/L1TMuonOverlapPhase1/src/Omtf/GoldenPatternBase.cc", 
             "L1Trigger/L1TMuonOverlapPhase1/src/Omtf/GoldenPatternResult.cc", 
             "L1Trigger/L1TMuonOverlapPhase1/src/Omtf/OMTFConfiguration.cc", 
@@ -952,7 +953,7 @@
         "created_at": 1704872876, 
         "number": 43687, 
         "state": "open", 
-        "updated_at": 1707928596
+        "updated_at": 1708012969
     }, 
     "43690": {
         "base_branch": "master", 
