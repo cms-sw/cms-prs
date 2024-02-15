@@ -1583,9 +1583,8 @@
             "PhysicsTools/TensorFlowAOT/templates/wrapper.h.in", 
             "PhysicsTools/TensorFlowAOT/test/BuildFile.xml", 
             "PhysicsTools/TensorFlowAOT/test/create_model.py", 
+            "PhysicsTools/TensorFlowAOT/test/testAOTTools.py", 
             "PhysicsTools/TensorFlowAOT/test/testBase.h", 
-            "PhysicsTools/TensorFlowAOT/test/testCompilation.cc", 
-            "PhysicsTools/TensorFlowAOT/test/testDevWorkflow.cc", 
             "PhysicsTools/TensorFlowAOT/test/testInterface.cc", 
             "PhysicsTools/TensorFlowAOT/test/testRunner.cpp", 
             "PhysicsTools/TensorFlowAOT/test/test_models/create_models.sh"
@@ -1593,7 +1592,7 @@
         "created_at": 1707742335, 
         "number": 43941, 
         "state": "open", 
-        "updated_at": 1707937535
+        "updated_at": 1708014436
     }, 
     "43944": {
         "base_branch": "master", 
