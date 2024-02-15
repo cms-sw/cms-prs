@@ -1931,6 +1931,7 @@
             "DQM/SiPixelHeterogeneous/python/SiPixelHeterogenousDQM_FirstStep_cff.py", 
             "DataFormats/TrackSoA/interface/TrackDefinitions.h", 
             "DataFormats/TrackSoA/interface/alpaka/TrackUtilities.h", 
+            "DataFormats/TrackSoA/src/classes_def.xml", 
             "DataFormats/TrackSoA/test/alpaka/TrackSoAHeterogeneous_test.dev.cc", 
             "DataFormats/TrackingRecHitSoA/interface/SiPixelHitStatus.h", 
             "DataFormats/TrackingRecHitSoA/interface/TrackingRecHitsDevice.h", 
@@ -1971,7 +1972,7 @@
         "created_at": 1707925166, 
         "number": 43964, 
         "state": "open", 
-        "updated_at": 1707998546
+        "updated_at": 1708028587
     }, 
     "43965": {
         "base_branch": "master", 
