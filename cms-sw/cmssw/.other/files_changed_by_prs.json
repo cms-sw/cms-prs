@@ -2162,6 +2162,7 @@
             "DataFormats/VertexSoA/interface/ZVertexDevice.h", 
             "DataFormats/VertexSoA/interface/ZVertexHost.h", 
             "DataFormats/VertexSoA/interface/ZVertexSoA.h", 
+            "DataFormats/VertexSoA/src/classes.cc", 
             "DataFormats/VertexSoA/src/classes_def.xml", 
             "DataFormats/VertexSoA/test/alpaka/ZVertexSoA_test.cc", 
             "DataFormats/VertexSoA/test/alpaka/ZVertexSoA_test.dev.cc", 
@@ -2181,7 +2182,7 @@
         "created_at": 1708004291, 
         "number": 43980, 
         "state": "open", 
-        "updated_at": 1708004316
+        "updated_at": 1708087581
     }, 
     "43981": {
         "base_branch": "master", 
