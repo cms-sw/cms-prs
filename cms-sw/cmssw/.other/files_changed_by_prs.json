@@ -2373,5 +2373,23 @@
         "number": 44008, 
         "state": "open", 
         "updated_at": 1708336638
+    }, 
+    "44013": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Integration/test/unit_test_outputs/testProducerWithPsetDesc_cfi.py", 
+            "FWCore/ParameterSet/interface/ParameterDescriptionNode.h", 
+            "FWCore/ParameterSet/interface/ParameterSetDescription.h", 
+            "FWCore/ParameterSet/interface/ParameterWildcard.h", 
+            "FWCore/ParameterSet/interface/ParameterWildcardBase.h", 
+            "FWCore/ParameterSet/src/ParameterSetDescription.cc", 
+            "FWCore/ParameterSet/src/ParameterWildcard.cc", 
+            "FWCore/ParameterSet/src/ParameterWildcardBase.cc", 
+            "FWCore/ParameterSet/test/test_catch_ParameterSetDescription.cc"
+        ], 
+        "created_at": 1708351848, 
+        "number": 44013, 
+        "state": "open", 
+        "updated_at": 1708351876
     }
 }
