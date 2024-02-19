@@ -2357,5 +2357,24 @@
         "number": 44007, 
         "state": "open", 
         "updated_at": 1708328915
+    }, 
+    "44008": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/Generator/python/CE_E_Front_120um_cfi.py", 
+            "Configuration/Generator/python/CE_E_Front_200um_cfi.py", 
+            "Configuration/Generator/python/CE_E_Front_300um_cfi.py", 
+            "Configuration/Generator/python/CE_H_Coarse_300um_cfi.py", 
+            "Configuration/Generator/python/CE_H_Coarse_Scint_cfi.py", 
+            "Configuration/Generator/python/CE_H_Fine_120um_cfi.py", 
+            "Configuration/Generator/python/CE_H_Fine_200um_cfi.py", 
+            "Configuration/Generator/python/CE_H_Fine_300um_cfi.py", 
+            "IOMC/ParticleGuns/interface/CloseByParticleGunProducer.h", 
+            "IOMC/ParticleGuns/src/CloseByParticleGunProducer.cc"
+        ], 
+        "created_at": 1708336609, 
+        "number": 44008, 
+        "state": "open", 
+        "updated_at": 1708336638
     }
 }
