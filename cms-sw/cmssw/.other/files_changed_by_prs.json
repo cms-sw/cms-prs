@@ -2346,5 +2346,16 @@
         "number": 44006, 
         "state": "open", 
         "updated_at": 1708309728
+    }, 
+    "44007": {
+        "base_branch": "CMSSW_14_0_X", 
+        "changed_files_names": [
+            "HLTrigger/Configuration/scripts/hltIntegrationTests", 
+            "HLTrigger/Configuration/scripts/hltListPaths"
+        ], 
+        "created_at": 1708328869, 
+        "number": 44007, 
+        "state": "open", 
+        "updated_at": 1708328915
     }
 }
