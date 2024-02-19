@@ -1007,10 +1007,6 @@
             "DataFormats/HGCalDigi/test/HGCalElectronicsIdTest.cc", 
             "EventFilter/HGCalRawToDigi/src/HGCalUnpacker.cc", 
             "Geometry/HGCalMapping/BuildFile.xml", 
-            "Geometry/HGCalMapping/data/WaferCellMapTraces.txt", 
-            "Geometry/HGCalMapping/data/channels_sipmontile.hgcal.txt", 
-            "Geometry/HGCalMapping/data/modulelocator.txt", 
-            "Geometry/HGCalMapping/data/modulelocator_test.txt", 
             "Geometry/HGCalMapping/interface/HGCalMappingTools.h", 
             "Geometry/HGCalMapping/plugins/BuildFile.xml", 
             "Geometry/HGCalMapping/plugins/HGCalMappingIndexESSource.cc", 
@@ -1025,7 +1021,7 @@
         "created_at": 1705654966, 
         "number": 43751, 
         "state": "open", 
-        "updated_at": 1707990978
+        "updated_at": 1708350934
     }, 
     "43761": {
         "base_branch": "master", 
