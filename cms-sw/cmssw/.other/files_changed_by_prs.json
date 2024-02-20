@@ -3069,5 +3069,17 @@
         "number": 44032, 
         "state": "open", 
         "updated_at": 1708439880
+    }, 
+    "44033": {
+        "base_branch": "CMSSW_13_3_X", 
+        "changed_files_names": [
+            "CalibTracker/SiStripLorentzAngle/interface/SiStripLorentzAngleCalibrationHelpers.h", 
+            "CalibTracker/SiStripLorentzAngle/interface/SiStripLorentzAngleCalibrationStruct.h", 
+            "CalibTracker/SiStripLorentzAngle/plugins/SiStripLorentzAnglePCLHarvester.cc"
+        ], 
+        "created_at": 1708442648, 
+        "number": 44033, 
+        "state": "open", 
+        "updated_at": 1708442670
     }
 }
