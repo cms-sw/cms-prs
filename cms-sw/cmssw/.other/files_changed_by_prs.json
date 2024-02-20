@@ -3081,5 +3081,24 @@
         "number": 44033, 
         "state": "open", 
         "updated_at": 1708442670
+    }, 
+    "44034": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Framework/src/TriggerResultsBasedEventSelector.cc", 
+            "FWCore/Framework/test/BuildFile.xml", 
+            "FWCore/Framework/test/EventSelExc_t.cpp", 
+            "FWCore/Framework/test/EventSelOverlap_t.cpp", 
+            "FWCore/Framework/test/EventSelWildcard_t.cpp", 
+            "FWCore/Framework/test/EventSelector_t.cpp", 
+            "FWCore/Framework/test/OutputModuleUtilities_t.cpp", 
+            "FWCore/Framework/test/ProductSelector_t.cpp", 
+            "FWCore/Framework/test/RegistryTemplate_t.cpp", 
+            "FWCore/Framework/test/TriggerResultsBasedEventSelectorUtilities_t.cpp"
+        ], 
+        "created_at": 1708444667, 
+        "number": 44034, 
+        "state": "open", 
+        "updated_at": 1708444693
     }
 }
