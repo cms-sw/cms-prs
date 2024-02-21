@@ -1899,6 +1899,7 @@
             "DataFormats/L1Scouting/test/TestL1ScoutingFormat.sh", 
             "DataFormats/L1ScoutingRawData/interface/SDSNumbering.h", 
             "DataFormats/L1ScoutingRawData/test/TestSDSRawDataCollectionFormat.sh", 
+            "DataFormats/L1ScoutingRawData/test/read_SDSRawDataCollection_cfg.py", 
             "EventFilter/L1ScoutingRawToDigi/plugins/ScGMTRawToDigi.cc", 
             "EventFilter/L1ScoutingRawToDigi/python/ScCaloRawToDigi_cfi.py", 
             "EventFilter/L1ScoutingRawToDigi/python/ScGMTRawToDigi_cfi.py", 
@@ -1908,7 +1909,7 @@
         "created_at": 1708014496, 
         "number": 43984, 
         "state": "open", 
-        "updated_at": 1708015719
+        "updated_at": 1708542092
     }, 
     "43985": {
         "base_branch": "CMSSW_14_0_X", 
