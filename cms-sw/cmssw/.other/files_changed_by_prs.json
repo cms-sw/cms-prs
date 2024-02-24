@@ -2688,12 +2688,14 @@
     "44027": {
         "base_branch": "CMSSW_14_0_X", 
         "changed_files_names": [
-            "Configuration/HLT/python/autoHLT.py"
+            "Configuration/HLT/python/autoHLT.py", 
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py", 
+            "Configuration/PyReleaseValidation/scripts/runTheMatrix.py"
         ], 
         "created_at": 1708427698, 
         "number": 44027, 
         "state": "open", 
-        "updated_at": 1708449379
+        "updated_at": 1708783379
     }, 
     "44029": {
         "base_branch": "master", 
