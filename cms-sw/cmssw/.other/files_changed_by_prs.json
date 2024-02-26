@@ -3077,5 +3077,21 @@
         "number": 44087, 
         "state": "open", 
         "updated_at": 1708949476
+    }, 
+    "44088": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Validation/RecoEgamma/plugins/ElectronMcFakeValidator.cc", 
+            "Validation/RecoEgamma/plugins/ElectronMcFakeValidator.h", 
+            "Validation/RecoEgamma/plugins/ElectronMcSignalValidator.cc", 
+            "Validation/RecoEgamma/plugins/ElectronMcSignalValidator.h", 
+            "Validation/RecoEgamma/python/ElectronMcFakeValidator_gedGsfElectrons_cfi.py", 
+            "Validation/RecoEgamma/python/ElectronMcSignalValidatorPt1000_gedGsfElectrons_cfi.py", 
+            "Validation/RecoEgamma/python/ElectronMcSignalValidator_gedGsfElectrons_cfi.py"
+        ], 
+        "created_at": 1708956977, 
+        "number": 44088, 
+        "state": "open", 
+        "updated_at": 1708957006
     }
 }
