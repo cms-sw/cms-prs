@@ -3978,5 +3978,19 @@
         "number": 44094, 
         "state": "open", 
         "updated_at": 1709005576
+    }, 
+    "44098": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Validation/RecoEgamma/plugins/ElectronMcMiniAODSignalValidator.h", 
+            "Validation/RecoEgamma/plugins/ElectronMcSignalPostValidator.cc", 
+            "Validation/RecoEgamma/python/ElectronMcFakeValidator_gedGsfElectrons_cfi.py", 
+            "Validation/RecoEgamma/test/ElectronMcSignalPostValidationMiniAOD_cfg.py", 
+            "Validation/RecoEgamma/test/ElectronMcSignalValidationMiniAOD_cfg.py"
+        ], 
+        "created_at": 1709025373, 
+        "number": 44098, 
+        "state": "open", 
+        "updated_at": 1709025398
     }
 }
