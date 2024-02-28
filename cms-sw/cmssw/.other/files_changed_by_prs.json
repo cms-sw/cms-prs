@@ -4885,12 +4885,13 @@
         "base_branch": "master", 
         "changed_files_names": [
             "PhysicsTools/NanoAOD/plugins/rntuple/NanoAODRNTupleOutputModule.cc", 
-            "PhysicsTools/NanoAOD/plugins/rntuple/NanoAODRNTuples.cc"
+            "PhysicsTools/NanoAOD/plugins/rntuple/NanoAODRNTuples.cc", 
+            "PhysicsTools/NanoAOD/plugins/rntuple/TableOutputFields.h"
         ], 
         "created_at": 1709109610, 
         "number": 44256, 
         "state": "open", 
-        "updated_at": 1709109637
+        "updated_at": 1709151297
     }, 
     "44257": {
         "base_branch": "CMSSW_14_0_X", 
