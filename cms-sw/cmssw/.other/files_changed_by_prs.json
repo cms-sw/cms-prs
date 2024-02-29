@@ -3882,5 +3882,23 @@
         "number": 44270, 
         "state": "open", 
         "updated_at": 1709217515
+    }, 
+    "44271": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Framework/interface/SharedResourcesRegistry.h", 
+            "FWCore/Framework/interface/one/implementors.h", 
+            "FWCore/Framework/src/SharedResourcesRegistry.cc", 
+            "FWCore/Framework/src/one/implementorsMethods.h", 
+            "FWCore/Framework/test/one_outputmodule_t.cppunit.cc", 
+            "FWCore/Framework/test/sharedresourcesregistry_t.cppunit.cc", 
+            "FWCore/Framework/test/stubs/TestOneAnalyzers.cc", 
+            "FWCore/Framework/test/stubs/TestOneFilters.cc", 
+            "FWCore/Framework/test/stubs/TestOneProducers.cc"
+        ], 
+        "created_at": 1709218940, 
+        "number": 44271, 
+        "state": "open", 
+        "updated_at": 1709218969
     }
 }
