@@ -4926,5 +4926,17 @@
         "number": 44258, 
         "state": "open", 
         "updated_at": 1709164425
+    }, 
+    "44259": {
+        "base_branch": "CMSSW_14_0_X", 
+        "changed_files_names": [
+            "GeneratorInterface/Pythia8Interface/plugins/Pythia8Hadronizer.cc", 
+            "GeneratorInterface/Pythia8Interface/test/pythia8ex2_ConvertToMain70_cfg.py", 
+            "GeneratorInterface/Pythia8Interface/test/pythia8ex2_ConvertToMain70_cfg_Fragment.py"
+        ], 
+        "created_at": 1709164399, 
+        "number": 44259, 
+        "state": "open", 
+        "updated_at": 1709164429
     }
 }
