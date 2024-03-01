@@ -669,7 +669,6 @@
     "43485": {
         "base_branch": "master", 
         "changed_files_names": [
-            ".gitignore", 
             "PhysicsTools/NanoAOD/BuildFile.xml", 
             "PhysicsTools/NanoAOD/interface/BTV_flavor.h", 
             "PhysicsTools/NanoAOD/plugins/BTVMCFlavourTableProducer.cc", 
@@ -679,19 +678,20 @@
             "PhysicsTools/NanoAOD/python/autoNANO.py", 
             "PhysicsTools/NanoAOD/python/btvMC_cff.py", 
             "PhysicsTools/NanoAOD/python/custom_btv_cff.py", 
+            "PhysicsTools/NanoAOD/python/jetsAK4_Puppi_cff.py", 
+            "PhysicsTools/NanoAOD/python/jetsAK8_cff.py", 
             "PhysicsTools/NanoAOD/python/nano_cff.py", 
             "PhysicsTools/PatAlgos/python/recoLayer0/bTagging_cff.py", 
             "PhysicsTools/PatAlgos/python/tools/jetTools.py", 
             "RecoBTag/FeatureTools/plugins/ParticleNetFeatureEvaluator.cc", 
             "RecoBTag/FeatureTools/plugins/ParticleTransformerAK4TagInfoProducer.cc", 
-            "RecoBTag/ImpactParameter/interface/TemplatedTrackCountingComputer.h", 
             "RecoBTag/ONNXRuntime/python/pfParticleNetFromMiniAODAK4_cff.py", 
             "RecoBTag/ONNXRuntime/python/pfParticleTransformerAK4_cff.py"
         ], 
         "created_at": 1701678520, 
         "number": 43485, 
         "state": "open", 
-        "updated_at": 1709275118
+        "updated_at": 1709326669
     }, 
     "43522": {
         "base_branch": "master", 
