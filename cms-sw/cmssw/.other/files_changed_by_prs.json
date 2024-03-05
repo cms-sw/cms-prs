@@ -2673,6 +2673,7 @@
             "HLTrigger/Configuration/tables/makeSubTables", 
             "HLTrigger/Configuration/tables/online_Circulating.txt", 
             "HLTrigger/Configuration/tables/online_Cosmics.txt", 
+            "HLTrigger/Configuration/tables/online_cosmics.txt", 
             "HLTrigger/Configuration/tables/online_ECALTiming.txt", 
             "HLTrigger/Configuration/tables/online_FirstCollisions.txt", 
             "HLTrigger/Configuration/tables/online_LumiScan.txt", 
@@ -2686,7 +2687,7 @@
         "created_at": 1709631596, 
         "number": 44311, 
         "state": "open", 
-        "updated_at": 1709631626
+        "updated_at": 1709631967
     }, 
     "44313": {
         "base_branch": "CMSSW_14_0_X", 
