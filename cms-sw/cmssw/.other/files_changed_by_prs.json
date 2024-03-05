@@ -2687,5 +2687,33 @@
         "number": 44311, 
         "state": "open", 
         "updated_at": 1709631626
+    }, 
+    "44313": {
+        "base_branch": "CMSSW_14_0_X", 
+        "changed_files_names": [
+            "HLTrigger/Configuration/tables/Special.txt", 
+            "HLTrigger/Configuration/tables/makeOnlineCosmics", 
+            "HLTrigger/Configuration/tables/makeOnlineGRun", 
+            "HLTrigger/Configuration/tables/makeOnlineHIon", 
+            "HLTrigger/Configuration/tables/makeOnlinePIon", 
+            "HLTrigger/Configuration/tables/makeOnlinePRef", 
+            "HLTrigger/Configuration/tables/makeOnlineSpecial", 
+            "HLTrigger/Configuration/tables/makeSubTables", 
+            "HLTrigger/Configuration/tables/online_Circulating.txt", 
+            "HLTrigger/Configuration/tables/online_Cosmics.txt", 
+            "HLTrigger/Configuration/tables/online_ECALTiming.txt", 
+            "HLTrigger/Configuration/tables/online_FirstCollisions.txt", 
+            "HLTrigger/Configuration/tables/online_LumiScan.txt", 
+            "HLTrigger/Configuration/tables/online_PPS.txt", 
+            "HLTrigger/Configuration/tables/online_Special.txt", 
+            "HLTrigger/Configuration/tables/online_special.txt", 
+            "HLTrigger/Configuration/tables/online_Splashes.txt", 
+            "HLTrigger/Configuration/tables/online_TrackerVR.txt", 
+            "HLTrigger/Configuration/tables/subtables.sh"
+        ], 
+        "created_at": 1709631784, 
+        "number": 44313, 
+        "state": "open", 
+        "updated_at": 1709631813
     }
 }
