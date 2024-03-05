@@ -2682,12 +2682,13 @@
             "HLTrigger/Configuration/tables/online_special.txt", 
             "HLTrigger/Configuration/tables/online_Splashes.txt", 
             "HLTrigger/Configuration/tables/online_TrackerVR.txt", 
-            "HLTrigger/Configuration/tables/subtables.sh"
+            "HLTrigger/Configuration/tables/subtables.sh", 
+            "HLTrigger/Configuration/test/test_OnlineVsDevTablesConsistency.sh"
         ], 
         "created_at": 1709631596, 
         "number": 44311, 
         "state": "open", 
-        "updated_at": 1709631967
+        "updated_at": 1709633092
     }, 
     "44313": {
         "base_branch": "CMSSW_14_0_X", 
