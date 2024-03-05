@@ -2293,30 +2293,6 @@
         "state": "open", 
         "updated_at": 1709051910
     }, 
-    "44237": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "GeneratorInterface/Core/interface/PartonShowerBsHepMCFilter.h", 
-            "GeneratorInterface/Core/src/PartonShowerBsHepMCFilter.cc", 
-            "GeneratorInterface/GenExtensions/data/dJYs05rc1.dat", 
-            "GeneratorInterface/GenExtensions/data/dJYs1rc1.dat", 
-            "GeneratorInterface/GenFilters/plugins/PhotonGenFilter.cc", 
-            "GeneratorInterface/GenFilters/plugins/PhotonGenFilter.h", 
-            "GeneratorInterface/GenFilters/python/PhotonGenFilter_cfi.py", 
-            "GeneratorInterface/Herwig7Interface/python/Herwig7_Dummy_Matchbox_90X_ppToee.py", 
-            "GeneratorInterface/Herwig7Interface/python/Herwig7_loadCommonMergingSettings_cff.py", 
-            "GeneratorInterface/Herwig7Interface/python/Herwig7_loadCommonSettings_cff.py", 
-            "GeneratorInterface/LHEInterface/scripts/addLHEnumbers.py", 
-            "GeneratorInterface/RivetInterface/src/CMS_2013_I1224539_DIJET.cc", 
-            "GeneratorInterface/RivetInterface/test/rivet_build_and_test.sh", 
-            "GeneratorInterface/TauolaInterface/test/Test.sh", 
-            "GeneratorInterface/TauolaInterface/test/Test_LHE.sh"
-        ], 
-        "created_at": 1709060358, 
-        "number": 44237, 
-        "state": "open", 
-        "updated_at": 1709060390
-    }, 
     "44258": {
         "base_branch": "CMSSW_13_0_X", 
         "changed_files_names": [
