@@ -2807,6 +2807,8 @@
         "base_branch": "master", 
         "changed_files_names": [
             "Configuration/Applications/python/ConfigBuilder.py", 
+            "Configuration/DataProcessing/test/BuildFile.xml", 
+            "Configuration/DataProcessing/test/run_CfgTest_4.sh", 
             "DQM/BeamMonitor/test/2011_44X_HI_Test_beam_dqm_sourceclient-live_cfg.py", 
             "DQM/BeamMonitor/test/2011_44X_Test_beampixel_dqm_sourceclient-live_cfg.py", 
             "DQM/BeamMonitor/test/42X_beam_dqm_sourceclient-live_cfg.py", 
@@ -2830,6 +2832,6 @@
         "created_at": 1709717383, 
         "number": 44329, 
         "state": "open", 
-        "updated_at": 1709717410
+        "updated_at": 1709720317
     }
 }
