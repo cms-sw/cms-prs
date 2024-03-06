@@ -2400,6 +2400,10 @@
             "Configuration/Eras/python/Era_Run3_2024_ppRef_cff.py", 
             "Configuration/Eras/python/Era_Run3_UPC_cff.py", 
             "Configuration/Eras/python/Modifier_ppRef_2024_cff.py", 
+            "Configuration/Generator/python/Pythia8_GammaNucleus_5p36TeV_cfi.py", 
+            "Configuration/Generator/python/Starlight_DoubleDiffraction_5p36TeV_cfi.py", 
+            "Configuration/PyReleaseValidation/python/relval_standard.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
             "Configuration/StandardSequences/python/Eras.py", 
             "Configuration/StandardSequences/python/Reconstruction_cff.py", 
             "PhysicsTools/PatAlgos/python/slimming/MicroEventContent_cff.py", 
@@ -2410,7 +2414,7 @@
         "created_at": 1709645919, 
         "number": 44316, 
         "state": "open", 
-        "updated_at": 1709645948
+        "updated_at": 1709690434
     }, 
     "44317": {
         "base_branch": "master", 
