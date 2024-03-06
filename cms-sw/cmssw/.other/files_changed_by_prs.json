@@ -1283,6 +1283,7 @@
             "DQM/SiPixelHeterogeneous/python/SiPixelHeterogenousDQM_FirstStep_cff.py", 
             "DataFormats/TrackSoA/interface/TrackDefinitions.h", 
             "DataFormats/TrackSoA/interface/alpaka/TrackUtilities.h", 
+            "DataFormats/TrackSoA/src/classes.cc", 
             "DataFormats/TrackSoA/src/classes_def.xml", 
             "DataFormats/TrackSoA/test/alpaka/TrackSoAHeterogeneous_test.dev.cc", 
             "DataFormats/TrackingRecHitSoA/interface/SiPixelHitStatus.h", 
@@ -1293,8 +1294,8 @@
             "DataFormats/TrackingRecHitSoA/src/alpaka/classes_rocm_def.xml", 
             "DataFormats/TrackingRecHitSoA/src/classes.cc", 
             "DataFormats/TrackingRecHitSoA/src/classes_def.xml", 
-            "DataFormats/TrackingRecHitSoA/test/alpaka/Hits_test.cc", 
             "DataFormats/TrackingRecHitSoA/test/alpaka/Hits_test.dev.cc", 
+            "DataFormats/TrackingRecHitSoA/test/alpaka/Hits_test.h", 
             "HLTrigger/Configuration/python/customizeHLTforAlpaka.py", 
             "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
             "HLTriggerOffline/Common/python/customizeHLTforAlpakavsCUDA.py", 
@@ -1324,7 +1325,7 @@
         "created_at": 1707925166, 
         "number": 43964, 
         "state": "open", 
-        "updated_at": 1709018798
+        "updated_at": 1709740352
     }, 
     "43969": {
         "base_branch": "master", 
