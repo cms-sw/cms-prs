@@ -2264,36 +2264,6 @@
         "state": "open", 
         "updated_at": 1709568167
     }, 
-    "44313": {
-        "base_branch": "CMSSW_14_0_X", 
-        "changed_files_names": [
-            "HLTrigger/Configuration/tables/Special.txt", 
-            "HLTrigger/Configuration/tables/makeOnlineCosmics", 
-            "HLTrigger/Configuration/tables/makeOnlineGRun", 
-            "HLTrigger/Configuration/tables/makeOnlineHIon", 
-            "HLTrigger/Configuration/tables/makeOnlinePIon", 
-            "HLTrigger/Configuration/tables/makeOnlinePRef", 
-            "HLTrigger/Configuration/tables/makeOnlineSpecial", 
-            "HLTrigger/Configuration/tables/makeSubTables", 
-            "HLTrigger/Configuration/tables/online_Circulating.txt", 
-            "HLTrigger/Configuration/tables/online_Cosmics.txt", 
-            "HLTrigger/Configuration/tables/online_cosmics.txt", 
-            "HLTrigger/Configuration/tables/online_ECALTiming.txt", 
-            "HLTrigger/Configuration/tables/online_FirstCollisions.txt", 
-            "HLTrigger/Configuration/tables/online_LumiScan.txt", 
-            "HLTrigger/Configuration/tables/online_PPS.txt", 
-            "HLTrigger/Configuration/tables/online_Special.txt", 
-            "HLTrigger/Configuration/tables/online_special.txt", 
-            "HLTrigger/Configuration/tables/online_Splashes.txt", 
-            "HLTrigger/Configuration/tables/online_TrackerVR.txt", 
-            "HLTrigger/Configuration/tables/subtables.sh", 
-            "HLTrigger/Configuration/test/test_OnlineVsDevTablesConsistency.sh"
-        ], 
-        "created_at": 1709631784, 
-        "number": 44313, 
-        "state": "open", 
-        "updated_at": 1709633281
-    }, 
     "44315": {
         "base_branch": "master", 
         "changed_files_names": [
