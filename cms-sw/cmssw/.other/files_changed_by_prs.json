@@ -1428,6 +1428,7 @@
             "HLTrigger/Configuration/python/HLT_75e33/modules/HGCalUncalibRecHit_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/L1TkPrimaryVertex_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/ecalDetailedTimeRecHit_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/ecalRecHit_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/filteredLayerClustersEM_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/filteredLayerClustersHAD_cfi.py", 
             "HLTrigger/Configuration/python/HLT_75e33/modules/filteredLayerClustersTrkEM_cfi.py", 
@@ -1910,7 +1911,7 @@
         "created_at": 1708417651, 
         "number": 44025, 
         "state": "open", 
-        "updated_at": 1708944995
+        "updated_at": 1709742721
     }, 
     "44029": {
         "base_branch": "master", 
