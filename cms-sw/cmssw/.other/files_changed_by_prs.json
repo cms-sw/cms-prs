@@ -2098,32 +2098,6 @@
         "state": "open", 
         "updated_at": 1709218969
     }, 
-    "44315": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/L1TrackTrigger/interface/TTTrack.h", 
-            "DataFormats/L1TrackTrigger/interface/TTTrack_TrackWord.h", 
-            "DataFormats/L1TrackTrigger/src/TTTrack_TrackWord.cc", 
-            "L1Trigger/L1TTrackMatch/BuildFile.xml", 
-            "L1Trigger/L1TTrackMatch/plugins/L1TrackVertexAssociationProducer.cc", 
-            "L1Trigger/L1TTrackMatch/python/l1tTrackVertexAssociationProducer_cfi.py", 
-            "L1Trigger/L1TTrackMatch/test/L1TrackObjectNtupleMaker_cfg.py", 
-            "L1Trigger/TrackFindingTracklet/plugins/L1FPGATrackProducer.cc", 
-            "L1Trigger/VertexFinder/BuildFile.xml", 
-            "L1Trigger/VertexFinder/interface/AlgoSettings.h", 
-            "L1Trigger/VertexFinder/interface/L1Track.h", 
-            "L1Trigger/VertexFinder/interface/VertexFinder.h", 
-            "L1Trigger/VertexFinder/interface/VertexProducer.h", 
-            "L1Trigger/VertexFinder/plugins/VertexProducer.cc", 
-            "L1Trigger/VertexFinder/python/l1tVertexProducer_cfi.py", 
-            "L1Trigger/VertexFinder/src/AlgoSettings.cc", 
-            "L1Trigger/VertexFinder/src/VertexFinder.cc"
-        ], 
-        "created_at": 1709643894, 
-        "number": 44315, 
-        "state": "open", 
-        "updated_at": 1709643921
-    }, 
     "44316": {
         "base_branch": "master", 
         "changed_files_names": [
