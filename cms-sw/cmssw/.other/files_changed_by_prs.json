@@ -1381,29 +1381,6 @@
         "state": "open", 
         "updated_at": 1708701745
     }, 
-    "43998": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "DataFormats/L1TCorrelator/interface/TkTriplet.h", 
-            "DataFormats/L1TCorrelator/interface/TkTripletFwd.h", 
-            "DataFormats/L1TCorrelator/src/TkTriplet.cc", 
-            "DataFormats/L1TCorrelator/src/classes.h", 
-            "DataFormats/L1TCorrelator/src/classes_def.xml", 
-            "DataFormats/L1Trigger/interface/TkTripletWord.h", 
-            "DataFormats/L1Trigger/src/TkTripletWord.cc", 
-            "DataFormats/L1Trigger/src/classes.h", 
-            "DataFormats/L1Trigger/src/classes_def.xml", 
-            "L1Trigger/L1TTrackMatch/plugins/L1TrackTripletEmulatorProducer.cc", 
-            "L1Trigger/L1TTrackMatch/plugins/L1TrackUnpacker.h", 
-            "L1Trigger/L1TTrackMatch/python/l1tTrackTripletEmulation_cfi.py", 
-            "L1Trigger/L1TTrackMatch/test/L1TrackObjectNtupleMaker.cc", 
-            "L1Trigger/L1TTrackMatch/test/L1TrackObjectNtupleMaker_cfg.py"
-        ], 
-        "created_at": 1708090462, 
-        "number": 43998, 
-        "state": "open", 
-        "updated_at": 1708939491
-    }, 
     "44019": {
         "base_branch": "master", 
         "changed_files_names": [
