@@ -1295,6 +1295,7 @@
             "DataFormats/TrackingRecHitSoA/src/classes_def.xml", 
             "DataFormats/TrackingRecHitSoA/test/alpaka/Hits_test.dev.cc", 
             "DataFormats/TrackingRecHitSoA/test/alpaka/Hits_test.h", 
+            "EventFilter/SiPixelRawToDigi/python/siPixelDigis_cff.py", 
             "HLTrigger/Configuration/python/customizeHLTforAlpaka.py", 
             "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
             "HLTriggerOffline/Common/python/customizeHLTforAlpakavsCUDA.py", 
@@ -1324,7 +1325,7 @@
         "created_at": 1707925166, 
         "number": 43964, 
         "state": "open", 
-        "updated_at": 1709752942
+        "updated_at": 1709907778
     }, 
     "43969": {
         "base_branch": "master", 
