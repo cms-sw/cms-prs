@@ -2740,14 +2740,15 @@
     "44360": {
         "base_branch": "master", 
         "changed_files_names": [
-            "MagneticField/ParametrizedEngine/plugins/BuildFile.xml", 
-            "MagneticField/ParametrizedEngine/plugins/alpaka/ParabolicParametrizedMagneticField.h", 
+            "MagneticField/ParametrizedEngine/BuildFile.xml", 
+            "MagneticField/ParametrizedEngine/interface/alpaka/ParabolicParametrizedMagneticField.h", 
             "MagneticField/ParametrizedEngine/src/ParabolicParametrizedMagneticField.cc", 
-            "MagneticField/ParametrizedEngine/src/ParabolicParametrizedMagneticField.h"
+            "MagneticField/ParametrizedEngine/src/ParabolicParametrizedMagneticField.h", 
+            "MagneticField/ParametrizedEngine/test/testParabolicParametrizedMagneticField.cc"
         ], 
         "created_at": 1709920349, 
         "number": 44360, 
         "state": "open", 
-        "updated_at": 1709920379
+        "updated_at": 1709931925
     }
 }
