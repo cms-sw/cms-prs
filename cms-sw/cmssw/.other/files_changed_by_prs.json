@@ -2462,12 +2462,14 @@
             "Configuration/Eras/python/Era_Run3_cff.py", 
             "Configuration/Eras/python/Modifier_run3_muon_2022_cff.py", 
             "Configuration/Eras/python/Modifier_run3_muon_2023_cff.py", 
-            "PhysicsTools/NanoAOD/python/muons_cff.py"
+            "PhysicsTools/NanoAOD/python/electrons_cff.py", 
+            "PhysicsTools/NanoAOD/python/muons_cff.py", 
+            "PhysicsTools/NanoAOD/python/nano_eras_cff.py"
         ], 
         "created_at": 1709675139, 
         "number": 44322, 
         "state": "open", 
-        "updated_at": 1709735089
+        "updated_at": 1709887678
     }, 
     "44327": {
         "base_branch": "master", 
