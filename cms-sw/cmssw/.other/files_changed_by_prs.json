@@ -5441,5 +5441,21 @@
         "number": 44372, 
         "state": "open", 
         "updated_at": 1710190318
+    }, 
+    "44373": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibCalorimetry/HcalTPGAlgos/interface/LutXml.h", 
+            "CalibCalorimetry/HcalTPGAlgos/src/LutXml.cc", 
+            "CaloOnlineTools/HcalOnlineDb/src/HcalLutManager.cc", 
+            "SimCalorimetry/HcalTrigPrimAlgos/interface/HcalTriggerPrimitiveAlgo.h", 
+            "SimCalorimetry/HcalTrigPrimAlgos/src/HcalTriggerPrimitiveAlgo.cc", 
+            "SimCalorimetry/HcalTrigPrimProducers/plugins/HcalTrigPrimDigiProducer.cc", 
+            "SimCalorimetry/HcalTrigPrimProducers/python/hcaltpdigi_cfi.py"
+        ], 
+        "created_at": 1710193486, 
+        "number": 44373, 
+        "state": "open", 
+        "updated_at": 1710193510
     }
 }
