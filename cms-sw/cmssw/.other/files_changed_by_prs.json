@@ -1481,12 +1481,13 @@
         "changed_files_names": [
             "Configuration/Applications/python/ConfigBuilder.py", 
             "Configuration/PyReleaseValidation/python/relval_nano.py", 
-            "PhysicsTools/NanoAOD/python/autoNANO.py"
+            "PhysicsTools/NanoAOD/python/autoNANO.py", 
+            "PhysicsTools/NanoAOD/python/custom_jme_cff.py"
         ], 
         "created_at": 1708949450, 
         "number": 44087, 
         "state": "open", 
-        "updated_at": 1708985347
+        "updated_at": 1710245773
     }, 
     "44090": {
         "base_branch": "CMSSW_14_0_X", 
