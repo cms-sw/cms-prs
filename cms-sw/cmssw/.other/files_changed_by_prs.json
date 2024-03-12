@@ -1143,6 +1143,7 @@
             "DataFormats/VertexSoA/src/classes_def.xml", 
             "DataFormats/VertexSoA/test/alpaka/ZVertexSoA_test.cc", 
             "DataFormats/VertexSoA/test/alpaka/ZVertexSoA_test.dev.cc", 
+            "DataFormats/VertexSoA/test/alpaka/ZVertexSoA_test.h", 
             "RecoTauTag/HLTProducers/src/L2TauTagNNProducerAlpaka.cc", 
             "RecoTracker/PixelTrackFitting/plugins/PixelTrackDumpAlpaka.cc", 
             "RecoTracker/PixelVertexFinding/plugins/PixelVertexProducerFromSoAAlpaka.cc", 
@@ -1159,7 +1160,7 @@
         "created_at": 1707836856, 
         "number": 43952, 
         "state": "open", 
-        "updated_at": 1709648285
+        "updated_at": 1710241715
     }, 
     "43953": {
         "base_branch": "master", 
