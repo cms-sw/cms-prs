@@ -5503,5 +5503,16 @@
         "number": 44377, 
         "state": "open", 
         "updated_at": 1710245738
+    }, 
+    "44378": {
+        "base_branch": "CMSSW_14_0_X", 
+        "changed_files_names": [
+            "CalibTracker/SiStripCommon/interface/TkDetMap.h", 
+            "CalibTracker/SiStripLorentzAngle/plugins/SiStripLorentzAnglePCLHarvester.cc"
+        ], 
+        "created_at": 1710247000, 
+        "number": 44378, 
+        "state": "open", 
+        "updated_at": 1710247027
     }
 }
