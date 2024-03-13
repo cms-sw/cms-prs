@@ -5462,5 +5462,19 @@
         "number": 44385, 
         "state": "open", 
         "updated_at": 1710319598
+    }, 
+    "44387": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "HeterogeneousCore/AlpakaCore/plugins/AlpakaBackendFilter.cc", 
+            "HeterogeneousCore/AlpakaCore/plugins/BuildFile.xml", 
+            "HeterogeneousCore/AlpakaCore/plugins/alpaka/AlpakaBackendProducer.cc", 
+            "HeterogeneousCore/AlpakaCore/test/BuildFile.xml", 
+            "HeterogeneousCore/AlpakaCore/test/testAlpakaBackendFilter.py"
+        ], 
+        "created_at": 1710323409, 
+        "number": 44387, 
+        "state": "open", 
+        "updated_at": 1710323461
     }
 }
