@@ -5333,26 +5333,6 @@
         "state": "open", 
         "updated_at": 1710312587
     }, 
-    "44377": {
-        "base_branch": "CMSSW_14_0_X", 
-        "changed_files_names": [
-            "Alignment/OfflineValidation/bin/DMRtrends.cc", 
-            "Alignment/OfflineValidation/bin/PVtrends.cc", 
-            "Alignment/OfflineValidation/plugins/TrackerGeometryCompare.cc", 
-            "Alignment/OfflineValidation/plugins/TrackerGeometryCompare.h", 
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/MTS.py", 
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/MTS_cfg.py", 
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/findAndChange.py", 
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/templates/condorTemplate.submit", 
-            "Alignment/OfflineValidation/python/TkAlMap.py", 
-            "Alignment/OfflineValidation/scripts/validateAlignments.py", 
-            "Alignment/OfflineValidation/src/Trend.cc"
-        ], 
-        "created_at": 1710245708, 
-        "number": 44377, 
-        "state": "open", 
-        "updated_at": 1710313062
-    }, 
     "44378": {
         "base_branch": "CMSSW_14_0_X", 
         "changed_files_names": [
