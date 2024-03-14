@@ -1084,34 +1084,6 @@
         "state": "open", 
         "updated_at": 1709212252
     }, 
-    "43941": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "PhysicsTools/TensorFlow/test/createconstantgraph.py", 
-            "PhysicsTools/TensorFlow/test/readconstantgraph.py", 
-            "PhysicsTools/TensorFlowAOT/BuildFile.xml", 
-            "PhysicsTools/TensorFlowAOT/interface/Batching.h", 
-            "PhysicsTools/TensorFlowAOT/interface/Model.h", 
-            "PhysicsTools/TensorFlowAOT/interface/Util.h", 
-            "PhysicsTools/TensorFlowAOT/interface/Wrapper.h", 
-            "PhysicsTools/TensorFlowAOT/scripts/compile_model.py", 
-            "PhysicsTools/TensorFlowAOT/scripts/create_wrapper.py", 
-            "PhysicsTools/TensorFlowAOT/src/Batching.cc", 
-            "PhysicsTools/TensorFlowAOT/src/Wrapper.cc", 
-            "PhysicsTools/TensorFlowAOT/templates/wrapper.h.in", 
-            "PhysicsTools/TensorFlowAOT/test/BuildFile.xml", 
-            "PhysicsTools/TensorFlowAOT/test/create_model.py", 
-            "PhysicsTools/TensorFlowAOT/test/testAOTTools.py", 
-            "PhysicsTools/TensorFlowAOT/test/testBase.h", 
-            "PhysicsTools/TensorFlowAOT/test/testInterface.cc", 
-            "PhysicsTools/TensorFlowAOT/test/testRunner.cpp", 
-            "PhysicsTools/TensorFlowAOT/test/test_models/create_models.sh"
-        ], 
-        "created_at": 1707742335, 
-        "number": 43941, 
-        "state": "open", 
-        "updated_at": 1710326483
-    }, 
     "43952": {
         "base_branch": "master", 
         "changed_files_names": [
