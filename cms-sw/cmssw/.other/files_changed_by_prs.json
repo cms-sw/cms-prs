@@ -1526,18 +1526,16 @@
             "Configuration/Generator/python/CepGen_pptoff_GamGamToLL_singlediss_13TeV_cfi.py", 
             "GeneratorInterface/CepGenInterface/BuildFile.xml", 
             "GeneratorInterface/CepGenInterface/interface/CepGenEventGenerator.h", 
-            "GeneratorInterface/CepGenInterface/interface/CepGenGeneratorFilter.h", 
             "GeneratorInterface/CepGenInterface/interface/CepGenParametersConverter.h", 
             "GeneratorInterface/CepGenInterface/plugins/BuildFile.xml", 
             "GeneratorInterface/CepGenInterface/plugins/CepGenGeneratorFilter.cc", 
             "GeneratorInterface/CepGenInterface/python/cepgenDefaultParameters_cff.py", 
-            "GeneratorInterface/CepGenInterface/src/CepGenEventGenerator.cc", 
-            "GeneratorInterface/CepGenInterface/src/CepGenGeneratorFilter.cc"
+            "GeneratorInterface/CepGenInterface/src/CepGenEventGenerator.cc"
         ], 
         "created_at": 1709217104, 
         "number": 44268, 
         "state": "open", 
-        "updated_at": 1710282127
+        "updated_at": 1710395965
     }, 
     "44316": {
         "base_branch": "master", 
