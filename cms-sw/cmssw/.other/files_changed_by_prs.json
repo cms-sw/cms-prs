@@ -673,32 +673,6 @@
         "state": "open", 
         "updated_at": 1709810552
     }, 
-    "43522": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "FWCore/Framework/src/EventProcessor.cc", 
-            "FWCore/Framework/src/LuminosityBlockProcessingStatus.cc", 
-            "FWCore/Framework/src/LuminosityBlockProcessingStatus.h", 
-            "FWCore/Framework/test/modules_2_concurrent_lumis_cfg.py", 
-            "FWCore/Framework/test/stubs/TestGlobalAnalyzers.cc", 
-            "FWCore/Framework/test/stubs/TestGlobalFilters.cc", 
-            "FWCore/Framework/test/stubs/TestGlobalProducers.cc", 
-            "FWCore/Framework/test/stubs/TestLimitedAnalyzers.cc", 
-            "FWCore/Framework/test/stubs/TestLimitedFilters.cc", 
-            "FWCore/Framework/test/stubs/TestLimitedProducers.cc", 
-            "FWCore/Framework/test/testRunLumiCaches_cfg.py", 
-            "FWCore/Framework/test/test_earlyTerminationSignal.sh", 
-            "FWCore/Framework/test/test_exceptionAtGlobalBeginRun_cfg.py", 
-            "FWCore/Framework/test/test_global_modules_cfg.py", 
-            "FWCore/Framework/test/test_limited_modules_cfg.py", 
-            "FWCore/Integration/test/test_TryToContinue_cfg.py", 
-            "FWCore/Services/plugins/CheckTransitions.cc"
-        ], 
-        "created_at": 1701976439, 
-        "number": 43522, 
-        "state": "open", 
-        "updated_at": 1710364582
-    }, 
     "43596": {
         "base_branch": "master", 
         "changed_files_names": [
