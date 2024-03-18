@@ -5123,8 +5123,6 @@
         "base_branch": "CMSSW_14_0_X", 
         "changed_files_names": [
             "DataFormats/L1Scouting/interface/OrbitCollection.h", 
-            "DataFormats/L1Scouting/src/classes_def.xml", 
-            "DataFormats/L1Scouting/test/TestL1ScoutingFormat.sh", 
             "DataFormats/L1Scouting/test/read_L1Scouting_cfg.py", 
             "DataFormats/L1ScoutingRawData/interface/SDSNumbering.h", 
             "EventFilter/L1ScoutingRawToDigi/interface/blocks.h", 
@@ -5139,7 +5137,7 @@
         "created_at": 1710337306, 
         "number": 44394, 
         "state": "open", 
-        "updated_at": 1710425747
+        "updated_at": 1710759487
     }, 
     "44396": {
         "base_branch": "master", 
