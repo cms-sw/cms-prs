@@ -7753,5 +7753,17 @@
         "number": 44458, 
         "state": "open", 
         "updated_at": 1710796189
+    }, 
+    "44459": {
+        "base_branch": "CMSSW_14_0_X", 
+        "changed_files_names": [
+            "DataFormats/TrackingRecHitSoA/interface/TrackingRecHitsDevice.h", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToCluster.cc", 
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToClusterKernel.h"
+        ], 
+        "created_at": 1710796221, 
+        "number": 44459, 
+        "state": "open", 
+        "updated_at": 1710796246
     }
 }
