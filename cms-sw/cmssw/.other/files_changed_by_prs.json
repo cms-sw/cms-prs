@@ -7757,5 +7757,19 @@
         "number": 44450, 
         "state": "open", 
         "updated_at": 1710756673
+    }, 
+    "44451": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Framework/interface/EventSetupRecordImpl.h", 
+            "FWCore/Framework/src/Principal.cc", 
+            "FWCore/Framework/test/stubs/ToyIntProducers.cc", 
+            "FWCore/Modules/src/SwitchProducer.cc", 
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyFastJet.cc"
+        ], 
+        "created_at": 1710769044, 
+        "number": 44451, 
+        "state": "open", 
+        "updated_at": 1710769073
     }
 }
