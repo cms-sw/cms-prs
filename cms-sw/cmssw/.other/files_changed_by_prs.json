@@ -7746,13 +7746,14 @@
         "base_branch": "master", 
         "changed_files_names": [
             "DataFormats/TrackingRecHitSoA/interface/TrackingRecHitsDevice.h", 
+            "DataFormats/TrackingRecHitSoA/test/alpaka/Hits_test.cc", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToCluster.cc", 
             "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToClusterKernel.h"
         ], 
         "created_at": 1710796163, 
         "number": 44458, 
         "state": "open", 
-        "updated_at": 1710796189
+        "updated_at": 1710800825
     }, 
     "44459": {
         "base_branch": "CMSSW_14_0_X", 
