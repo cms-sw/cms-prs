@@ -7771,5 +7771,20 @@
         "number": 44451, 
         "state": "open", 
         "updated_at": 1710769073
+    }, 
+    "44452": {
+        "base_branch": "CMSSW_14_0_X", 
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaHollowTrackIsoL1Seeded_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaHollowTrackIsoUnseeded_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaR9L1Seeded_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaR9Unseeded_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/tasks/HLTEle5OpenL1SeededTask_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/tasks/HLTEle5OpenUnseededTask_cfi.py"
+        ], 
+        "created_at": 1710774181, 
+        "number": 44452, 
+        "state": "open", 
+        "updated_at": 1710774305
     }
 }
