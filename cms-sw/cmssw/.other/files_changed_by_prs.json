@@ -1315,24 +1315,6 @@
         "state": "open", 
         "updated_at": 1709886370
     }, 
-    "44268": {
-        "base_branch": "CMSSW_10_6_X", 
-        "changed_files_names": [
-            "Configuration/Generator/python/CepGen_LPAIR_GamGamToLL_singlediss_13TeV_cfi.py", 
-            "Configuration/Generator/python/CepGen_pptoff_GamGamToLL_singlediss_13TeV_cfi.py", 
-            "GeneratorInterface/CepGenInterface/BuildFile.xml", 
-            "GeneratorInterface/CepGenInterface/interface/CepGenEventGenerator.h", 
-            "GeneratorInterface/CepGenInterface/interface/CepGenParametersConverter.h", 
-            "GeneratorInterface/CepGenInterface/plugins/BuildFile.xml", 
-            "GeneratorInterface/CepGenInterface/plugins/CepGenGeneratorFilter.cc", 
-            "GeneratorInterface/CepGenInterface/python/cepgenDefaultParameters_cff.py", 
-            "GeneratorInterface/CepGenInterface/src/CepGenEventGenerator.cc"
-        ], 
-        "created_at": 1709217104, 
-        "number": 44268, 
-        "state": "open", 
-        "updated_at": 1710488850
-    }, 
     "44316": {
         "base_branch": "master", 
         "changed_files_names": [
