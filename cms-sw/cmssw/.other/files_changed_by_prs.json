@@ -7840,5 +7840,27 @@
         "number": 44465, 
         "state": "open", 
         "updated_at": 1710840798
+    }, 
+    "44466": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/AlCa/python/autoCond.py", 
+            "Configuration/AlCa/python/autoCondModifiers.py", 
+            "Configuration/HLT/python/autoCondHLT.py", 
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py", 
+            "L1Trigger/L1TGlobal/interface/AXOL1TLCondition.h", 
+            "L1Trigger/L1TGlobal/interface/AXOL1TLTemplate.h", 
+            "L1Trigger/L1TGlobal/plugins/L1TGlobalProducer.cc", 
+            "L1Trigger/L1TGlobal/plugins/TriggerMenuParser.cc", 
+            "L1Trigger/L1TGlobal/plugins/TriggerMenuParser.h", 
+            "L1Trigger/L1TGlobal/python/simGtStage2Digis_cfi.py", 
+            "L1Trigger/L1TGlobal/src/AXOL1TLCondition.cc", 
+            "L1Trigger/L1TGlobal/src/AXOL1TLTemplate.cc", 
+            "L1Trigger/L1TGlobal/src/GlobalBoard.cc"
+        ], 
+        "created_at": 1710842724, 
+        "number": 44466, 
+        "state": "open", 
+        "updated_at": 1710842756
     }
 }
