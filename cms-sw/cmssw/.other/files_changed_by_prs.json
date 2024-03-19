@@ -7861,5 +7861,29 @@
         "number": 44468, 
         "state": "open", 
         "updated_at": 1710854058
+    }, 
+    "44469": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CalibFormats/SiStripObjects/interface/SiStripRegionCabling.h", 
+            "Calibration/EcalCalibAlgos/src/ECALpedestalPCLHarvester.cc", 
+            "CondCore/EcalPlugins/plugins/EcalChannelStatus_PayloadInspector.cc", 
+            "CondCore/EcalPlugins/plugins/EcalDQMChannelStatus_PayloadInspector.cc", 
+            "CondCore/EcalPlugins/plugins/EcalFloatCondObjectContainer_PayloadInspector.cc", 
+            "CondCore/EcalPlugins/plugins/EcalLinearCorrections_PayloadInspector.cc", 
+            "CondCore/EcalPlugins/plugins/EcalPedestals_PayloadInspector.cc", 
+            "CondCore/EcalPlugins/plugins/EcalPulseShapes_PayloadInspector.cc", 
+            "CondCore/PCLConfigPlugins/plugins/SiPixelAliPCLThresholdsPayloadInspectorHelper.h", 
+            "CondFormats/PCLConfig/src/AlignPCLThresholdsHG.cc", 
+            "DPGAnalysis/SiStripTools/plugins/TrackCount.cc", 
+            "DQM/CTPPS/plugins/DiamondSampicCalibrationDQMSource.cc", 
+            "DQM/CTPPS/plugins/DiamondSampicDQMSource.cc", 
+            "DQM/CTPPS/plugins/TotemT2DQMSource.cc", 
+            "Geometry/CaloEventSetup/interface/CaloGeometryDBEP.h"
+        ], 
+        "created_at": 1710858960, 
+        "number": 44469, 
+        "state": "open", 
+        "updated_at": 1710858993
     }
 }
