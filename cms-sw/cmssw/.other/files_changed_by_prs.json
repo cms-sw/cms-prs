@@ -7727,37 +7727,6 @@
         "state": "open", 
         "updated_at": 1710438769
     }, 
-    "44407": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "CondCore/Utilities/o2o/deployed/online/RunInfoStart.sh", 
-            "CondCore/Utilities/o2o/deployed/online/RunInfoStartTest.sh", 
-            "CondCore/Utilities/o2o/deployed/online/RunInfoStop.sh", 
-            "CondCore/Utilities/o2o/deployed/online/RunInfoStopTest.sh", 
-            "CondCore/Utilities/o2o/templates/RunInfoStart.sh", 
-            "CondCore/Utilities/o2o/templates/RunInfoStartTest.sh", 
-            "CondCore/Utilities/o2o/templates/RunInfoStop.sh", 
-            "CondCore/Utilities/o2o/templates/RunInfoStopTest.sh", 
-            "CondTools/RunInfo/python/LHCInfoPerFillPopConAnalyzer_cfg.py", 
-            "CondTools/RunInfo/python/LHCInfoPerFillPopConAnalyzer.py", 
-            "CondTools/RunInfo/python/LHCInfoPerLSPopConAnalyzer_cfg.py", 
-            "CondTools/RunInfo/python/LHCInfoPerLSPopConAnalyzer.py", 
-            "CondTools/RunInfo/python/LHCInfoPopConAnalyzerEndFill_cfg.py", 
-            "CondTools/RunInfo/python/LHCInfoPopConAnalyzerEndFill.py", 
-            "CondTools/RunInfo/python/LHCInfoPopConAnalyzerStartFill_cfg.py", 
-            "CondTools/RunInfo/python/LHCInfoPopConAnalyzerStartFill.py", 
-            "CondTools/RunInfo/python/LHCInfoPopConAnalyzer_cfg.py", 
-            "CondTools/RunInfo/python/LHCInfoPopConAnalyzer.py", 
-            "CondTools/RunInfo/python/RunInfoPopConAnalyzer_cfg.py", 
-            "CondTools/RunInfo/python/RunInfoPopConAnalyzer.py", 
-            "CondTools/RunInfo/test/RunInfoStart_O2O_test.sh", 
-            "CondTools/RunInfo/test/test_lhcInfoNewPopCon.sh"
-        ], 
-        "created_at": 1710441465, 
-        "number": 44407, 
-        "state": "open", 
-        "updated_at": 1710452310
-    }, 
     "44411": {
         "base_branch": "master", 
         "changed_files_names": [
