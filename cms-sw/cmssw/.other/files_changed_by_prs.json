@@ -8390,12 +8390,13 @@
         "base_branch": "CMSSW_14_0_X", 
         "changed_files_names": [
             "HeterogeneousCore/AlpakaCore/src/alpaka/EDMetadata.cc", 
+            "HeterogeneousCore/AlpakaInterface/BuildFile.xml", 
             "HeterogeneousCore/AlpakaInterface/interface/HostOnlyTask.h"
         ], 
         "created_at": 1710892976, 
         "number": 44477, 
         "state": "open", 
-        "updated_at": 1710893005
+        "updated_at": 1710938905
     }, 
     "44478": {
         "base_branch": "master", 
