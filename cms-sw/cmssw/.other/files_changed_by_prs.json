@@ -8621,5 +8621,19 @@
         "number": 44490, 
         "state": "open", 
         "updated_at": 1710930281
+    }, 
+    "44491": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimCalorimetry/EcalSimAlgos/interface/EcalSignalGenerator.h", 
+            "SimCalorimetry/EcalSimAlgos/src/EcalCoder.cc", 
+            "SimCalorimetry/EcalSimAlgos/src/EcalSignalGenerator.cc", 
+            "SimCalorimetry/EcalSimProducers/src/EcalDigiProducer.cc", 
+            "SimCalorimetry/HcalSimAlgos/src/HcalSiPMHitResponse.cc"
+        ], 
+        "created_at": 1710930298, 
+        "number": 44491, 
+        "state": "open", 
+        "updated_at": 1710930321
     }
 }
