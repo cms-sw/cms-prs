@@ -8635,5 +8635,20 @@
         "number": 44491, 
         "state": "open", 
         "updated_at": 1710930321
+    }, 
+    "44492": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/Applications/python/ConfigBuilder.py", 
+            "Configuration/PyReleaseValidation/python/relval_nano.py", 
+            "Configuration/PyReleaseValidation/python/relval_production.py", 
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
+            "DPGAnalysis/HcalNanoAOD/python/hcalNano_cff.py", 
+            "PhysicsTools/NanoAOD/python/autoNANO.py"
+        ], 
+        "created_at": 1710932555, 
+        "number": 44492, 
+        "state": "open", 
+        "updated_at": 1710932580
     }
 }
