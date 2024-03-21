@@ -7105,24 +7105,6 @@
         "state": "open", 
         "updated_at": 1710866144
     }, 
-    "44472": {
-        "base_branch": "CMSSW_14_0_X", 
-        "changed_files_names": [
-            "DQM/Integration/python/clients/ecal_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/hltrates_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/l1t_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/l1tstage1emulator_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/physics_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/python/clients/sistrip_dqm_sourceclient-live_cfg.py", 
-            "DQM/Integration/test/BuildFile.xml", 
-            "DQM/Integration/test/runCompilationTest.sh", 
-            "DQM/Physics/python/qcdLowPtDQM_cfi.py"
-        ], 
-        "created_at": 1710871084, 
-        "number": 44472, 
-        "state": "open", 
-        "updated_at": 1710871135
-    }, 
     "44473": {
         "base_branch": "master", 
         "changed_files_names": [
