@@ -7556,5 +7556,22 @@
         "number": 44499, 
         "state": "open", 
         "updated_at": 1711016354
+    }, 
+    "44500": {
+        "base_branch": "CMSSW_14_0_X", 
+        "changed_files_names": [
+            "HLTrigger/Egamma/plugins/HLTEgammaDoubleXGBoostCombFilter.cc", 
+            "RecoEgamma/EgammaHLTProducers/plugins/EgammaHLTClusterShapeProducer.cc", 
+            "RecoEgamma/PhotonIdentification/BuildFile.xml", 
+            "RecoEgamma/PhotonIdentification/interface/PhotonXGBoostEstimator.h", 
+            "RecoEgamma/PhotonIdentification/plugins/PhotonXGBoostProducer.cc", 
+            "RecoEgamma/PhotonIdentification/src/PhotonXGBoostEstimator.cc", 
+            "RecoEgamma/PhotonIdentification/test/BuildFile.xml", 
+            "RecoEgamma/PhotonIdentification/test/test_PhotonMvaXgb.cc"
+        ], 
+        "created_at": 1711019315, 
+        "number": 44500, 
+        "state": "open", 
+        "updated_at": 1711019341
     }
 }
