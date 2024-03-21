@@ -7468,5 +7468,20 @@
         "number": 44502, 
         "state": "open", 
         "updated_at": 1711027533
+    }, 
+    "44503": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/Eras/python/Era_Run3_cff.py", 
+            "Configuration/Eras/python/Modifier_run3_muon_cff.py", 
+            "PhysicsTools/NanoAOD/python/electrons_cff.py", 
+            "PhysicsTools/NanoAOD/python/muons_cff.py", 
+            "PhysicsTools/NanoAOD/python/nano_eras_cff.py", 
+            "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py"
+        ], 
+        "created_at": 1711033522, 
+        "number": 44503, 
+        "state": "open", 
+        "updated_at": 1711033547
     }
 }
