@@ -7412,5 +7412,19 @@
         "number": 44514, 
         "state": "open", 
         "updated_at": 1711109803
+    }, 
+    "44515": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "CondFormats/EcalObjects/interface/EcalChannelStatusCode.h", 
+            "DQM/CTPPS/plugins/TotemT2DQMSource.cc", 
+            "DQM/EcalCommon/interface/MESetBinningUtils.h", 
+            "DataFormats/CTPPSReco/interface/TotemTimingRecHit.h", 
+            "DataFormats/EcalDetId/interface/EcalTrigTowerDetId.h"
+        ], 
+        "created_at": 1711113432, 
+        "number": 44515, 
+        "state": "open", 
+        "updated_at": 1711113460
     }
 }
