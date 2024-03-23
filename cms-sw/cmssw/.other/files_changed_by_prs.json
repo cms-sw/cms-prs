@@ -7380,5 +7380,28 @@
         "number": 44522, 
         "state": "open", 
         "updated_at": 1711169404
+    }, 
+    "44523": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/HLT_75e33/paths/HLT_Mu37_Mu27_FromL1TkMuon_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/paths/HLT_Mu50_FromL1TkMuon_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTDoFullUnpackingEgammaEcalSequence_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTDoubleEle2312IsoL1SeededInnerSequence_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTDoubleEle2312IsoL1SeededSequence_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTEle26WP70L1SeededInnerSequence_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTEle26WP70L1SeededSequence_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTEle26WP70UnseededInnerSequence_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTEle26WP70UnseededSequence_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTEle32WPTightL1SeededInnerSequence_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTEle32WPTightL1SeededSequence_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTEle32WPTightUnseededInnerSequence_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTEle32WPTightUnseededSequence_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTFastJetForEgammaSequence_cfi.py"
+        ], 
+        "created_at": 1711173835, 
+        "number": 44523, 
+        "state": "open", 
+        "updated_at": 1711173862
     }
 }
