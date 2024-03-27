@@ -5119,12 +5119,15 @@
     "44531": {
         "base_branch": "master", 
         "changed_files_names": [
+            "RecoEgamma/PhotonIdentification/interface/PhotonXGBoostEstimator.h", 
+            "RecoEgamma/PhotonIdentification/plugins/PhotonXGBoostProducer.cc", 
+            "RecoEgamma/PhotonIdentification/src/PhotonXGBoostEstimator.cc", 
             "RecoEgamma/PhotonIdentification/test/test_PhotonMvaXgb.cc"
         ], 
         "created_at": 1711360374, 
         "number": 44531, 
         "state": "open", 
-        "updated_at": 1711360397
+        "updated_at": 1711552002
     }, 
     "44532": {
         "base_branch": "CMSSW_14_0_X", 
