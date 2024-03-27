@@ -5270,6 +5270,7 @@
         "base_branch": "master", 
         "changed_files_names": [
             "Configuration/Generator/python/Pythia8PhotonFluxSettings_cfi.py", 
+            "Configuration/Generator/python/Pythia8_GammaNucleus_5p36TeV_cfi.py", 
             "GeneratorInterface/Pythia8Interface/plugins/Pythia8Hadronizer.cc", 
             "GeneratorInterface/Pythia8Interface/test/pythia8ex2_ConvertToMain70_cfg.py", 
             "GeneratorInterface/Pythia8Interface/test/pythia8ex2_ConvertToMain70_cfg_Fragment.py"
@@ -5277,7 +5278,7 @@
         "created_at": 1711472225, 
         "number": 44549, 
         "state": "open", 
-        "updated_at": 1711472248
+        "updated_at": 1711564107
     }, 
     "44551": {
         "base_branch": "CMSSW_14_0_X", 
