@@ -789,12 +789,13 @@
             "GeneratorInterface/Pythia8Interface/plugins/PowhegHooksBB4L.h", 
             "GeneratorInterface/Pythia8Interface/plugins/SuepDecay.cc", 
             "GeneratorInterface/Pythia8Interface/src/Py8HMC3InterfaceBase.cc", 
-            "GeneratorInterface/Pythia8Interface/src/Py8InterfaceBase.cc"
+            "GeneratorInterface/Pythia8Interface/src/Py8InterfaceBase.cc", 
+            "TauAnalysis/MCEmbeddingTools/python/EmbeddingPythia8Hadronizer_cfi.py"
         ], 
         "created_at": 1706189590, 
         "number": 43786, 
         "state": "open", 
-        "updated_at": 1710762126
+        "updated_at": 1711552635
     }, 
     "43815": {
         "base_branch": "master", 
