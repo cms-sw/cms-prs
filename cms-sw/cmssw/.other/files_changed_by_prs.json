@@ -7327,5 +7327,25 @@
         "number": 44551, 
         "state": "open", 
         "updated_at": 1711493616
+    }, 
+    "44552": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/HLT_75e33/modules/HGCalRecHitL1Seeded_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/HGCalRecHit_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/HGCalUncalibRecHitL1Seeded_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/HGCalUncalibRecHit_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hgcalLayerClustersEEL1Seeded_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hgcalLayerClustersEE_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hgcalLayerClustersHSciL1Seeded_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hgcalLayerClustersHSci_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hgcalLayerClustersHSiL1Seeded_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hgcalLayerClustersHSi_cfi.py", 
+            "HLTrigger/Configuration/python/HLT_75e33/psets/hgcal_reco_constants_cfi.py"
+        ], 
+        "created_at": 1711531688, 
+        "number": 44552, 
+        "state": "open", 
+        "updated_at": 1711531710
     }
 }
