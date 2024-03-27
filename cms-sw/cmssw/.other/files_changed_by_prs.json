@@ -5405,5 +5405,16 @@
         "number": 44565, 
         "state": "open", 
         "updated_at": 1711577036
+    }, 
+    "44566": {
+        "base_branch": "CMSSW_14_0_X", 
+        "changed_files_names": [
+            "CommonTools/PileupAlgos/plugins/PuppiProducer.cc", 
+            "CommonTools/PileupAlgos/python/Puppi_cff.py"
+        ], 
+        "created_at": 1711577746, 
+        "number": 44566, 
+        "state": "open", 
+        "updated_at": 1711577772
     }
 }
