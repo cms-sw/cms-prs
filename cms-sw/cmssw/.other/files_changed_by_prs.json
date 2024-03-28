@@ -5415,5 +5415,19 @@
         "number": 44568, 
         "state": "open", 
         "updated_at": 1711589550
+    }, 
+    "44569": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEFastParamsHost.h", 
+            "RecoLocalTracker/SiPixelRecHits/interface/pixelCPEforDevice.h", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelCPEFastParamsESProducerAlpaka.cc", 
+            "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelRecHits.h", 
+            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEFastParamsHost.cc"
+        ], 
+        "created_at": 1711623857, 
+        "number": 44569, 
+        "state": "open", 
+        "updated_at": 1711623884
     }
 }
