@@ -5499,5 +5499,23 @@
         "number": 44577, 
         "state": "open", 
         "updated_at": 1711717736
+    }, 
+    "44578": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/scripts/test-MC-setup_gen_sim.sh", 
+            "Configuration/PyReleaseValidation/scripts/test-MC-setup_hlt.sh", 
+            "Configuration/PyReleaseValidation/scripts/test-MC-setup_reco.sh", 
+            "Configuration/PyReleaseValidation/test/BuildFile.xml", 
+            "Configuration/PyReleaseValidation/test/test_mc_setup/test-MC_22_setup.sh", 
+            "Configuration/PyReleaseValidation/test/test_mc_setup/test-MC_22_setup_crosscheck.sh", 
+            "Configuration/PyReleaseValidation/test/test_mc_setup/test-MC_23_setup.sh", 
+            "Configuration/PyReleaseValidation/test/test_mc_setup/test-MC_23_setup_crosscheck.sh", 
+            "Configuration/PyReleaseValidation/test/test_mc_setup/test_MC_setup.sh"
+        ], 
+        "created_at": 1711721299, 
+        "number": 44578, 
+        "state": "open", 
+        "updated_at": 1711721325
     }
 }
