@@ -4890,8 +4890,16 @@
         "base_branch": "master", 
         "changed_files_names": [
             "DataFormats/HGCRecHit/src/classes_def.xml", 
+            "RecoEgamma/EgammaTools/interface/EgammaPCAHelper.h", 
+            "RecoEgamma/EgammaTools/interface/HGCalEgammaIDHelper.h", 
+            "RecoEgamma/EgammaTools/plugins/HGCalElectronIDValueMapProducer.cc", 
+            "RecoEgamma/EgammaTools/plugins/HGCalPhotonIDValueMapProducer.cc", 
+            "RecoEgamma/EgammaTools/python/slimmedEgammaHGC_cff.py", 
+            "RecoEgamma/EgammaTools/src/EgammaPCAHelper.cc", 
+            "RecoEgamma/EgammaTools/src/HGCalEgammaIDHelper.cc", 
             "RecoHGCal/TICL/plugins/SimTrackstersProducer.cc", 
             "RecoHGCal/TICL/plugins/TICLDumper.cc", 
+            "RecoHGCal/TICL/python/customiseTICLFromReco.py", 
             "RecoLocalCalo/Configuration/python/hgcalLocalReco_cff.py", 
             "RecoLocalCalo/HGCalRecAlgos/src/RecHitTools.cc", 
             "RecoLocalCalo/HGCalRecProducers/plugins/HGCalRecHitMapProducer.cc", 
@@ -4910,6 +4918,9 @@
             "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToSimTSAssociatorByEnergyScoreImpl.h", 
             "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToSimTSAssociatorByEnergyScoreProducer.cc", 
             "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToSimTSAssociatorEDProducer.cc", 
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/MultiClusterAssociatorByEnergyScoreImpl.cc", 
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/MultiClusterAssociatorByEnergyScoreImpl.h", 
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/MultiClusterAssociatorByEnergyScoreProducer.cc", 
             "SimCalorimetry/HGCalAssociatorProducers/plugins/TSToSCAssociatorByEnergyScoreImpl.cc", 
             "SimCalorimetry/HGCalAssociatorProducers/plugins/TSToSCAssociatorByEnergyScoreImpl.h", 
             "SimCalorimetry/HGCalAssociatorProducers/plugins/TSToSCAssociatorByEnergyScoreProducer.cc", 
@@ -4953,14 +4964,16 @@
             "SimGeneral/MixingModule/python/caloTruthProducer_cfi.py", 
             "Validation/HGCalValidation/interface/HGCalValidator.h", 
             "Validation/HGCalValidation/interface/HGVHistoProducerAlgo.h", 
+            "Validation/HGCalValidation/plugins/HGCalShowerSeparation.cc", 
             "Validation/HGCalValidation/plugins/HGCalValidator.cc", 
             "Validation/HGCalValidation/python/HGCalValidator_cfi.py", 
-            "Validation/HGCalValidation/src/HGVHistoProducerAlgo.cc"
+            "Validation/HGCalValidation/src/HGVHistoProducerAlgo.cc", 
+            "Validation/HGCalValidation/test/python/standalone_onlyTICL_fromRECO.py"
         ], 
         "created_at": 1711555105, 
         "number": 44560, 
         "state": "open", 
-        "updated_at": 1711570476
+        "updated_at": 1712036913
     }, 
     "44562": {
         "base_branch": "master", 
