@@ -5064,33 +5064,6 @@
         "state": "open", 
         "updated_at": 1711641546
     }, 
-    "44572": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "SimG4Core/Application/interface/EventAction.h", 
-            "SimG4Core/Application/interface/TrackingAction.h", 
-            "SimG4Core/Application/plugins/OscarMTProducer.cc", 
-            "SimG4Core/Application/python/g4SimHits_cfi.py", 
-            "SimG4Core/Application/src/EventAction.cc", 
-            "SimG4Core/Application/src/RunManagerMTWorker.cc", 
-            "SimG4Core/Application/src/TrackingAction.cc", 
-            "SimG4Core/GeometryProducer/src/GeometryProducer.cc", 
-            "SimG4Core/Notification/interface/SimTrackManager.h", 
-            "SimG4Core/Notification/interface/TmpSimEvent.h", 
-            "SimG4Core/Notification/interface/TmpSimVertex.h", 
-            "SimG4Core/Notification/interface/TrackInformation.h", 
-            "SimG4Core/Notification/interface/TrackWithHistory.h", 
-            "SimG4Core/Notification/src/MCTruthUtil.cc", 
-            "SimG4Core/Notification/src/SimTrackManager.cc", 
-            "SimG4Core/Notification/src/TmpSimEvent.cc", 
-            "SimG4Core/Notification/src/TrackInformation.cc", 
-            "SimG4Core/Notification/src/TrackWithHistory.cc"
-        ], 
-        "created_at": 1711643495, 
-        "number": 44572, 
-        "state": "open", 
-        "updated_at": 1711651799
-    }, 
     "44574": {
         "base_branch": "master", 
         "changed_files_names": [
