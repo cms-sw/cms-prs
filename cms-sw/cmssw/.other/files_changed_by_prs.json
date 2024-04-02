@@ -5393,5 +5393,27 @@
         "number": 44592, 
         "state": "open", 
         "updated_at": 1712072917
+    }, 
+    "44593": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "SimG4CMS/Calo/interface/CaloG4Hit.h", 
+            "SimG4CMS/Calo/src/CaloG4Hit.cc", 
+            "SimG4Core/Application/interface/TrackingAction.h", 
+            "SimG4Core/Application/plugins/OscarMTProducer.cc", 
+            "SimG4Core/Application/python/g4SimHits_cfi.py", 
+            "SimG4Core/Application/src/RunManagerMTWorker.cc", 
+            "SimG4Core/Application/src/TrackingAction.cc", 
+            "SimG4Core/GeometryProducer/src/GeometryProducer.cc", 
+            "SimG4Core/Notification/interface/SimTrackManager.h", 
+            "SimG4Core/Notification/interface/TmpSimEvent.h", 
+            "SimG4Core/Notification/interface/TrackInformation.h", 
+            "SimG4Core/Notification/interface/TrackWithHistory.h", 
+            "SimG4Core/Notification/src/SimTrackManager.cc"
+        ], 
+        "created_at": 1712073499, 
+        "number": 44593, 
+        "state": "open", 
+        "updated_at": 1712073521
     }
 }
