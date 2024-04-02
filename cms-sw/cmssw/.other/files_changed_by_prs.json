@@ -5017,6 +5017,8 @@
     "44575": {
         "base_branch": "master", 
         "changed_files_names": [
+            "DPGAnalysis/MuonTools/interface/MuDigiBaseProducer.h", 
+            "DPGAnalysis/MuonTools/python/common_cff.py", 
             "PhysicsTools/NanoAOD/interface/SimpleFlatTableProducer.h", 
             "PhysicsTools/NanoAOD/python/boostedTaus_cff.py", 
             "PhysicsTools/NanoAOD/python/common_cff.py", 
@@ -5044,7 +5046,7 @@
         "created_at": 1711656018, 
         "number": 44575, 
         "state": "open", 
-        "updated_at": 1711732321
+        "updated_at": 1712076977
     }, 
     "44576": {
         "base_branch": "master", 
