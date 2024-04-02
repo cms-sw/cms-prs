@@ -4451,26 +4451,6 @@
         "state": "open", 
         "updated_at": 1711106021
     }, 
-    "44394": {
-        "base_branch": "CMSSW_14_0_X", 
-        "changed_files_names": [
-            "DataFormats/L1Scouting/interface/OrbitCollection.h", 
-            "DataFormats/L1Scouting/test/read_L1Scouting_cfg.py", 
-            "DataFormats/L1ScoutingRawData/interface/SDSNumbering.h", 
-            "EventFilter/L1ScoutingRawToDigi/interface/blocks.h", 
-            "EventFilter/L1ScoutingRawToDigi/plugins/ScCALORawToDigi.cc", 
-            "EventFilter/L1ScoutingRawToDigi/plugins/ScCALORawToDigi.h", 
-            "EventFilter/L1ScoutingRawToDigi/plugins/ScGMTRawToDigi.cc", 
-            "EventFilter/L1ScoutingRawToDigi/plugins/ScGMTRawToDigi.h", 
-            "EventFilter/L1ScoutingRawToDigi/python/ScCaloRawToDigi_cfi.py", 
-            "EventFilter/L1ScoutingRawToDigi/python/ScGMTRawToDigi_cfi.py", 
-            "L1TriggerScouting/Utilities/interface/scales.h"
-        ], 
-        "created_at": 1710337306, 
-        "number": 44394, 
-        "state": "open", 
-        "updated_at": 1710774050
-    }, 
     "44411": {
         "base_branch": "master", 
         "changed_files_names": [
