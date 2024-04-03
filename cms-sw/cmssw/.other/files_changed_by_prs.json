@@ -5213,12 +5213,15 @@
         "base_branch": "master", 
         "changed_files_names": [
             "Configuration/PyReleaseValidation/test/BuildFile.xml", 
+            "Configuration/PyReleaseValidation/test/test-MC-setup_gen_sim.sh", 
+            "Configuration/PyReleaseValidation/test/test-MC-setup_hlt.sh", 
+            "Configuration/PyReleaseValidation/test/test-MC-setup_reco.sh", 
             "Configuration/PyReleaseValidation/test/test_MC_setup.sh"
         ], 
         "created_at": 1711721299, 
         "number": 44578, 
         "state": "open", 
-        "updated_at": 1712064071
+        "updated_at": 1712127708
     }, 
     "44579": {
         "base_branch": "CMSSW_13_3_X", 
