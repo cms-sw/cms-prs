@@ -5152,15 +5152,15 @@
         "base_branch": "master", 
         "changed_files_names": [
             "Configuration/PyReleaseValidation/test/BuildFile.xml", 
-            "Configuration/PyReleaseValidation/test/test-MC-setup_gen_sim.sh", 
-            "Configuration/PyReleaseValidation/test/test-MC-setup_hlt.sh", 
-            "Configuration/PyReleaseValidation/test/test-MC-setup_reco.sh", 
-            "Configuration/PyReleaseValidation/test/test_MC_setup.sh"
+            "Configuration/PyReleaseValidation/test/test_mc_setup/test_MC_setup.sh", 
+            "Configuration/PyReleaseValidation/test/test_mc_setup/test_MC_setup_gen_sim.sh", 
+            "Configuration/PyReleaseValidation/test/test_mc_setup/test_MC_setup_hlt.sh", 
+            "Configuration/PyReleaseValidation/test/test_mc_setup/test_MC_setup_reco.sh"
         ], 
         "created_at": 1711721299, 
         "number": 44578, 
         "state": "open", 
-        "updated_at": 1712148338
+        "updated_at": 1712153231
     }, 
     "44579": {
         "base_branch": "CMSSW_13_3_X", 
