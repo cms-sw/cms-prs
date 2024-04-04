@@ -5458,5 +5458,28 @@
         "number": 44623, 
         "state": "open", 
         "updated_at": 1712252083
+    }, 
+    "44624": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "FWCore/Framework/interface/StreamSchedule.h", 
+            "FWCore/Framework/interface/WorkerInPath.h", 
+            "FWCore/Framework/interface/maker/Worker.h", 
+            "FWCore/Framework/src/EventProcessor.cc", 
+            "FWCore/Integration/plugins/ExceptionThrowingProducer.cc", 
+            "FWCore/Integration/test/run_TestFrameworkExceptionHandling.sh", 
+            "FWCore/Integration/test/testFrameworkExceptionHandling_cfg.py", 
+            "FWCore/Services/plugins/TestServiceOne.cc", 
+            "FWCore/Services/plugins/TestServiceTwo.cc", 
+            "FWCore/Utilities/interface/Signal.h", 
+            "FWCore/Utilities/interface/TestServiceOneBase.h", 
+            "FWCore/Utilities/interface/TestServiceTwoBase.h", 
+            "FWCore/Utilities/src/TestServiceOneBase.cc", 
+            "FWCore/Utilities/src/TestServiceTwoBase.cc"
+        ], 
+        "created_at": 1712252357, 
+        "number": 44624, 
+        "state": "open", 
+        "updated_at": 1712252380
     }
 }
