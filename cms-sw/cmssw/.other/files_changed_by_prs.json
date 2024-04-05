@@ -5349,12 +5349,17 @@
             "HeterogeneousTest/ROCmKernel/plugins/ROCmTestKernelAdditionAlgo.hip.cc", 
             "HeterogeneousTest/ROCmKernel/plugins/ROCmTestKernelAdditionModule.cc", 
             "HeterogeneousTest/ROCmOpaque/README.md", 
+            "HeterogeneousTest/ROCmOpaque/interface/DeviceAdditionOpaque.h", 
+            "HeterogeneousTest/ROCmOpaque/plugins/ROCmTestOpaqueAdditionModule.cc", 
+            "HeterogeneousTest/ROCmOpaque/src/DeviceAdditionOpaque.cc", 
+            "HeterogeneousTest/ROCmOpaque/test/BuildFile.xml", 
+            "HeterogeneousTest/ROCmOpaque/test/testDeviceAdditionOpaque.cc", 
             "HeterogeneousTest/ROCmWrapper/README.md"
         ], 
         "created_at": 1712243601, 
         "number": 44622, 
         "state": "open", 
-        "updated_at": 1712295483
+        "updated_at": 1712338398
     }, 
     "44623": {
         "base_branch": "master", 
