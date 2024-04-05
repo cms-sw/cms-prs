@@ -4479,23 +4479,6 @@
         "state": "open", 
         "updated_at": 1710775315
     }, 
-    "44475": {
-        "base_branch": "CMSSW_13_2_X", 
-        "changed_files_names": [
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPfDeepFlavourTagInfosModEta2p4_cfi.py", 
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPfDeepFlavourTagInfos_cfi.py", 
-            "RecoBTag/FeatureTools/plugins/DeepBoostedJetTagInfoProducer.cc", 
-            "RecoBTag/FeatureTools/plugins/DeepFlavourTagInfoProducer.cc", 
-            "RecoBTag/FeatureTools/plugins/ParticleTransformerAK4TagInfoProducer.cc", 
-            "RecoBTag/FeatureTools/test/BuildFile.xml", 
-            "RecoBTag/FeatureTools/test/u0_cfg.py", 
-            "RecoJets/JetProducers/plugins/JetMatcherDR.cc"
-        ], 
-        "created_at": 1710891979, 
-        "number": 44475, 
-        "state": "open", 
-        "updated_at": 1712164845
-    }, 
     "44498": {
         "base_branch": "master", 
         "changed_files_names": [
