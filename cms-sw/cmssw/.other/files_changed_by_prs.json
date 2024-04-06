@@ -5648,12 +5648,14 @@
             "RecoBTag/FeatureTools/src/TrackInfoBuilder.cc", 
             "RecoBTag/ONNXRuntime/plugins/UnifiedParticleTransformerAK4ONNXJetTagsProducer.cc", 
             "RecoBTag/ONNXRuntime/python/pfUnifiedParticleTransformerAK4DiscriminatorsJetTags_cfi.py", 
-            "RecoBTag/ONNXRuntime/python/pfUnifiedParticleTransformerAK4_cff.py"
+            "RecoBTag/ONNXRuntime/python/pfUnifiedParticleTransformerAK4_cff.py", 
+            "RecoBTag/ONNXRuntime/test/test_deep_flavour_cfg.py", 
+            "RecoBTag/ONNXRuntime/test/test_unifiedpartak4_cfg.py"
         ], 
         "created_at": 1712386258, 
         "number": 44641, 
         "state": "open", 
-        "updated_at": 1712386286
+        "updated_at": 1712389783
     }, 
     "44642": {
         "base_branch": "master", 
