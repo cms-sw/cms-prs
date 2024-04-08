@@ -620,32 +620,6 @@
         "state": "open", 
         "updated_at": 1707765469
     }, 
-    "43485": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "Configuration/PyReleaseValidation/python/relval_nano.py", 
-            "PhysicsTools/NanoAOD/BuildFile.xml", 
-            "PhysicsTools/NanoAOD/plugins/BTVMCFlavourTableProducer.cc", 
-            "PhysicsTools/NanoAOD/plugins/BuildFile.xml", 
-            "PhysicsTools/NanoAOD/plugins/DeepJetTableProducer.cc", 
-            "PhysicsTools/NanoAOD/plugins/JetConstituentTableProducer.cc", 
-            "PhysicsTools/NanoAOD/python/autoNANO.py", 
-            "PhysicsTools/NanoAOD/python/btvMC_cff.py", 
-            "PhysicsTools/NanoAOD/python/custom_btv_cff.py", 
-            "PhysicsTools/NanoAOD/python/jetsAK4_Puppi_cff.py", 
-            "PhysicsTools/NanoAOD/python/nanoDQM_cfi.py", 
-            "PhysicsTools/PatAlgos/python/recoLayer0/bTagging_cff.py", 
-            "PhysicsTools/PatAlgos/python/tools/jetTools.py", 
-            "RecoBTag/FeatureTools/plugins/ParticleNetFeatureEvaluator.cc", 
-            "RecoBTag/FeatureTools/plugins/ParticleTransformerAK4TagInfoProducer.cc", 
-            "RecoBTag/ONNXRuntime/python/pfParticleNetFromMiniAODAK4_cff.py", 
-            "RecoBTag/ONNXRuntime/python/pfParticleTransformerAK4_cff.py"
-        ], 
-        "created_at": 1701678520, 
-        "number": 43485, 
-        "state": "open", 
-        "updated_at": 1712156870
-    }, 
     "43596": {
         "base_branch": "master", 
         "changed_files_names": [
