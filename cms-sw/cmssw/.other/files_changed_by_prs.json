@@ -5482,12 +5482,13 @@
         "base_branch": "CMSSW_14_0_X", 
         "changed_files_names": [
             "Configuration/PyReleaseValidation/python/relval_standard.py", 
-            "Configuration/PyReleaseValidation/python/relval_steps.py"
+            "Configuration/PyReleaseValidation/python/relval_steps.py", 
+            "Configuration/PyReleaseValidation/scripts/runTheMatrix.py"
         ], 
         "created_at": 1712648196, 
         "number": 44665, 
         "state": "open", 
-        "updated_at": 1712648223
+        "updated_at": 1712669013
     }, 
     "44667": {
         "base_branch": "master", 
