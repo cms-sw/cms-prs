@@ -5199,29 +5199,6 @@
         "state": "open", 
         "updated_at": 1712573620
     }, 
-    "44636": {
-        "base_branch": "master", 
-        "changed_files_names": [
-            "HeterogeneousTest/AlpakaDevice/BuildFile.xml", 
-            "HeterogeneousTest/AlpakaDevice/README.md", 
-            "HeterogeneousTest/AlpakaDevice/interface/alpaka/DeviceAddition.h", 
-            "HeterogeneousTest/AlpakaDevice/plugins/alpaka/AlpakaTestDeviceAdditionAlgo.dev.cc", 
-            "HeterogeneousTest/AlpakaDevice/src/alpaka/DeviceAddition.dev.cc", 
-            "HeterogeneousTest/AlpakaDevice/test/alpaka/testDeviceAddition.dev.cc", 
-            "HeterogeneousTest/AlpakaKernel/BuildFile.xml", 
-            "HeterogeneousTest/AlpakaKernel/README.md", 
-            "HeterogeneousTest/AlpakaKernel/interface/alpaka/DeviceAdditionKernel.h", 
-            "HeterogeneousTest/AlpakaKernel/plugins/alpaka/AlpakaTestKernelAdditionAlgo.dev.cc", 
-            "HeterogeneousTest/AlpakaKernel/src/alpaka/DeviceAdditionKernel.dev.cc", 
-            "HeterogeneousTest/AlpakaKernel/test/alpaka/testDeviceAdditionKernel.dev.cc", 
-            "HeterogeneousTest/AlpakaOpaque/test/testAlpakaTestAdditionModules.py", 
-            "HeterogeneousTest/AlpakaWrapper/src/alpaka/DeviceAdditionWrapper.dev.cc"
-        ], 
-        "created_at": 1712325793, 
-        "number": 44636, 
-        "state": "open", 
-        "updated_at": 1712574182
-    }, 
     "44637": {
         "base_branch": "master", 
         "changed_files_names": [
