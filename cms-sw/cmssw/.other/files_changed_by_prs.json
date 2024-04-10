@@ -5570,5 +5570,16 @@
         "number": 44683, 
         "state": "open", 
         "updated_at": 1712729437
+    }, 
+    "44684": {
+        "base_branch": "CMSSW_14_0_X", 
+        "changed_files_names": [
+            "HLTriggerOffline/Common/python/HLTValidation_cff.py", 
+            "Validation/HGCalValidation/plugins/HGCalHitCalibration.cc"
+        ], 
+        "created_at": 1712732460, 
+        "number": 44684, 
+        "state": "open", 
+        "updated_at": 1712732489
     }
 }
