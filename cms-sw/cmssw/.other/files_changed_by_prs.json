@@ -5734,5 +5734,23 @@
         "number": 44702, 
         "state": "open", 
         "updated_at": 1712779276
+    }, 
+    "44703": {
+        "base_branch": "CMSSW_14_0_X", 
+        "changed_files_names": [
+            "HeterogeneousTest/AlpakaDevice/README.md", 
+            "HeterogeneousTest/AlpakaDevice/interface/alpaka/DeviceAddition.h", 
+            "HeterogeneousTest/AlpakaDevice/plugins/alpaka/AlpakaTestDeviceAdditionAlgo.dev.cc", 
+            "HeterogeneousTest/AlpakaDevice/test/alpaka/testDeviceAddition.dev.cc", 
+            "HeterogeneousTest/AlpakaKernel/README.md", 
+            "HeterogeneousTest/AlpakaKernel/interface/alpaka/DeviceAdditionKernel.h", 
+            "HeterogeneousTest/AlpakaKernel/plugins/alpaka/AlpakaTestKernelAdditionAlgo.dev.cc", 
+            "HeterogeneousTest/AlpakaKernel/test/alpaka/testDeviceAdditionKernel.dev.cc", 
+            "HeterogeneousTest/AlpakaWrapper/src/alpaka/DeviceAdditionWrapper.dev.cc"
+        ], 
+        "created_at": 1712780499, 
+        "number": 44703, 
+        "state": "open", 
+        "updated_at": 1712780528
     }
 }
