@@ -5583,13 +5583,15 @@
             "PhysicsTools/NanoAOD/python/taus_cff.py", 
             "PhysicsTools/NanoAOD/python/taus_updatedMVAIds_cff.py", 
             "RecoTauTag/Configuration/python/loadRecoTauTagMVAsFromPrepDB_cfi.py", 
+            "RecoTauTag/Configuration/python/tools/adaptToRunAtMiniAOD.py", 
             "RecoTauTag/RecoTau/python/tools/runTauIdMVA.py", 
-            "RecoTauTag/RecoTau/test/rerunMVAIsolationOnMiniAOD.py"
+            "RecoTauTag/RecoTau/test/rerunMVAIsolationOnMiniAOD.py", 
+            "RecoTauTag/RecoTau/test/runDeepTauIDsOnMiniAOD.py"
         ], 
         "created_at": 1712733250, 
         "number": 44685, 
         "state": "open", 
-        "updated_at": 1712733284
+        "updated_at": 1712752716
     }, 
     "44686": {
         "base_branch": "master", 
