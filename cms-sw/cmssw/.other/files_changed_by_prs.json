@@ -5545,8 +5545,6 @@
         "base_branch": "master", 
         "changed_files_names": [
             "DataFormats/TrackSoA/interface/TrackDefinitions.h", 
-            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFClusterSoAProducer.cc", 
-            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFClusterSoAProducerKernel.h", 
             "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/CalorimeterDefinitions.h", 
             "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/PFRecHitSoAProducer.cc", 
             "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/PFRecHitTopologyESProducer.cc"
@@ -5554,7 +5552,7 @@
         "created_at": 1712725463, 
         "number": 44682, 
         "state": "open", 
-        "updated_at": 1712742953
+        "updated_at": 1712751440
     }, 
     "44683": {
         "base_branch": "CMSSW_14_0_X", 
