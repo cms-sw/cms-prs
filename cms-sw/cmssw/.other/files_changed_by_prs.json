@@ -5745,12 +5745,6 @@
     "44714": {
         "base_branch": "CMSSW_14_0_X", 
         "changed_files_names": [
-            "HeterogeneousCore/AlpakaInterface/interface/detail/IndependentGroupElementsAlong.h", 
-            "HeterogeneousCore/AlpakaInterface/interface/detail/IndependentGroupsAlong.h", 
-            "HeterogeneousCore/AlpakaInterface/interface/detail/UniformElementsAlong.h", 
-            "HeterogeneousCore/AlpakaInterface/interface/detail/UniformElementsND.h", 
-            "HeterogeneousCore/AlpakaInterface/interface/detail/UniformGroupElementsAlong.h", 
-            "HeterogeneousCore/AlpakaInterface/interface/detail/UniformGroupsAlong.h", 
             "HeterogeneousCore/AlpakaInterface/interface/workdivision.h", 
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlgo.dev.cc", 
             "RecoLocalCalo/EcalRecProducers/plugins/alpaka/AmplitudeComputationCommonKernels.h", 
@@ -5763,7 +5757,7 @@
         "created_at": 1712842087, 
         "number": 44714, 
         "state": "open", 
-        "updated_at": 1712843655
+        "updated_at": 1712867121
     }, 
     "44715": {
         "base_branch": "CMSSW_14_0_X", 
