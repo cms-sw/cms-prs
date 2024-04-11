@@ -5861,5 +5861,28 @@
         "number": 44709, 
         "state": "open", 
         "updated_at": 1712838372
+    }, 
+    "44712": {
+        "base_branch": "master", 
+        "changed_files_names": [
+            "HeterogeneousCore/AlpakaInterface/interface/detail/IndependentGroupElementsAlong.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/detail/IndependentGroupsAlong.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/detail/UniformElementsAlong.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/detail/UniformElementsND.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/detail/UniformGroupElementsAlong.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/detail/UniformGroupsAlong.h", 
+            "HeterogeneousCore/AlpakaInterface/interface/workdivision.h", 
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlgo.dev.cc", 
+            "RecoLocalCalo/EcalRecProducers/plugins/alpaka/AmplitudeComputationCommonKernels.h", 
+            "RecoLocalCalo/EcalRecProducers/plugins/alpaka/AmplitudeComputationKernels.dev.cc", 
+            "RecoLocalCalo/EcalRecProducers/plugins/alpaka/TimeComputationKernels.h", 
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFClusterECLCC.h", 
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFClusterSoAProducerKernel.dev.cc", 
+            "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/PFRecHitProducerKernel.dev.cc"
+        ], 
+        "created_at": 1712841884, 
+        "number": 44712, 
+        "state": "open", 
+        "updated_at": 1712841910
     }
 }
