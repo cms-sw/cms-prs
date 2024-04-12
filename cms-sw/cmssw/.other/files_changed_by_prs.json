@@ -5533,26 +5533,6 @@
         "state": "open", 
         "updated_at": 1712853425
     }, 
-    "44699": {
-        "base_branch": "CMSSW_14_0_X", 
-        "changed_files_names": [
-            "EventFilter/EcalRawToDigi/plugins/alpaka/EcalRawToDigiPortable.cc", 
-            "HeterogeneousCore/AlpakaCore/interface/alpaka/ProducerBase.h", 
-            "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EcalUncalibRecHitProducerPortable.cc", 
-            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToCluster.cc", 
-            "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/SiPixelRecHitAlpaka.cc", 
-            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFClusterSoAProducer.cc", 
-            "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/CaloRecHitSoAProducer.cc", 
-            "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/PFRecHitSoAProducer.cc", 
-            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtuplet.cc", 
-            "RecoTracker/PixelVertexFinding/plugins/alpaka/PixelVertexProducerAlpaka.cc", 
-            "RecoVertex/BeamSpotProducer/plugins/alpaka/BeamSpotDeviceProducer.cc"
-        ], 
-        "created_at": 1712773577, 
-        "number": 44699, 
-        "state": "open", 
-        "updated_at": 1712846222
-    }, 
     "44701": {
         "base_branch": "master", 
         "changed_files_names": [
