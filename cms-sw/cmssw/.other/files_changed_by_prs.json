@@ -662,14 +662,8 @@
     "43751": {
         "base_branch": "master", 
         "changed_files_names": [
-            "CondFormats/DataRecord/interface/HGCalMappingCellIndexerRcd.h", 
-            "CondFormats/DataRecord/interface/HGCalMappingCellRcd.h", 
-            "CondFormats/DataRecord/interface/HGCalMappingModuleIndexerRcd.h", 
-            "CondFormats/DataRecord/interface/HGCalMappingModuleRcd.h", 
-            "CondFormats/DataRecord/src/HGCalMappingCellIndexerRcd.cc", 
-            "CondFormats/DataRecord/src/HGCalMappingCellRcd.cc", 
-            "CondFormats/DataRecord/src/HGCalMappingModuleIndexerRcd.cc", 
-            "CondFormats/DataRecord/src/HGCalMappingModuleRcd.cc", 
+            "CondFormats/DataRecord/interface/HGCalElectronicsMappingRcd.h", 
+            "CondFormats/DataRecord/src/HGCalElectronicsMappingRcd.cc", 
             "CondFormats/HGCalObjects/BuildFile.xml", 
             "CondFormats/HGCalObjects/interface/HGCalDenseIndexerBase.h", 
             "CondFormats/HGCalObjects/interface/HGCalMappingCellIndexer.h", 
@@ -693,19 +687,20 @@
             "Geometry/HGCalMapping/BuildFile.xml", 
             "Geometry/HGCalMapping/interface/HGCalMappingTools.h", 
             "Geometry/HGCalMapping/plugins/BuildFile.xml", 
-            "Geometry/HGCalMapping/plugins/HGCalMappingIndexESSource.cc", 
+            "Geometry/HGCalMapping/plugins/HGCalMappingESProducer.cc", 
             "Geometry/HGCalMapping/plugins/alpaka/HGCalMappingCellESProducer.cc", 
             "Geometry/HGCalMapping/plugins/alpaka/HGCalMappingModuleESProducer.cc", 
             "Geometry/HGCalMapping/src/HGCalMappingTools.cc", 
             "Geometry/HGCalMapping/test/BuildFile.xml", 
-            "Geometry/HGCalMapping/test/alpaka/HGCalMappingESSourceTester.cc", 
+            "Geometry/HGCalMapping/test/HGCalMappingESSourceTester.cc", 
+            "Geometry/HGCalMapping/test/testHGCalMapFileParser.cc", 
             "Geometry/HGCalMapping/test/testMappingModuleIndexer_cfg.py", 
             "RecoLocalCalo/HGCalRecProducers/plugins/BuildFile.xml"
         ], 
         "created_at": 1705654966, 
         "number": 43751, 
         "state": "open", 
-        "updated_at": 1711702742
+        "updated_at": 1712922891
     }, 
     "43761": {
         "base_branch": "master", 
