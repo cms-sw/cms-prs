@@ -5454,24 +5454,6 @@
         "state": "open", 
         "updated_at": 1712898867
     }, 
-    "44715": {
-        "base_branch": "CMSSW_14_0_X", 
-        "changed_files_names": [
-            "PhysicsTools/NanoAOD/python/boostedTaus_cff.py", 
-            "PhysicsTools/NanoAOD/python/nano_cff.py", 
-            "PhysicsTools/NanoAOD/python/taus_cff.py", 
-            "PhysicsTools/NanoAOD/python/taus_updatedMVAIds_cff.py", 
-            "RecoTauTag/Configuration/python/loadRecoTauTagMVAsFromPrepDB_cfi.py", 
-            "RecoTauTag/Configuration/python/tools/adaptToRunAtMiniAOD.py", 
-            "RecoTauTag/RecoTau/python/tools/runTauIdMVA.py", 
-            "RecoTauTag/RecoTau/test/rerunMVAIsolationOnMiniAOD.py", 
-            "RecoTauTag/RecoTau/test/runDeepTauIDsOnMiniAOD.py"
-        ], 
-        "created_at": 1712842480, 
-        "number": 44715, 
-        "state": "open", 
-        "updated_at": 1712898847
-    }, 
     "44716": {
         "base_branch": "CMSSW_14_0_X", 
         "changed_files_names": [
