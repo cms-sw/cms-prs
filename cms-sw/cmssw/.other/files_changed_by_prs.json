@@ -5618,5 +5618,16 @@
         "number": 44742, 
         "state": "open", 
         "updated_at": 1713185798
+    }, 
+    "44745": {
+        "base_branch": "CMSSW_10_6_X", 
+        "changed_files_names": [
+            "GeneratorInterface/GenFilters/plugins/LHEmttFilter.cc", 
+            "GeneratorInterface/GenFilters/python/LHEmttFilter_cfi.py"
+        ], 
+        "created_at": 1713205381, 
+        "number": 44745, 
+        "state": "open", 
+        "updated_at": 1713205411
     }
 }
