@@ -5438,12 +5438,14 @@
     "44730": {
         "base_branch": "master", 
         "changed_files_names": [
-            "HeterogeneousCore/AlpakaInterface/interface/CachingAllocator.h"
+            "HeterogeneousCore/AlpakaInterface/interface/CachingAllocator.h", 
+            "HeterogeneousCore/AlpakaInterface/test/BuildFile.xml", 
+            "HeterogeneousCore/AlpakaInterface/test/alpaka/testBuffer.dev.cc"
         ], 
         "created_at": 1712937996, 
         "number": 44730, 
         "state": "open", 
-        "updated_at": 1712938685
+        "updated_at": 1713272390
     }, 
     "44732": {
         "base_branch": "master", 
