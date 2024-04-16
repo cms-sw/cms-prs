@@ -760,11 +760,7 @@
             "TauAnalysis/MCEmbeddingTools/plugins/CaloCleaner.h", 
             "TauAnalysis/MCEmbeddingTools/plugins/CollectionMerger.cc", 
             "TauAnalysis/MCEmbeddingTools/plugins/CollectionMerger.h", 
-            "TauAnalysis/MCEmbeddingTools/plugins/DYToElElGenFilter.cc", 
-            "TauAnalysis/MCEmbeddingTools/plugins/DYToElTauGenFilter.cc", 
             "TauAnalysis/MCEmbeddingTools/plugins/DYToMuMuGenFilter.cc", 
-            "TauAnalysis/MCEmbeddingTools/plugins/DYToMuTauGenFilter.cc", 
-            "TauAnalysis/MCEmbeddingTools/plugins/DYToTauTauGenFilter.cc", 
             "TauAnalysis/MCEmbeddingTools/plugins/DoubleCollectionMerger.cc", 
             "TauAnalysis/MCEmbeddingTools/plugins/DoubleCollectionMerger.h", 
             "TauAnalysis/MCEmbeddingTools/plugins/EmbeddingBeamSpotOnlineProducer.cc", 
@@ -779,10 +775,7 @@
             "TauAnalysis/MCEmbeddingTools/plugins/TrackMergeremb.h", 
             "TauAnalysis/MCEmbeddingTools/plugins/TrackerCleaner.cc", 
             "TauAnalysis/MCEmbeddingTools/plugins/TrackerCleaner.h", 
-            "TauAnalysis/MCEmbeddingTools/python/DYToElElGenFilter_cfi.py", 
-            "TauAnalysis/MCEmbeddingTools/python/DYToElTauGenFilter_cfi.py", 
-            "TauAnalysis/MCEmbeddingTools/python/DYToMuTauGenFilter_cfi.py", 
-            "TauAnalysis/MCEmbeddingTools/python/DYToTauTauGenFilter_cfi.py", 
+            "TauAnalysis/MCEmbeddingTools/python/DYToMuMuGenFilter_cfi.py", 
             "TauAnalysis/MCEmbeddingTools/python/EmbeddingBeamSpotOnline_cfi.py", 
             "TauAnalysis/MCEmbeddingTools/python/EmbeddingHltPixelVerticesProducer_cfi.py", 
             "TauAnalysis/MCEmbeddingTools/python/EmbeddingLHEProducer_cfi.py", 
@@ -798,7 +791,7 @@
         "created_at": 1707145515, 
         "number": 43871, 
         "state": "open", 
-        "updated_at": 1711645049
+        "updated_at": 1713248680
     }, 
     "43914": {
         "base_branch": "master", 
