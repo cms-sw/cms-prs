@@ -4990,19 +4990,18 @@
             "FWCore/Integration/plugins/BuildFile.xml",
             "FWCore/Integration/plugins/ExceptionThrowingProducer.cc",
             "FWCore/Integration/plugins/TestServiceOne.cc",
+            "FWCore/Integration/plugins/TestServiceOne.h",
             "FWCore/Integration/plugins/TestServiceTwo.cc",
+            "FWCore/Integration/plugins/TestServiceTwo.h",
             "FWCore/Integration/test/run_TestFrameworkExceptionHandling.sh",
             "FWCore/Integration/test/testFrameworkExceptionHandling_cfg.py",
-            "FWCore/Utilities/interface/Signal.h",
-            "FWCore/Utilities/interface/TestServiceOneBase.h",
-            "FWCore/Utilities/interface/TestServiceTwoBase.h",
-            "FWCore/Utilities/src/TestServiceOneBase.cc",
-            "FWCore/Utilities/src/TestServiceTwoBase.cc"
+            "FWCore/ServiceRegistry/interface/ServiceRegistryfwd.h",
+            "FWCore/Utilities/interface/Signal.h"
         ],
         "created_at": 1712252357,
         "number": 44624,
         "state": "open",
-        "updated_at": 1712944186
+        "updated_at": 1713376082
     },
     "44632": {
         "base_branch": "master",
