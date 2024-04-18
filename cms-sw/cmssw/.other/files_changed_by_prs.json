@@ -4498,6 +4498,8 @@
     "44560": {
         "base_branch": "master",
         "changed_files_names": [
+            "DataFormats/DetId/src/classes.h",
+            "DataFormats/DetId/src/classes_def.xml",
             "DataFormats/HGCRecHit/src/classes_def.xml",
             "RecoEgamma/EgammaTools/interface/EgammaPCAHelper.h",
             "RecoEgamma/EgammaTools/interface/HGCalEgammaIDHelper.h",
@@ -4582,7 +4584,7 @@
         "created_at": 1711555105,
         "number": 44560,
         "state": "open",
-        "updated_at": 1712652077
+        "updated_at": 1713415673
     },
     "44569": {
         "base_branch": "master",
