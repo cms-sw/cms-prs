@@ -5768,5 +5768,20 @@
         "number": 44772,
         "state": "open",
         "updated_at": 1713433166
+    },
+    "44773": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/CommonTopologies/interface/SimplePixelTopology.h",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToClusterKernel.dev.cc",
+            "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelRecHitKernels.dev.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernels.dev.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernels.h",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAStructures.h"
+        ],
+        "created_at": 1713444978,
+        "number": 44773,
+        "state": "open",
+        "updated_at": 1713445002
     }
 }
