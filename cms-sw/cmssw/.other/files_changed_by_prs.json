@@ -5126,23 +5126,6 @@
         "state": "open",
         "updated_at": 1713538210
     },
-    "44714": {
-        "base_branch": "CMSSW_14_0_X",
-        "changed_files_names": [
-            "HeterogeneousCore/AlpakaInterface/interface/workdivision.h",
-            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlgo.dev.cc",
-            "RecoLocalCalo/EcalRecProducers/plugins/alpaka/AmplitudeComputationCommonKernels.h",
-            "RecoLocalCalo/EcalRecProducers/plugins/alpaka/AmplitudeComputationKernels.dev.cc",
-            "RecoLocalCalo/EcalRecProducers/plugins/alpaka/TimeComputationKernels.h",
-            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFClusterECLCC.h",
-            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFClusterSoAProducerKernel.dev.cc",
-            "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/PFRecHitProducerKernel.dev.cc"
-        ],
-        "created_at": 1712842087,
-        "number": 44714,
-        "state": "open",
-        "updated_at": 1713544622
-    },
     "44732": {
         "base_branch": "master",
         "changed_files_names": [
