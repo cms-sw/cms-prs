@@ -5314,6 +5314,9 @@
             "DataFormats/Candidate/src/classes_def.xml",
             "PhysicsTools/NanoAOD/interface/SimpleFlatTableProducer.h",
             "PhysicsTools/NanoAOD/plugins/SimpleFlatTableProducerPlugins.cc",
+            "PhysicsTools/NanoAOD/plugins/SimpleL1TFlatTableProducerPlugins.cc",
+            "PhysicsTools/NanoAOD/plugins/SimplePATFlatTableProducerPlugins.cc",
+            "PhysicsTools/NanoAOD/plugins/SimpleScoutingFlatTableProducerPlugins.cc",
             "PhysicsTools/NanoAOD/plugins/VertexTableProducer.cc",
             "PhysicsTools/NanoAOD/python/boostedTaus_cff.py",
             "PhysicsTools/NanoAOD/python/btvMC_cff.py",
@@ -5342,7 +5345,7 @@
         "created_at": 1713480343,
         "number": 44782,
         "state": "open",
-        "updated_at": 1713535903
+        "updated_at": 1713816726
     },
     "44784": {
         "base_branch": "master",
