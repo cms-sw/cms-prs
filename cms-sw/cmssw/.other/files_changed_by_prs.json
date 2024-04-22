@@ -5595,6 +5595,7 @@
             "DataFormats/HGCalReco/src/classes.h",
             "DataFormats/HGCalReco/src/classes_def.xml",
             "DataFormats/TrackReco/src/classes_def.xml",
+            "DataFormats/WrappedStdDictionaries/src/classes_def.xml",
             "Fireworks/Calo/plugins/FWCaloClusterProxyBuilder.cc",
             "HLTrigger/Configuration/python/HLT_75e33/modules/HGCalUncalibRecHitL1Seeded_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/HGCalUncalibRecHit_cfi.py",
@@ -5689,7 +5690,7 @@
         "created_at": 1713532003,
         "number": 44785,
         "state": "open",
-        "updated_at": 1713686446
+        "updated_at": 1713770550
     },
     "44787": {
         "base_branch": "master",
