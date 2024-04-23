@@ -5558,30 +5558,6 @@
         "state": "open",
         "updated_at": 1713848746
     },
-    "44802": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "CondFormats/SiPixelObjects/interface/alpaka/SiPixelGainCalibrationForHLTUtilities.h",
-            "DataFormats/SiPixelClusterSoA/test/alpaka/Clusters_test.dev.cc",
-            "DataFormats/SiPixelDigiSoA/test/alpaka/DigiErrors_test.dev.cc",
-            "DataFormats/SiPixelDigiSoA/test/alpaka/Digis_test.dev.cc",
-            "DataFormats/VertexSoA/test/alpaka/ZVertexSoA_test.dev.cc",
-            "HeterogeneousCore/AlpakaInterface/test/alpaka/testAtomicPairCounter.dev.cc",
-            "HeterogeneousCore/AlpakaInterface/test/alpaka/testBuffer.dev.cc",
-            "HeterogeneousCore/AlpakaInterface/test/alpaka/testOneRadixSort.dev.cc",
-            "HeterogeneousCore/AlpakaInterface/test/alpaka/testRadixSort.dev.cc",
-            "HeterogeneousCore/AlpakaInterface/test/alpaka/testWorkDivision.dev.cc",
-            "RecoLocalCalo/EcalRecProducers/plugins/alpaka/TimeComputationKernels.h",
-            "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelRecHitKernels.dev.cc",
-            "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelRecHits.h",
-            "RecoTracker/PixelSeeding/plugins/alpaka/CACell.h",
-            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernels.h"
-        ],
-        "created_at": 1713799961,
-        "number": 44802,
-        "state": "open",
-        "updated_at": 1713799984
-    },
     "44803": {
         "base_branch": "master",
         "changed_files_names": [
