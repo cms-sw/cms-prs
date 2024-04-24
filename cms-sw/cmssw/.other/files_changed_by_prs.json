@@ -5730,5 +5730,26 @@
         "number": 44840,
         "state": "open",
         "updated_at": 1713968795
+    },
+    "44841": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HeterogeneousCore/AlpakaCore/README.md",
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/EDMetadata.h",
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/EDMetadataSentry.h",
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/Event.h",
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/global/EDProducer.h",
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/stream/EDProducer.h",
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/stream/SynchronizingEDProducer.h",
+            "HeterogeneousCore/AlpakaCore/src/alpaka/EDMetadata.cc",
+            "HeterogeneousCore/AlpakaCore/src/alpaka/EDMetadataSentry.cc",
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaGlobalProducerNoOutput.cc",
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamSynchronizingProducerToDevice.cc",
+            "HeterogeneousCore/AlpakaTest/test/testAlpakaModules_cfg.py"
+        ],
+        "created_at": 1713973690,
+        "number": 44841,
+        "state": "open",
+        "updated_at": 1713973719
     }
 }
