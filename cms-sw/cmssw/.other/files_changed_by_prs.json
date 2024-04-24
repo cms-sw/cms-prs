@@ -5704,5 +5704,30 @@
         "number": 44839,
         "state": "open",
         "updated_at": 1713961485
+    },
+    "44840": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Framework/interface/GlobalSchedule.h",
+            "FWCore/Framework/interface/maker/Worker.h",
+            "FWCore/Framework/src/EventProcessor.cc",
+            "FWCore/Framework/src/GlobalSchedule.cc",
+            "FWCore/Framework/test/global_filter_t.cppunit.cc",
+            "FWCore/Framework/test/global_producer_t.cppunit.cc",
+            "FWCore/Framework/test/limited_filter_t.cppunit.cc",
+            "FWCore/Framework/test/limited_producer_t.cppunit.cc",
+            "FWCore/Framework/test/stream_filter_t.cppunit.cc",
+            "FWCore/Framework/test/stream_producer_t.cppunit.cc",
+            "FWCore/Integration/plugins/ExceptionThrowingProducer.cc",
+            "FWCore/Integration/plugins/TestServiceOne.cc",
+            "FWCore/Integration/plugins/TestServiceOne.h",
+            "FWCore/Integration/plugins/TestServiceTwo.cc",
+            "FWCore/Integration/plugins/TestServiceTwo.h",
+            "FWCore/Integration/test/testFrameworkExceptionHandling_cfg.py"
+        ],
+        "created_at": 1713968771,
+        "number": 44840,
+        "state": "open",
+        "updated_at": 1713968795
     }
 }
