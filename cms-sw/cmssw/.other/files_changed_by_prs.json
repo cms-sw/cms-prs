@@ -5546,5 +5546,22 @@
         "number": 44843,
         "state": "open",
         "updated_at": 1713979504
+    },
+    "44844": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/Portable/interface/PortableCollection.h",
+            "DataFormats/Portable/interface/PortableDeviceCollection.h",
+            "DataFormats/Portable/interface/PortableHostCollection.h",
+            "DataFormats/Portable/test/BuildFile.xml",
+            "DataFormats/Portable/test/alpaka/test_catch2_main.cc",
+            "DataFormats/Portable/test/alpaka/test_catch2_portableCollection.dev.cc",
+            "DataFormats/Portable/test/test_catch2_portableHostCollection.cc",
+            "DataFormats/SoATemplate/test/SoAUnitTests.cc"
+        ],
+        "created_at": 1713988289,
+        "number": 44844,
+        "state": "open",
+        "updated_at": 1713988317
     }
 }
