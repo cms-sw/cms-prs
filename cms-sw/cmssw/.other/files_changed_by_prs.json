@@ -5122,6 +5122,9 @@
     "44844": {
         "base_branch": "master",
         "changed_files_names": [
+            "DataFormats/Common/interface/DeviceProduct.h",
+            "DataFormats/Common/test/BuildFile.xml",
+            "DataFormats/Common/test/DeviceProduct_t.cpp",
             "DataFormats/Portable/interface/PortableCollection.h",
             "DataFormats/Portable/interface/PortableDeviceCollection.h",
             "DataFormats/Portable/interface/PortableHostCollection.h",
@@ -5129,12 +5132,16 @@
             "DataFormats/Portable/test/alpaka/test_catch2_main.cc",
             "DataFormats/Portable/test/alpaka/test_catch2_portableCollection.dev.cc",
             "DataFormats/Portable/test/test_catch2_portableHostCollection.cc",
-            "DataFormats/SoATemplate/test/SoAUnitTests.cc"
+            "DataFormats/SiPixelDigiSoA/interface/SiPixelDigiErrorsDevice.h",
+            "DataFormats/SiPixelDigiSoA/interface/SiPixelDigisDevice.h",
+            "DataFormats/SoATemplate/test/SoAUnitTests.cc",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelPhase2DigiToCluster.cc",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToCluster.cc"
         ],
         "created_at": 1713988289,
         "number": 44844,
         "state": "open",
-        "updated_at": 1714155981
+        "updated_at": 1714591814
     },
     "44846": {
         "base_branch": "master",
