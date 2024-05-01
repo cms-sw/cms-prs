@@ -719,27 +719,6 @@
         "state": "open",
         "updated_at": 1707846798
     },
-    "43786": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "FastSimulation/ParticleDecay/interface/PythiaDecays.h",
-            "FastSimulation/ParticleDecay/src/PythiaDecays.cc",
-            "FastSimulation/SimplifiedGeometryPropagator/interface/Decayer.h",
-            "FastSimulation/SimplifiedGeometryPropagator/src/Decayer.cc",
-            "GeneratorInterface/Pythia8Interface/interface/P8RndmEngine.h",
-            "GeneratorInterface/Pythia8Interface/interface/Py8HMC3InterfaceBase.h",
-            "GeneratorInterface/Pythia8Interface/interface/Py8InterfaceBase.h",
-            "GeneratorInterface/Pythia8Interface/plugins/PowhegHooksBB4L.h",
-            "GeneratorInterface/Pythia8Interface/plugins/SuepDecay.cc",
-            "GeneratorInterface/Pythia8Interface/src/Py8HMC3InterfaceBase.cc",
-            "GeneratorInterface/Pythia8Interface/src/Py8InterfaceBase.cc",
-            "TauAnalysis/MCEmbeddingTools/python/EmbeddingPythia8Hadronizer_cfi.py"
-        ],
-        "created_at": 1706189590,
-        "number": 43786,
-        "state": "open",
-        "updated_at": 1714049212
-    },
     "43836": {
         "base_branch": "master",
         "changed_files_names": [
