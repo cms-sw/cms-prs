@@ -5642,5 +5642,22 @@
         "number": 44900,
         "state": "open",
         "updated_at": 1714741794
+    },
+    "44901": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Concurrency/interface/async.h",
+            "FWCore/Concurrency/src/async.cc",
+            "FWCore/Concurrency/test/test_catch2_async.cc",
+            "HeterogeneousCore/AlpakaCore/interface/EventCache.h",
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/EDMetadata.h",
+            "HeterogeneousCore/AlpakaCore/src/alpaka/EDMetadata.cc",
+            "HeterogeneousCore/CUDACore/src/ScopedContext.cc",
+            "HeterogeneousCore/CUDAUtilities/src/EventCache.cc"
+        ],
+        "created_at": 1714746608,
+        "number": 44901,
+        "state": "open",
+        "updated_at": 1714746635
     }
 }
