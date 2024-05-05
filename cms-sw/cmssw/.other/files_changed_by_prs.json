@@ -5756,5 +5756,19 @@
         "number": 44903,
         "state": "open",
         "updated_at": 1714827064
+    },
+    "44904": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/TrackCandidate/interface/TrajectoryStopReasons.h",
+            "TrackingTools/PatternTools/interface/TempTrajectory.h",
+            "TrackingTools/PatternTools/interface/Trajectory.h",
+            "TrackingTools/PatternTools/src/TempTrajectory.cc",
+            "TrackingTools/PatternTools/test/TrajSizes_t.cpp"
+        ],
+        "created_at": 1714905539,
+        "number": 44904,
+        "state": "open",
+        "updated_at": 1714905561
     }
 }
