@@ -5765,6 +5765,7 @@
             "RecoTracker/CkfPattern/interface/CkfTrajectoryBuilder.h",
             "RecoTracker/CkfPattern/plugins/GroupedCkfTrajectoryBuilder.cc",
             "RecoTracker/CkfPattern/plugins/GroupedCkfTrajectoryBuilder.h",
+            "RecoTracker/CkfPattern/plugins/TrajectorySegmentBuilder.cc",
             "RecoTracker/CkfPattern/src/CkfTrackCandidateMakerBase.cc",
             "RecoTracker/CkfPattern/src/CkfTrajectoryBuilder.cc",
             "TrackingTools/PatternTools/interface/TempTrajectory.h",
@@ -5775,7 +5776,7 @@
         "created_at": 1714905539,
         "number": 44904,
         "state": "open",
-        "updated_at": 1714991027
+        "updated_at": 1715065833
     },
     "44905": {
         "base_branch": "master",
