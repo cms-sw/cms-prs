@@ -5454,6 +5454,9 @@
             "DataFormats/HcalDigi/interface/alpaka/HcalDigiDeviceCollection.h",
             "DataFormats/HcalDigi/src/alpaka/classes_cuda.h",
             "DataFormats/HcalDigi/src/alpaka/classes_cuda_def.xml",
+            "DataFormats/HcalDigi/src/alpaka/classes_rocm.h",
+            "DataFormats/HcalDigi/src/alpaka/classes_rocm_def.xml",
+            "DataFormats/HcalDigi/src/classes.cc",
             "DataFormats/HcalDigi/src/classes.h",
             "DataFormats/HcalDigi/src/classes_def.xml",
             "DataFormats/HcalRecHit/BuildFile.xml",
@@ -5462,6 +5465,9 @@
             "DataFormats/HcalRecHit/interface/alpaka/HcalRecHitDeviceCollection.h",
             "DataFormats/HcalRecHit/src/alpaka/classes_cuda.h",
             "DataFormats/HcalRecHit/src/alpaka/classes_cuda_def.xml",
+            "DataFormats/HcalRecHit/src/alpaka/classes_rocm.h",
+            "DataFormats/HcalRecHit/src/alpaka/classes_rocm_def.xml",
+            "DataFormats/HcalRecHit/src/classes.cc",
             "DataFormats/HcalRecHit/src/classes.h",
             "DataFormats/HcalRecHit/src/classes_def.xml",
             "EventFilter/HcalRawToDigi/plugins/BuildFile.xml",
@@ -5486,7 +5492,7 @@
         "created_at": 1715011332,
         "number": 44910,
         "state": "open",
-        "updated_at": 1715011363
+        "updated_at": 1715280269
     },
     "44911": {
         "base_branch": "master",
