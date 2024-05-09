@@ -5075,24 +5075,6 @@
         "state": "open",
         "updated_at": 1714759390
     },
-    "44874": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DataFormats/SiPixelDigiSoA/interface/SiPixelDigisDevice.h",
-            "DataFormats/SiPixelDigiSoA/interface/SiPixelDigisHost.h",
-            "DataFormats/SiPixelDigiSoA/interface/alpaka/SiPixelDigisSoACollection.h",
-            "DataFormats/SiPixelDigiSoA/src/classes_def.xml",
-            "Geometry/CommonTopologies/interface/SimplePixelTopology.h",
-            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/ClusterChargeCut.h",
-            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelPhase2DigiToCluster.cc",
-            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToClusterKernel.dev.cc",
-            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToClusterKernel.h"
-        ],
-        "created_at": 1714463576,
-        "number": 44874,
-        "state": "open",
-        "updated_at": 1714985866
-    },
     "44892": {
         "base_branch": "master",
         "changed_files_names": [
