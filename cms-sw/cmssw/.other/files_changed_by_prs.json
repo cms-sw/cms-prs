@@ -5594,5 +5594,19 @@
         "number": 44949,
         "state": "open",
         "updated_at": 1715343331
+    },
+    "44950": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Framework/interface/ESSourceProductResolverBase.h",
+            "FWCore/Framework/interface/Principal.h",
+            "FWCore/Framework/src/ESSourceProductResolverBase.cc",
+            "FWCore/Framework/src/Principal.cc",
+            "FWCore/Framework/src/ProductResolvers.cc"
+        ],
+        "created_at": 1715344217,
+        "number": 44950,
+        "state": "open",
+        "updated_at": 1715344241
     }
 }
