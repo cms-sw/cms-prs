@@ -5577,12 +5577,15 @@
             "HLTrigger/Configuration/test/OnLine_HLT_PIon.py",
             "HLTrigger/Configuration/test/OnLine_HLT_PRef.py",
             "HLTrigger/Configuration/test/OnLine_HLT_Special.py",
-            "HLTrigger/Configuration/test/getFrozenHLT.sh"
+            "HLTrigger/Configuration/test/cmsDriver.csh",
+            "HLTrigger/Configuration/test/getFrozenHLT.sh",
+            "HLTrigger/Configuration/test/runIntegration.csh",
+            "HLTrigger/Configuration/test/runOne.csh"
         ],
         "created_at": 1715343242,
         "number": 44949,
         "state": "open",
-        "updated_at": 1715343331
+        "updated_at": 1715366890
     },
     "44950": {
         "base_branch": "master",
