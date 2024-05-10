@@ -5193,6 +5193,7 @@
             "CondFormats/HcalObjects/interface/HcalMahiPulseOffsetsSoA.h",
             "CondFormats/HcalObjects/interface/HcalRecoParamWithPulseShapeHost.h",
             "CondFormats/HcalObjects/interface/HcalRecoParamWithPulseShapeSoA.h",
+            "CondFormats/HcalObjects/interface/HcalRecoParamWithPulseShapeT.h",
             "CondFormats/HcalObjects/interface/HcalSiPMCharacteristicsHost.h",
             "CondFormats/HcalObjects/interface/HcalSiPMCharacteristicsSoA.h",
             "CondFormats/HcalObjects/interface/alpaka/HcalMahiConditionsDevice.h",
@@ -5238,7 +5239,6 @@
             "RecoLocalCalo/Configuration/python/hcalLocalReco_cff.py",
             "RecoLocalCalo/HcalRecAlgos/plugins/BuildFile.xml",
             "RecoLocalCalo/HcalRecAlgos/plugins/alpaka/HcalRecoParamsWithPulseShapesESProducer.cc",
-            "RecoLocalCalo/HcalRecProducers/BuildFile.xml",
             "RecoLocalCalo/HcalRecProducers/plugins/BuildFile.xml",
             "RecoLocalCalo/HcalRecProducers/plugins/alpaka/HBHERecHitProducerPortable.cc",
             "RecoLocalCalo/HcalRecProducers/plugins/alpaka/HcalMahiConditionsESProducer.cc",
@@ -5246,14 +5246,13 @@
             "RecoLocalCalo/HcalRecProducers/plugins/alpaka/HcalSiPMCharacteristicsESProducer.cc",
             "RecoLocalCalo/HcalRecProducers/plugins/alpaka/Mahi.dev.cc",
             "RecoLocalCalo/HcalRecProducers/plugins/alpaka/Mahi.h",
-            "RecoLocalCalo/HcalRecProducers/python/hbheRecHitProducerGPUTask_cff.py",
             "RecoLocalCalo/HcalRecProducers/python/hbheRecHitProducerPortableTask_cff.py",
             "RecoLocalCalo/HcalRecProducers/src/HcalRecHitSoAToLegacy.cc"
         ],
         "created_at": 1715011332,
         "number": 44910,
         "state": "open",
-        "updated_at": 1715280269
+        "updated_at": 1715358678
     },
     "44911": {
         "base_branch": "master",
