@@ -5630,5 +5630,17 @@
         "number": 44954,
         "state": "open",
         "updated_at": 1715411687
+    },
+    "44955": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "EventFilter/HcalRawToDigi/plugins/BuildFile.xml",
+            "EventFilter/HcalRawToDigi/plugins/HBHEstuckADCfilter.cc",
+            "EventFilter/HcalRawToDigi/python/HBHEstuckADCfilter_cfi.py"
+        ],
+        "created_at": 1715491829,
+        "number": 44955,
+        "state": "open",
+        "updated_at": 1715491857
     }
 }
