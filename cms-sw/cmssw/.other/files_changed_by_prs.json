@@ -5051,42 +5051,6 @@
         "state": "open",
         "updated_at": 1715273577
     },
-    "44893": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "L1Trigger/L1TMuonOverlapPhase1/interface/Omtf/AlgoMuon.h",
-            "L1Trigger/L1TMuonOverlapPhase1/interface/StubResult.h",
-            "L1Trigger/L1TMuonOverlapPhase1/interface/Tools/CandidateSimMuonMatcher.h",
-            "L1Trigger/L1TMuonOverlapPhase1/interface/Tools/DataROOTDumper2.h",
-            "L1Trigger/L1TMuonOverlapPhase1/interface/Tools/PatternOptimizerBase.h",
-            "L1Trigger/L1TMuonOverlapPhase1/python/fakeOmtfParams_extrapolSimple_cff.py",
-            "L1Trigger/L1TMuonOverlapPhase1/python/simOmtfDigis_cfi.py",
-            "L1Trigger/L1TMuonOverlapPhase1/python/simOmtfDigis_extrapolSimple_cfi.py",
-            "L1Trigger/L1TMuonOverlapPhase1/src/MuonStubMakerBase.cc",
-            "L1Trigger/L1TMuonOverlapPhase1/src/Omtf/AlgoMuon.cc",
-            "L1Trigger/L1TMuonOverlapPhase1/src/Omtf/GhostBusterPreferRefDt.cc",
-            "L1Trigger/L1TMuonOverlapPhase1/src/Omtf/GoldenPatternResult.cc",
-            "L1Trigger/L1TMuonOverlapPhase1/src/Omtf/OMTFConfiguration.cc",
-            "L1Trigger/L1TMuonOverlapPhase1/src/Omtf/OMTFProcessor.cc",
-            "L1Trigger/L1TMuonOverlapPhase1/src/Omtf/OMTFReconstruction.cc",
-            "L1Trigger/L1TMuonOverlapPhase1/src/Omtf/OMTFSorter.cc",
-            "L1Trigger/L1TMuonOverlapPhase1/src/Omtf/OMTFinput.cc",
-            "L1Trigger/L1TMuonOverlapPhase1/src/Omtf/OmtfAngleConverter.cc",
-            "L1Trigger/L1TMuonOverlapPhase1/src/Omtf/XMLEventWriter.cc",
-            "L1Trigger/L1TMuonOverlapPhase1/src/Tools/CandidateSimMuonMatcher.cc",
-            "L1Trigger/L1TMuonOverlapPhase1/src/Tools/DataROOTDumper2.cc",
-            "L1Trigger/L1TMuonOverlapPhase1/src/Tools/EventCapture.cc",
-            "L1Trigger/L1TMuonOverlapPhase1/src/Tools/PatternGenerator.cc",
-            "L1Trigger/L1TMuonOverlapPhase1/src/Tools/PatternOptimizerBase.cc",
-            "L1Trigger/L1TMuonOverlapPhase1/test/expert/omtf/.gitignore",
-            "L1Trigger/L1TMuonOverlapPhase1/test/expert/omtf/runMuonOverlapPatternGenerator.py",
-            "L1Trigger/L1TMuonOverlapPhase1/test/expert/omtf/runMuonOverlapPatternGeneratorClassProb.py"
-        ],
-        "created_at": 1714666671,
-        "number": 44893,
-        "state": "open",
-        "updated_at": 1714809944
-    },
     "44900": {
         "base_branch": "master",
         "changed_files_names": [
