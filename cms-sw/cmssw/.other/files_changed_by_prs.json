@@ -5811,12 +5811,13 @@
             "L1Trigger/Phase2L1GT/test/test_GT.py",
             "PhysicsTools/NanoAOD/plugins/BuildFile.xml",
             "PhysicsTools/NanoAOD/plugins/P2GTTriggerResultsConverter.cc",
-            "RecoEgamma/EgammaHLTProducers/plugins/L1TEGammaFilteredCollectionProducer.cc"
+            "RecoEgamma/EgammaHLTProducers/plugins/L1TEGammaFilteredCollectionProducer.cc",
+            "RecoHGCal/TICL/plugins/SeedingRegionByL1.cc"
         ],
         "created_at": 1715932233,
         "number": 44995,
         "state": "open",
-        "updated_at": 1715944254
+        "updated_at": 1715951413
     },
     "44996": {
         "base_branch": "master",
