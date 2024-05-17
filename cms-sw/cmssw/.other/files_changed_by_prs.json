@@ -5714,5 +5714,37 @@
         "number": 44991,
         "state": "open",
         "updated_at": 1715888268
+    },
+    "44992": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "SimG4Core/CustomPhysics/data/particles_sexaq_1p5_GeV.txt",
+            "SimG4Core/CustomPhysics/data/particles_sexaq_1p7_GeV.txt",
+            "SimG4Core/CustomPhysics/data/particles_sexaq_1p85_GeV.txt",
+            "SimG4Core/CustomPhysics/data/particles_sexaq_1p8_GeV.txt",
+            "SimG4Core/CustomPhysics/data/particles_sexaq_1p9_GeV.txt",
+            "SimG4Core/CustomPhysics/data/particles_sexaq_2_GeV.txt",
+            "SimG4Core/CustomPhysics/data/particles_sexaq_2p1_GeV.txt",
+            "SimG4Core/CustomPhysics/interface/G4AntiSQ.h",
+            "SimG4Core/CustomPhysics/interface/G4SQ.h",
+            "SimG4Core/CustomPhysics/interface/G4SQInelasticCrossSection.h",
+            "SimG4Core/CustomPhysics/interface/G4SQInelasticProcess.h",
+            "SimG4Core/CustomPhysics/interface/G4SQLoopProcess.h",
+            "SimG4Core/CustomPhysics/interface/G4SQLoopProcessDiscr.h",
+            "SimG4Core/CustomPhysics/interface/G4SQNeutronAnnih.h",
+            "SimG4Core/CustomPhysics/src/CustomPhysicsList.cc",
+            "SimG4Core/CustomPhysics/src/G4AntiSQ.cc",
+            "SimG4Core/CustomPhysics/src/G4SQ.cc",
+            "SimG4Core/CustomPhysics/src/G4SQInelasticCrossSection.cc",
+            "SimG4Core/CustomPhysics/src/G4SQInelasticProcess.cc",
+            "SimG4Core/CustomPhysics/src/G4SQLoopProcess.cc",
+            "SimG4Core/CustomPhysics/src/G4SQLoopProcessDiscr.cc",
+            "SimG4Core/CustomPhysics/src/G4SQNeutronAnnih.cc",
+            "SimG4Core/CustomPhysics/test/Sexaquark_RunIIFall18GenSim_cfg.py"
+        ],
+        "created_at": 1715899555,
+        "number": 44992,
+        "state": "open",
+        "updated_at": 1715899581
     }
 }
