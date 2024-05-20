@@ -5728,5 +5728,17 @@
         "number": 45002,
         "state": "open",
         "updated_at": 1716217841
+    },
+    "45003": {
+        "base_branch": "CMSSW_14_0_X",
+        "changed_files_names": [
+            "DQMOffline/Trigger/python/BTaggingMonitor_cfi.py",
+            "DQMOffline/Trigger/python/BTaggingMonitoring_Client_cff.py",
+            "DQMOffline/Trigger/python/BTaggingMonitoring_cff.py"
+        ],
+        "created_at": 1716233564,
+        "number": 45003,
+        "state": "open",
+        "updated_at": 1716233595
     }
 }
