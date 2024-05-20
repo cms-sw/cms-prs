@@ -5318,27 +5318,6 @@
         "state": "open",
         "updated_at": 1715688704
     },
-    "44941": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "SimCalorimetry/Configuration/python/SimCalorimetry_EventContent_cff.py",
-            "SimDataFormats/CaloAnalysis/src/MtdSimLayerCluster.cc",
-            "SimFastTiming/Configuration/python/SimFastTiming_EventContent_cff.py",
-            "SimFastTiming/MtdAssociatorProducers/plugins/MtdRecoClusterToSimLayerClusterAssociatorEDProducer.cc",
-            "SimFastTiming/MtdAssociatorProducers/plugins/MtdSimLayerClusterToTPAssociatorEDProducer.cc",
-            "SimFastTiming/MtdAssociatorProducers/python/mtdRecoClusterToSimLayerClusterAssociation_cfi.py",
-            "SimFastTiming/MtdAssociatorProducers/python/mtdSimLayerClusterToTPAssociation_cfi.py",
-            "SimGeneral/CaloAnalysis/plugins/PreMixingMtdTruthWorker.cc",
-            "SimGeneral/CaloAnalysis/test/BuildFile.xml",
-            "SimGeneral/CaloAnalysis/test/MtdTruthDumper.cc",
-            "SimGeneral/CaloAnalysis/test/runMtdTruthDumper_cfg.py",
-            "SimGeneral/PreMixingModule/python/mixOne_premix_on_sim_cfi.py"
-        ],
-        "created_at": 1715240204,
-        "number": 44941,
-        "state": "open",
-        "updated_at": 1715665914
-    },
     "44963": {
         "base_branch": "master",
         "changed_files_names": [
