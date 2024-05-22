@@ -4762,6 +4762,8 @@
             "CondFormats/HcalObjects/src/alpaka/ES_HcalMahiPulseOffsetsDevice.cc",
             "CondFormats/HcalObjects/src/alpaka/ES_HcalRecoParamWithPulseShapeDevice.cc",
             "CondFormats/HcalObjects/src/alpaka/ES_HcalSiPMCharacteristicsDevice.cc",
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "DQM/HcalTasks/plugins/HcalGPUComparisonTask.cc",
             "DQM/HcalTasks/python/OfflineSourceSequence_pp.py",
             "DataFormats/HcalDigi/BuildFile.xml",
             "DataFormats/HcalDigi/interface/HcalDigiHostCollection.h",
@@ -4786,7 +4788,7 @@
             "DataFormats/HcalRecHit/src/classes.h",
             "DataFormats/HcalRecHit/src/classes_def.xml",
             "EventFilter/HcalRawToDigi/plugins/BuildFile.xml",
-            "EventFilter/HcalRawToDigi/plugins/alpaka/HcalDigisProducerPortable.cc",
+            "EventFilter/HcalRawToDigi/plugins/alpaka/HcalDigisSoAProducer.cc",
             "HeterogeneousCore/AlpakaInterface/interface/atomicMaxPair.h",
             "RecoLocalCalo/Configuration/python/hcalGlobalReco_cff.py",
             "RecoLocalCalo/Configuration/python/hcalLocalReco_cff.py",
@@ -4805,7 +4807,7 @@
         "created_at": 1715011332,
         "number": 44910,
         "state": "open",
-        "updated_at": 1715706994
+        "updated_at": 1716398597
     },
     "44911": {
         "base_branch": "master",
