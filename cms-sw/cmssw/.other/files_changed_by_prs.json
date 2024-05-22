@@ -5644,5 +5644,35 @@
         "number": 45015,
         "state": "open",
         "updated_at": 1716363381
+    },
+    "45016": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondCore/SiStripPlugins/plugins/plugin.cc",
+            "CondFormats/DataRecord/interface/DeDxCalibrationRcd.h",
+            "CondFormats/DataRecord/interface/SiStripCondDataRecords.h",
+            "CondFormats/DataRecord/src/DeDxCalibrationRcd.cc",
+            "CondFormats/SiStripObjects/interface/DeDxCalibration.h",
+            "CondFormats/SiStripObjects/src/DeDxCalibration.cc",
+            "CondFormats/SiStripObjects/src/T_EventSetup_SiStrip.cc",
+            "CondFormats/SiStripObjects/src/headers.h",
+            "DataFormats/TrackReco/interface/DeDxHit.h",
+            "DataFormats/TrackReco/interface/DeDxHitInfo.h",
+            "DataFormats/TrackReco/src/classes_def.xml",
+            "RecoTracker/Configuration/python/RecoTracker_EventContent_cff.py",
+            "RecoTracker/DeDx/BuildFile.xml",
+            "RecoTracker/DeDx/interface/LikelihoodFitDeDxEstimator.h",
+            "RecoTracker/DeDx/plugins/DeDxCalibrationDbCreator.cc",
+            "RecoTracker/DeDx/plugins/DeDxEstimatorProducer.cc",
+            "RecoTracker/DeDx/plugins/DeDxEstimatorProducer.h",
+            "RecoTracker/DeDx/plugins/DeDxHitCalibrator.cc",
+            "RecoTracker/DeDx/plugins/DeDxHitInfoProducer.cc",
+            "RecoTracker/DeDx/python/dedxCalibrationDbCreation.py",
+            "RecoTracker/DeDx/python/dedxEstimators_cff.py"
+        ],
+        "created_at": 1716380396,
+        "number": 45016,
+        "state": "open",
+        "updated_at": 1716380427
     }
 }
