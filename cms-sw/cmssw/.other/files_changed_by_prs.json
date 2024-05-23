@@ -5451,5 +5451,22 @@
         "number": 45022,
         "state": "open",
         "updated_at": 1716459954
+    },
+    "45023": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py",
+            "RecoEgamma/EgammaPhotonProducers/python/trajectoryBuilderForConversions_cfi.py",
+            "RecoMuon/L3TrackFinder/python/MuonCkfTrajectoryBuilder_cfi.py",
+            "RecoTracker/CkfPattern/interface/CkfTrajectoryBuilder.h",
+            "RecoTracker/CkfPattern/plugins/TrajectoryLessByFoundHits.h",
+            "RecoTracker/CkfPattern/plugins/TrajectorySegmentBuilder.cc",
+            "RecoTracker/CkfPattern/python/CkfTrajectoryBuilder_cfi.py",
+            "RecoTracker/CkfPattern/src/CkfTrajectoryBuilder.cc"
+        ],
+        "created_at": 1716463315,
+        "number": 45023,
+        "state": "open",
+        "updated_at": 1716463341
     }
 }
