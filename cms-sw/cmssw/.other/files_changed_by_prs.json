@@ -5468,5 +5468,28 @@
         "number": 45023,
         "state": "open",
         "updated_at": 1716463341
+    },
+    "45024": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondCore/PhysicsToolsPlugins/src/plugin.cc",
+            "CondCore/Utilities/plugins/Module_2XML.cc",
+            "CondCore/Utilities/src/CondDBFetch.cc",
+            "CondCore/Utilities/src/CondDBImport.cc",
+            "CondCore/Utilities/src/CondFormats.h",
+            "CondFormats/DataRecord/interface/DeDxCalibrationRcd.h",
+            "CondFormats/DataRecord/src/DeDxCalibrationRcd.cc",
+            "CondFormats/PhysicsToolsObjects/interface/DeDxCalibration.h",
+            "CondFormats/PhysicsToolsObjects/src/DeDxCalibration.cc",
+            "CondFormats/PhysicsToolsObjects/src/T_EventSetup_DeDx.cc",
+            "CondFormats/PhysicsToolsObjects/src/headers.h",
+            "CondTools/DeDx/plugins/BuildFile.xml",
+            "CondTools/DeDx/plugins/DeDxCalibrationDbCreator.cc",
+            "CondTools/DeDx/test/dedxCalibrationDbCreation.py"
+        ],
+        "created_at": 1716466817,
+        "number": 45024,
+        "state": "open",
+        "updated_at": 1716466843
     }
 }
