@@ -5337,35 +5337,22 @@
     "45016": {
         "base_branch": "master",
         "changed_files_names": [
-            "CondCore/PhysicsToolsPlugins/src/plugin.cc",
-            "CondCore/Utilities/plugins/Module_2XML.cc",
-            "CondCore/Utilities/src/CondDBFetch.cc",
-            "CondCore/Utilities/src/CondDBImport.cc",
-            "CondCore/Utilities/src/CondFormats.h",
-            "CondFormats/DataRecord/interface/DeDxCalibrationRcd.h",
-            "CondFormats/DataRecord/src/DeDxCalibrationRcd.cc",
-            "CondFormats/PhysicsToolsObjects/interface/DeDxCalibration.h",
-            "CondFormats/PhysicsToolsObjects/src/DeDxCalibration.cc",
-            "CondFormats/PhysicsToolsObjects/src/T_EventSetup_DeDx.cc",
-            "CondFormats/PhysicsToolsObjects/src/headers.h",
             "DataFormats/TrackReco/interface/DeDxHit.h",
             "DataFormats/TrackReco/interface/DeDxHitInfo.h",
             "DataFormats/TrackReco/src/classes_def.xml",
             "RecoTracker/Configuration/python/RecoTracker_EventContent_cff.py",
             "RecoTracker/DeDx/BuildFile.xml",
             "RecoTracker/DeDx/interface/LikelihoodFitDeDxEstimator.h",
-            "RecoTracker/DeDx/plugins/DeDxCalibrationDbCreator.cc",
             "RecoTracker/DeDx/plugins/DeDxEstimatorProducer.cc",
             "RecoTracker/DeDx/plugins/DeDxEstimatorProducer.h",
             "RecoTracker/DeDx/plugins/DeDxHitCalibrator.cc",
             "RecoTracker/DeDx/plugins/DeDxHitInfoProducer.cc",
-            "RecoTracker/DeDx/python/dedxEstimators_cff.py",
-            "RecoTracker/DeDx/test/dedxCalibrationDbCreation.py"
+            "RecoTracker/DeDx/python/dedxEstimators_cff.py"
         ],
         "created_at": 1716380396,
         "number": 45016,
         "state": "open",
-        "updated_at": 1716451183
+        "updated_at": 1716467627
     },
     "45017": {
         "base_branch": "master",
