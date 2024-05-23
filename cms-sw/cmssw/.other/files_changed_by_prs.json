@@ -5337,18 +5337,17 @@
     "45016": {
         "base_branch": "master",
         "changed_files_names": [
-            "CondCore/SiStripPlugins/plugins/plugin.cc",
+            "CondCore/PhysicsToolsPlugins/src/plugin.cc",
             "CondCore/Utilities/plugins/Module_2XML.cc",
             "CondCore/Utilities/src/CondDBFetch.cc",
             "CondCore/Utilities/src/CondDBImport.cc",
             "CondCore/Utilities/src/CondFormats.h",
             "CondFormats/DataRecord/interface/DeDxCalibrationRcd.h",
-            "CondFormats/DataRecord/interface/SiStripCondDataRecords.h",
             "CondFormats/DataRecord/src/DeDxCalibrationRcd.cc",
-            "CondFormats/SiStripObjects/interface/DeDxCalibration.h",
-            "CondFormats/SiStripObjects/src/DeDxCalibration.cc",
-            "CondFormats/SiStripObjects/src/T_EventSetup_SiStrip.cc",
-            "CondFormats/SiStripObjects/src/headers.h",
+            "CondFormats/PhysicsToolsObjects/interface/DeDxCalibration.h",
+            "CondFormats/PhysicsToolsObjects/src/DeDxCalibration.cc",
+            "CondFormats/PhysicsToolsObjects/src/T_EventSetup_DeDx.cc",
+            "CondFormats/PhysicsToolsObjects/src/headers.h",
             "DataFormats/TrackReco/interface/DeDxHit.h",
             "DataFormats/TrackReco/interface/DeDxHitInfo.h",
             "DataFormats/TrackReco/src/classes_def.xml",
@@ -5366,7 +5365,7 @@
         "created_at": 1716380396,
         "number": 45016,
         "state": "open",
-        "updated_at": 1716421634
+        "updated_at": 1716451183
     },
     "45017": {
         "base_branch": "master",
