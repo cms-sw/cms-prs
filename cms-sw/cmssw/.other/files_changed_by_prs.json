@@ -5338,6 +5338,10 @@
         "base_branch": "master",
         "changed_files_names": [
             "CondCore/SiStripPlugins/plugins/plugin.cc",
+            "CondCore/Utilities/plugins/Module_2XML.cc",
+            "CondCore/Utilities/src/CondDBFetch.cc",
+            "CondCore/Utilities/src/CondDBImport.cc",
+            "CondCore/Utilities/src/CondFormats.h",
             "CondFormats/DataRecord/interface/DeDxCalibrationRcd.h",
             "CondFormats/DataRecord/interface/SiStripCondDataRecords.h",
             "CondFormats/DataRecord/src/DeDxCalibrationRcd.cc",
@@ -5356,13 +5360,13 @@
             "RecoTracker/DeDx/plugins/DeDxEstimatorProducer.h",
             "RecoTracker/DeDx/plugins/DeDxHitCalibrator.cc",
             "RecoTracker/DeDx/plugins/DeDxHitInfoProducer.cc",
-            "RecoTracker/DeDx/python/dedxCalibrationDbCreation.py",
-            "RecoTracker/DeDx/python/dedxEstimators_cff.py"
+            "RecoTracker/DeDx/python/dedxEstimators_cff.py",
+            "RecoTracker/DeDx/test/dedxCalibrationDbCreation.py"
         ],
         "created_at": 1716380396,
         "number": 45016,
         "state": "open",
-        "updated_at": 1716380427
+        "updated_at": 1716421634
     },
     "45017": {
         "base_branch": "master",
