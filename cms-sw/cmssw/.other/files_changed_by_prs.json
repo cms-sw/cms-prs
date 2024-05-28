@@ -5678,5 +5678,19 @@
         "number": 45082,
         "state": "open",
         "updated_at": 1716922663
+    },
+    "45083": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CalibTracker/SiStripHitEfficiency/plugins/SiStripHitEffFromCalibTree.cc",
+            "CalibTracker/SiStripHitEfficiency/test/testHitEffWorker.py",
+            "CalibTracker/SiStripHitEfficiency/test/test_SiStripHitEfficiency.sh",
+            "CalibTracker/SiStripHitResolution/plugins/SiStripHitResolFromCalibTree.cc",
+            "CalibTracker/SiStripHitResolution/test/test_SiStripHitResolution.sh"
+        ],
+        "created_at": 1716923080,
+        "number": 45083,
+        "state": "open",
+        "updated_at": 1716923107
     }
 }
