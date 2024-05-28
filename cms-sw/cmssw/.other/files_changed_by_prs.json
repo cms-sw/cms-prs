@@ -5635,5 +5635,18 @@
         "number": 45065,
         "state": "open",
         "updated_at": 1716840411
+    },
+    "45066": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/interface/HGCalWaferMask.h",
+            "Geometry/HGCalCommonData/src/HGCalCellUV.cc",
+            "Geometry/HGCalCommonData/src/HGCalWaferMask.cc",
+            "SimG4CMS/Calo/plugins/HGCalMouseBiteTester.cc"
+        ],
+        "created_at": 1716873607,
+        "number": 45066,
+        "state": "open",
+        "updated_at": 1716873637
     }
 }
