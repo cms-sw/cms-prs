@@ -5616,12 +5616,14 @@
         "base_branch": "master",
         "changed_files_names": [
             "HLTrigger/Configuration/python/customizeHLTforCMSSW.py",
-            "RecoMuon/TrackerSeedGenerator/plugins/MuonHLTSeedMVAClassifier.cc"
+            "RecoMuon/TrackerSeedGenerator/interface/SeedMvaEstimator.h",
+            "RecoMuon/TrackerSeedGenerator/plugins/MuonHLTSeedMVAClassifier.cc",
+            "RecoMuon/TrackerSeedGenerator/src/SeedMvaEstimator.cc"
         ],
         "created_at": 1716835228,
         "number": 45063,
         "state": "open",
-        "updated_at": 1716835250
+        "updated_at": 1716878512
     },
     "45065": {
         "base_branch": "master",
