@@ -5699,5 +5699,21 @@
         "number": 45074,
         "state": "open",
         "updated_at": 1716895494
+    },
+    "45075": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQMOffline/Trigger/plugins/BTVHLTOfflineSource.cc",
+            "DQMOffline/Trigger/plugins/BTagAndProbe.cc",
+            "DQMOffline/Trigger/python/BTVHLTOfflineSource_cfi.py",
+            "DQMOffline/Trigger/python/BTagAndProbeMonitor_cfi.py",
+            "DQMOffline/Trigger/python/BTagAndProbeMonitoring_cff.py",
+            "DQMOffline/Trigger/python/BTagAndProbeMonitoring_cfi.py",
+            "DQMOffline/Trigger/python/BTaggingMonitoring_Client_cff.py"
+        ],
+        "created_at": 1716896447,
+        "number": 45075,
+        "state": "open",
+        "updated_at": 1716896471
     }
 }
