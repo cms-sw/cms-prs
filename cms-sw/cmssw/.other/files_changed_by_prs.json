@@ -5614,5 +5614,18 @@
         "number": 45078,
         "state": "open",
         "updated_at": 1716899029
+    },
+    "45079": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQM/Integration/python/clients/pfgpu_dqm_sourceclient-live_cfg.py",
+            "DQM/PFTasks/BuildFile.xml",
+            "DQM/PFTasks/plugins/BuildFile.xml",
+            "DQM/PFTasks/plugins/PFHcalGPUComparisonTask.cc"
+        ],
+        "created_at": 1716902207,
+        "number": 45079,
+        "state": "open",
+        "updated_at": 1716902232
     }
 }
