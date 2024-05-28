@@ -5685,5 +5685,19 @@
         "number": 45073,
         "state": "open",
         "updated_at": 1716894301
+    },
+    "45074": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/ForwardDetId/interface/ETLDetId.h",
+            "DataFormats/TrackReco/interface/HitPattern.h",
+            "DataFormats/TrackReco/src/HitPattern.cc",
+            "RecoMTD/TrackExtender/plugins/TrackExtenderWithMTD.cc",
+            "Validation/MtdValidation/plugins/MtdTracksValidation.cc"
+        ],
+        "created_at": 1716895466,
+        "number": 45074,
+        "state": "open",
+        "updated_at": 1716895494
     }
 }
