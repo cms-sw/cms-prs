@@ -4357,6 +4357,7 @@
             "GeneratorInterface/RivetInterface/test/test-yoda-root.sh",
             "SimDataFormats/GeneratorProducts/interface/GenEventInfoProduct3.h",
             "SimDataFormats/GeneratorProducts/interface/HepMC3Product.h",
+            "SimDataFormats/GeneratorProducts/src/GenEventInfoProduct3.cc",
             "SimDataFormats/GeneratorProducts/src/HepMC3Product.cc",
             "SimDataFormats/GeneratorProducts/src/classes.h",
             "SimDataFormats/GeneratorProducts/src/classes_def.xml"
@@ -4364,7 +4365,7 @@
         "created_at": 1712153548,
         "number": 44603,
         "state": "open",
-        "updated_at": 1716904808
+        "updated_at": 1716978650
     },
     "44644": {
         "base_branch": "master",
