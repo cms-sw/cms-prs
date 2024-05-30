@@ -5526,5 +5526,20 @@
         "number": 45110,
         "state": "open",
         "updated_at": 1717078389
+    },
+    "45112": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "EventFilter/L1TRawToDigi/plugins/L1TRawToDigi.cc",
+            "EventFilter/L1TRawToDigi/python/l1tRawToDigi_cfi.py",
+            "FWCore/ParameterSet/src/ConfigurationDescriptions.cc",
+            "Geometry/HcalEventSetup/python/CaloTowerTopology_cfi.py",
+            "L1Trigger/L1TGlobal/plugins/L1TGlobalSummary.cc",
+            "L1Trigger/L1TGlobal/python/L1TGlobalSummary_cfi.py"
+        ],
+        "created_at": 1717090748,
+        "number": 45112,
+        "state": "open",
+        "updated_at": 1717090775
     }
 }
