@@ -5469,5 +5469,18 @@
         "number": 45105,
         "state": "open",
         "updated_at": 1717073563
+    },
+    "45107": {
+        "base_branch": "CMSSW_14_0_X",
+        "changed_files_names": [
+            "HLTrigger/HLTfilters/plugins/HLTL1TSeed.cc",
+            "L1Trigger/L1TMuonEndCap/src/ConditionHelper.cc",
+            "L1Trigger/L1TMuonEndCap/src/SectorProcessorLUT.cc",
+            "RecoEgamma/PhotonIdentification/src/PhotonXGBoostEstimator.cc"
+        ],
+        "created_at": 1717075659,
+        "number": 45107,
+        "state": "open",
+        "updated_at": 1717075685
     }
 }
