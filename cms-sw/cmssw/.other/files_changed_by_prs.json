@@ -5444,5 +5444,19 @@
         "number": 45095,
         "state": "open",
         "updated_at": 1717043771
+    },
+    "45096": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondCore/EcalPlugins/plugins/EcalDQMChannelStatus_PayloadInspector.cc",
+            "CondCore/EcalPlugins/plugins/EcalFloatCondObjectContainer_PayloadInspector.cc",
+            "CondCore/EcalPlugins/plugins/EcalLinearCorrections_PayloadInspector.cc",
+            "CondCore/EcalPlugins/plugins/EcalPedestals_PayloadInspector.cc",
+            "CondCore/EcalPlugins/plugins/EcalPulseShapes_PayloadInspector.cc"
+        ],
+        "created_at": 1717055606,
+        "number": 45096,
+        "state": "open",
+        "updated_at": 1717055635
     }
 }
