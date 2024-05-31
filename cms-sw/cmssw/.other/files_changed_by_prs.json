@@ -4361,6 +4361,7 @@
             "RecoHGCal/TICL/plugins/MergedTrackstersProducer.cc",
             "RecoHGCal/TICL/plugins/MultiClustersFromTrackstersProducer.cc",
             "RecoHGCal/TICL/plugins/PFTICLProducer.cc",
+            "RecoHGCal/TICL/plugins/PatternRecognitionPluginFactory.cc",
             "RecoHGCal/TICL/plugins/PatternRecognitionbyCA.cc",
             "RecoHGCal/TICL/plugins/PatternRecognitionbyCA.h",
             "RecoHGCal/TICL/plugins/PatternRecognitionbyCLUE3D.cc",
@@ -4369,6 +4370,8 @@
             "RecoHGCal/TICL/plugins/PatternRecognitionbyFastJet.h",
             "RecoHGCal/TICL/plugins/PatternRecognitionbyMultiClusters.cc",
             "RecoHGCal/TICL/plugins/PatternRecognitionbyMultiClusters.h",
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyPassthrough.cc",
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyPassthrough.h",
             "RecoHGCal/TICL/plugins/SimTrackstersProducer.cc",
             "RecoHGCal/TICL/plugins/TICLCandidateProducer.cc",
             "RecoHGCal/TICL/plugins/TICLDumper.cc",
@@ -4398,6 +4401,7 @@
             "RecoHGCal/TICL/python/FastJetStep_cff.py",
             "RecoHGCal/TICL/python/HADStep_cff.py",
             "RecoHGCal/TICL/python/MIPStep_cff.py",
+            "RecoHGCal/TICL/python/PRbyPassthrough_cff.py",
             "RecoHGCal/TICL/python/SimTracksters_cff.py",
             "RecoHGCal/TICL/python/TrkEMStep_cff.py",
             "RecoHGCal/TICL/python/TrkStep_cff.py",
@@ -4417,7 +4421,6 @@
             "RecoMTD/TrackExtender/plugins/TrackExtenderWithMTD.cc",
             "RecoParticleFlow/PFClusterProducer/python/particleFlowClusterHGC_cfi.py",
             "SimCalorimetry/HGCalAssociatorProducers/python/TSToSimTSAssociation_cfi.py",
-            "TrackingTools/Configuration/python/TrackingTools_EventContent_cff.py",
             "Validation/Configuration/python/hgcalSimValid_cff.py",
             "Validation/HGCalValidation/interface/HGCalValidator.h",
             "Validation/HGCalValidation/interface/TICLCandidateValidator.h",
@@ -4432,7 +4435,7 @@
         "created_at": 1713532003,
         "number": 44785,
         "state": "open",
-        "updated_at": 1716981094
+        "updated_at": 1717149549
     },
     "44844": {
         "base_branch": "master",
