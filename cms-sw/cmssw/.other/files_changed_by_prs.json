@@ -5369,6 +5369,8 @@
         "changed_files_names": [
             "Configuration/ProcessModifiers/python/trackingIters01_cff.py",
             "Configuration/ProcessModifiers/python/trackingLST_cff.py",
+            "Configuration/PyReleaseValidation/python/relval_2026.py",
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
             "RecoTracker/ConversionSeedGenerators/python/ConversionStep_cff.py",
             "RecoTracker/FinalTrackSelectors/plugins/TrackListMerger.cc",
             "RecoTracker/FinalTrackSelectors/python/MergeTrackCollections_cff.py",
@@ -5483,6 +5485,6 @@
         "created_at": 1717244844,
         "number": 45117,
         "state": "open",
-        "updated_at": 1717415250
+        "updated_at": 1717428066
     }
 }
