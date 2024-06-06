@@ -5601,5 +5601,24 @@
         "number": 45150,
         "state": "open",
         "updated_at": 1717616347
+    },
+    "45151": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/TrackSoA/interface/TracksDevice.h",
+            "DataFormats/TrackSoA/src/alpaka/classes_cuda_def.xml",
+            "DataFormats/TrackSoA/src/alpaka/classes_rocm_def.xml",
+            "RecoLocalTracker/SiPixelRecHits/interface/alpaka/PixelCPEFastParamsCollection.h",
+            "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelCPEFastParamsESProducerAlpaka.cc",
+            "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/SiPixelRecHitAlpaka.cc",
+            "RecoLocalTracker/SiPixelRecHits/src/ES_PixelCPEFastParams.cc",
+            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEFastParams.cc",
+            "RecoLocalTracker/SiPixelRecHits/src/alpaka/ES_PixelCPEFastParams.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtuplet.cc"
+        ],
+        "created_at": 1717638154,
+        "number": 45151,
+        "state": "open",
+        "updated_at": 1717638184
     }
 }
