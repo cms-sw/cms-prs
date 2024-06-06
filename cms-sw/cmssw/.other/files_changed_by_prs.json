@@ -4523,6 +4523,7 @@
             "CondFormats/HcalObjects/src/alpaka/ES_HcalSiPMCharacteristicsDevice.cc",
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
             "DQM/HcalTasks/python/OfflineSourceSequence_pp.py",
+            "DataFormats/Common/src/classes_def.xml",
             "DataFormats/HcalDigi/BuildFile.xml",
             "DataFormats/HcalDigi/interface/HcalDigiHostCollection.h",
             "DataFormats/HcalDigi/interface/HcalDigiSoA.h",
@@ -4565,7 +4566,7 @@
         "created_at": 1715011332,
         "number": 44910,
         "state": "open",
-        "updated_at": 1716905466
+        "updated_at": 1717636902
     },
     "44924": {
         "base_branch": "master",
