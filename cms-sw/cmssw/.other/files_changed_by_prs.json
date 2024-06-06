@@ -5439,5 +5439,17 @@
         "number": 45152,
         "state": "open",
         "updated_at": 1717655387
+    },
+    "45155": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/ProcessModifiers/python/ecal_cctiming_cff.py",
+            "RecoLocalCalo/EcalRecProducers/python/ecalMultiFitUncalibRecHit_cfi.py",
+            "RecoLocalCalo/EcalRecProducers/python/ecalRecHit_cfi.py"
+        ],
+        "created_at": 1717680637,
+        "number": 45155,
+        "state": "open",
+        "updated_at": 1717680665
     }
 }
