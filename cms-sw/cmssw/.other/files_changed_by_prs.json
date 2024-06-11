@@ -5565,5 +5565,25 @@
         "number": 45197,
         "state": "open",
         "updated_at": 1718118632
+    },
+    "45199": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/HcalRecHit/BuildFile.xml",
+            "DataFormats/HcalRecHit/interface/HcalRecHitHostCollection.h",
+            "DataFormats/HcalRecHit/interface/HcalRecHitSoA.h",
+            "DataFormats/HcalRecHit/interface/alpaka/HcalRecHitDeviceCollection.h",
+            "DataFormats/HcalRecHit/src/alpaka/classes_cuda.h",
+            "DataFormats/HcalRecHit/src/alpaka/classes_cuda_def.xml",
+            "DataFormats/HcalRecHit/src/alpaka/classes_rocm.h",
+            "DataFormats/HcalRecHit/src/alpaka/classes_rocm_def.xml",
+            "DataFormats/HcalRecHit/src/classes.cc",
+            "DataFormats/HcalRecHit/src/classes.h",
+            "DataFormats/HcalRecHit/src/classes_def.xml"
+        ],
+        "created_at": 1718131178,
+        "number": 45199,
+        "state": "open",
+        "updated_at": 1718131207
     }
 }
