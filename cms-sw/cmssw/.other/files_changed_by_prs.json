@@ -5155,5 +5155,24 @@
         "number": 45207,
         "state": "open",
         "updated_at": 1718204208
+    },
+    "45208": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/HGCalReco/interface/TICLCandidate.h",
+            "DataFormats/HGCalReco/interface/commons.h",
+            "RecoHGCal/TICL/interface/commons.h",
+            "RecoHGCal/TICL/interface/PatternRecognitionAlgoBase.h",
+            "RecoHGCal/TICL/interface/TICLInterpretationAlgoBase.h",
+            "RecoHGCal/TICL/interface/TracksterLinkingAlgoBase.h",
+            "RecoHGCal/TICL/plugins/LinkingAlgoByDirectionGeometric.h",
+            "RecoHGCal/TICL/plugins/SimTrackstersProducer.cc",
+            "RecoHGCal/TICL/plugins/TICLDumper.cc",
+            "Validation/HGCalValidation/src/TICLCandidateValidator.cc"
+        ],
+        "created_at": 1718215572,
+        "number": 45208,
+        "state": "open",
+        "updated_at": 1718215591
     }
 }
