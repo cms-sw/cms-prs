@@ -5130,5 +5130,26 @@
         "number": 45205,
         "state": "open",
         "updated_at": 1718185813
+    },
+    "45206": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareRecHits.cc",
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareRecHitsSoAAlpaka.cc",
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareTrackSoAAlpaka.cc",
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareTracks.cc",
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareVertexSoAAlpaka.cc",
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareVertices.cc",
+            "DQM/SiPixelHeterogeneous/python/SiPixelHeterogenousDQM_FirstStep_cff.py",
+            "DataFormats/TrackSoA/src/classes_def.xml",
+            "DataFormats/TrackingRecHitSoA/src/classes_def.xml",
+            "EventFilter/SiPixelRawToDigi/python/siPixelDigis_cff.py",
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py",
+            "RecoLocalTracker/SiPixelClusterizer/python/siPixelClustersPreSplitting_cff.py"
+        ],
+        "created_at": 1718195297,
+        "number": 45206,
+        "state": "open",
+        "updated_at": 1718195322
     }
 }
