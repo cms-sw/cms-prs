@@ -4555,34 +4555,6 @@
         "state": "open",
         "updated_at": 1718086194
     },
-    "45114": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DQM/SiOuterTracker/plugins/BuildFile.xml",
-            "DQM/SiOuterTracker/plugins/OuterTrackerMonitorTTCluster.cc",
-            "DQM/SiOuterTracker/plugins/OuterTrackerMonitorTTStub.cc",
-            "DQM/SiOuterTracker/plugins/OuterTrackerMonitorTTTrack.cc",
-            "DQM/SiOuterTracker/python/OuterTrackerClientConfig_cff.py",
-            "DQM/SiOuterTracker/python/OuterTrackerMonitorTTCluster_cfi.py",
-            "DQM/SiOuterTracker/python/OuterTrackerMonitorTTStub_cfi.py",
-            "DQM/SiOuterTracker/python/OuterTrackerMonitorTTTrack_cfi.py",
-            "DQM/SiOuterTracker/python/OuterTrackerSourceConfig_cff.py",
-            "DQMOffline/Configuration/python/DQMOffline_SecondStep_cff.py",
-            "Validation/Configuration/python/postValidation_cff.py",
-            "Validation/SiOuterTrackerV/plugins/BuildFile.xml",
-            "Validation/SiOuterTrackerV/plugins/OuterTrackerMCHarvester.cc",
-            "Validation/SiOuterTrackerV/plugins/OuterTrackerMCHarvester.h",
-            "Validation/SiOuterTrackerV/plugins/OuterTrackerMonitorTrackingParticles.cc",
-            "Validation/SiOuterTrackerV/plugins/OuterTrackerMonitorTrackingParticles.h",
-            "Validation/SiOuterTrackerV/python/OuterTrackerMonitorTrackingParticles_cfi.py",
-            "Validation/SiOuterTrackerV/python/OuterTrackerSourceConfigV_cff.py",
-            "Validation/SiOuterTrackerV/python/SiOuterTrackerMCHarvesting_cff.py"
-        ],
-        "created_at": 1717140790,
-        "number": 45114,
-        "state": "open",
-        "updated_at": 1717526528
-    },
     "45115": {
         "base_branch": "CMSSW_14_0_X",
         "changed_files_names": [
