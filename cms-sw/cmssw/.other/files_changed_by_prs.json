@@ -5124,10 +5124,7 @@
         "base_branch": "master",
         "changed_files_names": [
             "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareRecHits.cc",
-            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareRecHitsSoAAlpaka.cc",
-            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareTrackSoAAlpaka.cc",
             "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareTracks.cc",
-            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareVertexSoAAlpaka.cc",
             "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareVertices.cc",
             "DQM/SiPixelHeterogeneous/python/SiPixelHeterogenousDQM_FirstStep_cff.py",
             "DataFormats/TrackSoA/src/classes_def.xml",
@@ -5139,7 +5136,7 @@
         "created_at": 1718195297,
         "number": 45206,
         "state": "open",
-        "updated_at": 1718195322
+        "updated_at": 1718280219
     },
     "45207": {
         "base_branch": "master",
