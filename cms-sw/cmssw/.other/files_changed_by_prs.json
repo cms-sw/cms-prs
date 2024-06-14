@@ -4308,6 +4308,7 @@
             "DataFormats/HcalRecHit/src/classes_def.xml",
             "EventFilter/HcalRawToDigi/plugins/BuildFile.xml",
             "EventFilter/HcalRawToDigi/plugins/alpaka/HcalDigisSoAProducer.cc",
+            "HLTrigger/Configuration/python/customizeHLTforAlpaka.py",
             "HeterogeneousCore/AlpakaInterface/interface/atomicMaxPair.h",
             "RecoLocalCalo/Configuration/python/hcalGlobalReco_cff.py",
             "RecoLocalCalo/Configuration/python/hcalLocalReco_cff.py",
@@ -4326,7 +4327,7 @@
         "created_at": 1715011332,
         "number": 44910,
         "state": "open",
-        "updated_at": 1717703810
+        "updated_at": 1718333649
     },
     "44924": {
         "base_branch": "master",
