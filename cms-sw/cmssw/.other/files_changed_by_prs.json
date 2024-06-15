@@ -5360,5 +5360,20 @@
         "number": 45227,
         "state": "open",
         "updated_at": 1718406723
+    },
+    "45228": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc",
+            "Geometry/HGCalCommonData/src/HGCalGeomParameters.cc",
+            "Geometry/HGCalCommonData/test/python/runHGCalTestDDD_cfg.py",
+            "Geometry/HGCalTBCommonData/src/HGCalTBDDDConstants.cc",
+            "SimG4CMS/HGCalTestBeam/plugins/HGCalTB23Analyzer.cc",
+            "SimG4CMS/HGCalTestBeam/test/HGCalTB230Sep_cfg.py"
+        ],
+        "created_at": 1718420970,
+        "number": 45228,
+        "state": "open",
+        "updated_at": 1718420994
     }
 }
