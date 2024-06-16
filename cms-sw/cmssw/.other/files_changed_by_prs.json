@@ -5022,11 +5022,13 @@
             "RecoParticleFlow/Configuration/python/HepMCCopy_cfi.py",
             "RecoParticleFlow/Configuration/python/RecoParticleFlow_cff.py",
             "RecoParticleFlow/PFClusterProducer/interface/HGCRecHitNavigator.h",
+            "RecoParticleFlow/PFClusterProducer/interface/InitialClusteringStepBase.h",
             "RecoParticleFlow/PFClusterProducer/interface/PFClusterBuilderBase.h",
             "RecoParticleFlow/PFClusterProducer/plugins/Basic2DGenericPFlowClusterizer.cc",
             "RecoParticleFlow/PFClusterProducer/plugins/Basic2DGenericPFlowPositionCalc.cc",
             "RecoParticleFlow/PFClusterProducer/plugins/ECAL2DPositionCalcWithDepthCorr.cc",
             "RecoParticleFlow/PFClusterProducer/plugins/LegacyPFClusterProducer.cc",
+            "RecoParticleFlow/PFClusterProducer/plugins/LocalMaximumSeedFinder.cc",
             "RecoParticleFlow/PFClusterProducer/plugins/PFClusterCollectionMerger.cc",
             "RecoParticleFlow/PFClusterProducer/plugins/PFClusterProducer.cc",
             "RecoParticleFlow/PFClusterProducer/plugins/PFClusterTimeSelector.cc",
@@ -5062,6 +5064,7 @@
             "RecoParticleFlow/PFProducer/test/GsfGEDElectronAnalyzer.cc",
             "RecoParticleFlow/PFRecHitProducer/test/PFRecHitProducerTest.cc",
             "RecoParticleFlow/PFSimProducer/plugins/ConvBremSeedProducer.cc",
+            "RecoParticleFlow/PFSimProducer/plugins/PFSimParticleProducer.cc",
             "RecoParticleFlow/PFSimProducer/plugins/SimPFProducer.cc",
             "RecoParticleFlow/PFTracking/plugins/ElectronSeedMerger.cc",
             "RecoParticleFlow/PFTracking/plugins/GoodSeedProducer.cc",
@@ -5092,7 +5095,7 @@
         "created_at": 1718254445,
         "number": 45212,
         "state": "open",
-        "updated_at": 1718426463
+        "updated_at": 1718492694
     },
     "45213": {
         "base_branch": "master",
