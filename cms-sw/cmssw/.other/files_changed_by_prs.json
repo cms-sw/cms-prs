@@ -5489,5 +5489,19 @@
         "number": 45236,
         "state": "open",
         "updated_at": 1718566993
+    },
+    "45237": {
+        "base_branch": "CMSSW_14_0_X",
+        "changed_files_names": [
+            "PhysicsTools/XGBoost/interface/XGBooster.h",
+            "PhysicsTools/XGBoost/src/XGBooster.cc",
+            "RecoEgamma/PhotonIdentification/interface/PhotonXGBoostEstimator.h",
+            "RecoEgamma/PhotonIdentification/plugins/PhotonXGBoostProducer.cc",
+            "RecoEgamma/PhotonIdentification/src/PhotonXGBoostEstimator.cc"
+        ],
+        "created_at": 1718606930,
+        "number": 45237,
+        "state": "open",
+        "updated_at": 1718607032
     }
 }
