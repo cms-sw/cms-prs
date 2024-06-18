@@ -4980,13 +4980,7 @@
     "45212": {
         "base_branch": "master",
         "changed_files_names": [
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleFlowClusterECALUncorrectedL1Seeded_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleFlowClusterECALUncorrectedUnseeded_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleFlowClusterHBHE_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleFlowClusterHCAL_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/particleFlowClusterECALUncorrected_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/particleFlowClusterHF_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/particleFlowClusterHO_cfi.py",
             "HLTrigger/Configuration/python/customizeHLTforCMSSW.py",
             "RecoParticleFlow/Configuration/plugins/HepMCCopy.cc",
             "RecoParticleFlow/Configuration/python/HepMCCopy_cfi.py",
@@ -5065,7 +5059,7 @@
         "created_at": 1718254445,
         "number": 45212,
         "state": "open",
-        "updated_at": 1718701498
+        "updated_at": 1718732025
     },
     "45214": {
         "base_branch": "master",
