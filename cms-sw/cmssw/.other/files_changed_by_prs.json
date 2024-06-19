@@ -5636,5 +5636,18 @@
         "number": 45267,
         "state": "open",
         "updated_at": 1718782505
+    },
+    "45268": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Alignment/HIPAlignmentAlgorithm/plugins/HIPTwoBodyDecayAnalyzer.cc",
+            "Alignment/HIPAlignmentAlgorithm/plugins/LhcTrackAnalyzer.cc",
+            "Alignment/HIPAlignmentAlgorithm/test/BuildFile.xml",
+            "Alignment/HIPAlignmentAlgorithm/test/testHIPAnalyzers.cc"
+        ],
+        "created_at": 1718789243,
+        "number": 45268,
+        "state": "open",
+        "updated_at": 1718789271
     }
 }
