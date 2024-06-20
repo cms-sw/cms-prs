@@ -5589,5 +5589,17 @@
         "number": 45274,
         "state": "open",
         "updated_at": 1718869013
+    },
+    "45275": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQM/TrackerCommon/plugins/DetectorStateFilter.cc",
+            "DQM/TrackerCommon/test/test_DetectorStateFilter.sh",
+            "DQM/TrackerCommon/test/test_DetectorStateFilter_cfg.py"
+        ],
+        "created_at": 1718870259,
+        "number": 45275,
+        "state": "open",
+        "updated_at": 1718870285
     }
 }
