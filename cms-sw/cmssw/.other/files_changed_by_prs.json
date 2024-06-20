@@ -5572,5 +5572,18 @@
         "number": 45278,
         "state": "open",
         "updated_at": 1718886988
+    },
+    "45279": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoMTD/TimingIDTools/plugins/TOFPIDProducer.cc",
+            "RecoVertex/Configuration/python/RecoVertex_phase2_timing_cff.py",
+            "RecoVertex/PrimaryVertexProducer/src/DAClusterizerInZT_vect.cc",
+            "RecoVertex/PrimaryVertexProducer/src/VertexTimeAlgorithmLegacy4D.cc"
+        ],
+        "created_at": 1718889236,
+        "number": 45279,
+        "state": "open",
+        "updated_at": 1718889313
     }
 }
