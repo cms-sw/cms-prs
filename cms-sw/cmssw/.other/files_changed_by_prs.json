@@ -5369,30 +5369,6 @@
         "state": "open",
         "updated_at": 1718718095
     },
-    "45263": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DataFormats/HcalRecHit/BuildFile.xml",
-            "DataFormats/HcalRecHit/interface/HcalRecHitHostCollection.h",
-            "DataFormats/HcalRecHit/interface/HcalRecHitSoA.h",
-            "DataFormats/HcalRecHit/interface/alpaka/HcalRecHitDeviceCollection.h",
-            "DataFormats/HcalRecHit/src/alpaka/classes_cuda.h",
-            "DataFormats/HcalRecHit/src/alpaka/classes_cuda_def.xml",
-            "DataFormats/HcalRecHit/src/alpaka/classes_rocm.h",
-            "DataFormats/HcalRecHit/src/alpaka/classes_rocm_def.xml",
-            "DataFormats/HcalRecHit/src/classes.cc",
-            "DataFormats/HcalRecHit/src/classes.h",
-            "DataFormats/HcalRecHit/src/classes_def.xml",
-            "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/CaloRecHitSoAProducer.cc",
-            "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/CalorimeterDefinitions.h",
-            "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/PFRecHitProducerKernel.dev.cc",
-            "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/PFRecHitTopologyESProducer.cc"
-        ],
-        "created_at": 1718724464,
-        "number": 45263,
-        "state": "open",
-        "updated_at": 1718724488
-    },
     "45265": {
         "base_branch": "CMSSW_14_0_X",
         "changed_files_names": [
