@@ -5277,5 +5277,17 @@
         "number": 45281,
         "state": "open",
         "updated_at": 1718931418
+    },
+    "45282": {
+        "base_branch": "CMSSW_14_0_X",
+        "changed_files_names": [
+            "DQMOffline/Trigger/python/DQMOffline_Trigger_cff.py",
+            "DQMServices/Components/plugins/DQMEventInfo.cc",
+            "DQMServices/Components/python/DQMEventInfo_cfi.py"
+        ],
+        "created_at": 1718949188,
+        "number": 45282,
+        "state": "open",
+        "updated_at": 1718949288
     }
 }
