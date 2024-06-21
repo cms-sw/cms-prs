@@ -4376,28 +4376,6 @@
         "state": "open",
         "updated_at": 1718345234
     },
-    "45016": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "Configuration/PyReleaseValidation/python/relval_standard.py",
-            "Configuration/PyReleaseValidation/python/relval_steps.py",
-            "DataFormats/TrackReco/interface/DeDxHit.h",
-            "DataFormats/TrackReco/interface/DeDxHitInfo.h",
-            "DataFormats/TrackReco/src/classes_def.xml",
-            "RecoTracker/Configuration/python/RecoTracker_EventContent_cff.py",
-            "RecoTracker/DeDx/BuildFile.xml",
-            "RecoTracker/DeDx/interface/LikelihoodFitDeDxEstimator.h",
-            "RecoTracker/DeDx/plugins/DeDxEstimatorProducer.cc",
-            "RecoTracker/DeDx/plugins/DeDxEstimatorProducer.h",
-            "RecoTracker/DeDx/plugins/DeDxHitCalibrator.cc",
-            "RecoTracker/DeDx/plugins/DeDxHitInfoProducer.cc",
-            "RecoTracker/DeDx/python/dedxEstimators_cff.py"
-        ],
-        "created_at": 1716380396,
-        "number": 45016,
-        "state": "open",
-        "updated_at": 1718692483
-    },
     "45037": {
         "base_branch": "master",
         "changed_files_names": [
