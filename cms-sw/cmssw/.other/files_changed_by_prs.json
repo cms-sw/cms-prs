@@ -5019,29 +5019,6 @@
         "state": "open",
         "updated_at": 1718715532
     },
-    "45262": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DataFormats/L1Scouting/interface/L1ScoutingBMTFStub.h",
-            "DataFormats/L1Scouting/src/classes.h",
-            "DataFormats/L1Scouting/src/classes_def.xml",
-            "DataFormats/L1Scouting/test/TestL1ScoutingFormat.sh",
-            "DataFormats/L1Scouting/test/TestReadL1Scouting.cc",
-            "DataFormats/L1Scouting/test/TestWriteL1Scouting.cc",
-            "DataFormats/L1Scouting/test/create_L1Scouting_test_file_cfg.py",
-            "DataFormats/L1Scouting/test/read_L1Scouting_cfg.py",
-            "EventFilter/L1ScoutingRawToDigi/interface/blocks.h",
-            "EventFilter/L1ScoutingRawToDigi/interface/masks.h",
-            "EventFilter/L1ScoutingRawToDigi/interface/shifts.h",
-            "EventFilter/L1ScoutingRawToDigi/plugins/ScBMTFRawToDigi.cc",
-            "EventFilter/L1ScoutingRawToDigi/plugins/ScBMTFRawToDigi.h",
-            "EventFilter/L1ScoutingRawToDigi/python/ScBMTFRawToDigi_cfi.py"
-        ],
-        "created_at": 1718718065,
-        "number": 45262,
-        "state": "open",
-        "updated_at": 1718718095
-    },
     "45265": {
         "base_branch": "CMSSW_14_0_X",
         "changed_files_names": [
