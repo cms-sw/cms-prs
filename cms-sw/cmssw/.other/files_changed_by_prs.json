@@ -700,6 +700,11 @@
     "44029": {
         "base_branch": "master",
         "changed_files_names": [
+            "Configuration/StandardSequences/python/Validation_cff.py",
+            "DQMOffline/Configuration/python/DQMOfflineFS_cff.py",
+            "DQMOffline/Configuration/python/DQMOfflineMC_cff.py",
+            "DQMOffline/Configuration/python/DQMOffline_SecondStep_cff.py",
+            "DQMOffline/Configuration/python/DQMOffline_cff.py",
             "Validation/RecoTau/interface/TauValidationMiniAOD.h",
             "Validation/RecoTau/plugins/BuildFile.xml",
             "Validation/RecoTau/plugins/ElectronFromPVSelector.cc",
@@ -708,6 +713,8 @@
             "Validation/RecoTau/plugins/ObjectViewCleaner.cc",
             "Validation/RecoTau/plugins/Selectors.cc",
             "Validation/RecoTau/plugins/TrackFromPVSelector.cc",
+            "Validation/RecoTau/python/DQMMCValidation_cfi.py",
+            "Validation/RecoTau/python/DQMSequences_cfi.py",
             "Validation/RecoTau/python/RecoTauValidationMiniAOD_cfi.py",
             "Validation/RecoTau/python/RecoTauValidation_cff.py",
             "Validation/RecoTau/python/dataTypes/ValidateTausOnRealData_cff.py",
@@ -720,7 +727,7 @@
         "created_at": 1708436673,
         "number": 44029,
         "state": "open",
-        "updated_at": 1715827302
+        "updated_at": 1719000157
     },
     "44085": {
         "base_branch": "master",
