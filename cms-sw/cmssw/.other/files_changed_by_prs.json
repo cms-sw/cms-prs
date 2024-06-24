@@ -4902,10 +4902,10 @@
     "45240": {
         "base_branch": "master",
         "changed_files_names": [
-            "Configuration/Eras/python/Modifier_run2_miniAOD_106XUL_cff.py",
             "Configuration/Eras/python/Modifier_run2_miniAOD_80XLegacy_cff.py",
             "Configuration/Eras/python/Modifier_run2_miniAOD_94XFall17_cff.py",
             "Configuration/Eras/python/Modifier_run2_miniAOD_devel_cff.py",
+            "Configuration/Eras/python/Modifier_run3_miniAOD_12X_cff.py",
             "Configuration/ProcessModifiers/python/run2_miniAOD_UL_preSummer20_cff.py",
             "Configuration/StandardSequences/python/Eras.py",
             "PhysicsTools/PatAlgos/python/producersLayer1/jetProducer_cff.py",
@@ -4937,7 +4937,7 @@
         "created_at": 1718611888,
         "number": 45240,
         "state": "open",
-        "updated_at": 1719211202
+        "updated_at": 1719211660
     },
     "45241": {
         "base_branch": "CMSSW_13_0_X",
