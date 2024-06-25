@@ -4657,6 +4657,7 @@
             "RecoLocalCalo/HGCalRecProducers/plugins/HGCalLayerClusterProducer.cc",
             "RecoLocalCalo/HGCalRecProducers/plugins/HGCalLayerClustersFromSoAProducer.cc",
             "RecoLocalCalo/HGCalRecProducers/plugins/MergeClusterProducer.cc",
+            "RecoLocalCalo/HGCalRecProducers/plugins/alpaka/ConstantsForClusters.h",
             "RecoLocalCalo/HGCalRecProducers/plugins/alpaka/HGCalLayerClustersAlgoWrapper.dev.cc",
             "RecoLocalCalo/HGCalRecProducers/plugins/alpaka/HGCalLayerClustersAlgoWrapper.h",
             "RecoLocalCalo/HGCalRecProducers/plugins/alpaka/HGCalLayerClustersSoAAlgoWrapper.dev.cc",
@@ -4668,7 +4669,7 @@
         "created_at": 1717854293,
         "number": 45178,
         "state": "open",
-        "updated_at": 1719226694
+        "updated_at": 1719299436
     },
     "45182": {
         "base_branch": "master",
