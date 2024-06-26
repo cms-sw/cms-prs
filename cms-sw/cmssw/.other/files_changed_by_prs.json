@@ -559,13 +559,17 @@
             "CondTools/BeamSpot/test/BeamProfileHLLHC2DBReader_cfg.py",
             "CondTools/BeamSpot/test/BeamProfileHLLHC2DBWriter_cfg.py",
             "CondTools/BeamSpot/test/testReadWriteBeamSpotsFromDB.sh",
+            "Configuration/StandardSequences/python/VtxSmeared.py",
             "IOMC/EventVertexGenerators/interface/HLLHCEvtVtxGenerator.h",
+            "IOMC/EventVertexGenerators/python/VtxSmearedHLLHCCrabKissing14TeV_cfi.py",
+            "IOMC/EventVertexGenerators/python/VtxSmearedHLLHCCrabKissing_cfi.py",
+            "IOMC/EventVertexGenerators/python/VtxSmearedParameters_cfi.py",
             "IOMC/EventVertexGenerators/src/HLLHCEvtVtxGenerator.cc"
         ],
         "created_at": 1699047102,
         "number": 43186,
         "state": "open",
-        "updated_at": 1716481135
+        "updated_at": 1719395812
     },
     "43212": {
         "base_branch": "master",
