@@ -4243,17 +4243,6 @@
             "DataFormats/HcalDigi/src/classes.cc",
             "DataFormats/HcalDigi/src/classes.h",
             "DataFormats/HcalDigi/src/classes_def.xml",
-            "DataFormats/HcalRecHit/BuildFile.xml",
-            "DataFormats/HcalRecHit/interface/HcalRecHitHostCollection.h",
-            "DataFormats/HcalRecHit/interface/HcalRecHitSoA.h",
-            "DataFormats/HcalRecHit/interface/alpaka/HcalRecHitDeviceCollection.h",
-            "DataFormats/HcalRecHit/src/alpaka/classes_cuda.h",
-            "DataFormats/HcalRecHit/src/alpaka/classes_cuda_def.xml",
-            "DataFormats/HcalRecHit/src/alpaka/classes_rocm.h",
-            "DataFormats/HcalRecHit/src/alpaka/classes_rocm_def.xml",
-            "DataFormats/HcalRecHit/src/classes.cc",
-            "DataFormats/HcalRecHit/src/classes.h",
-            "DataFormats/HcalRecHit/src/classes_def.xml",
             "EventFilter/HcalRawToDigi/plugins/BuildFile.xml",
             "EventFilter/HcalRawToDigi/plugins/alpaka/HcalDigisSoAProducer.cc",
             "HLTrigger/Configuration/python/customizeHLTforAlpaka.py",
@@ -4275,7 +4264,7 @@
         "created_at": 1715011332,
         "number": 44910,
         "state": "open",
-        "updated_at": 1719148685
+        "updated_at": 1719463166
     },
     "44924": {
         "base_branch": "master",
