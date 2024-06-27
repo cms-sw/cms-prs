@@ -5264,5 +5264,17 @@
         "number": 45321,
         "state": "open",
         "updated_at": 1719465436
+    },
+    "45322": {
+        "base_branch": "CMSSW_14_0_X",
+        "changed_files_names": [
+            "DQM/TrackerCommon/plugins/DetectorStateFilter.cc",
+            "DQM/TrackerCommon/test/test_DetectorStateFilter.sh",
+            "DQM/TrackerCommon/test/test_DetectorStateFilter_cfg.py"
+        ],
+        "created_at": 1719466286,
+        "number": 45322,
+        "state": "open",
+        "updated_at": 1719466333
     }
 }
