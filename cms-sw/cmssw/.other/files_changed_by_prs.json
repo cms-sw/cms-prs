@@ -6031,5 +6031,23 @@
         "number": 45341,
         "state": "open",
         "updated_at": 1719578494
+    },
+    "45342": {
+        "base_branch": "CMSSW_14_0_X",
+        "changed_files_names": [
+            "HeterogeneousCore/AlpakaInterface/interface/AllocatorConfig.h",
+            "HeterogeneousCore/AlpakaInterface/interface/CachingAllocator.h",
+            "HeterogeneousCore/AlpakaInterface/interface/getDeviceCachingAllocator.h",
+            "HeterogeneousCore/AlpakaInterface/interface/getHostCachingAllocator.h",
+            "HeterogeneousCore/AlpakaServices/src/alpaka/AlpakaService.cc",
+            "HeterogeneousCore/AlpakaServices/test/BuildFile.xml",
+            "HeterogeneousCore/AlpakaServices/test/testAlpakaServiceCudaAsync.py",
+            "HeterogeneousCore/AlpakaServices/test/testAlpakaServiceROCmAsync.py",
+            "HeterogeneousCore/AlpakaServices/test/testAlpakaServiceSerialSync.py"
+        ],
+        "created_at": 1719578534,
+        "number": 45342,
+        "state": "open",
+        "updated_at": 1719578563
     }
 }
