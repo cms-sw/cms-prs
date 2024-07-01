@@ -4775,31 +4775,6 @@
         "state": "open",
         "updated_at": 1719216674
     },
-    "45284": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DataFormats/ForwardDetId/interface/HGCSiliconDetId.h",
-            "DataFormats/ForwardDetId/interface/HGCalTriggerDetId.h",
-            "DataFormats/ForwardDetId/src/HGCalTriggerDetId.cc",
-            "Geometry/HGCalCommonData/interface/HGCalTypes.h",
-            "Geometry/HGCalCommonData/src/HGCalCalibrationCell.cc",
-            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc",
-            "Geometry/HGCalCommonData/src/HGCalWaferType.cc",
-            "Geometry/HGCalCommonData/test/HGCalConvert.cpp",
-            "Geometry/HGCalGeometry/test/HGCGeomAnalyzer.cc",
-            "L1Trigger/L1THGCal/plugins/geometries/HGCalTriggerGeometryV9Imp2.cc",
-            "L1Trigger/L1THGCal/plugins/geometries/HGCalTriggerGeometryV9Imp3.cc",
-            "SimG4CMS/Calo/plugins/HGCalTestGuardRing.cc",
-            "SimG4CMS/Calo/src/HGCalNumberingScheme.cc",
-            "Validation/HGCalValidation/plugins/HGCalSimHitValidation.cc",
-            "Validation/HGCalValidation/test/HGCalCellHitSum.cc",
-            "Validation/HGCalValidation/test/HGCalMTRecoStudy.cc"
-        ],
-        "created_at": 1719019421,
-        "number": 45284,
-        "state": "open",
-        "updated_at": 1719204667
-    },
     "45285": {
         "base_branch": "master",
         "changed_files_names": [
