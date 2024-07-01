@@ -5427,5 +5427,23 @@
         "number": 45348,
         "state": "open",
         "updated_at": 1719734533
+    },
+    "45350": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "EventFilter/L1ScoutingRawToDigi/plugins/ScBMTFRawToDigi.cc",
+            "L1TriggerScouting/OnlineProcessing/BuildFile.xml",
+            "L1TriggerScouting/OnlineProcessing/plugins/BuildFile.xml",
+            "L1TriggerScouting/OnlineProcessing/plugins/FinalBxSelector.cc",
+            "L1TriggerScouting/OnlineProcessing/plugins/JetBxSelector.cc",
+            "L1TriggerScouting/OnlineProcessing/plugins/MaskOrbitBx.cc",
+            "L1TriggerScouting/OnlineProcessing/plugins/MuBxSelector.cc",
+            "L1TriggerScouting/OnlineProcessing/plugins/MuTagJetBxSelector.cc",
+            "L1TriggerScouting/OnlineProcessing/test/L1ScoutingSelector.py"
+        ],
+        "created_at": 1719815607,
+        "number": 45350,
+        "state": "open",
+        "updated_at": 1719815634
     }
 }
