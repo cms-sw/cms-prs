@@ -1820,24 +1820,6 @@
         "state": "open",
         "updated_at": 1719304361
     },
-    "45302": {
-        "base_branch": "CMSSW_14_0_X",
-        "changed_files_names": [
-            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareRecHits.cc",
-            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareTracks.cc",
-            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareVertices.cc",
-            "DQM/SiPixelHeterogeneous/python/SiPixelHeterogenousDQM_FirstStep_cff.py",
-            "DataFormats/TrackSoA/src/classes_def.xml",
-            "DataFormats/TrackingRecHitSoA/src/classes_def.xml",
-            "EventFilter/SiPixelRawToDigi/python/siPixelDigis_cff.py",
-            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py",
-            "RecoLocalTracker/SiPixelClusterizer/python/siPixelClustersPreSplitting_cff.py"
-        ],
-        "created_at": 1719311705,
-        "number": 45302,
-        "state": "open",
-        "updated_at": 1719311732
-    },
     "45304": {
         "base_branch": "master",
         "changed_files_names": [
