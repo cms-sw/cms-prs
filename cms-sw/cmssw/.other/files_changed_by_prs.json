@@ -1569,23 +1569,6 @@
         "state": "open",
         "updated_at": 1719223914
     },
-    "45291": {
-        "base_branch": "CMSSW_14_0_X",
-        "changed_files_names": [
-            "Configuration/DataProcessing/python/Impl/ppEra_Run3_2024.py",
-            "Configuration/DataProcessing/python/RecoTLR.py",
-            "Configuration/DataProcessing/test/run_CfgTest_5.sh",
-            "Configuration/DataProcessing/test/run_CfgTest_8.sh",
-            "Configuration/Eras/python/Era_Run3_2024_cff.py",
-            "Configuration/Eras/python/Era_Run3_2025_cff.py",
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
-            "Configuration/StandardSequences/python/Eras.py"
-        ],
-        "created_at": 1719227869,
-        "number": 45291,
-        "state": "open",
-        "updated_at": 1719227951
-    },
     "45300": {
         "base_branch": "master",
         "changed_files_names": [
