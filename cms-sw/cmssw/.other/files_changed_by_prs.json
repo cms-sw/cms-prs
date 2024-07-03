@@ -1412,6 +1412,8 @@
             "Configuration/Eras/python/Modifier_run3_miniAOD_12X_cff.py",
             "Configuration/ProcessModifiers/python/run2_miniAOD_UL_preSummer20_cff.py",
             "Configuration/StandardSequences/python/Eras.py",
+            "DQMOffline/RecoB/python/bTagMiniDQM_cff.py",
+            "PhysicsTools/NanoAOD/python/jetsAK4_CHS_cff.py",
             "PhysicsTools/PatAlgos/python/producersLayer1/jetProducer_cff.py",
             "PhysicsTools/PatAlgos/python/producersLayer1/lowPtElectronProducer_cff.py",
             "PhysicsTools/PatAlgos/python/producersLayer1/ootPhotonProducer_cff.py",
@@ -1441,7 +1443,7 @@
         "created_at": 1718611888,
         "number": 45240,
         "state": "open",
-        "updated_at": 1719212605
+        "updated_at": 1719988755
     },
     "45241": {
         "base_branch": "CMSSW_13_0_X",
