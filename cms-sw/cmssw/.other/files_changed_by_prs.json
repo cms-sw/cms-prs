@@ -1859,5 +1859,28 @@
         "number": 45364,
         "state": "open",
         "updated_at": 1719969009
+    },
+    "45365": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalTBCommonData/python/testTB181V0XML_cfi.py",
+            "Geometry/HGCalTBCommonData/python/testTB181V1XML_cfi.py",
+            "Geometry/HGCalTBCommonData/python/testTB181V2XML_cfi.py",
+            "Geometry/HGCalTBCommonData/python/testTB181XML_cfi.py",
+            "SimG4CMS/HGCalTestBeam/plugins/HGCalTBPassive.cc",
+            "SimG4CMS/HGCalTestBeam/plugins/HGCPassive.cc",
+            "SimG4CMS/HGCalTestBeam/test/HGCalTBCERN170_cfg.py",
+            "SimG4CMS/HGCalTestBeam/test/HGCalTBCERN181Oct1DD4hep_cfg.py",
+            "SimG4CMS/HGCalTestBeam/test/HGCalTBCERN181Oct1PC1mm_cfg.py",
+            "SimG4CMS/HGCalTestBeam/test/HGCalTBCERN181Oct1_cfg.py",
+            "SimG4CMS/HGCalTestBeam/test/HGCalTBCERN181Oct1el100_cfg.py",
+            "SimG4CMS/HGCalTestBeam/test/HGCalTBCERN181Oct2_cfg.py",
+            "SimG4CMS/HGCalTestBeam/test/HGCalTBCERN181Oct3_cfg.py",
+            "SimG4CMS/HGCalTestBeam/test/HGCalTBCERN181Oct4_cfg.py"
+        ],
+        "created_at": 1719981358,
+        "number": 45365,
+        "state": "open",
+        "updated_at": 1719981384
     }
 }
