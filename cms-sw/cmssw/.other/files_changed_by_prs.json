@@ -1803,13 +1803,14 @@
     "45368": {
         "base_branch": "master",
         "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
             "HeterogeneousCore/AlpakaInterface/interface/CachingAllocator.h",
             "HeterogeneousCore/AlpakaServices/python/customiseAlpakaServiceMemoryFilling.py"
         ],
         "created_at": 1720002820,
         "number": 45368,
         "state": "open",
-        "updated_at": 1720097125
+        "updated_at": 1720097490
     },
     "45369": {
         "base_branch": "CMSSW_14_0_X",
