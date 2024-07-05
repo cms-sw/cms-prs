@@ -1920,5 +1920,19 @@
         "number": 45386,
         "state": "open",
         "updated_at": 1720168773
+    },
+    "45387": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/AlCa/python/autoCond.py",
+            "Configuration/AlCa/python/autoCondModifiers.py",
+            "Configuration/PyReleaseValidation/python/relval_steps.py",
+            "Configuration/StandardSequences/python/VtxSmeared.py",
+            "IOMC/EventVertexGenerators/python/VtxSmearedRealisticHLLHC_cfi.py"
+        ],
+        "created_at": 1720175393,
+        "number": 45387,
+        "state": "open",
+        "updated_at": 1720175416
     }
 }
