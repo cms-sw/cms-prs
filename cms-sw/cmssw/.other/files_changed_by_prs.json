@@ -3452,6 +3452,7 @@
     "45402": {
         "base_branch": "master",
         "changed_files_names": [
+            "FWCore/Concurrency/interface/WaitingTaskHolder.h",
             "FWCore/Concurrency/interface/WaitingTaskWithArenaHolder.h",
             "FWCore/Concurrency/interface/WaitingThreadPool.h",
             "FWCore/Concurrency/src/WaitingTaskWithArenaHolder.cc"
@@ -3459,6 +3460,6 @@
         "created_at": 1720462237,
         "number": 45402,
         "state": "open",
-        "updated_at": 1720462270
+        "updated_at": 1720463717
     }
 }
