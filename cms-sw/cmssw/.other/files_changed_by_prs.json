@@ -1931,5 +1931,22 @@
         "number": 45406,
         "state": "open",
         "updated_at": 1720469058
+    },
+    "45407": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/HcalRecHit/interface/ZDCRecHit.h",
+            "DataFormats/HcalRecHit/src/ZDCRecHit.cc",
+            "DataFormats/HcalRecHit/src/classes_def.xml",
+            "RecoLocalCalo/HcalRecAlgos/interface/ZdcSimpleRecAlgo_Run3.h",
+            "RecoLocalCalo/HcalRecAlgos/src/ZdcSimpleRecAlgo_Run3.cc",
+            "RecoLocalCalo/HcalRecProducers/python/HcalHitReconstructor_zdc_Run3_cfi.py",
+            "RecoLocalCalo/HcalRecProducers/src/ZdcHitReconstructor_Run3.cc",
+            "RecoLocalCalo/HcalRecProducers/src/ZdcHitReconstructor_Run3.h"
+        ],
+        "created_at": 1720490433,
+        "number": 45407,
+        "state": "open",
+        "updated_at": 1720490461
     }
 }
