@@ -1127,6 +1127,7 @@
         "changed_files_names": [
             "Configuration/ProcessModifiers/python/trackingIters01_cff.py",
             "Configuration/ProcessModifiers/python/trackingLST_cff.py",
+            "Configuration/PyReleaseValidation/README.md",
             "Configuration/PyReleaseValidation/python/relval_2026.py",
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
             "RecoTracker/ConversionSeedGenerators/python/ConversionStep_cff.py",
@@ -1154,6 +1155,7 @@
             "RecoTracker/LST/src/classes_def.xml",
             "RecoTracker/LSTCore/BuildFile.xml",
             "RecoTracker/LSTCore/interface/alpaka/Constants.h",
+            "RecoTracker/LSTCore/interface/alpaka/EndcapGeometryBuffer.h",
             "RecoTracker/LSTCore/interface/alpaka/LST.h",
             "RecoTracker/LSTCore/interface/alpaka/LSTESData.h",
             "RecoTracker/LSTCore/interface/alpaka/Module.h",
@@ -1240,7 +1242,7 @@
         "created_at": 1717244844,
         "number": 45117,
         "state": "open",
-        "updated_at": 1720024084
+        "updated_at": 1720644942
     },
     "45146": {
         "base_branch": "master",
