@@ -1966,5 +1966,23 @@
         "number": 45436,
         "state": "open",
         "updated_at": 1720756479
+    },
+    "45437": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Validation/HGCalValidation/test/python/digiClient_cfg.py",
+            "Validation/HGCalValidation/test/python/digiValidation_cfg.py",
+            "Validation/HGCalValidation/test/python/protoHGCalSimWatcher_cfg.py",
+            "Validation/HGCalValidation/test/python/protoSimValid_cfg.py",
+            "Validation/HGCalValidation/test/python/protoValid_cfg.py",
+            "Validation/HGCalValidation/test/python/recHitClient_cfg.py",
+            "Validation/HGCalValidation/test/python/rechitValidation_cfg.py",
+            "Validation/HGCalValidation/test/python/simHitClient_cfg.py",
+            "Validation/HGCalValidation/test/python/simHitValidation_cfg.py"
+        ],
+        "created_at": 1720758152,
+        "number": 45437,
+        "state": "open",
+        "updated_at": 1720758177
     }
 }
