@@ -2079,5 +2079,23 @@
         "number": 45444,
         "state": "open",
         "updated_at": 1720840794
+    },
+    "45445": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Validation/HGCalValidation/test/python/runHGCGeomCheck_cfg.py",
+            "Validation/HGCalValidation/test/python/runHGCHitAnalyzer_cfg.py",
+            "Validation/HGCalValidation/test/python/runHGCMissingRecHit_cfg.py",
+            "Validation/HGCalValidation/test/python/runHGCalDigiStudy_cfg.py",
+            "Validation/HGCalValidation/test/python/runHGCalHitCalibration_cfg.py",
+            "Validation/HGCalValidation/test/python/runHGCalRecHitStudy_cfg.py",
+            "Validation/HGCalValidation/test/python/runHGCalSimHitStudy_cfg.py",
+            "Validation/HGCalValidation/test/python/runHGCalWaferHitCheck_cfg.py",
+            "Validation/HGCalValidation/test/python/runHGCalWaferStudy_cfg.py"
+        ],
+        "created_at": 1720843224,
+        "number": 45445,
+        "state": "open",
+        "updated_at": 1720843250
     }
 }
