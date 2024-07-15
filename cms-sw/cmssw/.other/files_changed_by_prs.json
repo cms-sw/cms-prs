@@ -2199,5 +2199,22 @@
         "number": 45455,
         "state": "open",
         "updated_at": 1721032129
+    },
+    "45456": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/relval_production.py",
+            "Configuration/PyReleaseValidation/python/relval_steps.py",
+            "RecoPPS/Local/test/2023_lhcinfo_test_recoCTPPS.sh",
+            "RecoPPS/Local/test/2023_lhcinfo_test_recoCTPPS_cfg.py",
+            "RecoPPS/Local/test/BuildFile.xml",
+            "RecoPPS/Local/test/global_reco_PPS_test.sh",
+            "RecoPPS/Local/test/global_reco_PPS_test_cfg.py",
+            "RecoPPS/Local/test/global_reco_PPS_test_strips.sh"
+        ],
+        "created_at": 1721032126,
+        "number": 45456,
+        "state": "open",
+        "updated_at": 1721032148
     }
 }
