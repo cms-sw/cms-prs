@@ -1845,14 +1845,17 @@
             "FWCore/TestProcessor/interface/TestSourceProcessor.h",
             "FWCore/TestProcessor/python/TestProcess.py",
             "FWCore/TestProcessor/python/TestSourceProcess.py",
+            "FWCore/TestProcessor/src/TestProcessor.cc",
             "FWCore/TestProcessor/src/TestSourceProcessor.cc",
+            "FWCore/TestProcessor/src/oneTimeInitialization.cc",
+            "FWCore/TestProcessor/src/oneTimeInitialization.h",
             "FWCore/TestProcessor/test/BuildFile.xml",
             "FWCore/TestProcessor/test/testsourceprocessor_t.cppunit.cc"
         ],
         "created_at": 1720806646,
         "number": 45443,
         "state": "open",
-        "updated_at": 1720806669
+        "updated_at": 1721048163
     },
     "45444": {
         "base_branch": "master",
