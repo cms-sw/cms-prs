@@ -1718,6 +1718,7 @@
             "FWCore/TestProcessor/interface/EventFromSource.h",
             "FWCore/TestProcessor/interface/LuminosityBlockFromSource.h",
             "FWCore/TestProcessor/interface/RunFromSource.h",
+            "FWCore/TestProcessor/interface/TestProcessor.h",
             "FWCore/TestProcessor/interface/TestSourceProcessor.h",
             "FWCore/TestProcessor/python/TestProcess.py",
             "FWCore/TestProcessor/python/TestSourceProcess.py",
@@ -1726,12 +1727,15 @@
             "FWCore/TestProcessor/src/oneTimeInitialization.cc",
             "FWCore/TestProcessor/src/oneTimeInitialization.h",
             "FWCore/TestProcessor/test/BuildFile.xml",
-            "FWCore/TestProcessor/test/testsourceprocessor_t.cppunit.cc"
+            "FWCore/TestProcessor/test/testsourceprocessor_t.cppunit.cc",
+            "IOPool/Common/test/BuildFile.xml",
+            "IOPool/Common/test/test_catch2_main.cc",
+            "IOPool/Common/test/test_catch2_output2input.cc"
         ],
         "created_at": 1720806646,
         "number": 45443,
         "state": "open",
-        "updated_at": 1721129584
+        "updated_at": 1721216276
     },
     "45451": {
         "base_branch": "CMSSW_14_0_X",
