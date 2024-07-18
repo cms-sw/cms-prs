@@ -1933,12 +1933,13 @@
         "base_branch": "master",
         "changed_files_names": [
             "DataFormats/EgammaReco/interface/ElectronSeed.h",
-            "DataFormats/Math/interface/approx_log.h"
+            "DataFormats/Math/interface/approx_log.h",
+            "RecoEgamma/EgammaElectronAlgos/src/ElectronSeedGenerator.cc"
         ],
         "created_at": 1721281875,
         "number": 45488,
         "state": "open",
-        "updated_at": 1721281904
+        "updated_at": 1721291345
     },
     "45489": {
         "base_branch": "master",
