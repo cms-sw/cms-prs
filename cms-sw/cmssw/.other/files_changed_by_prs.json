@@ -2235,5 +2235,16 @@
         "number": 45525,
         "state": "open",
         "updated_at": 1721650802
+    },
+    "45526": {
+        "base_branch": "CMSSW_14_0_X",
+        "changed_files_names": [
+            "RecoEgamma/EgammaTools/plugins/EGRegressionModifierV3.cc",
+            "RecoEgamma/EgammaTools/python/regressionModifier_cfi.py"
+        ],
+        "created_at": 1721652859,
+        "number": 45526,
+        "state": "open",
+        "updated_at": 1721652884
     }
 }
