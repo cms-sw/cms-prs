@@ -1559,10 +1559,10 @@
             "FWCore/Reflection/test/stubs/TestObjects.h",
             "FWCore/Reflection/test/stubs/classes.h",
             "FWCore/Reflection/test/stubs/classes_def.xml",
-            "FWCore/Reflection/test/stubs/classes_def_ClassVersionMissingInClass.xml",
-            "FWCore/Reflection/test/stubs/classes_def_ClassVersionMissingInVersion.xml",
-            "FWCore/Reflection/test/stubs/classes_def_checksumMissingInVersion.xml",
-            "FWCore/Reflection/test/stubs/classes_def_nameMissing.xml",
+            "FWCore/Reflection/test/stubs/test_def_ClassVersionMissingInClass.xml",
+            "FWCore/Reflection/test/stubs/test_def_ClassVersionMissingInVersion.xml",
+            "FWCore/Reflection/test/stubs/test_def_checksumMissingInVersion.xml",
+            "FWCore/Reflection/test/stubs/test_def_nameMissing.xml",
             "FWCore/Utilities/scripts/edmCheckClassVersion",
             "Utilities/ReleaseScripts/scripts/checkDictionaryUpdate.py",
             "Utilities/ReleaseScripts/test/BuildFile.xml",
@@ -1575,7 +1575,7 @@
         "created_at": 1720614118,
         "number": 45423,
         "state": "open",
-        "updated_at": 1721324912
+        "updated_at": 1721739395
     },
     "45431": {
         "base_branch": "CMSSW_14_0_X",
