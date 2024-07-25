@@ -1771,31 +1771,6 @@
         "state": "open",
         "updated_at": 1721740948
     },
-    "45500": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/HGCalUncalibRecHitL1Seeded_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/HGCalUncalibRecHit_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltFilteredLayerClustersPassThrough_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclCandidate_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTracksterLinks_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTrackstersPassthrough_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/particleFlowClusterHGCal_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/pfTICL_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/ticlTrackstersCLUE3DHighL1Seeded_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/ticlTrackstersCLUE3DHigh_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTTiclCandidateSequence_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTTiclTracksterLinksSequence_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTTiclTrackstersPassthroughSequence_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/iterTICLSequence_cfi.py",
-            "RecoHGCal/TICL/plugins/TICLCandidateProducer.cc"
-        ],
-        "created_at": 1721306386,
-        "number": 45500,
-        "state": "open",
-        "updated_at": 1721798465
-    },
     "45502": {
         "base_branch": "master",
         "changed_files_names": [
