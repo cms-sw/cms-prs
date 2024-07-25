@@ -2267,5 +2267,16 @@
         "number": 45561,
         "state": "open",
         "updated_at": 1721931348
+    },
+    "45562": {
+        "base_branch": "CMSSW_14_0_X",
+        "changed_files_names": [
+            "HeterogeneousCore/CUDACore/interface/ScopedContext.h",
+            "HeterogeneousCore/CUDACore/src/ScopedContext.cc"
+        ],
+        "created_at": 1721935812,
+        "number": 45562,
+        "state": "open",
+        "updated_at": 1721935880
     }
 }
