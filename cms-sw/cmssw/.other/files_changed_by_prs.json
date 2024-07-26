@@ -1485,38 +1485,6 @@
         "state": "open",
         "updated_at": 1721663980
     },
-    "45423": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "FWCore/Reflection/python/ClassesDefXmlUtils.py",
-            "FWCore/Reflection/scripts/edmCheckClassVersion",
-            "FWCore/Reflection/scripts/edmDumpClassVersion",
-            "FWCore/Reflection/test/BuildFile.xml",
-            "FWCore/Reflection/test/dumpClassVersion_reference.json",
-            "FWCore/Reflection/test/run_checkClassVersion.sh",
-            "FWCore/Reflection/test/run_dumpClassVersion.sh",
-            "FWCore/Reflection/test/stubs/TestObjects.cc",
-            "FWCore/Reflection/test/stubs/TestObjects.h",
-            "FWCore/Reflection/test/stubs/classes.h",
-            "FWCore/Reflection/test/stubs/classes_def.xml",
-            "FWCore/Reflection/test/stubs/test_def_ClassVersionMissingInClass.xml",
-            "FWCore/Reflection/test/stubs/test_def_ClassVersionMissingInVersion.xml",
-            "FWCore/Reflection/test/stubs/test_def_checksumMissingInVersion.xml",
-            "FWCore/Reflection/test/stubs/test_def_nameMissing.xml",
-            "FWCore/Utilities/scripts/edmCheckClassVersion",
-            "Utilities/ReleaseScripts/scripts/checkDictionaryUpdate.py",
-            "Utilities/ReleaseScripts/test/BuildFile.xml",
-            "Utilities/ReleaseScripts/test/checkDictionaryUpdate/dumpClassVersion_baseline.json",
-            "Utilities/ReleaseScripts/test/checkDictionaryUpdate/dumpClassVersion_newClass.json",
-            "Utilities/ReleaseScripts/test/checkDictionaryUpdate/dumpClassVersion_removeClass.json",
-            "Utilities/ReleaseScripts/test/checkDictionaryUpdate/dumpClassVersion_versionUpdate.json",
-            "Utilities/ReleaseScripts/test/run_checkDictionaryUpdate.sh"
-        ],
-        "created_at": 1720614118,
-        "number": 45423,
-        "state": "open",
-        "updated_at": 1721752951
-    },
     "45438": {
         "base_branch": "master",
         "changed_files_names": [
