@@ -2094,5 +2094,18 @@
         "number": 45565,
         "state": "open",
         "updated_at": 1721975476
+    },
+    "45566": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareRecHitsSoAAlpaka.cc",
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareTrackSoAAlpaka.cc",
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareVertexSoAAlpaka.cc",
+            "HLTrigger/Configuration/python/customizeHLTforAlpaka.py"
+        ],
+        "created_at": 1721997600,
+        "number": 45566,
+        "state": "open",
+        "updated_at": 1721997625
     }
 }
