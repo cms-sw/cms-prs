@@ -2151,11 +2151,18 @@
     "45572": {
         "base_branch": "master",
         "changed_files_names": [
-            "HeterogeneousCore/AlpakaInterface/interface/memory.h"
+            "DataFormats/TrackingRecHitSoA/interface/TrackingRecHitsDevice.h",
+            "EventFilter/EcalRawToDigi/plugins/alpaka/EcalRawToDigiPortable.cc",
+            "HeterogeneousCore/AlpakaInterface/interface/memory.h",
+            "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EcalUncalibRecHitProducerPortable.cc",
+            "RecoLocalCalo/HGCalRecProducers/plugins/alpaka/HGCalLayerClustersAlgoWrapper.dev.cc",
+            "RecoLocalCalo/HGCalRecProducers/plugins/alpaka/HGCalLayerClustersSoAAlgoWrapper.dev.cc",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToClusterKernel.dev.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernels.dev.cc"
         ],
         "created_at": 1722229472,
         "number": 45572,
         "state": "open",
-        "updated_at": 1722229499
+        "updated_at": 1722230068
     }
 }
