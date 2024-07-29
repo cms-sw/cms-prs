@@ -2135,5 +2135,23 @@
         "number": 45578,
         "state": "open",
         "updated_at": 1722250992
+    },
+    "45579": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/ProcessModifiers/python/allSonicTriton_cff.py",
+            "Configuration/ProcessModifiers/python/particleTransformerAK4SonicTriton_cff.py",
+            "RecoBTag/ONNXRuntime/BuildFile.xml",
+            "RecoBTag/ONNXRuntime/interface/tensor_configs.h",
+            "RecoBTag/ONNXRuntime/interface/tensor_fillers.h",
+            "RecoBTag/ONNXRuntime/plugins/ParticleTransformerAK4ONNXJetTagsProducer.cc",
+            "RecoBTag/ONNXRuntime/plugins/ParticleTransformerAK4SonicJetTagsProducer.cc",
+            "RecoBTag/ONNXRuntime/python/pfParticleTransformerAK4_cff.py",
+            "RecoBTag/ONNXRuntime/src/tensor_fillers.cc"
+        ],
+        "created_at": 1722253788,
+        "number": 45579,
+        "state": "open",
+        "updated_at": 1722253819
     }
 }
