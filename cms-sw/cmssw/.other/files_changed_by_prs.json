@@ -2079,5 +2079,20 @@
         "number": 45588,
         "state": "open",
         "updated_at": 1722330283
+    },
+    "45589": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoVertex/BeamSpotProducer/plugins/BeamSpotCompatibilityChecker.cc",
+            "RecoVertex/BeamSpotProducer/plugins/BuildFile.xml",
+            "RecoVertex/BeamSpotProducer/test/BuildFile.xml",
+            "RecoVertex/BeamSpotProducer/test/testBeamSpotCompatibility.cc",
+            "RecoVertex/BeamSpotProducer/test/testBeamSpotCompatibility.sh",
+            "RecoVertex/BeamSpotProducer/test/testBeamSpotCompatibility_cfg.py"
+        ],
+        "created_at": 1722334682,
+        "number": 45589,
+        "state": "open",
+        "updated_at": 1722334702
     }
 }
