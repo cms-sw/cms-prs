@@ -2094,5 +2094,25 @@
         "number": 45589,
         "state": "open",
         "updated_at": 1722334702
+    },
+    "45590": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Validation/RecoEgamma/plugins/ElectronMcMiniAODSignalValidator.cc",
+            "Validation/RecoEgamma/plugins/ElectronMcMiniAODSignalValidator.h",
+            "Validation/RecoEgamma/plugins/ElectronMcSignalValidator.cc",
+            "Validation/RecoEgamma/plugins/ElectronMcSignalValidator.h",
+            "Validation/RecoEgamma/python/ElectronMcSignalValidatorMiniAOD_cfi.py",
+            "Validation/RecoEgamma/test/ElectronMcSignalPostValidationMiniAOD_cfg.py",
+            "Validation/RecoEgamma/test/ElectronMcSignalPostValidation_cfg.py",
+            "Validation/RecoEgamma/test/ElectronMcSignalValidationMiniAOD_cfg.py",
+            "Validation/RecoEgamma/test/ElectronMcSignalValidationPt1000_gedGsfElectrons_cfg.py",
+            "Validation/RecoEgamma/test/ElectronMcSignalValidation_gedGsfElectrons_cfg.py",
+            "Validation/RecoEgamma/test/electronValidationCheck_Env.py"
+        ],
+        "created_at": 1722335937,
+        "number": 45590,
+        "state": "open",
+        "updated_at": 1722335966
     }
 }
