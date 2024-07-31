@@ -2131,5 +2131,22 @@
         "number": 45611,
         "state": "open",
         "updated_at": 1722453025
+    },
+    "45612": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQM/TrackingMonitor/src/PackedCandidateTrackValidator.cc",
+            "DataFormats/PatCandidates/interface/PackedCandidate.h",
+            "DataFormats/PatCandidates/src/PackedCandidate.cc",
+            "DataFormats/PatCandidates/src/classes_def_objects.xml",
+            "RecoBTag/FeatureTools/plugins/DeepBoostedJetTagInfoProducer.cc",
+            "RecoBTag/FeatureTools/plugins/ParticleNetFeatureEvaluator.cc",
+            "RecoBTag/FeatureTools/src/ChargedCandidateConverter.cc",
+            "RecoTauTag/RecoTau/interface/DeepTauIdBase.h"
+        ],
+        "created_at": 1722462791,
+        "number": 45612,
+        "state": "open",
+        "updated_at": 1722462791
     }
 }
