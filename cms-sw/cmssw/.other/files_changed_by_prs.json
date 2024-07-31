@@ -2204,5 +2204,20 @@
         "number": 45608,
         "state": "open",
         "updated_at": 1722430926
+    },
+    "45610": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Reflection/scripts/edmCheckClassVersion",
+            "FWCore/Reflection/test/BuildFile.xml",
+            "FWCore/Reflection/test/run_checkClassVersionUpdate.sh",
+            "FWCore/Reflection/test/stubs/TestObjects.h",
+            "FWCore/Reflection/test/stubs/test_def_incorrectVersion.xml",
+            "FWCore/Reflection/test/stubs/test_def_v4.xml"
+        ],
+        "created_at": 1722446846,
+        "number": 45610,
+        "state": "open",
+        "updated_at": 1722446872
     }
 }
