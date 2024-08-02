@@ -2194,5 +2194,21 @@
         "number": 45623,
         "state": "open",
         "updated_at": 1722543104
+    },
+    "45624": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/hgcalHEmix/v19/hgcalHEmix.xml",
+            "Geometry/HGCalCommonData/interface/HGCalCassette.h",
+            "Geometry/HGCalCommonData/interface/HGCalGeomParameters.h",
+            "Geometry/HGCalCommonData/interface/HGCalParameters.h",
+            "Geometry/HGCalCommonData/plugins/DDHGCalMixRotatedFineCassette.cc",
+            "Geometry/HGCalCommonData/src/HGCalCassette.cc",
+            "Geometry/HGCalCommonData/src/HGCalGeomParameters.cc"
+        ],
+        "created_at": 1722579878,
+        "number": 45624,
+        "state": "open",
+        "updated_at": 1722579908
     }
 }
