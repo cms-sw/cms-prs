@@ -2140,6 +2140,7 @@
             "Alignment/CommonAlignment/plugins/BuildFile.xml",
             "Alignment/CommonAlignmentMonitor/plugins/AlignmentMonitorAsAnalyzer.cc",
             "Alignment/CommonAlignmentProducer/interface/AlignmentProducerBase.h",
+            "Alignment/CommonAlignmentProducer/plugins/GlobalTrackerMuonAlignment.cc",
             "Alignment/LaserAlignment/plugins/LaserAlignment.h",
             "Alignment/MuonAlignment/plugins/BuildFile.xml",
             "Alignment/MuonAlignment/plugins/MuonMisalignedProducer.cc",
@@ -2171,7 +2172,7 @@
         "created_at": 1722665616,
         "number": 45628,
         "state": "open",
-        "updated_at": 1722821355
+        "updated_at": 1722821671
     },
     "45629": {
         "base_branch": "master",
