@@ -2168,6 +2168,7 @@
     "45636": {
         "base_branch": "master",
         "changed_files_names": [
+            "Configuration/EventContent/python/EventContent_cff.py",
             "DQMOffline/Trigger/python/PrimaryVertexMonitoring_cff.py",
             "DQMOffline/Trigger/python/SiTrackerPhase2_OfflineMonitoring_cff.py",
             "DQMOffline/Trigger/python/TrackToTrackMonitoring_cff.py",
@@ -2556,6 +2557,7 @@
             "HLTrigger/Configuration/python/HLT_75e33/sequences/ticlTrackstersCLUE3DHighStepSequence_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/sequences/vertexRecoSequence_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33_cff.py",
+            "RecoHGCal/Configuration/python/RecoHGCal_EventContent_cff.py",
             "Validation/RecoTrack/python/HLTmultiTrackValidator_cff.py",
             "Validation/RecoTrack/python/associators_cff.py",
             "Validation/RecoVertex/python/HLTmultiPVvalidator_cff.py"
@@ -2563,7 +2565,7 @@
         "created_at": 1722844038,
         "number": 45636,
         "state": "open",
-        "updated_at": 1722866570
+        "updated_at": 1722919548
     },
     "45637": {
         "base_branch": "CMSSW_14_0_X",
