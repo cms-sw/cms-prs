@@ -2648,5 +2648,23 @@
         "number": 45642,
         "state": "open",
         "updated_at": 1722885929
+    },
+    "45643": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/dd4hep/testHGCalV19.xml",
+            "Geometry/HGCalCommonData/data/hgcalEE/v19/hgcalEE.xml",
+            "Geometry/HGCalCommonData/data/hgcalPassive/v19/hgcalPassive.xml",
+            "Geometry/HGCalCommonData/plugins/DDHGCalMixRotatedFineCassette.cc",
+            "Geometry/HGCalCommonData/plugins/DDHGCalPassive.cc",
+            "Geometry/HGCalCommonData/python/testHGCalV19XML_cfi.py",
+            "Geometry/HGCalCommonData/src/HGCalParametersFromDD.cc",
+            "Geometry/HGCalCommonData/test/python/dumpHGCalDD4hep_cfg.py",
+            "Geometry/HGCalCommonData/test/python/dumpHGCalDDD_cfg.py"
+        ],
+        "created_at": 1722917221,
+        "number": 45643,
+        "state": "open",
+        "updated_at": 1722917249
     }
 }
