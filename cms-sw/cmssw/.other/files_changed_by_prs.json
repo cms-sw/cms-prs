@@ -2671,5 +2671,20 @@
         "number": 45647,
         "state": "open",
         "updated_at": 1722932382
+    },
+    "45648": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQMOffline/Trigger/interface/HLTTauRefProducer.h",
+            "DQMOffline/Trigger/plugins/HLTTauRefProducer.cc",
+            "DQMOffline/Trigger/python/HLTTauDQMOfflineTauProducer_cfi.py",
+            "DQMOffline/Trigger/python/HLTTauDQMOffline_cff.py",
+            "DQMOffline/Trigger/python/HLTTauDQMOffline_cfi.py",
+            "DQMOffline/Trigger/python/HLTTauPostProcessor_cfi.py"
+        ],
+        "created_at": 1722940693,
+        "number": 45648,
+        "state": "open",
+        "updated_at": 1722940719
     }
 }
