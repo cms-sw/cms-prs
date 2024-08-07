@@ -313,7 +313,7 @@
         "created_at": 1686577887,
         "number": 41932,
         "state": "open",
-        "updated_at": 1712946413
+        "updated_at": 1723044081
     },
     "42005": {
         "base_branch": "master",
@@ -971,7 +971,7 @@
         "created_at": 1716809918,
         "number": 45055,
         "state": "open",
-        "updated_at": 1722870416
+        "updated_at": 1722957458
     },
     "45065": {
         "base_branch": "master",
@@ -1122,7 +1122,7 @@
         "created_at": 1717244844,
         "number": 45117,
         "state": "open",
-        "updated_at": 1722866672
+        "updated_at": 1723045073
     },
     "45146": {
         "base_branch": "master",
@@ -1183,7 +1183,7 @@
         "created_at": 1718622361,
         "number": 45242,
         "state": "open",
-        "updated_at": 1722832918
+        "updated_at": 1723012454
     },
     "45290": {
         "base_branch": "master",
@@ -1652,7 +1652,7 @@
         "created_at": 1721704648,
         "number": 45528,
         "state": "open",
-        "updated_at": 1722409439
+        "updated_at": 1723026212
     },
     "45531": {
         "base_branch": "master",
@@ -1663,7 +1663,7 @@
         "created_at": 1721728620,
         "number": 45531,
         "state": "open",
-        "updated_at": 1722416176
+        "updated_at": 1722922720
     },
     "45540": {
         "base_branch": "master",
@@ -1773,7 +1773,7 @@
         "created_at": 1722158926,
         "number": 45571,
         "state": "open",
-        "updated_at": 1722515741
+        "updated_at": 1723023641
     },
     "45572": {
         "base_branch": "master",
@@ -1812,6 +1812,24 @@
         "number": 45578,
         "state": "open",
         "updated_at": 1722341746
+    },
+    "45579": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/ProcessModifiers/python/allSonicTriton_cff.py",
+            "Configuration/ProcessModifiers/python/particleTransformerAK4SonicTriton_cff.py",
+            "RecoBTag/ONNXRuntime/BuildFile.xml",
+            "RecoBTag/ONNXRuntime/interface/tensor_configs.h",
+            "RecoBTag/ONNXRuntime/interface/tensor_fillers.h",
+            "RecoBTag/ONNXRuntime/plugins/ParticleTransformerAK4ONNXJetTagsProducer.cc",
+            "RecoBTag/ONNXRuntime/plugins/ParticleTransformerAK4SonicJetTagsProducer.cc",
+            "RecoBTag/ONNXRuntime/python/pfParticleTransformerAK4_cff.py",
+            "RecoBTag/ONNXRuntime/src/tensor_fillers.cc"
+        ],
+        "created_at": 1722253788,
+        "number": 45579,
+        "state": "open",
+        "updated_at": 1723050526
     },
     "45590": {
         "base_branch": "master",
@@ -1860,7 +1878,7 @@
         "created_at": 1722406904,
         "number": 45602,
         "state": "open",
-        "updated_at": 1722497529
+        "updated_at": 1723027895
     },
     "45603": {
         "base_branch": "CMSSW_14_0_X",
@@ -1870,7 +1888,7 @@
         "created_at": 1722407109,
         "number": 45603,
         "state": "open",
-        "updated_at": 1722502426
+        "updated_at": 1723013741
     },
     "45605": {
         "base_branch": "master",
@@ -1965,7 +1983,7 @@
         "created_at": 1722495787,
         "number": 45614,
         "state": "open",
-        "updated_at": 1722867185
+        "updated_at": 1722904974
     },
     "45616": {
         "base_branch": "master",
@@ -1976,7 +1994,7 @@
         "created_at": 1722513132,
         "number": 45616,
         "state": "open",
-        "updated_at": 1722513374
+        "updated_at": 1723019238
     },
     "45617": {
         "base_branch": "master",
@@ -1987,7 +2005,7 @@
         "created_at": 1722514863,
         "number": 45617,
         "state": "open",
-        "updated_at": 1722610240
+        "updated_at": 1723027899
     },
     "45626": {
         "base_branch": "master",
@@ -2038,7 +2056,7 @@
         "created_at": 1722665616,
         "number": 45628,
         "state": "open",
-        "updated_at": 1722929344
+        "updated_at": 1723035221
     },
     "45634": {
         "base_branch": "master",
@@ -2464,7 +2482,7 @@
         "created_at": 1722844038,
         "number": 45636,
         "state": "open",
-        "updated_at": 1722945765
+        "updated_at": 1723048571
     },
     "45640": {
         "base_branch": "master",
@@ -2507,7 +2525,7 @@
         "created_at": 1722885902,
         "number": 45642,
         "state": "open",
-        "updated_at": 1722968985
+        "updated_at": 1723022692
     },
     "45648": {
         "base_branch": "master",
@@ -2522,7 +2540,7 @@
         "created_at": 1722940693,
         "number": 45648,
         "state": "open",
-        "updated_at": 1722940719
+        "updated_at": 1722961410
     },
     "45653": {
         "base_branch": "CMSSW_14_0_X",
@@ -2532,7 +2550,7 @@
         "created_at": 1722955109,
         "number": 45653,
         "state": "open",
-        "updated_at": 1722955143
+        "updated_at": 1723045022
     },
     "45655": {
         "base_branch": "CMSSW_14_0_X",
@@ -2542,7 +2560,7 @@
         "created_at": 1722961601,
         "number": 45655,
         "state": "open",
-        "updated_at": 1722961623
+        "updated_at": 1723011728
     },
     "45656": {
         "base_branch": "master",
@@ -2552,7 +2570,7 @@
         "created_at": 1722966675,
         "number": 45656,
         "state": "open",
-        "updated_at": 1722966698
+        "updated_at": 1723023083
     },
     "45657": {
         "base_branch": "master",
@@ -2562,7 +2580,7 @@
         "created_at": 1722967683,
         "number": 45657,
         "state": "open",
-        "updated_at": 1722967721
+        "updated_at": 1722996281
     },
     "45660": {
         "base_branch": "master",
@@ -2572,7 +2590,7 @@
         "created_at": 1723013136,
         "number": 45660,
         "state": "open",
-        "updated_at": 1723013157
+        "updated_at": 1723024621
     },
     "45661": {
         "base_branch": "master",
@@ -2582,7 +2600,7 @@
         "created_at": 1723014220,
         "number": 45661,
         "state": "open",
-        "updated_at": 1723014297
+        "updated_at": 1723028458
     },
     "45662": {
         "base_branch": "master",
@@ -2592,7 +2610,7 @@
         "created_at": 1723018186,
         "number": 45662,
         "state": "open",
-        "updated_at": 1723018214
+        "updated_at": 1723037984
     },
     "45663": {
         "base_branch": "CMSSW_14_0_X",
@@ -2602,7 +2620,7 @@
         "created_at": 1723022700,
         "number": 45663,
         "state": "open",
-        "updated_at": 1723022720
+        "updated_at": 1723033903
     },
     "45664": {
         "base_branch": "master",
@@ -2612,7 +2630,7 @@
         "created_at": 1723029427,
         "number": 45664,
         "state": "open",
-        "updated_at": 1723029452
+        "updated_at": 1723029705
     },
     "45665": {
         "base_branch": "master",
@@ -2733,6 +2751,6 @@
         "created_at": 1723039925,
         "number": 45665,
         "state": "open",
-        "updated_at": 1723040855
+        "updated_at": 1723042545
     }
 }
