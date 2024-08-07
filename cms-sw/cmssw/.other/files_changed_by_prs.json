@@ -2487,12 +2487,14 @@
     "45640": {
         "base_branch": "master",
         "changed_files_names": [
-            "FWCore/ParameterSet/python/VarParsing.py"
+            "FWCore/ParameterSet/python/VarParsing.py",
+            "FWCore/ParameterSet/test/BuildFile.xml",
+            "FWCore/ParameterSet/test/test_varparsing_list.py"
         ],
         "created_at": 1722866731,
         "number": 45640,
         "state": "open",
-        "updated_at": 1722869685
+        "updated_at": 1723059283
     },
     "45642": {
         "base_branch": "CMSSW_13_2_X",
