@@ -1851,25 +1851,6 @@
         "state": "open",
         "updated_at": 1722336264
     },
-    "45601": {
-        "base_branch": "CMSSW_14_0_X",
-        "changed_files_names": [
-            "Configuration/Generator/python/CE_E_Front_120um_cfi.py",
-            "Configuration/Generator/python/CE_E_Front_200um_cfi.py",
-            "Configuration/Generator/python/CE_E_Front_300um_cfi.py",
-            "Configuration/Generator/python/CE_H_Coarse_300um_cfi.py",
-            "Configuration/Generator/python/CE_H_Coarse_Scint_cfi.py",
-            "Configuration/Generator/python/CE_H_Fine_120um_cfi.py",
-            "Configuration/Generator/python/CE_H_Fine_200um_cfi.py",
-            "Configuration/Generator/python/CE_H_Fine_300um_cfi.py",
-            "IOMC/ParticleGuns/interface/CloseByParticleGunProducer.h",
-            "IOMC/ParticleGuns/src/CloseByParticleGunProducer.cc"
-        ],
-        "created_at": 1722373056,
-        "number": 45601,
-        "state": "open",
-        "updated_at": 1722862963
-    },
     "45602": {
         "base_branch": "master",
         "changed_files_names": [
