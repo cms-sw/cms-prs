@@ -2485,39 +2485,6 @@
         "state": "open",
         "updated_at": 1723059283
     },
-    "45642": {
-        "base_branch": "CMSSW_13_2_X",
-        "changed_files_names": [
-            "DataFormats/BTauReco/interface/ChargedCandidateFeatures.h",
-            "DataFormats/BTauReco/interface/LostTracksFeatures.h",
-            "DataFormats/BTauReco/interface/UnifiedParticleTransformerAK4Features.h",
-            "DataFormats/BTauReco/interface/UnifiedParticleTransformerAK4TagInfo.h",
-            "DataFormats/BTauReco/src/classes.h",
-            "DataFormats/BTauReco/src/classes_def.xml",
-            "PhysicsTools/PatAlgos/python/recoLayer0/bTagging_cff.py",
-            "PhysicsTools/PatAlgos/python/tools/jetTools.py",
-            "RecoBTag/Configuration/python/RecoBTag_cff.py",
-            "RecoBTag/FeatureTools/interface/ChargedCandidateConverter.h",
-            "RecoBTag/FeatureTools/interface/LostTracksConverter.h",
-            "RecoBTag/FeatureTools/interface/TrackInfoBuilder.h",
-            "RecoBTag/FeatureTools/plugins/UnifiedParticleTransformerAK4TagInfoProducer.cc",
-            "RecoBTag/FeatureTools/src/ChargedCandidateConverter.cc",
-            "RecoBTag/FeatureTools/src/LostTracksConverter.cc",
-            "RecoBTag/FeatureTools/src/TrackInfoBuilder.cc",
-            "RecoBTag/ONNXRuntime/plugins/UnifiedParticleTransformerAK4ONNXJetTagsProducer.cc",
-            "RecoBTag/ONNXRuntime/python/pfHiggsInteractionNet_cff.py",
-            "RecoBTag/ONNXRuntime/python/pfParticleNetFromMiniAODAK4_cff.py",
-            "RecoBTag/ONNXRuntime/python/pfParticleNetFromMiniAODAK8_cff.py",
-            "RecoBTag/ONNXRuntime/python/pfUnifiedParticleTransformerAK4DiscriminatorsJetTags_cfi.py",
-            "RecoBTag/ONNXRuntime/python/pfUnifiedParticleTransformerAK4_cff.py",
-            "RecoBTag/ONNXRuntime/test/test_deep_flavour_cfg.py",
-            "RecoBTag/ONNXRuntime/test/test_unifiedpartak4_cfg.py"
-        ],
-        "created_at": 1722885902,
-        "number": 45642,
-        "state": "open",
-        "updated_at": 1723022692
-    },
     "45648": {
         "base_branch": "master",
         "changed_files_names": [
