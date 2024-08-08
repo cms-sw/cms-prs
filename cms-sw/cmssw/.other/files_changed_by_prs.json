@@ -2763,5 +2763,24 @@
         "number": 45667,
         "state": "open",
         "updated_at": 1723065819
+    },
+    "45668": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/hgcal/v19/hgcal.xml",
+            "Geometry/HGCalCommonData/data/hgcalEE/v18/hgcalEE.xml",
+            "Geometry/HGCalCommonData/data/hgcalEE/v19/hgcalEE.xml",
+            "Geometry/HGCalCommonData/data/hgcalHEmix/v19/hgcalHEmix.xml",
+            "Geometry/HGCalCommonData/data/hgcalHEsil/v18/hgcalHEsil.xml",
+            "Geometry/HGCalCommonData/data/hgcalHEsil/v19/hgcalHEsil.xml",
+            "Geometry/HGCalCommonData/data/hgcalPassive/v19/hgcalPassive.xml",
+            "Geometry/HGCalCommonData/plugins/DDHGCalMixRotatedFineCassette.cc",
+            "Geometry/HGCalCommonData/plugins/DDHGCalPassive.cc",
+            "Geometry/HGCalCommonData/plugins/DDHGCalSiliconRotatedCassette.cc"
+        ],
+        "created_at": 1723104284,
+        "number": 45668,
+        "state": "open",
+        "updated_at": 1723104314
     }
 }
