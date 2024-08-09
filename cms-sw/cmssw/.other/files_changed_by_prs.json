@@ -2716,5 +2716,24 @@
         "number": 45673,
         "state": "open",
         "updated_at": 1723140120
+    },
+    "45676": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQMOffline/MuonDPG/interface/BaseTnPEfficiencyTask.h",
+            "DQMOffline/MuonDPG/plugins/GEMTnPEfficiencyTask.cc",
+            "DQMOffline/MuonDPG/python/cscTnPEfficiencyTask_cfi.py",
+            "DQMOffline/MuonDPG/python/dtTnPEfficiencyTask_cfi.py",
+            "DQMOffline/MuonDPG/python/gemTnPEfficiencyClient_cfi.py",
+            "DQMOffline/MuonDPG/python/gemTnPEfficiencyTask_cfi.py",
+            "DQMOffline/MuonDPG/python/rpcTnPEfficiencyTask_cfi.py",
+            "DQMOffline/MuonDPG/src/BaseTnPEfficiencyTask.cc",
+            "RecoMuon/MuonIdentification/plugins/MuonIdProducer.cc",
+            "TrackingTools/TrackAssociator/src/TrackDetectorAssociator.cc"
+        ],
+        "created_at": 1723161975,
+        "number": 45676,
+        "state": "open",
+        "updated_at": 1723162004
     }
 }
