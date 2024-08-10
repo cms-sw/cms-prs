@@ -1847,6 +1847,7 @@
         "base_branch": "CMSSW_14_0_X",
         "changed_files_names": [
             "DQM/L1TMonitor/interface/L1TCaloLayer1Summary.h",
+            "DQM/L1TMonitor/plugins/SealModule.cc",
             "DQM/L1TMonitor/python/L1TCaloLayer1Summary_cff.py",
             "DQM/L1TMonitor/python/L1TCaloLayer1Summary_cfi.py",
             "DQM/L1TMonitor/python/L1TStage2_cff.py",
@@ -1857,7 +1858,7 @@
         "created_at": 1722430011,
         "number": 45608,
         "state": "open",
-        "updated_at": 1722853572
+        "updated_at": 1723280182
     },
     "45612": {
         "base_branch": "master",
