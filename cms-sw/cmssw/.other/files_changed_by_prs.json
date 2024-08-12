@@ -1904,43 +1904,6 @@
         "state": "open",
         "updated_at": 1722598005
     },
-    "45628": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "Alignment/APEEstimation/plugins/BuildFile.xml",
-            "Alignment/CommonAlignmentMonitor/plugins/AlignmentMonitorAsAnalyzer.cc",
-            "Alignment/CommonAlignmentProducer/interface/AlignmentProducerBase.h",
-            "Alignment/CommonAlignmentProducer/plugins/BuildFile.xml",
-            "Alignment/CommonAlignmentProducer/plugins/GlobalTrackerMuonAlignment.cc",
-            "Alignment/LaserAlignment/plugins/LaserAlignment.h",
-            "Alignment/MuonAlignment/plugins/MuonMisalignedProducer.cc",
-            "Alignment/MuonAlignment/src/MuonAlignmentInputDB.cc",
-            "Alignment/OfflineValidation/plugins/BuildFile.xml",
-            "Alignment/OfflineValidation/plugins/TrackerGeometryCompare.cc",
-            "Alignment/OfflineValidation/plugins/TrackerGeometryIntoNtuples.cc",
-            "Alignment/SurveyAnalysis/plugins/CreateSurveyRcds.cc",
-            "Alignment/TrackerAlignment/plugins/MisalignedTrackerESProducer.cc",
-            "Alignment/TrackerAlignment/plugins/TrackerSystematicMisalignments.cc",
-            "DQM/SiStripCommissioningSources/plugins/BuildFile.xml",
-            "DQM/SiStripMonitorPedestals/BuildFile.xml",
-            "DQM/TrackerRemapper/test/BuildFile.xml",
-            "Geometry/CSCGeometryBuilder/plugins/CSCGeometryESModule.cc",
-            "Geometry/CommonTopologies/BuildFile.xml",
-            "Geometry/DTGeometryBuilder/plugins/DTGeometryESModule.cc",
-            "Geometry/DTGeometryBuilder/plugins/dd4hep/DTGeometryBuilder.cc",
-            "Geometry/DTGeometryBuilder/plugins/dd4hep/DTGeometryESProducer.cc",
-            "Geometry/DTGeometryBuilder/src/DTGeometryBuilderFromDD4hep.cc",
-            "Geometry/GEMGeometryBuilder/plugins/GEMGeometryESModule.cc",
-            "Geometry/GeometryAligner/interface/GeometryAligner.h",
-            "Geometry/CommonTopologies/interface/GeometryAligner.h",
-            "Geometry/MTDGeometryBuilder/plugins/MTDDigiGeometryESModule.cc",
-            "Geometry/TrackerGeometryBuilder/plugins/TrackerDigiGeometryESModule.cc"
-        ],
-        "created_at": 1722665616,
-        "number": 45628,
-        "state": "open",
-        "updated_at": 1723035221
-    },
     "45634": {
         "base_branch": "master",
         "changed_files_names": [
