@@ -2688,5 +2688,16 @@
         "number": 45686,
         "state": "open",
         "updated_at": 1723419968
+    },
+    "45687": {
+        "base_branch": "CMSSW_14_0_X",
+        "changed_files_names": [
+            "Configuration/StandardSequences/python/Mixing.py",
+            "SimGeneral/MixingModule/python/mix_2024_25ns_RunIII2024Summer24_PoissonOOTPU_cfi.py"
+        ],
+        "created_at": 1723420177,
+        "number": 45687,
+        "state": "open",
+        "updated_at": 1723420203
     }
 }
