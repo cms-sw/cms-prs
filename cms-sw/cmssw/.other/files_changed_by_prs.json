@@ -2678,5 +2678,26 @@
         "number": 45689,
         "state": "open",
         "updated_at": 1723468821
+    },
+    "45692": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/dd4hep/testHGCalWaferV18.xml",
+            "Geometry/HGCalCommonData/data/dd4hep/testHGCalWaferV19.xml",
+            "Geometry/HGCalCommonData/data/hgcalEE/v19/hgcalEE.xml",
+            "Geometry/HGCalCommonData/data/hgcalHEmix/v19/hgcalHEmix.xml",
+            "Geometry/HGCalCommonData/data/hgcalHEsil/v19/hgcalHEsil.xml",
+            "Geometry/HGCalCommonData/data/hgcalcell/v19/hgcalcell.xml",
+            "Geometry/HGCalCommonData/data/hgcalwafer/v18/hgcalpos.xml",
+            "Geometry/HGCalCommonData/data/hgcalwafer/v19/hgcalpos.xml",
+            "Geometry/HGCalCommonData/python/testHGCalWaferV18XML_cfi.py",
+            "Geometry/HGCalCommonData/python/testHGCalWaferV19XML_cfi.py",
+            "Geometry/HGCalCommonData/test/python/dumpHGCalWaferDD4hep_cfg.py",
+            "Geometry/HGCalCommonData/test/python/dumpHGCalWaferDDD_cfg.py"
+        ],
+        "created_at": 1723524179,
+        "number": 45692,
+        "state": "open",
+        "updated_at": 1723524203
     }
 }
