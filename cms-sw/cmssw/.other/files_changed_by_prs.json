@@ -2675,5 +2675,17 @@
         "number": 45693,
         "state": "open",
         "updated_at": 1723546545
+    },
+    "45694": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/relval_gpu.py",
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "RecoTracker/Configuration/python/customizePixelTracksForTriplets.py"
+        ],
+        "created_at": 1723551923,
+        "number": 45694,
+        "state": "open",
+        "updated_at": 1723551953
     }
 }
