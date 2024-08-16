@@ -2710,5 +2710,17 @@
         "number": 45710,
         "state": "open",
         "updated_at": 1723762284
+    },
+    "45711": {
+        "base_branch": "CMSSW_14_0_X",
+        "changed_files_names": [
+            "Validation/RPCRecHits/interface/RPCRecHitValid.h",
+            "Validation/RPCRecHits/src/RPCRecHitValid.cc",
+            "Validation/RPCRecHits/src/RPCRecHitValidClient.cc"
+        ],
+        "created_at": 1723777237,
+        "number": 45711,
+        "state": "open",
+        "updated_at": 1723777259
     }
 }
