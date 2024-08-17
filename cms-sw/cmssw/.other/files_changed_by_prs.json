@@ -2924,5 +2924,19 @@
         "number": 45731,
         "state": "open",
         "updated_at": 1723883213
+    },
+    "45732": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CalibTracker/SiStripCommon/plugins/TkDetMapESProducer.cc",
+            "CalibTracker/SiStripESProducers/plugins/fake/SiStripBackPlaneCorrectionFakeESSource.cc",
+            "CalibTracker/SiStripESProducers/plugins/fake/SiStripHashedDetIdFakeESSource.cc",
+            "CalibTracker/SiStripESProducers/plugins/fake/SiStripLorentzAngleFakeESSource.cc",
+            "CalibTracker/SiStripQuality/plugins/SiStripQualityHotStripIdentifier.cc"
+        ],
+        "created_at": 1723884478,
+        "number": 45732,
+        "state": "open",
+        "updated_at": 1723884503
     }
 }
