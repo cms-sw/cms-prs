@@ -1384,15 +1384,17 @@
             "DataFormats/HcalRecHit/interface/ZDCRecHit.h",
             "DataFormats/HcalRecHit/src/ZDCRecHit.cc",
             "DataFormats/HcalRecHit/src/classes_def.xml",
+            "RecoLocalCalo/Configuration/python/hcalLocalReco_cff.py",
             "RecoLocalCalo/HcalRecAlgos/interface/ZdcSimpleRecAlgo_Run3.h",
             "RecoLocalCalo/HcalRecAlgos/src/ZdcSimpleRecAlgo_Run3.cc",
+            "RecoLocalCalo/HcalRecProducers/plugins/BuildFile.xml",
             "RecoLocalCalo/HcalRecProducers/plugins/ZdcHitReconstructor_Run3.cc",
             "RecoLocalCalo/HcalRecProducers/plugins/ZdcHitReconstructor_Run3.h"
         ],
         "created_at": 1720490433,
         "number": 45407,
         "state": "open",
-        "updated_at": 1723650005
+        "updated_at": 1723987472
     },
     "45416": {
         "base_branch": "master",
