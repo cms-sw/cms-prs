@@ -2918,5 +2918,21 @@
         "number": 45745,
         "state": "open",
         "updated_at": 1724092703
+    },
+    "45746": {
+        "base_branch": "CMSSW_14_0_X",
+        "changed_files_names": [
+            "DQM/SiPixelPhase1Track/interface/SiPixelPhase1ResidualsExtra.h",
+            "DQM/SiPixelPhase1Track/plugins/SiPixelPhase1ResidualsExtra.cc",
+            "DQM/SiPixelPhase1Track/python/SiPixelPhase1ResidualsExtra_cfi.py",
+            "DQMOffline/Trigger/python/SiPixel_OfflineMonitoring_Client_cff.py",
+            "DQMOffline/Trigger/python/SiPixel_OfflineMonitoring_HistogramManager_cfi.py",
+            "DQMOffline/Trigger/python/SiPixel_OfflineMonitoring_TrackResiduals_cff.py",
+            "DQMOffline/Trigger/python/SiPixel_OfflineMonitoring_cff.py"
+        ],
+        "created_at": 1724132748,
+        "number": 45746,
+        "state": "open",
+        "updated_at": 1724132784
     }
 }
