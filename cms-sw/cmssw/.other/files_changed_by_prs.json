@@ -2247,5 +2247,28 @@
         "number": 45750,
         "state": "open",
         "updated_at": 1724157503
+    },
+    "45752": {
+        "base_branch": "CMSSW_14_0_X",
+        "changed_files_names": [
+            "Configuration/Geometry/python/dict2021Geometry.py",
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2024.xml",
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2024FlatMinus05Percent.xml",
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2024FlatMinus10Percent.xml",
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2024FlatPlus05Percent.xml",
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2024FlatPlus10Percent.xml",
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2024ZeroMaterial.xml",
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2024FlatMinus05PercentXML_cfi.py",
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2024FlatMinus10PercentXML_cfi.py",
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2024FlatPlus05PercentXML_cfi.py",
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2024FlatPlus10PercentXML_cfi.py",
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2024XML_cfi.py",
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2024ZeroMaterialXML_cfi.py",
+            "Geometry/MuonCommonData/data/gem21/2024/v2/gem21.xml"
+        ],
+        "created_at": 1724162133,
+        "number": 45752,
+        "state": "open",
+        "updated_at": 1724162174
     }
 }
