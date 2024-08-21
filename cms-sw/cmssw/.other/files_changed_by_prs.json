@@ -2459,5 +2459,18 @@
         "number": 45765,
         "state": "open",
         "updated_at": 1724235770
+    },
+    "45766": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQM/EcalMonitorClient/python/IntegrityClient_cfi.py",
+            "DQM/EcalMonitorClient/src/IntegrityClient.cc",
+            "DQM/EcalMonitorTasks/python/RawDataTask_cfi.py",
+            "DQM/EcalMonitorTasks/src/RawDataTask.cc"
+        ],
+        "created_at": 1724239538,
+        "number": 45766,
+        "state": "open",
+        "updated_at": 1724239560
     }
 }
