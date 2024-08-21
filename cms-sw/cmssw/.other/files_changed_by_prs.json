@@ -2321,5 +2321,17 @@
         "number": 45766,
         "state": "open",
         "updated_at": 1724239560
+    },
+    "45767": {
+        "base_branch": "CMSSW_14_0_X",
+        "changed_files_names": [
+            "CondCore/SiStripPlugins/scripts/G2GainsValidator.py",
+            "CondCore/Utilities/python/tier0.py",
+            "DQM/Integration/python/config/FrontierCondition_GT_autoExpress_cfi.py"
+        ],
+        "created_at": 1724241936,
+        "number": 45767,
+        "state": "open",
+        "updated_at": 1724241962
     }
 }
