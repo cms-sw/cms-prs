@@ -2399,6 +2399,7 @@
     "45761": {
         "base_branch": "CMSSW_14_0_X",
         "changed_files_names": [
+            "DQM/EcalMonitorClient/python/IntegrityClient_cfi.py",
             "DQM/EcalMonitorClient/src/IntegrityClient.cc",
             "DQM/EcalMonitorTasks/python/RawDataTask_cfi.py",
             "DQM/EcalMonitorTasks/src/RawDataTask.cc"
@@ -2406,7 +2407,7 @@
         "created_at": 1724229029,
         "number": 45761,
         "state": "open",
-        "updated_at": 1724229058
+        "updated_at": 1724237529
     },
     "45762": {
         "base_branch": "master",
