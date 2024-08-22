@@ -2277,12 +2277,13 @@
     "45768": {
         "base_branch": "master",
         "changed_files_names": [
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleFlowSuperClusterHGCalFromTICLUnseeded_cfi.py"
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleFlowSuperClusterHGCalFromTICLUnseeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33_timing_cff.py"
         ],
         "created_at": 1724244130,
         "number": 45768,
         "state": "open",
-        "updated_at": 1724244222
+        "updated_at": 1724315776
     },
     "45769": {
         "base_branch": "CMSSW_14_0_X",
