@@ -2343,5 +2343,18 @@
         "number": 45774,
         "state": "open",
         "updated_at": 1724306999
+    },
+    "45775": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondTools/SiPixel/data/phase2_T33_mapping.csv",
+            "CondTools/SiPixel/test/SiPixelGenErrorDBObjectUploader_Phase2_cfg.py",
+            "CondTools/SiPixel/test/SiPixelTemplateDBObjectUploader_Phase2_cfg.py",
+            "CondTools/SiPixel/test/createTestDBObjects.sh"
+        ],
+        "created_at": 1724308177,
+        "number": 45775,
+        "state": "open",
+        "updated_at": 1724308247
     }
 }
