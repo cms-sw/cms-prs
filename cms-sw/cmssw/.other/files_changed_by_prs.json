@@ -1956,29 +1956,6 @@
         "state": "open",
         "updated_at": 1724056340
     },
-    "45712": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "Configuration/StandardSequences/python/SimL1EmulatorRepack_FullMC_cff.py",
-            "Configuration/StandardSequences/python/SimL1EmulatorRepack_Full_cff.py",
-            "EventFilter/L1TRawToDigi/python/gtStage2Raw_cfi.py",
-            "L1Trigger/Configuration/python/SimL1Emulator_cff.py",
-            "L1Trigger/L1TGlobal/python/simGtStage2Digis_cfi.py",
-            "L1Trigger/L1TGlobal/test/testVectorCode_data.py",
-            "L1Trigger/L1TNtuples/python/L1NtupleEMU_cff.py",
-            "L1Trigger/L1TNtuples/python/L1NtupleRAW_cff.py",
-            "L1Trigger/L1TNtuples/python/l1UpgradeTree_cfi.py",
-            "L1Trigger/L1TZDC/plugins/L1TZDCAnalyzer.cc",
-            "L1Trigger/L1TZDC/python/L1TZDCEmulation_cff.py",
-            "L1Trigger/L1TZDC/python/etSumZdcAnalyzer_cfi.py",
-            "L1Trigger/L1TZDC/python/etSumZdcProducer_cfi.py",
-            "L1Trigger/L1TZDC/python/l1tZDCEtSums_cfi.py"
-        ],
-        "created_at": 1723789600,
-        "number": 45712,
-        "state": "open",
-        "updated_at": 1724234834
-    },
     "45713": {
         "base_branch": "master",
         "changed_files_names": [
