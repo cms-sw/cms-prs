@@ -2165,12 +2165,14 @@
     "45774": {
         "base_branch": "master",
         "changed_files_names": [
-            "Configuration/PyReleaseValidation/python/relval_highstats.py"
+            "Configuration/PyReleaseValidation/python/MatrixUtil.py",
+            "Configuration/PyReleaseValidation/python/relval_highstats.py",
+            "Configuration/PyReleaseValidation/scripts/das-up-to-nevents.py"
         ],
         "created_at": 1724306973,
         "number": 45774,
         "state": "open",
-        "updated_at": 1724306999
+        "updated_at": 1724501166
     },
     "45776": {
         "base_branch": "master",
