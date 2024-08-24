@@ -2127,37 +2127,6 @@
         "state": "open",
         "updated_at": 1724237529
     },
-    "45764": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/defaultInputFiles_cff.py",
-            "Alignment/OfflineValidation/test/testPrimaryVertexRelatedValidations_cfg.py",
-            "Alignment/TrackerAlignment/test/Misalignments/createRandomlyMisalignedGeometry_Phase2_cfg.py",
-            "CondTools/SiPhase2Tracker/test/SiPhase2BadStripChannelBuilder_cfg.py",
-            "CondTools/SiPhase2Tracker/test/SiPhase2BadStripChannelReader_cfg.py",
-            "CondTools/SiPhase2Tracker/test/SiPhase2OuterTrackerLorentzAngleReader_cfg.py",
-            "CondTools/SiPhase2Tracker/test/SiPhase2OuterTrackerLorentzAngleWriter_cfg.py",
-            "Configuration/Geometry/python/GeometryDD4hepExtended2026DefaultReco_cff.py",
-            "Configuration/Geometry/python/GeometryDD4hepExtended2026Default_cff.py",
-            "Configuration/Geometry/python/GeometryExtended2026DefaultReco_cff.py",
-            "Configuration/Geometry/python/GeometryExtended2026Default_cff.py",
-            "Configuration/Geometry/python/defaultPhase2ConditionsEra_cff.py",
-            "Geometry/TrackerGeometryBuilder/src/PixelTopologyMap.cc",
-            "Geometry/TrackerGeometryBuilder/test/python/testPixelTopologyMapTest_cfg.py",
-            "Geometry/TrackerGeometryBuilder/test/runTest.sh",
-            "RecoTracker/MkFit/test/dumpMkFitGeometryPhase2.py",
-            "SLHCUpgradeSimulations/Geometry/test/phase2_digi_reco_pixelntuple_cfg.py",
-            "SLHCUpgradeSimulations/Geometry/test/writeFile_phase2_cfg.py",
-            "SimTracker/TrackerMaterialAnalysis/test/listIds_PhaseII.py",
-            "SimTracker/TrackerMaterialAnalysis/test/trackingMaterialAnalyser_ForPhaseII.py",
-            "SimTracker/TrackerMaterialAnalysis/test/trackingMaterialProducer10GeVNeutrino_ForPhaseII.py",
-            "Validation/Geometry/test/genHGCalPlots.sh"
-        ],
-        "created_at": 1724230117,
-        "number": 45764,
-        "state": "open",
-        "updated_at": 1724392027
-    },
     "45766": {
         "base_branch": "master",
         "changed_files_names": [
