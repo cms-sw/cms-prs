@@ -2359,13 +2359,16 @@
         "base_branch": "master",
         "changed_files_names": [
             "DQM/TrackerRemapper/bin/BuildFile.xml",
+            "DQM/TrackerRemapper/bin/printPixelLayersDisksMap.cc",
             "DQM/TrackerRemapper/bin/printPixelROCsMap.cc",
-            "DQM/TrackerRemapper/bin/printPixelTrackerMap.cc"
+            "DQM/TrackerRemapper/bin/printPixelTrackerMap.cc",
+            "DQM/TrackerRemapper/bin/printStripTrackerMap.cc",
+            "DQM/TrackerRemapper/src/SiStripTkMaps.cc"
         ],
         "created_at": 1724586328,
         "number": 45795,
         "state": "open",
-        "updated_at": 1724588999
+        "updated_at": 1724594553
     },
     "45796": {
         "base_branch": "master",
