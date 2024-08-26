@@ -2393,5 +2393,22 @@
         "number": 45798,
         "state": "open",
         "updated_at": 1724609293
+    },
+    "45799": {
+        "base_branch": "CMSSW_14_0_X",
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "DQM/Integration/python/clients/pixelgpu_dqm_sourceclient-live_cfg.py",
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareTrackSoA.cc",
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareTracks.cc",
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorTrackSoA.cc",
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorTrackSoAAlpaka.cc",
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelTrackComparisonHarvester.cc",
+            "DQM/SiPixelHeterogeneous/python/SiPixelHeterogenousDQMHarvesting_cff.py"
+        ],
+        "created_at": 1724647595,
+        "number": 45799,
+        "state": "open",
+        "updated_at": 1724647670
     }
 }
