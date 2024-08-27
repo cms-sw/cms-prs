@@ -1649,6 +1649,7 @@
             "CondFormats/HGCalObjects/src/classes_def.xml",
             "CondFormats/HGCalObjects/src/headers.h",
             "CondFormats/HGCalObjects/test/BuildFile.xml",
+            "CondFormats/HGCalObjects/test/testSerializationHGCalCondDataFormats.cc",
             "DQMServices/Core/interface/DQMStore.h",
             "DQMServices/Core/interface/MonitorElement.h",
             "DQMServices/Core/src/MonitorElement.cc",
@@ -1659,9 +1660,7 @@
             "DataFormats/HGCalDigi/interface/HGCalDigiSoA.h",
             "DataFormats/HGCalDigi/interface/HGCalECONDPacketInfoHost.h",
             "DataFormats/HGCalDigi/interface/HGCalECONDPacketInfoSoA.h",
-            "DataFormats/HGCalDigi/interface/HGCalFlaggedECONDInfo.h",
             "DataFormats/HGCalDigi/interface/HGCalRawDataDefinitions.h",
-            "EventFilter/HGCalRawToDigi/interface/HGCalRawDataDefinitions.h",
             "DataFormats/HGCalDigi/interface/alpaka/HGCalDigiDevice.h",
             "DataFormats/HGCalDigi/interface/alpaka/HGCalECONDPacketInfoDevice.h",
             "DataFormats/HGCalDigi/src/alpaka/classes_cuda.h",
@@ -1679,6 +1678,7 @@
             "DataFormats/HGCalRecHit/src/alpaka/classes_cuda_def.xml",
             "DataFormats/HGCalRecHit/src/alpaka/classes_rocm.h",
             "DataFormats/HGCalRecHit/src/alpaka/classes_rocm_def.xml",
+            "DataFormats/HGCalRecHit/src/classes.cc",
             "DataFormats/HGCalRecHit/src/classes.h",
             "DataFormats/HGCalRecHit/src/classes_def.xml",
             "DataFormats/Histograms/interface/MEtoEDMFormat.h",
@@ -1686,6 +1686,7 @@
             "EventFilter/HGCalRawToDigi/BuildFile.xml",
             "EventFilter/HGCalRawToDigi/interface/HGCalFrameGenerator.h",
             "EventFilter/HGCalRawToDigi/interface/HGCalModuleTreeReader.h",
+            "EventFilter/HGCalRawToDigi/interface/HGCalRawDataDefinitions.h",
             "EventFilter/HGCalRawToDigi/interface/HGCalUnpacker.h",
             "EventFilter/HGCalRawToDigi/plugins/BuildFile.xml",
             "EventFilter/HGCalRawToDigi/plugins/HGCalRawToDigi.cc",
@@ -1733,14 +1734,12 @@
             "SimCalorimetry/HGCalSimAlgos/src/TrivialEmulator.cc",
             "EventFilter/HGCalRawToDigi/src/TrivialEmulator.cc",
             "SimCalorimetry/HGCalSimProducers/BuildFile.xml",
-            "SimCalorimetry/HGCalSimProducers/plugins/BuildFile.xml",
-            "SimCalorimetry/HGCalSimProducers/plugins/alpaka/HGCalDigiSoaFiller.cc",
-            "SimCalorimetry/HGCalSimProducers/test/hgcalRealistiDigis_cfg.py"
+            "SimCalorimetry/HGCalSimProducers/plugins/BuildFile.xml"
         ],
         "created_at": 1723039925,
         "number": 45665,
         "state": "open",
-        "updated_at": 1724739047
+        "updated_at": 1724758371
     },
     "45666": {
         "base_branch": "master",
