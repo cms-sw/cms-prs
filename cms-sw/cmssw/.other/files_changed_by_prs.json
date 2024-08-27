@@ -1650,9 +1650,6 @@
             "CondFormats/HGCalObjects/src/headers.h",
             "CondFormats/HGCalObjects/test/BuildFile.xml",
             "CondFormats/HGCalObjects/test/testSerializationHGCalCondDataFormats.cc",
-            "DQMServices/Core/interface/DQMStore.h",
-            "DQMServices/Core/interface/MonitorElement.h",
-            "DQMServices/Core/src/MonitorElement.cc",
             "DataFormats/HGCalDigi/BuildFile.xml",
             "DataFormats/HGCalDigi/interface/HGCROCChannelDataFrame.h",
             "DataFormats/HGCalDigi/interface/HGCalDigiCollections.h",
@@ -1739,7 +1736,7 @@
         "created_at": 1723039925,
         "number": 45665,
         "state": "open",
-        "updated_at": 1724758371
+        "updated_at": 1724759718
     },
     "45666": {
         "base_branch": "master",
