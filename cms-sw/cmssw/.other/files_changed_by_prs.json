@@ -1837,12 +1837,14 @@
             "Configuration/Eras/python/Era_Run3_2024_cff.py",
             "Configuration/Eras/python/Modifier_stage2L1Trigger_2024_cff.py",
             "Configuration/Eras/python/Modifier_run3_2024_L1T_cff.py",
+            "DQM/L1TMonitor/python/L1TStage2uGTTiming_cfi.py",
+            "DQM/L1TMonitor/python/L1TdeStage2EMTF_cff.py",
             "L1Trigger/L1TMuonBarrel/python/simKBmtfDigis_cfi.py"
         ],
         "created_at": 1723793112,
         "number": 45713,
         "state": "open",
-        "updated_at": 1724739062
+        "updated_at": 1724831396
     },
     "45719": {
         "base_branch": "CMSSW_13_3_X",
