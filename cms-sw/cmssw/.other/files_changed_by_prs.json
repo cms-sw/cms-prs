@@ -2393,5 +2393,40 @@
         "number": 45820,
         "state": "open",
         "updated_at": 1724827818
+    },
+    "45821": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTracksterLinks_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTrackstersCLUE3DHighL1Seeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTrackstersCLUE3DHigh_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTrackstersPassthrough_cfi.py",
+            "RecoHGCal/TICL/interface/PatternRecognitionAlgoBase.h",
+            "RecoHGCal/TICL/interface/TracksterInferenceAlgoBase.h",
+            "RecoHGCal/TICL/interface/TracksterInferenceAlgoFactory.h",
+            "RecoHGCal/TICL/interface/TracksterInferenceByANN.h",
+            "RecoHGCal/TICL/interface/TracksterInferenceByCNNv4.h",
+            "RecoHGCal/TICL/interface/TracksterInferenceByDNN.h",
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyCA.cc",
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyCA.h",
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyCLUE3D.cc",
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyCLUE3D.h",
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyFastJet.cc",
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyFastJet.h",
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyPassthrough.cc",
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyPassthrough.h",
+            "RecoHGCal/TICL/plugins/TracksterInferenceAlgoFactory.cc",
+            "RecoHGCal/TICL/plugins/TracksterInferenceByANN.cc",
+            "RecoHGCal/TICL/plugins/TracksterInferenceByCNNv4.cc",
+            "RecoHGCal/TICL/plugins/TracksterInferenceByDNN.cc",
+            "RecoHGCal/TICL/plugins/TracksterLinksProducer.cc",
+            "RecoHGCal/TICL/plugins/TrackstersProducer.cc",
+            "RecoHGCal/TICL/python/CLUE3DHighStep_cff.py",
+            "RecoHGCal/TICL/python/iterativeTICL_cff.py"
+        ],
+        "created_at": 1724834188,
+        "number": 45821,
+        "state": "open",
+        "updated_at": 1724834215
     }
 }
