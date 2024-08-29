@@ -1279,19 +1279,6 @@
         "state": "open",
         "updated_at": 1724739016
     },
-    "45479": {
-        "base_branch": "CMSSW_14_0_X",
-        "changed_files_names": [
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
-            "Geometry/CommonTopologies/interface/SimplePixelTopology.h",
-            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py",
-            "RecoTracker/Configuration/python/customizePixelTracksForTriplets.py"
-        ],
-        "created_at": 1721201952,
-        "number": 45479,
-        "state": "open",
-        "updated_at": 1721248382
-    },
     "45483": {
         "base_branch": "master",
         "changed_files_names": [
