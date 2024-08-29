@@ -1765,13 +1765,14 @@
             "Configuration/PyReleaseValidation/README.md",
             "Configuration/PyReleaseValidation/python/relval_gpu.py",
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "DQM/SiPixelHeterogeneous/python/SiPixelHeterogenousDQM_FirstStep_cff.py",
             "DataFormats/VertexSoA/interface/ZVertexDefinitions.h",
             "RecoTracker/Configuration/python/customizePixelTracksForTriplets.py"
         ],
         "created_at": 1723551923,
         "number": 45694,
         "state": "open",
-        "updated_at": 1724750578
+        "updated_at": 1724928649
     },
     "45711": {
         "base_branch": "CMSSW_14_0_X",
