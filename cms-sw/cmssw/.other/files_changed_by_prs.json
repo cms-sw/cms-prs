@@ -2404,5 +2404,17 @@
         "number": 45833,
         "state": "open",
         "updated_at": 1724918341
+    },
+    "45835": {
+        "base_branch": "CMSSW_14_0_X",
+        "changed_files_names": [
+            "Validation/MuonRPCDigis/interface/RPCDigiValid.h",
+            "Validation/MuonRPCDigis/python/validationMuonRPCDigis_cfi.py",
+            "Validation/MuonRPCDigis/src/RPCDigiValid.cc"
+        ],
+        "created_at": 1724934643,
+        "number": 45835,
+        "state": "open",
+        "updated_at": 1724934669
     }
 }
