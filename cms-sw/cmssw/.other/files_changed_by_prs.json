@@ -2539,5 +2539,22 @@
         "number": 45830,
         "state": "open",
         "updated_at": 1724877019
+    },
+    "45831": {
+        "base_branch": "CMSSW_14_1_X",
+        "changed_files_names": [
+            "DQM/L1TMonitor/interface/L1TCaloLayer1Summary.h",
+            "DQM/L1TMonitor/plugins/SealModule.cc",
+            "DQM/L1TMonitor/python/L1TCaloLayer1Summary_cff.py",
+            "DQM/L1TMonitor/python/L1TCaloLayer1Summary_cfi.py",
+            "DQM/L1TMonitor/python/L1TStage2_cff.py",
+            "DQM/L1TMonitor/src/L1TCaloLayer1Summary.cc",
+            "L1Trigger/L1TCaloLayer1/plugins/L1TCaloSummary.cc",
+            "L1Trigger/L1TCaloLayer1/python/simCaloStage2Layer1Summary_cfi.py"
+        ],
+        "created_at": 1724885832,
+        "number": 45831,
+        "state": "open",
+        "updated_at": 1724885864
     }
 }
