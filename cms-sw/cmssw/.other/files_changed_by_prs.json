@@ -2297,9 +2297,6 @@
     "45826": {
         "base_branch": "master",
         "changed_files_names": [
-            "DQM/Integration/python/clients/l1tstage2_dqm_sourceclient-live_cfg.py",
-            "DQM/Integration/python/clients/l1tstage2emulator_dqm_sourceclient-live_cfg.py",
-            "DQM/L1TMonitor/python/L1TStage2uGTTiming_cfi.py",
             "EventFilter/L1TRawToDigi/plugins/implementations_stage2/CaloSummaryPacker.cc",
             "EventFilter/L1TRawToDigi/plugins/implementations_stage2/CaloSummaryPacker.h",
             "EventFilter/L1TRawToDigi/plugins/implementations_stage2/GTSetup.cc",
@@ -2310,7 +2307,7 @@
         "created_at": 1724846063,
         "number": 45826,
         "state": "open",
-        "updated_at": 1725025815
+        "updated_at": 1725026119
     },
     "45827": {
         "base_branch": "master",
