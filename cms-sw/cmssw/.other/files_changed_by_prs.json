@@ -2085,35 +2085,6 @@
         "state": "open",
         "updated_at": 1724916161
     },
-    "45812": {
-        "base_branch": "CMSSW_14_1_X",
-        "changed_files_names": [
-            "RecoLocalCalo/HGCalRecAlgos/test/testHGCalPartialWaferDigi_cfg.py",
-            "RecoLocalCalo/HGCalRecAlgos/test/testHGCalPartialWaferRecHit_cfg.py",
-            "RecoLocalCalo/HGCalRecAlgos/test/testHGCalPartialWaferSimHit_cfg.py",
-            "SimG4CMS/Calo/test/python/minbias.py",
-            "SimG4CMS/Calo/test/python/minbias2026_cfg.py",
-            "SimG4CMS/Calo/test/python/runHGC7_cfg.py",
-            "SimG4CMS/Calo/test/python/runHGC8_cfg.py",
-            "SimG4CMS/Calo/test/python/testHGCalGuardRing_cfg.py",
-            "SimG4CMS/Calo/test/python/testHGCalMouseBite_cfg.py",
-            "SimG4CMS/Calo/test/python/ttbar.py",
-            "Validation/Geometry/test/runMaterialBudgetVolume2026DD4hep_cfg.py",
-            "Validation/Geometry/test/runMaterialBudgetVolume2026DDD_cfg.py",
-            "Validation/HGCalValidation/test/python/runHFNoseDigiStudy_cfg.py",
-            "Validation/HGCalValidation/test/python/runHFNoseRecHitStudy_cfg.py",
-            "Validation/HGCalValidation/test/python/runHFNoseSimHitStudy_cfg.py",
-            "Validation/HGCalValidation/test/python/testHFNoseSimHitStudy_cfg.py",
-            "Validation/HGCalValidation/test/python/testHGCalSimWatcherV17N_cfg.py",
-            "Validation/HGCalValidation/test/python/testHGCalSimWatcherV17_cfg.py",
-            "Validation/HGCalValidation/test/python/testHGCalSimWatcherV18_cfg.py",
-            "Validation/HGCalValidation/test/python/testValidationHGCalTrigPrim_RelVal_cfg.py"
-        ],
-        "created_at": 1724756523,
-        "number": 45812,
-        "state": "open",
-        "updated_at": 1724907774
-    },
     "45813": {
         "base_branch": "master",
         "changed_files_names": [
