@@ -2516,5 +2516,18 @@
         "number": 45850,
         "state": "open",
         "updated_at": 1725165923
+    },
+    "45852": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/TrackSoA/test/BuildFile.xml",
+            "DataFormats/TrackSoA/test/alpaka/TrajectoryStateSoA_t.cc",
+            "DataFormats/TrackSoA/test/alpaka/TrajectoryStateSoA_t.dev.cc",
+            "DataFormats/TrackSoA/test/alpaka/TrajectoryStateSoA_t.h"
+        ],
+        "created_at": 1725201571,
+        "number": 45852,
+        "state": "open",
+        "updated_at": 1725201603
     }
 }
