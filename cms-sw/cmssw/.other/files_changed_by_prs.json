@@ -2471,5 +2471,19 @@
         "number": 45847,
         "state": "open",
         "updated_at": 1725132585
+    },
+    "45848": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Alignment/OfflineValidation/test/test_all_Phase2_cfg.py",
+            "Geometry/HcalCommonData/test/python/runHcalParametersFromDD4hepAnalyzer_cfg.py",
+            "Geometry/HcalCommonData/test/python/runHcalParametersFromDDDAnalyzer_cfg.py",
+            "Geometry/HcalCommonData/test/python/runHcalSimNumberingDDDTester_cfg.py",
+            "Geometry/MTDCommonData/test/testMTDGeometry.py"
+        ],
+        "created_at": 1725152726,
+        "number": 45848,
+        "state": "open",
+        "updated_at": 1725152832
     }
 }
