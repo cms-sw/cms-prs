@@ -2455,7 +2455,6 @@
             "CUDADataFormats/Track/test/TrajectoryStateSOA_t.cu",
             "CUDADataFormats/Track/test/TrajectoryStateSOA_t.h",
             "CUDADataFormats/TrackingRecHit/BuildFile.xml",
-            "CUDADataFormats/TrackingRecHit/interface/SiPixelHitStatus.h",
             "CUDADataFormats/TrackingRecHit/interface/TrackingRecHitSoADevice.h",
             "CUDADataFormats/TrackingRecHit/interface/TrackingRecHitSoAHost.h",
             "CUDADataFormats/TrackingRecHit/interface/TrackingRecHitsUtilities.h",
@@ -2481,7 +2480,6 @@
             "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorRecHitsSoA.cc",
             "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorTrackSoA.cc",
             "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorVertexSoA.cc",
-            "RecoLocalTracker/SiPixelRecHits/interface/pixelCPEforGPU.h",
             "RecoLocalTracker/SiPixelRecHits/plugins/BuildFile.xml",
             "RecoLocalTracker/SiPixelRecHits/plugins/PixelRecHitGPUKernel.cu",
             "RecoLocalTracker/SiPixelRecHits/plugins/PixelRecHitGPUKernel.h",
@@ -2549,7 +2547,7 @@
         "created_at": 1725219441,
         "number": 45853,
         "state": "open",
-        "updated_at": 1725219461
+        "updated_at": 1725286038
     },
     "45856": {
         "base_branch": "CMSSW_14_0_X",
