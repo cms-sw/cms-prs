@@ -1598,7 +1598,9 @@
             "EventFilter/HGCalRawToDigi/src/HGCalFrameGenerator.cc",
             "EventFilter/HGCalRawToDigi/src/HGCalModuleTreeReader.cc",
             "EventFilter/HGCalRawToDigi/src/HGCalUnpacker.cc",
+            "EventFilter/HGCalRawToDigi/test/BuildFile.xml",
             "EventFilter/HGCalRawToDigi/test/HGCalUnpackerTest.cc",
+            "EventFilter/HGCalRawToDigi/test/emulation_and_unpacking_cfg.py",
             "Geometry/HGCalMapping/interface/HGCalMappingTools.h",
             "Geometry/HGCalMapping/plugins/BuildFile.xml",
             "Geometry/HGCalMapping/plugins/HGCalMappingESProducer.cc",
@@ -1643,7 +1645,7 @@
         "created_at": 1723039925,
         "number": 45665,
         "state": "open",
-        "updated_at": 1725028726
+        "updated_at": 1725339790
     },
     "45667": {
         "base_branch": "master",
