@@ -2771,5 +2771,18 @@
         "number": 45866,
         "state": "open",
         "updated_at": 1725370972
+    },
+    "45867": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondCore/SiStripPlugins/scripts/G2GainsValidator.py",
+            "CondCore/SiStripPlugins/scripts/testCompare.sh",
+            "CondCore/SiStripPlugins/test/BuildFile.xml",
+            "CondCore/SiStripPlugins/test/test_G2GainsValidator.sh"
+        ],
+        "created_at": 1725375737,
+        "number": 45867,
+        "state": "open",
+        "updated_at": 1725375766
     }
 }
