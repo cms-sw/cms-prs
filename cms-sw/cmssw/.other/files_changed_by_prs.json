@@ -2560,6 +2560,8 @@
             "CommonTools/RecoAlgos/interface/MultiVectorManager.h",
             "DataFormats/HGCRecHit/interface/HGCRecHit.h",
             "DataFormats/HGCRecHit/interface/HGCRecHitCollections.h",
+            "DataFormats/HGCRecHit/interface/HGCRecHitComparison.h",
+            "DataFormats/HGCRecHit/src/classes.h",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltFilteredLayerClustersRecovery_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltFilteredLayerClustersPassThrough_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTracksterLinks_cfi.py",
@@ -2645,7 +2647,7 @@
         "created_at": 1725363742,
         "number": 45865,
         "state": "open",
-        "updated_at": 1725363781
+        "updated_at": 1725428355
     },
     "45866": {
         "base_branch": "master",
