@@ -1881,31 +1881,6 @@
         "state": "open",
         "updated_at": 1724739097
     },
-    "45801": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DataFormats/PortableTestObjects/interface/TestProductWithPtr.h",
-            "DataFormats/PortableTestObjects/src/alpaka/classes_cuda.h",
-            "DataFormats/PortableTestObjects/src/alpaka/classes_cuda_def.xml",
-            "DataFormats/PortableTestObjects/src/alpaka/classes_rocm.h",
-            "DataFormats/PortableTestObjects/src/alpaka/classes_rocm_def.xml",
-            "DataFormats/PortableTestObjects/src/classes.h",
-            "DataFormats/PortableTestObjects/src/classes_def.xml",
-            "HeterogeneousCore/AlpakaCore/README.md",
-            "HeterogeneousCore/AlpakaCore/interface/alpaka/ProducerBase.h",
-            "HeterogeneousCore/AlpakaInterface/interface/CopyToHost.h",
-            "HeterogeneousCore/AlpakaTest/plugins/TestAlpakaAnalyzerProductWithPtr.cc",
-            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaGlobalProducerWithPtr.cc",
-            "HeterogeneousCore/AlpakaTest/plugins/alpaka/testPtrAlgoAsync.dev.cc",
-            "HeterogeneousCore/AlpakaTest/plugins/alpaka/testPtrAlgoAsync.h",
-            "HeterogeneousCore/AlpakaTest/test/BuildFile.xml",
-            "HeterogeneousCore/AlpakaTest/test/testAlpakaModulesCopyOfPtr_cfg.py"
-        ],
-        "created_at": 1724679409,
-        "number": 45801,
-        "state": "open",
-        "updated_at": 1724757337
-    },
     "45803": {
         "base_branch": "master",
         "changed_files_names": [
