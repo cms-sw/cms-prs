@@ -2892,5 +2892,19 @@
         "number": 45899,
         "state": "open",
         "updated_at": 1725539822
+    },
+    "45900": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/interface/HGCalParameters.h",
+            "Geometry/HGCalCommonData/test/HGCalConvert.cpp",
+            "Geometry/HGCalGeometry/test/HGCalValidScintTest.cc",
+            "SLHCUpgradeSimulations/Geometry/test/Phase2PixelNtuple.cc",
+            "SLHCUpgradeSimulations/Geometry/test/StdHitNtuplizer.cc"
+        ],
+        "created_at": 1725539812,
+        "number": 45900,
+        "state": "open",
+        "updated_at": 1725539833
     }
 }
