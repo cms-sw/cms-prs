@@ -2834,5 +2834,27 @@
         "number": 45897,
         "state": "open",
         "updated_at": 1725539704
+    },
+    "45898": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Fireworks/Calo/interface/scaleMarker.h",
+            "Fireworks/Calo/plugins/FWTracksterHitsProxyBuilder.cc",
+            "Fireworks/Core/interface/FWJobMetadataUpdateRequest.h",
+            "Fireworks/Core/interface/FWProxyBuilderBase.h",
+            "Fireworks/Core/interface/FWViewManagerBase.h",
+            "Fireworks/Core/src/CSGConnector.h",
+            "Fireworks/Core/src/FW3DViewDistanceMeasureTool.h",
+            "Fireworks/Core/src/FWGeometryTableViewBase.cc",
+            "Fireworks/Core/src/fwPaletteExtra.cc",
+            "Fireworks/FWInterface/src/FWPSetCellEditor.h",
+            "Fireworks/Tracks/plugins/FWItemTrackAccessors.cc",
+            "Fireworks/Tracks/plugins/FWSiPixelDigiProxyBuilder.cc",
+            "Fireworks/Tracks/plugins/FWSiStripDigiProxyBuilder.cc"
+        ],
+        "created_at": 1725539787,
+        "number": 45898,
+        "state": "open",
+        "updated_at": 1725539811
     }
 }
