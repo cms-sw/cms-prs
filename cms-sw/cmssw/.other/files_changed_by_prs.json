@@ -2786,5 +2786,22 @@
         "number": 45895,
         "state": "open",
         "updated_at": 1725539676
+    },
+    "45896": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HeterogeneousCore/AlpakaCore/plugins/alpaka/AlpakaBackendProducer.cc",
+            "HeterogeneousCore/AlpakaInterface/interface/CachedBufAlloc.h",
+            "HeterogeneousCore/AlpakaInterface/test/alpaka/testPrefixScan.dev.cc",
+            "HeterogeneousCore/CUDACore/interface/ScopedContext.h",
+            "HeterogeneousCore/CUDAUtilities/interface/device_unique_ptr.h",
+            "HeterogeneousCore/CUDAUtilities/interface/host_noncached_unique_ptr.h",
+            "HeterogeneousCore/CUDAUtilities/interface/host_unique_ptr.h",
+            "HeterogeneousCore/SonicTriton/interface/TritonDummyCache.h"
+        ],
+        "created_at": 1725539665,
+        "number": 45896,
+        "state": "open",
+        "updated_at": 1725539685
     }
 }
