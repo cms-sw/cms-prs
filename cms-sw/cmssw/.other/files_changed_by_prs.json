@@ -4324,5 +4324,30 @@
         "number": 45918,
         "state": "open",
         "updated_at": 1725541225
+    },
+    "45919": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondFormats/L1TObjects/interface/CaloParams.h",
+            "CondFormats/L1TObjects/interface/L1GtEnergySumTemplate.h",
+            "CondFormats/L1TObjects/interface/L1MuGMTScales.h",
+            "CondFormats/L1TObjects/interface/L1MuPacking.h",
+            "CondFormats/L1TObjects/interface/L1MuScale.h",
+            "CondFormats/L1TObjects/interface/L1MuTriggerPtScale.h",
+            "CondFormats/L1TObjects/interface/L1MuTriggerScales.h",
+            "CondFormats/L1TObjects/interface/L1TUtmAlgorithm.h",
+            "CondFormats/L1TObjects/interface/L1TUtmBin.h",
+            "CondFormats/L1TObjects/interface/L1TUtmCondition.h",
+            "CondFormats/L1TObjects/interface/L1TUtmCut.h",
+            "CondFormats/L1TObjects/interface/L1TUtmCutValue.h",
+            "CondFormats/L1TObjects/interface/L1TUtmObject.h",
+            "CondFormats/L1TObjects/interface/L1TUtmScale.h",
+            "CondFormats/L1TObjects/interface/L1TUtmTriggerMenu.h",
+            "CondFormats/L1TObjects/src/L1RCTParameters.cc"
+        ],
+        "created_at": 1725541243,
+        "number": 45919,
+        "state": "open",
+        "updated_at": 1725541269
     }
 }
