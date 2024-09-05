@@ -3203,5 +3203,36 @@
         "number": 45901,
         "state": "open",
         "updated_at": 1725539861
+    },
+    "45902": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FastSimulation/CTPPSFastGeometry/interface/CTPPSToFDetector.h",
+            "FastSimulation/CTPPSFastGeometry/interface/CTPPSTrkDetector.h",
+            "FastSimulation/CaloGeometryTools/interface/CaloPoint.h",
+            "FastSimulation/CaloGeometryTools/interface/CaloSegment.h",
+            "FastSimulation/CaloGeometryTools/interface/CrystalPad.h",
+            "FastSimulation/CaloHitMakers/src/EcalHitMaker.cc",
+            "FastSimulation/Calorimetry/src/CalorimetryManager.cc",
+            "FastSimulation/Event/interface/FSimTrackEqual.h",
+            "FastSimulation/MaterialEffects/interface/CMSDummyDeexcitation.h",
+            "FastSimulation/MaterialEffects/interface/MaterialEffectsSimulator.h",
+            "FastSimulation/MaterialEffects/interface/MultipleScatteringSimulator.h",
+            "FastSimulation/ShowerDevelopment/src/FastHFShowerLibrary.cc",
+            "FastSimulation/ShowerDevelopment/src/HDShower.cc",
+            "FastSimulation/ShowerDevelopment/src/HFShower.cc",
+            "FastSimulation/SimplifiedGeometryPropagator/interface/BarrelSimplifiedGeometry.h",
+            "FastSimulation/SimplifiedGeometryPropagator/interface/CMSDummyDeexcitation.h",
+            "FastSimulation/SimplifiedGeometryPropagator/interface/Constants.h",
+            "FastSimulation/SimplifiedGeometryPropagator/interface/ForwardSimplifiedGeometry.h",
+            "FastSimulation/Tracking/interface/TrackingLayer.h",
+            "FastSimulation/TrackingRecHitProducer/src/PixelResolutionHistograms.cc",
+            "FastSimulation/TrackingRecHitProducer/src/PixelTemplateSmearerBase.cc",
+            "FastSimulation/Validation/plugins/EmptySimHits.cc"
+        ],
+        "created_at": 1725539864,
+        "number": 45902,
+        "state": "open",
+        "updated_at": 1725539894
     }
 }
