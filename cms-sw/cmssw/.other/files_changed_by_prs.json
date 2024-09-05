@@ -2644,5 +2644,16 @@
         "number": 45881,
         "state": "open",
         "updated_at": 1725519078
+    },
+    "45882": {
+        "base_branch": "CMSSW_12_4_HLT_X",
+        "changed_files_names": [
+            "Configuration/DataProcessing/python/Merge.py",
+            "Configuration/DataProcessing/test/RunMerge.py"
+        ],
+        "created_at": 1725519817,
+        "number": 45882,
+        "state": "open",
+        "updated_at": 1725519865
     }
 }
