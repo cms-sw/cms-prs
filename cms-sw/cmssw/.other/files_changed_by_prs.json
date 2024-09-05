@@ -3748,5 +3748,30 @@
         "number": 45908,
         "state": "open",
         "updated_at": 1725540038
+    },
+    "45909": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/GEMDigi/interface/GEMAMC.h",
+            "DataFormats/GEMDigi/interface/GEMOptoHybrid.h",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToCPAssociatorByEnergyScoreImpl.cc",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToSCAssociatorByEnergyScoreImpl.cc",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToSimTSAssociatorByEnergyScoreImpl.cc",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/MultiClusterAssociatorByEnergyScoreImpl.cc",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/TSToSCAssociatorByEnergyScoreImpl.cc",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/TSToSimTSAssociatorByEnergyScoreImpl.cc",
+            "SimCalorimetry/HGCalSimAlgos/interface/HGCalRadiationMap.h",
+            "SimCalorimetry/HGCalSimAlgos/interface/HGCalSciNoiseMap.h",
+            "SimCalorimetry/HGCalSimAlgos/interface/HGCalSiNoiseMap.h",
+            "SimCalorimetry/HGCalSimProducers/interface/HGCDigitizerBase.h",
+            "SimFastTiming/MtdAssociatorProducers/plugins/MtdRecoClusterToSimLayerClusterAssociatorByHitsImpl.cc",
+            "SimG4CMS/HGCalTestBeam/plugins/HGCalTBAnalyzer.cc",
+            "SimMuon/GEMDigitizer/src/ME0PreRecoGaussianModel.cc",
+            "SimMuon/GEMDigitizer/test/GEMDigiReader.cc"
+        ],
+        "created_at": 1725540024,
+        "number": 45909,
+        "state": "open",
+        "updated_at": 1725540050
     }
 }
