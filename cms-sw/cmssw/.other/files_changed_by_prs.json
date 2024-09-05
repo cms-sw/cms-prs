@@ -2640,6 +2640,8 @@
         "changed_files_names": [
             "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareVertices.cc",
             "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorVertexSoAAlpaka.cc",
+            "DataFormats/VertexSoA/README.md",
+            "DataFormats/VertexSoA/interface/ZVertexDefinitions.h",
             "DataFormats/VertexSoA/interface/ZVertexDevice.h",
             "DataFormats/VertexSoA/interface/ZVertexHost.h",
             "DataFormats/VertexSoA/interface/ZVertexSoA.h",
@@ -2652,6 +2654,8 @@
             "RecoTauTag/HLTProducers/src/L2TauTagNNProducerAlpaka.cc",
             "RecoTracker/PixelTrackFitting/plugins/PixelTrackDumpAlpaka.cc",
             "RecoTracker/PixelVertexFinding/plugins/PixelVertexProducerFromSoAAlpaka.cc",
+            "RecoTracker/PixelVertexFinding/plugins/alpaka/PixelVertexProducerAlpaka.cc",
+            "RecoTracker/PixelVertexFinding/plugins/alpaka/PixelVertexWorkSpaceSoADeviceAlpaka.h",
             "RecoTracker/PixelVertexFinding/plugins/alpaka/clusterTracksByDensity.h",
             "RecoTracker/PixelVertexFinding/plugins/alpaka/clusterTracksDBSCAN.h",
             "RecoTracker/PixelVertexFinding/plugins/alpaka/clusterTracksIterative.h",
@@ -2665,7 +2669,7 @@
         "created_at": 1725532310,
         "number": 45887,
         "state": "open",
-        "updated_at": 1725539172
+        "updated_at": 1725545574
     },
     "45889": {
         "base_branch": "master",
