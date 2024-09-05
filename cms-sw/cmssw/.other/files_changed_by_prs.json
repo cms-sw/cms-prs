@@ -4291,5 +4291,27 @@
         "number": 45916,
         "state": "open",
         "updated_at": 1725541185
+    },
+    "45917": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DPGAnalysis/HcalNanoAOD/plugins/HcalUHTRTableProducer.cc",
+            "DPGAnalysis/HcalNanoAOD/plugins/HcalUMNioTableProducer.cc",
+            "DPGAnalysis/MuonTools/plugins/MuCSCTnPFlatTableProducer.cc",
+            "DPGAnalysis/MuonTools/plugins/MuGEMMuonExtTableProducer.cc",
+            "PhysicsTools/NanoAOD/plugins/BJetEnergyRegressionVarProducer.cc",
+            "PhysicsTools/NanoAOD/plugins/BTVMCFlavourTableProducer.cc",
+            "PhysicsTools/NanoAOD/plugins/BTagSFProducer.cc",
+            "PhysicsTools/NanoAOD/plugins/GenJetFlavourTableProducer.cc",
+            "PhysicsTools/NanoAOD/plugins/IsFromLostTrackMapProducer.cc",
+            "PhysicsTools/NanoAOD/plugins/LeptonInJetProducer.cc",
+            "PhysicsTools/NanoAOD/plugins/LeptonJetVarProducer.cc",
+            "PhysicsTools/NanoAOD/plugins/NanoAODBaseCrossCleaner.h",
+            "PhysicsTools/NanoAOD/plugins/PileupJetIDVarProducer.cc"
+        ],
+        "created_at": 1725541186,
+        "number": 45917,
+        "state": "open",
+        "updated_at": 1725541212
     }
 }
