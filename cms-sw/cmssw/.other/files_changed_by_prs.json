@@ -1310,6 +1310,7 @@
             "Geometry/CaloGeometry/src/CaloGenericDetId.cc",
             "Geometry/CaloTopology/src/HcalTopology.cc",
             "Geometry/ForwardGeometry/BuildFile.xml",
+            "Geometry/ForwardGeometry/interface/CaloGeometryDBZdc.h",
             "Geometry/ForwardGeometry/interface/ZdcGeometry.h",
             "Geometry/ForwardGeometry/interface/ZdcHardcodeGeometryLoader.h",
             "Geometry/ForwardGeometry/interface/ZdcTopology.h",
@@ -1333,7 +1334,7 @@
         "created_at": 1721390704,
         "number": 45511,
         "state": "open",
-        "updated_at": 1725626936
+        "updated_at": 1725634214
     },
     "45513": {
         "base_branch": "CMSSW_14_0_X",
