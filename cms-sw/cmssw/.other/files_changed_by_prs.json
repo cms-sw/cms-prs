@@ -1305,6 +1305,7 @@
             "CalibCalorimetry/HcalPlugins/src/HcalHardcodeCalibrations.h",
             "CondFormats/HcalObjects/interface/HcalCondObjectContainer.h",
             "CondFormats/HcalObjects/src/HcalCondObjectContainerBase.cc",
+            "CondTools/Geometry/plugins/calowriters.cc",
             "Configuration/Geometry/python/GeometryRecoDB_cff.py",
             "Geometry/CaloGeometry/src/CaloGenericDetId.cc",
             "Geometry/CaloTopology/src/HcalTopology.cc",
@@ -1317,6 +1318,7 @@
             "Geometry/ForwardGeometry/plugins/ZdcHardcodeGeometryEP.h",
             "Geometry/ForwardGeometry/plugins/ZdcTopologyEP.cc",
             "Geometry/ForwardGeometry/plugins/ZdcTopologyEP.h",
+            "Geometry/ForwardGeometry/plugins/moduleDB.cc",
             "Geometry/ForwardGeometry/python/ZdcGeometry_cfi.py",
             "Geometry/ForwardGeometry/src/ES_ZdcGeometry.cc",
             "Geometry/ForwardGeometry/src/ZdcGeometry.cc",
@@ -1331,7 +1333,7 @@
         "created_at": 1721390704,
         "number": 45511,
         "state": "open",
-        "updated_at": 1725348251
+        "updated_at": 1725626936
     },
     "45513": {
         "base_branch": "CMSSW_14_0_X",
