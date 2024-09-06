@@ -2544,37 +2544,6 @@
         "state": "open",
         "updated_at": 1725539705
     },
-    "45897": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "HLTrigger/Egamma/plugins/HLTEgammaDoubleXGBoostCombFilter.cc",
-            "HLTrigger/Egamma/plugins/HLTEgammaL1MatchFilterRegional.cc",
-            "HLTrigger/Egamma/plugins/HLTEgammaL1TMatchFilterRegional.cc",
-            "HLTrigger/Egamma/plugins/HLTElectronEoverpFilterRegional.cc",
-            "HLTrigger/Egamma/plugins/HLTElectronOneOEMinusOneOPFilterRegional.cc",
-            "HLTrigger/Egamma/plugins/HLTElectronPixelMatchFilter.cc",
-            "HLTrigger/HLTcore/interface/TriggerSummaryProducerAOD.h",
-            "HLTrigger/JetMET/interface/HLTCATopTagFilter.h",
-            "HLTrigger/JetMET/src/HLTHcalLaserFilter.cc",
-            "HLTrigger/JetMET/src/HLTHcalTowerNoiseCleaner.cc",
-            "HLTrigger/JetMET/src/HLTHcalTowerNoiseCleanerWithrechit.cc",
-            "HLTrigger/JetMET/src/HLTJetCollectionsForBoostedLeptonPlusJets.cc",
-            "HLTrigger/JetMET/src/HLTJetVBFFilter.cc",
-            "HLTrigger/Muon/plugins/HLTMuonDimuonL3Filter.cc",
-            "HLTrigger/Muon/plugins/HLTMuonL3PreFilter.cc",
-            "HLTrigger/Muon/plugins/HLTMuonTrimuonL3Filter.cc",
-            "HLTrigger/Tools/bin/hltDiff.cc",
-            "HLTrigger/special/plugins/HLTCSCOverlapFilter.cc",
-            "HLTrigger/special/plugins/HLTCSCRing2or3Filter.cc",
-            "RecoEgamma/EgammaHLTProducers/plugins/EgammaHLTCaloTowerProducer.cc",
-            "RecoEgamma/EgammaHLTProducers/plugins/HLTRecHitInAllL1RegionsProducer.cc",
-            "RecoTauTag/HLTProducers/interface/L2TauPixelIsoTagProducer.h"
-        ],
-        "created_at": 1725539682,
-        "number": 45897,
-        "state": "open",
-        "updated_at": 1725539988
-    },
     "45899": {
         "base_branch": "master",
         "changed_files_names": [
