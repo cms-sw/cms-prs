@@ -2973,5 +2973,32 @@
         "number": 45945,
         "state": "open",
         "updated_at": 1725623004
+    },
+    "45947": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Framework/interface/ESRecordsToProductResolverIndices.h",
+            "FWCore/Framework/interface/EventSetupRecord.h",
+            "FWCore/Framework/interface/EventSetupRecordImpl.h",
+            "FWCore/Framework/interface/NoDataException.h",
+            "FWCore/Framework/interface/NoProductResolverException.h",
+            "FWCore/Framework/src/EDConsumerBase.cc",
+            "FWCore/Framework/src/ESProducer.cc",
+            "FWCore/Framework/src/ESRecordsToProductResolverIndices.cc",
+            "FWCore/Framework/src/ESTagGetter.cc",
+            "FWCore/Framework/src/EventSetupRecordImpl.cc",
+            "FWCore/Framework/src/NoDataException.cc",
+            "FWCore/Framework/src/NoProductResolverException.cc",
+            "FWCore/Framework/test/eventsetup_t.cppunit.cc",
+            "FWCore/Framework/test/eventsetuprecord_t.cppunit.cc",
+            "FWCore/Framework/test/test_catch2notTP_ESRecordsToProductResolverIndices.cc",
+            "FWCore/Utilities/interface/ESIndices.h",
+            "RecoLuminosity/LumiProducer/test/TestDIPLumiProducer.cc",
+            "RecoLuminosity/LumiProducer/test/TestLumiCorrectionSource.cc"
+        ],
+        "created_at": 1725638529,
+        "number": 45947,
+        "state": "open",
+        "updated_at": 1725638553
     }
 }
