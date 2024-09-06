@@ -2284,27 +2284,6 @@
         "state": "open",
         "updated_at": 1725605837
     },
-    "45874": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "Geometry/CMSCommonData/data/caloBase/2026/v8/caloBase.xml",
-            "Geometry/HGCalCommonData/data/hgcal/v19/hgcal.xml",
-            "Geometry/HGCalCommonData/data/hgcalEE/v19/hgcalEE.xml",
-            "Geometry/HGCalCommonData/data/hgcalHEmix/v19/hgcalHEmix.xml",
-            "Geometry/HGCalCommonData/data/hgcalHEsil/v19/hgcalHEsil.xml",
-            "Geometry/HGCalCommonData/data/hgcalMaterial/v3/hgcalMaterial.xml",
-            "Geometry/HGCalCommonData/data/hgcalPassive/v19/hgcalPassive.xml",
-            "Geometry/HGCalCommonData/data/hgcalwafer/v19/hgcalwafer.xml",
-            "Geometry/HGCalCommonData/plugins/DDHGCalPassive.cc",
-            "Geometry/HGCalCommonData/plugins/DDHGCalSiliconRotatedCassette.cc",
-            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalPassive.cc",
-            "Geometry/HGCalCommonData/python/testHGCalV19XML_cfi.py"
-        ],
-        "created_at": 1725450340,
-        "number": 45874,
-        "state": "open",
-        "updated_at": 1725579667
-    },
     "45882": {
         "base_branch": "CMSSW_12_4_HLT_X",
         "changed_files_names": [
