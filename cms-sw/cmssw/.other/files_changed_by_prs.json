@@ -3012,5 +3012,25 @@
         "number": 45949,
         "state": "open",
         "updated_at": 1725707269
+    },
+    "45950": {
+        "base_branch": "CMSSW_14_0_X",
+        "changed_files_names": [
+            "Configuration/DataProcessing/python/Impl/hltScouting.py",
+            "Configuration/DataProcessing/python/Impl/hltScoutingEra_Run3_2024.py",
+            "Configuration/DataProcessing/test/BuildFile.xml",
+            "Configuration/DataProcessing/test/run_CfgTest_13.sh",
+            "Configuration/DataProcessing/test/run_CfgTest_8.sh",
+            "Configuration/Eras/python/Era_Run3_2024_cff.py",
+            "Configuration/Eras/python/Modifier_run3_scouting_nanoAOD_post2023_cff.py",
+            "Configuration/PyReleaseValidation/python/relval_nano.py",
+            "PhysicsTools/NanoAOD/plugins/SimpleScoutingFlatTableProducerPlugins.cc",
+            "PhysicsTools/NanoAOD/python/custom_run3scouting_cff.py",
+            "PhysicsTools/NanoAOD/python/run3scouting_cff.py"
+        ],
+        "created_at": 1725774096,
+        "number": 45950,
+        "state": "open",
+        "updated_at": 1725774125
     }
 }
