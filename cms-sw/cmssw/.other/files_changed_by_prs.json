@@ -3032,5 +3032,21 @@
         "number": 45950,
         "state": "open",
         "updated_at": 1725774125
+    },
+    "45951": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/hgcal/v19/hgcal.xml",
+            "Geometry/HGCalCommonData/data/hgcalEE/v19/hgcalEE.xml",
+            "Geometry/HGCalCommonData/data/hgcalHEmix/v19/hgcalHEmix.xml",
+            "Geometry/HGCalCommonData/data/hgcalHEsil/v19/hgcalHEsil.xml",
+            "Geometry/HGCalCommonData/data/hgcalMaterial/v3/hgcalMaterial.xml",
+            "Geometry/HGCalCommonData/data/hgcalwafer/v19/hgcalwafer.xml",
+            "Geometry/HGCalCommonData/test/python/dumpHGCalDDD_cfg.py"
+        ],
+        "created_at": 1725775039,
+        "number": 45951,
+        "state": "open",
+        "updated_at": 1725775067
     }
 }
