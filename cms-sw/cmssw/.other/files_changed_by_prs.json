@@ -2249,42 +2249,6 @@
         "state": "open",
         "updated_at": 1725611859
     },
-    "45899": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "GeneratorInterface/AlpgenInterface/src/AlpgenHeader.cc",
-            "GeneratorInterface/Core/plugins/ExternalGeneratorFilter.cc",
-            "GeneratorInterface/CosmicMuonGenerator/src/CMSCGEN.cc",
-            "GeneratorInterface/EvtGenInterface/interface/DataCardFileWriter.h",
-            "GeneratorInterface/EvtGenInterface/interface/EvtGenInterfaceBase.h",
-            "GeneratorInterface/ExhumeInterface/interface/Particle.h",
-            "GeneratorInterface/ExhumeInterface/interface/Weight.h",
-            "GeneratorInterface/GenFilters/plugins/HerwigMaxPtPartonFilter.cc",
-            "GeneratorInterface/GenFilters/plugins/MCMultiParticleFilter.cc",
-            "GeneratorInterface/GenFilters/plugins/MCPdgIndexFilter.h",
-            "GeneratorInterface/GenFilters/plugins/ZgammaMassFilter.cc",
-            "GeneratorInterface/Hydjet2Interface/test/Hydjet2Analyzer.cc",
-            "GeneratorInterface/HydjetInterface/test/HydjetAnalyzer.cc",
-            "GeneratorInterface/PhotosInterface/interface/PhotosInterfaceBase.h",
-            "GeneratorInterface/Pythia6Interface/interface/PtYDistributor.h",
-            "GeneratorInterface/Pythia8Interface/plugins/EmissionVetoHook1.cc",
-            "GeneratorInterface/Pythia8Interface/plugins/Py8toJetInput.cc",
-            "GeneratorInterface/RivetInterface/interface/DQMRivetClient.h",
-            "GeneratorInterface/RivetInterface/interface/RivetAnalysis.h",
-            "GeneratorInterface/RivetInterface/plugins/GenParticles2HepMCConverter.cc",
-            "GeneratorInterface/RivetInterface/plugins/MergedGenParticleProducer.hh",
-            "GeneratorInterface/TauolaInterface/interface/TauSpinnerCMS.h",
-            "GeneratorInterface/TauolaInterface/interface/TauSpinnerFilter.h",
-            "GeneratorInterface/TauolaInterface/interface/TauolaInterfaceBase.h",
-            "GeneratorInterface/TauolaInterface/plugins/TauSpinner/TauSpinnerCMS.cc",
-            "IOMC/ParticleGuns/src/MultiParticleInConeGunProducer.cc",
-            "SimDataFormats/GeneratorProducts/interface/GenLumiInfoHeader.h"
-        ],
-        "created_at": 1725539801,
-        "number": 45899,
-        "state": "open",
-        "updated_at": 1725619095
-    },
     "45912": {
         "base_branch": "master",
         "changed_files_names": [
