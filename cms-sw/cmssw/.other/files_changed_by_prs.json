@@ -2177,34 +2177,6 @@
         "state": "open",
         "updated_at": 1725775822
     },
-    "45939": {
-        "base_branch": "CMSSW_12_4_HLT_X",
-        "changed_files_names": [
-            "Configuration/HLT/python/autoCondHLT.py",
-            "Configuration/HLT/python/autoHLT.py",
-            "HLTrigger/Configuration/python/HLT_2022v12_cff.py",
-            "HLTrigger/Configuration/python/HLT_2022v15_cff.py",
-            "HLTrigger/Configuration/python/HLT_2022v14_cff.py",
-            "HLTrigger/Configuration/python/HLT_Fake1_cff.py",
-            "HLTrigger/Configuration/python/HLT_Fake2_cff.py",
-            "HLTrigger/Configuration/python/HLT_Fake_cff.py",
-            "HLTrigger/Configuration/python/Tools/options.py",
-            "HLTrigger/Configuration/test/OnLine_HLT_2022v12.py",
-            "HLTrigger/Configuration/test/OnLine_HLT_2022v15.py",
-            "HLTrigger/Configuration/test/OnLine_HLT_2022v14.py",
-            "HLTrigger/Configuration/test/OnLine_HLT_Fake.py",
-            "HLTrigger/Configuration/test/OnLine_HLT_Fake1.py",
-            "HLTrigger/Configuration/test/OnLine_HLT_Fake2.py",
-            "HLTrigger/Configuration/test/cmsDriver.csh",
-            "HLTrigger/Configuration/test/getFrozenHLT.sh",
-            "HLTrigger/Configuration/test/runIntegration.csh",
-            "HLTrigger/Configuration/test/runOne.csh"
-        ],
-        "created_at": 1725616597,
-        "number": 45939,
-        "state": "open",
-        "updated_at": 1725648112
-    },
     "45944": {
         "base_branch": "CMSSW_14_1_X",
         "changed_files_names": [
