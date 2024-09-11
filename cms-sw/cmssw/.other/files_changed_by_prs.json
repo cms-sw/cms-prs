@@ -1378,41 +1378,6 @@
         "state": "open",
         "updated_at": 1725979372
     },
-    "45606": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DataFormats/L1Trigger/interface/P2GTCandidate.h",
-            "DataFormats/L1Trigger/src/P2GTCandidate.cc",
-            "DataFormats/L1Trigger/src/classes_def.xml",
-            "L1Trigger/Phase2L1GT/README.md",
-            "L1Trigger/Phase2L1GT/plugins/L1GTAlgoBoardWriter.cc",
-            "L1Trigger/Phase2L1GT/plugins/L1GTDoubleObjectCond.cc",
-            "L1Trigger/Phase2L1GT/plugins/L1GTEvaluationInterface.h",
-            "L1Trigger/Phase2L1GT/plugins/L1GTEvaluationProducer.cc",
-            "L1Trigger/Phase2L1GT/plugins/L1GTFinOrBoardWriter.cc",
-            "L1Trigger/Phase2L1GT/plugins/L1GTObjectBoardWriter.cc",
-            "L1Trigger/Phase2L1GT/plugins/L1GTOutputObjectWriter.cc",
-            "L1Trigger/Phase2L1GT/plugins/L1GTProducer.cc",
-            "L1Trigger/Phase2L1GT/plugins/L1GTQuadObjectCond.cc",
-            "L1Trigger/Phase2L1GT/plugins/L1GTSingleCollectionCut.h",
-            "L1Trigger/Phase2L1GT/plugins/L1GTSingleObjectCond.cc",
-            "L1Trigger/Phase2L1GT/plugins/L1GTTripleObjectCond.cc",
-            "L1Trigger/Phase2L1GT/python/l1tGTBoardWriterVU13P_cff.py",
-            "L1Trigger/Phase2L1GT/python/l1tGTBoardWriterVU9P_cff.py",
-            "L1Trigger/Phase2L1GT/python/l1tGTBoardWriter_cff.py",
-            "L1Trigger/Phase2L1GT/python/l1tGTMenu_BTagSeeds_cff.py",
-            "L1Trigger/Phase2L1GT/python/l1tGTMenu_crossLepSeeds_cff.py",
-            "L1Trigger/Phase2L1GT/python/l1tGTMenu_hadr_crossLepSeeds_cff.py",
-            "L1Trigger/Phase2L1GT/python/l1tGTMenu_lepSeeds_cff.py",
-            "L1Trigger/Phase2L1GT/python/l1tGTProducer_cff.py",
-            "L1Trigger/Phase2L1GT/test/gt_firmware_evaluation.py",
-            "L1Trigger/Phase2L1GT/test/test_GT.py"
-        ],
-        "created_at": 1722421501,
-        "number": 45606,
-        "state": "open",
-        "updated_at": 1725350134
-    },
     "45612": {
         "base_branch": "master",
         "changed_files_names": [
