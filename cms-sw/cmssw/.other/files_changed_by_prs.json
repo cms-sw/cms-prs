@@ -2385,5 +2385,24 @@
         "number": 45974,
         "state": "open",
         "updated_at": 1726044266
+    },
+    "45975": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Alignment/OfflineValidation/plugins/PixelBaryCentreAnalyzer.cc",
+            "Alignment/OfflineValidation/python/TkAlAllInOneTool/PixBary.py",
+            "Alignment/OfflineValidation/scripts/extractBaryCentre.py",
+            "Alignment/OfflineValidation/scripts/validateAlignments.py",
+            "Alignment/OfflineValidation/test/BuildFile.xml",
+            "Alignment/OfflineValidation/test/PixelBaryCentreAnalyzer_cfg.py",
+            "Alignment/OfflineValidation/test/examples/PixBary.yaml",
+            "Alignment/OfflineValidation/test/testingScripts/test_unitPixBary.sh",
+            "Alignment/OfflineValidation/test/unit_test.json",
+            "Alignment/OfflineValidation/test/unit_test.yaml"
+        ],
+        "created_at": 1726044345,
+        "number": 45975,
+        "state": "open",
+        "updated_at": 1726044366
     }
 }
