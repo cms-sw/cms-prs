@@ -2381,5 +2381,29 @@
         "number": 45993,
         "state": "open",
         "updated_at": 1726152050
+    },
+    "45995": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CalibCalorimetry/HcalAlgos/interface/HcalPulseShapeLookup.h",
+            "CalibCalorimetry/HcalAlgos/src/ES_HcalPulseShapeLookup.cc",
+            "CalibCalorimetry/HcalAlgos/src/HcalPulseShapeLookup.cc",
+            "DataFormats/HcalRecHit/test/HcalRecHitDump.cc",
+            "RecoLocalCalo/Configuration/python/hcalLocalReco_cff.py",
+            "RecoLocalCalo/HcalRecAlgos/interface/AbsHBHEPhase1Algo.h",
+            "RecoLocalCalo/HcalRecAlgos/interface/HcalPulseShapeLookupRcd.h",
+            "RecoLocalCalo/HcalRecAlgos/interface/MahiFit.h",
+            "RecoLocalCalo/HcalRecAlgos/plugins/HcalPulseShapesEP.cc",
+            "RecoLocalCalo/HcalRecAlgos/python/hcalPulseShapesESProd_cfi.py",
+            "RecoLocalCalo/HcalRecAlgos/src/HcalPulseShapeLookupRcd.cc",
+            "RecoLocalCalo/HcalRecAlgos/src/MahiFit.cc",
+            "RecoLocalCalo/HcalRecAlgos/src/SimpleHBHEPhase1Algo.cc",
+            "RecoLocalCalo/HcalRecProducers/python/HBHEPhase1Reconstructor_cfi.py",
+            "RecoLocalCalo/HcalRecProducers/src/HBHEPhase1Reconstructor.cc"
+        ],
+        "created_at": 1726161056,
+        "number": 45995,
+        "state": "open",
+        "updated_at": 1726161084
     }
 }
