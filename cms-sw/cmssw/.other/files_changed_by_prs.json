@@ -2027,43 +2027,6 @@
         "state": "open",
         "updated_at": 1725701064
     },
-    "45887": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareVertices.cc",
-            "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorVertexSoAAlpaka.cc",
-            "DataFormats/VertexSoA/README.md",
-            "DataFormats/VertexSoA/interface/ZVertexDefinitions.h",
-            "DataFormats/VertexSoA/interface/ZVertexDevice.h",
-            "DataFormats/VertexSoA/interface/ZVertexHost.h",
-            "DataFormats/VertexSoA/interface/ZVertexSoA.h",
-            "DataFormats/VertexSoA/interface/alpaka/ZVertexSoACollection.h",
-            "DataFormats/VertexSoA/src/classes.cc",
-            "DataFormats/VertexSoA/src/classes_def.xml",
-            "DataFormats/VertexSoA/test/alpaka/ZVertexSoA_test.cc",
-            "DataFormats/VertexSoA/test/alpaka/ZVertexSoA_test.dev.cc",
-            "DataFormats/VertexSoA/test/alpaka/ZVertexSoA_test.h",
-            "RecoTauTag/HLTProducers/src/L2TauTagNNProducerAlpaka.cc",
-            "RecoTracker/PixelTrackFitting/plugins/PixelTrackDumpAlpaka.cc",
-            "RecoVertex/Configuration/python/RecoPixelVertexing_cff.py",
-            "RecoVertex/PixelVertexFinding/plugins/PixelVertexProducerFromSoAAlpaka.cc",
-            "RecoVertex/PixelVertexFinding/plugins/alpaka/PixelVertexProducerAlpaka.cc",
-            "RecoVertex/PixelVertexFinding/plugins/alpaka/PixelVertexWorkSpaceSoADeviceAlpaka.h",
-            "RecoVertex/PixelVertexFinding/plugins/alpaka/clusterTracksByDensity.h",
-            "RecoVertex/PixelVertexFinding/plugins/alpaka/clusterTracksDBSCAN.h",
-            "RecoVertex/PixelVertexFinding/plugins/alpaka/clusterTracksIterative.h",
-            "RecoVertex/PixelVertexFinding/plugins/alpaka/fitVertices.h",
-            "RecoVertex/PixelVertexFinding/plugins/alpaka/sortByPt2.h",
-            "RecoVertex/PixelVertexFinding/plugins/alpaka/splitVertices.h",
-            "RecoVertex/PixelVertexFinding/plugins/alpaka/vertexFinder.dev.cc",
-            "RecoVertex/PixelVertexFinding/plugins/alpaka/vertexFinder.h",
-            "RecoVertex/PixelVertexFinding/test/alpaka/VertexFinder_t.dev.cc"
-        ],
-        "created_at": 1725532310,
-        "number": 45887,
-        "state": "open",
-        "updated_at": 1726051885
-    },
     "45948": {
         "base_branch": "master",
         "changed_files_names": [
