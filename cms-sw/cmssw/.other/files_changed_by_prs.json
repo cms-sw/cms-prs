@@ -1330,12 +1330,13 @@
             "Geometry/HcalCommonData/interface/HcalTopologyMode.h",
             "Geometry/HcalTowerAlgo/src/HcalHardcodeGeometryLoader.cc",
             "Geometry/Records/interface/ZDCGeometryRecord.h",
-            "SimCalorimetry/HcalSimProducers/src/HcalDigitizer.cc"
+            "SimCalorimetry/HcalSimProducers/src/HcalDigitizer.cc",
+            "SimCalorimetry/HcalTrigPrimProducers/plugins/HcalTrigPrimDigiProducer.cc"
         ],
         "created_at": 1721390704,
         "number": 45511,
         "state": "open",
-        "updated_at": 1725931346
+        "updated_at": 1726192293
     },
     "45513": {
         "base_branch": "CMSSW_14_0_X",
