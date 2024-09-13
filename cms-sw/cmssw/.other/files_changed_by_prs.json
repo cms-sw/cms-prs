@@ -1636,6 +1636,7 @@
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTrackstersCLUE3DHighL1Seeded_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTrackstersCLUE3DHigh_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTrackstersPassthrough_cfi.py",
+            "RecoHGCal/TICL/BuildFile.xml",
             "RecoHGCal/TICL/interface/PatternRecognitionAlgoBase.h",
             "RecoHGCal/TICL/interface/TracksterInferenceAlgoBase.h",
             "RecoHGCal/TICL/interface/TracksterInferenceAlgoFactory.h",
@@ -1662,7 +1663,7 @@
         "created_at": 1724834188,
         "number": 45821,
         "state": "open",
-        "updated_at": 1725974611
+        "updated_at": 1726234937
     },
     "45826": {
         "base_branch": "master",
