@@ -1632,12 +1632,6 @@
     "45821": {
         "base_branch": "master",
         "changed_files_names": [
-            "Configuration/DataProcessing/python/Impl/ppEra_Run3_2024_UPC.py",
-            "Configuration/DataProcessing/python/Impl/ppEra_Run3_2024_ppRef.py",
-            "Configuration/DataProcessing/python/Impl/ppEra_Run3_pp_on_PbPb_2024.py",
-            "Configuration/DataProcessing/python/Impl/ppEra_Run3_pp_on_PbPb_approxSiStripClusters_2024.py",
-            "Configuration/DataProcessing/python/RecoTLR.py",
-            "Configuration/DataProcessing/test/run_CfgTest_5.sh",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTracksterLinks_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTrackstersCLUE3DHighL1Seeded_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTrackstersCLUE3DHigh_cfi.py",
@@ -1670,7 +1664,7 @@
         "created_at": 1724834188,
         "number": 45821,
         "state": "open",
-        "updated_at": 1726337404
+        "updated_at": 1726341395
     },
     "45826": {
         "base_branch": "master",
