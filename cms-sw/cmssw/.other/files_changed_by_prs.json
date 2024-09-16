@@ -1104,12 +1104,13 @@
             "FWCore/ParameterSet/src/types.cc",
             "FWCore/ParameterSet/test/cmsconfig.py",
             "FWCore/ParameterSet/test/test_catch_ParameterSetDescription.cc",
-            "FWCore/PythonParameterSet/src/PyBind11Module.h"
+            "FWCore/PythonParameterSet/src/PyBind11Module.h",
+            "RecoLocalTracker/SiStripRecHitConverter/src/StripCPEfromTrackAngle.cc"
         ],
         "created_at": 1718275191,
         "number": 45216,
         "state": "open",
-        "updated_at": 1726158175
+        "updated_at": 1726476634
     },
     "45355": {
         "base_branch": "master",
