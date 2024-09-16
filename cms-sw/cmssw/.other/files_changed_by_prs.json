@@ -1306,17 +1306,14 @@
             "Geometry/HcalCommonData/interface/HcalTopologyMode.h",
             "Geometry/HcalTowerAlgo/src/HcalHardcodeGeometryLoader.cc",
             "Geometry/Records/interface/ZDCGeometryRecord.h",
-            "HLTrigger/Configuration/test/OnLine_HLT_GRun.py",
-            "HLTrigger/Configuration/test/OnLine_HLT_HIon.py",
-            "HLTrigger/Configuration/test/OnLine_HLT_PRef.py",
-            "HLTrigger/Configuration/test/OnLine_HLT_Special.py",
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py",
             "SimCalorimetry/HcalSimProducers/src/HcalDigitizer.cc",
             "SimCalorimetry/HcalTrigPrimProducers/plugins/HcalTrigPrimDigiProducer.cc"
         ],
         "created_at": 1721390704,
         "number": 45511,
         "state": "open",
-        "updated_at": 1726449503
+        "updated_at": 1726462969
     },
     "45513": {
         "base_branch": "CMSSW_14_0_X",
