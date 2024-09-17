@@ -2298,5 +2298,21 @@
         "number": 46009,
         "state": "open",
         "updated_at": 1726514198
+    },
+    "46010": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaCandidatesL1Seeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaCandidatesUnseeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTracksterLinksL1Seeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTracksterLinksUnseeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTHgcalTiclPFClusteringForEgammaL1SeededSequence_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTHgcalTiclPFClusteringForEgammaUnseededSequence_cfi.py"
+        ],
+        "created_at": 1726546772,
+        "number": 46010,
+        "state": "open",
+        "updated_at": 1726546800
     }
 }
