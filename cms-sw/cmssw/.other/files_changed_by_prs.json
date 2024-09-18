@@ -2408,5 +2408,25 @@
         "number": 46042,
         "state": "open",
         "updated_at": 1726678073
+    },
+    "46044": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/Common/test/TestTriggerResultsFormat.sh",
+            "DataFormats/DetId/test/TestVectorDetId.sh",
+            "DataFormats/FEDRawData/test/TestFEDRawDataCollectionFormat.sh",
+            "DataFormats/HLTReco/test/TestTriggerEventFormat.sh",
+            "DataFormats/L1Scouting/test/TestL1ScoutingFormat.sh",
+            "DataFormats/L1ScoutingRawData/test/TestSDSRawDataCollectionFormat.sh",
+            "DataFormats/L1TGlobal/test/TestGlobalObjectMapRecordFormat.sh",
+            "DataFormats/Scouting/test/TestRun2ScoutingFormats.sh",
+            "DataFormats/Scouting/test/TestRun3ScoutingFormats.sh",
+            "DataFormats/Scouting/test/test_readRun3Scouting_cfg.py",
+            "DataFormats/SiStripCluster/test/TestSiStripApproximateClusterCollection.sh"
+        ],
+        "created_at": 1726679678,
+        "number": 46044,
+        "state": "open",
+        "updated_at": 1726679704
     }
 }
