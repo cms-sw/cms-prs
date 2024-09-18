@@ -2370,12 +2370,13 @@
             "Geometry/CMSCommonData/python/cmsExtendedGeometry2024XML_cfi.py",
             "Geometry/CMSCommonData/python/cmsExtendedGeometry2024ZeroMaterialXML_cfi.py",
             "Geometry/ForwardGeometry/plugins/ZdcTopologyEP.cc",
-            "Geometry/ForwardGeometry/plugins/ZdcTopologyEP.h"
+            "Geometry/ForwardGeometry/plugins/ZdcTopologyEP.h",
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py"
         ],
         "created_at": 1726653331,
         "number": 46033,
         "state": "open",
-        "updated_at": 1726653360
+        "updated_at": 1726668366
     },
     "46034": {
         "base_branch": "CMSSW_12_4_HLT_X",
