@@ -2335,5 +2335,18 @@
         "number": 46026,
         "state": "open",
         "updated_at": 1726596323
+    },
+    "46029": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/hgcalCons/v19/hgcalCons.xml",
+            "Geometry/HGCalCommonData/interface/HGCalParameters.h",
+            "Geometry/HGCalCommonData/src/HGCalGeomParameters.cc",
+            "Geometry/HGCalCommonData/test/python/g4OverlapCheck_cfg.py"
+        ],
+        "created_at": 1726644751,
+        "number": 46029,
+        "state": "open",
+        "updated_at": 1726644778
     }
 }
