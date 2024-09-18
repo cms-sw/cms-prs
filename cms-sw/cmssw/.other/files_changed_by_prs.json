@@ -2374,5 +2374,24 @@
         "number": 46031,
         "state": "open",
         "updated_at": 1726645584
+    },
+    "46032": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalEEV19-algorithm.xml",
+            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalHEmixV19-algorithm.xml",
+            "Geometry/HGCalCommonData/data/dd4hep/cms-test-ddhgcalHEsilV19-algorithm.xml",
+            "Geometry/HGCalCommonData/python/testHGCalCellV19XML_cfi.py",
+            "Geometry/HGCalCommonData/test/python/dumpHGCalEEDD4hep_cfg.py",
+            "Geometry/HGCalCommonData/test/python/dumpHGCalEEDDD_cfg.py",
+            "Geometry/HGCalCommonData/test/python/dumpHGCalHEmixDD4hep_cfg.py",
+            "Geometry/HGCalCommonData/test/python/dumpHGCalHEmixDDD_cfg.py",
+            "Geometry/HGCalCommonData/test/python/dumpHGCalHEsilDD4hep_cfg.py",
+            "Geometry/HGCalCommonData/test/python/dumpHGCalHEsilDDD_cfg.py"
+        ],
+        "created_at": 1726650223,
+        "number": 46032,
+        "state": "open",
+        "updated_at": 1726650247
     }
 }
