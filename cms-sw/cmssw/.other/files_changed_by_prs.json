@@ -2289,33 +2289,6 @@
         "state": "open",
         "updated_at": 1726650247
     },
-    "46033": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "CalibCalorimetry/HcalPlugins/src/HcalHardcodeCalibrations.cc",
-            "CondFormats/HcalObjects/src/HcalCondObjectContainerBase.cc",
-            "Configuration/Geometry/python/dict2021Geometry.py",
-            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2024.xml",
-            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2024FlatMinus05Percent.xml",
-            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2024FlatMinus10Percent.xml",
-            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2024FlatPlus05Percent.xml",
-            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2024FlatPlus10Percent.xml",
-            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2024ZeroMaterial.xml",
-            "Geometry/CMSCommonData/python/cmsExtendedGeometry2024FlatMinus05PercentXML_cfi.py",
-            "Geometry/CMSCommonData/python/cmsExtendedGeometry2024FlatMinus10PercentXML_cfi.py",
-            "Geometry/CMSCommonData/python/cmsExtendedGeometry2024FlatPlus05PercentXML_cfi.py",
-            "Geometry/CMSCommonData/python/cmsExtendedGeometry2024FlatPlus10PercentXML_cfi.py",
-            "Geometry/CMSCommonData/python/cmsExtendedGeometry2024XML_cfi.py",
-            "Geometry/CMSCommonData/python/cmsExtendedGeometry2024ZeroMaterialXML_cfi.py",
-            "Geometry/ForwardGeometry/plugins/ZdcTopologyEP.cc",
-            "Geometry/ForwardGeometry/plugins/ZdcTopologyEP.h",
-            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py"
-        ],
-        "created_at": 1726653331,
-        "number": 46033,
-        "state": "open",
-        "updated_at": 1726668366
-    },
     "46034": {
         "base_branch": "CMSSW_12_4_HLT_X",
         "changed_files_names": [
