@@ -2488,5 +2488,19 @@
         "number": 46051,
         "state": "open",
         "updated_at": 1726733288
+    },
+    "46052": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondCore/SiPixelPlugins/plugins/SiPixelQualityProbabilities_PayloadInspector.cc",
+            "CondCore/SiPixelPlugins/plugins/SiPixelQuality_PayloadInspector.cc",
+            "CondCore/SiPixelPlugins/test/testSiPixelFEDChannelContainer.sh",
+            "CondCore/SiPixelPlugins/test/testSiPixelPayloadInspector.cpp",
+            "CondCore/SiPixelPlugins/test/testSiPixelQualityMap.sh"
+        ],
+        "created_at": 1726742032,
+        "number": 46052,
+        "state": "open",
+        "updated_at": 1726742061
     }
 }
