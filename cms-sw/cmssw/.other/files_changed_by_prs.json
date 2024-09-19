@@ -2396,6 +2396,7 @@
             "HLTrigger/Configuration/python/HLTrigger_Datasets_PRef_cff.py",
             "HLTrigger/Configuration/python/HLTrigger_Datasets_Special_cff.py",
             "HLTrigger/Configuration/python/HLTrigger_EventContent_cff.py",
+            "HLTrigger/Configuration/python/customizeHLTforAlpaka.py",
             "HLTrigger/Configuration/tables/PRef.txt",
             "HLTrigger/Configuration/tables/Special.txt",
             "HLTrigger/Configuration/tables/online_LumiScan.txt",
@@ -2412,7 +2413,7 @@
         "created_at": 1726725057,
         "number": 46048,
         "state": "open",
-        "updated_at": 1726725086
+        "updated_at": 1726738565
     },
     "46049": {
         "base_branch": "CMSSW_14_1_X",
