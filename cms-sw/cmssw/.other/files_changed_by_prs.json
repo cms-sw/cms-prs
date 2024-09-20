@@ -2335,38 +2335,6 @@
         "state": "open",
         "updated_at": 1726760438
     },
-    "46050": {
-        "base_branch": "CMSSW_14_0_X",
-        "changed_files_names": [
-            "Configuration/HLT/python/addOnTestsHLT.py",
-            "Configuration/HLT/python/autoCondHLT.py",
-            "HLTrigger/Configuration/python/HLT_FULL_cff.py",
-            "HLTrigger/Configuration/python/HLT_GRun_cff.py",
-            "HLTrigger/Configuration/python/HLT_HIon_cff.py",
-            "HLTrigger/Configuration/python/HLT_PIon_cff.py",
-            "HLTrigger/Configuration/python/HLT_PRef_cff.py",
-            "HLTrigger/Configuration/python/HLT_Special_cff.py",
-            "HLTrigger/Configuration/python/HLTrigger_Datasets_PRef_cff.py",
-            "HLTrigger/Configuration/python/HLTrigger_Datasets_Special_cff.py",
-            "HLTrigger/Configuration/python/HLTrigger_EventContent_cff.py",
-            "HLTrigger/Configuration/tables/PRef.txt",
-            "HLTrigger/Configuration/tables/Special.txt",
-            "HLTrigger/Configuration/tables/online_LumiScan.txt",
-            "HLTrigger/Configuration/tables/online_Special.txt",
-            "HLTrigger/Configuration/tables/online_pref.txt",
-            "HLTrigger/Configuration/test/OnLine_HLT_FULL.py",
-            "HLTrigger/Configuration/test/OnLine_HLT_GRun.py",
-            "HLTrigger/Configuration/test/OnLine_HLT_HIon.py",
-            "HLTrigger/Configuration/test/OnLine_HLT_PIon.py",
-            "HLTrigger/Configuration/test/OnLine_HLT_PRef.py",
-            "HLTrigger/Configuration/test/OnLine_HLT_Special.py",
-            "HLTrigger/Configuration/test/cmsDriver.csh"
-        ],
-        "created_at": 1726725102,
-        "number": 46050,
-        "state": "open",
-        "updated_at": 1726770826
-    },
     "46051": {
         "base_branch": "CMSSW_14_1_X",
         "changed_files_names": [
