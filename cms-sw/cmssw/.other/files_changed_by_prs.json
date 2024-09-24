@@ -2282,34 +2282,6 @@
         "state": "open",
         "updated_at": 1726781949
     },
-    "46065": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DQM/DTMonitorClient/src/DTOccupancyTestML.cc",
-            "L1Trigger/L1CaloTrigger/plugins/L1NNCaloTauEmulator.cc",
-            "L1Trigger/L1CaloTrigger/plugins/L1NNCaloTauProducer.cc",
-            "L1Trigger/L1THGCal/src/concentrator/HGCalConcentratorAutoEncoderImpl.cc",
-            "L1Trigger/Phase2L1ParticleFlow/plugins/L1NNTauProducer.cc",
-            "PhysicsTools/TensorFlow/interface/TensorFlow.h",
-            "PhysicsTools/TensorFlow/src/TensorFlow.cc",
-            "PhysicsTools/TensorFlow/test/testConstSessionCUDA.cc",
-            "PhysicsTools/TensorFlow/test/testGraphLoadingCUDA.cc",
-            "PhysicsTools/TensorFlow/test/testHelloWorld.cc",
-            "PhysicsTools/TensorFlow/test/testHelloWorldCUDA.cc",
-            "PhysicsTools/TensorFlow/test/testMetaGraphLoadingCUDA.cc",
-            "PhysicsTools/TensorFlow/test/testSessionCacheCUDA.cc",
-            "PhysicsTools/TensorFlow/test/testThreadPoolsCUDA.cc",
-            "PhysicsTools/TensorFlow/test/testVisibleDevicesCUDA.cc",
-            "RecoEcal/EgammaCoreTools/src/DeepSCGraphEvaluation.cc",
-            "RecoMuon/TrackerSeedGenerator/plugins/TSGForOIDNN.cc",
-            "RecoTauTag/HLTProducers/src/L2TauTagNNProducer.cc",
-            "RecoTauTag/HLTProducers/src/L2TauTagNNProducerAlpaka.cc"
-        ],
-        "created_at": 1726763060,
-        "number": 46065,
-        "state": "open",
-        "updated_at": 1726857082
-    },
     "46066": {
         "base_branch": "master",
         "changed_files_names": [
