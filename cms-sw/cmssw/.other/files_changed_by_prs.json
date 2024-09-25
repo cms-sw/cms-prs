@@ -2512,35 +2512,6 @@
         "state": "open",
         "updated_at": 1727102888
     },
-    "46105": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DataFormats/Common/test/TestTriggerResultsFormat.sh",
-            "DataFormats/Common/test/test_readTriggerResults_cfg.py",
-            "DataFormats/DetId/test/TestVectorDetId.sh",
-            "DataFormats/DetId/test/test_readVectorDetId_cfg.py",
-            "DataFormats/FEDRawData/test/TestFEDRawDataCollectionFormat.sh",
-            "DataFormats/FEDRawData/test/test_readFEDRawDataCollection_cfg.py",
-            "DataFormats/HLTReco/test/TestTriggerEventFormat.sh",
-            "DataFormats/HLTReco/test/test_readTriggerEvent_cfg.py",
-            "DataFormats/L1Scouting/test/TestL1ScoutingFormat.sh",
-            "DataFormats/L1Scouting/test/read_L1Scouting_cfg.py",
-            "DataFormats/L1ScoutingRawData/test/TestSDSRawDataCollectionFormat.sh",
-            "DataFormats/L1ScoutingRawData/test/read_SDSRawDataCollection_cfg.py",
-            "DataFormats/L1TGlobal/test/TestGlobalObjectMapRecordFormat.sh",
-            "DataFormats/L1TGlobal/test/test_readGlobalObjectMapRecord_cfg.py",
-            "DataFormats/Scouting/test/TestRun2ScoutingFormats.sh",
-            "DataFormats/Scouting/test/TestRun3ScoutingFormats.sh",
-            "DataFormats/Scouting/test/test_readRun2Scouting_cfg.py",
-            "DataFormats/Scouting/test/test_readRun3Scouting_cfg.py",
-            "DataFormats/SiStripCluster/test/TestSiStripApproximateClusterCollection.sh",
-            "DataFormats/SiStripCluster/test/test_readSiStripApproximateClusterCollection_cfg.py"
-        ],
-        "created_at": 1727121263,
-        "number": 46105,
-        "state": "open",
-        "updated_at": 1727121294
-    },
     "46106": {
         "base_branch": "CMSSW_14_1_X",
         "changed_files_names": [
