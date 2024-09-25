@@ -2549,6 +2549,7 @@
             "Configuration/Eras/python/Modifier_run3_nanoAOD_pre142X_cff.py",
             "Configuration/StandardSequences/python/Eras.py",
             "PhysicsTools/NanoAOD/python/boostedTaus_cff.py",
+            "PhysicsTools/NanoAOD/python/nanoDQM_cfi.py",
             "PhysicsTools/NanoAOD/python/nano_cff.py",
             "PhysicsTools/NanoAOD/python/nano_eras_cff.py",
             "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py",
@@ -2561,7 +2562,7 @@
         "created_at": 1727172316,
         "number": 46112,
         "state": "open",
-        "updated_at": 1727172338
+        "updated_at": 1727275558
     },
     "46114": {
         "base_branch": "master",
