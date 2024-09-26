@@ -1934,8 +1934,10 @@
     "45975": {
         "base_branch": "master",
         "changed_files_names": [
+            "Alignment/OfflineValidation/README_PixBary.md",
             "Alignment/OfflineValidation/plugins/PixelBaryCentreAnalyzer.cc",
             "Alignment/OfflineValidation/python/TkAlAllInOneTool/PixBary.py",
+            "Alignment/OfflineValidation/python/TkAlAllInOneTool/PixelBaryCentreAnalyzer_cfg.py",
             "Alignment/OfflineValidation/scripts/extractBaryCentre.py",
             "Alignment/OfflineValidation/scripts/validateAlignments.py",
             "Alignment/OfflineValidation/test/BuildFile.xml",
@@ -1948,7 +1950,7 @@
         "created_at": 1726044345,
         "number": 45975,
         "state": "open",
-        "updated_at": 1726836862
+        "updated_at": 1727338353
     },
     "45992": {
         "base_branch": "master",
