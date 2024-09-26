@@ -2662,5 +2662,17 @@
         "number": 46134,
         "state": "open",
         "updated_at": 1727352658
+    },
+    "46135": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFClusterSoAProducer.cc",
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFClusterSoAProducerKernel.dev.cc",
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFClusterSoAProducerKernel.h"
+        ],
+        "created_at": 1727353462,
+        "number": 46135,
+        "state": "open",
+        "updated_at": 1727353484
     }
 }
