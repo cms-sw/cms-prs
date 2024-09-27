@@ -2550,5 +2550,17 @@
         "number": 46137,
         "state": "open",
         "updated_at": 1727381160
+    },
+    "46138": {
+        "base_branch": "CMSSW_10_6_X",
+        "changed_files_names": [
+            "PhysicsTools/NanoAOD/python/electrons_cff.py",
+            "PhysicsTools/NanoAOD/python/photons_cff.py",
+            "RecoEgamma/EgammaTools/python/calibratedEgammas_cff.py"
+        ],
+        "created_at": 1727444279,
+        "number": 46138,
+        "state": "open",
+        "updated_at": 1727444306
     }
 }
