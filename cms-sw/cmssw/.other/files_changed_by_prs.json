@@ -2677,5 +2677,43 @@
         "number": 46203,
         "state": "open",
         "updated_at": 1727889418
+    },
+    "46204": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Concurrency/scripts/edmStreamStallGrapher.py",
+            "FWCore/Framework/interface/CallbackBase.h",
+            "FWCore/Framework/interface/CallbackExternalWork.h",
+            "FWCore/Framework/interface/ESProducer.h",
+            "FWCore/Framework/interface/ESProductResolver.h",
+            "FWCore/Framework/interface/ESProductResolverFactoryProducer.h",
+            "FWCore/Framework/interface/ESProductResolverProvider.h",
+            "FWCore/Framework/interface/ESProductResolverTemplate.h",
+            "FWCore/Framework/interface/ESSourceConcurrentProductResolverTemplate.h",
+            "FWCore/Framework/interface/ESSourceProductResolverBase.h",
+            "FWCore/Framework/interface/ESSourceProductResolverConcurrentBase.h",
+            "FWCore/Framework/interface/ESSourceProductResolverNonConcurrentBase.h",
+            "FWCore/Framework/interface/EventSetupProvider.h",
+            "FWCore/Framework/interface/EventSetupRecord.h",
+            "FWCore/Framework/interface/EventSetupRecordImpl.h",
+            "FWCore/Framework/interface/EventSetupRecordProvider.h",
+            "FWCore/Framework/src/ESProductResolverProvider.cc",
+            "FWCore/Framework/src/EventSetupProvider.cc",
+            "FWCore/Framework/src/EventSetupRecordImpl.cc",
+            "FWCore/Framework/src/EventSetupRecordProvider.cc",
+            "FWCore/Framework/test/dependentrecord_t.cppunit.cc",
+            "FWCore/Framework/test/esproducer_t.cppunit.cc",
+            "FWCore/Framework/test/eventsetup_t.cppunit.cc",
+            "FWCore/Framework/test/eventsetuprecord_t.cppunit.cc",
+            "FWCore/Framework/test/fullchain_t.cppunit.cc",
+            "FWCore/Integration/plugins/ESTestProducers.cc",
+            "FWCore/TestProcessor/interface/EventSetupTestHelper.h",
+            "FWCore/TestProcessor/src/EventSetupTestHelper.cc",
+            "FWCore/TestProcessor/src/TestProcessor.cc"
+        ],
+        "created_at": 1727899540,
+        "number": 46204,
+        "state": "open",
+        "updated_at": 1727899568
     }
 }
