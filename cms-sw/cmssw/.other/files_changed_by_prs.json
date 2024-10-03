@@ -2933,5 +2933,20 @@
         "number": 46235,
         "state": "open",
         "updated_at": 1727959097
+    },
+    "46236": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Validation/MtdValidation/plugins/BtlLocalRecoValidation.cc",
+            "Validation/MtdValidation/plugins/EtlLocalRecoValidation.cc",
+            "Validation/MtdValidation/plugins/MtdTracksHarvester.cc",
+            "Validation/MtdValidation/plugins/MtdTracksValidation.cc",
+            "Validation/MtdValidation/plugins/Primary4DVertexValidation.cc",
+            "Validation/MtdValidation/test/mtdHarvesting_cfg.py"
+        ],
+        "created_at": 1727962339,
+        "number": 46236,
+        "state": "open",
+        "updated_at": 1727962368
     }
 }
