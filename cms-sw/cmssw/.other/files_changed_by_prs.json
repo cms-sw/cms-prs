@@ -2621,12 +2621,13 @@
             "FWCore/Integration/plugins/ESTestProducers.cc",
             "FWCore/TestProcessor/interface/EventSetupTestHelper.h",
             "FWCore/TestProcessor/src/EventSetupTestHelper.cc",
-            "FWCore/TestProcessor/src/TestProcessor.cc"
+            "FWCore/TestProcessor/src/TestProcessor.cc",
+            "PhysicsTools/CondLiteIO/plugins/FWLiteESRecordWriterAnalyzer.cc"
         ],
         "created_at": 1727899540,
         "number": 46204,
         "state": "open",
-        "updated_at": 1727912671
+        "updated_at": 1727958440
     },
     "46205": {
         "base_branch": "master",
