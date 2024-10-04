@@ -3153,5 +3153,19 @@
         "number": 46270,
         "state": "open",
         "updated_at": 1728048002
+    },
+    "46271": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQMOffline/Trigger/src/EgHLTOffHelper.cc",
+            "RecoEgamma/EgammaElectronAlgos/src/GsfElectronAlgo.cc",
+            "RecoEgamma/EgammaIsolationAlgos/interface/EgammaRecHitIsolation.h",
+            "RecoEgamma/EgammaPhotonProducers/src/ConversionTrackCandidateProducer.cc",
+            "RecoEgamma/PhotonIdentification/src/PhotonIsolationCalculator.cc"
+        ],
+        "created_at": 1728049962,
+        "number": 46271,
+        "state": "open",
+        "updated_at": 1728049988
     }
 }
