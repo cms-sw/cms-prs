@@ -2281,6 +2281,8 @@
         "base_branch": "CMSSW_14_1_X",
         "changed_files_names": [
             "HLTrigger/Configuration/python/customizeHLTforCMSSW.py",
+            "HLTrigger/special/plugins/BuildFile.xml",
+            "HLTrigger/special/plugins/HLTPixelThrustFilter.cc",
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFClusterSoAProducer.cc",
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFClusterSoAProducerKernel.dev.cc",
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFClusterSoAProducerKernel.h"
@@ -2288,7 +2290,7 @@
         "created_at": 1727354614,
         "number": 46136,
         "state": "open",
-        "updated_at": 1728042299
+        "updated_at": 1728052454
     },
     "46138": {
         "base_branch": "CMSSW_10_6_X",
