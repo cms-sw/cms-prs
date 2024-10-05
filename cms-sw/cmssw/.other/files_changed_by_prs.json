@@ -3095,5 +3095,20 @@
         "number": 46273,
         "state": "open",
         "updated_at": 1728099902
+    },
+    "46276": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoEgamma/EgammaPhotonProducers/src/GEDPhotonProducer.cc",
+            "RecoEgamma/EgammaPhotonProducers/src/PhotonProducer.cc",
+            "RecoEgamma/PhotonIdentification/interface/PhotonMIPHaloTagger.h",
+            "RecoEgamma/PhotonIdentification/interface/PhotonMVABasedHaloTagger.h",
+            "RecoEgamma/PhotonIdentification/src/PhotonMIPHaloTagger.cc",
+            "RecoEgamma/PhotonIdentification/src/PhotonMVABasedHaloTagger.cc"
+        ],
+        "created_at": 1728135818,
+        "number": 46276,
+        "state": "open",
+        "updated_at": 1728135842
     }
 }
