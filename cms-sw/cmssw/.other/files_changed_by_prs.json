@@ -2635,30 +2635,6 @@
         "state": "open",
         "updated_at": 1728108456
     },
-    "46258": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "RecoJets/JetPlusTracks/plugins/JetPlusTrackProducer.cc",
-            "RecoJets/JetPlusTracks/plugins/JetPlusTrackProducerAA.cc",
-            "RecoJets/JetProducers/plugins/VirtualJetProducer.cc",
-            "RecoJets/JetProducers/src/PileupJetIdAlgo.cc",
-            "RecoMET/METAlgorithms/src/SignAlgoResolutions.cc",
-            "RecoTBCalo/EcalTBHodoscopeReconstructor/src/EcalTBHodoscopeRecInfoAlgo.cc",
-            "RecoTBCalo/HcalTBObjectUnpacker/src/HcalTBQADCUnpacker.cc",
-            "RecoTauTag/RecoTau/src/RecoTauCommonUtilities.cc",
-            "RecoTracker/FinalTrackSelectors/plugins/CosmicTrackSplitter.cc",
-            "RecoTracker/FinalTrackSelectors/plugins/MultiTrackSelector.cc",
-            "RecoTracker/FinalTrackSelectors/plugins/TrackMerger.cc",
-            "RecoTracker/MkFitCore/src/PropagationMPlex.cc",
-            "RecoTracker/PixelSeeding/plugins/PixelTripletHLTGenerator.cc",
-            "RecoTracker/PixelSeeding/plugins/PixelTripletLargeTipGenerator.cc",
-            "RecoTracker/TkSeedGenerator/plugins/MultiHitGeneratorFromChi2.cc"
-        ],
-        "created_at": 1728038981,
-        "number": 46258,
-        "state": "open",
-        "updated_at": 1728049538
-    },
     "46260": {
         "base_branch": "master",
         "changed_files_names": [
