@@ -1365,9 +1365,6 @@
             "CondFormats/HGCalObjects/src/headers.h",
             "CondFormats/HGCalObjects/test/BuildFile.xml",
             "CondFormats/HGCalObjects/test/testSerializationHGCalCondDataFormats.cc",
-            "DQMServices/Core/interface/DQMStore.h",
-            "DQMServices/Core/interface/MonitorElement.h",
-            "DQMServices/Core/src/MonitorElement.cc",
             "DataFormats/HGCalDigi/BuildFile.xml",
             "DataFormats/HGCalDigi/interface/HGCROCChannelDataFrame.h",
             "DataFormats/HGCalDigi/interface/HGCalDigiCollections.h",
@@ -1396,8 +1393,6 @@
             "DataFormats/HGCalRecHit/src/classes.cc",
             "DataFormats/HGCalRecHit/src/classes.h",
             "DataFormats/HGCalRecHit/src/classes_def.xml",
-            "DataFormats/Histograms/interface/MEtoEDMFormat.h",
-            "DataFormats/Histograms/interface/MonitorElementCollection.h",
             "EventFilter/HGCalRawToDigi/BuildFile.xml",
             "EventFilter/HGCalRawToDigi/interface/HGCalFrameGenerator.h",
             "EventFilter/HGCalRawToDigi/interface/HGCalModuleTreeReader.h",
@@ -1456,7 +1451,7 @@
         "created_at": 1723039925,
         "number": 45665,
         "state": "open",
-        "updated_at": 1728398527
+        "updated_at": 1728401537
     },
     "45672": {
         "base_branch": "master",
