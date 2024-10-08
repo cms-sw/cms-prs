@@ -2828,5 +2828,16 @@
         "number": 46308,
         "state": "open",
         "updated_at": 1728403895
+    },
+    "46309": {
+        "base_branch": "CMSSW_14_1_X",
+        "changed_files_names": [
+            "CondTools/Geometry/test/calogeometry2026writer.py",
+            "Geometry/CaloTopology/src/HcalTopology.cc"
+        ],
+        "created_at": 1728404859,
+        "number": 46309,
+        "state": "open",
+        "updated_at": 1728404886
     }
 }
