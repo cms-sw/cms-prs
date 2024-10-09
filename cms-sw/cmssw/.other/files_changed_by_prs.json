@@ -3010,12 +3010,16 @@
             "Configuration/Geometry/python/GeometryExtended2026Default_cff.py",
             "Configuration/Geometry/python/GeometryReco_cff.py",
             "Configuration/Geometry/python/dict2021Geometry.py",
-            "Configuration/Geometry/python/dict2026Geometry.py"
+            "Configuration/Geometry/python/dict2026Geometry.py",
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2023.xml",
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2024.xml",
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2023XML_cfi.py",
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2024XML_cfi.py"
         ],
         "created_at": 1728407602,
         "number": 46311,
         "state": "open",
-        "updated_at": 1728407630
+        "updated_at": 1728448008
     },
     "46312": {
         "base_branch": "master",
