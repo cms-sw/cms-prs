@@ -2875,5 +2875,18 @@
         "number": 46331,
         "state": "open",
         "updated_at": 1728520421
+    },
+    "46332": {
+        "base_branch": "CMSSW_14_0_X",
+        "changed_files_names": [
+            "Geometry/CaloTopology/interface/HcalTopology.h",
+            "Geometry/CaloTopology/src/HcalTopology.cc",
+            "Geometry/HcalCommonData/interface/HcalTopologyMode.h",
+            "Geometry/HcalCommonData/src/HcalTopologyMode.cc"
+        ],
+        "created_at": 1728537874,
+        "number": 46332,
+        "state": "open",
+        "updated_at": 1728537900
     }
 }
