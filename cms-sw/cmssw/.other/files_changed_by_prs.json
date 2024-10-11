@@ -2867,8 +2867,7 @@
             "DQM/CastorMonitor/src/CastorDigiMonitor.cc",
             "DQM/DTMonitorModule/src/DTDCSByLumiTask.cc",
             "DQM/DTMonitorModule/src/DTTimeEvolutionHisto.cc",
-            "DQM/EcalCommon/src/MESetEcal.cc",
-            "DQM/EcalCommon/src/MESetNonObject.cc",
+            "DQM/EcalCommon/interface/MESet.h",
             "DQM/EcalMonitorTasks/src/ClusterTask.cc",
             "DQM/SiPixelMonitorClient/src/SiPixelActionExecutor.cc",
             "DQM/SiStripMonitorClient/plugins/SiStripCertificationInfo.cc",
@@ -2882,7 +2881,7 @@
         "created_at": 1728642538,
         "number": 46354,
         "state": "open",
-        "updated_at": 1728642563
+        "updated_at": 1728653357
     },
     "46355": {
         "base_branch": "master",
