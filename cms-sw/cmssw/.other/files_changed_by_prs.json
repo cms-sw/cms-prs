@@ -2244,6 +2244,8 @@
         "base_branch": "master",
         "changed_files_names": [
             "FWCore/MessageService/src/ELstatistics.cc",
+            "FWCore/MessageService/test/unit_test_outputs/u16_errors.mmlog",
+            "FWCore/MessageService/test/unit_test_outputs/u16_statistics.mslog",
             "FWCore/MessageService/test/unit_test_outputs/u17_all.log",
             "FWCore/MessageService/test/unit_test_outputs/u20_cerr.log",
             "FWCore/MessageService/test/unit_test_outputs/u23_infos.log",
@@ -2264,7 +2266,7 @@
         "created_at": 1727967107,
         "number": 46241,
         "state": "open",
-        "updated_at": 1728904640
+        "updated_at": 1728904890
     },
     "46246": {
         "base_branch": "CMSSW_14_0_X",
