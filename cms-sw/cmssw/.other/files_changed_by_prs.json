@@ -2198,12 +2198,14 @@
     "46203": {
         "base_branch": "master",
         "changed_files_names": [
-            "GeneratorInterface/RivetInterface/plugins/GenParticles2HepMCConverter.cc"
+            "GeneratorInterface/RivetInterface/plugins/GenParticles2HepMCConverter.cc",
+            "SimDataFormats/GeneratorProducts/interface/HepMC3Product.h",
+            "SimDataFormats/GeneratorProducts/src/HepMC3Product.cc"
         ],
         "created_at": 1727889344,
         "number": 46203,
         "state": "open",
-        "updated_at": 1728034557
+        "updated_at": 1728925690
     },
     "46222": {
         "base_branch": "master",
