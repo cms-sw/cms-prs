@@ -3042,5 +3042,21 @@
         "number": 46381,
         "state": "open",
         "updated_at": 1728915452
+    },
+    "46382": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondCore/SiStripPlugins/scripts/SiStripG2GainsValidator",
+            "CondCore/SiStripPlugins/scripts/G2GainsValidator.py",
+            "CondCore/SiStripPlugins/scripts/testCompareSiStripG2Gains.sh",
+            "CondCore/SiStripPlugins/scripts/testCompare.sh",
+            "CondCore/SiStripPlugins/test/BuildFile.xml",
+            "CondCore/SiStripPlugins/test/test_G2GainsValidator.sh",
+            "CondCore/SiStripPlugins/test/test_SiStripG2GainsValidator.sh"
+        ],
+        "created_at": 1728924607,
+        "number": 46382,
+        "state": "open",
+        "updated_at": 1728924631
     }
 }
