@@ -2304,12 +2304,14 @@
     "46254": {
         "base_branch": "CMSSW_14_1_X",
         "changed_files_names": [
-            "GeneratorInterface/RivetInterface/plugins/GenParticles2HepMCConverter.cc"
+            "GeneratorInterface/RivetInterface/plugins/GenParticles2HepMCConverter.cc",
+            "SimDataFormats/GeneratorProducts/interface/HepMC3Product.h",
+            "SimDataFormats/GeneratorProducts/src/HepMC3Product.cc"
         ],
         "created_at": 1728034495,
         "number": 46254,
         "state": "open",
-        "updated_at": 1728210997
+        "updated_at": 1728926094
     },
     "46255": {
         "base_branch": "master",
