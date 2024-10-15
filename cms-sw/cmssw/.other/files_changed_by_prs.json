@@ -2499,36 +2499,6 @@
         "state": "open",
         "updated_at": 1728905186
     },
-    "46347": {
-        "base_branch": "CMSSW_14_1_X",
-        "changed_files_names": [
-            "Configuration/AlCa/python/autoCond.py",
-            "Configuration/Eras/python/Era_Run2_2016_UPC_cff.py",
-            "Configuration/Eras/python/Era_Run2_2018_highBetaStar_cff.py",
-            "Configuration/Eras/python/Era_Run3_2023_UPC_cff.py",
-            "Configuration/Eras/python/Era_Run3_2024_UPC_cff.py",
-            "Configuration/Eras/python/Modifier_highBetaStar_cff.py",
-            "Configuration/Eras/python/Modifier_highBetaStar_2018_cff.py",
-            "Configuration/PyReleaseValidation/python/relval_standard.py",
-            "Configuration/PyReleaseValidation/python/relval_steps.py",
-            "Configuration/StandardSequences/python/Eras.py",
-            "Configuration/StandardSequences/python/Reconstruction_cff.py",
-            "RecoHI/HiTracking/python/HILowPtConformalPixelTracks_cfi.py",
-            "RecoTracker/IterativeTracking/python/DetachedQuadStep_cff.py",
-            "RecoTracker/IterativeTracking/python/DetachedTripletStep_cff.py",
-            "RecoTracker/IterativeTracking/python/HighPtTripletStep_cff.py",
-            "RecoTracker/IterativeTracking/python/InitialStep_cff.py",
-            "RecoTracker/IterativeTracking/python/LowPtQuadStep_cff.py",
-            "RecoTracker/IterativeTracking/python/LowPtTripletStep_cff.py",
-            "RecoTracker/IterativeTracking/python/MixedTripletStep_cff.py",
-            "RecoTracker/IterativeTracking/python/PixelPairStep_cff.py",
-            "RecoVertex/PrimaryVertexProducer/python/OfflinePrimaryVertices_cfi.py"
-        ],
-        "created_at": 1728599003,
-        "number": 46347,
-        "state": "open",
-        "updated_at": 1728663264
-    },
     "46349": {
         "base_branch": "CMSSW_14_0_X",
         "changed_files_names": [
