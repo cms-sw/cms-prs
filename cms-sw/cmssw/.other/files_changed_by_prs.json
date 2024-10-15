@@ -2804,31 +2804,6 @@
         "state": "open",
         "updated_at": 1728914029
     },
-    "46381": {
-        "base_branch": "CMSSW_14_1_X",
-        "changed_files_names": [
-            "Geometry/CaloTopology/interface/HcalTopology.h",
-            "Geometry/CaloTopology/src/HcalTopology.cc",
-            "Geometry/CaloTopology/test/HcalTopologyTester.cc",
-            "Geometry/CaloTopology/test/testHcalTopology_cfg.py",
-            "Geometry/HcalCommonData/data/hcalRecNumbering/2016/v2/hcalRecNumbering.xml",
-            "Geometry/HcalCommonData/data/hcalRecNumbering/2016a/v2/hcalRecNumbering.xml",
-            "Geometry/HcalCommonData/data/hcalRecNumbering/2017/v2/hcalRecNumbering.xml",
-            "Geometry/HcalCommonData/data/hcalRecNumbering/2018/v2/hcalRecNumbering.xml",
-            "Geometry/HcalCommonData/data/hcalRecNumbering/2018Plan36/v2/hcalRecNumbering.xml",
-            "Geometry/HcalCommonData/data/hcalRecNumbering/2019/v2/hcalRecNumbering.xml",
-            "Geometry/HcalCommonData/data/hcalRecNumbering/2021/v4/hcalRecNumbering.xml",
-            "Geometry/HcalCommonData/data/hcalRecNumbering/H2/v1/hcalRecNumbering.xml",
-            "Geometry/HcalCommonData/data/hcalRecNumbering/NoHE/v4/hcalRecNumbering.xml",
-            "Geometry/HcalCommonData/data/hcalRecNumbering/NoHE/v5/hcalRecNumbering.xml",
-            "Geometry/HcalCommonData/interface/HcalTopologyMode.h",
-            "Geometry/HcalCommonData/src/HcalTopologyMode.cc"
-        ],
-        "created_at": 1728915427,
-        "number": 46381,
-        "state": "open",
-        "updated_at": 1728915452
-    },
     "46382": {
         "base_branch": "master",
         "changed_files_names": [
