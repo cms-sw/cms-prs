@@ -2382,29 +2382,6 @@
         "state": "open",
         "updated_at": 1728990347
     },
-    "46331": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "CalibPPS/ESProducers/python/ctppsOpticalFunctions_non_DB_cff.py",
-            "Configuration/Eras/python/Era_Run3_2023_cff.py",
-            "Configuration/Eras/python/Modifier_ctpps_2023_cff.py",
-            "Configuration/StandardSequences/python/Eras.py",
-            "SimPPS/Configuration/python/GenPPS_cff.py",
-            "SimPPS/Configuration/python/SimPPS_cff.py",
-            "SimPPS/Configuration/python/directSimPPS_cff.py",
-            "SimPPS/DirectSimProducer/python/profiles_2022_cff.py",
-            "SimPPS/DirectSimProducer/python/profiles_2023_cff.py",
-            "SimPPS/DirectSimProducer/python/simPPS2023_cfi.py",
-            "SimPPS/DirectSimProducer/test/test_miniAOD_cfg.py",
-            "Validation/CTPPS/alignment/alignment_2023_PostTS1.xml",
-            "Validation/CTPPS/alignment/alignment_2023_PreTS1_366403_367840.xml",
-            "Validation/CTPPS/alignment/alignment_2023_PreTS1_367881_368765.xml"
-        ],
-        "created_at": 1728520395,
-        "number": 46331,
-        "state": "open",
-        "updated_at": 1728627967
-    },
     "46332": {
         "base_branch": "CMSSW_14_0_X",
         "changed_files_names": [
