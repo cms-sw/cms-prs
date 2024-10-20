@@ -2485,15 +2485,21 @@
             "PhysicsTools/NanoAOD/plugins/SimpleFlatTableProducerPlugins.cc",
             "PhysicsTools/NanoAOD/python/egamma_custom_cff.py",
             "PhysicsTools/NanoAOD/python/electrons_cff.py",
+            "PhysicsTools/NanoAOD/python/nanoDQM_cff.py",
             "PhysicsTools/NanoAOD/python/photons_cff.py",
             "PhysicsTools/PatAlgos/python/slimming/slimming_cff.py",
+            "RecoEgamma/EgammaIsolationAlgos/interface/EleTkIsolFromCands.h",
+            "RecoEgamma/EgammaIsolationAlgos/interface/SuperclusTkIsolFromCands.h",
+            "RecoEgamma/EgammaIsolationAlgos/plugins/SuperclusValueMapProducer.cc",
+            "RecoEgamma/EgammaIsolationAlgos/python/superclusValueMapProducer_cfi.py",
+            "RecoEgamma/EgammaIsolationAlgos/src/SuperclusTkIsolFromCands.cc",
             "RecoEgamma/EgammaPhotonProducers/python/reducedEgamma_cfi.py",
             "RecoEgamma/EgammaPhotonProducers/src/ReducedEGProducer.cc"
         ],
         "created_at": 1729163131,
         "number": 46423,
         "state": "open",
-        "updated_at": 1729250646
+        "updated_at": 1729376848
     },
     "46425": {
         "base_branch": "CMSSW_14_1_X",
