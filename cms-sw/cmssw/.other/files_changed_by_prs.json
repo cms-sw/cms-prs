@@ -2254,27 +2254,6 @@
         "state": "open",
         "updated_at": 1729150108
     },
-    "46356": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "PerfTools/AllocMonitor/interface/AllocMonitorBase.h",
-            "PerfTools/AllocMonitor/interface/AllocMonitorRegistry.h",
-            "PerfTools/AllocMonitor/plugins/EventProcessingAllocMonitor.cc",
-            "PerfTools/AllocMonitor/plugins/HistogrammingAllocMonitor.cc",
-            "PerfTools/AllocMonitor/plugins/ModuleAllocMonitor.cc",
-            "PerfTools/AllocMonitor/plugins/PeriodicAllocMonitor.cc",
-            "PerfTools/AllocMonitor/plugins/SimpleAllocMonitor.cc",
-            "PerfTools/AllocMonitor/src/AllocMonitorRegistry.cc",
-            "PerfTools/AllocMonitor/test/test_catch2_AllocMonitorRegistry.cc",
-            "PerfTools/AllocMonitor/test/test_proxies.cc",
-            "PerfTools/AllocMonitorPreload/src/memory_proxies.cc",
-            "PerfTools/MaxMemoryPreload/src/preload.cc"
-        ],
-        "created_at": 1728649977,
-        "number": 46356,
-        "state": "open",
-        "updated_at": 1728662352
-    },
     "46360": {
         "base_branch": "master",
         "changed_files_names": [
