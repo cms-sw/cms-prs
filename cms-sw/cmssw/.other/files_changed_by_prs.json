@@ -2676,5 +2676,28 @@
         "number": 46516,
         "state": "open",
         "updated_at": 1729850656
+    },
+    "46517": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/ParticleFlowReco/interface/PFRecHit.h",
+            "Geometry/CaloGeometry/interface/CaloCellGeometry.h",
+            "Geometry/CaloGeometry/interface/CaloCellGeometryMayOwnPtr.h",
+            "Geometry/CaloGeometry/interface/IdealZPrism.h",
+            "Geometry/CaloGeometry/test/calocellgeometryptr_catch2.cc",
+            "RecoParticleFlow/PFClusterProducer/interface/PFEcalBarrelRecHitCreator.h",
+            "RecoParticleFlow/PFClusterProducer/interface/PFEcalEndcapRecHitCreator.h",
+            "RecoParticleFlow/PFClusterProducer/interface/PFHBHERecHitCreator.h",
+            "RecoParticleFlow/PFClusterProducer/interface/PFHFRecHitCreator.h",
+            "RecoParticleFlow/PFClusterProducer/interface/PFHGCalRecHitCreator.h",
+            "RecoParticleFlow/PFClusterProducer/interface/PFHcalRecHitCreator.h",
+            "RecoParticleFlow/PFClusterProducer/interface/PFPSRecHitCreator.h",
+            "RecoParticleFlow/PFClusterProducer/plugins/PFBadHcalPseudoClusterProducer.cc",
+            "RecoParticleFlow/PFRecHitProducer/plugins/LegacyPFRecHitProducer.cc"
+        ],
+        "created_at": 1729876612,
+        "number": 46517,
+        "state": "open",
+        "updated_at": 1729876637
     }
 }
