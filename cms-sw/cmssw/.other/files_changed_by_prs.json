@@ -2629,5 +2629,25 @@
         "number": 46522,
         "state": "open",
         "updated_at": 1730096820
+    },
+    "46523": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "PhysicsTools/NanoAOD/python/custom_jme_cff.py",
+            "PhysicsTools/NanoAOD/python/jetsAK8_cff.py",
+            "PhysicsTools/NanoAOD/python/nano_cff.py",
+            "PhysicsTools/PatAlgos/python/recoLayer0/bTagging_cff.py",
+            "PhysicsTools/PatAlgos/python/slimming/applyDeepBtagging_cff.py",
+            "PhysicsTools/PatAlgos/python/tools/jetTools.py",
+            "PhysicsTools/PatAlgos/python/tools/puppiJetMETReclusteringFromMiniAOD_cff.py",
+            "RecoBTag/Configuration/python/RecoBTag_cff.py",
+            "RecoBTag/FeatureTools/plugins/GlobalParticleTransformerAK8TagInfoProducer.cc",
+            "RecoBTag/ONNXRuntime/python/pfGlobalParticleTransformerAK8_cff.py",
+            "RecoBTag/ONNXRuntime/test/test_globalpart_cfg.py"
+        ],
+        "created_at": 1730101880,
+        "number": 46523,
+        "state": "open",
+        "updated_at": 1730101903
     }
 }
