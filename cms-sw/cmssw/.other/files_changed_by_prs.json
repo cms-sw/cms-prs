@@ -1135,6 +1135,7 @@
             "CondTools/RunInfo/interface/LHCInfoHelper.h",
             "CondTools/RunInfo/interface/LHCInfoPerFillPopConSourceHandler.h",
             "CondTools/RunInfo/interface/LHCInfoPerLSPopConSourceHandler.h",
+            "CondTools/RunInfo/interface/LHCInfoPopConSourceHandler.h",
             "CondTools/RunInfo/plugins/BuildFile.xml",
             "CondTools/RunInfo/plugins/LHCInfoPerFillOnlinePopConAnalyzer.cc",
             "CondTools/RunInfo/plugins/LHCInfoPerFillPopConAnalyzer.cc",
@@ -1145,13 +1146,14 @@
             "CondTools/RunInfo/src/LHCInfoHelper.cc",
             "CondTools/RunInfo/src/LHCInfoPerFillPopConSourceHandler.cc",
             "CondTools/RunInfo/src/LHCInfoPerLSPopConSourceHandler.cc",
+            "CondTools/RunInfo/src/LHCInfoPopConSourceHandler.cc",
             "CondTools/RunInfo/test/last_lumi.txt",
             "CondTools/RunInfo/test/test_lhcInfoNewPopCon.sh"
         ],
         "created_at": 1720373608,
         "number": 45395,
         "state": "open",
-        "updated_at": 1730131516
+        "updated_at": 1730194428
     },
     "45397": {
         "base_branch": "CMSSW_14_0_9_patchX",
