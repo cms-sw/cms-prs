@@ -1500,16 +1500,16 @@
     "45759": {
         "base_branch": "master",
         "changed_files_names": [
-            "DataFormats/Phase2TrackerDigi/interface/DigiHitRecord.h",
-            "DataFormats/Phase2TrackerDigi/interface/QCore.h",
-            "DataFormats/Phase2TrackerDigi/interface/ROCBitStream.h",
-            "DataFormats/Phase2TrackerDigi/interface/ReadoutChip.h",
-            "DataFormats/Phase2TrackerDigi/src/DigiHitRecord.cc",
-            "DataFormats/Phase2TrackerDigi/src/QCore.cc",
-            "DataFormats/Phase2TrackerDigi/src/ReadoutChip.cc",
+            "DataFormats/Phase2TrackerDigi/interface/Phase2ITChip.h",
+            "DataFormats/Phase2TrackerDigi/interface/Phase2ITChipBitStream.h",
+            "DataFormats/Phase2TrackerDigi/interface/Phase2ITDigiHit.h",
+            "DataFormats/Phase2TrackerDigi/interface/Phase2ITQCore.h",
+            "DataFormats/Phase2TrackerDigi/src/Phase2ITChip.cc",
+            "DataFormats/Phase2TrackerDigi/src/Phase2ITDigiHit.cc",
+            "DataFormats/Phase2TrackerDigi/src/Phase2ITQCore.cc",
             "DataFormats/Phase2TrackerDigi/src/classes.h",
             "DataFormats/Phase2TrackerDigi/src/classes_def.xml",
-            "EventFilter/Phase2TrackerRawToDigi/plugins/PixelQCoreProducer.cc",
+            "EventFilter/Phase2TrackerRawToDigi/plugins/Phase2ITQCoreProducer.cc",
             "EventFilter/Phase2TrackerRawToDigi/test/BuildFile.xml",
             "EventFilter/Phase2TrackerRawToDigi/test/Phase2ITDigiToRaw_cfg.py",
             "EventFilter/Phase2TrackerRawToDigi/test/plugins/Phase2PixelQCoreNtuple.cc"
@@ -1517,7 +1517,7 @@
         "created_at": 1724220534,
         "number": 45759,
         "state": "open",
-        "updated_at": 1728912973
+        "updated_at": 1730259094
     },
     "45767": {
         "base_branch": "CMSSW_14_0_X",
