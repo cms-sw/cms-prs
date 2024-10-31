@@ -2691,5 +2691,17 @@
         "number": 46561,
         "state": "open",
         "updated_at": 1730318649
+    },
+    "46562": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoEcal/EgammaClusterProducers/python/particleFlowSuperClusterECAL_cfi.py",
+            "RecoEgamma/EgammaElectronProducers/python/lowPtGsfElectrons_cfi.py",
+            "RecoEgamma/EgammaTools/python/regressionModifier_cfi.py"
+        ],
+        "created_at": 1730345573,
+        "number": 46562,
+        "state": "open",
+        "updated_at": 1730345594
     }
 }
