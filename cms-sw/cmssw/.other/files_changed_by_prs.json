@@ -2690,6 +2690,7 @@
             "CondTools/SiPixel/test/SiPixelGenErrorDBObjectUploader_Phase2_cfg.py",
             "CondTools/SiPixel/test/SiPixelLorentzAngleDBLoader_Phase2_cfg.py",
             "CondTools/SiPixel/test/SiPixelTemplateDBObjectUploader_Phase2_cfg.py",
+            "Configuration/Geometry/README.md",
             "Configuration/Geometry/python/GeometryDD4hepExtended2026D104_cff.py",
             "Configuration/Geometry/python/GeometryDD4hepExtended2026D105_cff.py",
             "Configuration/Geometry/python/GeometryDD4hepExtended2026D106_cff.py",
@@ -2860,6 +2861,7 @@
             "Configuration/Geometry/python/GeometryExtended2026Default_cff.py",
             "Configuration/Geometry/python/dictRun4Geometry.py",
             "Configuration/Geometry/python/dict2026Geometry.py",
+            "Configuration/Geometry/python/generateGeometry.py",
             "Configuration/HLT/python/autoHLT.py",
             "Configuration/PyReleaseValidation/python/MatrixInjector.py",
             "Configuration/PyReleaseValidation/python/MatrixReader.py",
@@ -3152,6 +3154,6 @@
         "created_at": 1730500271,
         "number": 46582,
         "state": "open",
-        "updated_at": 1730500287
+        "updated_at": 1730500667
     }
 }
