@@ -2865,10 +2865,13 @@
             "Configuration/HLT/python/autoHLT.py",
             "Configuration/PyReleaseValidation/python/MatrixInjector.py",
             "Configuration/PyReleaseValidation/python/MatrixReader.py",
-            "Configuration/PyReleaseValidation/python/relval_run4.py",
+            "Configuration/PyReleaseValidation/python/relval_Run4.py",
             "Configuration/PyReleaseValidation/python/relval_2026.py",
+            "Configuration/PyReleaseValidation/python/relval_cleanedupgrade.py",
+            "Configuration/PyReleaseValidation/python/relval_gpu.py",
             "Configuration/PyReleaseValidation/python/relval_steps.py",
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "Configuration/PyReleaseValidation/scripts/README.md",
             "Configuration/PyReleaseValidation/scripts/runTheMatrix.py",
             "Configuration/StandardSequences/python/GeometryConf.py",
             "DQM/SiTrackerPhase2/test/dqmstep_phase2tk_cfg.py",
@@ -3165,7 +3168,7 @@
         "created_at": 1730500271,
         "number": 46582,
         "state": "open",
-        "updated_at": 1730501624
+        "updated_at": 1730503459
     },
     "46583": {
         "base_branch": "master",
