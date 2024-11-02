@@ -2680,6 +2680,7 @@
             "Alignment/OfflineValidation/test/inspectData_cfg.py",
             "Alignment/OfflineValidation/test/testPrimaryVertexRelatedValidations_cfg.py",
             "Alignment/OfflineValidation/test/test_all_Phase2_cfg.py",
+            "Alignment/OfflineValidation/test/testingScripts/test_unitMiscellanea.sh",
             "Alignment/TrackerAlignment/test/Misalignments/createRandomlyMisalignedGeometry_Phase2_cfg.py",
             "Alignment/TrackerAlignment/test/createTrackerAlignmentRcds_Phase2_cfg.py",
             "CalibCalorimetry/HcalPlugins/test/hbhedarkeninganalyzer_cfg.py",
@@ -2864,6 +2865,8 @@
             "Configuration/Geometry/python/dictRun4Geometry.py",
             "Configuration/Geometry/python/dict2026Geometry.py",
             "Configuration/Geometry/python/generateGeometry.py",
+            "Configuration/Geometry/scripts/generate2026Geometry.py",
+            "Configuration/Geometry/scripts/generateRun4Geometry.py",
             "Configuration/Geometry/test/BuildFile.xml",
             "Configuration/HLT/python/autoHLT.py",
             "Configuration/PyReleaseValidation/README.md",
@@ -3029,6 +3032,7 @@
             "Geometry/HcalCommonData/test/python/runHcalSimNumberingDDDTester_cfg.py",
             "Geometry/TrackerGeometryBuilder/test/python/testPhase2TrackerHierarchy_cfg.py",
             "Geometry/TrackerGeometryBuilder/test/python/testPixelTopologyMapTest_cfg.py",
+            "Geometry/TrackerGeometryBuilder/test/python/testTrackerModuleInfoDD4hep_cfg.py",
             "Geometry/TrackerGeometryBuilder/test/python/testTrackerModuleInfoDDD_cfg.py",
             "L1Trigger/CSCTriggerPrimitives/test/runGEMCSCLUTAnalyzer_cfg.py",
             "L1Trigger/DTTriggerPhase2/test/test_primitivesPhase2Prod.py",
@@ -3175,7 +3179,7 @@
         "created_at": 1730500271,
         "number": 46582,
         "state": "open",
-        "updated_at": 1730530080
+        "updated_at": 1730539705
     },
     "46583": {
         "base_branch": "master",
