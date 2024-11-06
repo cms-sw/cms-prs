@@ -2363,32 +2363,6 @@
         "state": "open",
         "updated_at": 1730715171
     },
-    "46565": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "Configuration/Geometry/README.md",
-            "Configuration/Geometry/python/GeometryDD4hepExtended2026D116Reco_cff.py",
-            "Configuration/Geometry/python/GeometryDD4hepExtended2026D116_cff.py",
-            "Configuration/Geometry/python/GeometryExtended2026D116Reco_cff.py",
-            "Configuration/Geometry/python/GeometryExtended2026D116_cff.py",
-            "Configuration/Geometry/python/dict2026Geometry.py",
-            "Configuration/PyReleaseValidation/python/relval_2026.py",
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
-            "Configuration/StandardSequences/python/GeometryConf.py",
-            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026D116.xml",
-            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026D116XML_cfi.py",
-            "Geometry/ForwardCommonData/data/forwardshield/2026/v5/forwardshield.xml",
-            "Geometry/MuonCommonData/data/ge0/TDR_Dev/v5/ge0.xml",
-            "Geometry/MuonCommonData/data/mb3/2015/v3/mb3.xml",
-            "Geometry/MuonCommonData/data/muonYoke/2026/v4/muonYoke.xml",
-            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheck2026DD4hep_cfg.py",
-            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheck2026DDD_cfg.py"
-        ],
-        "created_at": 1730370460,
-        "number": 46565,
-        "state": "open",
-        "updated_at": 1730715322
-    },
     "46566": {
         "base_branch": "master",
         "changed_files_names": [
