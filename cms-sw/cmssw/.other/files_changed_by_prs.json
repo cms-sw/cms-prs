@@ -1309,6 +1309,7 @@
             "CondFormats/HGCalObjects/interface/alpaka/HGCalMappingParameterDevice.h",
             "CondFormats/HGCalObjects/interface/alpaka/HGCalMappingParameterDeviceCollection.h",
             "CondFormats/HGCalObjects/src/ES_HGCalMappingParameter.cc",
+            "CondFormats/HGCalObjects/src/HGCalMappingModuleIndexer.cc",
             "CondFormats/HGCalObjects/src/HGCalMappingParameterHost.cc",
             "CondFormats/HGCalObjects/src/T_EventSetup_HGCalCalibrationParameterHost.cc",
             "CondFormats/HGCalObjects/src/T_EventSetup_HGCalConfiguration.cc",
@@ -1405,7 +1406,7 @@
         "created_at": 1723039925,
         "number": 45665,
         "state": "open",
-        "updated_at": 1728998741
+        "updated_at": 1730967159
     },
     "45672": {
         "base_branch": "master",
