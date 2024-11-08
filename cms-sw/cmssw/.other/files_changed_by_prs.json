@@ -2653,12 +2653,14 @@
         "base_branch": "master",
         "changed_files_names": [
             "HLTrigger/HLTcore/interface/HLTConfigData.h",
-            "HLTrigger/HLTcore/src/HLTConfigData.cc"
+            "HLTrigger/HLTcore/interface/HLTConfigProvider.h",
+            "HLTrigger/HLTcore/src/HLTConfigData.cc",
+            "PhysicsTools/PatAlgos/plugins/PATTriggerProducer.cc"
         ],
         "created_at": 1731021645,
         "number": 46630,
         "state": "open",
-        "updated_at": 1731021669
+        "updated_at": 1731071311
     },
     "46631": {
         "base_branch": "master",
