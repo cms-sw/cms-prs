@@ -2822,5 +2822,22 @@
         "number": 46654,
         "state": "open",
         "updated_at": 1731319838
+    },
+    "46655": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoEgamma/EgammaElectronProducers/plugins/GsfElectronProducer.cc",
+            "RecoEgamma/EgammaPhotonProducers/src/GEDPhotonProducer.cc",
+            "RecoEgamma/EgammaTools/interface/EgammaDNNHelper.h",
+            "RecoEgamma/EgammaTools/src/EgammaDNNHelper.cc",
+            "RecoEgamma/ElectronIdentification/interface/ElectronDNNEstimator.h",
+            "RecoEgamma/ElectronIdentification/src/ElectronDNNEstimator.cc",
+            "RecoEgamma/PhotonIdentification/interface/PhotonDNNEstimator.h",
+            "RecoEgamma/PhotonIdentification/src/PhotonDNNEstimator.cc"
+        ],
+        "created_at": 1731323109,
+        "number": 46655,
+        "state": "open",
+        "updated_at": 1731323131
     }
 }
