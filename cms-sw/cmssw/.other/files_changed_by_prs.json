@@ -2879,13 +2879,17 @@
     "46665": {
         "base_branch": "master",
         "changed_files_names": [
+            "GeneratorInterface/HydjetInterface/BuildFile.xml",
+            "GeneratorInterface/HydjetInterface/plugins/BuildFile.xml",
+            "GeneratorInterface/PyquenInterface/BuildFile.xml",
+            "GeneratorInterface/PyquenInterface/plugins/BuildFile.xml",
             "GeneratorInterface/Pythia6Interface/BuildFile.xml",
             "GeneratorInterface/Pythia6Interface/plugins/BuildFile.xml"
         ],
         "created_at": 1731363929,
         "number": 46665,
         "state": "open",
-        "updated_at": 1731363954
+        "updated_at": 1731403865
     },
     "46667": {
         "base_branch": "CMSSW_14_1_X",
