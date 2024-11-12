@@ -2896,5 +2896,17 @@
         "number": 46666,
         "state": "open",
         "updated_at": 1731394918
+    },
+    "46667": {
+        "base_branch": "CMSSW_14_1_X",
+        "changed_files_names": [
+            "DQM/HLTEvF/python/HLTSiStripMonitoring_cff.py",
+            "DQM/Integration/python/clients/hlt_dqm_sourceclient-live_cfg.py",
+            "DQMOffline/Trigger/python/SiPixel_OfflineMonitoring_TrackResiduals_cff.py"
+        ],
+        "created_at": 1731395508,
+        "number": 46667,
+        "state": "open",
+        "updated_at": 1731395592
     }
 }
