@@ -3079,5 +3079,20 @@
         "number": 46677,
         "state": "open",
         "updated_at": 1731405617
+    },
+    "46678": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoHGCal/TICL/plugins/SimTrackstersProducer.cc",
+            "SimDataFormats/CaloAnalysis/interface/CaloParticle.h",
+            "SimDataFormats/CaloAnalysis/interface/MtdCaloParticle.h",
+            "SimGeneral/CaloAnalysis/plugins/CaloTruthAccumulator.cc",
+            "SimGeneral/CaloAnalysis/plugins/MtdTruthAccumulator.cc",
+            "SimGeneral/MixingModule/python/caloTruthProducer_cfi.py"
+        ],
+        "created_at": 1731413678,
+        "number": 46678,
+        "state": "open",
+        "updated_at": 1731413708
     }
 }
