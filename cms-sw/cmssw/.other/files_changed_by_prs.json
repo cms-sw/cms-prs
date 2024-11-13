@@ -2408,16 +2408,26 @@
             "Utilities/StaticAnalyzers/src/MutableMemberChecker.cpp",
             "Utilities/StaticAnalyzers/src/PublicMutableChecker.h",
             "Utilities/StaticAnalyzers/src/MutableMemberChecker.h",
-            "Utilities/StaticAnalyzers/test/BuildFile.tests",
+            "Utilities/StaticAnalyzers/test/BuildFile.xml",
             "Utilities/StaticAnalyzers/test/Makefile",
             "Utilities/StaticAnalyzers/test/class_checker.cpp",
+            "Utilities/StaticAnalyzers/test/const_cast.cpp",
+            "Utilities/StaticAnalyzers/test/const_cast_away.cpp",
+            "Utilities/StaticAnalyzers/test/func_checker.cpp",
+            "Utilities/StaticAnalyzers/test/global_static.cpp",
+            "Utilities/StaticAnalyzers/test/global_static_edm.cpp",
+            "Utilities/StaticAnalyzers/test/llvm_env",
             "Utilities/StaticAnalyzers/test/mutable_member.cpp",
-            "Utilities/StaticAnalyzers/test/run_static_checks.sh"
+            "Utilities/StaticAnalyzers/test/reference.log",
+            "Utilities/StaticAnalyzers/test/run-clang",
+            "Utilities/StaticAnalyzers/test/run-scan",
+            "Utilities/StaticAnalyzers/test/run_static_checks.sh",
+            "Utilities/StaticAnalyzers/test/static_local.cpp"
         ],
         "created_at": 1731316178,
         "number": 46650,
         "state": "open",
-        "updated_at": 1731416826
+        "updated_at": 1731504786
     },
     "46652": {
         "base_branch": "master",
