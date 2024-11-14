@@ -2753,5 +2753,21 @@
         "number": 46701,
         "state": "open",
         "updated_at": 1731598037
+    },
+    "46702": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CommonTools/Utils/interface/TypedStringObjectMethodCaller.h",
+            "CommonTools/Utils/interface/parser/MethodChain.h",
+            "CommonTools/Utils/interface/parser/MethodChainGrammar.h",
+            "CommonTools/Utils/interface/parser/MethodChainSetter.h",
+            "CommonTools/Utils/src/MethodChain.cc",
+            "CommonTools/Utils/src/MethodChainSetter.cc",
+            "PhysicsTools/NanoAOD/interface/SimpleFlatTableProducer.h"
+        ],
+        "created_at": 1731599170,
+        "number": 46702,
+        "state": "open",
+        "updated_at": 1731599194
     }
 }
