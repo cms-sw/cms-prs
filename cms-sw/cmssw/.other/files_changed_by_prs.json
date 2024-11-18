@@ -2688,6 +2688,7 @@
         "base_branch": "master",
         "changed_files_names": [
             "DataFormats/SiStripDetId/interface/SiStripDetId.h",
+            "RecoLocalTracker/SiStripClusterizer/plugins/ClustersFromRawProducer.cc",
             "RecoLocalTracker/SiStripZeroSuppression/interface/SiStripRawProcessingAlgorithms.h",
             "RecoLocalTracker/SiStripZeroSuppression/plugins/SiStripZeroSuppression.cc",
             "RecoLocalTracker/SiStripZeroSuppression/src/SiStripRawProcessingAlgorithms.cc"
@@ -2695,6 +2696,6 @@
         "created_at": 1731922725,
         "number": 46722,
         "state": "open",
-        "updated_at": 1731922750
+        "updated_at": 1731927333
     }
 }
