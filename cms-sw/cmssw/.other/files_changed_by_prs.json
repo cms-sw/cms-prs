@@ -2737,5 +2737,20 @@
         "number": 46724,
         "state": "open",
         "updated_at": 1731937570
+    },
+    "46725": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "GeneratorInterface/Core/plugins/GenFilterEfficiencyProducer.cc",
+            "GeneratorInterface/Core/plugins/GenXSecAnalyzer.cc",
+            "GeneratorInterface/Pythia8Interface/interface/ResonanceDecayFilterCounter.h",
+            "GeneratorInterface/Pythia8Interface/interface/ResonanceDecayFilterHook.h",
+            "GeneratorInterface/Pythia8Interface/plugins/Pythia8Hadronizer.cc",
+            "GeneratorInterface/Pythia8Interface/src/ResonanceDecayFilterHook.cc"
+        ],
+        "created_at": 1731941087,
+        "number": 46725,
+        "state": "open",
+        "updated_at": 1731941115
     }
 }
