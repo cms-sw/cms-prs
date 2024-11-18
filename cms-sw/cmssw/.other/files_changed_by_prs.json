@@ -2683,5 +2683,18 @@
         "number": 46721,
         "state": "open",
         "updated_at": 1731917362
+    },
+    "46722": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/SiStripDetId/interface/SiStripDetId.h",
+            "RecoLocalTracker/SiStripZeroSuppression/interface/SiStripRawProcessingAlgorithms.h",
+            "RecoLocalTracker/SiStripZeroSuppression/plugins/SiStripZeroSuppression.cc",
+            "RecoLocalTracker/SiStripZeroSuppression/src/SiStripRawProcessingAlgorithms.cc"
+        ],
+        "created_at": 1731922725,
+        "number": 46722,
+        "state": "open",
+        "updated_at": 1731922750
     }
 }
