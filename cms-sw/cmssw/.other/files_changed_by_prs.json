@@ -10,7 +10,7 @@
             "HeterogeneousCore/MPICore/plugins/ConfigurableSource.cc",
             "HeterogeneousCore/MPICore/plugins/EventIdBasedAnalyzer.cc",
             "HeterogeneousCore/MPICore/plugins/EventIdBasedProducer.cc",
-            "HeterogeneousCore/MPICore/plugins/MPIDriver.cc",
+            "HeterogeneousCore/MPICore/plugins/MPIController.cc",
             "HeterogeneousCore/MPICore/plugins/MPIReceiver.cc",
             "HeterogeneousCore/MPICore/plugins/MPIReporter.cc",
             "HeterogeneousCore/MPICore/plugins/MPISender.cc",
@@ -29,13 +29,13 @@
             "HeterogeneousCore/MPICore/test/eventlist_cff.py",
             "HeterogeneousCore/MPICore/test/testConfigurableSource.py",
             "HeterogeneousCore/MPICore/test/testMPI.sh",
-            "HeterogeneousCore/MPICore/test/testMPIDriver.py",
+            "HeterogeneousCore/MPICore/test/testMPIController.py",
             "HeterogeneousCore/MPICore/test/testMPISource.py"
         ],
         "created_at": 1610412286,
         "number": 32632,
         "state": "open",
-        "updated_at": 1731878545
+        "updated_at": 1731907975
     },
     "33532": {
         "base_branch": "master",
