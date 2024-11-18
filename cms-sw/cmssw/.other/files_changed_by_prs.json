@@ -5,6 +5,7 @@
             "DataFormats/Common/src/classes.h",
             "DataFormats/Common/src/classes_def.xml",
             "HeterogeneousCore/MPICore/BuildFile.xml",
+            "HeterogeneousCore/MPICore/README.md",
             "HeterogeneousCore/MPICore/interface/MPIToken.h",
             "HeterogeneousCore/MPICore/plugins/BuildFile.xml",
             "HeterogeneousCore/MPICore/plugins/ConfigurableSource.cc",
@@ -15,7 +16,6 @@
             "HeterogeneousCore/MPICore/plugins/MPIReporter.cc",
             "HeterogeneousCore/MPICore/plugins/MPISender.cc",
             "HeterogeneousCore/MPICore/plugins/MPISource.cc",
-            "HeterogeneousCore/MPICore/plugins/README.md",
             "HeterogeneousCore/MPICore/plugins/api.cc",
             "HeterogeneousCore/MPICore/plugins/api.h",
             "HeterogeneousCore/MPICore/plugins/conversion.cc",
@@ -30,12 +30,12 @@
             "HeterogeneousCore/MPICore/test/testConfigurableSource.py",
             "HeterogeneousCore/MPICore/test/testMPI.sh",
             "HeterogeneousCore/MPICore/test/testMPIController.py",
-            "HeterogeneousCore/MPICore/test/testMPISource.py"
+            "HeterogeneousCore/MPICore/test/testMPIFollower.py"
         ],
         "created_at": 1610412286,
         "number": 32632,
         "state": "open",
-        "updated_at": 1731907975
+        "updated_at": 1731935983
     },
     "33532": {
         "base_branch": "master",
