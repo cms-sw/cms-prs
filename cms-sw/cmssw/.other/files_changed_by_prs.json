@@ -2576,15 +2576,20 @@
             "DataFormats/Provenance/interface/ProductProvenance.h",
             "DataFormats/Provenance/interface/ProductProvenanceLookup.h",
             "DataFormats/Provenance/src/CompactHash.cc",
+            "DataFormats/Provenance/src/Parentage.cc",
             "DataFormats/Provenance/src/ProductProvenanceLookup.cc",
             "DataFormats/Provenance/src/classes_def.xml",
             "DataFormats/Provenance/test/BuildFile.xml",
-            "DataFormats/Provenance/test/CompactHash_t.cpp"
+            "DataFormats/Provenance/test/CompactHash_t.cpp",
+            "DataFormats/Provenance/test/Parentage_t.cpp",
+            "FWCore/Utilities/interface/Digest.h",
+            "FWCore/Utilities/src/Digest.cc",
+            "FWCore/Utilities/test/test_catch2_Digest.cc"
         ],
         "created_at": 1731962025,
         "number": 46729,
         "state": "open",
-        "updated_at": 1732025604
+        "updated_at": 1732041773
     },
     "46731": {
         "base_branch": "CMSSW_14_1_X",
