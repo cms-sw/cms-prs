@@ -2584,7 +2584,10 @@
         "changed_files_names": [
             "DataFormats/Provenance/interface/CompactHash.h",
             "DataFormats/Provenance/interface/ParentageID.h",
+            "DataFormats/Provenance/interface/ProductProvenance.h",
+            "DataFormats/Provenance/interface/ProductProvenanceLookup.h",
             "DataFormats/Provenance/src/CompactHash.cc",
+            "DataFormats/Provenance/src/ProductProvenanceLookup.cc",
             "DataFormats/Provenance/src/classes_def.xml",
             "DataFormats/Provenance/test/BuildFile.xml",
             "DataFormats/Provenance/test/CompactHash_t.cpp"
@@ -2592,7 +2595,7 @@
         "created_at": 1731962025,
         "number": 46729,
         "state": "open",
-        "updated_at": 1731962051
+        "updated_at": 1732025604
     },
     "46731": {
         "base_branch": "CMSSW_14_1_X",
