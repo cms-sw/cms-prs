@@ -942,6 +942,7 @@
             "Configuration/ProcessModifiers/python/trackingLST_cff.py",
             "Configuration/PyReleaseValidation/README.md",
             "Configuration/PyReleaseValidation/python/relval_Run4.py",
+            "Configuration/PyReleaseValidation/python/relval_gpu.py",
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
             "RecoTracker/ConversionSeedGenerators/python/ConversionStep_cff.py",
             "RecoTracker/FinalTrackSelectors/python/MergeTrackCollections_cff.py",
@@ -1087,7 +1088,7 @@
         "created_at": 1717244844,
         "number": 45117,
         "state": "open",
-        "updated_at": 1731105025
+        "updated_at": 1732033140
     },
     "45146": {
         "base_branch": "master",
