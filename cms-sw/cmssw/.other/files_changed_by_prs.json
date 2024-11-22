@@ -3356,5 +3356,34 @@
         "number": 46774,
         "state": "open",
         "updated_at": 1732292313
+    },
+    "46775": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoVertex/BeamSpotProducer/scripts/BeamSpotWorkflow.py",
+            "RecoVertex/BeamSpotProducer/scripts/CommonMethods.py",
+            "RecoVertex/BeamSpotProducer/scripts/beamvalidation.py",
+            "RecoVertex/BeamSpotProducer/scripts/checkPayloads.py",
+            "RecoVertex/BeamSpotProducer/scripts/checkRuns.py",
+            "RecoVertex/BeamSpotProducer/scripts/copyAndRename.py",
+            "RecoVertex/BeamSpotProducer/scripts/copyFiles.py",
+            "RecoVertex/BeamSpotProducer/scripts/createPayload.py",
+            "RecoVertex/BeamSpotProducer/scripts/getBeamSpotDB.py",
+            "RecoVertex/BeamSpotProducer/scripts/ntuplemaker.py",
+            "RecoVertex/BeamSpotProducer/scripts/plotBeamSpotDB.py",
+            "RecoVertex/BeamSpotProducer/scripts/rename.py",
+            "RecoVertex/BeamSpotProducer/scripts/root/BxAnalysis/lumiregperbunch.py",
+            "RecoVertex/BeamSpotProducer/scripts/splitter.py",
+            "RecoVertex/BeamSpotProducer/scripts/uploadPayloads.py",
+            "RecoVertex/BeamSpotProducer/scripts/uploader.py",
+            "RecoVertex/BeamSpotProducer/test/InspectFwBeamSpot.py",
+            "RecoVertex/BeamSpotProducer/test/scripts/AnalyzeLumiScan.py",
+            "RecoVertex/BeamSpotProducer/test/scripts/PlotLumiScan.py",
+            "RecoVertex/BeamSpotProducer/test/scripts/pv.py"
+        ],
+        "created_at": 1732292308,
+        "number": 46775,
+        "state": "open",
+        "updated_at": 1732292331
     }
 }
