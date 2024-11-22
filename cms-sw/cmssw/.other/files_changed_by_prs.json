@@ -3509,5 +3509,25 @@
         "number": 46781,
         "state": "open",
         "updated_at": 1732292389
+    },
+    "46782": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "L1Trigger/L1CaloTrigger/python/l1tPhase1JetProducer_cfi.py",
+            "L1Trigger/L1CaloTrigger/test/Phase1L1TJetHwEmuComp.py",
+            "L1Trigger/L1CaloTrigger/test/generatePatternPF.py",
+            "L1Trigger/L1THGCal/python/customCalibration.py",
+            "L1Trigger/L1THGCal/python/l1tHGCalBackEndLayer1Producer_cfi.py",
+            "L1Trigger/L1THGCal/python/l1tHGCalVFEProducer_cfi.py",
+            "L1Trigger/L1THGCalUtilities/python/hgcalTriggerNtuples_cfi.py",
+            "L1Trigger/TrackTrigger/python/TkOnlyDigi_cff.py",
+            "L1Trigger/TrackTrigger/test/SLHC_MBIAS_TkOnly.py",
+            "L1Trigger/TrackTrigger/test/SLHC_PGUN_TkOnly.py",
+            "L1Trigger/TrackTrigger/test/SLHC_PU_TkOnly.py"
+        ],
+        "created_at": 1732292371,
+        "number": 46782,
+        "state": "open",
+        "updated_at": 1732292395
     }
 }
