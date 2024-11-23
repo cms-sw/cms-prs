@@ -1829,31 +1829,6 @@
         "state": "open",
         "updated_at": 1730040635
     },
-    "46539": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltFilteredLayerClustersRecoveryL1Seeded_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTracksterLinksL1Seeded_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTracksterLinksUnseeded_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTracksterLinks_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTrackstersRecoveryL1Seeded_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/psets/hltTiclTracksterLinksPSet_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTHgcalTiclPFClusteringForEgammaUnseededSequence_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTTiclTrackstersRecoverySequenceL1Seeded_cfi.py",
-            "RecoHGCal/TICL/plugins/TICLDumper.cc",
-            "RecoHGCal/TICL/plugins/TICLGraph.cc",
-            "RecoHGCal/TICL/plugins/TICLGraph.h",
-            "RecoHGCal/TICL/plugins/TracksterLinkingbySkeletons.cc",
-            "RecoHGCal/TICL/plugins/TracksterLinkingbySkeletons.h",
-            "RecoHGCal/TICL/python/customiseTICLFromReco.py",
-            "RecoHGCal/TICL/python/iterativeTICL_cff.py",
-            "RecoHGCal/TICL/python/ticlDumper_cff.py"
-        ],
-        "created_at": 1730198600,
-        "number": 46539,
-        "state": "open",
-        "updated_at": 1732189545
-    },
     "46571": {
         "base_branch": "CMSSW_14_1_X",
         "changed_files_names": [
