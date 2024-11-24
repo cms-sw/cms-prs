@@ -1775,8 +1775,8 @@
             "RecoLocalCalo/EcalRecProducers/plugins/alpaka/DeclsForKernels.h",
             "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EcalRecHitBuilder.dev.cc",
             "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EcalRecHitBuilder.h",
-            "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EcalRecHitConditionsHostESProducer.cc",
-            "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EcalRecHitParametersHostESProducer.cc",
+            "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EcalRecHitConditionsESProducer.cc",
+            "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EcalRecHitParametersESProducer.cc",
             "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EcalRecHitProducerPortable.cc",
             "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EnergyComputationKernels.h",
             "RecoLocalCalo/EcalRecProducers/plugins/alpaka/KernelHelpers.dev.cc",
@@ -1787,7 +1787,7 @@
         "created_at": 1729372636,
         "number": 46453,
         "state": "open",
-        "updated_at": 1731681453
+        "updated_at": 1732403115
     },
     "46489": {
         "base_branch": "master",
