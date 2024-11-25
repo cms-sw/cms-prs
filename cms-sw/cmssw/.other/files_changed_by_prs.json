@@ -3075,5 +3075,16 @@
         "number": 46791,
         "state": "open",
         "updated_at": 1732515387
+    },
+    "46792": {
+        "base_branch": "CMSSW_14_2_X",
+        "changed_files_names": [
+            "Geometry/MTDGeometryBuilder/test/DD4hep_TestPixelTopology.cc",
+            "Geometry/MTDGeometryBuilder/test/MTDDigiGeometryAnalyzer.cc"
+        ],
+        "created_at": 1732521507,
+        "number": 46792,
+        "state": "open",
+        "updated_at": 1732521585
     }
 }
