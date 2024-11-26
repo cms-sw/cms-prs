@@ -3,14 +3,18 @@
         "base_branch": "master",
         "changed_files_names": [
             "FWCore/Modules/src/EmptySourceFromEventIDs.cc",
+            "FWCore/Modules/src/GenericConsumer.cc",
             "FWCore/Modules/test/BuildFile.xml",
             "FWCore/Modules/test/testEmptySourceFromEventIDs_cfg.py",
             "FWCore/TestModules/README.md",
             "FWCore/TestModules/plugins/BuildFile.xml",
             "FWCore/TestModules/plugins/EventIDProducer.cc",
             "FWCore/TestModules/plugins/EventIDValidator.cc",
+            "FWCore/TestModules/plugins/GenericCloner.cc",
             "FWCore/TestModules/test/BuildFile.xml",
             "FWCore/TestModules/test/testEventIDValidator_cfg.py",
+            "FWCore/TestModules/test/testGenericCloner_cfg.py",
+            "FWCore/Utilities/interface/BranchPattern.h",
             "HeterogeneousCore/MPICore/BuildFile.xml",
             "HeterogeneousCore/MPICore/README.md",
             "HeterogeneousCore/MPICore/interface/MPIToken.h",
@@ -38,7 +42,7 @@
         "created_at": 1610412286,
         "number": 32632,
         "state": "open",
-        "updated_at": 1732517653
+        "updated_at": 1732599468
     },
     "33532": {
         "base_branch": "master",
