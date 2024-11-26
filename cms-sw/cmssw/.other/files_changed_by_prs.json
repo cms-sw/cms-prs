@@ -2502,12 +2502,19 @@
             "GeneratorInterface/Pythia8Interface/test/pythia8test/runtest",
             "IOMC/EventVertexGenerators/interface/BaseEvtVtxGenerator.h",
             "IOMC/EventVertexGenerators/src/BaseEvtVtxGenerator.cc",
-            "PhysicsTools/HepMCCandAlgos/plugins/GenParticleProducer.cc"
+            "PhysicsTools/HepMCCandAlgos/plugins/GenParticleProducer.cc",
+            "SimG4Core/Application/interface/RunManagerMTWorker.h",
+            "SimG4Core/Application/src/RunManagerMTWorker.cc",
+            "SimG4Core/Generators/BuildFile.xml",
+            "SimG4Core/Generators/interface/Generator3.h",
+            "SimG4Core/Generators/interface/LumiMonitorFilter.h",
+            "SimG4Core/Generators/src/Generator3.cc",
+            "SimG4Core/Generators/src/LumiMonitorFilter.cc"
         ],
         "created_at": 1732556004,
         "number": 46797,
         "state": "open",
-        "updated_at": 1732639197
+        "updated_at": 1732652212
     },
     "46800": {
         "base_branch": "master",
