@@ -2629,12 +2629,14 @@
         "base_branch": "master",
         "changed_files_names": [
             "GeneratorInterface/Core/plugins/GeneratorSmearedProducer.cc",
-            "GeneratorInterface/Pythia8Interface/test/pythia8test/runtest"
+            "GeneratorInterface/Pythia8Interface/test/pythia8test/runtest",
+            "IOMC/EventVertexGenerators/interface/BaseEvtVtxGenerator.h",
+            "IOMC/EventVertexGenerators/src/BaseEvtVtxGenerator.cc"
         ],
         "created_at": 1732556004,
         "number": 46797,
         "state": "open",
-        "updated_at": 1732556030
+        "updated_at": 1732632298
     },
     "46798": {
         "base_branch": "master",
