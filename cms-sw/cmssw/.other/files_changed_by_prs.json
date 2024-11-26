@@ -2392,37 +2392,6 @@
         "state": "open",
         "updated_at": 1732521992
     },
-    "46774": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "IOMC/EventVertexGenerators/test/calculate_beamwidth.py",
-            "SimCalorimetry/EcalTestBeam/python/ecalTB2006H4_GenSimDigiReco_cfg.py",
-            "SimG4CMS/HcalTestBeam/test/python/run_tb06_all_cfg.py",
-            "SimG4Core/CustomPhysics/python/Exotica_HSCP_SIM_cfi.py",
-            "SimG4Core/CustomPhysics/python/Exotica_MT_SIM_cfi.py",
-            "SimGeneral/Configuration/python/RandomRunSource.py",
-            "SimGeneral/Configuration/python/ThrowAndSetRandomRun.py",
-            "SimGeneral/MixingModule/python/mix_fromDB_cfi.py",
-            "SimMuon/CSCDigitizer/test/CSCNeutronReader_cfg.py",
-            "SimMuon/DTDigitizer/python/dtChamberMasker_cff.py",
-            "SimTracker/TrackerMaterialAnalysis/crab/merge.py",
-            "SimTracker/TrackerMaterialAnalysis/python/trackingMaterialVarParsing.py",
-            "SimTracker/TrackerMaterialAnalysis/test/dumpFullXML.py",
-            "SimTracker/TrackerMaterialAnalysis/test/dumpFullXML_ForPhaseI.py",
-            "SimTracker/TrackerMaterialAnalysis/test/dumpFullXML_ForPhaseII.py",
-            "SimTracker/TrackerMaterialAnalysis/test/listGroups.py",
-            "SimTracker/TrackerMaterialAnalysis/test/listGroups_dd4hep.py",
-            "SimTracker/TrackerMaterialAnalysis/test/listIds_dd4hep.py",
-            "SimTracker/TrackerMaterialAnalysis/test/tools/dump.py",
-            "SimTracker/TrackerMaterialAnalysis/test/tools/material.py",
-            "SimTracker/TrackerMaterialAnalysis/test/tools/plot.py",
-            "SimTracker/TrackerMaterialAnalysis/test/tools/split.py"
-        ],
-        "created_at": 1732292291,
-        "number": 46774,
-        "state": "open",
-        "updated_at": 1732457834
-    },
     "46775": {
         "base_branch": "master",
         "changed_files_names": [
