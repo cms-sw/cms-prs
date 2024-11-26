@@ -2792,6 +2792,7 @@
     "46790": {
         "base_branch": "master",
         "changed_files_names": [
+            "FWCore/Framework/interface/GenericProduct.h",
             "FWCore/Modules/src/EmptySourceFromEventIDs.cc",
             "FWCore/Modules/src/GenericConsumer.cc",
             "FWCore/Modules/test/BuildFile.xml",
@@ -2809,7 +2810,7 @@
         "created_at": 1732484161,
         "number": 46790,
         "state": "open",
-        "updated_at": 1732599246
+        "updated_at": 1732601980
     },
     "46792": {
         "base_branch": "CMSSW_14_2_X",
