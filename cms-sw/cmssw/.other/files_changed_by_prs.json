@@ -1265,15 +1265,18 @@
             "DataFormats/Phase2TrackerDigi/src/Phase2ITQCore.cc",
             "DataFormats/Phase2TrackerDigi/src/classes.h",
             "DataFormats/Phase2TrackerDigi/src/classes_def.xml",
-            "EventFilter/Phase2TrackerRawToDigi/plugins/Phase2ITQCoreProducer.cc",
-            "EventFilter/Phase2TrackerRawToDigi/test/BuildFile.xml",
-            "EventFilter/Phase2TrackerRawToDigi/test/Phase2ITDigiToRaw_cfg.py",
-            "EventFilter/Phase2TrackerRawToDigi/test/plugins/Phase2PixelQCoreNtuple.cc"
+            "EventFilter/Phase2PixelRawToDigi/BuildFile.xml",
+            "EventFilter/Phase2PixelRawToDigi/plugins/BuildFile.xml",
+            "EventFilter/Phase2PixelRawToDigi/plugins/Phase2ITQCoreProducer.cc",
+            "EventFilter/Phase2PixelRawToDigi/test/BuildFile.xml",
+            "EventFilter/Phase2PixelRawToDigi/test/Phase2ITDigiToRaw_cfg.py",
+            "EventFilter/Phase2PixelRawToDigi/test/plugins/Phase2PixelQCoreNtuple.cc",
+            "EventFilter/Phase2TrackerRawToDigi/test/BuildFile.xml"
         ],
         "created_at": 1724220534,
         "number": 45759,
         "state": "open",
-        "updated_at": 1732278156
+        "updated_at": 1732675695
     },
     "45853": {
         "base_branch": "master",
