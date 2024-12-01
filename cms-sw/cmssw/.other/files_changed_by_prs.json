@@ -1718,9 +1718,7 @@
         "base_branch": "master",
         "changed_files_names": [
             "CondFormats/DataRecord/interface/EcalRecHitConditionsRcd.h",
-            "CondFormats/DataRecord/interface/EcalRecHitParametersRcd.h",
             "CondFormats/DataRecord/src/EcalRecHitConditionsRcd.cc",
-            "CondFormats/DataRecord/src/EcalRecHitParametersRcd.cc",
             "CondFormats/EcalObjects/interface/EcalRecHitConditionsHost.h",
             "CondFormats/EcalObjects/interface/EcalRecHitConditionsSoA.h",
             "CondFormats/EcalObjects/interface/EcalRecHitParametersHost.h",
@@ -1739,6 +1737,7 @@
             "DQM/EcalMonitorTasks/python/EcalMonitorTask_cff.py",
             "DQM/EcalMonitorTasks/python/ecalGpuTask_cfi.py",
             "DQM/EcalMonitorTasks/src/GpuTask.cc",
+            "DataFormats/CaloRecHit/interface/CaloRecHit.h",
             "DataFormats/EcalRecHit/interface/EcalRecHitHostCollection.h",
             "DataFormats/EcalRecHit/interface/EcalRecHitSoA.h",
             "DataFormats/EcalRecHit/interface/alpaka/EcalRecHitDeviceCollection.h",
@@ -1757,16 +1756,19 @@
             "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EcalRecHitConditionsESProducer.cc",
             "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EcalRecHitParametersESProducer.cc",
             "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EcalRecHitProducerPortable.cc",
+            "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EnergyComputationKernels.dev.cc",
             "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EnergyComputationKernels.h",
             "RecoLocalCalo/EcalRecProducers/plugins/alpaka/KernelHelpers.dev.cc",
             "RecoLocalCalo/EcalRecProducers/plugins/alpaka/KernelHelpers.h",
             "RecoLocalCalo/EcalRecProducers/python/ecalMultiFitUncalibRecHit_cff.py",
-            "RecoLocalCalo/EcalRecProducers/python/ecalRecHit_cff.py"
+            "RecoLocalCalo/EcalRecProducers/python/ecalRecHit_cff.py",
+            "RecoLocalCalo/HGCalRecProducers/plugins/KernelManagerHGCalCellPositions.h",
+            "RecoLocalCalo/HGCalRecProducers/plugins/KernelManagerHGCalRecHit.h"
         ],
         "created_at": 1729372636,
         "number": 46453,
         "state": "open",
-        "updated_at": 1732403326
+        "updated_at": 1733008552
     },
     "46489": {
         "base_branch": "master",
