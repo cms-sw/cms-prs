@@ -2105,30 +2105,6 @@
         "state": "open",
         "updated_at": 1732489248
     },
-    "46778": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "CondTools/DQM/test/DQMXMLFileEventSetupAnalyzer_cfg.py",
-            "CondTools/HLT/scripts/run_AlCaRecoTriggerBitsUpdateWorkflow.py",
-            "CondTools/L1Trigger/test/L1ConfigWriteSinglePayload_cfg.py",
-            "CondTools/SiPhase2Tracker/test/SiPhase2OuterTrackerLorentzAngleWriter_cfg.py",
-            "Configuration/Geometry/python/generateGeometry.py",
-            "Configuration/Skimming/test/skimmingMatrix.py",
-            "Configuration/Skimming/test/testSkimConfig.py",
-            "DPGAnalysis/Skims/python/runonSM.py",
-            "DPGAnalysis/Skims/python/runonSM_350.py",
-            "DPGAnalysis/Skims/python/runonSMtunnel.py",
-            "DQM/BeamMonitor/test/42X_beam_dqm_sourceclient-live_cfg.py",
-            "DQM/BeamMonitor/test/44X_beam_dqm_sourceclient-live_cfg.py",
-            "DQM/BeamMonitor/test/beamspotdip_dqm_sourceclient-file_cfg.py",
-            "Geometry/CMSCommonData/test/run_DOMCount.py",
-            "Geometry/GEMGeometry/python/gemGeometryCustoms.py"
-        ],
-        "created_at": 1732292336,
-        "number": 46778,
-        "state": "open",
-        "updated_at": 1732529808
-    },
     "46786": {
         "base_branch": "master",
         "changed_files_names": [
