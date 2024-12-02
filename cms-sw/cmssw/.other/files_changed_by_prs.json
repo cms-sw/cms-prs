@@ -2266,6 +2266,8 @@
             "Configuration/PyReleaseValidation/README.md",
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
             "HLTrigger/Configuration/python/HLT_75e33/eventsetup/hltESPModulesDevLST_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/eventsetup/hltESPTTRHBuilderWithTrackAngle_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/eventsetup/hltTTRBWR_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/eventsetup/hltESPTTRHBuilderWithoutRefit_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltGeneralTracks_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltHighPtTripletStepClusters_cfi.py",
@@ -2288,7 +2290,9 @@
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2OTHitsInputLST_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2PixelTracksSoA_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltPixelSeedInputLST_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltSiPhase2Clusters_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltSiPhase2RecHits_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/psets/HLTPSetTrajectoryBuilderForGsfElectrons_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTHighPtTripletStepSequence_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTInitialStepSequence_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTTrackingV61Sequence_cfi.py",
@@ -2299,7 +2303,7 @@
         "created_at": 1732888614,
         "number": 46828,
         "state": "open",
-        "updated_at": 1732888636
+        "updated_at": 1733164309
     },
     "46829": {
         "base_branch": "master",
