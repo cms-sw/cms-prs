@@ -2440,12 +2440,13 @@
             "RecoLocalTracker/SiPixelRecHits/python/SiPixelRecHits_cfi.py",
             "RecoTracker/PixelTrackFitting/python/PixelTracks_cff.py",
             "RecoVertex/BeamSpotProducer/python/BeamSpot_cff.py",
-            "RecoVertex/Configuration/python/RecoPixelVertexing_cff.py"
+            "RecoVertex/Configuration/python/RecoPixelVertexing_cff.py",
+            "Validation/RecoTrack/python/TrackValidation_cff.py"
         ],
         "created_at": 1733231335,
         "number": 46853,
         "state": "open",
-        "updated_at": 1733235177
+        "updated_at": 1733257848
     },
     "46854": {
         "base_branch": "master",
