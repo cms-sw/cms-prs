@@ -2393,8 +2393,10 @@
         "changed_files_names": [
             "Configuration/EventContent/python/EventContent_cff.py",
             "HLTriggerOffline/Common/python/HLTValidationHarvest_cff.py",
-            "SimMuon/MCTruth/plugins/SeedToTrackProducer.cc",
+            "SimMuon/MCTruth/plugins/Phase2SeedToTrackProducer.cc",
+            "SimMuon/MCTruth/plugins/Phase2SeedToTrackProducer.h",
             "SimMuon/MCTruth/plugins/SeedToTrackProducer.h",
+            "SimMuon/MCTruth/python/SeedToTrackProducer_cfi.py",
             "Validation/RecoMuon/plugins/MuonTrackValidator.cc",
             "Validation/RecoMuon/plugins/MuonTrackValidatorBase.h",
             "Validation/RecoMuon/python/PostProcessorHLT_cff.py",
@@ -2406,7 +2408,7 @@
         "created_at": 1733299675,
         "number": 46860,
         "state": "open",
-        "updated_at": 1733303705
+        "updated_at": 1733324672
     },
     "46861": {
         "base_branch": "master",
