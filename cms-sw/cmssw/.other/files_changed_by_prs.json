@@ -2424,7 +2424,7 @@
     "46860": {
         "base_branch": "master",
         "changed_files_names": [
-            "HLTrigger/Configuration/python/HLTrigger_EventContent_cff.py",
+            "Configuration/EventContent/python/EventContent_cff.py",
             "HLTriggerOffline/Common/python/HLTValidationHarvest_cff.py",
             "SimMuon/MCTruth/plugins/SeedToTrackProducer.cc",
             "SimMuon/MCTruth/plugins/SeedToTrackProducer.h",
@@ -2439,7 +2439,7 @@
         "created_at": 1733299675,
         "number": 46860,
         "state": "open",
-        "updated_at": 1733299703
+        "updated_at": 1733303705
     },
     "46861": {
         "base_branch": "master",
