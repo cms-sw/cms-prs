@@ -2428,5 +2428,31 @@
         "number": 46876,
         "state": "open",
         "updated_at": 1733394694
+    },
+    "46877": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/Common/interface/AllocateForOverwrite.h",
+            "DataFormats/Common/interface/DeviceProduct.h",
+            "DataFormats/Common/interface/Wrapper.h",
+            "DataFormats/Portable/interface/PortableDeviceCollection.h",
+            "DataFormats/Portable/interface/PortableDeviceObject.h",
+            "DataFormats/Portable/interface/PortableHostCollection.h",
+            "DataFormats/Portable/interface/PortableHostObject.h",
+            "DataFormats/SiPixelClusterSoA/interface/SiPixelClustersDevice.h",
+            "DataFormats/SiPixelClusterSoA/interface/SiPixelClustersHost.h",
+            "DataFormats/SiPixelDigiSoA/interface/SiPixelDigiErrorsDevice.h",
+            "DataFormats/SiPixelDigiSoA/interface/SiPixelDigiErrorsHost.h",
+            "DataFormats/SiPixelDigiSoA/interface/SiPixelDigisDevice.h",
+            "DataFormats/SiPixelDigiSoA/interface/SiPixelDigisHost.h",
+            "DataFormats/TrackSoA/interface/TracksDevice.h",
+            "DataFormats/TrackSoA/interface/TracksHost.h",
+            "DataFormats/TrackingRecHitSoA/interface/TrackingRecHitsDevice.h",
+            "DataFormats/TrackingRecHitSoA/interface/TrackingRecHitsHost.h"
+        ],
+        "created_at": 1733394856,
+        "number": 46877,
+        "state": "open",
+        "updated_at": 1733394887
     }
 }
