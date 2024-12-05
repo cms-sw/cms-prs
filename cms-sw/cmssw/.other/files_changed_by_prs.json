@@ -2314,9 +2314,12 @@
         "changed_files_names": [
             "Configuration/EventContent/python/EventContent_cff.py",
             "HLTriggerOffline/Common/python/HLTValidationHarvest_cff.py",
-            "SimMuon/MCTruth/plugins/Phase2SeedToTrackProducer.cc",
             "SimMuon/MCTruth/plugins/Phase2SeedToTrackProducer.h",
+            "SimMuon/MCTruth/plugins/SealModule.cc",
             "SimMuon/MCTruth/plugins/SeedToTrackProducer.h",
+            "SimMuon/MCTruth/plugins/SeedToTrackProducerBase.cc",
+            "SimMuon/MCTruth/plugins/SeedToTrackProducer.cc",
+            "SimMuon/MCTruth/plugins/SeedToTrackProducerBase.h",
             "SimMuon/MCTruth/python/SeedToTrackProducer_cfi.py",
             "Validation/RecoMuon/plugins/MuonTrackValidator.cc",
             "Validation/RecoMuon/plugins/MuonTrackValidatorBase.h",
@@ -2329,7 +2332,7 @@
         "created_at": 1733299675,
         "number": 46860,
         "state": "open",
-        "updated_at": 1733324672
+        "updated_at": 1733388888
     },
     "46867": {
         "base_branch": "CMSSW_14_0_X",
