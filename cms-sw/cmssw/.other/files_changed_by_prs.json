@@ -2279,12 +2279,15 @@
             "RecoEgamma/ElectronIdentification/plugins/ElectronIDSelectorCutBased.cc",
             "RecoEgamma/ElectronIdentification/plugins/ElectronIDSelectorCutBased.h",
             "RecoEgamma/ElectronIdentification/plugins/PTDRElectronID.cc",
-            "RecoEgamma/ElectronIdentification/plugins/PTDRElectronID.h"
+            "RecoEgamma/ElectronIdentification/plugins/PTDRElectronID.h",
+            "RecoEgamma/ElectronIdentification/test/BuildFile.xml",
+            "RecoEgamma/ElectronIdentification/test/test_catch2_EleIdCutBasedExtProducer.cc",
+            "RecoEgamma/ElectronIdentification/test/test_catch2_main.cc"
         ],
         "created_at": 1733327307,
         "number": 46868,
         "state": "open",
-        "updated_at": 1733327336
+        "updated_at": 1733512634
     },
     "46871": {
         "base_branch": "master",
