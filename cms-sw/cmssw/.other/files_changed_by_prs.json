@@ -2240,9 +2240,10 @@
     "46877": {
         "base_branch": "master",
         "changed_files_names": [
-            "DataFormats/Common/interface/AllocateForOverwrite.h",
             "DataFormats/Common/interface/DeviceProduct.h",
+            "DataFormats/Common/interface/Uninitialized.h",
             "DataFormats/Common/interface/Wrapper.h",
+            "DataFormats/Common/test/Wrapper_t.cpp",
             "DataFormats/Portable/interface/PortableDeviceCollection.h",
             "DataFormats/Portable/interface/PortableDeviceObject.h",
             "DataFormats/Portable/interface/PortableHostCollection.h",
@@ -2253,15 +2254,23 @@
             "DataFormats/SiPixelDigiSoA/interface/SiPixelDigiErrorsHost.h",
             "DataFormats/SiPixelDigiSoA/interface/SiPixelDigisDevice.h",
             "DataFormats/SiPixelDigiSoA/interface/SiPixelDigisHost.h",
+            "DataFormats/TestObjects/interface/ToyProducts.h",
+            "DataFormats/TestObjects/src/classes_def.xml",
             "DataFormats/TrackSoA/interface/TracksDevice.h",
             "DataFormats/TrackSoA/interface/TracksHost.h",
             "DataFormats/TrackingRecHitSoA/interface/TrackingRecHitsDevice.h",
-            "DataFormats/TrackingRecHitSoA/interface/TrackingRecHitsHost.h"
+            "DataFormats/TrackingRecHitSoA/interface/TrackingRecHitsHost.h",
+            "FWCore/Integration/plugins/BuildFile.xml",
+            "FWCore/Integration/plugins/MaybeUninitializedIntAnalyzer.cc",
+            "FWCore/Integration/plugins/MaybeUninitializedIntProducer.cc",
+            "FWCore/Integration/test/BuildFile.xml",
+            "FWCore/Integration/test/testMaybeUninitializedIntProductPart1_cfg.py",
+            "FWCore/Integration/test/testMaybeUninitializedIntProductPart2_cfg.py"
         ],
         "created_at": 1733394856,
         "number": 46877,
         "state": "open",
-        "updated_at": 1733525605
+        "updated_at": 1733560267
     },
     "46878": {
         "base_branch": "master",
