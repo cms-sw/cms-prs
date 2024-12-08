@@ -2265,12 +2265,16 @@
             "FWCore/Integration/plugins/MaybeUninitializedIntProducer.cc",
             "FWCore/Integration/test/BuildFile.xml",
             "FWCore/Integration/test/testMaybeUninitializedIntProductPart1_cfg.py",
-            "FWCore/Integration/test/testMaybeUninitializedIntProductPart2_cfg.py"
+            "FWCore/Integration/test/testMaybeUninitializedIntProductPart2_cfg.py",
+            "IOPool/Input/test/BuildFile.xml",
+            "IOPool/Input/test/testNoParentDictionary.sh",
+            "IOPool/Input/test/testRefProductIDMetadataConsistencyRoot.sh",
+            "IOPool/Input/test/run_TestRefProductIDMetadataConsistencyRoot.sh"
         ],
         "created_at": 1733394856,
         "number": 46877,
         "state": "open",
-        "updated_at": 1733560267
+        "updated_at": 1733666476
     },
     "46878": {
         "base_branch": "master",
