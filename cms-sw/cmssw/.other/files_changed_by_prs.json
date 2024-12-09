@@ -1672,8 +1672,8 @@
             "CondFormats/DataRecord/src/EcalRecHitConditionsRcd.cc",
             "CondFormats/EcalObjects/interface/EcalRecHitConditionsHost.h",
             "CondFormats/EcalObjects/interface/EcalRecHitConditionsSoA.h",
+            "CondFormats/EcalObjects/interface/EcalRecHitParameters.h",
             "CondFormats/EcalObjects/interface/EcalRecHitParametersHost.h",
-            "CondFormats/EcalObjects/interface/EcalRecHitParametersSoA.h",
             "CondFormats/EcalObjects/interface/alpaka/EcalRecHitConditionsDevice.h",
             "CondFormats/EcalObjects/interface/alpaka/EcalRecHitParametersDevice.h",
             "CondFormats/EcalObjects/src/ES_EcalRecHitConditionsHost.cc",
@@ -1719,7 +1719,7 @@
         "created_at": 1729372636,
         "number": 46453,
         "state": "open",
-        "updated_at": 1733037244
+        "updated_at": 1733756377
     },
     "46489": {
         "base_branch": "master",
