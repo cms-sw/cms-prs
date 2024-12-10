@@ -2158,13 +2158,22 @@
         "changed_files_names": [
             "DataFormats/Provenance/interface/ProductRegistry.h",
             "DataFormats/Provenance/src/ProductRegistry.cc",
+            "DataFormats/TestObjects/BuildFile.xml",
+            "DataFormats/TestObjects/interface/MissingDictionaryCUDAObject.h",
+            "DataFormats/TestObjects/src/classes_cuda.h",
+            "DataFormats/TestObjects/src/classes_cuda_def.xml",
             "FWCore/Framework/src/Schedule.cc",
-            "FWCore/Framework/test/productregistry.cppunit.cc"
+            "FWCore/Framework/test/productregistry.cppunit.cc",
+            "FWCore/Integration/plugins/BuildFile.xml",
+            "FWCore/Integration/plugins/MissingDictionaryCUDAProducer.cc",
+            "FWCore/Integration/test/BuildFile.xml",
+            "FWCore/Integration/test/testMissingDictionaryCUDAChecking.sh",
+            "FWCore/Integration/test/testMissingDictionaryCUDAChecking_cfg.py"
         ],
         "created_at": 1733258754,
         "number": 46858,
         "state": "open",
-        "updated_at": 1733834881
+        "updated_at": 1733844091
     },
     "46859": {
         "base_branch": "master",
