@@ -2600,6 +2600,7 @@
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPhase2L3FromL1TkSequence_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPhase2L3MuonsSequence_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPhase2L3OISequence_cfi.py",
+            "L1Trigger/Configuration/python/L1Trigger_EventContent_cff.py",
             "RecoMuon/L2MuonSeedGenerator/src/Phase2L2MuonSeedCreator.cc",
             "RecoMuon/L2MuonSeedGenerator/src/Phase2L2MuonSeedCreator.h",
             "RecoMuon/L3TrackFinder/interface/Phase2HLTMuonSelectorForL3.h",
@@ -2610,7 +2611,7 @@
         "created_at": 1733747812,
         "number": 46897,
         "state": "open",
-        "updated_at": 1733841477
+        "updated_at": 1733928411
     },
     "46903": {
         "base_branch": "CMSSW_14_0_X",
