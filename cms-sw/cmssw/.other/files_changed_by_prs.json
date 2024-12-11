@@ -1059,9 +1059,9 @@
             "CondFormats/DataRecord/interface/HGCalModuleConfigurationRcd.h",
             "CondFormats/DataRecord/src/HGCalDenseIndexInfoRcd.cc",
             "CondFormats/DataRecord/src/HGCalModuleConfigurationRcd.cc",
-            "CondFormats/HGCalObjects/BuildFile.xml",
             "CondFormats/HGCalObjects/interface/HGCalCalibrationParameterHost.h",
             "CondFormats/HGCalObjects/interface/HGCalCalibrationParameterSoA.h",
+            "CondFormats/HGCalObjects/interface/HGCalConfigParameterSoA.h",
             "CondFormats/HGCalObjects/interface/HGCalConfiguration.h",
             "CondFormats/HGCalObjects/interface/HGCalMappingModuleIndexer.h",
             "CondFormats/HGCalObjects/interface/HGCalMappingParameterHost.h",
@@ -1080,7 +1080,6 @@
             "CondFormats/HGCalObjects/src/alpaka/T_EventSetup_HGCalCalibrationParameterDevice.cc",
             "CondFormats/HGCalObjects/src/classes_def.xml",
             "CondFormats/HGCalObjects/src/headers.h",
-            "CondFormats/HGCalObjects/test/BuildFile.xml",
             "CondFormats/HGCalObjects/test/testSerializationHGCalCondDataFormats.cc",
             "DataFormats/HGCalDigi/BuildFile.xml",
             "DataFormats/HGCalDigi/interface/HGCROCChannelDataFrame.h",
@@ -1143,7 +1142,7 @@
             "RecoLocalCalo/HGCalRecAlgos/plugins/alpaka/HGCalRecHitConfigurationESProducer.cc",
             "RecoLocalCalo/HGCalRecAlgos/plugins/alpaka/HGCalRecHitProducers.cc",
             "RecoLocalCalo/HGCalRecAlgos/test/BuildFile.xml",
-            "RecoLocalCalo/HGCalRecAlgos/test/alpaka/TestHGCalRecHitESProducers.cc",
+            "RecoLocalCalo/HGCalRecAlgos/test/alpaka/HGCalRecHitESProducersTest.cc",
             "RecoLocalCalo/HGCalRecAlgos/test/testHGCalRecHitESProducers_cfg.py",
             "SimCalorimetry/HGCalSimAlgos/BuildFile.xml",
             "SimCalorimetry/HGCalSimAlgos/interface/HGCalECONDEmulator.h",
@@ -1168,7 +1167,7 @@
         "created_at": 1723039925,
         "number": 45665,
         "state": "open",
-        "updated_at": 1733493273
+        "updated_at": 1733909848
     },
     "45672": {
         "base_branch": "master",
