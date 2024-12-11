@@ -2778,7 +2778,6 @@
             "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToClusterKernel.dev.cc",
             "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelRecHitKernels.dev.cc",
             "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelRecHits.h",
-            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFClusterECLCC.h",
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFClusterSoAProducerKernel.dev.cc",
             "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/PFRecHitProducerKernel.dev.cc",
             "RecoTracker/PixelSeeding/plugins/alpaka/BrokenLineFit.dev.cc",
@@ -2793,7 +2792,7 @@
         "created_at": 1733934273,
         "number": 46916,
         "state": "open",
-        "updated_at": 1733954316
+        "updated_at": 1733955041
     },
     "46918": {
         "base_branch": "master",
