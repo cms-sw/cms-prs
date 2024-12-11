@@ -574,7 +574,7 @@
         "base_branch": "master",
         "changed_files_names": [
             "DataFormats/Portable/interface/PortableHostObject.h",
-            "DataFormats/Portable/test/portableObjectOnHost.cc",
+            "DataFormats/Portable/test/test_catch2_portableObjectOnHost.cc",
             "HeterogeneousCore/AlpakaCore/README.md",
             "HeterogeneousCore/AlpakaCore/interface/CopyToDeviceCache.h",
             "HeterogeneousCore/AlpakaCore/interface/MoveToDeviceCache.h",
@@ -593,7 +593,7 @@
         "created_at": 1707945467,
         "number": 43969,
         "state": "open",
-        "updated_at": 1732278241
+        "updated_at": 1733929389
     },
     "44029": {
         "base_branch": "master",
