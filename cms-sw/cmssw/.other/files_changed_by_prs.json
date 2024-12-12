@@ -1344,6 +1344,7 @@
             "EventFilter/Phase2PixelRawToDigi/plugins/BuildFile.xml",
             "EventFilter/Phase2PixelRawToDigi/plugins/Phase2ITQCoreProducer.cc",
             "EventFilter/Phase2PixelRawToDigi/test/Phase2ITDigiToRaw_cfg.py",
+            "EventFilter/Phase2PixelRawToDigi/test/plugins/Phase2PixelQCoreNtuple.cc",
             "EventFilter/Phase2TrackerRawToDigi/test/BuildFile.xml",
             "FWCore/Concurrency/scripts/edmStreamStallGrapher.py",
             "FWCore/Framework/interface/EventSetupProvider.h",
@@ -1666,7 +1667,7 @@
         "created_at": 1724220534,
         "number": 45759,
         "state": "open",
-        "updated_at": 1733977025
+        "updated_at": 1733977338
     },
     "45853": {
         "base_branch": "master",
