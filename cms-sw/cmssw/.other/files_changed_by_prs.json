@@ -2511,5 +2511,20 @@
         "number": 46929,
         "state": "open",
         "updated_at": 1734038204
+    },
+    "46930": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Utilities/ReleaseScripts/test/BuildFile.xml",
+            "Utilities/ReleaseScripts/test/ref/test-clang-tidy.cc",
+            "Utilities/ReleaseScripts/test/test-clang-tidy.cc",
+            "Utilities/ReleaseScripts/test/test-clang-tidy.cc.yaml",
+            "Utilities/ReleaseScripts/test/test-clang-tidy.sh",
+            "Utilities/ReleaseScripts/test/test-scram-code-checks.sh"
+        ],
+        "created_at": 1734072496,
+        "number": 46930,
+        "state": "open",
+        "updated_at": 1734072523
     }
 }
