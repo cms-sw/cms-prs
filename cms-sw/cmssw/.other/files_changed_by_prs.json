@@ -2686,35 +2686,6 @@
         "state": "open",
         "updated_at": 1734113692
     },
-    "46942": {
-        "base_branch": "CMSSW_14_0_X",
-        "changed_files_names": [
-            "Alignment/CommonAlignmentProducer/plugins/AlignmentGoodIdMuonSelector.cc",
-            "Alignment/CommonAlignmentProducer/plugins/AlignmentRelCombIsoMuonSelector.cc",
-            "Alignment/CommonAlignmentProducer/plugins/BuildFile.xml",
-            "Alignment/CommonAlignmentProducer/python/ALCARECOTkAlDiMuonAndVertex_Output_cff.py",
-            "Alignment/CommonAlignmentProducer/python/ALCARECOTkAlDiMuonAndVertex_cff.py",
-            "Alignment/CommonAlignmentProducer/python/ALCARECOTkAlJpsiMuMu_Output_cff.py",
-            "Alignment/CommonAlignmentProducer/python/ALCARECOTkAlJpsiMuMu_cff.py",
-            "Alignment/CommonAlignmentProducer/python/ALCARECOTkAlMuonIsolated_cff.py",
-            "Alignment/CommonAlignmentProducer/python/ALCARECOTkAlUpsilonMuMu_Output_cff.py",
-            "Alignment/CommonAlignmentProducer/python/ALCARECOTkAlUpsilonMuMu_cff.py",
-            "Alignment/CommonAlignmentProducer/python/ALCARECOTkAlZMuMuPA_cff.py",
-            "Alignment/CommonAlignmentProducer/python/ALCARECOTkAlZMuMu_Output_cff.py",
-            "Alignment/CommonAlignmentProducer/python/ALCARECOTkAlZMuMu_cff.py",
-            "Alignment/CommonAlignmentProducer/python/TkAlMuonSelectors_cfi.py",
-            "Calibration/TkAlCaRecoProducers/python/ALCARECOSiPixelCalSingleMuonTight_cff.py",
-            "DQM/SiStripMonitorClient/python/SiStripSourceConfigTier0_cff.py",
-            "DQMOffline/Trigger/python/BPHMonitor_cfi.py",
-            "DQMOffline/Trigger/python/JetMonitor_cfi.py",
-            "DQMOffline/Trigger/python/METMonitor_cfi.py",
-            "DQMOffline/Trigger/python/MuonMonitor_cfi.py"
-        ],
-        "created_at": 1734169083,
-        "number": 46942,
-        "state": "open",
-        "updated_at": 1734169112
-    },
     "46944": {
         "base_branch": "master",
         "changed_files_names": [
