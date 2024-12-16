@@ -2361,13 +2361,15 @@
         "changed_files_names": [
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltHpsPFTau30LooseTauWPDeepTau_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltPuppiTauTkIsoEle4522L1TkFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPuppiTauTkIsoEle45_22L1TkFilter_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/paths/HLT_Ele30_WPTight_L1Seeded_LooseDeepTauPFTauHPS30_eta2p1_CrossL1_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33_cff.py"
+            "HLTrigger/Configuration/python/HLT_75e33_cff.py",
+            "HLTrigger/Configuration/python/HLT_75e33_timing_cff.py"
         ],
         "created_at": 1734000533,
         "number": 46924,
         "state": "open",
-        "updated_at": 1734076057
+        "updated_at": 1734346450
     },
     "46928": {
         "base_branch": "master",
