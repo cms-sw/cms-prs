@@ -1047,9 +1047,9 @@
             "CondFormats/DataRecord/interface/HGCalModuleConfigurationRcd.h",
             "CondFormats/DataRecord/src/HGCalDenseIndexInfoRcd.cc",
             "CondFormats/DataRecord/src/HGCalModuleConfigurationRcd.cc",
+            "CondFormats/HGCalObjects/interface/HGCalCalibParamSoA.h",
             "CondFormats/HGCalObjects/interface/HGCalCalibrationParameterHost.h",
-            "CondFormats/HGCalObjects/interface/HGCalCalibrationParameterSoA.h",
-            "CondFormats/HGCalObjects/interface/HGCalConfigParameterSoA.h",
+            "CondFormats/HGCalObjects/interface/HGCalConfigParamSoA.h",
             "CondFormats/HGCalObjects/interface/HGCalConfiguration.h",
             "CondFormats/HGCalObjects/interface/HGCalMappingModuleIndexer.h",
             "CondFormats/HGCalObjects/interface/HGCalMappingParameterHost.h",
@@ -1154,7 +1154,7 @@
         "created_at": 1723039925,
         "number": 45665,
         "state": "open",
-        "updated_at": 1734030265
+        "updated_at": 1734367962
     },
     "45672": {
         "base_branch": "master",
