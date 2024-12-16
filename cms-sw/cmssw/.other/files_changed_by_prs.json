@@ -1949,43 +1949,6 @@
         "state": "open",
         "updated_at": 1733222951
     },
-    "46786": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DataFormats/HGCalReco/interface/HGCalSoAClusters.h",
-            "DataFormats/HGCalReco/interface/HGCalSoAClustersFilteredMask.h",
-            "DataFormats/HGCalReco/interface/HGCalSoAClustersFilteredMaskHostCollection.h",
-            "DataFormats/HGCalReco/interface/TracksterSoA.h",
-            "DataFormats/HGCalReco/interface/TracksterSoAHostCollection.h",
-            "DataFormats/HGCalReco/interface/alpaka/HGCalSoAClustersDeviceCollection.h",
-            "DataFormats/HGCalReco/interface/alpaka/HGCalSoAClustersFilteredMaskDeviceCollection.h",
-            "DataFormats/HGCalReco/interface/alpaka/TracksterSoADeviceCollection.h",
-            "DataFormats/HGCalReco/src/alpaka/classes_cuda.h",
-            "DataFormats/HGCalReco/src/alpaka/classes_cuda_def.xml",
-            "DataFormats/HGCalReco/src/alpaka/classes_rocm.h",
-            "DataFormats/HGCalReco/src/alpaka/classes_rocm_def.xml",
-            "DataFormats/HGCalReco/src/classes.cc",
-            "DataFormats/HGCalReco/src/classes.h",
-            "DataFormats/HGCalReco/src/classes_def.xml",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltFilteredLayerClustersSoAProducer_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltTrackstersSoAProducer_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/hgcalLocalRecoSequence_cfi.py",
-            "RecoHGCal/TICL/interface/PatternRecognitionAlgoBaseSoA.h",
-            "RecoHGCal/TICL/plugins/BuildFile.xml",
-            "RecoHGCal/TICL/plugins/alpaka/ClusterFilterSoAByAlgoAndSize.dev.cc",
-            "RecoHGCal/TICL/plugins/alpaka/ClusterFilterSoAByAlgoAndSize.h",
-            "RecoHGCal/TICL/plugins/alpaka/FilteredLayerClustersSoAProducer.cc",
-            "RecoHGCal/TICL/plugins/alpaka/PatternRecognitionByCLUE3DSoA.dev.cc",
-            "RecoHGCal/TICL/plugins/alpaka/PatternRecognitionByCLUE3DSoA.h",
-            "RecoHGCal/TICL/plugins/alpaka/TrackstersSoAProducer.cc",
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalLayerClustersFromSoAProducer.cc",
-            "RecoLocalCalo/HGCalRecProducers/plugins/alpaka/HGCalLayerClustersSoAAlgoWrapper.dev.cc"
-        ],
-        "created_at": 1732365016,
-        "number": 46786,
-        "state": "open",
-        "updated_at": 1734260384
-    },
     "46809": {
         "base_branch": "master",
         "changed_files_names": [
