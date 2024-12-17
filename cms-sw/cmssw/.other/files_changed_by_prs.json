@@ -2577,5 +2577,26 @@
         "number": 46969,
         "state": "open",
         "updated_at": 1734426478
+    },
+    "46970": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "SimG4CMS/Calo/src/CaloSD.cc",
+            "SimG4CMS/Forward/interface/MtdSD.h",
+            "SimG4CMS/Forward/interface/TimingSD.h",
+            "SimG4CMS/Forward/src/MtdSD.cc",
+            "SimG4CMS/Forward/src/TimingSD.cc",
+            "SimG4CMS/Muon/src/MuonSensitiveDetector.cc",
+            "SimG4CMS/Tracker/src/TkAccumulatingSensitiveDetector.cc",
+            "SimG4Core/CustomPhysics/plugins/DBremWatcher.cc",
+            "SimG4Core/Notification/interface/TrackInformation.h",
+            "SimG4Core/Notification/src/MCTruthUtil.cc",
+            "SimG4Core/Notification/src/TrackInformation.cc",
+            "SimG4Core/SaveSimTrackAction/src/SaveSimTrack.cc"
+        ],
+        "created_at": 1734426652,
+        "number": 46970,
+        "state": "open",
+        "updated_at": 1734426675
     }
 }
