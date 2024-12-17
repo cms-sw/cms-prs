@@ -2659,5 +2659,19 @@
         "number": 46977,
         "state": "open",
         "updated_at": 1734446510
+    },
+    "46978": {
+        "base_branch": "CMSSW_14_0_X",
+        "changed_files_names": [
+            "DQM/SiStripMonitorClient/python/SiStripSourceConfigTier0_cff.py",
+            "DQMOffline/Trigger/python/BPHMonitor_cfi.py",
+            "DQMOffline/Trigger/python/JetMonitor_cfi.py",
+            "DQMOffline/Trigger/python/METMonitor_cfi.py",
+            "DQMOffline/Trigger/python/MuonMonitor_cfi.py"
+        ],
+        "created_at": 1734449843,
+        "number": 46978,
+        "state": "open",
+        "updated_at": 1734449870
     }
 }
