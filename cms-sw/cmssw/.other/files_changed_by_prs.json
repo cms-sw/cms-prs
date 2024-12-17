@@ -2605,12 +2605,14 @@
     "46971": {
         "base_branch": "master",
         "changed_files_names": [
-            "DPGAnalysis/HcalTools/plugins/CMTRawAnalyzer.cc"
+            "DPGAnalysis/HcalTools/plugins/CMTRawAnalyzer.cc",
+            "DQM/SiStripCommissioningAnalysis/src/CalibrationScanAlgorithm.cc",
+            "DQMOffline/CalibCalo/plugins/DQMHcalPhiSymAlCaReco.cc"
         ],
         "created_at": 1734426772,
         "number": 46971,
         "state": "open",
-        "updated_at": 1734426794
+        "updated_at": 1734428556
     },
     "46972": {
         "base_branch": "CMSSW_14_2_X",
