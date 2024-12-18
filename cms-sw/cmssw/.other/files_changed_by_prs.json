@@ -570,32 +570,6 @@
         "state": "open",
         "updated_at": 1732278248
     },
-    "43969": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DataFormats/Portable/interface/PortableHostObject.h",
-            "DataFormats/Portable/test/test_catch2_portableObjectOnHost.cc",
-            "HeterogeneousCore/AlpakaCore/README.md",
-            "HeterogeneousCore/AlpakaCore/interface/CopyToDeviceCache.h",
-            "HeterogeneousCore/AlpakaCore/interface/MoveToDeviceCache.h",
-            "HeterogeneousCore/AlpakaInterface/README.md",
-            "HeterogeneousCore/AlpakaInterface/interface/CopyToDevice.h",
-            "HeterogeneousCore/AlpakaInterface/interface/moveToDeviceAsync.h",
-            "HeterogeneousCore/AlpakaInterface/test/BuildFile.xml",
-            "HeterogeneousCore/AlpakaInterface/test/alpaka/testCopyBufferToDevice.dev.cc",
-            "HeterogeneousCore/AlpakaInterface/test/alpaka/testMoveToDeviceAsync.dev.cc",
-            "HeterogeneousCore/AlpakaTest/plugins/BuildFile.xml",
-            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlgo.dev.cc",
-            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlgo.h",
-            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaGlobalProducerCopyToDeviceCache.cc",
-            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaGlobalProducerMoveToDeviceCache.cc",
-            "HeterogeneousCore/AlpakaTest/test/testAlpakaModules_cfg.py"
-        ],
-        "created_at": 1707945467,
-        "number": 43969,
-        "state": "open",
-        "updated_at": 1734161263
-    },
     "44029": {
         "base_branch": "master",
         "changed_files_names": [
