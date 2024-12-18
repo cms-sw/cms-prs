@@ -2730,5 +2730,32 @@
         "number": 46984,
         "state": "open",
         "updated_at": 1734503830
+    },
+    "46985": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Mixing/Base/src/BMixingModule.cc",
+            "Mixing/Base/src/PileUp.cc",
+            "SimG4CMS/Calo/plugins/HGCalTestGuardRing.cc",
+            "SimG4CMS/Calo/plugins/HGCalTestPartialWaferHits.cc",
+            "SimG4CMS/Calo/plugins/HGCalTestScintHits.cc",
+            "SimG4CMS/Calo/src/CaloMeanResponse.cc",
+            "SimG4CMS/Calo/src/HGCScintSD.cc",
+            "SimG4CMS/Calo/src/HGCalNumberingScheme.cc",
+            "SimG4Core/CustomPhysics/src/CMSAntiSQ.cc",
+            "SimG4Core/CustomPhysics/src/CMSSQ.cc",
+            "SimG4Core/CustomPhysics/src/CMSSQNeutronAnnih.cc",
+            "SimG4Core/CustomPhysics/src/CustomParticleFactory.cc",
+            "SimG4Core/CustomPhysics/src/G4ProcessHelper.cc",
+            "SimG4Core/Generators/src/Generator3.cc",
+            "SimMuon/Neutron/plugins/NeutronHitsCollector.cc",
+            "TauAnalysis/MCEmbeddingTools/plugins/CaloCleaner.cc",
+            "TauAnalysis/MCEmbeddingTools/plugins/MuonDetCleaner.cc",
+            "TauAnalysis/MCEmbeddingTools/plugins/TrackerCleaner.cc"
+        ],
+        "created_at": 1734503826,
+        "number": 46985,
+        "state": "open",
+        "updated_at": 1734503847
     }
 }
