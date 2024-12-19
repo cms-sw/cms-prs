@@ -2601,34 +2601,6 @@
         "state": "open",
         "updated_at": 1734515715
     },
-    "46997": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DataFormats/L1GlobalTrigger/src/L1GtLogicParser.cc",
-            "DataFormats/L1TGlobal/src/GlobalLogicParser.cc",
-            "EventFilter/CSCTFRawToDigi/plugins/CSCTFPacker.cc",
-            "EventFilter/CSCTFRawToDigi/plugins/CSCTFUnpacker.cc",
-            "L1Trigger/GlobalCaloTrigger/plugins/L1GctEmulator.cc",
-            "L1Trigger/GlobalCaloTrigger/plugins/L1GctPrintLuts.cc",
-            "L1Trigger/L1TCaloLayer1/plugins/L1TCaloSummary.cc",
-            "L1Trigger/L1TGlobal/plugins/L1TGlobalPrescalesVetosESProducer.cc",
-            "L1Trigger/L1TGlobal/plugins/L1TGlobalPrescalesVetosFractESProducer.cc",
-            "L1Trigger/L1TGlobal/plugins/TriggerMenuParser.cc",
-            "L1Trigger/L1TMuonBarrel/src/L1MuBMTEtaPatternLut.cc",
-            "L1Trigger/L1TMuonBarrel/src/L1MuBMTQualPatternLut.cc",
-            "L1Trigger/L1TMuonBarrel/src/L1TMuonBarrelParamsHelper.cc",
-            "L1Trigger/L1TMuonOverlapPhase1/src/Omtf/OMTFReconstruction.cc",
-            "L1Trigger/L1TMuonOverlapPhase1/src/Tools/EmulationObserverBase.cc",
-            "L1TriggerConfig/CSCTFConfigProducers/src/CSCTFConfigProducer.cc",
-            "L1TriggerConfig/L1GtConfigProducers/src/L1GtVhdlTemplateFile.cc",
-            "L1TriggerConfig/L1TConfigProducers/src/OnlineDBqueryHelper.cc",
-            "L1TriggerConfig/RPCTriggerConfig/src/RPCTriggerConfig.cc"
-        ],
-        "created_at": 1734504036,
-        "number": 46997,
-        "state": "open",
-        "updated_at": 1734538677
-    },
     "46998": {
         "base_branch": "master",
         "changed_files_names": [
