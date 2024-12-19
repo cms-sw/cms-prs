@@ -2627,33 +2627,6 @@
         "state": "open",
         "updated_at": 1734516454
     },
-    "47003": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "CommonTools/Utils/src/ExpressionFunctionSetter.cc",
-            "CommonTools/Utils/src/TFileDirectory.cc",
-            "DataFormats/Math/interface/private/AVXVec.h",
-            "RecoEgamma/EgammaIsolationAlgos/plugins/SuperclusValueMapProducer.cc",
-            "RecoEgamma/PhotonIdentification/plugins/PhotonXGBoostProducer.cc",
-            "RecoJets/JetAlgorithms/src/CMSBoostedTauSeedingAlgorithm.cc",
-            "RecoJets/JetProducers/plugins/ECFAdder.cc",
-            "RecoLocalMuon/RPCRecHit/plugins/DTSegtoRPC.cc",
-            "RecoLuminosity/LumiProducer/plugins/Lumi2DB.cc",
-            "RecoLuminosity/LumiProducer/plugins/LumiCorrectionSource.cc",
-            "RecoLuminosity/LumiProducer/plugins/LumiProducer.cc",
-            "RecoMET/METFilters/plugins/MultiEventFilter.cc",
-            "RecoMuon/TrackerSeedGenerator/plugins/MuonHLTSeedMVAClassifierPhase2.cc",
-            "RecoMuon/TrackingTools/src/MuonErrorMatrix.cc",
-            "RecoTracker/CkfPattern/plugins/GroupedCkfTrajectoryBuilder.cc",
-            "RecoTracker/CkfPattern/src/CkfTrajectoryBuilder.cc",
-            "RecoTracker/NuclearSeedGenerator/src/SeedFromNuclearInteraction.cc",
-            "TrackingTools/TrajectoryParametrization/src/LocalTrajectoryError.cc"
-        ],
-        "created_at": 1734504120,
-        "number": 47003,
-        "state": "open",
-        "updated_at": 1734515219
-    },
     "47004": {
         "base_branch": "master",
         "changed_files_names": [
