@@ -2653,5 +2653,20 @@
         "number": 47019,
         "state": "open",
         "updated_at": 1734711466
+    },
+    "47020": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "L1Trigger/VertexFinder/interface/AlgoSettings.h",
+            "L1Trigger/VertexFinder/interface/VertexFinder.h",
+            "L1Trigger/VertexFinder/plugins/VertexProducer.cc",
+            "L1Trigger/VertexFinder/python/l1tVertexProducer_cfi.py",
+            "L1Trigger/VertexFinder/src/AlgoSettings.cc",
+            "L1Trigger/VertexFinder/src/VertexFinder.cc"
+        ],
+        "created_at": 1734714946,
+        "number": 47020,
+        "state": "open",
+        "updated_at": 1734714970
     }
 }
