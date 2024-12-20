@@ -2507,25 +2507,6 @@
         "state": "open",
         "updated_at": 1734513485
     },
-    "46999": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DataFormats/Provenance/src/ProductProvenance.cc",
-            "FWCore/Framework/bin/cmsRun.cpp",
-            "FWCore/Framework/src/EventPrincipal.cc",
-            "FWCore/MessageService/src/ELoutput.cc",
-            "FWCore/Modules/src/BranchIDListsModifierProducer.cc",
-            "FWCore/Modules/src/EmptySourceFromEventIDs.cc",
-            "FWCore/Services/plugins/SimpleMemoryCheck.cc",
-            "IOPool/Streamer/src/StreamerInputSource.cc",
-            "PerfTools/AllocMonitorPreload/src/memory_proxies.cc",
-            "Utilities/XrdAdaptor/src/XrdRequestManager.cc"
-        ],
-        "created_at": 1734504046,
-        "number": 46999,
-        "state": "open",
-        "updated_at": 1734590773
-    },
     "47000": {
         "base_branch": "master",
         "changed_files_names": [
