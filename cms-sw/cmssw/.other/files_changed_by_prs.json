@@ -2269,34 +2269,6 @@
         "state": "open",
         "updated_at": 1734504572
     },
-    "46967": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "Configuration/PyReleaseValidation/README.md",
-            "Configuration/PyReleaseValidation/python/relval_Run4.py",
-            "Configuration/PyReleaseValidation/python/relval_gpu.py",
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
-            "DQM/TrackingMonitorSource/python/TrackingSourceConfig_Tier0_cff.py",
-            "RecoTracker/LST/plugins/LSTOutputConverter.cc",
-            "RecoTracker/LSTCore/BuildFile.xml",
-            "RecoTracker/LSTCore/interface/Common.h",
-            "RecoTracker/LSTCore/interface/QuintupletsSoA.h",
-            "RecoTracker/LSTCore/interface/alpaka/Common.h",
-            "RecoTracker/LSTCore/src/ModuleMethods.h",
-            "RecoTracker/LSTCore/src/alpaka/Hit.h",
-            "RecoTracker/LSTCore/src/alpaka/LSTEvent.dev.cc",
-            "RecoTracker/LSTCore/src/alpaka/PixelQuintuplet.h",
-            "RecoTracker/LSTCore/src/alpaka/Quintuplet.h",
-            "RecoTracker/LSTCore/src/alpaka/TrackCandidate.h",
-            "RecoTracker/LSTCore/standalone/LST/Makefile",
-            "RecoTracker/LSTCore/standalone/Makefile",
-            "RecoTracker/LSTCore/standalone/setup.sh"
-        ],
-        "created_at": 1734383226,
-        "number": 46967,
-        "state": "open",
-        "updated_at": 1734456021
-    },
     "46969": {
         "base_branch": "master",
         "changed_files_names": [
