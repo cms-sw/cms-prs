@@ -2130,6 +2130,23 @@
     "46924": {
         "base_branch": "master",
         "changed_files_names": [
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEle30WPTightBestGsfChi2L1SeededFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEle30WPTightBestGsfNLayerITL1SeededFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEle30WPTightClusterShapeL1SeededFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEle30WPTightClusterShapeSigmavvL1SeededFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEle30WPTightClusterShapeSigmawwL1SeededFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEle30WPTightEcalIsoL1SeededFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEle30WPTightGsfDetaL1SeededFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEle30WPTightGsfDphiL1SeededFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEle30WPTightGsfOneOEMinusOneOPL1SeededFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEle30WPTightGsfTrackIsoFromL1TracksL1SeededFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEle30WPTightGsfTrackIsoL1SeededFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEle30WPTightHEL1SeededFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEle30WPTightHcalIsoL1SeededFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEle30WPTightHgcalHEL1SeededFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEle30WPTightHgcalIsoL1SeededFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEle30WPTightPMS2L1SeededFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEle30WPTightPixelMatchL1SeededFilter_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltHpsPFTau30LooseTauWPDeepTau_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltPuppiTauTkIsoEle45_22L1TkFilter_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/paths/HLT_Ele30_WPTight_L1Seeded_LooseDeepTauPFTauHPS30_eta2p1_CrossL1_cfi.py",
@@ -2139,7 +2156,7 @@
         "created_at": 1734000533,
         "number": 46924,
         "state": "open",
-        "updated_at": 1734432518
+        "updated_at": 1734859699
     },
     "46928": {
         "base_branch": "master",
