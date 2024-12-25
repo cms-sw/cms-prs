@@ -2642,5 +2642,18 @@
         "number": 47022,
         "state": "open",
         "updated_at": 1734760853
+    },
+    "47026": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/CMSCommonData/data/cmsextent/2018/v0/cmsextent.xml",
+            "Geometry/MuonCommonData/data/gem21/2025/v2/gem21.xml",
+            "Geometry/MuonCommonData/python/testGE21XML_cfi.py",
+            "Geometry/MuonCommonData/test/python/dumpGE0_cfg.py"
+        ],
+        "created_at": 1735111481,
+        "number": 47026,
+        "state": "open",
+        "updated_at": 1735111507
     }
 }
