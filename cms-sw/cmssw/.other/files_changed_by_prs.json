@@ -2642,5 +2642,41 @@
         "number": 47022,
         "state": "open",
         "updated_at": 1734760853
+    },
+    "47028": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HeterogeneousCore/AlpakaCore/README.md",
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/EDMetadataAcquireSentry.h",
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/EDMetadataSentry.h",
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/ESProducer.h",
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/ProducerBase.h",
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/global/EDProducer.h",
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/stream/EDProducer.h",
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/stream/SynchronizingEDProducer.h",
+            "HeterogeneousCore/AlpakaCore/interface/modulePrevalidate.h",
+            "HeterogeneousCore/AlpakaCore/interface/module_backend_config.h",
+            "HeterogeneousCore/AlpakaCore/python/ProcessAcceleratorAlpaka.py",
+            "HeterogeneousCore/AlpakaCore/src/alpaka/EDMetadataAcquireSentry.cc",
+            "HeterogeneousCore/AlpakaCore/src/alpaka/EDMetadataSentry.cc",
+            "HeterogeneousCore/AlpakaCore/src/modulePrevalidate.cc",
+            "HeterogeneousCore/AlpakaCore/src/module_backend_config.cc",
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaGlobalProducer.cc",
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaGlobalProducerE.cc",
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaGlobalProducerNoOutput.cc",
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaGlobalProducerNullES.cc",
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaGlobalProducerOffset.cc",
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaGlobalProducerWithPtr.cc",
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaProducer.cc",
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamProducer.cc",
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamSynchronizingProducer.cc",
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamSynchronizingProducerToDevice.cc",
+            "HeterogeneousCore/AlpakaTest/test/testAlpakaModules.sh",
+            "HeterogeneousCore/AlpakaTest/test/testAlpakaModules_cfg.py"
+        ],
+        "created_at": 1735327992,
+        "number": 47028,
+        "state": "open",
+        "updated_at": 1735328020
     }
 }
