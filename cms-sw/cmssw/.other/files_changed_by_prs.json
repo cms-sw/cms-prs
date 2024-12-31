@@ -2663,7 +2663,9 @@
         "changed_files_names": [
             "DataFormats/L1TGlobal/interface/GlobalObjectMap.h",
             "DataFormats/L1TGlobal/interface/GlobalObjectMapFwd.h",
+            "DataFormats/L1TGlobal/interface/GlobalObjectMapRecord.h",
             "DataFormats/L1TGlobal/src/GlobalObjectMap.cc",
+            "DataFormats/L1TGlobal/src/GlobalObjectMapRecord.cc",
             "DataFormats/L1TGlobal/src/classes_def.xml",
             "DataFormats/L1TGlobal/test/TestGlobalObjectMapRecordFormat.sh",
             "DataFormats/L1TGlobal/test/TestReadGlobalObjectMapRecord.cc",
@@ -2675,6 +2677,7 @@
             "L1Trigger/L1TGlobal/interface/AlgorithmEvaluation.h",
             "L1Trigger/L1TGlobal/interface/ConditionEvaluation.h",
             "L1Trigger/L1TGlobal/interface/GlobalBoard.h",
+            "L1Trigger/L1TGlobal/plugins/GtRecordDump.cc",
             "L1Trigger/L1TGlobal/plugins/L1TGlobalProducer.cc",
             "L1Trigger/L1TGlobal/plugins/L1TGlobalProducer.h",
             "L1Trigger/L1TGlobal/src/AlgorithmEvaluation.cc",
@@ -2693,7 +2696,7 @@
         "created_at": 1735400459,
         "number": 47030,
         "state": "open",
-        "updated_at": 1735400486
+        "updated_at": 1735631377
     },
     "47031": {
         "base_branch": "master",
