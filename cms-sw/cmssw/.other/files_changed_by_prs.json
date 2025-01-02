@@ -2771,5 +2771,31 @@
         "number": 47035,
         "state": "open",
         "updated_at": 1735836912
+    },
+    "47036": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Framework/interface/TransformerBase.h",
+            "FWCore/Framework/interface/global/implementors.h",
+            "FWCore/Framework/interface/limited/implementors.h",
+            "FWCore/Framework/interface/one/implementors.h",
+            "FWCore/Framework/interface/stream/implementors.h",
+            "FWCore/Framework/src/TransformerBase.cc",
+            "FWCore/Framework/test/global_filter_t.cppunit.cc",
+            "FWCore/Framework/test/global_producer_t.cppunit.cc",
+            "FWCore/Framework/test/limited_filter_t.cppunit.cc",
+            "FWCore/Framework/test/limited_producer_t.cppunit.cc",
+            "FWCore/Framework/test/stream_producer_t.cppunit.cc",
+            "FWCore/Framework/test/stubs/ToyIntProducers.cc",
+            "FWCore/Integration/plugins/TransformAsyncIntProducer.cc",
+            "FWCore/Integration/plugins/TransformAsyncIntStreamProducer.cc",
+            "FWCore/Integration/plugins/TransformIntProducer.cc",
+            "FWCore/Integration/plugins/TransformIntStreamProducer.cc",
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/ProducerBase.h"
+        ],
+        "created_at": 1735857435,
+        "number": 47036,
+        "state": "open",
+        "updated_at": 1735857460
     }
 }
