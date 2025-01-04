@@ -2645,5 +2645,27 @@
         "number": 47040,
         "state": "open",
         "updated_at": 1735938258
+    },
+    "47041": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/Geometry/python/dict2021Geometry.py",
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2025.xml",
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2025FlatMinus05Percent.xml",
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2025FlatMinus10Percent.xml",
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2025FlatPlus05Percent.xml",
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2025FlatPlus10Percent.xml",
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2025ZeroMaterial.xml",
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2025FlatMinus05PercentXML_cfi.py",
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2025FlatMinus10PercentXML_cfi.py",
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2025FlatPlus05PercentXML_cfi.py",
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2025FlatPlus10PercentXML_cfi.py",
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2025XML_cfi.py",
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2025ZeroMaterialXML_cfi.py"
+        ],
+        "created_at": 1735961049,
+        "number": 47041,
+        "state": "open",
+        "updated_at": 1735961094
     }
 }
