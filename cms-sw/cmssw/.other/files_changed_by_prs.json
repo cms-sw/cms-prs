@@ -2700,19 +2700,22 @@
             "RecoJets/JetProducers/plugins/FixedGridRhoProducerFastjet.h",
             "RecoJets/JetProducers/python/fixedGridRhoProducerFastjet_cfi.py",
             "RecoMuon/L2MuonProducer/plugins/L2MuonCandidateProducer.cc",
+            "RecoMuon/L3MuonProducer/src/L3MuonCandidateProducer.cc",
+            "RecoMuon/L3MuonProducer/src/L3MuonCandidateProducer.h",
             "RecoMuon/MuonIdentification/plugins/MuonLinksProducer.cc",
             "RecoMuon/MuonIdentification/plugins/MuonLinksProducer.h",
             "RecoMuon/MuonIdentification/plugins/MuonLinksProducerForHLT.cc",
             "RecoMuon/MuonIdentification/plugins/MuonLinksProducerForHLT.h",
             "RecoMuon/MuonIdentification/python/links_cfi.py",
             "RecoMuon/TrackerSeedGenerator/plugins/CollectionCombiner.h",
+            "RecoTracker/FinalTrackSelectors/plugins/AnalyticalTrackSelector.cc",
             "RecoVertex/AdaptiveVertexFinder/plugins/VertexMerger.cc",
             "RecoVertex/AdaptiveVertexFinder/python/vertexMerger_cfi.py"
         ],
         "created_at": 1736150158,
         "number": 47045,
         "state": "open",
-        "updated_at": 1736150188
+        "updated_at": 1736162071
     },
     "47046": {
         "base_branch": "master",
