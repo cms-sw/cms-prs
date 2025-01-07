@@ -2601,5 +2601,35 @@
         "number": 47052,
         "state": "open",
         "updated_at": 1736280708
+    },
+    "47053": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/TFWLiteSelector/BuildFile.xml",
+            "FWCore/TFWLiteSelector/doc/proofNotes.txt",
+            "FWCore/TFWLiteSelector/interface/TFWLiteSelector.h",
+            "FWCore/TFWLiteSelector/interface/TFWLiteSelectorBasic.h",
+            "FWCore/TFWLiteSelector/src/TFWLiteSelectorBasic.cc",
+            "FWCore/TFWLiteSelector/src/classes.h",
+            "FWCore/TFWLiteSelector/src/classes_def.xml",
+            "FWCore/TFWLiteSelector/test/BuildFile.xml",
+            "FWCore/TFWLiteSelector/test/TestRunnerFWCoreTFWLiteSelector.cpp",
+            "FWCore/TFWLiteSelector/test/gen_things_cfg.py",
+            "FWCore/TFWLiteSelector/test/proof_remote.C",
+            "FWCore/TFWLiteSelector/test/run_all_t.sh",
+            "FWCore/TFWLiteSelector/test/thing2_sel.C",
+            "FWCore/TFWLiteSelector/test/thing_sel.C",
+            "FWCore/TFWLiteSelectorTest/BuildFile.xml",
+            "FWCore/TFWLiteSelectorTest/src/ThingsTSelector.cc",
+            "FWCore/TFWLiteSelectorTest/src/ThingsTSelector.h",
+            "FWCore/TFWLiteSelectorTest/src/ThingsTSelector2.cc",
+            "FWCore/TFWLiteSelectorTest/src/ThingsTSelector2.h",
+            "FWCore/TFWLiteSelectorTest/src/classes.h",
+            "FWCore/TFWLiteSelectorTest/src/classes_def.xml"
+        ],
+        "created_at": 1736282422,
+        "number": 47053,
+        "state": "open",
+        "updated_at": 1736282448
     }
 }
