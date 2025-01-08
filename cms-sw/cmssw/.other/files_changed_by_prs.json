@@ -2890,5 +2890,20 @@
         "number": 47059,
         "state": "open",
         "updated_at": 1736349837
+    },
+    "47060": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Integration/test/ref_merge_cfg.py",
+            "FWCore/Integration/test/ref_merge_prod1_cfg.py",
+            "FWCore/Integration/test/ref_merge_prod2_cfg.py",
+            "FWCore/Integration/test/ref_merge_prod_cfg.py",
+            "FWCore/Integration/test/ref_merge_test_cfg.py",
+            "FWCore/Integration/test/run_RefMerge.sh"
+        ],
+        "created_at": 1736356637,
+        "number": 47060,
+        "state": "open",
+        "updated_at": 1736356662
     }
 }
