@@ -2441,12 +2441,15 @@
     "47033": {
         "base_branch": "master",
         "changed_files_names": [
-            "DataFormats/Math/interface/alpaka/deltaPhi.h"
+            "HeterogeneousCore/AlpakaMath/BuildFile.xml",
+            "HeterogeneousCore/AlpakaMath/interface/deltaPhi.h",
+            "HeterogeneousCore/AlpakaMath/test/BuildFile.xml",
+            "HeterogeneousCore/AlpakaMath/test/alpaka/testDeltaPhi.dev.cc"
         ],
         "created_at": 1735816236,
         "number": 47033,
         "state": "open",
-        "updated_at": 1735816266
+        "updated_at": 1736363323
     },
     "47039": {
         "base_branch": "master",
