@@ -2934,5 +2934,42 @@
         "number": 47067,
         "state": "open",
         "updated_at": 1736431769
+    },
+    "47068": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "EventFilter/Utilities/doc/README-DTH.md",
+            "EventFilter/Utilities/interface/DAQSource.h",
+            "EventFilter/Utilities/interface/DAQSourceModels.h",
+            "EventFilter/Utilities/interface/DAQSourceModelsDTH.h",
+            "EventFilter/Utilities/interface/DAQSourceModelsFRD.h",
+            "EventFilter/Utilities/interface/DAQSourceModelsScoutingRun3.h",
+            "EventFilter/Utilities/interface/DTHHeaders.h",
+            "EventFilter/Utilities/interface/EvFDaqDirector.h",
+            "EventFilter/Utilities/interface/FastMonitoringService.h",
+            "EventFilter/Utilities/interface/FedRawDataInputSource.h",
+            "EventFilter/Utilities/plugins/DTHFakeReader.cc",
+            "EventFilter/Utilities/plugins/DTHFakeReader.h",
+            "EventFilter/Utilities/plugins/GlobalEvFOutputModule.cc",
+            "EventFilter/Utilities/plugins/RawEventFileWriterForBU.cc",
+            "EventFilter/Utilities/plugins/RawEventFileWriterForBU.h",
+            "EventFilter/Utilities/plugins/RawEventOutputModuleForBU.h",
+            "EventFilter/Utilities/plugins/modules.cc",
+            "EventFilter/Utilities/src/DAQSource.cc",
+            "EventFilter/Utilities/src/DAQSourceModelsDTH.cc",
+            "EventFilter/Utilities/src/DAQSourceModelsFRD.cc",
+            "EventFilter/Utilities/src/DAQSourceModelsScoutingRun3.cc",
+            "EventFilter/Utilities/src/EvFDaqDirector.cc",
+            "EventFilter/Utilities/src/FastMonitoringService.cc",
+            "EventFilter/Utilities/src/FedRawDataInputSource.cc",
+            "EventFilter/Utilities/test/RunBUFU.sh",
+            "EventFilter/Utilities/test/startBU.py",
+            "EventFilter/Utilities/test/testDTH.sh",
+            "EventFilter/Utilities/test/unittest_FU_daqsource.py"
+        ],
+        "created_at": 1736432066,
+        "number": 47068,
+        "state": "open",
+        "updated_at": 1736432087
     }
 }
