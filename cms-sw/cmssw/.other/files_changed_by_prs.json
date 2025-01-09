@@ -2758,5 +2758,23 @@
         "number": 47068,
         "state": "open",
         "updated_at": 1736432087
+    },
+    "47069": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/EventContent/python/EventContent_cff.py",
+            "Configuration/PyReleaseValidation/README.md",
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "DPGAnalysis/MuonTools/plugins/MuLocalRecoFlatTableProducers.cc",
+            "DPGAnalysis/MuonTools/python/hltMuNtupleProducer_cff.py",
+            "DPGAnalysis/MuonTools/python/nano_mu_hlt_cff.py",
+            "PhysicsTools/NanoAOD/plugins/SimpleFlatTableProducerPlugins.cc",
+            "PhysicsTools/NanoAOD/plugins/SimpleL1TFlatTableProducerPlugins.cc",
+            "PhysicsTools/NanoAOD/python/autoNANO.py"
+        ],
+        "created_at": 1736433743,
+        "number": 47069,
+        "state": "open",
+        "updated_at": 1736433776
     }
 }
