@@ -2146,29 +2146,6 @@
         "state": "open",
         "updated_at": 1734545475
     },
-    "46992": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "GeneratorInterface/CepGenInterface/src/CepGenEventGenerator.cc",
-            "GeneratorInterface/Herwig7Interface/src/Herwig7Interface.cc",
-            "GeneratorInterface/LHEInterface/src/LH5Reader.cc",
-            "GeneratorInterface/LHEInterface/src/LHEReader.cc",
-            "GeneratorInterface/Pythia6Interface/src/PtYDistributor.cc",
-            "GeneratorInterface/Pythia6Interface/src/Pythia6Service.cc",
-            "GeneratorInterface/Pythia8Interface/plugins/Pythia8HepMC3Hadronizer.cc",
-            "GeneratorInterface/Pythia8Interface/src/Py8GunBase.cc",
-            "GeneratorInterface/RivetInterface/plugins/GenParticles2HepMCConverter.cc",
-            "GeneratorInterface/RivetInterface/plugins/HTXSRivetProducer.cc",
-            "GeneratorInterface/RivetInterface/src/HiggsTemplateCrossSections.cc",
-            "IOMC/ParticleGuns/src/BeamMomentumGunProducer.cc",
-            "IOMC/ParticleGuns/src/FileRandomKEThetaGunProducer.cc",
-            "IOMC/ParticleGuns/src/FileRandomMultiParticlePGunProducer.cc"
-        ],
-        "created_at": 1734503904,
-        "number": 46992,
-        "state": "open",
-        "updated_at": 1734513485
-    },
     "47002": {
         "base_branch": "master",
         "changed_files_names": [
