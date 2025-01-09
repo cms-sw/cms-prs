@@ -2800,5 +2800,24 @@
         "number": 47070,
         "state": "open",
         "updated_at": 1736442429
+    },
+    "47073": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "IOPool/Streamer/interface/StreamerOutputModuleBase.h",
+            "IOPool/Streamer/src/StreamerInputFile.cc",
+            "IOPool/Streamer/src/StreamerInputSource.cc",
+            "IOPool/Streamer/src/StreamerOutputModuleBase.cc",
+            "IOPool/Streamer/test/BuildFile.xml",
+            "IOPool/Streamer/test/ref_merge_cfg.py",
+            "IOPool/Streamer/test/ref_merge_prod_cfg.py",
+            "IOPool/Streamer/test/ref_merge_test_cfg.py",
+            "IOPool/Streamer/test/run_RefMerge.sh",
+            "IOPool/Streamer/test/run_failures.sh"
+        ],
+        "created_at": 1736448245,
+        "number": 47073,
+        "state": "open",
+        "updated_at": 1736448274
     }
 }
