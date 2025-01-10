@@ -2918,5 +2918,19 @@
         "number": 47085,
         "state": "open",
         "updated_at": 1736543749
+    },
+    "47087": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "IOPool/Streamer/test/BuildFile.xml",
+            "IOPool/Streamer/test/run_TestReducedProcessHistory.sh",
+            "IOPool/Streamer/test/run_TestRefProductIDMetadataConsistencyStreamer.sh",
+            "IOPool/Streamer/test/testReducedProcessHistoryCreate_cfg.py",
+            "IOPool/Streamer/test/testReducedProcessHistory_cfg.py"
+        ],
+        "created_at": 1736545858,
+        "number": 47087,
+        "state": "open",
+        "updated_at": 1736545884
     }
 }
