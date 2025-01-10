@@ -2783,6 +2783,7 @@
     "47079": {
         "base_branch": "master",
         "changed_files_names": [
+            "Calibration/HcalAlCaRecoProducers/python/ALCARECOHcalCalMinBias_cff.py",
             "EventFilter/SiStripRawToDigi/plugins/SiStripRawToDigiModule.cc",
             "EventFilter/SiStripRawToDigi/plugins/SiStripRawToDigiModule.h",
             "EventFilter/SiStripRawToDigi/python/SiStripDigis_cfi.py",
@@ -2791,7 +2792,9 @@
             "HLTrigger/Configuration/python/customizeHLTforCMSSW.py",
             "PhysicsTools/SelectorUtils/interface/JetIDSelectionFunctor.h",
             "PhysicsTools/SelectorUtils/interface/PVObjectSelector.h",
+            "PhysicsTools/SelectorUtils/interface/PVSelector.h",
             "PhysicsTools/UtilAlgos/interface/EDFilterObjectWrapper.h",
+            "PhysicsTools/UtilAlgos/interface/EDFilterWrapper.h",
             "RecoLocalCalo/EcalRecProducers/plugins/EcalRecalibRecHitProducer.cc",
             "RecoLocalCalo/EcalRecProducers/python/ecalRecalibRecHit_cfi.py",
             "RecoLocalCalo/HcalRecAlgos/interface/HcalHFStatusBitFromDigis.h",
@@ -2822,7 +2825,7 @@
         "created_at": 1736502221,
         "number": 47079,
         "state": "open",
-        "updated_at": 1736502242
+        "updated_at": 1736513248
     },
     "47080": {
         "base_branch": "master",
