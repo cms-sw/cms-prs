@@ -2138,10 +2138,7 @@
             "HLTrigger/HLTfilters/plugins/HLTL1TSeed.h",
             "L1Trigger/L1TGlobal/interface/AlgorithmEvaluation.h",
             "L1Trigger/L1TGlobal/interface/ConditionEvaluation.h",
-            "L1Trigger/L1TGlobal/interface/GlobalBoard.h",
             "L1Trigger/L1TGlobal/plugins/GtRecordDump.cc",
-            "L1Trigger/L1TGlobal/plugins/L1TGlobalProducer.cc",
-            "L1Trigger/L1TGlobal/plugins/L1TGlobalProducer.h",
             "L1Trigger/L1TGlobal/src/AlgorithmEvaluation.cc",
             "L1Trigger/L1TGlobal/src/CaloCondition.cc",
             "L1Trigger/L1TGlobal/src/ConditionEvaluation.cc",
@@ -2151,14 +2148,13 @@
             "L1Trigger/L1TGlobal/src/EnergySumCondition.cc",
             "L1Trigger/L1TGlobal/src/EnergySumZdcCondition.cc",
             "L1Trigger/L1TGlobal/src/ExternalCondition.cc",
-            "L1Trigger/L1TGlobal/src/GlobalBoard.cc",
             "L1Trigger/L1TGlobal/src/MuCondition.cc",
             "L1Trigger/L1TGlobal/src/MuonShowerCondition.cc"
         ],
         "created_at": 1735400459,
         "number": 47030,
         "state": "open",
-        "updated_at": 1735631377
+        "updated_at": 1736698824
     },
     "47033": {
         "base_branch": "master",
