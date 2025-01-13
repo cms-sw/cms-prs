@@ -2837,6 +2837,7 @@
             "RecoTracker/PixelSeeding/BuildFile.xml",
             "RecoTracker/PixelSeeding/plugins/BuildFile.xml",
             "RecoTracker/PixelSeeding/plugins/CAHitNtupletGeneratorKernels.h",
+            "RecoTracker/PixelSeeding/plugins/CAHitNtupletGeneratorOnGPU.cc",
             "RecoTracker/PixelSeeding/plugins/alpaka/BrokenLineFit.dev.cc",
             "RecoTracker/PixelSeeding/plugins/alpaka/CACell.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtuplet.cc",
@@ -2861,6 +2862,6 @@
         "created_at": 1736758014,
         "number": 47090,
         "state": "open",
-        "updated_at": 1736758060
+        "updated_at": 1736780572
     }
 }
