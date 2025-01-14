@@ -2070,42 +2070,6 @@
         "state": "open",
         "updated_at": 1734714970
     },
-    "47030": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DataFormats/L1TGlobal/interface/GlobalObjectMap.h",
-            "DataFormats/L1TGlobal/interface/GlobalObjectMapFwd.h",
-            "DataFormats/L1TGlobal/interface/GlobalObjectMapRecord.h",
-            "DataFormats/L1TGlobal/src/GlobalObjectMap.cc",
-            "DataFormats/L1TGlobal/src/GlobalObjectMapRecord.cc",
-            "DataFormats/L1TGlobal/src/classes_def.xml",
-            "DataFormats/L1TGlobal/test/TestGlobalObjectMapRecordFormat.sh",
-            "DataFormats/L1TGlobal/test/TestReadGlobalObjectMapRecord.cc",
-            "DataFormats/L1TGlobal/test/TestWriteGlobalObjectMapRecord.cc",
-            "DataFormats/L1TGlobal/test/create_GlobalObjectMapRecord_test_file_cfg.py",
-            "DataFormats/L1TGlobal/test/test_readGlobalObjectMapRecord_cfg.py",
-            "HLTrigger/HLTfilters/plugins/HLTL1TSeed.cc",
-            "HLTrigger/HLTfilters/plugins/HLTL1TSeed.h",
-            "L1Trigger/L1TGlobal/interface/AlgorithmEvaluation.h",
-            "L1Trigger/L1TGlobal/interface/ConditionEvaluation.h",
-            "L1Trigger/L1TGlobal/plugins/GtRecordDump.cc",
-            "L1Trigger/L1TGlobal/src/AlgorithmEvaluation.cc",
-            "L1Trigger/L1TGlobal/src/CaloCondition.cc",
-            "L1Trigger/L1TGlobal/src/ConditionEvaluation.cc",
-            "L1Trigger/L1TGlobal/src/CorrCondition.cc",
-            "L1Trigger/L1TGlobal/src/CorrThreeBodyCondition.cc",
-            "L1Trigger/L1TGlobal/src/CorrWithOverlapRemovalCondition.cc",
-            "L1Trigger/L1TGlobal/src/EnergySumCondition.cc",
-            "L1Trigger/L1TGlobal/src/EnergySumZdcCondition.cc",
-            "L1Trigger/L1TGlobal/src/ExternalCondition.cc",
-            "L1Trigger/L1TGlobal/src/MuCondition.cc",
-            "L1Trigger/L1TGlobal/src/MuonShowerCondition.cc"
-        ],
-        "created_at": 1735400459,
-        "number": 47030,
-        "state": "open",
-        "updated_at": 1736698824
-    },
     "47033": {
         "base_branch": "master",
         "changed_files_names": [
