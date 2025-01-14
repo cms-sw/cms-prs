@@ -2676,5 +2676,23 @@
         "number": 47098,
         "state": "open",
         "updated_at": 1736867973
+    },
+    "47101": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "GeneratorInterface/Core/interface/GeneratorFilter.h",
+            "GeneratorInterface/ExternalDecays/BuildFile.xml",
+            "GeneratorInterface/ExternalDecays/interface/ExternalDecayDriver.h",
+            "GeneratorInterface/ExternalDecays/src/ExternalDecayDriver.cc",
+            "GeneratorInterface/PhotosInterface/BuildFile.xml",
+            "GeneratorInterface/PhotosInterface/interface/PhotosInterfaceBase.h",
+            "GeneratorInterface/PhotosInterface/interface/PhotosppInterface.h",
+            "GeneratorInterface/PhotosInterface/plugins/BuildFile.xml",
+            "GeneratorInterface/PhotosInterface/plugins/PhotosppInterface.cc"
+        ],
+        "created_at": 1736881574,
+        "number": 47101,
+        "state": "open",
+        "updated_at": 1736881602
     }
 }
