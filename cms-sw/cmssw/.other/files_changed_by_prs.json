@@ -2630,8 +2630,8 @@
             "DataFormats/TrackingRecHitSoA/src/alpaka/classes_rocm_def.xml",
             "DataFormats/TrackingRecHitSoA/src/classes.cc",
             "DataFormats/TrackingRecHitSoA/src/classes_def.xml",
-            "Geometry/CommonTopologies/interface/SimplePixelStripTopology.h",
             "Geometry/CommonTopologies/interface/SimplePixelTopology.h",
+            "Geometry/CommonTopologies/interface/SimpleSeedingLayersTopology.h",
             "HLTrigger/Configuration/python/customizeHLTforAlpakaStripNoDoubletRecovery.py",
             "HLTrigger/Configuration/python/customizeHLTforCMSSW.py",
             "RecoLocalTracker/ClusterParameterEstimator/BuildFile.xml",
@@ -2655,7 +2655,6 @@
             "RecoLocalTracker/SiStripRecHitConverter/BuildFile.xml",
             "RecoLocalTracker/SiStripRecHitConverter/interface/StripCPEfromTrackAngle.h",
             "RecoLocalTracker/SiStripRecHitConverter/plugins/BuildFile.xml",
-            "RecoLocalTracker/SiStripRecHitConverter/plugins/SiStripRecHitConverter.cc",
             "RecoLocalTracker/SiStripRecHitConverter/plugins/alpaka/SiStripRecHitSoA.cc",
             "RecoLocalTracker/SiStripRecHitConverter/plugins/alpaka/SiStripRecHitSoAKernel.dev.cc",
             "RecoLocalTracker/SiStripRecHitConverter/plugins/alpaka/SiStripRecHitSoAKernel.h",
@@ -2688,7 +2687,7 @@
         "created_at": 1736758014,
         "number": 47090,
         "state": "open",
-        "updated_at": 1736780572
+        "updated_at": 1736842439
     },
     "47092": {
         "base_branch": "master",
