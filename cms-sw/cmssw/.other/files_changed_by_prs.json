@@ -2744,24 +2744,6 @@
         "state": "open",
         "updated_at": 1736780572
     },
-    "47091": {
-        "base_branch": "CMSSW_14_2_X",
-        "changed_files_names": [
-            "FWCore/Catalog/interface/InputFileCatalog.h",
-            "FWCore/Catalog/src/InputFileCatalog.cc",
-            "FWCore/Catalog/test/BuildFile.xml",
-            "FWCore/Catalog/test/FileLocator_t.cpp",
-            "FWCore/Catalog/test/InputFileCatalog_t.cpp",
-            "FWCore/Catalog/test/TestSiteLocalConfig.h",
-            "FWCore/Sources/interface/FromFiles.h",
-            "FWCore/Sources/interface/ProducerSourceFromFiles.h",
-            "FWCore/Sources/interface/RawInputSourceFromFiles.h"
-        ],
-        "created_at": 1736781704,
-        "number": 47091,
-        "state": "open",
-        "updated_at": 1736781728
-    },
     "47092": {
         "base_branch": "master",
         "changed_files_names": [
