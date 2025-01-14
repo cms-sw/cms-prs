@@ -2694,5 +2694,17 @@
         "number": 47101,
         "state": "open",
         "updated_at": 1736881602
+    },
+    "47102": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/relval_nano.py",
+            "DPGAnalysis/HcalNanoAOD/python/customiseHcalMC_cff.py",
+            "PhysicsTools/NanoAOD/python/autoNANO.py"
+        ],
+        "created_at": 1736882760,
+        "number": 47102,
+        "state": "open",
+        "updated_at": 1736882789
     }
 }
