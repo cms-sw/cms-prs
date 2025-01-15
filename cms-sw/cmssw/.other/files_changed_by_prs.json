@@ -2749,5 +2749,18 @@
         "number": 47107,
         "state": "open",
         "updated_at": 1736941493
+    },
+    "47108": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/PixelClustering.h",
+            "RecoTracker/LSTCore/interface/alpaka/Common.h",
+            "RecoTracker/LSTCore/src/alpaka/NeuralNetworkWeights.h",
+            "RecoTracker/LSTCore/standalone/analysis/DNN/train_T5_DNN.ipynb"
+        ],
+        "created_at": 1736946010,
+        "number": 47108,
+        "state": "open",
+        "updated_at": 1736946034
     }
 }
