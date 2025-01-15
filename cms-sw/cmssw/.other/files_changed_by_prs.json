@@ -2707,6 +2707,7 @@
         "base_branch": "master",
         "changed_files_names": [
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaGsfTracksL1Seeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaGsfTracksUnseeded_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltHighPtTripletStepTracks_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTracks_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltIter0Phase2L3FromL1TkMuonCtfWithMaterialTracks_cfi.py",
@@ -2749,7 +2750,7 @@
         "created_at": 1736941465,
         "number": 47107,
         "state": "open",
-        "updated_at": 1736941493
+        "updated_at": 1736949465
     },
     "47108": {
         "base_branch": "master",
