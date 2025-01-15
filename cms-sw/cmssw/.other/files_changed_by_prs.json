@@ -2763,5 +2763,24 @@
         "number": 47110,
         "state": "open",
         "updated_at": 1736960913
+    },
+    "47111": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/Portable/interface/PortableCollection.h",
+            "DataFormats/Portable/interface/PortableObject.h",
+            "HeterogeneousCore/AlpakaCore/README.md",
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/ProducerBase.h",
+            "HeterogeneousCore/AlpakaInterface/interface/concepts.h",
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaGlobalProducerImplicitCopyToDevice.cc",
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaVerifyObjectOnDevice.cc",
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/verifyDeviceObjectAsync.dev.cc",
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/verifyDeviceObjectAsync.h",
+            "HeterogeneousCore/AlpakaTest/test/testAlpakaModules_cfg.py"
+        ],
+        "created_at": 1736967377,
+        "number": 47111,
+        "state": "open",
+        "updated_at": 1736967405
     }
 }
