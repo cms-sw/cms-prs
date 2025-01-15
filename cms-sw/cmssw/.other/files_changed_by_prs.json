@@ -2607,12 +2607,16 @@
             "GeneratorInterface/PhotosInterface/interface/PhotosppInterface.h",
             "GeneratorInterface/PhotosInterface/plugins/BuildFile.xml",
             "GeneratorInterface/PhotosInterface/plugins/PhotosppInterface.cc",
-            "GeneratorInterface/Pythia8Interface/plugins/Pythia8HepMC3Hadronizer.cc"
+            "GeneratorInterface/Pythia8Interface/plugins/Pythia8HepMC3Hadronizer.cc",
+            "GeneratorInterface/Pythia8Interface/test/pythia8G4_cfg.py",
+            "GeneratorInterface/Pythia8Interface/test/pythia8_photos_ZToTauTau_13TeV_cfg.py",
+            "GeneratorInterface/Pythia8Interface/test/pythia8hmc3G4_cfg.py",
+            "GeneratorInterface/Pythia8Interface/test/pythia8hmc3_photos_ZToTauTau_13TeV_cfg.py"
         ],
         "created_at": 1736881574,
         "number": 47101,
         "state": "open",
-        "updated_at": 1736946255
+        "updated_at": 1736967106
     },
     "47102": {
         "base_branch": "master",
