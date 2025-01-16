@@ -2743,5 +2743,21 @@
         "number": 47112,
         "state": "open",
         "updated_at": 1736997925
+    },
+    "47113": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/ProcessModifiers/python/vertexTrimming_cff.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHighPtTripletStepHitDoublets_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHighPtTripletStepTrackingRegionFromTrimmedVertices_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepSeeds_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2TrimmedPixelVertices_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTHighPtTripletStepSequence_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTTrackingV61Sequence_cfi.py"
+        ],
+        "created_at": 1737019544,
+        "number": 47113,
+        "state": "open",
+        "updated_at": 1737019568
     }
 }
