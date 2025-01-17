@@ -2293,6 +2293,8 @@
         "base_branch": "master",
         "changed_files_names": [
             "Configuration/ProcessModifiers/python/stripNtupletFit_cff.py",
+            "Configuration/PyReleaseValidation/python/relval_gpu.py",
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
             "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareRecHitsSoA.cc",
             "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareTrackSoA.cc",
             "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorRecHitsSoAAlpaka.cc",
@@ -2371,7 +2373,7 @@
         "created_at": 1736758014,
         "number": 47090,
         "state": "open",
-        "updated_at": 1736842439
+        "updated_at": 1737112988
     },
     "47092": {
         "base_branch": "master",
