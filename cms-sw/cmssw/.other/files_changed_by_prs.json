@@ -2410,6 +2410,7 @@
         "base_branch": "master",
         "changed_files_names": [
             "GeneratorInterface/Core/interface/GeneratorFilter.h",
+            "GeneratorInterface/Core/test/FailingGeneratorFilter.cc",
             "GeneratorInterface/ExternalDecays/BuildFile.xml",
             "GeneratorInterface/ExternalDecays/interface/ExternalDecayDriver.h",
             "GeneratorInterface/ExternalDecays/src/ExternalDecayDriver.cc",
@@ -2427,7 +2428,7 @@
         "created_at": 1736881574,
         "number": 47101,
         "state": "open",
-        "updated_at": 1736967106
+        "updated_at": 1737126535
     },
     "47102": {
         "base_branch": "master",
