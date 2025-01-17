@@ -2594,28 +2594,6 @@
         "state": "open",
         "updated_at": 1737043371
     },
-    "47115": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DataFormats/ForwardDetId/interface/BTLDetId.h",
-            "DataFormats/ForwardDetId/src/BTLDetId.cc",
-            "DataFormats/ForwardDetId/src/classes_def.xml",
-            "DataFormats/TrackReco/src/HitPattern.cc",
-            "Geometry/MTDCommonData/interface/BTLElectronicsMapping.h",
-            "Geometry/MTDCommonData/interface/BTLNumberingScheme.h",
-            "Geometry/MTDCommonData/src/BTLElectronicsMapping.cc",
-            "Geometry/MTDCommonData/src/BTLNumberingScheme.cc",
-            "Geometry/MTDGeometryBuilder/test/DD4hep_TestPixelTopology.cc",
-            "Geometry/MTDNumberingBuilder/plugins/CmsMTDConstruction.cc",
-            "Geometry/MTDNumberingBuilder/plugins/CmsMTDConstruction.h",
-            "RecoMTD/DetLayers/src/MTDDetLayerGeometry.cc",
-            "RecoMTD/DetLayers/test/mtd_cfg.py"
-        ],
-        "created_at": 1737032930,
-        "number": 47115,
-        "state": "open",
-        "updated_at": 1737032955
-    },
     "47116": {
         "base_branch": "CMSSW_14_0_X",
         "changed_files_names": [
