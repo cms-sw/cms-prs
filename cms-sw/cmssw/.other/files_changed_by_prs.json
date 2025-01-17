@@ -2688,5 +2688,21 @@
         "number": 47123,
         "state": "open",
         "updated_at": 1737116043
+    },
+    "47124": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitSoAToLegacy.cc",
+            "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EcalPhase2DigiToPortableProducer.cc",
+            "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EcalUncalibRecHitPhase2WeightsAlgoPortable.dev.cc",
+            "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EcalUncalibRecHitPhase2WeightsAlgoPortable.h",
+            "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EcalUncalibRecHitPhase2WeightsProducerPortable.cc",
+            "RecoLocalCalo/EcalRecProducers/python/ecalUncalibRecHitPhase2Portable_cfi.py",
+            "RecoLocalCalo/EcalRecProducers/python/ecalUncalibRecHitPhase2_cff.py"
+        ],
+        "created_at": 1737118172,
+        "number": 47124,
+        "state": "open",
+        "updated_at": 1737118203
     }
 }
