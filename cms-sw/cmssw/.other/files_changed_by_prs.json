@@ -2490,36 +2490,6 @@
         "state": "open",
         "updated_at": 1736908231
     },
-    "47106": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "RecoTracker/IterativeTracking/python/InitialStepPreSplitting_cff.py",
-            "RecoTracker/MkFit/plugins/MkFitEventOfHitsProducer.cc",
-            "RecoTracker/MkFit/plugins/MkFitPhase2HitConverter.cc",
-            "RecoTracker/MkFit/plugins/MkFitProducer.cc",
-            "RecoTracker/MkFit/plugins/MkFitSiPixelHitConverter.cc",
-            "RecoTracker/MkFit/plugins/MkFitSiStripHitConverter.cc",
-            "RecoTracker/MkFit/plugins/convertHits.h",
-            "RecoTracker/MkFit/python/customizeHLTIter0ToMkFit.py",
-            "RecoTracker/MkFitCore/interface/Hit.h",
-            "RecoTracker/MkFitCore/src/KalmanUtilsMPlex.cc",
-            "RecoTracker/MkFitCore/src/KalmanUtilsMPlex.icc",
-            "RecoTracker/MkFitCore/src/MiniPropagators.cc",
-            "RecoTracker/MkFitCore/src/MkBase.h",
-            "RecoTracker/MkFitCore/src/MkBuilder.cc",
-            "RecoTracker/MkFitCore/src/MkFinder.cc",
-            "RecoTracker/MkFitCore/src/MkFitter.cc",
-            "RecoTracker/MkFitCore/src/PropagationMPlex.cc",
-            "RecoTracker/MkFitCore/src/PropagationMPlexCommon.cc",
-            "RecoTracker/MkFitCore/src/PropagationMPlexEndcap.cc",
-            "RecoTracker/MkFitCore/src/PropagationMPlexPlane.cc",
-            "RecoTracker/MkFitCore/src/Track.cc"
-        ],
-        "created_at": 1736938225,
-        "number": 47106,
-        "state": "open",
-        "updated_at": 1736938254
-    },
     "47107": {
         "base_branch": "master",
         "changed_files_names": [
