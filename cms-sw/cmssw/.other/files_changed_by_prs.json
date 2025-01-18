@@ -2634,5 +2634,25 @@
         "number": 47129,
         "state": "open",
         "updated_at": 1737133813
+    },
+    "47130": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalGeometry/test/python/runCaloCellGeometryTest_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalCellDumpDD4hep_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalCellDumpDDD_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalCorner_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalGeomCheck_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalGeomLocatorSc_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalGeomLocator_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalGeometryCheck_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalGeometryMouseBite_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalGeometryNewCorners_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalGeometryRotCheck_cfg.py"
+        ],
+        "created_at": 1737169489,
+        "number": 47130,
+        "state": "open",
+        "updated_at": 1737169513
     }
 }
