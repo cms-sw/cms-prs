@@ -2713,5 +2713,33 @@
         "number": 47135,
         "state": "open",
         "updated_at": 1737310299
+    },
+    "47136": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CalibTracker/SiStripESProducers/plugins/geom/SiStripRegionConnectivity.cc",
+            "CalibTracker/SiStripESProducers/python/SiStripRegionConnectivity_cfi.py",
+            "RecoLocalTracker/Phase2TrackerRecHits/interface/Phase2StripCPE.h",
+            "RecoLocalTracker/Phase2TrackerRecHits/plugins/Phase2StripCPEESProducer.cc",
+            "RecoLocalTracker/Phase2TrackerRecHits/python/Phase2StripCPEESProducer_cfi.py",
+            "RecoLocalTracker/Phase2TrackerRecHits/src/Phase2StripCPE.cc",
+            "RecoLocalTracker/SiStripRecHitConverter/interface/StripCPEfromTrackAngle.h",
+            "RecoLocalTracker/SiStripRecHitConverter/plugins/StripCPEESProducer.cc",
+            "RecoLocalTracker/SiStripRecHitConverter/src/StripCPEfromTrackAngle.cc",
+            "RecoMuon/TransientTrackingRecHit/plugins/MuonTransientTrackingRecHitBuilderESProducer.cc",
+            "RecoMuon/TransientTrackingRecHit/python/MuonTransientTrackingRecHitBuilder_cfi.py",
+            "TrackPropagation/SteppingHelixPropagator/plugins/SteppingHelixPropagatorESProducer.cc",
+            "TrackPropagation/SteppingHelixPropagator/python/SteppingHelixPropagator_cfi.py",
+            "TrackingTools/GeomPropagators/python/AnalyticalPropagator_cfi.py",
+            "TrackingTools/GeomPropagators/python/SmartPropagator_cfi.py",
+            "TrackingTools/KalmanUpdators/plugins/KFUpdatorESProducer.cc",
+            "TrackingTools/KalmanUpdators/python/KFUpdatorESProducer_cfi.py",
+            "TrackingTools/Producers/src/AnalyticalPropagatorESProducer.cc",
+            "TrackingTools/Producers/src/SmartPropagatorESProducer.cc"
+        ],
+        "created_at": 1737311119,
+        "number": 47136,
+        "state": "open",
+        "updated_at": 1737311152
     }
 }
