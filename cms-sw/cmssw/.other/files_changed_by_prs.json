@@ -1857,37 +1857,6 @@
         "state": "open",
         "updated_at": 1734434555
     },
-    "47002": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DQM/GEM/plugins/GEMRecHitSource.cc",
-            "DQM/L1TMonitor/src/L1TCaloLayer1Summary.cc",
-            "DQM/SiStripMonitorClient/plugins/SiStripOfflineDQM.cc",
-            "DQM/TrackerRemapper/bin/printPixelROCsMap.cc",
-            "DQM/TrackerRemapper/src/Phase1PixelMaps.cc",
-            "DQM/TrackerRemapper/src/Phase1PixelSummaryMap.cc",
-            "DQMOffline/ParticleFlow/plugins/PFAnalyzer.cc",
-            "DQMOffline/Trigger/plugins/ZGammaplusJetsMonitor.cc",
-            "DQMOffline/Trigger/src/HLTTauDQMPath.cc",
-            "DQMOffline/Trigger/src/HLTTauDQMPathPlotter.cc",
-            "DQMServices/Core/src/DQMStore.cc",
-            "DQMServices/StreamerIO/plugins/DQMStreamerReader.cc",
-            "DQMServices/StreamerIO/plugins/TriggerSelector.cc",
-            "HLTriggerOffline/Egamma/src/EmDQM.cc",
-            "Validation/HGCalValidation/plugins/HGCalTestPartialWaferRecHits.cc",
-            "Validation/HGCalValidation/src/TICLCandidateValidator.cc",
-            "Validation/MtdValidation/plugins/Primary4DVertexValidation.cc",
-            "Validation/MuonCSCDigis/src/CSCDigiMatcher.cc",
-            "Validation/MuonCSCDigis/src/CSCStubMatcher.cc",
-            "Validation/MuonGEMDigis/src/GEMDigiMatcher.cc",
-            "Validation/MuonGEMRecHits/src/GEMRecHitMatcher.cc",
-            "Validation/MuonRPCDigis/src/RPCDigiValid.cc"
-        ],
-        "created_at": 1734504095,
-        "number": 47002,
-        "state": "open",
-        "updated_at": 1737388571
-    },
     "47007": {
         "base_branch": "master",
         "changed_files_names": [
