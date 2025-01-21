@@ -1748,20 +1748,12 @@
             "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelRecHitKernels.dev.cc",
             "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelRecHits.h",
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFClusterSoAProducerKernel.dev.cc",
-            "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/PFRecHitProducerKernel.dev.cc",
-            "RecoTracker/PixelSeeding/plugins/alpaka/BrokenLineFit.dev.cc",
-            "RecoTracker/PixelSeeding/plugins/alpaka/CACell.h",
-            "RecoTracker/PixelSeeding/plugins/alpaka/CAFishbone.h",
-            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernels.dev.cc",
-            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernelsImpl.h",
-            "RecoTracker/PixelSeeding/plugins/alpaka/CAPixelDoublets.h",
-            "RecoTracker/PixelSeeding/plugins/alpaka/CAPixelDoubletsAlgos.h",
-            "RecoTracker/PixelSeeding/plugins/alpaka/RiemannFit.dev.cc"
+            "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/PFRecHitProducerKernel.dev.cc"
         ],
         "created_at": 1733934273,
         "number": 46916,
         "state": "open",
-        "updated_at": 1737392909
+        "updated_at": 1737452292
     },
     "46929": {
         "base_branch": "master",
