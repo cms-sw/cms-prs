@@ -2588,5 +2588,17 @@
         "number": 47160,
         "state": "open",
         "updated_at": 1737532248
+    },
+    "47161": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/relval_gpu.py",
+            "Configuration/PyReleaseValidation/python/relval_steps.py",
+            "Configuration/PyReleaseValidation/scripts/runTheMatrix.py"
+        ],
+        "created_at": 1737532495,
+        "number": 47161,
+        "state": "open",
+        "updated_at": 1737532519
     }
 }
