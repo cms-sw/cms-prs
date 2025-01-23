@@ -2626,12 +2626,15 @@
             "IOPool/Output/src/RootOutputFile.cc",
             "IOPool/Output/src/RootOutputFile.h",
             "IOPool/SecondaryInput/test/SecondaryProducer.cc",
-            "IOPool/Streamer/src/StreamSerializer.cc"
+            "IOPool/Streamer/src/StreamSerializer.cc",
+            "Mixing/Base/interface/PileUp.h",
+            "Mixing/Base/src/SecondaryEventProvider.cc",
+            "Mixing/Base/src/SecondaryEventProvider.h"
         ],
         "created_at": 1737570663,
         "number": 47166,
         "state": "open",
-        "updated_at": 1737579084
+        "updated_at": 1737639244
     },
     "47167": {
         "base_branch": "master",
