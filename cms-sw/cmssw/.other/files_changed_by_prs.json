@@ -287,12 +287,13 @@
             "DQMServices/StreamerIO/plugins/DQMProtobufReader.cc",
             "DataFormats/Histograms/interface/MEtoEDMFormat.h",
             "DataFormats/Histograms/interface/MonitorElementCollection.h",
-            "DataFormats/Histograms/src/classes_def.xml"
+            "DataFormats/Histograms/src/classes_def.xml",
+            "DataFormats/Histograms/test/metoedmformat_t.cc"
         ],
         "created_at": 1686577887,
         "number": 41932,
         "state": "open",
-        "updated_at": 1734693248
+        "updated_at": 1737620484
     },
     "42005": {
         "base_branch": "master",
