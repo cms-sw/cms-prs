@@ -2210,12 +2210,13 @@
             "RecoTracker/TkSeedGenerator/plugins/SeedFromConsecutiveHitsCreator.cc",
             "RecoVertex/Configuration/python/RecoPixelVertexing_cff.py",
             "RecoVertex/PixelVertexFinding/plugins/alpaka/PixelVertexProducerAlpaka.cc",
+            "RecoVertex/PixelVertexFinding/plugins/alpaka/splitVertices.h",
             "RecoVertex/PixelVertexFinding/plugins/alpaka/vertexFinder.dev.cc"
         ],
         "created_at": 1736758014,
         "number": 47090,
         "state": "open",
-        "updated_at": 1737376500
+        "updated_at": 1737989355
     },
     "47092": {
         "base_branch": "master",
