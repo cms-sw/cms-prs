@@ -2775,23 +2775,5 @@
         "number": 47191,
         "state": "open",
         "updated_at": 1738009702
-    },
-    "47192": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DataFormats/L1TCalorimeterPhase2/interface/DigitizedClusterCorrelator.h",
-            "DataFormats/L1TCalorimeterPhase2/interface/GCTEmDigiCluster.h",
-            "DataFormats/L1TCalorimeterPhase2/interface/GCTHadDigiCluster.h",
-            "DataFormats/L1TCalorimeterPhase2/src/classes.h",
-            "DataFormats/L1TCalorimeterPhase2/src/classes_def.xml",
-            "L1Trigger/L1CaloTrigger/interface/Phase2L1CaloBarrelToCorrelator.h",
-            "L1Trigger/L1CaloTrigger/interface/Phase2L1CaloEGammaUtils.h",
-            "L1Trigger/L1CaloTrigger/plugins/Phase2L1TCaloBarrelToCorrelator.cc",
-            "L1Trigger/L1CaloTrigger/python/l1tPhase2GCTBarrelToCorrelatorLayer1Emulator_cfi.py"
-        ],
-        "created_at": 1738011739,
-        "number": 47192,
-        "state": "open",
-        "updated_at": 1738011765
     }
 }
