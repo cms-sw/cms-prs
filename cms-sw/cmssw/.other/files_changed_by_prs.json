@@ -2304,10 +2304,10 @@
     "47175": {
         "base_branch": "master",
         "changed_files_names": [
-            "DataFormats/Provenance/interface/ResourcesDescription.h",
-            "DataFormats/Provenance/src/ResourcesDescription.cc",
+            "DataFormats/Provenance/interface/HardwareResourcesDescription.h",
+            "DataFormats/Provenance/src/HardwareResourcesDescription.cc",
             "DataFormats/Provenance/test/BuildFile.xml",
-            "DataFormats/Provenance/test/ResourcesDescription_t.cpp",
+            "DataFormats/Provenance/test/HardwareResourcesDescription_t.cpp",
             "FWCore/Utilities/interface/compactStringSerializer.h",
             "FWCore/Utilities/src/compactStringSerializer.cc",
             "FWCore/Utilities/test/test_catch2_compactStringSerializer.cc"
@@ -2315,7 +2315,7 @@
         "created_at": 1737678286,
         "number": 47175,
         "state": "open",
-        "updated_at": 1737678315
+        "updated_at": 1738158553
     },
     "47178": {
         "base_branch": "master",
