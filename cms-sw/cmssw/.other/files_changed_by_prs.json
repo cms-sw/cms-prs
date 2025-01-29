@@ -2849,5 +2849,23 @@
         "number": 47206,
         "state": "open",
         "updated_at": 1738187346
+    },
+    "47207": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HLTriggerOffline/Scouting/plugins/BuildFile.xml",
+            "HLTriggerOffline/Scouting/plugins/ScoutingMuonTagProbeAnalyzer.cc",
+            "HLTriggerOffline/Scouting/plugins/ScoutingMuonTagProbeAnalyzer.h",
+            "HLTriggerOffline/Scouting/plugins/ScoutingMuonTriggerAnalyzer.cc",
+            "HLTriggerOffline/Scouting/plugins/ScoutingMuonTriggerAnalyzer.h",
+            "HLTriggerOffline/Scouting/python/ScoutingMuonMonitoring_Client_cff.py",
+            "HLTriggerOffline/Scouting/python/ScoutingMuonTagProbeAnalyzer_cfi.py",
+            "HLTriggerOffline/Scouting/python/ScoutingMuonTriggerAnalyzer_cfi.py",
+            "HLTriggerOffline/Scouting/test/runScoutingMonitoringDQM_muonOnly_cfg.py"
+        ],
+        "created_at": 1738189400,
+        "number": 47207,
+        "state": "open",
+        "updated_at": 1738189430
     }
 }
