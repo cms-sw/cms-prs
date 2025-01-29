@@ -2833,5 +2833,21 @@
         "number": 47205,
         "state": "open",
         "updated_at": 1738182496
+    },
+    "47206": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "PhysicsTools/NanoAOD/plugins/SimpleJetConstituentTableProducer.cc",
+            "PhysicsTools/NanoAOD/plugins/SimplePATFlatTableProducerPlugins.cc",
+            "PhysicsTools/NanoAOD/python/jetConstituents_cff.py",
+            "PhysicsTools/NanoAOD/python/jetsAK8_cff.py",
+            "PhysicsTools/NanoAOD/python/nanoDQM_cfi.py",
+            "PhysicsTools/NanoAOD/python/nano_cff.py",
+            "PhysicsTools/PatAlgos/plugins/PATObjectSelector.cc"
+        ],
+        "created_at": 1738187320,
+        "number": 47206,
+        "state": "open",
+        "updated_at": 1738187346
     }
 }
