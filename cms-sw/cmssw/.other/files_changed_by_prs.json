@@ -2064,31 +2064,6 @@
         "state": "open",
         "updated_at": 1736524126
     },
-    "47084": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "HeterogeneousCore/AlpakaInterface/interface/alpakastdAlgorithm.h",
-            "RecoTracker/LSTCore/interface/Circle.h",
-            "RecoTracker/LSTCore/interface/HitsSoA.h",
-            "RecoTracker/LSTCore/interface/alpaka/Common.h",
-            "RecoTracker/LSTCore/src/alpaka/Hit.h",
-            "RecoTracker/LSTCore/src/alpaka/Kernels.h",
-            "RecoTracker/LSTCore/src/alpaka/LSTEvent.dev.cc",
-            "RecoTracker/LSTCore/src/alpaka/LSTEvent.h",
-            "RecoTracker/LSTCore/src/alpaka/MiniDoublet.h",
-            "RecoTracker/LSTCore/src/alpaka/PixelQuintuplet.h",
-            "RecoTracker/LSTCore/src/alpaka/PixelTriplet.h",
-            "RecoTracker/LSTCore/src/alpaka/Quintuplet.h",
-            "RecoTracker/LSTCore/src/alpaka/Segment.h",
-            "RecoTracker/LSTCore/src/alpaka/TrackCandidate.h",
-            "RecoTracker/LSTCore/src/alpaka/Triplet.h",
-            "RecoTracker/LSTCore/standalone/code/core/write_lst_ntuple.cc"
-        ],
-        "created_at": 1736533060,
-        "number": 47084,
-        "state": "open",
-        "updated_at": 1737543174
-    },
     "47090": {
         "base_branch": "master",
         "changed_files_names": [
