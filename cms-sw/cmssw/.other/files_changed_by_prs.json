@@ -1844,9 +1844,11 @@
             "L1Trigger/TrackFindingTracklet/interface/TrackletProcessorDisplaced.h",
             "L1Trigger/TrackFindingTracklet/interface/TripletEngineUnit.h",
             "L1Trigger/TrackFindingTracklet/plugins/L1FPGATrackProducer.cc",
+            "L1Trigger/TrackFindingTracklet/plugins/ProducerChannelAssignment.cc",
             "L1Trigger/TrackFindingTracklet/plugins/ProducerDR.cc",
             "L1Trigger/TrackFindingTracklet/plugins/ProducerDRin.cc",
             "L1Trigger/TrackFindingTracklet/plugins/ProducerDataFormats.cc",
+            "L1Trigger/TrackFindingTracklet/plugins/ProducerHPH.cc",
             "L1Trigger/TrackFindingTracklet/plugins/ProducerKF.cc",
             "L1Trigger/TrackFindingTracklet/plugins/ProducerKFin.cc",
             "L1Trigger/TrackFindingTracklet/plugins/ProducerKFout.cc",
@@ -1929,8 +1931,8 @@
             "L1Trigger/TrackerDTC/python/DTC_cff.py",
             "L1Trigger/TrackerDTC/python/ProducerED_cff.py",
             "L1Trigger/TrackerDTC/python/DTC_cfi.py",
-            "L1Trigger/TrackerDTC/python/ProducerED_cfi.py",
             "L1Trigger/TrackerDTC/python/LayerEncoding_cff.py",
+            "L1Trigger/TrackerDTC/python/ProducerED_cfi.py",
             "L1Trigger/TrackerDTC/python/ProducerLayerEncoding_cff.py",
             "L1Trigger/TrackerDTC/python/ProducerLayerEncoding_cfi.py",
             "L1Trigger/TrackerDTC/src/DTC.cc",
@@ -1967,6 +1969,7 @@
             "L1Trigger/TrackerTFP/plugins/ProducerHT.cc",
             "L1Trigger/TrackerTFP/plugins/ProducerKF.cc",
             "L1Trigger/TrackerTFP/plugins/ProducerKFin.cc",
+            "L1Trigger/TrackerTFP/plugins/ProducerLayerEncoding.cc",
             "L1Trigger/TrackerTFP/plugins/ProducerMHT.cc",
             "L1Trigger/TrackerTFP/plugins/ProducerPP.cc",
             "L1Trigger/TrackerTFP/plugins/ProducerTFP.cc",
@@ -2034,7 +2037,7 @@
         "created_at": 1736431199,
         "number": 47067,
         "state": "open",
-        "updated_at": 1737071195
+        "updated_at": 1738161970
     },
     "47069": {
         "base_branch": "master",
