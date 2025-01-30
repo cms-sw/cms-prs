@@ -2525,11 +2525,14 @@
             "DQMOffline/JetMET/python/jetAnalyzer_cff.py",
             "DQMOffline/JetMET/python/jetAnalyzer_cfi.py",
             "DQMOffline/JetMET/python/jetMETDQMOfflineSource_cff.py",
-            "DQMOffline/JetMET/src/JetAnalyzer.cc"
+            "DQMOffline/JetMET/src/CaloTowerAnalyzer.cc",
+            "DQMOffline/JetMET/src/HCALRecHitAnalyzer.cc",
+            "DQMOffline/JetMET/src/JetAnalyzer.cc",
+            "DQMOffline/JetMET/src/JetMETDQMDCSFilter.cc"
         ],
         "created_at": 1738245979,
         "number": 47212,
         "state": "open",
-        "updated_at": 1738246009
+        "updated_at": 1738251658
     }
 }
