@@ -2548,5 +2548,37 @@
         "number": 47214,
         "state": "open",
         "updated_at": 1738260282
+    },
+    "47216": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "EventFilter/EcalRawToDigi/plugins/alpaka/EcalRawToDigiPortable.cc",
+            "EventFilter/HcalRawToDigi/plugins/alpaka/HcalDigisSoAProducer.cc",
+            "HeterogeneousCore/AlpakaCore/plugins/alpaka/AlpakaBackendProducer.cc",
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaGlobalProducerCopyToDeviceCache.cc",
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaGlobalProducerMoveToDeviceCache.cc",
+            "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EcalRecHitProducerPortable.cc",
+            "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EcalUncalibRecHitProducerPortable.cc",
+            "RecoLocalCalo/HGCalRecAlgos/plugins/alpaka/HGCalRecHitProducers.cc",
+            "RecoLocalCalo/HGCalRecAlgos/test/alpaka/HGCalRecHitESProducersTest.cc",
+            "RecoLocalCalo/HGCalRecProducers/plugins/alpaka/HGCalSoALayerClustersProducer.cc",
+            "RecoLocalCalo/HGCalRecProducers/plugins/alpaka/HGCalSoARecHitsLayerClustersProducer.cc",
+            "RecoLocalCalo/HGCalRecProducers/plugins/alpaka/HGCalSoARecHitsProducer.cc",
+            "RecoLocalCalo/HcalRecProducers/plugins/alpaka/HBHERecHitProducerPortable.cc",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelPhase2DigiToCluster.cc",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToCluster.cc",
+            "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/SiPixelRecHitAlpaka.cc",
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFClusterSoAProducer.cc",
+            "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/CaloRecHitSoAProducer.cc",
+            "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/PFRecHitSoAProducer.cc",
+            "RecoTracker/LST/plugins/alpaka/LSTProducer.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtuplet.cc",
+            "RecoVertex/BeamSpotProducer/plugins/alpaka/BeamSpotDeviceProducer.cc",
+            "RecoVertex/PixelVertexFinding/plugins/alpaka/PixelVertexProducerAlpaka.cc"
+        ],
+        "created_at": 1738274819,
+        "number": 47216,
+        "state": "open",
+        "updated_at": 1738274849
     }
 }
