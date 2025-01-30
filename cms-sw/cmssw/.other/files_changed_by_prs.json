@@ -2789,5 +2789,23 @@
         "number": 47207,
         "state": "open",
         "updated_at": 1738189430
+    },
+    "47208": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoTracker/LSTCore/src/alpaka/Hit.h",
+            "RecoTracker/LSTCore/src/alpaka/Kernels.h",
+            "RecoTracker/LSTCore/src/alpaka/MiniDoublet.h",
+            "RecoTracker/LSTCore/src/alpaka/NeuralNetwork.h",
+            "RecoTracker/LSTCore/src/alpaka/PixelTriplet.h",
+            "RecoTracker/LSTCore/src/alpaka/Quintuplet.h",
+            "RecoTracker/LSTCore/src/alpaka/Segment.h",
+            "RecoTracker/LSTCore/src/alpaka/TrackCandidate.h",
+            "RecoTracker/LSTCore/src/alpaka/Triplet.h"
+        ],
+        "created_at": 1738231398,
+        "number": 47208,
+        "state": "open",
+        "updated_at": 1738231422
     }
 }
