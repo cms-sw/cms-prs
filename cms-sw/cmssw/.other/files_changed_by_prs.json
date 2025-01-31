@@ -2579,6 +2579,7 @@
             "DPGAnalysis/Skims/src/ZElectronsSelector.cc",
             "DQM/TrackingMonitorSource/python/TrackCollections2monitor_cff.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltTrackWithVertexRefSelectorBeforeSorting_cfi.py",
+            "HLTriggerOffline/Exotica/python/ExoticaValidation_cff.py",
             "PhysicsTools/HepMCCandAlgos/plugins/MCMatchCandRefSelector.cc",
             "PhysicsTools/JetMCAlgos/plugins/TauGenJetDecayModeSelector.cc",
             "PhysicsTools/JetMCAlgos/plugins/TauGenJetDecayModeSelector.h",
@@ -2616,7 +2617,7 @@
         "created_at": 1738328400,
         "number": 47224,
         "state": "open",
-        "updated_at": 1738328421
+        "updated_at": 1738362249
     },
     "47226": {
         "base_branch": "master",
