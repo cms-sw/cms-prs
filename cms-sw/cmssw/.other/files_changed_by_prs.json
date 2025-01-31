@@ -2706,5 +2706,35 @@
         "number": 47231,
         "state": "open",
         "updated_at": 1738344410
+    },
+    "47232": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoTracker/LSTCore/interface/PixelSegmentsHostCollection.h",
+            "RecoTracker/LSTCore/interface/PixelSegmentsSoA.h",
+            "RecoTracker/LSTCore/interface/SegmentsHostCollection.h",
+            "RecoTracker/LSTCore/interface/SegmentsSoA.h",
+            "RecoTracker/LSTCore/interface/alpaka/PixelSegmentsDeviceCollection.h",
+            "RecoTracker/LSTCore/interface/alpaka/SegmentsDeviceCollection.h",
+            "RecoTracker/LSTCore/src/alpaka/Kernels.h",
+            "RecoTracker/LSTCore/src/alpaka/LST.cc",
+            "RecoTracker/LSTCore/src/alpaka/LSTEvent.dev.cc",
+            "RecoTracker/LSTCore/src/alpaka/LSTEvent.h",
+            "RecoTracker/LSTCore/src/alpaka/MiniDoublet.h",
+            "RecoTracker/LSTCore/src/alpaka/PixelQuintuplet.h",
+            "RecoTracker/LSTCore/src/alpaka/PixelTriplet.h",
+            "RecoTracker/LSTCore/src/alpaka/Quintuplet.h",
+            "RecoTracker/LSTCore/src/alpaka/Segment.h",
+            "RecoTracker/LSTCore/src/alpaka/TrackCandidate.h",
+            "RecoTracker/LSTCore/src/alpaka/Triplet.h",
+            "RecoTracker/LSTCore/standalone/bin/lst.cc",
+            "RecoTracker/LSTCore/standalone/code/core/trkCore.cc",
+            "RecoTracker/LSTCore/standalone/code/core/trkCore.h",
+            "RecoTracker/LSTCore/standalone/code/core/write_lst_ntuple.cc"
+        ],
+        "created_at": 1738345620,
+        "number": 47232,
+        "state": "open",
+        "updated_at": 1738345646
     }
 }
