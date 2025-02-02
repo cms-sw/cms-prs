@@ -2750,5 +2750,24 @@
         "number": 47235,
         "state": "open",
         "updated_at": 1738363537
+    },
+    "47236": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondTools/Geometry/test/writehelpers/createExtended2025DD4hepPayloads.sh",
+            "CondTools/Geometry/test/writehelpers/createExtended2025Payloads.sh",
+            "CondTools/Geometry/test/writehelpers/createExtended2026DD4hepPayloads.sh",
+            "CondTools/Geometry/test/writehelpers/createExtended2026Payloads.sh",
+            "CondTools/Geometry/test/writehelpers/geometryExtended2026DD4hep_writer.py",
+            "CondTools/Geometry/test/writehelpers/geometryExtended2026DD4hep_xmlwriter.py",
+            "CondTools/Geometry/test/writehelpers/geometryExtended2026_writer.py",
+            "CondTools/Geometry/test/writehelpers/geometryExtended2026_xmlwriter.py",
+            "CondTools/Geometry/test/writehelpers/splitExtended2025Database.sh",
+            "CondTools/Geometry/test/writehelpers/splitExtended2026Database.sh"
+        ],
+        "created_at": 1738463191,
+        "number": 47236,
+        "state": "open",
+        "updated_at": 1738463216
     }
 }
