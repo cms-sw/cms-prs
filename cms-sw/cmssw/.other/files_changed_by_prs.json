@@ -2759,32 +2759,5 @@
         "number": 47251,
         "state": "open",
         "updated_at": 1738602775
-    },
-    "47252": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DQMOffline/Trigger/interface/FunctionDefs.h",
-            "DQMOffline/Trigger/interface/VarRangeCutColl.h",
-            "DQMOffline/Trigger/src/FunctionDefs.cc",
-            "Validation/HLTrigger/BuildFile.xml",
-            "Validation/HLTrigger/interface/HLTGenResHistColl.h",
-            "Validation/HLTrigger/interface/HLTGenValHist.h",
-            "Validation/HLTrigger/interface/HLTGenValObject.h",
-            "Validation/HLTrigger/interface/HLTGenValObjectMgr.h",
-            "Validation/HLTrigger/plugins/HLTGenResSource.cc",
-            "Validation/HLTrigger/plugins/HLTGenValSource.cc",
-            "Validation/HLTrigger/python/hltvalcust.py",
-            "Validation/HLTrigger/src/HLTGenResHistColl.cc",
-            "Validation/HLTrigger/src/HLTGenValHistCollFilter.cc",
-            "Validation/HLTrigger/src/HLTGenValObjectMgr.cc",
-            "Validation/HLTrigger/src/HLTGenValPathSpecificSettingParser.cc",
-            "Validation/HLTrigger/test/doPhaseIIValidation.py",
-            "Validation/HLTrigger/test/runPhaseIIValSource_cfg.py",
-            "Validation/HLTrigger/test/runValClient_cfg.py"
-        ],
-        "created_at": 1738607523,
-        "number": 47252,
-        "state": "open",
-        "updated_at": 1738607552
     }
 }
