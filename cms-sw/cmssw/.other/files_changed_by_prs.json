@@ -2580,5 +2580,27 @@
         "number": 47266,
         "state": "open",
         "updated_at": 1738748396
+    },
+    "47268": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/L1Scouting/interface/OrbitCollection.h",
+            "DataFormats/NanoAOD/interface/FlatTable.h",
+            "FWCore/Utilities/interface/Span.h",
+            "HeterogeneousCore/SonicTriton/README.md",
+            "HeterogeneousCore/SonicTriton/interface/TritonData.h",
+            "HeterogeneousCore/SonicTriton/interface/triton_utils.h",
+            "HeterogeneousCore/SonicTriton/src/TritonData.cc",
+            "HeterogeneousCore/SonicTriton/src/triton_utils.cc",
+            "L1TriggerScouting/OnlineProcessing/plugins/FinalBxSelector.cc",
+            "L1TriggerScouting/OnlineProcessing/plugins/JetBxSelector.cc",
+            "L1TriggerScouting/OnlineProcessing/plugins/MaskOrbitBx.cc",
+            "L1TriggerScouting/OnlineProcessing/plugins/MuBxSelector.cc",
+            "L1TriggerScouting/OnlineProcessing/plugins/MuTagJetBxSelector.cc"
+        ],
+        "created_at": 1738754252,
+        "number": 47268,
+        "state": "open",
+        "updated_at": 1738754303
     }
 }
