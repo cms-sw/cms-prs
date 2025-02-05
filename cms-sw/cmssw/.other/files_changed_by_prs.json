@@ -2514,5 +2514,19 @@
         "number": 47273,
         "state": "open",
         "updated_at": 1738766400
+    },
+    "47276": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/HGCalDigi/interface/HGCalECONDPacketInfoSoA.h",
+            "EventFilter/HGCalRawToDigi/interface/HGCalUnpacker.h",
+            "EventFilter/HGCalRawToDigi/interface/Unpackertools.h",
+            "EventFilter/HGCalRawToDigi/src/HGCalUnpacker.cc",
+            "EventFilter/HGCalRawToDigi/src/Unpackertools.cc"
+        ],
+        "created_at": 1738777568,
+        "number": 47276,
+        "state": "open",
+        "updated_at": 1738777594
     }
 }
