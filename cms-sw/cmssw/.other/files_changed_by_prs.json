@@ -1585,31 +1585,6 @@
         "state": "open",
         "updated_at": 1734642475
     },
-    "46884": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "Configuration/ProcessModifiers/python/runDependentForPixelVal_cff.py",
-            "Configuration/PyReleaseValidation/python/relval_premix.py",
-            "Configuration/PyReleaseValidation/python/relval_steps.py",
-            "SimDataFormats/TrackerDigiSimLink/interface/PixelSimHitExtraInfoLite.h",
-            "SimDataFormats/TrackerDigiSimLink/src/classes.h",
-            "SimDataFormats/TrackerDigiSimLink/src/classes_def.xml",
-            "SimGeneral/MixingModule/python/SiPixelSimParameters_cfi.py",
-            "SimGeneral/MixingModule/python/aliases_cfi.py",
-            "SimGeneral/MixingModule/python/pixelDigitizer_cfi.py",
-            "SimGeneral/PreMixingModule/python/mixOne_premix_on_sim_cfi.py",
-            "SimTracker/Common/interface/SiPixelChargeReweightingAlgorithm.h",
-            "SimTracker/SiPixelDigitizer/plugins/PreMixingSiPixelWorker.cc",
-            "SimTracker/SiPixelDigitizer/plugins/SiPixelDigitizer.cc",
-            "SimTracker/SiPixelDigitizer/plugins/SiPixelDigitizer.h",
-            "SimTracker/SiPixelDigitizer/plugins/SiPixelDigitizerAlgorithm.cc",
-            "SimTracker/SiPixelDigitizer/plugins/SiPixelDigitizerAlgorithm.h"
-        ],
-        "created_at": 1733417917,
-        "number": 46884,
-        "state": "open",
-        "updated_at": 1736338058
-    },
     "46929": {
         "base_branch": "master",
         "changed_files_names": [
