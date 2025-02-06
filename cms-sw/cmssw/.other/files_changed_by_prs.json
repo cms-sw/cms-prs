@@ -2475,6 +2475,7 @@
             "HeterogeneousCore/ROCmServices/plugins/BuildFile.xml",
             "HeterogeneousCore/ROCmServices/plugins/ROCmService.cc",
             "HeterogeneousCore/ROCmServices/test/BuildFile.xml",
+            "HeterogeneousCore/ROCmServices/test/testROCmService.cpp",
             "PhysicsTools/PyTorch/test/BuildFile.xml",
             "PhysicsTools/PyTorch/test/testBaseCUDA.h",
             "PhysicsTools/TensorFlow/BuildFile.xml",
@@ -2485,7 +2486,7 @@
         "created_at": 1738840395,
         "number": 47280,
         "state": "open",
-        "updated_at": 1738840425
+        "updated_at": 1738853378
     },
     "47281": {
         "base_branch": "master",
