@@ -1654,14 +1654,17 @@
             "FWCore/ServiceRegistry/src/ESModuleConsumesInfo.cc",
             "FWCore/ServiceRegistry/src/ModuleConsumesESInfo.cc",
             "FWCore/ServiceRegistry/src/ModuleConsumesInfo.cc",
+            "FWCore/Services/plugins/DependencyGraph.cc",
             "FWCore/Services/plugins/Tracer.cc",
             "FWCore/Utilities/interface/ESGetToken.h",
-            "FWCore/Utilities/interface/Transition.h"
+            "FWCore/Utilities/interface/Transition.h",
+            "HLTrigger/Timer/src/ProcessCallGraph.cc",
+            "HeterogeneousCore/CUDAServices/plugins/NVProfilerService.cc"
         ],
         "created_at": 1734038177,
         "number": 46929,
         "state": "open",
-        "updated_at": 1738793166
+        "updated_at": 1738861653
     },
     "46954": {
         "base_branch": "CMSSW_14_0_X",
