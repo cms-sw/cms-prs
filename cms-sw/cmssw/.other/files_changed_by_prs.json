@@ -2453,5 +2453,38 @@
         "number": 47277,
         "state": "open",
         "updated_at": 1738801260
+    },
+    "47280": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/AbstractServices/BuildFile.xml",
+            "FWCore/AbstractServices/interface/ResourceInformation.h",
+            "FWCore/Utilities/interface/ResourceInformation.h",
+            "FWCore/AbstractServices/src/ResourceInformation.cc",
+            "FWCore/Framework/BuildFile.xml",
+            "FWCore/Framework/src/ScheduleItems.cc",
+            "FWCore/Services/BuildFile.xml",
+            "FWCore/Services/plugins/CPU.cc",
+            "FWCore/Services/plugins/CondorStatusUpdater.cc",
+            "FWCore/Services/plugins/ResourceInformationService.cc",
+            "FWCore/Utilities/src/ResourceInformation.cc",
+            "HeterogeneousCore/CUDAServices/plugins/BuildFile.xml",
+            "HeterogeneousCore/CUDAServices/plugins/CUDAService.cc",
+            "HeterogeneousCore/CUDAServices/test/BuildFile.xml",
+            "HeterogeneousCore/CUDAServices/test/testCUDAService.cpp",
+            "HeterogeneousCore/ROCmServices/plugins/BuildFile.xml",
+            "HeterogeneousCore/ROCmServices/plugins/ROCmService.cc",
+            "HeterogeneousCore/ROCmServices/test/BuildFile.xml",
+            "PhysicsTools/PyTorch/test/BuildFile.xml",
+            "PhysicsTools/PyTorch/test/testBaseCUDA.h",
+            "PhysicsTools/TensorFlow/BuildFile.xml",
+            "PhysicsTools/TensorFlow/src/TensorFlow.cc",
+            "PhysicsTools/TensorFlow/test/BuildFile.xml",
+            "PhysicsTools/TensorFlow/test/testBaseCUDA.h"
+        ],
+        "created_at": 1738840395,
+        "number": 47280,
+        "state": "open",
+        "updated_at": 1738840425
     }
 }
