@@ -2551,5 +2551,18 @@
         "number": 47285,
         "state": "open",
         "updated_at": 1738854428
+    },
+    "47286": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTHgcalTiclPFClusteringForEgammaL1SeededSequence_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTHgcalTiclPFClusteringForEgammaUnseededSequence_cfi.py",
+            "HLTrigger/Configuration/test/BuildFile.xml",
+            "HLTrigger/Configuration/test/check_phase2_hlt_duplicates.sh"
+        ],
+        "created_at": 1738859055,
+        "number": 47286,
+        "state": "open",
+        "updated_at": 1738859084
     }
 }
