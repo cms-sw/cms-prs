@@ -2617,5 +2617,21 @@
         "number": 47296,
         "state": "open",
         "updated_at": 1738942172
+    },
+    "47297": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "IOPool/Output/interface/PoolOutputModule.h",
+            "IOPool/Output/src/PoolOutputModule.cc",
+            "IOPool/Output/src/RootOutputFile.cc",
+            "IOPool/Output/test/BuildFile.xml",
+            "IOPool/Output/test/PoolOutputAliasTest.sh",
+            "IOPool/Output/test/PoolOutputAliasTestCheckResults.py",
+            "IOPool/Output/test/PoolOutputAliasTest_cfg.py"
+        ],
+        "created_at": 1738944442,
+        "number": 47297,
+        "state": "open",
+        "updated_at": 1738944467
     }
 }
