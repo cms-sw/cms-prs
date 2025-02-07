@@ -3042,5 +3042,17 @@
         "number": 47299,
         "state": "open",
         "updated_at": 1738951881
+    },
+    "47300": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HeterogeneousCore/AlpakaInterface/interface/warpsize.h",
+            "RecoVertex/PixelVertexFinding/plugins/alpaka/clusterTracksByDensity.h",
+            "RecoVertex/PixelVertexFinding/plugins/alpaka/sortByPt2.h"
+        ],
+        "created_at": 1738960335,
+        "number": 47300,
+        "state": "open",
+        "updated_at": 1738960361
     }
 }
