@@ -2470,6 +2470,7 @@
             "FWCore/Services/plugins/CPU.cc",
             "FWCore/Services/plugins/CondorStatusUpdater.cc",
             "FWCore/Services/plugins/ResourceInformationService.cc",
+            "FWCore/Services/test/test_resourceInformationService.sh",
             "FWCore/Utilities/src/ResourceInformation.cc",
             "HeterogeneousCore/CUDAServices/plugins/BuildFile.xml",
             "HeterogeneousCore/CUDAServices/plugins/CUDAService.cc",
@@ -2489,7 +2490,7 @@
         "created_at": 1738840395,
         "number": 47280,
         "state": "open",
-        "updated_at": 1738853378
+        "updated_at": 1738915984
     },
     "47281": {
         "base_branch": "master",
