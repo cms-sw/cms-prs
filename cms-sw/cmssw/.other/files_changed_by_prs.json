@@ -2437,15 +2437,16 @@
         "base_branch": "master",
         "changed_files_names": [
             "DataFormats/HGCalDigi/interface/HGCalECONDPacketInfoSoA.h",
+            "DataFormats/HGCalDigi/interface/HGCalRawDataDefinitions.h",
             "EventFilter/HGCalRawToDigi/interface/HGCalUnpacker.h",
-            "EventFilter/HGCalRawToDigi/interface/Unpackertools.h",
+            "EventFilter/HGCalRawToDigi/interface/UnpackerTools.h",
             "EventFilter/HGCalRawToDigi/src/HGCalUnpacker.cc",
-            "EventFilter/HGCalRawToDigi/src/Unpackertools.cc"
+            "EventFilter/HGCalRawToDigi/src/UnpackerTools.cc"
         ],
         "created_at": 1738777568,
         "number": 47276,
         "state": "open",
-        "updated_at": 1738777594
+        "updated_at": 1738916115
     },
     "47277": {
         "base_branch": "master",
