@@ -2603,5 +2603,19 @@
         "number": 47295,
         "state": "open",
         "updated_at": 1738940556
+    },
+    "47296": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "Geometry/CommonTopologies/interface/SimplePixelTopology.h",
+            "RecoTracker/PixelSeeding/plugins/CAHitNtupletGeneratorOnGPU.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGenerator.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAPixelDoubletsAlgos.h",
+            "RecoTracker/PixelSeeding/plugins/gpuPixelDoubletsAlgos.h"
+        ],
+        "created_at": 1738942147,
+        "number": 47296,
+        "state": "open",
+        "updated_at": 1738942172
     }
 }
