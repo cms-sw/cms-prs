@@ -2588,5 +2588,20 @@
         "number": 47294,
         "state": "open",
         "updated_at": 1738928864
+    },
+    "47295": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "EventFilter/EcalDigiToRaw/interface/BlockFormatter.h",
+            "EventFilter/EcalDigiToRaw/src/BlockFormatter.cc",
+            "EventFilter/EcalDigiToRaw/src/EcalDigiToRaw.cc",
+            "EventFilter/EcalDigiToRaw/src/SRBlockFormatter.cc",
+            "EventFilter/EcalDigiToRaw/src/TCCBlockFormatter.cc",
+            "EventFilter/EcalDigiToRaw/src/TowerBlockFormatter.cc"
+        ],
+        "created_at": 1738940527,
+        "number": 47295,
+        "state": "open",
+        "updated_at": 1738940556
     }
 }
