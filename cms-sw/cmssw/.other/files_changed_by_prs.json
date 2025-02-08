@@ -3066,5 +3066,28 @@
         "number": 47301,
         "state": "open",
         "updated_at": 1738960438
+    },
+    "47302": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/Eras/python/Era_Run3_2023_cff.py",
+            "Configuration/Eras/python/Era_Run3_2024_cff.py",
+            "Configuration/Eras/python/Era_Run3_2025_cff.py",
+            "Configuration/Eras/python/Modifier_run3_scouting_nanoAOD_2023_cff.py",
+            "Configuration/Eras/python/Modifier_run3_scouting_nanoAOD_2024_cff.py",
+            "Configuration/Eras/python/Modifier_run3_scouting_nanoAOD_2025_cff.py",
+            "Configuration/Eras/python/Modifier_run3_scouting_nanoAOD_post2023_cff.py",
+            "Configuration/PyReleaseValidation/python/relval_nano.py",
+            "PhysicsTools/NanoAOD/python/autoNANO.py",
+            "PhysicsTools/NanoAOD/python/custom_run3scouting_cff.py",
+            "PhysicsTools/NanoAOD/python/run3scouting_cff.py",
+            "PhysicsTools/Scouting/plugins/BuildFile.xml",
+            "PhysicsTools/Scouting/plugins/ProductExistenceFilter.cc",
+            "PhysicsTools/Scouting/python/scoutingExistenceFilter_cff.py"
+        ],
+        "created_at": 1739004811,
+        "number": 47302,
+        "state": "open",
+        "updated_at": 1739004841
     }
 }
