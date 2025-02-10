@@ -2579,5 +2579,23 @@
         "number": 47305,
         "state": "open",
         "updated_at": 1739174626
+    },
+    "47306": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/Portable/interface/PortableHostCollection.h",
+            "DataFormats/Portable/test/BuildFile.xml",
+            "DataFormats/Portable/test/test_catch2_aggregateOnHost.cc",
+            "DataFormats/SoATemplate/interface/SoACommon.h",
+            "DataFormats/SoATemplate/interface/SoALayout.h",
+            "DataFormats/SoATemplate/interface/SoAView.h",
+            "DataFormats/SoATemplate/test/BuildFile.xml",
+            "DataFormats/SoATemplate/test/SoACustomizedView_t.cc",
+            "DataFormats/SoATemplate/test/SoALayoutAndView_t.hip.cc"
+        ],
+        "created_at": 1739179466,
+        "number": 47306,
+        "state": "open",
+        "updated_at": 1739179487
     }
 }
