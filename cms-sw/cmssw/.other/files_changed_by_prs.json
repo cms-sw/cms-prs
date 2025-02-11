@@ -2479,9 +2479,11 @@
     "47306": {
         "base_branch": "master",
         "changed_files_names": [
+            "DataFormats/Portable/README.md",
             "DataFormats/Portable/interface/PortableHostCollection.h",
             "DataFormats/Portable/test/BuildFile.xml",
             "DataFormats/Portable/test/test_catch2_aggregateOnHost.cc",
+            "DataFormats/SoATemplate/README.md",
             "DataFormats/SoATemplate/interface/SoACommon.h",
             "DataFormats/SoATemplate/interface/SoALayout.h",
             "DataFormats/SoATemplate/interface/SoAView.h",
@@ -2492,7 +2494,7 @@
         "created_at": 1739179466,
         "number": 47306,
         "state": "open",
-        "updated_at": 1739179487
+        "updated_at": 1739268446
     },
     "47308": {
         "base_branch": "master",
