@@ -2427,7 +2427,6 @@
     "47300": {
         "base_branch": "master",
         "changed_files_names": [
-            "FWCore/Utilities/interface/DeviceGlobal.h",
             "HeterogeneousCore/AlpakaInterface/interface/warpsize.h",
             "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/ClusterChargeCut.h",
             "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/PixelClustering.h",
@@ -2438,7 +2437,7 @@
         "created_at": 1738960335,
         "number": 47300,
         "state": "open",
-        "updated_at": 1739338695
+        "updated_at": 1739339249
     },
     "47301": {
         "base_branch": "CMSSW_15_0_X",
