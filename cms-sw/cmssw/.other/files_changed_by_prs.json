@@ -2657,5 +2657,18 @@
         "number": 47328,
         "state": "open",
         "updated_at": 1739310626
+    },
+    "47330": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "JetMETCorrections/Modules/src/JetResolution.cc",
+            "L1Trigger/GlobalCaloTrigger/src/L1GlobalCaloTrigger.cc",
+            "RecoVertex/PixelVertexFinding/plugins/alpaka/clusterTracksDBSCAN.h",
+            "RecoVertex/PixelVertexFinding/plugins/alpaka/clusterTracksIterative.h"
+        ],
+        "created_at": 1739343928,
+        "number": 47330,
+        "state": "open",
+        "updated_at": 1739343951
     }
 }
