@@ -2543,20 +2543,5 @@
         "number": 47332,
         "state": "open",
         "updated_at": 1739347543
-    },
-    "47333": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "Configuration/Applications/python/ConfigBuilder.py",
-            "Geometry/CommonTopologies/interface/SimplePixelTopology.h",
-            "RecoTracker/PixelSeeding/plugins/CAHitNtupletGeneratorOnGPU.cc",
-            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGenerator.cc",
-            "RecoTracker/PixelSeeding/plugins/alpaka/CAPixelDoubletsAlgos.h",
-            "RecoTracker/PixelSeeding/plugins/gpuPixelDoubletsAlgos.h"
-        ],
-        "created_at": 1739356504,
-        "number": 47333,
-        "state": "open",
-        "updated_at": 1739356529
     }
 }
