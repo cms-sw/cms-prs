@@ -1654,6 +1654,7 @@
             "FWCore/ServiceRegistry/src/ESModuleConsumesInfo.cc",
             "FWCore/ServiceRegistry/src/ModuleConsumesESInfo.cc",
             "FWCore/ServiceRegistry/src/ModuleConsumesInfo.cc",
+            "FWCore/ServiceRegistry/src/PathsAndConsumesOfModulesBase.cc",
             "FWCore/Services/plugins/DependencyGraph.cc",
             "FWCore/Services/plugins/Tracer.cc",
             "FWCore/Utilities/interface/ESGetToken.h",
@@ -1664,7 +1665,7 @@
         "created_at": 1734038177,
         "number": 46929,
         "state": "open",
-        "updated_at": 1738861653
+        "updated_at": 1739386126
     },
     "46954": {
         "base_branch": "CMSSW_14_0_X",
