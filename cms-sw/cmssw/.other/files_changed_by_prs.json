@@ -2288,12 +2288,14 @@
         "base_branch": "master",
         "changed_files_names": [
             "TauAnalysis/MCEmbeddingTools/python/SelectingProcedure_cff.py",
-            "TauAnalysis/MCEmbeddingTools/python/customisers.py"
+            "TauAnalysis/MCEmbeddingTools/python/customisers.py",
+            "TauAnalysis/MCEmbeddingTools/test/BuildFile.xml",
+            "TauAnalysis/MCEmbeddingTools/test/run_2022_workflow_tests.sh"
         ],
         "created_at": 1738951855,
         "number": 47299,
         "state": "open",
-        "updated_at": 1739461685
+        "updated_at": 1739472492
     },
     "47301": {
         "base_branch": "CMSSW_15_0_X",
