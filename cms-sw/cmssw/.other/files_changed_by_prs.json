@@ -2713,6 +2713,8 @@
     "47355": {
         "base_branch": "master",
         "changed_files_names": [
+            "DQMServices/FwkIO/plugins/DQMRootOutputModule.cc",
+            "DQMServices/FwkIO/plugins/format.h",
             "DataFormats/Provenance/interface/HardwareResourcesDescription.h",
             "DataFormats/Provenance/interface/ModuleDescription.h",
             "DataFormats/Provenance/interface/ProcessConfiguration.h",
@@ -2757,6 +2759,6 @@
         "created_at": 1739562613,
         "number": 47355,
         "state": "open",
-        "updated_at": 1739562670
+        "updated_at": 1739571470
     }
 }
