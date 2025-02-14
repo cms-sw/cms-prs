@@ -2605,5 +2605,31 @@
         "number": 47347,
         "state": "open",
         "updated_at": 1739481247
+    },
+    "47348": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/L1Trigger/interface/TkLightMesonWord.h",
+            "DataFormats/L1Trigger/src/TkLightMesonWord.cc",
+            "DataFormats/L1Trigger/src/classes.h",
+            "DataFormats/L1Trigger/src/classes_def.xml",
+            "L1Trigger/L1TTrackMatch/plugins/L1BsMesonSelectionEmulationProducer.cc",
+            "L1Trigger/L1TTrackMatch/plugins/L1BsMesonSelectionProducer.cc",
+            "L1Trigger/L1TTrackMatch/plugins/L1KaonTrackSelectionProducer.cc",
+            "L1Trigger/L1TTrackMatch/plugins/L1PhiMesonSelectionEmulationProducer.cc",
+            "L1Trigger/L1TTrackMatch/plugins/L1PhiMesonSelectionProducer.cc",
+            "L1Trigger/L1TTrackMatch/plugins/L1TrackWordUnpacker.h",
+            "L1Trigger/L1TTrackMatch/python/l1BsMesonSelectionEmulationProducer_cfi.py",
+            "L1Trigger/L1TTrackMatch/python/l1BsMesonSelectionProducer_cfi.py",
+            "L1Trigger/L1TTrackMatch/python/l1KaonTrackSelectionProducer_cfi.py",
+            "L1Trigger/L1TTrackMatch/python/l1PhiMesonSelectionEmulationProducer_cfi.py",
+            "L1Trigger/L1TTrackMatch/python/l1PhiMesonSelectionProducer_cfi.py",
+            "L1Trigger/L1TTrackMatch/test/L1TrackObjectNtupleMaker.cc",
+            "L1Trigger/L1TTrackMatch/test/L1TrackObjectNtupleMaker_cfg.py"
+        ],
+        "created_at": 1739514256,
+        "number": 47348,
+        "state": "open",
+        "updated_at": 1739514281
     }
 }
