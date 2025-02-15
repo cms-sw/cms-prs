@@ -1524,6 +1524,8 @@
     "46821": {
         "base_branch": "master",
         "changed_files_names": [
+            "DataFormats/Common/interface/Wrapper.h",
+            "DataFormats/Common/interface/WrapperBase.h",
             "DataFormats/Provenance/interface/BranchPattern.h",
             "DataFormats/Provenance/src/BranchPattern.cc",
             "FWCore/Framework/interface/GenericProduct.h",
@@ -1536,7 +1538,7 @@
         "created_at": 1732777077,
         "number": 46821,
         "state": "open",
-        "updated_at": 1739557412
+        "updated_at": 1739606937
     },
     "46838": {
         "base_branch": "master",
