@@ -1530,8 +1530,19 @@
             "DataFormats/METReco/src/PhiWedge.cc",
             "DataFormats/Provenance/interface/BranchPattern.h",
             "DataFormats/Provenance/src/BranchPattern.cc",
+            "DataFormats/TestObjects/interface/ThingWithDoNotSort.h",
+            "DataFormats/TestObjects/interface/ThingWithPostInsert.h",
+            "DataFormats/TestObjects/src/classes.h",
+            "DataFormats/TestObjects/src/classes_def.xml",
             "FWCore/Framework/interface/GenericProduct.h",
+            "FWCore/Integration/plugins/BuildFile.xml",
+            "FWCore/Integration/plugins/GenericProductProducer.cc",
+            "FWCore/Integration/plugins/PostInsertProducer.cc",
+            "FWCore/Integration/test/BuildFile.xml",
+            "FWCore/Integration/test/testGenericProductProducer_cg.py",
+            "FWCore/Integration/test/testPostInsertProducer_cfg.py",
             "FWCore/Modules/src/GenericConsumer.cc",
+            "FWCore/Reflection/interface/ObjectWithDict.h",
             "FWCore/TestModules/README.md",
             "FWCore/TestModules/plugins/GenericCloner.cc",
             "FWCore/TestModules/test/BuildFile.xml",
@@ -1540,7 +1551,7 @@
         "created_at": 1732777077,
         "number": 46821,
         "state": "open",
-        "updated_at": 1739629699
+        "updated_at": 1739742303
     },
     "46838": {
         "base_branch": "master",
