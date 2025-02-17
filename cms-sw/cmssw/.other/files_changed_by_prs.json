@@ -1530,6 +1530,8 @@
             "DataFormats/METReco/src/PhiWedge.cc",
             "DataFormats/Provenance/interface/BranchPattern.h",
             "DataFormats/Provenance/src/BranchPattern.cc",
+            "DataFormats/Provenance/test/BranchPattern_t.cpp",
+            "DataFormats/Provenance/test/BuildFile.xml",
             "DataFormats/TestObjects/interface/ThingWithDoNotSort.h",
             "DataFormats/TestObjects/interface/ThingWithPostInsert.h",
             "DataFormats/TestObjects/src/classes.h",
@@ -1551,7 +1553,7 @@
         "created_at": 1732777077,
         "number": 46821,
         "state": "open",
-        "updated_at": 1739742303
+        "updated_at": 1739810758
     },
     "46838": {
         "base_branch": "master",
