@@ -1528,10 +1528,10 @@
             "DataFormats/Common/interface/WrapperBase.h",
             "DataFormats/METReco/interface/PhiWedge.h",
             "DataFormats/METReco/src/PhiWedge.cc",
-            "DataFormats/Provenance/interface/BranchPattern.h",
-            "DataFormats/Provenance/src/BranchPattern.cc",
-            "DataFormats/Provenance/test/BranchPattern_t.cpp",
+            "DataFormats/Provenance/interface/ProductNamePattern.h",
+            "DataFormats/Provenance/src/ProductNamePattern.cc",
             "DataFormats/Provenance/test/BuildFile.xml",
+            "DataFormats/Provenance/test/ProductNamePattern_t.cpp",
             "DataFormats/TestObjects/interface/ThingWithDoNotSort.h",
             "DataFormats/TestObjects/interface/ThingWithPostInsert.h",
             "DataFormats/TestObjects/src/classes.h",
@@ -1541,7 +1541,7 @@
             "FWCore/Integration/plugins/GenericProductProducer.cc",
             "FWCore/Integration/plugins/PostInsertProducer.cc",
             "FWCore/Integration/test/BuildFile.xml",
-            "FWCore/Integration/test/testGenericProductProducer_cg.py",
+            "FWCore/Integration/test/testGenericProductProducer_cfg.py",
             "FWCore/Integration/test/testPostInsertProducer_cfg.py",
             "FWCore/Modules/src/GenericConsumer.cc",
             "FWCore/Reflection/interface/ObjectWithDict.h",
@@ -1553,7 +1553,7 @@
         "created_at": 1732777077,
         "number": 46821,
         "state": "open",
-        "updated_at": 1739810758
+        "updated_at": 1739821997
     },
     "46838": {
         "base_branch": "master",
