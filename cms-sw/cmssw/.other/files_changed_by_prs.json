@@ -2893,5 +2893,36 @@
         "number": 47371,
         "state": "open",
         "updated_at": 1739798215
+    },
+    "47373": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/GEMDigi/interface/ME0Stub.h",
+            "DataFormats/GEMDigi/interface/ME0StubCollection.h",
+            "DataFormats/GEMDigi/src/classes.h",
+            "DataFormats/GEMDigi/src/classes_def.xml",
+            "L1Trigger/L1TGEM/interface/ME0StubAlgoChamber.h",
+            "L1Trigger/L1TGEM/interface/ME0StubAlgoMask.h",
+            "L1Trigger/L1TGEM/interface/ME0StubAlgoPartition.h",
+            "L1Trigger/L1TGEM/interface/ME0StubAlgoPatUnit.h",
+            "L1Trigger/L1TGEM/interface/ME0StubAlgoPatUnitMux.h",
+            "L1Trigger/L1TGEM/interface/ME0StubAlgoSubfunction.h",
+            "L1Trigger/L1TGEM/interface/ME0StubPrimitive.h",
+            "L1Trigger/L1TGEM/plugins/ME0StubBuilder.cc",
+            "L1Trigger/L1TGEM/plugins/ME0StubBuilder.h",
+            "L1Trigger/L1TGEM/plugins/ME0StubProducer.cc",
+            "L1Trigger/L1TGEM/python/me0Stubs_cfi.py",
+            "L1Trigger/L1TGEM/src/ME0StubAlgoChamber.cc",
+            "L1Trigger/L1TGEM/src/ME0StubAlgoMask.cc",
+            "L1Trigger/L1TGEM/src/ME0StubAlgoPartition.cc",
+            "L1Trigger/L1TGEM/src/ME0StubAlgoPatUnit.cc",
+            "L1Trigger/L1TGEM/src/ME0StubAlgoPatUnitMux.cc",
+            "L1Trigger/L1TGEM/src/ME0StubAlgoSubfunction.cc",
+            "L1Trigger/L1TGEM/src/ME0StubPrimitive.cc"
+        ],
+        "created_at": 1739799726,
+        "number": 47373,
+        "state": "open",
+        "updated_at": 1739799756
     }
 }
