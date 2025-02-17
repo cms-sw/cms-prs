@@ -2799,5 +2799,19 @@
         "number": 47364,
         "state": "open",
         "updated_at": 1739783137
+    },
+    "47365": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondTools/Geometry/test/writehelpers/createExtended2024DD4hepPayloads.sh",
+            "CondTools/Geometry/test/writehelpers/createExtended2025DD4hepPayloads.sh",
+            "CondTools/Geometry/test/writehelpers/createExtended2025Payloads.sh",
+            "CondTools/Geometry/test/writehelpers/geometryExtended2025_writer.py",
+            "CondTools/Geometry/test/writehelpers/geometryExtended2025_xmlwriter.py"
+        ],
+        "created_at": 1739790775,
+        "number": 47365,
+        "state": "open",
+        "updated_at": 1739790805
     }
 }
