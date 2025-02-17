@@ -2230,21 +2230,6 @@
         "state": "open",
         "updated_at": 1739472492
     },
-    "47301": {
-        "base_branch": "CMSSW_15_0_X",
-        "changed_files_names": [
-            "HeterogeneousCore/AlpakaInterface/interface/warpsize.h",
-            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/ClusterChargeCut.h",
-            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/PixelClustering.h",
-            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToClusterKernel.dev.cc",
-            "RecoVertex/PixelVertexFinding/plugins/alpaka/clusterTracksByDensity.h",
-            "RecoVertex/PixelVertexFinding/plugins/alpaka/sortByPt2.h"
-        ],
-        "created_at": 1738960373,
-        "number": 47301,
-        "state": "open",
-        "updated_at": 1739428624
-    },
     "47302": {
         "base_branch": "master",
         "changed_files_names": [
