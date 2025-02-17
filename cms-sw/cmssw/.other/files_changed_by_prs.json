@@ -2833,5 +2833,19 @@
         "number": 47366,
         "state": "open",
         "updated_at": 1739792776
+    },
+    "47367": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/Eras/python/Era_Run2024_approxSiStripCluster.py",
+            "DataFormats/SiStripCluster/interface/SiStripApproximateCluster.h",
+            "DataFormats/SiStripCluster/src/SiStripApproximateCluster.cc",
+            "DataFormats/SiStripCluster/src/SiStripCluster.cc",
+            "DataFormats/SiStripCluster/src/classes_def.xml"
+        ],
+        "created_at": 1739794980,
+        "number": 47367,
+        "state": "open",
+        "updated_at": 1739795007
     }
 }
