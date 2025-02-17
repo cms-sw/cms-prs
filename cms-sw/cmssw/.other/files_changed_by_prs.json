@@ -2724,12 +2724,15 @@
         "base_branch": "master",
         "changed_files_names": [
             "DataFormats/Common/interface/Handle.h",
-            "DataFormats/Common/interface/OrphanHandle.h"
+            "DataFormats/Common/interface/HandleBase.h",
+            "DataFormats/Common/interface/OrphanHandle.h",
+            "DataFormats/Common/interface/OrphanHandleBase.h",
+            "DataFormats/Common/src/OrphanHandleBase.cc"
         ],
         "created_at": 1739625109,
         "number": 47357,
         "state": "open",
-        "updated_at": 1739625157
+        "updated_at": 1739826684
     },
     "47359": {
         "base_branch": "master",
