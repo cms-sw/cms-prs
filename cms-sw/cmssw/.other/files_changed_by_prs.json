@@ -3085,5 +3085,24 @@
         "number": 47380,
         "state": "open",
         "updated_at": 1739841030
+    },
+    "47381": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondTools/Geometry/test/writehelpers/createExtended2016Payloads.sh",
+            "CondTools/Geometry/test/writehelpers/createExtended2017Payloads.sh",
+            "CondTools/Geometry/test/writehelpers/createExtended2017Plan1Payloads.sh",
+            "CondTools/Geometry/test/writehelpers/createExtended2018Payloads.sh",
+            "CondTools/Geometry/test/writehelpers/geometryExtended2016_writer.py",
+            "CondTools/Geometry/test/writehelpers/geometryExtended2017Plan1_writer.py",
+            "CondTools/Geometry/test/writehelpers/geometryExtended2017Plan1_xmlwriter.py",
+            "CondTools/Geometry/test/writehelpers/geometryExtended2017_writer.py",
+            "CondTools/Geometry/test/writehelpers/geometryExtended2018_writer.py",
+            "CondTools/Geometry/test/writehelpers/geometryExtended2018_xmlwriter.py"
+        ],
+        "created_at": 1739850025,
+        "number": 47381,
+        "state": "open",
+        "updated_at": 1739850047
     }
 }
