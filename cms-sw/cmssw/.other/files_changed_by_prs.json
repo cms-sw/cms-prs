@@ -2694,7 +2694,8 @@
     "47367": {
         "base_branch": "master",
         "changed_files_names": [
-            "Configuration/Eras/python/Era_Run2024_approxSiStripCluster.py",
+            "Configuration/Eras/python/Era_Run3_2024_approxSiStripClusters_cff.py",
+            "Configuration/StandardSequences/python/Eras.py",
             "DataFormats/SiStripCluster/interface/SiStripApproximateCluster.h",
             "DataFormats/SiStripCluster/src/SiStripApproximateCluster.cc",
             "DataFormats/SiStripCluster/src/SiStripCluster.cc",
@@ -2703,7 +2704,7 @@
         "created_at": 1739794980,
         "number": 47367,
         "state": "open",
-        "updated_at": 1739795007
+        "updated_at": 1739871851
     },
     "47370": {
         "base_branch": "master",
