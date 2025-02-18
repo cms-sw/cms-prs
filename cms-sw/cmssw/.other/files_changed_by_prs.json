@@ -2547,6 +2547,7 @@
             "Configuration/Geometry/python/GeometryExtendedRun4D117Reco_cff.py",
             "Configuration/Geometry/python/GeometryExtendedRun4D117_cff.py",
             "Configuration/Geometry/python/dictRun4Geometry.py",
+            "Configuration/PyReleaseValidation/python/relval_Run4.py",
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
             "Configuration/StandardSequences/python/GeometryConf.py",
             "DataFormats/ForwardDetId/interface/BTLDetId.h",
@@ -2578,7 +2579,7 @@
         "created_at": 1739540473,
         "number": 47353,
         "state": "open",
-        "updated_at": 1739540490
+        "updated_at": 1739867846
     },
     "47355": {
         "base_branch": "master",
