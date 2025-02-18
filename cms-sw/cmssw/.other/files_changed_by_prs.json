@@ -2699,12 +2699,13 @@
             "DataFormats/SiStripCluster/interface/SiStripApproximateCluster.h",
             "DataFormats/SiStripCluster/src/SiStripApproximateCluster.cc",
             "DataFormats/SiStripCluster/src/SiStripCluster.cc",
-            "DataFormats/SiStripCluster/src/classes_def.xml"
+            "DataFormats/SiStripCluster/src/classes_def.xml",
+            "DataFormats/SiStripCluster/test/TestReadSiStripApproximateClusterCollection.cc"
         ],
         "created_at": 1739794980,
         "number": 47367,
         "state": "open",
-        "updated_at": 1739871851
+        "updated_at": 1739889375
     },
     "47370": {
         "base_branch": "master",
