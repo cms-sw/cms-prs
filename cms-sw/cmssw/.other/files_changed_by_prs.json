@@ -1582,22 +1582,20 @@
         "changed_files_names": [
             "DataFormats/Provenance/interface/ProductRegistry.h",
             "DataFormats/Provenance/src/ProductRegistry.cc",
-            "DataFormats/TestObjects/BuildFile.xml",
-            "DataFormats/TestObjects/interface/MissingDictionaryCUDAObject.h",
-            "DataFormats/TestObjects/src/classes_cuda.h",
-            "DataFormats/TestObjects/src/classes_cuda_def.xml",
             "FWCore/Framework/src/Schedule.cc",
             "FWCore/Framework/test/productregistry.cppunit.cc",
-            "FWCore/Integration/plugins/BuildFile.xml",
-            "FWCore/Integration/plugins/MissingDictionaryCUDAProducer.cc",
-            "FWCore/Integration/test/BuildFile.xml",
-            "FWCore/Integration/test/testMissingDictionaryCUDAChecking.sh",
-            "FWCore/Integration/test/testMissingDictionaryCUDAChecking_cfg.py"
+            "HeterogeneousCore/CUDATest/interface/MissingDictionaryCUDAObject.h",
+            "HeterogeneousCore/CUDATest/plugins/MissingDictionaryCUDAProducer.cc",
+            "HeterogeneousCore/CUDATest/src/classes.h",
+            "HeterogeneousCore/CUDATest/src/classes_def.xml",
+            "HeterogeneousCore/CUDATest/test/BuildFile.xml",
+            "HeterogeneousCore/CUDATest/test/testMissingDictionaryCUDA.sh",
+            "HeterogeneousCore/CUDATest/test/testMissingDictionaryCUDA_cfg.py"
         ],
         "created_at": 1733258754,
         "number": 46858,
         "state": "open",
-        "updated_at": 1738913935
+        "updated_at": 1739947985
     },
     "46954": {
         "base_branch": "CMSSW_14_0_X",
