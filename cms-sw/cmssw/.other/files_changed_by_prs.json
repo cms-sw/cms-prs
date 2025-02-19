@@ -2465,7 +2465,6 @@
             "DataFormats/Provenance/test/HardwareResourcesDescription_t.cpp",
             "FWCore/AbstractServices/BuildFile.xml",
             "FWCore/AbstractServices/interface/ResourceInformation.h",
-            "FWCore/AbstractServices/src/ResourceInformation.cc",
             "FWCore/Framework/src/ScheduleItems.cc",
             "FWCore/Framework/test/Event_t.cpp",
             "FWCore/Framework/test/checkForModuleDependencyCorrectness_t.cppunit.cc",
@@ -2473,11 +2472,13 @@
             "FWCore/Framework/test/event_getrefbeforeput_t.cppunit.cc",
             "FWCore/Framework/test/eventprincipal_t.cppunit.cc",
             "FWCore/Framework/test/generichandle_t.cppunit.cc",
+            "FWCore/Framework/test/makeDummyProcessConfiguration.h",
             "FWCore/Framework/test/maker2_t.cppunit.cc",
             "FWCore/Integration/plugins/DelayedReaderThrowingSource.cc",
             "FWCore/Integration/plugins/PutOrMergeTestSource.cc",
             "FWCore/Integration/test/ProcessConfiguration_t.cpp",
             "FWCore/Integration/test/ProcessHistory_t.cpp",
+            "FWCore/Services/plugins/ResourceInformationService.cc",
             "FWCore/Sources/src/DaqProvenanceHelper.cc",
             "FWCore/TestProcessor/src/TestProcessor.cc",
             "GeneratorInterface/LHEInterface/plugins/BuildFile.xml",
@@ -2502,7 +2503,7 @@
         "created_at": 1739562613,
         "number": 47355,
         "state": "open",
-        "updated_at": 1739821988
+        "updated_at": 1739985217
     },
     "47357": {
         "base_branch": "master",
