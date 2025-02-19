@@ -2587,6 +2587,7 @@
             "Configuration/PyReleaseValidation/python/MatrixRunner.py",
             "Configuration/PyReleaseValidation/python/MatrixUtil.py",
             "Configuration/PyReleaseValidation/python/WorkFlowRunner.py",
+            "Configuration/PyReleaseValidation/python/relval_data_highstats.py",
             "Configuration/PyReleaseValidation/python/relval_steps.py",
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
             "Configuration/PyReleaseValidation/scripts/runTheMatrix.py"
@@ -2594,7 +2595,7 @@
         "created_at": 1739806060,
         "number": 47377,
         "state": "open",
-        "updated_at": 1739806088
+        "updated_at": 1739999306
     },
     "47378": {
         "base_branch": "master",
