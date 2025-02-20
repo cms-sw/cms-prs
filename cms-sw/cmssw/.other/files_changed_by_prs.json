@@ -1516,10 +1516,14 @@
             "FWCore/Framework/interface/GenericProduct.h",
             "FWCore/Integration/plugins/BuildFile.xml",
             "FWCore/Integration/plugins/GenericProductProducer.cc",
+            "FWCore/Integration/plugins/GlobalIntProducer.cc",
+            "FWCore/Integration/plugins/GlobalStringAnalyzer.cc",
+            "FWCore/Integration/plugins/GlobalStringProducer.cc",
             "FWCore/Integration/plugins/PostInsertProducer.cc",
             "FWCore/Integration/test/BuildFile.xml",
             "FWCore/Integration/test/testGenericProductProducer_cfg.py",
             "FWCore/Integration/test/testPostInsertProducer_cfg.py",
+            "FWCore/Integration/test/testStdProducts_cfg.py",
             "FWCore/Modules/src/GenericConsumer.cc",
             "FWCore/Reflection/interface/ObjectWithDict.h",
             "FWCore/TestModules/README.md",
@@ -1530,7 +1534,7 @@
         "created_at": 1732777077,
         "number": 46821,
         "state": "open",
-        "updated_at": 1739990890
+        "updated_at": 1740085456
     },
     "46838": {
         "base_branch": "master",
