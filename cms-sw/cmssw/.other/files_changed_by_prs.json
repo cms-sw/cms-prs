@@ -3008,5 +3008,26 @@
         "number": 47424,
         "state": "open",
         "updated_at": 1740155624
+    },
+    "47425": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/TestObjects/interface/ThingWithDoNotSort.h",
+            "DataFormats/TestObjects/interface/ThingWithPostInsert.h",
+            "DataFormats/TestObjects/src/classes.h",
+            "DataFormats/TestObjects/src/classes_def.xml",
+            "FWCore/Integration/plugins/BuildFile.xml",
+            "FWCore/Integration/plugins/GlobalIntProducer.cc",
+            "FWCore/Integration/plugins/GlobalStringAnalyzer.cc",
+            "FWCore/Integration/plugins/GlobalStringProducer.cc",
+            "FWCore/Integration/plugins/PostInsertProducer.cc",
+            "FWCore/Integration/test/BuildFile.xml",
+            "FWCore/Integration/test/testPostInsertProducer_cfg.py",
+            "FWCore/Integration/test/testStdProducts_cfg.py"
+        ],
+        "created_at": 1740162486,
+        "number": 47425,
+        "state": "open",
+        "updated_at": 1740162528
     }
 }
