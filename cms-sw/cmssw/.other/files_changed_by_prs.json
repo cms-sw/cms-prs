@@ -1504,7 +1504,6 @@
         "changed_files_names": [
             "DataFormats/Common/interface/Wrapper.h",
             "DataFormats/Common/interface/WrapperBase.h",
-            "DataFormats/HcalDigi/src/classes.h",
             "DataFormats/Provenance/interface/ProductNamePattern.h",
             "DataFormats/Provenance/src/ProductNamePattern.cc",
             "DataFormats/Provenance/test/BuildFile.xml",
@@ -1516,9 +1515,14 @@
             "FWCore/Framework/interface/GenericProduct.h",
             "FWCore/Integration/plugins/BuildFile.xml",
             "FWCore/Integration/plugins/GenericProductProducer.cc",
+            "FWCore/Integration/plugins/GlobalFloatAnalyzer.cc",
+            "FWCore/Integration/plugins/GlobalFloatProducer.cc",
+            "FWCore/Integration/plugins/GlobalIntAnalyzer.cc",
             "FWCore/Integration/plugins/GlobalIntProducer.cc",
             "FWCore/Integration/plugins/GlobalStringAnalyzer.cc",
             "FWCore/Integration/plugins/GlobalStringProducer.cc",
+            "FWCore/Integration/plugins/GlobalVectorAnalyzer.cc",
+            "FWCore/Integration/plugins/GlobalVectorProducer.cc",
             "FWCore/Integration/plugins/PostInsertProducer.cc",
             "FWCore/Integration/test/BuildFile.xml",
             "FWCore/Integration/test/testGenericProductProducer_cfg.py",
@@ -1534,7 +1538,7 @@
         "created_at": 1732777077,
         "number": 46821,
         "state": "open",
-        "updated_at": 1740085456
+        "updated_at": 1740238551
     },
     "46838": {
         "base_branch": "master",
