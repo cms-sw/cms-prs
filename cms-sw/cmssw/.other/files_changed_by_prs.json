@@ -2967,23 +2967,23 @@
             "DataFormats/TestObjects/src/classes.h",
             "DataFormats/TestObjects/src/classes_def.xml",
             "FWCore/Integration/plugins/BuildFile.xml",
-            "FWCore/Integration/plugins/GlobalFloatAnalyzer.cc",
-            "FWCore/Integration/plugins/GlobalFloatProducer.cc",
-            "FWCore/Integration/plugins/GlobalIntAnalyzer.cc",
-            "FWCore/Integration/plugins/GlobalIntProducer.cc",
-            "FWCore/Integration/plugins/GlobalStringAnalyzer.cc",
-            "FWCore/Integration/plugins/GlobalStringProducer.cc",
-            "FWCore/Integration/plugins/GlobalVectorAnalyzer.cc",
-            "FWCore/Integration/plugins/GlobalVectorProducer.cc",
             "FWCore/Integration/plugins/PostInsertProducer.cc",
             "FWCore/Integration/test/BuildFile.xml",
             "FWCore/Integration/test/testPostInsertProducer_cfg.py",
-            "FWCore/Integration/test/testStdProducts_cfg.py"
+            "FWCore/Integration/test/testStdProducts_cfg.py",
+            "FWCore/TestModules/plugins/GlobalFloatAnalyzer.cc",
+            "FWCore/TestModules/plugins/GlobalFloatProducer.cc",
+            "FWCore/TestModules/plugins/GlobalIntAnalyzer.cc",
+            "FWCore/TestModules/plugins/GlobalIntProducer.cc",
+            "FWCore/TestModules/plugins/GlobalStringAnalyzer.cc",
+            "FWCore/TestModules/plugins/GlobalStringProducer.cc",
+            "FWCore/TestModules/plugins/GlobalVectorAnalyzer.cc",
+            "FWCore/TestModules/plugins/GlobalVectorProducer.cc"
         ],
         "created_at": 1740162486,
         "number": 47425,
         "state": "open",
-        "updated_at": 1740229739
+        "updated_at": 1740433906
     },
     "47428": {
         "base_branch": "master",
