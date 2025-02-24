@@ -3096,5 +3096,20 @@
         "number": 47433,
         "state": "open",
         "updated_at": 1740410988
+    },
+    "47434": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltL1GTAlgoBlockBigORFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/paths/DST_PFScouting_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTTrackingSequence_cfi.py",
+            "HLTrigger/Configuration/python/HLT_NGTScouting_cff.py",
+            "HLTrigger/Configuration/scripts/hltPhase2UpgradeIntegrationTests"
+        ],
+        "created_at": 1740412268,
+        "number": 47434,
+        "state": "open",
+        "updated_at": 1740412296
     }
 }
