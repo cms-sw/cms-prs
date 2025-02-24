@@ -2661,7 +2661,6 @@
     "47402": {
         "base_branch": "CMSSW_15_1_RNTUPLE_X",
         "changed_files_names": [
-            "FWCore/Services/plugins/InitRootHandlers.cc",
             "FWIO/RNTuple/bin/BuildFile.xml",
             "FWIO/RNTuple/bin/edmRntupleStorage.cc",
             "FWIO/RNTuple/plugins/BuildFile.xml",
@@ -2683,7 +2682,7 @@
         "created_at": 1739989039,
         "number": 47402,
         "state": "open",
-        "updated_at": 1740145346
+        "updated_at": 1740421637
     },
     "47403": {
         "base_branch": "CMSSW_12_4_X",
