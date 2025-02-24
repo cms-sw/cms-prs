@@ -2419,6 +2419,7 @@
             "Geometry/MTDCommonData/test/DD4hep_TestMTDIdealGeometry.cc",
             "Geometry/MTDCommonData/test/testMTDinDD4hep.py",
             "Geometry/MTDGeometryBuilder/src/MTDParametersFromDD.cc",
+            "Geometry/MTDGeometryBuilder/src/MTDTopology.cc",
             "Geometry/MTDGeometryBuilder/test/DD4hep_TestPixelTopology.cc",
             "Geometry/MTDNumberingBuilder/plugins/CmsMTDConstruction.cc",
             "Geometry/MTDNumberingBuilder/src/CmsMTDStringToEnum.cc",
@@ -2429,7 +2430,7 @@
         "created_at": 1739540473,
         "number": 47353,
         "state": "open",
-        "updated_at": 1740037662
+        "updated_at": 1740403409
     },
     "47355": {
         "base_branch": "master",
