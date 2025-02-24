@@ -3082,5 +3082,19 @@
         "number": 47432,
         "state": "open",
         "updated_at": 1740408166
+    },
+    "47433": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "L1Trigger/L1TCaloLayer1/src/L1TCaloLayer1FetchLUTs.cc",
+            "L1Trigger/L1TCalorimeter/interface/CaloParamsHelper.h",
+            "L1Trigger/L1TCalorimeter/plugins/L1TCaloParamsESProducer.cc",
+            "L1Trigger/L1TCalorimeter/plugins/L1TCaloStage2ParamsESProducer.cc",
+            "L1Trigger/L1TCalorimeter/python/caloParams_2025_v0_1_cfi.py"
+        ],
+        "created_at": 1740410953,
+        "number": 47433,
+        "state": "open",
+        "updated_at": 1740410988
     }
 }
