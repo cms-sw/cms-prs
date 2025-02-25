@@ -3196,6 +3196,7 @@
     "47445": {
         "base_branch": "CMSSW_15_0_X",
         "changed_files_names": [
+            "DataFormats/Provenance/BuildFile.xml",
             "DataFormats/Provenance/interface/ProductNamePattern.h",
             "DataFormats/Provenance/src/ProductNamePattern.cc",
             "DataFormats/Provenance/test/BuildFile.xml",
@@ -3225,7 +3226,7 @@
         "created_at": 1740483978,
         "number": 47445,
         "state": "open",
-        "updated_at": 1740492584
+        "updated_at": 1740494997
     },
     "47446": {
         "base_branch": "CMSSW_15_0_X",
