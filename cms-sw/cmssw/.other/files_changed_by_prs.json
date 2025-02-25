@@ -2763,38 +2763,6 @@
         "state": "open",
         "updated_at": 1740382768
     },
-    "47410": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "EventFilter/Utilities/doc/README-DTH.md",
-            "EventFilter/Utilities/interface/DAQSource.h",
-            "EventFilter/Utilities/interface/DAQSourceModels.h",
-            "EventFilter/Utilities/interface/DAQSourceModelsDTH.h",
-            "EventFilter/Utilities/interface/DAQSourceModelsFRD.h",
-            "EventFilter/Utilities/interface/DAQSourceModelsScoutingRun3.h",
-            "EventFilter/Utilities/interface/DTHHeaders.h",
-            "EventFilter/Utilities/interface/EvFDaqDirector.h",
-            "EventFilter/Utilities/interface/FedRawDataInputSource.h",
-            "EventFilter/Utilities/interface/SourceRawFile.h",
-            "EventFilter/Utilities/plugins/DTHFakeReader.cc",
-            "EventFilter/Utilities/src/DAQSource.cc",
-            "EventFilter/Utilities/src/DAQSourceModelsDTH.cc",
-            "EventFilter/Utilities/src/DAQSourceModelsFRD.cc",
-            "EventFilter/Utilities/src/DAQSourceModelsScoutingRun3.cc",
-            "EventFilter/Utilities/src/EvFDaqDirector.cc",
-            "EventFilter/Utilities/src/FedRawDataInputSource.cc",
-            "EventFilter/Utilities/test/RunBUFU.sh",
-            "EventFilter/Utilities/test/dump_test.py",
-            "EventFilter/Utilities/test/startFU.py",
-            "EventFilter/Utilities/test/startFU_daqsource.py",
-            "EventFilter/Utilities/test/startFU_ds_multi.py",
-            "EventFilter/Utilities/test/unittest_FU_daqsource.py"
-        ],
-        "created_at": 1740043702,
-        "number": 47410,
-        "state": "open",
-        "updated_at": 1740145047
-    },
     "47411": {
         "base_branch": "master",
         "changed_files_names": [
