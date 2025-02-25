@@ -3173,5 +3173,33 @@
         "number": 47442,
         "state": "open",
         "updated_at": 1740479303
+    },
+    "47443": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "DataFormats/TestObjects/interface/ThingWithDoNotSort.h",
+            "DataFormats/TestObjects/interface/ThingWithPostInsert.h",
+            "DataFormats/TestObjects/src/classes.h",
+            "DataFormats/TestObjects/src/classes_def.xml",
+            "FWCore/Integration/plugins/BuildFile.xml",
+            "FWCore/Integration/plugins/PostInsertProducer.cc",
+            "FWCore/Integration/test/BuildFile.xml",
+            "FWCore/Integration/test/testPostInsertProducer_cfg.py",
+            "FWCore/Integration/test/testStdProducts_cfg.py",
+            "FWCore/Reflection/interface/ObjectWithDict.h",
+            "FWCore/Reflection/src/ObjectWithDict.cc",
+            "FWCore/TestModules/plugins/GlobalFloatAnalyzer.cc",
+            "FWCore/TestModules/plugins/GlobalFloatProducer.cc",
+            "FWCore/TestModules/plugins/GlobalIntAnalyzer.cc",
+            "FWCore/TestModules/plugins/GlobalIntProducer.cc",
+            "FWCore/TestModules/plugins/GlobalStringAnalyzer.cc",
+            "FWCore/TestModules/plugins/GlobalStringProducer.cc",
+            "FWCore/TestModules/plugins/GlobalVectorAnalyzer.cc",
+            "FWCore/TestModules/plugins/GlobalVectorProducer.cc"
+        ],
+        "created_at": 1740479346,
+        "number": 47443,
+        "state": "open",
+        "updated_at": 1740479370
     }
 }
