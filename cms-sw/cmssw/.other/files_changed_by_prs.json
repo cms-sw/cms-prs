@@ -2628,33 +2628,6 @@
         "state": "open",
         "updated_at": 1739953360
     },
-    "47402": {
-        "base_branch": "CMSSW_15_1_RNTUPLE_X",
-        "changed_files_names": [
-            "FWIO/RNTuple/README.md",
-            "FWIO/RNTuple/bin/BuildFile.xml",
-            "FWIO/RNTuple/bin/edmRntupleStorage.cc",
-            "FWIO/RNTuple/plugins/BuildFile.xml",
-            "FWIO/RNTuple/plugins/DataProductsRNTuple.cc",
-            "FWIO/RNTuple/plugins/DataProductsRNTuple.h",
-            "FWIO/RNTuple/plugins/RNTupleDelayedReader.cc",
-            "FWIO/RNTuple/plugins/RNTupleDelayedReader.h",
-            "FWIO/RNTuple/plugins/RNTupleInputFile.cc",
-            "FWIO/RNTuple/plugins/RNTupleInputFile.h",
-            "FWIO/RNTuple/plugins/RNTupleOutputFile.cc",
-            "FWIO/RNTuple/plugins/RNTupleOutputFile.h",
-            "FWIO/RNTuple/plugins/RNTupleOutputModule.cc",
-            "FWIO/RNTuple/plugins/RNTupleSource.cc",
-            "FWIO/RNTuple/test/BuildFile.xml",
-            "FWIO/RNTuple/test/test_catch2_main.cc",
-            "FWIO/RNTuple/test/test_catch2_output2input.cc",
-            "IOPool/Common/test/test_catch2_output2input.cc"
-        ],
-        "created_at": 1739989039,
-        "number": 47402,
-        "state": "open",
-        "updated_at": 1740499254
-    },
     "47403": {
         "base_branch": "CMSSW_12_4_X",
         "changed_files_names": [
