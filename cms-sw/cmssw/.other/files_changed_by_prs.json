@@ -2564,8 +2564,12 @@
             "Alignment/CommonAlignmentProducer/python/ALCARECOPromptCalibProdSiPixelAliHLT_cff.py",
             "Configuration/DataProcessing/python/RecoTLR.py",
             "Configuration/StandardSequences/python/DigiToRaw_Repack_cff.py",
+            "DQM/BeamMonitor/plugins/OnlineBeamMonitor.cc",
+            "DQM/BeamMonitor/plugins/OnlineBeamMonitor.h",
             "DQM/BeamMonitor/python/AlcaBeamMonitorHeavyIons_cff.py",
             "DQM/BeamMonitor/python/AlcaBeamMonitor_cff.py",
+            "DQM/BeamMonitor/test/Online_BeamMonitor_file.py",
+            "DQM/BeamMonitor/test/testOnlineBeamMonitor.sh",
             "DQM/Integration/python/clients/beam_dqm_sourceclient-live_cfg.py",
             "DQM/Integration/python/clients/beamhlt_dqm_sourceclient-live_cfg.py",
             "DQM/Integration/python/clients/onlinebeammonitor_dqm_sourceclient-live_cfg.py",
@@ -2584,7 +2588,7 @@
         "created_at": 1739810247,
         "number": 47378,
         "state": "open",
-        "updated_at": 1739892111
+        "updated_at": 1740490625
     },
     "47386": {
         "base_branch": "CMSSW_15_0_X",
