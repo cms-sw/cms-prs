@@ -2777,33 +2777,6 @@
         "state": "open",
         "updated_at": 1740496491
     },
-    "47438": {
-        "base_branch": "CMSSW_15_0_X",
-        "changed_files_names": [
-            "DataFormats/TestObjects/interface/ThingWithDoNotSort.h",
-            "DataFormats/TestObjects/interface/ThingWithPostInsert.h",
-            "DataFormats/TestObjects/src/classes.h",
-            "DataFormats/TestObjects/src/classes_def.xml",
-            "FWCore/Integration/plugins/BuildFile.xml",
-            "FWCore/Integration/plugins/PostInsertProducer.cc",
-            "FWCore/Integration/test/BuildFile.xml",
-            "FWCore/Integration/test/testPostInsertProducer_cfg.py",
-            "FWCore/Integration/test/testStdProducts_cfg.py",
-            "FWCore/TestModules/README.md",
-            "FWCore/TestModules/plugins/GlobalFloatAnalyzer.cc",
-            "FWCore/TestModules/plugins/GlobalFloatProducer.cc",
-            "FWCore/TestModules/plugins/GlobalIntAnalyzer.cc",
-            "FWCore/TestModules/plugins/GlobalIntProducer.cc",
-            "FWCore/TestModules/plugins/GlobalStringAnalyzer.cc",
-            "FWCore/TestModules/plugins/GlobalStringProducer.cc",
-            "FWCore/TestModules/plugins/GlobalVectorAnalyzer.cc",
-            "FWCore/TestModules/plugins/GlobalVectorProducer.cc"
-        ],
-        "created_at": 1740476328,
-        "number": 47438,
-        "state": "open",
-        "updated_at": 1740515376
-    },
     "47439": {
         "base_branch": "master",
         "changed_files_names": [
