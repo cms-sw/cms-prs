@@ -2806,14 +2806,12 @@
             "DataFormats/TrackerRecHit2D/interface/SiPixelRecHitFwd.h",
             "DataFormats/TrackerRecHit2D/src/classes.h",
             "DataFormats/TrackerRecHit2D/src/classes_def.xml",
-            "SimDataFormats/TrackingAnalysis/BuildFile.xml",
             "SimDataFormats/TrackingAnalysis/interface/SimDoublets.h",
             "SimDataFormats/TrackingAnalysis/src/SimDoublets.cc",
             "SimDataFormats/TrackingAnalysis/src/classes.h",
             "SimDataFormats/TrackingAnalysis/src/classes_def.xml",
             "SimTracker/TrackerHitAssociation/plugins/BuildFile.xml",
             "SimTracker/TrackerHitAssociation/plugins/SimDoubletsProducer.cc",
-            "SimTracker/TrackerHitAssociation/plugins/SimDoubletsProducer.h",
             "Validation/Configuration/python/autoValidation.py",
             "Validation/TrackingMCTruth/plugins/BuildFile.xml",
             "Validation/TrackingMCTruth/plugins/SimDoubletsAnalyzer.cc",
@@ -2827,7 +2825,7 @@
         "created_at": 1740478927,
         "number": 47441,
         "state": "open",
-        "updated_at": 1740554441
+        "updated_at": 1740566498
     },
     "47443": {
         "base_branch": "CMSSW_15_0_X",
