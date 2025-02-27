@@ -3173,5 +3173,19 @@
         "number": 47473,
         "state": "open",
         "updated_at": 1740662534
+    },
+    "47474": {
+        "base_branch": "CMSSW_14_2_X",
+        "changed_files_names": [
+            "DataFormats/L1TMuonPhase2/interface/Constants.h",
+            "L1Trigger/Phase2L1GMT/interface/TPSAlgorithm.h",
+            "L1Trigger/Phase2L1GMT/interface/TPSLUTs.h",
+            "L1Trigger/Phase2L1GMT/src/TPS.cc",
+            "L1Trigger/Phase2L1GMT/src/TPSAlgorithm.cc"
+        ],
+        "created_at": 1740671139,
+        "number": 47474,
+        "state": "open",
+        "updated_at": 1740671164
     }
 }
