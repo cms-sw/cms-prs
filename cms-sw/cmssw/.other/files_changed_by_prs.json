@@ -3170,5 +3170,30 @@
         "number": 47469,
         "state": "open",
         "updated_at": 1740622674
+    },
+    "47471": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HLTriggerOffline/Scouting/plugins/ElectronEfficiencyPlotter.cc",
+            "HLTriggerOffline/Scouting/plugins/ElectronEfficiencyPlotter.h",
+            "HLTriggerOffline/Scouting/plugins/PatElectronTagProbeAnalyzer.cc",
+            "HLTriggerOffline/Scouting/plugins/PatElectronTagProbeAnalyzer.h",
+            "HLTriggerOffline/Scouting/plugins/ScoutingDQMUtils.h",
+            "HLTriggerOffline/Scouting/plugins/ScoutingEGammaCollectionMonitoring.cc",
+            "HLTriggerOffline/Scouting/plugins/ScoutingEGammaCollectionMonitoring.h",
+            "HLTriggerOffline/Scouting/plugins/ScoutingElectronTagProbeAnalyzer.cc",
+            "HLTriggerOffline/Scouting/plugins/ScoutingElectronTagProbeAnalyzer.h",
+            "HLTriggerOffline/Scouting/plugins/ScoutingMuonTagProbeAnalyzer.cc",
+            "HLTriggerOffline/Scouting/plugins/ScoutingMuonTagProbeAnalyzer.h",
+            "HLTriggerOffline/Scouting/plugins/ScoutingMuonTriggerAnalyzer.cc",
+            "HLTriggerOffline/Scouting/plugins/ScoutingMuonTriggerAnalyzer.h",
+            "HLTriggerOffline/Scouting/python/ElectronEfficiencyPlotter_cfi.py",
+            "HLTriggerOffline/Scouting/python/ScoutingEGammaCollectionMonitoring_cfi.py",
+            "HLTriggerOffline/Scouting/python/ScoutingElectronTagProbeAnalyzer_cfi.py"
+        ],
+        "created_at": 1740658606,
+        "number": 47471,
+        "state": "open",
+        "updated_at": 1740658636
     }
 }
