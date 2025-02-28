@@ -3202,5 +3202,34 @@
         "number": 47477,
         "state": "open",
         "updated_at": 1740685880
+    },
+    "47478": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQMServices/Components/plugins/EDMtoMEConverter.cc",
+            "DQMServices/Components/plugins/MEtoEDMConverter.cc",
+            "DQMServices/Components/scripts/dqmiolistmes.py",
+            "DQMServices/Core/interface/DQMNet.h",
+            "DQMServices/Core/interface/DQMStore.h",
+            "DQMServices/Core/interface/MonitorElement.h",
+            "DQMServices/Core/src/DQMNet.cc",
+            "DQMServices/Core/src/LegacyIOHelper.cc",
+            "DQMServices/Core/src/MonitorElement.cc",
+            "DQMServices/Demo/test/TestDQMEDAnalyzer.cc",
+            "DQMServices/Demo/test/dqmiodumpentries.py",
+            "DQMServices/Demo/test/runtests.sh",
+            "DQMServices/FwkIO/plugins/DQMRootOutputModule.cc",
+            "DQMServices/FwkIO/plugins/DQMRootSource.cc",
+            "DQMServices/FwkIO/plugins/format.h",
+            "DQMServices/StreamerIO/plugins/DQMProtobufReader.cc",
+            "DataFormats/Histograms/interface/MEtoEDMFormat.h",
+            "DataFormats/Histograms/interface/MonitorElementCollection.h",
+            "DataFormats/Histograms/src/classes_def.xml",
+            "DataFormats/Histograms/test/metoedmformat_t.cc"
+        ],
+        "created_at": 1740716761,
+        "number": 47478,
+        "state": "open",
+        "updated_at": 1740716788
     }
 }
