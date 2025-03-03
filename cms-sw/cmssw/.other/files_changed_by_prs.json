@@ -1486,26 +1486,19 @@
             "DataFormats/Common/interface/Wrapper.h",
             "DataFormats/Common/interface/WrapperBase.h",
             "FWCore/Framework/interface/GenericProduct.h",
-            "FWCore/Framework/interface/WrapperBaseHandle.h",
-            "FWCore/Framework/interface/WrapperBaseOrphanHandle.h",
-            "FWCore/Framework/src/WrapperBaseHandle.cc",
             "FWCore/Integration/plugins/BuildFile.xml",
             "FWCore/Integration/plugins/GenericProductProducer.cc",
-            "FWCore/Integration/plugins/WrapperBaseProducer.cc",
             "FWCore/Integration/test/BuildFile.xml",
             "FWCore/Integration/test/testGenericProductProducer_cfg.py",
-            "FWCore/Integration/test/testWrapperBaseProducer_cfg.py",
             "FWCore/TestModules/README.md",
             "FWCore/TestModules/plugins/GenericCloner.cc",
-            "FWCore/TestModules/plugins/GenericClonerAlt.cc",
             "FWCore/TestModules/test/BuildFile.xml",
-            "FWCore/TestModules/test/testGenericClonerAlt_cfg.py",
             "FWCore/TestModules/test/testGenericCloner_cfg.py"
         ],
         "created_at": 1732777077,
         "number": 46821,
         "state": "open",
-        "updated_at": 1740590473
+        "updated_at": 1741013298
     },
     "46838": {
         "base_branch": "master",
