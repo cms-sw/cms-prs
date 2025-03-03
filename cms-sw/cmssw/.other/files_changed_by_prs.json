@@ -3120,5 +3120,18 @@
         "number": 47486,
         "state": "open",
         "updated_at": 1741014155
+    },
+    "47487": {
+        "base_branch": "CMSSW_10_6_X",
+        "changed_files_names": [
+            "Configuration/ProcessModifiers/python/fixLongLivedSleptonSim_cff.py",
+            "SimG4Core/Application/python/g4SimHits_cfi.py",
+            "SimG4Core/Generators/interface/Generator.h",
+            "SimG4Core/Generators/src/Generator.cc"
+        ],
+        "created_at": 1741016555,
+        "number": 47487,
+        "state": "open",
+        "updated_at": 1741016583
     }
 }
