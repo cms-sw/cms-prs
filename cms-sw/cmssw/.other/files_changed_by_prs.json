@@ -3085,5 +3085,20 @@
         "number": 47480,
         "state": "open",
         "updated_at": 1740747085
+    },
+    "47483": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HLTriggerOffline/B2G/interface/B2GDoubleLeptonHLTValidation.h",
+            "HLTriggerOffline/B2G/interface/B2GHadronicHLTValidation.h",
+            "HLTriggerOffline/B2G/interface/B2GSingleLeptonHLTValidation.h",
+            "HLTriggerOffline/B2G/python/b2gDoubleLeptonHLTEventValidation_cfi.py",
+            "HLTriggerOffline/B2G/python/b2gHadronicHLTEventValidation_cfi.py",
+            "HLTriggerOffline/B2G/python/b2gSingleLeptonHLTEventValidation_cfi.py"
+        ],
+        "created_at": 1740993709,
+        "number": 47483,
+        "state": "open",
+        "updated_at": 1740993729
     }
 }
