@@ -3175,5 +3175,30 @@
         "number": 47501,
         "state": "open",
         "updated_at": 1741102840
+    },
+    "47504": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/Common/interface/MemcpyTraits.h",
+            "DataFormats/Common/interface/Wrapper.h",
+            "DataFormats/Common/interface/WrapperBase.h",
+            "DataFormats/Portable/BuildFile.xml",
+            "DataFormats/Portable/interface/PortableCollection.h",
+            "DataFormats/Portable/interface/PortableObject.h",
+            "FWCore/Framework/interface/WrapperBaseHandle.h",
+            "FWCore/Framework/interface/WrapperBaseOrphanHandle.h",
+            "FWCore/Framework/src/WrapperBaseHandle.cc",
+            "FWCore/Integration/plugins/BuildFile.xml",
+            "FWCore/Integration/plugins/WrapperBaseProducer.cc",
+            "FWCore/Integration/test/BuildFile.xml",
+            "FWCore/Integration/test/testWrapperBaseProducer_cfg.py",
+            "FWCore/TestModules/plugins/GenericCloner.cc",
+            "FWCore/TestModules/test/BuildFile.xml",
+            "FWCore/TestModules/test/testGenericCloner_cfg.py"
+        ],
+        "created_at": 1741117979,
+        "number": 47504,
+        "state": "open",
+        "updated_at": 1741118007
     }
 }
