@@ -2351,33 +2351,6 @@
         "state": "open",
         "updated_at": 1741069971
     },
-    "47357": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "CommonTools/RecoUtils/plugins/LeptonFSRProducer.cc",
-            "CommonTools/UtilAlgos/interface/AssociationVectorSelector.h",
-            "DataFormats/Common/interface/Handle.h",
-            "DataFormats/Common/interface/HandleBase.h",
-            "DataFormats/Common/interface/OrphanHandle.h",
-            "DataFormats/Common/interface/OrphanHandleBase.h",
-            "DataFormats/Common/src/OrphanHandleBase.cc",
-            "EventFilter/GctRawToDigi/plugins/L1GctInternJetProducer.cc",
-            "L1Trigger/L1ExtraFromDigis/src/L1ExtraParticlesProd.cc",
-            "L1Trigger/VertexFinder/plugins/TPStubValueMapProducer.cc",
-            "MuonAnalysis/MuonAssociators/plugins/MuonFSRProducer.cc",
-            "PhysicsTools/PatAlgos/plugins/PATGenCandsFromSimTracksProducer.cc",
-            "RecoEcal/EgammaClusterProducers/src/SCEnergyCorrectorDRNProducer.cc",
-            "RecoLocalFastTime/FTLRecProducers/plugins/MTDRecHitProducer.cc",
-            "RecoMTD/TrackExtender/plugins/TrackExtenderWithMTD.cc",
-            "RecoParticleFlow/PFSimProducer/plugins/SimPFProducer.cc",
-            "RecoTauTag/RecoTau/plugins/PFRecoTauTagInfoProducer.cc",
-            "RecoTracker/SingleTrackPattern/src/CosmicTrackFinder.cc"
-        ],
-        "created_at": 1739625109,
-        "number": 47357,
-        "state": "open",
-        "updated_at": 1741020522
-    },
     "47367": {
         "base_branch": "master",
         "changed_files_names": [
