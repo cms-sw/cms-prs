@@ -3232,5 +3232,18 @@
         "number": 47512,
         "state": "open",
         "updated_at": 1741177163
+    },
+    "47513": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoBTag/Combined/plugins/BTagProbabilityToDiscriminator.cc",
+            "RecoBTag/ImpactParameter/plugins/IPProducer.h",
+            "RecoBTag/SecondaryVertex/plugins/TemplatedSecondaryVertexProducer.cc",
+            "RecoBTau/JetTagComputer/plugins/JetTagProducer.cc"
+        ],
+        "created_at": 1741190772,
+        "number": 47513,
+        "state": "open",
+        "updated_at": 1741190795
     }
 }
