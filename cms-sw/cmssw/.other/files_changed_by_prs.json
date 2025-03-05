@@ -3057,9 +3057,17 @@
             "CalibCalorimetry/CastorCalib/src/CastorDbHardcode.cc",
             "CalibCalorimetry/CastorCalib/src/CastorPedestalAnalysis.cc",
             "CalibCalorimetry/EcalLaserAnalyzer/src/MELaserPrim.cc",
+            "CalibFormats/SiPixelObjects/interface/PixelConfigBase.h",
             "CalibFormats/SiPixelObjects/src/PixelFEDCard.cc",
             "CalibTracker/SiPixelGainCalibration/plugins/SiPixelGainCalibrationAnalysis.cc",
             "CalibTracker/SiStripAPVAnalysis/src/TT6ApvMask.cc",
+            "CondCore/Utilities/bin/conddb_copy_iov.cpp",
+            "CondCore/Utilities/bin/conddb_edit_tag.cpp",
+            "CondCore/Utilities/bin/conddb_import.cpp",
+            "CondCore/Utilities/bin/conddb_test.cpp",
+            "CondCore/Utilities/bin/conddb_test_gt_load.cpp",
+            "CondCore/Utilities/bin/conddb_test_gt_perf.cpp",
+            "CondCore/Utilities/bin/conddb_test_read.cpp",
             "CondCore/Utilities/src/CondDBImport.cc",
             "CondFormats/DTObjects/src/DTReadOutMapping.cc",
             "CondFormats/L1TObjects/src/L1GtTriggerMenu.cc",
@@ -3069,7 +3077,7 @@
         "created_at": 1741077997,
         "number": 47498,
         "state": "open",
-        "updated_at": 1741097880
+        "updated_at": 1741165539
     },
     "47499": {
         "base_branch": "CMSSW_15_1_RNTUPLE_X",
