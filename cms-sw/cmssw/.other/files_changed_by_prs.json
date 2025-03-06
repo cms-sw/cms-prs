@@ -3290,5 +3290,22 @@
         "number": 47518,
         "state": "open",
         "updated_at": 1741231003
+    },
+    "47519": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Fireworks/Geometry/plugins/TGeoMgrFromDdd.cc",
+            "Geometry/HGCalCommonData/data/hgcalEE/v19/hgcalEE.xml",
+            "Geometry/HGCalCommonData/data/hgcalHEmix/v19/hgcalHEmix.xml",
+            "Geometry/HGCalCommonData/data/hgcalHEsil/v19/hgcalHEsil.xml",
+            "Geometry/HGCalCommonData/data/hgcalPassive/v19/hgcalPassive.xml",
+            "Geometry/HGCalCommonData/plugins/DDHGCalMixRotatedFineCassette.cc",
+            "Geometry/HGCalCommonData/plugins/DDHGCalSiliconRotatedCassette.cc",
+            "Geometry/HGCalCommonData/test/python/dumpHGCalDDD_cfg.py"
+        ],
+        "created_at": 1741232781,
+        "number": 47519,
+        "state": "open",
+        "updated_at": 1741232810
     }
 }
