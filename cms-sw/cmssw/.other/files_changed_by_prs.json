@@ -2007,13 +2007,17 @@
     "47171": {
         "base_branch": "CMSSW_14_0_X",
         "changed_files_names": [
-            "CondCore/CondDB/BuildFile.xml",
-            "CondCore/CondDB/src/IOVProxy.cc"
+            "CondCore/CondDB/interface/IOVProxy.h",
+            "CondCore/CondDB/src/IOVProxy.cc",
+            "CondCore/ESSources/interface/ProductResolver.h",
+            "CondCore/ESSources/plugins/CondDBESSource.cc",
+            "CondCore/ESSources/plugins/CondDBESSource.h",
+            "CondCore/ESSources/src/ProductResolverFactory.cc"
         ],
         "created_at": 1737650173,
         "number": 47171,
         "state": "open",
-        "updated_at": 1737655660
+        "updated_at": 1741277793
     },
     "47178": {
         "base_branch": "master",
