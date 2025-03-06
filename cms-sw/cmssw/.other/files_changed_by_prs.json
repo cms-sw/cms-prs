@@ -2751,39 +2751,6 @@
         "state": "open",
         "updated_at": 1741013671
     },
-    "47466": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "FWCore/AbstractServices/interface/CPUServiceBase.h",
-            "FWCore/Utilities/interface/CPUServiceBase.h",
-            "FWCore/AbstractServices/interface/RootHandlers.h",
-            "FWCore/Utilities/interface/RootHandlers.h",
-            "FWCore/AbstractServices/interface/TimingServiceBase.h",
-            "FWCore/Utilities/interface/TimingServiceBase.h",
-            "FWCore/AbstractServices/src/CPUServiceBase.cc",
-            "FWCore/AbstractServices/src/TimingServiceBase.cc",
-            "FWCore/Utilities/src/TimingServiceBase.cc",
-            "FWCore/Framework/bin/BuildFile.xml",
-            "FWCore/Framework/bin/cmsRun.cpp",
-            "FWCore/Framework/src/EventProcessor.cc",
-            "FWCore/Services/plugins/CPU.cc",
-            "FWCore/Services/plugins/CondorStatusUpdater.cc",
-            "FWCore/Services/plugins/InitRootHandlers.cc",
-            "FWCore/Services/plugins/Timing.cc",
-            "FWCore/Services/plugins/tracer_setupFile.cc",
-            "FWCore/Utilities/src/CPUServiceBase.cc",
-            "IOPool/Common/BuildFile.xml",
-            "IOPool/Common/src/RootServiceChecker.cc",
-            "IOPool/Output/BuildFile.xml",
-            "IOPool/Output/src/RootOutputTree.cc",
-            "PerfTools/AllocMonitor/plugins/BuildFile.xml",
-            "PerfTools/AllocMonitor/plugins/moduleAlloc_setupFile.cc"
-        ],
-        "created_at": 1740587080,
-        "number": 47466,
-        "state": "open",
-        "updated_at": 1740766629
-    },
     "47467": {
         "base_branch": "master",
         "changed_files_names": [
