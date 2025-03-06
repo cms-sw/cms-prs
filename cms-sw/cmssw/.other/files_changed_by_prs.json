@@ -2656,12 +2656,13 @@
         "base_branch": "master",
         "changed_files_names": [
             "RecoVertex/KalmanVertexFit/interface/KalmanVertexFitter.h",
-            "RecoVertex/KalmanVertexFit/src/KalmanVertexFitter.cc"
+            "RecoVertex/KalmanVertexFit/src/KalmanVertexFitter.cc",
+            "RecoVertex/VertexTools/interface/SequentialVertexFitter.h"
         ],
         "created_at": 1740556076,
         "number": 47454,
         "state": "open",
-        "updated_at": 1741013671
+        "updated_at": 1741247976
     },
     "47467": {
         "base_branch": "master",
