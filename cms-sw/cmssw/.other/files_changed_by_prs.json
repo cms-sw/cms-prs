@@ -3128,11 +3128,15 @@
             "FWCore/TestProcessor/interface/TestSourceProcessor.h",
             "FWCore/TestProcessor/src/TestProcessor.cc",
             "FWCore/TestProcessor/src/TestSourceProcessor.cc",
-            "IOPool/SecondaryInput/test/SecondaryProducer.cc"
+            "IOPool/SecondaryInput/test/SecondaryProducer.cc",
+            "Mixing/Base/interface/PileUp.h",
+            "Mixing/Base/src/PileUp.cc",
+            "Mixing/Base/src/SecondaryEventProvider.cc",
+            "Mixing/Base/src/SecondaryEventProvider.h"
         ],
         "created_at": 1741372499,
         "number": 47533,
         "state": "open",
-        "updated_at": 1741372523
+        "updated_at": 1741381528
     }
 }
