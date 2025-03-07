@@ -2339,38 +2339,6 @@
         "state": "open",
         "updated_at": 1741102118
     },
-    "47378": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "Alignment/CommonAlignmentProducer/python/ALCARECOPromptCalibProdSiPixelAliHLT_cff.py",
-            "Configuration/DataProcessing/python/RecoTLR.py",
-            "Configuration/StandardSequences/python/DigiToRaw_Repack_cff.py",
-            "DQM/BeamMonitor/plugins/OnlineBeamMonitor.cc",
-            "DQM/BeamMonitor/plugins/OnlineBeamMonitor.h",
-            "DQM/BeamMonitor/python/AlcaBeamMonitorHeavyIons_cff.py",
-            "DQM/BeamMonitor/python/AlcaBeamMonitor_cff.py",
-            "DQM/BeamMonitor/test/Online_BeamMonitor_file.py",
-            "DQM/BeamMonitor/test/testOnlineBeamMonitor.sh",
-            "DQM/Integration/python/clients/beam_dqm_sourceclient-live_cfg.py",
-            "DQM/Integration/python/clients/beamhlt_dqm_sourceclient-live_cfg.py",
-            "DQM/Integration/python/clients/onlinebeammonitor_dqm_sourceclient-live_cfg.py",
-            "DQM/Integration/python/clients/pixel_dqm_sourceclient-live_cfg.py",
-            "DQM/Integration/python/clients/sistrip_approx_dqm_sourceclient-live_cfg.py",
-            "DQM/Integration/python/clients/sistrip_dqm_sourceclient-live_cfg.py",
-            "HLTrigger/Configuration/python/HLT_75e33/eventsetup/hltOnlineBeamSpotESProducer_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltOnlineBeamSpot_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33_cff.py",
-            "HLTrigger/Configuration/python/HLT_75e33_timing_cff.py",
-            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py",
-            "RecoVertex/BeamSpotProducer/plugins/BeamSpotOnlineProducer.cc",
-            "RecoVertex/BeamSpotProducer/python/BeamSpotOnline_cfi.py",
-            "RecoVertex/BeamSpotProducer/python/BeamSpot_cfi.py"
-        ],
-        "created_at": 1739810247,
-        "number": 47378,
-        "state": "open",
-        "updated_at": 1741106478
-    },
     "47397": {
         "base_branch": "master",
         "changed_files_names": [
