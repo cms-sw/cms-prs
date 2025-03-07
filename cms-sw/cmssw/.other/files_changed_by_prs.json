@@ -2502,34 +2502,6 @@
         "state": "open",
         "updated_at": 1740368703
     },
-    "47441": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "Configuration/Generator/python/SingleMuPt15Eta0_0p4_cfi.py",
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
-            "DataFormats/TrackerRecHit2D/interface/SiPixelRecHitFwd.h",
-            "DataFormats/TrackerRecHit2D/src/classes.h",
-            "DataFormats/TrackerRecHit2D/src/classes_def.xml",
-            "SimDataFormats/TrackingAnalysis/interface/SimDoublets.h",
-            "SimDataFormats/TrackingAnalysis/src/SimDoublets.cc",
-            "SimDataFormats/TrackingAnalysis/src/classes.h",
-            "SimDataFormats/TrackingAnalysis/src/classes_def.xml",
-            "SimTracker/TrackerHitAssociation/plugins/BuildFile.xml",
-            "SimTracker/TrackerHitAssociation/plugins/SimDoubletsProducer.cc",
-            "Validation/TrackingMCTruth/plugins/BuildFile.xml",
-            "Validation/TrackingMCTruth/plugins/SimDoubletsAnalyzer.cc",
-            "Validation/TrackingMCTruth/plugins/SimDoubletsAnalyzer.h",
-            "Validation/TrackingMCTruth/python/PostProcessorSimDoublets_cff.py",
-            "Validation/TrackingMCTruth/test/simDoubletsPhase1_HARVESTING.py",
-            "Validation/TrackingMCTruth/test/simDoubletsPhase1_TEST.py",
-            "Validation/TrackingMCTruth/test/simDoubletsPhase2_HARVESTING.py",
-            "Validation/TrackingMCTruth/test/simDoubletsPhase2_TEST.py"
-        ],
-        "created_at": 1740478927,
-        "number": 47441,
-        "state": "open",
-        "updated_at": 1741102359
-    },
     "47447": {
         "base_branch": "master",
         "changed_files_names": [
