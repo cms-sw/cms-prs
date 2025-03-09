@@ -2518,31 +2518,6 @@
         "state": "open",
         "updated_at": 1741106453
     },
-    "47451": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DataFormats/HGCalDigi/interface/HGCalECONDPacketInfoSoA.h",
-            "DataFormats/HGCalDigi/interface/HGCalFEDPacketInfoHost.h",
-            "DataFormats/HGCalDigi/interface/HGCalFEDPacketInfoSoA.h",
-            "DataFormats/HGCalDigi/interface/HGCalRawDataDefinitions.h",
-            "DataFormats/HGCalDigi/interface/alpaka/HGCalFEDPacketInfoDevice.h",
-            "DataFormats/HGCalDigi/src/alpaka/classes_cuda.h",
-            "DataFormats/HGCalDigi/src/alpaka/classes_cuda_def.xml",
-            "DataFormats/HGCalDigi/src/alpaka/classes_rocm.h",
-            "DataFormats/HGCalDigi/src/alpaka/classes_rocm_def.xml",
-            "DataFormats/HGCalDigi/src/classes.cc",
-            "DataFormats/HGCalDigi/src/classes.h",
-            "DataFormats/HGCalDigi/src/classes_def.xml",
-            "EventFilter/HGCalRawToDigi/interface/HGCalUnpacker.h",
-            "EventFilter/HGCalRawToDigi/plugins/HGCalRawToDigi.cc",
-            "EventFilter/HGCalRawToDigi/src/HGCalUnpacker.cc",
-            "EventFilter/HGCalRawToDigi/src/UnpackerTools.cc"
-        ],
-        "created_at": 1740492302,
-        "number": 47451,
-        "state": "open",
-        "updated_at": 1741012485
-    },
     "47452": {
         "base_branch": "master",
         "changed_files_names": [
