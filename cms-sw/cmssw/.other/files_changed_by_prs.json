@@ -3230,5 +3230,20 @@
         "number": 47541,
         "state": "open",
         "updated_at": 1741534474
+    },
+    "47542": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/EventContent/python/EventContentCosmics_cff.py",
+            "Configuration/PyReleaseValidation/python/relval_standard.py",
+            "Configuration/PyReleaseValidation/python/relval_steps.py",
+            "DQMOffline/Trigger/python/DQMOffline_Trigger_cosmics_cff.py",
+            "DQMOffline/Trigger/python/TrackToTrackMonitoringCosmics_cff.py",
+            "DQMOffline/Trigger/python/TrackingMonitoringCosmics_cff.py"
+        ],
+        "created_at": 1741536003,
+        "number": 47542,
+        "state": "open",
+        "updated_at": 1741536059
     }
 }
