@@ -3190,5 +3190,21 @@
         "number": 47548,
         "state": "open",
         "updated_at": 1741621240
+    },
+    "47549": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "SimG4Core/Application/interface/CMSG4TrackInterface.h",
+            "SimG4Core/Application/interface/ExceptionHandler.h",
+            "SimG4Core/Application/interface/TrackingAction.h",
+            "SimG4Core/Application/src/CMSG4TrackInterface.cc",
+            "SimG4Core/Application/src/ExceptionHandler.cc",
+            "SimG4Core/Application/src/RunManagerMTWorker.cc",
+            "SimG4Core/Application/src/TrackingAction.cc"
+        ],
+        "created_at": 1741626193,
+        "number": 47549,
+        "state": "open",
+        "updated_at": 1741626221
     }
 }
