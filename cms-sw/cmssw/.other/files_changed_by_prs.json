@@ -3161,5 +3161,34 @@
         "number": 47546,
         "state": "open",
         "updated_at": 1741615859
+    },
+    "47548": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Framework/src/EventProcessor.cc",
+            "FWCore/MessageLogger/interface/JobReport.h",
+            "FWCore/MessageLogger/src/JobReport.cc",
+            "FWCore/MessageService/test/filter-timestamps.sed",
+            "FWCore/MessageService/test/u1.sh",
+            "FWCore/MessageService/test/unit_test_outputs/FrameworkJobReport.xml",
+            "FWCore/MessageService/test/unit_test_outputs/job_report.xml",
+            "FWCore/MessageService/test/unit_test_outputs/u10_job_report.xml",
+            "FWCore/MessageService/test/unit_test_outputs/u14_job_report.mxml",
+            "FWCore/MessageService/test/unit_test_outputs/u16_job_report.mmxml",
+            "FWCore/MessageService/test/unit_test_outputs/u1_job_report.mxml",
+            "FWCore/MessageService/test/unit_test_outputs/u1d_job_report.mxml",
+            "FWCore/MessageService/test/unit_test_outputs/u27FJR.xml",
+            "FWCore/MessageService/test/unit_test_outputs/u7_job_report.mxml",
+            "IOPool/Common/test/TestEdmFastMerge.sh",
+            "IOPool/Common/test/proper_RLfjr_output",
+            "IOPool/Common/test/proper_Rfjr_output",
+            "IOPool/Common/test/proper_fjr_output",
+            "IOPool/Common/test/proper_fjrx_output",
+            "IOPool/Common/test/proper_fjrx_second_output"
+        ],
+        "created_at": 1741621211,
+        "number": 47548,
+        "state": "open",
+        "updated_at": 1741621240
     }
 }
