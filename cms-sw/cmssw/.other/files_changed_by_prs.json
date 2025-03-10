@@ -3218,6 +3218,7 @@
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTrackstersRecovery_cfi.py",
             "RecoHGCal/TICL/interface/TracksterInferenceByPFN.h",
             "RecoHGCal/TICL/plugins/TracksterInferenceAlgoFactory.cc",
+            "RecoHGCal/TICL/plugins/TracksterInferenceByDNN.cc",
             "RecoHGCal/TICL/plugins/TracksterInferenceByPFN.cc",
             "RecoHGCal/TICL/plugins/TracksterLinksProducer.cc",
             "RecoHGCal/TICL/plugins/TrackstersProducer.cc",
@@ -3227,6 +3228,6 @@
         "created_at": 1741638513,
         "number": 47550,
         "state": "open",
-        "updated_at": 1741638542
+        "updated_at": 1741646403
     }
 }
