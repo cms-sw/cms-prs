@@ -3140,5 +3140,26 @@
         "number": 47544,
         "state": "open",
         "updated_at": 1741600855
+    },
+    "47546": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Framework/interface/EDConsumerBase.h",
+            "FWCore/Framework/interface/OutputModuleCore.h",
+            "FWCore/Framework/src/OutputModuleCore.cc",
+            "FWCore/Framework/src/Schedule.cc",
+            "FWCore/Integration/test/BuildFile.xml",
+            "FWCore/Integration/test/test_finalpath.sh",
+            "FWCore/Integration/test/test_finalpath_cfg.py",
+            "FWCore/ParameterSet/python/Config.py",
+            "FWCore/ParameterSet/python/SequenceTypes.py",
+            "FWCore/ParameterSet/python/SequenceVisitors.py",
+            "HLTrigger/Configuration/scripts/hltDumpStream",
+            "HLTrigger/Configuration/scripts/hltListPaths"
+        ],
+        "created_at": 1741615832,
+        "number": 47546,
+        "state": "open",
+        "updated_at": 1741615859
     }
 }
