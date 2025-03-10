@@ -2725,7 +2725,7 @@
     "47504": {
         "base_branch": "master",
         "changed_files_names": [
-            "DataFormats/Common/interface/MemcpyTraits.h",
+            "DataFormats/Common/interface/TrivialCopyTraits.h",
             "DataFormats/Common/interface/Wrapper.h",
             "DataFormats/Common/interface/WrapperBase.h",
             "DataFormats/Portable/BuildFile.xml",
@@ -2745,7 +2745,7 @@
         "created_at": 1741117979,
         "number": 47504,
         "state": "open",
-        "updated_at": 1741126054
+        "updated_at": 1741638847
     },
     "47506": {
         "base_branch": "master",
