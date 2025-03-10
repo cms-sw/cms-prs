@@ -2584,9 +2584,11 @@
             "PhysicsTools/BPHNano/python/BToKLL_cff.py",
             "PhysicsTools/BPHNano/python/BToKshortLL_cff.py",
             "PhysicsTools/BPHNano/python/BToTrkTrkLL_cff.py",
+            "PhysicsTools/BPHNano/python/BToV0LL_cff.py",
             "PhysicsTools/BPHNano/python/DiTrack_cff.py",
             "PhysicsTools/BPHNano/python/KshortToPiPi_cff.py",
             "PhysicsTools/BPHNano/python/MuMu_cff.py",
+            "PhysicsTools/BPHNano/python/V0_cff.py",
             "PhysicsTools/BPHNano/python/common_cff.py",
             "PhysicsTools/BPHNano/python/genparticlesBPH_cff.py",
             "PhysicsTools/BPHNano/python/muons_cff.py",
@@ -2601,12 +2603,13 @@
             "PhysicsTools/BPHNano/test/run_bphNano_cfg.py",
             "PhysicsTools/BPHNano/test/time_analysis.py",
             "PhysicsTools/BPHNano/test/validate_nano.py",
-            "PhysicsTools/BPHNano/test/validate_pr.sh"
+            "PhysicsTools/BPHNano/test/validate_pr.sh",
+            "PhysicsTools/NanoAOD/python/autoNANO.py"
         ],
         "created_at": 1740622647,
         "number": 47469,
         "state": "open",
-        "updated_at": 1740996429
+        "updated_at": 1741597713
     },
     "47472": {
         "base_branch": "master",
