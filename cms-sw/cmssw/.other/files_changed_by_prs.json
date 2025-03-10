@@ -3206,5 +3206,27 @@
         "number": 47549,
         "state": "open",
         "updated_at": 1741626221
+    },
+    "47550": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTracksterLinksL1Seeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTracksterLinks_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTrackstersCLUE3DHighL1Seeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTrackstersCLUE3DHigh_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTrackstersRecoveryL1Seeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTrackstersRecovery_cfi.py",
+            "RecoHGCal/TICL/interface/TracksterInferenceByPFN.h",
+            "RecoHGCal/TICL/plugins/TracksterInferenceAlgoFactory.cc",
+            "RecoHGCal/TICL/plugins/TracksterInferenceByPFN.cc",
+            "RecoHGCal/TICL/plugins/TracksterLinksProducer.cc",
+            "RecoHGCal/TICL/plugins/TrackstersProducer.cc",
+            "RecoHGCal/TICL/python/CLUE3DHighStep_cff.py",
+            "RecoHGCal/TICL/python/iterativeTICL_cff.py"
+        ],
+        "created_at": 1741638513,
+        "number": 47550,
+        "state": "open",
+        "updated_at": 1741638542
     }
 }
