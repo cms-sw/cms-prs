@@ -3399,5 +3399,17 @@
         "number": 47558,
         "state": "open",
         "updated_at": 1741696542
+    },
+    "47559": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "Configuration/Eras/python/Era_Run3_2025_cff.py",
+            "Configuration/Eras/python/Modifier_stage2L1Trigger_2025_cff.py",
+            "L1Trigger/L1TCaloLayer1/python/simCaloStage2Layer1Summary_cfi.py"
+        ],
+        "created_at": 1741697272,
+        "number": 47559,
+        "state": "open",
+        "updated_at": 1741697316
     }
 }
