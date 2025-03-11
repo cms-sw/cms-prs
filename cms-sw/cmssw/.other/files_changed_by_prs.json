@@ -2725,12 +2725,14 @@
     "47504": {
         "base_branch": "master",
         "changed_files_names": [
+            "DataFormats/Common/interface/AnyBuffer.h",
             "DataFormats/Common/interface/TrivialCopyTraits.h",
             "DataFormats/Common/interface/Wrapper.h",
             "DataFormats/Common/interface/WrapperBase.h",
             "DataFormats/Portable/BuildFile.xml",
             "DataFormats/Portable/interface/PortableCollection.h",
-            "DataFormats/Portable/interface/PortableObject.h",
+            "DataFormats/Portable/interface/PortableHostCollection.h",
+            "DataFormats/Portable/interface/PortableHostObject.h",
             "FWCore/Framework/interface/WrapperBaseHandle.h",
             "FWCore/Framework/interface/WrapperBaseOrphanHandle.h",
             "FWCore/Framework/src/WrapperBaseHandle.cc",
@@ -2745,7 +2747,7 @@
         "created_at": 1741117979,
         "number": 47504,
         "state": "open",
-        "updated_at": 1741638847
+        "updated_at": 1741686467
     },
     "47506": {
         "base_branch": "master",
