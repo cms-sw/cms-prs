@@ -3384,5 +3384,20 @@
         "number": 47557,
         "state": "open",
         "updated_at": 1741696224
+    },
+    "47558": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CalibTracker/SiStripESProducers/plugins/real/SiStripBackPlaneCorrectionDepESProducer.cc",
+            "CalibTracker/SiStripESProducers/plugins/real/SiStripLorentzAngleDepESProducer.cc",
+            "CalibTracker/SiStripESProducers/python/SiStripBackPlaneCorrectionDepESProducer_cfi.py",
+            "CalibTracker/SiStripESProducers/python/SiStripLorentzAngleDepESProducer_cfi.py",
+            "RecoLocalTracker/SiStripRecHitConverter/plugins/StripCPEESProducer.cc",
+            "RecoLocalTracker/SiStripRecHitConverter/python/StripCPEESProducer_cfi.py"
+        ],
+        "created_at": 1741696518,
+        "number": 47558,
+        "state": "open",
+        "updated_at": 1741696542
     }
 }
