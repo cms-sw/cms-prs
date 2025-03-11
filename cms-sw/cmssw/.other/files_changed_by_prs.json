@@ -2,12 +2,14 @@
     "32632": {
         "base_branch": "CMSSW_15_0_X",
         "changed_files_names": [
-            "DataFormats/Common/interface/MemcpyTraits.h",
+            "DataFormats/Common/interface/AnyBuffer.h",
+            "DataFormats/Common/interface/TrivialCopyTraits.h",
             "DataFormats/Common/interface/Wrapper.h",
             "DataFormats/Common/interface/WrapperBase.h",
             "DataFormats/Portable/BuildFile.xml",
             "DataFormats/Portable/interface/PortableCollection.h",
-            "DataFormats/Portable/interface/PortableObject.h",
+            "DataFormats/Portable/interface/PortableHostCollection.h",
+            "DataFormats/Portable/interface/PortableHostObject.h",
             "FWCore/Framework/interface/WrapperBaseHandle.h",
             "FWCore/Framework/interface/WrapperBaseOrphanHandle.h",
             "FWCore/Framework/src/WrapperBaseHandle.cc",
@@ -45,7 +47,7 @@
         "created_at": 1610412286,
         "number": 32632,
         "state": "open",
-        "updated_at": 1741125595
+        "updated_at": 1741710549
     },
     "35713": {
         "base_branch": "master",
