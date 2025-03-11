@@ -3083,7 +3083,12 @@
             "FWCore/Framework/src/EventProcessor.cc",
             "FWCore/MessageLogger/interface/JobReport.h",
             "FWCore/MessageLogger/src/JobReport.cc",
+            "FWCore/MessageService/test/BuildFile.xml",
+            "FWCore/MessageService/test/PrintProcessInformation.cc",
+            "FWCore/MessageService/test/compareJobReportToOutput.py",
             "FWCore/MessageService/test/filter-timestamps.sed",
+            "FWCore/MessageService/test/jobreport_cfg.py",
+            "FWCore/MessageService/test/testJobReport.sh",
             "FWCore/MessageService/test/u1.sh",
             "FWCore/MessageService/test/unit_test_outputs/FrameworkJobReport.xml",
             "FWCore/MessageService/test/unit_test_outputs/job_report.xml",
@@ -3104,7 +3109,7 @@
         "created_at": 1741621211,
         "number": 47548,
         "state": "open",
-        "updated_at": 1741621240
+        "updated_at": 1741730551
     },
     "47549": {
         "base_branch": "master",
