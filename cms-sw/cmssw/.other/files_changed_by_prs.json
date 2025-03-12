@@ -1278,37 +1278,6 @@
         "state": "open",
         "updated_at": 1738913970
     },
-    "46247": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DQM/BeamMonitor/plugins/BeamMonitor.cc",
-            "DQM/DTMonitorClient/src/DTLocalTriggerTest.cc",
-            "DQM/DTMonitorModule/src/DTChamberEfficiencyTask.cc",
-            "DQM/L1TMonitorClient/src/L1TOccupancyClient.cc",
-            "DQM/Physics/src/QcdPhotonsDQM.cc",
-            "DQM/Physics/src/TopDiLeptonDQM.cc",
-            "DQM/SiPixelMonitorClient/src/SiPixelDataQuality.cc",
-            "DQM/SiPixelMonitorCluster/src/SiPixelClusterSource.cc",
-            "DQM/SiPixelMonitorDigi/src/SiPixelDigiSource.cc",
-            "DQM/SiPixelMonitorRawData/src/SiPixelRawDataErrorSource.cc",
-            "DQM/SiPixelMonitorTrack/src/SiPixelHitEfficiencySource.cc",
-            "DQM/SiStripCommissioningAnalysis/src/ApvTimingAlgorithm.cc",
-            "DQM/SiStripCommissioningAnalysis/src/PedsFullNoiseAlgorithm.cc",
-            "DQM/SiStripCommissioningClients/src/CommissioningHistograms.cc",
-            "DQM/SiStripMonitorSummary/src/SiStripApvGainsDQM.cc",
-            "DQMOffline/Hcal/src/HcalRecHitsDQMClient.cc",
-            "DQMOffline/JetMET/src/METAnalyzer.cc",
-            "DQMOffline/Muon/src/CSCOfflineMonitor.cc",
-            "DQMOffline/Trigger/plugins/HLTInclusiveVBFSource.cc",
-            "DQMServices/Components/plugins/DQMFileSaver.cc",
-            "DQMServices/Components/plugins/DQMStoreStats.cc",
-            "DQMServices/Core/src/DQMNet.cc"
-        ],
-        "created_at": 1728019689,
-        "number": 46247,
-        "state": "open",
-        "updated_at": 1741604801
-    },
     "46318": {
         "base_branch": "master",
         "changed_files_names": [
