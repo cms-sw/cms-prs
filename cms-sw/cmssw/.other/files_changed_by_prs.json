@@ -3209,5 +3209,17 @@
         "number": 47580,
         "state": "open",
         "updated_at": 1741800085
+    },
+    "47581": {
+        "base_branch": "CMSSW_14_2_X",
+        "changed_files_names": [
+            "RecoTracker/SpecialSeedGenerators/python/CombinatorialSeedGeneratorForCosmics_cfi.py",
+            "RecoTracker/SpecialSeedGenerators/python/CosmicSeed_cfi.py",
+            "RecoTracker/SpecialSeedGenerators/python/SimpleCosmicBONSeeder_cfi.py"
+        ],
+        "created_at": 1741800333,
+        "number": 47581,
+        "state": "open",
+        "updated_at": 1741800359
     }
 }
