@@ -3242,5 +3242,28 @@
         "number": 47583,
         "state": "open",
         "updated_at": 1741803107
+    },
+    "47584": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Framework/interface/OccurrenceForOutput.h",
+            "FWCore/Framework/interface/Principal.h",
+            "FWCore/Framework/interface/PrincipalCache.h",
+            "FWCore/Framework/src/EventProcessor.cc",
+            "FWCore/Framework/src/OccurrenceForOutput.cc",
+            "FWCore/Framework/src/Principal.cc",
+            "FWCore/Framework/src/PrincipalCache.cc",
+            "FWCore/Framework/test/stubs/ToyIntProducers.cc",
+            "FWCore/Integration/test/BuildFile.xml",
+            "FWCore/Integration/test/provenance_check_cfg.py",
+            "FWCore/Integration/test/provenance_prod_cfg.py",
+            "FWCore/Integration/test/provenance_test.sh",
+            "FWCore/Modules/src/AsciiOutputModule.cc",
+            "FWCore/TestProcessor/src/TestSourceProcessor.cc"
+        ],
+        "created_at": 1741803661,
+        "number": 47584,
+        "state": "open",
+        "updated_at": 1741803686
     }
 }
