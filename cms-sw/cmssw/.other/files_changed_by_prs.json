@@ -3221,5 +3221,26 @@
         "number": 47581,
         "state": "open",
         "updated_at": 1741800359
+    },
+    "47583": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "FWCore/Framework/interface/EDConsumerBase.h",
+            "FWCore/Framework/interface/OutputModuleCore.h",
+            "FWCore/Framework/src/OutputModuleCore.cc",
+            "FWCore/Framework/src/Schedule.cc",
+            "FWCore/Integration/test/BuildFile.xml",
+            "FWCore/Integration/test/test_finalpath.sh",
+            "FWCore/Integration/test/test_finalpath_cfg.py",
+            "FWCore/ParameterSet/python/Config.py",
+            "FWCore/ParameterSet/python/SequenceTypes.py",
+            "FWCore/ParameterSet/python/SequenceVisitors.py",
+            "HLTrigger/Configuration/scripts/hltDumpStream",
+            "HLTrigger/Configuration/scripts/hltListPaths"
+        ],
+        "created_at": 1741803078,
+        "number": 47583,
+        "state": "open",
+        "updated_at": 1741803107
     }
 }
