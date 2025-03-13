@@ -1174,6 +1174,7 @@
             "EventFilter/HcalRawToDigi/plugins/HcalDigisProducerGPU.cc",
             "EventFilter/HcalRawToDigi/plugins/HcalESProducerGPUDefs.cc",
             "EventFilter/HcalRawToDigi/plugins/HcalRawToDigiGPU.cc",
+            "RecoLocalCalo/Configuration/python/RecoLocalCalo_Cosmics_cff.py",
             "RecoLocalCalo/Configuration/python/hcalGlobalReco_cff.py",
             "RecoLocalCalo/Configuration/python/hcalLocalReco_cff.py",
             "RecoLocalCalo/HcalRecAlgos/BuildFile.xml",
@@ -1181,9 +1182,11 @@
             "RecoLocalCalo/HcalRecAlgos/interface/HcalRecoParamsWithPulseShapesGPU.h",
             "RecoLocalCalo/HcalRecAlgos/src/HcalMahiPulseOffsetsGPU.cc",
             "RecoLocalCalo/HcalRecAlgos/src/HcalRecoParamsWithPulseShapesGPU.cc",
+            "RecoLocalCalo/HcalRecAlgos/test/run_mahidebugger_run3data_cfg.py",
             "RecoLocalCalo/HcalRecProducers/BuildFile.xml",
             "RecoLocalCalo/HcalRecProducers/bin/BuildFile.xml",
             "RecoLocalCalo/HcalRecProducers/bin/makeHcalRecHitGpuValidationPlots.cpp",
+            "RecoLocalCalo/HcalRecProducers/python/HBHE_custom_25nsMethod.py",
             "RecoLocalCalo/HcalRecProducers/python/hbheRecHitProducerGPUTask_cff.py",
             "RecoLocalCalo/HcalRecProducers/src/DeclsForKernels.h",
             "RecoLocalCalo/HcalRecProducers/src/HBHERecHitProducerGPU.cc",
@@ -1200,7 +1203,7 @@
         "created_at": 1726261445,
         "number": 46004,
         "state": "open",
-        "updated_at": 1738913976
+        "updated_at": 1741885710
     },
     "46076": {
         "base_branch": "master",
