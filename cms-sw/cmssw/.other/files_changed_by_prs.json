@@ -3280,5 +3280,22 @@
         "number": 47591,
         "state": "open",
         "updated_at": 1741871837
+    },
+    "47592": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQM/Physics/src/SingleTopTChannelLeptonDQM.cc",
+            "DQM/Physics/src/SingleTopTChannelLeptonDQM_miniAOD.cc",
+            "DQM/Physics/src/TopSingleLeptonDQM.cc",
+            "DQM/Physics/src/TopSingleLeptonDQM_miniAOD.cc",
+            "DQM/Physics/test/topDQM_harvesting_cfg.py",
+            "DQM/Physics/test/topDQM_harvesting_miniAOD.py",
+            "DQM/Physics/test/topDQM_production_cfg.py",
+            "DQM/Physics/test/topDQM_production_miniAOD.py"
+        ],
+        "created_at": 1741878434,
+        "number": 47592,
+        "state": "open",
+        "updated_at": 1741878461
     }
 }
