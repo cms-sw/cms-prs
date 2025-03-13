@@ -970,7 +970,6 @@
             "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareRecHitsSoA.cc",
             "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareTrackSoA.cc",
             "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareVertexSoA.cc",
-            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareVertices.cc",
             "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorRecHitsSoA.cc",
             "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorTrackSoA.cc",
             "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorVertexSoA.cc",
@@ -981,7 +980,6 @@
             "EventFilter/SiPixelRawToDigi/plugins/SiPixelDigiErrorsFromSoA.cc",
             "EventFilter/SiPixelRawToDigi/plugins/SiPixelDigiErrorsSoAFromCUDA.cc",
             "EventFilter/SiPixelRawToDigi/plugins/SiPixelDigisSoAFromCUDA.cc",
-            "EventFilter/SiPixelRawToDigi/python/SiPixelRawToDigi_cfi.py",
             "EventFilter/SiPixelRawToDigi/python/siPixelDigis_cff.py",
             "RecoLocalTracker/SiPixelClusterizer/interface/SiPixelClusterThresholds.h",
             "RecoLocalTracker/SiPixelClusterizer/plugins/BuildFile.xml",
@@ -1011,7 +1009,6 @@
             "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitSoAFromCUDA.cc",
             "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitSoAFromLegacy.cc",
             "RecoLocalTracker/SiPixelRecHits/plugins/gpuPixelRecHits.h",
-            "RecoLocalTracker/SiPixelRecHits/python/PixelCPEESProducers_cff.py",
             "RecoLocalTracker/SiPixelRecHits/src/PixelCPEFast.cc",
             "RecoTauTag/HLTProducers/BuildFile.xml",
             "RecoTauTag/HLTProducers/src/L2TauTagNNProducer.cc",
@@ -1052,7 +1049,6 @@
             "RecoTracker/TransientTrackingRecHit/python/TTRHBuilders_cff.py",
             "RecoVertex/BeamSpotProducer/plugins/BeamSpotToCUDA.cc",
             "RecoVertex/BeamSpotProducer/plugins/BuildFile.xml",
-            "RecoVertex/BeamSpotProducer/python/BeamSpot_cff.py",
             "RecoVertex/PixelVertexFinding/plugins/BuildFile.xml",
             "RecoVertex/PixelVertexFinding/plugins/PixelVertexProducerCUDA.cc",
             "RecoVertex/PixelVertexFinding/plugins/PixelVertexProducerFromSoA.cc",
@@ -1077,7 +1073,7 @@
         "created_at": 1725219441,
         "number": 45853,
         "state": "open",
-        "updated_at": 1741307038
+        "updated_at": 1741854367
     },
     "45863": {
         "base_branch": "master",
