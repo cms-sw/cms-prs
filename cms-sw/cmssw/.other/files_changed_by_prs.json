@@ -3310,5 +3310,24 @@
         "number": 47593,
         "state": "open",
         "updated_at": 1741885325
+    },
+    "47594": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/NanoAOD/interface/FlatTable.h",
+            "DataFormats/NanoAOD/src/FlatTable.cc",
+            "DataFormats/NanoAOD/src/classes_def.xml",
+            "PhysicsTools/NanoAOD/interface/SimpleFlatTableProducer.h",
+            "PhysicsTools/NanoAOD/plugins/NanoAODDQM.cc",
+            "PhysicsTools/NanoAOD/plugins/TableOutputBranches.cc",
+            "PhysicsTools/NanoAOD/plugins/TableOutputBranches.h",
+            "PhysicsTools/NanoAOD/plugins/TriggerObjectTableProducer.cc",
+            "PhysicsTools/NanoAOD/python/nanoDQM_cfi.py",
+            "PhysicsTools/NanoAOD/python/triggerObjects_cff.py"
+        ],
+        "created_at": 1741889774,
+        "number": 47594,
+        "state": "open",
+        "updated_at": 1741889803
     }
 }
