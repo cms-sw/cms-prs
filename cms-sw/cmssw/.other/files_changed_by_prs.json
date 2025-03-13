@@ -2866,6 +2866,7 @@
             "DQM/Integration/python/clients/hcalcalib_dqm_sourceclient-live_cfg.py",
             "DQM/Integration/python/clients/hcalgpu_dqm_sourceclient-live_cfg.py",
             "DQM/Integration/python/clients/hcalreco_dqm_sourceclient-live_cfg.py",
+            "DQM/Integration/python/clients/hlt_dqm_clientPB-live_cfg.py",
             "DQM/Integration/python/clients/hlt_dqm_sourceclient-live_cfg.py",
             "DQM/Integration/python/clients/info_dqm_sourceclient-live_cfg.py",
             "DQM/Integration/python/clients/l1tstage2_dqm_sourceclient-live_cfg.py",
@@ -2887,7 +2888,7 @@
         "created_at": 1741696194,
         "number": 47557,
         "state": "open",
-        "updated_at": 1741705786
+        "updated_at": 1741865195
     },
     "47559": {
         "base_branch": "CMSSW_15_0_X",
