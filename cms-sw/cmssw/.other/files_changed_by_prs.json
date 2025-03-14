@@ -3127,5 +3127,23 @@
         "number": 47601,
         "state": "open",
         "updated_at": 1741971109
+    },
+    "47602": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/Provenance/interface/ProductRegistry.h",
+            "FWCore/Framework/interface/PrincipalCache.h",
+            "FWCore/Framework/src/EventProcessor.cc",
+            "FWCore/Framework/src/Principal.cc",
+            "FWCore/Framework/src/PrincipalCache.cc",
+            "FWCore/Integration/test/provenance_prod_cfg.py",
+            "FWCore/Integration/test/provenance_test.sh",
+            "FWCore/Modules/src/ProvenanceCheckerOutputModule.cc",
+            "FWCore/TestProcessor/src/TestSourceProcessor.cc"
+        ],
+        "created_at": 1741978828,
+        "number": 47602,
+        "state": "open",
+        "updated_at": 1741978876
     }
 }
