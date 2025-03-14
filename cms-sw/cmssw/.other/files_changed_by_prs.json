@@ -1961,27 +1961,6 @@
         "state": "open",
         "updated_at": 1741690713
     },
-    "47178": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "Configuration/PyReleaseValidation/README.md",
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
-            "DPGAnalysis/Phase2L1TNanoAOD/BuildFile.xml",
-            "DPGAnalysis/Phase2L1TNanoAOD/README.md",
-            "DPGAnalysis/Phase2L1TNanoAOD/plugins/BuildFile.xml",
-            "DPGAnalysis/Phase2L1TNanoAOD/plugins/L1TableProducer.cc",
-            "DPGAnalysis/Phase2L1TNanoAOD/plugins/P2GTTriggerResultsConverter.cc",
-            "DPGAnalysis/L1TNanoAOD/plugins/P2GTTriggerResultsConverter.cc",
-            "DPGAnalysis/Phase2L1TNanoAOD/python/l1tPh2GTtables_cff.py",
-            "DPGAnalysis/Phase2L1TNanoAOD/python/l1tPh2Nano_cff.py",
-            "DPGAnalysis/Phase2L1TNanoAOD/python/l1tPh2Nanotables_cff.py",
-            "PhysicsTools/NanoAOD/python/autoNANO.py"
-        ],
-        "created_at": 1737709221,
-        "number": 47178,
-        "state": "open",
-        "updated_at": 1741168668
-    },
     "47183": {
         "base_branch": "CMSSW_10_6_X",
         "changed_files_names": [
