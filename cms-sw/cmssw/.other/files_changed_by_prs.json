@@ -3227,5 +3227,19 @@
         "number": 47605,
         "state": "open",
         "updated_at": 1742166315
+    },
+    "47606": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "DataFormats/SoATemplate/interface/SoACommon.h",
+            "DataFormats/SoATemplate/interface/SoALayout.h",
+            "HeterogeneousCore/AlpakaCore/README.md",
+            "HeterogeneousCore/AlpakaInterface/interface/atomicInc.h",
+            "HeterogeneousCore/AlpakaInterface/interface/atomicIncSaturate.h"
+        ],
+        "created_at": 1742166349,
+        "number": 47606,
+        "state": "open",
+        "updated_at": 1742166373
     }
 }
