@@ -3291,6 +3291,8 @@
         "base_branch": "CMSSW_15_0_X",
         "changed_files_names": [
             "DataFormats/HeterogeneousTutorial/BuildFile.xml",
+            "DataFormats/HeterogeneousTutorial/COPYING",
+            "DataFormats/HeterogeneousTutorial/README.md",
             "DataFormats/HeterogeneousTutorial/interface/JetsHostCollection.h",
             "DataFormats/HeterogeneousTutorial/interface/JetsSoA.h",
             "DataFormats/HeterogeneousTutorial/interface/TripletsHostCollection.h",
@@ -3311,6 +3313,7 @@
             "HeterogeneousCore/AlpakaInterface/interface/atomicInc.h",
             "HeterogeneousCore/AlpakaInterface/interface/atomicIncSaturate.h",
             "HeterogeneousCore/Tutorial/BuildFile.xml",
+            "HeterogeneousCore/Tutorial/COPYING",
             "HeterogeneousCore/Tutorial/README.md",
             "HeterogeneousCore/Tutorial/data/corrections.txt",
             "HeterogeneousCore/Tutorial/interface/JetsSelectionHostCollection.h",
@@ -3340,7 +3343,7 @@
         "created_at": 1742166775,
         "number": 47608,
         "state": "open",
-        "updated_at": 1742166798
+        "updated_at": 1742231780
     },
     "47609": {
         "base_branch": "CMSSW_15_0_X",
