@@ -3551,5 +3551,27 @@
         "number": 47612,
         "state": "open",
         "updated_at": 1742221603
+    },
+    "47613": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "SimG4Core/Application/src/ExceptionHandler.cc",
+            "SimG4Core/Application/src/RunManagerMT.cc",
+            "SimG4Core/Application/src/RunManagerMTWorker.cc",
+            "SimG4Core/Application/src/TrackingAction.cc",
+            "SimG4Core/Physics/interface/CMSG4TrackInterface.h",
+            "SimG4Core/Application/interface/CMSG4TrackInterface.h",
+            "SimG4Core/Physics/src/CMSG4TrackInterface.cc",
+            "SimG4Core/Application/src/CMSG4TrackInterface.cc",
+            "SimG4Core/PhysicsLists/interface/CMSEmStandardPhysics.h",
+            "SimG4Core/PhysicsLists/plugins/FTFPCMS_BERT_EMM.cc",
+            "SimG4Core/PhysicsLists/plugins/FTFPCMS_BERT_HP_EMM.cc",
+            "SimG4Core/PhysicsLists/plugins/QGSPCMS_FTFP_BERT_EMM.cc",
+            "SimG4Core/PhysicsLists/src/CMSEmStandardPhysics.cc"
+        ],
+        "created_at": 1742238304,
+        "number": 47613,
+        "state": "open",
+        "updated_at": 1742238327
     }
 }
