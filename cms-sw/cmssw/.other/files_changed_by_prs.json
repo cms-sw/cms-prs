@@ -3269,5 +3269,25 @@
         "number": 47616,
         "state": "open",
         "updated_at": 1742312434
+    },
+    "47618": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoTracker/LSTCore/interface/alpaka/Common.h",
+            "RecoTracker/LSTCore/src/alpaka/NeuralNetwork.h",
+            "RecoTracker/LSTCore/src/alpaka/T3NeuralNetworkWeights.h",
+            "RecoTracker/LSTCore/src/alpaka/T5NeuralNetworkWeights.h",
+            "RecoTracker/LSTCore/src/alpaka/NeuralNetworkWeights.h",
+            "RecoTracker/LSTCore/src/alpaka/Triplet.h",
+            "RecoTracker/LSTCore/standalone/analysis/DNN/train_T3_DNN.ipynb",
+            "RecoTracker/LSTCore/standalone/code/core/AccessHelper.cc",
+            "RecoTracker/LSTCore/standalone/code/core/AccessHelper.h",
+            "RecoTracker/LSTCore/standalone/code/core/write_lst_ntuple.cc",
+            "RecoTracker/LSTCore/standalone/code/core/write_lst_ntuple.h"
+        ],
+        "created_at": 1742315086,
+        "number": 47618,
+        "state": "open",
+        "updated_at": 1742315108
     }
 }
