@@ -1175,6 +1175,7 @@
             "EventFilter/HcalRawToDigi/plugins/HcalESProducerGPUDefs.cc",
             "EventFilter/HcalRawToDigi/plugins/HcalRawToDigiGPU.cc",
             "RecoLocalCalo/Configuration/python/RecoLocalCalo_Cosmics_cff.py",
+            "RecoLocalCalo/Configuration/python/customiseHBHEreco.py",
             "RecoLocalCalo/Configuration/python/hcalGlobalReco_cff.py",
             "RecoLocalCalo/Configuration/python/hcalLocalReco_cff.py",
             "RecoLocalCalo/HcalRecAlgos/BuildFile.xml",
@@ -1198,12 +1199,13 @@
             "RecoLocalCalo/HcalRecProducers/src/MahiGPU.cu",
             "RecoLocalCalo/HcalRecProducers/src/SimpleAlgoGPU.h",
             "RecoLocalCalo/HcalRecProducers/test/make_GPUvsCPU_HCAL_plots.py",
-            "RecoLocalCalo/HcalRecProducers/test/make_GPUvsCPU_HCAL_rechits.py"
+            "RecoLocalCalo/HcalRecProducers/test/make_GPUvsCPU_HCAL_rechits.py",
+            "Validation/Configuration/python/ECALHCAL.py"
         ],
         "created_at": 1726261445,
         "number": 46004,
         "state": "open",
-        "updated_at": 1741885818
+        "updated_at": 1742332835
     },
     "46076": {
         "base_branch": "master",
