@@ -1302,32 +1302,6 @@
         "state": "open",
         "updated_at": 1740581359
     },
-    "46572": {
-        "base_branch": "CMSSW_14_1_X",
-        "changed_files_names": [
-            "CondTools/RunInfo/interface/LHCInfoHelper.h",
-            "CondTools/RunInfo/interface/LHCInfoPerFillPopConSourceHandler.h",
-            "CondTools/RunInfo/interface/LHCInfoPerLSPopConSourceHandler.h",
-            "CondTools/RunInfo/interface/LHCInfoPopConSourceHandler.h",
-            "CondTools/RunInfo/plugins/BuildFile.xml",
-            "CondTools/RunInfo/plugins/LHCInfoPerFillOnlinePopConAnalyzer.cc",
-            "CondTools/RunInfo/plugins/LHCInfoPerFillPopConAnalyzer.cc",
-            "CondTools/RunInfo/plugins/LHCInfoPerLSOnlinePopConAnalyzer.cc",
-            "CondTools/RunInfo/plugins/LHCInfoPerLSPopConAnalyzer.cc",
-            "CondTools/RunInfo/python/LHCInfoPerFillPopConAnalyzer_cfg.py",
-            "CondTools/RunInfo/python/LHCInfoPerLSPopConAnalyzer_cfg.py",
-            "CondTools/RunInfo/src/LHCInfoHelper.cc",
-            "CondTools/RunInfo/src/LHCInfoPerFillPopConSourceHandler.cc",
-            "CondTools/RunInfo/src/LHCInfoPerLSPopConSourceHandler.cc",
-            "CondTools/RunInfo/src/LHCInfoPopConSourceHandler.cc",
-            "CondTools/RunInfo/test/last_lumi.txt",
-            "CondTools/RunInfo/test/test_lhcInfoNewPopCon.sh"
-        ],
-        "created_at": 1730391538,
-        "number": 46572,
-        "state": "open",
-        "updated_at": 1740581375
-    },
     "46579": {
         "base_branch": "master",
         "changed_files_names": [
