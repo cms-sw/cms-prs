@@ -3402,5 +3402,18 @@
         "number": 47629,
         "state": "open",
         "updated_at": 1742404319
+    },
+    "47630": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondCore/ESSources/plugins/CondDBESSource.cc",
+            "CondCore/ESSources/plugins/CondDBESSource.h",
+            "CondCore/ESSources/python/CondDBESSource_cfi.py",
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py"
+        ],
+        "created_at": 1742412452,
+        "number": 47630,
+        "state": "open",
+        "updated_at": 1742412480
     }
 }
