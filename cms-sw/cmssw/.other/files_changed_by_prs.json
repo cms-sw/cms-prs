@@ -3197,6 +3197,7 @@
             "SimG4Core/Application/src/RunManagerMT.cc",
             "SimG4Core/Application/src/RunManagerMTWorker.cc",
             "SimG4Core/Application/src/TrackingAction.cc",
+            "SimG4Core/GeometryProducer/src/GeometryProducer.cc",
             "SimG4Core/Physics/interface/CMSG4TrackInterface.h",
             "SimG4Core/Application/interface/CMSG4TrackInterface.h",
             "SimG4Core/Physics/src/CMSG4TrackInterface.cc",
@@ -3210,7 +3211,7 @@
         "created_at": 1742238304,
         "number": 47613,
         "state": "open",
-        "updated_at": 1742281645
+        "updated_at": 1742382377
     },
     "47614": {
         "base_branch": "master",
