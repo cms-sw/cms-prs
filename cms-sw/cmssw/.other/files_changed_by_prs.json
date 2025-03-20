@@ -3499,5 +3499,21 @@
         "number": 47642,
         "state": "open",
         "updated_at": 1742481790
+    },
+    "47643": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/Geometry/python/dict2021Geometry.py",
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2021.xml",
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2023.xml",
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2024.xml",
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2021XML_cfi.py",
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2023XML_cfi.py",
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2024XML_cfi.py"
+        ],
+        "created_at": 1742483546,
+        "number": 47643,
+        "state": "open",
+        "updated_at": 1742483573
     }
 }
