@@ -2378,38 +2378,6 @@
         "state": "open",
         "updated_at": 1741382074
     },
-    "47498": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "Alignment/CocoaModel/src/DeviationsFromFileSensor2D.cc",
-            "Alignment/CocoaModel/src/Measurement.cc",
-            "Alignment/OfflineValidation/bin/haddws.C",
-            "Alignment/OfflineValidation/macros/loopAndPlot.C",
-            "CalibCalorimetry/CastorCalib/src/CastorDbHardcode.cc",
-            "CalibCalorimetry/CastorCalib/src/CastorPedestalAnalysis.cc",
-            "CalibCalorimetry/EcalLaserAnalyzer/src/MELaserPrim.cc",
-            "CalibFormats/SiPixelObjects/interface/PixelConfigBase.h",
-            "CalibFormats/SiPixelObjects/src/PixelFEDCard.cc",
-            "CalibTracker/SiPixelGainCalibration/plugins/SiPixelGainCalibrationAnalysis.cc",
-            "CalibTracker/SiStripAPVAnalysis/src/TT6ApvMask.cc",
-            "CondCore/Utilities/bin/conddb_copy_iov.cpp",
-            "CondCore/Utilities/bin/conddb_edit_tag.cpp",
-            "CondCore/Utilities/bin/conddb_import.cpp",
-            "CondCore/Utilities/bin/conddb_test.cpp",
-            "CondCore/Utilities/bin/conddb_test_gt_load.cpp",
-            "CondCore/Utilities/bin/conddb_test_gt_perf.cpp",
-            "CondCore/Utilities/bin/conddb_test_read.cpp",
-            "CondCore/Utilities/src/CondDBImport.cc",
-            "CondFormats/DTObjects/src/DTReadOutMapping.cc",
-            "CondFormats/L1TObjects/src/L1GtTriggerMenu.cc",
-            "CondTools/DT/src/DTExpandMap.cc",
-            "CondTools/DT/src/DTHVStatusHandler.cc"
-        ],
-        "created_at": 1741077997,
-        "number": 47498,
-        "state": "open",
-        "updated_at": 1742400003
-    },
     "47504": {
         "base_branch": "master",
         "changed_files_names": [
