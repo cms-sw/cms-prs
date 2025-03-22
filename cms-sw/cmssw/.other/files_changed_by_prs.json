@@ -3026,12 +3026,18 @@
             "CondCore/ESSources/plugins/CondDBESSource.cc",
             "CondCore/ESSources/plugins/CondDBESSource.h",
             "CondCore/ESSources/python/CondDBESSource_cfi.py",
+            "CondCore/ESSources/test/BuildFile.xml",
+            "CondCore/ESSources/test/python/load_from_globaltag_cfg.py",
+            "CondCore/ESSources/test/python/load_record_empty_source_cfg.py",
+            "CondCore/ESSources/test/python/load_records_cfg.py",
+            "CondCore/ESSources/test/python/load_tagcollection_cfg.py",
+            "CondCore/ESSources/test/runConditionsLoadTests.sh",
             "HLTrigger/Configuration/python/customizeHLTforCMSSW.py"
         ],
         "created_at": 1742412452,
         "number": 47630,
         "state": "open",
-        "updated_at": 1742487208
+        "updated_at": 1742645007
     },
     "47634": {
         "base_branch": "master",
