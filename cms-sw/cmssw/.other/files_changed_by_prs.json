@@ -3283,5 +3283,22 @@
         "number": 47660,
         "state": "open",
         "updated_at": 1742592854
+    },
+    "47661": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "Alignment/OfflineValidation/macros/analyzeDiMuonBiases.C",
+            "Alignment/OfflineValidation/macros/analyzeDiMuonBiases_fast.C",
+            "Alignment/OfflineValidation/macros/overlayDiMuonBiases.C",
+            "Alignment/OfflineValidation/test/BuildFile.xml",
+            "Alignment/OfflineValidation/test/SagittaBiasNtuplizer_cfg.py",
+            "Alignment/OfflineValidation/test/testanalyzeDiMuonBiases.cpp",
+            "Alignment/OfflineValidation/test/testingScripts/test_unitMiscellanea.sh",
+            "Alignment/OfflineValidation/test/testingScripts/test_unitSagittaBiasNtuplizer.sh"
+        ],
+        "created_at": 1742640254,
+        "number": 47661,
+        "state": "open",
+        "updated_at": 1742640282
     }
 }
