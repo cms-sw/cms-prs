@@ -2557,18 +2557,18 @@
             "PhysicsTools/BPHNano/python/tracks_cff.py",
             "PhysicsTools/BPHNano/python/trgbits_cff.py",
             "PhysicsTools/BPHNano/python/vertices_cff.py",
-            "PhysicsTools/BPHNano/src/classes.h",
-            "PhysicsTools/BPHNano/src/classes_def.xml",
             "PhysicsTools/BPHNano/test/run_bphNano_cfg.py",
             "PhysicsTools/BPHNano/test/time_analysis.py",
             "PhysicsTools/BPHNano/test/validate_nano.py",
             "PhysicsTools/BPHNano/test/validate_pr.sh",
-            "PhysicsTools/NanoAOD/python/autoNANO.py"
+            "PhysicsTools/NanoAOD/python/autoNANO.py",
+            "TrackingTools/TransientTrack/src/classes.h",
+            "TrackingTools/TransientTrack/src/classes_def.xml"
         ],
         "created_at": 1742054252,
         "number": 47603,
         "state": "open",
-        "updated_at": 1742651825
+        "updated_at": 1742660218
     },
     "47605": {
         "base_branch": "master",
