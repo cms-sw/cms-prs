@@ -3293,5 +3293,38 @@
         "number": 47673,
         "state": "open",
         "updated_at": 1742771443
+    },
+    "47675": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CalibPPS/ESProducers/test/ppsTimingCalibrationAnalyzer_cfg.py",
+            "CalibPPS/TimingCalibration/test/DiamondCalibrationWorker_cfg.py",
+            "CalibPPS/TimingCalibration/test/DiamondSampicCalibrationHarvester_cfg.py",
+            "CalibPPS/TimingCalibration/test/DiamondSampicCalibrationWorker_cfg.py",
+            "CalibTracker/Configuration/python/Common/PoolDBESSource_cfi.py",
+            "CondTools/CTPPS/test/ppsTimingCalibrationLUTAnalyzer_cfg.py",
+            "CondTools/DQM/test/DQMXMLFileEventSetupAnalyzer_cfg.py",
+            "CondTools/RunInfo/test/LHCInfoPerFillAnalyzer_cfg.py",
+            "CondTools/RunInfo/test/LHCInfoPerLSAnalyzer_cfg.py",
+            "CondTools/SiPixel/test/SiPixelBadModuleReader_cfg.py",
+            "CondTools/SiPixel/test/SiPixelCondObjAllPayloadsReader_cfg.py",
+            "CondTools/SiPixel/test/SiPixelCondObjForHLTReader_cfg.py",
+            "CondTools/SiPixel/test/SiPixelCondObjOfflineReader_cfg.py",
+            "CondTools/SiPixel/test/SiPixelGainCalibrationRejectNoisyAndDead_cfg.py",
+            "CondTools/SiStrip/test/SiStripApvGainFromASCIIFile_cfg.py",
+            "CondTools/SiStrip/test/SiStripBadChannelPatcher_cfg.py",
+            "CondTools/SiStrip/test/SiStripBadStripReader_cfg.py",
+            "CondTools/SiStrip/test/SiStripFedCablingReader_cfg.py",
+            "CondTools/SiStrip/test/SiStripSummaryReader_cfg.py",
+            "CondTools/SiStrip/test/SiStripThresholdReader_cfg.py",
+            "DQM/CTPPS/test/diamond_re_reco_dqm_test_cfg.py",
+            "RecoPPS/Local/test/diamonds_reco_cfg.py",
+            "RecoPPS/Local/test/totemTiming_digiConverter_reco_cfg.py",
+            "RecoPPS/Local/test/totemTiming_reco_cfg.py"
+        ],
+        "created_at": 1742805328,
+        "number": 47675,
+        "state": "open",
+        "updated_at": 1742805353
     }
 }
