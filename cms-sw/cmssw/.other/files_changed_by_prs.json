@@ -3383,5 +3383,22 @@
         "number": 47682,
         "state": "open",
         "updated_at": 1742910386
+    },
+    "47683": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "EventFilter/L1GlobalTriggerRawToDigi/src/L1GTDigiToRaw.cc",
+            "EventFilter/L1TXRawToDigi/plugins/L1TTwinMuxRawToDigi.cc",
+            "L1Trigger/CSCTrackFinder/src/CSCTFPtLUT.cc",
+            "L1Trigger/DTBti/src/DTBtiCard.cc",
+            "L1Trigger/GlobalTrigger/src/L1GlobalTriggerPSB.cc",
+            "L1Trigger/GlobalTrigger/src/L1GtCorrelationCondition.cc",
+            "L1Trigger/HardwareValidation/src/L1Comparator.cc",
+            "L1Trigger/L1CaloTrigger/plugins/L1NNCaloTauEmulator.cc"
+        ],
+        "created_at": 1742911638,
+        "number": 47683,
+        "state": "open",
+        "updated_at": 1742911663
     }
 }
