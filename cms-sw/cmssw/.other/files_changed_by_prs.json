@@ -3491,5 +3491,43 @@
         "number": 47692,
         "state": "open",
         "updated_at": 1742921811
+    },
+    "47693": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/L1DTTrackFinder/interface/L1Phase2MuDTShower.h",
+            "DataFormats/L1DTTrackFinder/interface/L1Phase2MuDTShowerContainer.h",
+            "DataFormats/L1DTTrackFinder/src/L1Phase2MuDTShower.cc",
+            "DataFormats/L1DTTrackFinder/src/L1Phase2MuDTShowerContainer.cc",
+            "DataFormats/L1DTTrackFinder/src/classes.h",
+            "DataFormats/L1DTTrackFinder/src/classes_def.xml",
+            "L1Trigger/Configuration/python/SimL1Emulator_cff.py",
+            "L1Trigger/DTTriggerPhase2/interface/MPCoincidenceFilter.h",
+            "L1Trigger/DTTriggerPhase2/interface/MPThetaMatching.h",
+            "L1Trigger/DTTriggerPhase2/interface/ShowerBuilder.h",
+            "L1Trigger/DTTriggerPhase2/interface/ShowerCandidate.h",
+            "L1Trigger/DTTriggerPhase2/plugins/DTTrigPhase2Prod.cc",
+            "L1Trigger/DTTriggerPhase2/plugins/DTTrigPhase2ShowerProd.cc",
+            "L1Trigger/DTTriggerPhase2/python/dtTriggerPhase2PrimitiveDigis_cfi.py",
+            "L1Trigger/DTTriggerPhase2/python/dtTriggerPhase2Showers_cfi.py",
+            "L1Trigger/DTTriggerPhase2/src/MPCoincidenceFilter.cc",
+            "L1Trigger/DTTriggerPhase2/src/MPThetaMatching.cc",
+            "L1Trigger/DTTriggerPhase2/src/ShowerBuilder.cc",
+            "L1Trigger/DTTriggerPhase2/src/ShowerCandidate.cc",
+            "L1Trigger/DTTriggerPhase2/test/primitivesPhase2Prod_over_dTDigis_and_4Dsegments_cfg.py",
+            "L1Trigger/DTTriggerPhase2/test/primitivesPhase2Prod_over_dTDigis_and_4Dsegments_cfg_withRPC.py",
+            "L1Trigger/DTTriggerPhase2/test/primitivesPhase2Prod_over_hlt_parallel_cfg.py",
+            "L1Trigger/DTTriggerPhase2/test/primitivesPhase2Prod_over_mc_cfg.py",
+            "L1Trigger/DTTriggerPhase2/test/primitivesPhase2Prod_over_unpacked_cfg.py",
+            "L1Trigger/DTTriggerPhase2/test/test_primitivesPhase2Prod.py",
+            "L1Trigger/DTTriggerPhase2/test/test_primitivesPhase2Prod_DEBUG_Grouping_cfg.py",
+            "L1Trigger/DTTriggerPhase2/test/test_primitivesPhase2Prod_over_dTDigis_and_4Dsegments_cfg.py",
+            "L1Trigger/Phase2L1GMT/test/runGMT.py",
+            "L1Trigger/Phase2L1GMT/test/test.py"
+        ],
+        "created_at": 1742925106,
+        "number": 47693,
+        "state": "open",
+        "updated_at": 1742925139
     }
 }
