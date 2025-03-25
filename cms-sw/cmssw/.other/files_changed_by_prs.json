@@ -3425,5 +3425,25 @@
         "number": 47685,
         "state": "open",
         "updated_at": 1742913404
+    },
+    "47686": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "PhysicsTools/NanoAOD/plugins/BuildFile.xml",
+            "PhysicsTools/NanoAOD/plugins/DeepJetTableProducer.cc",
+            "PhysicsTools/NanoAOD/plugins/GenCandMotherTableProducer.cc",
+            "PhysicsTools/NanoAOD/plugins/JetConstituentTableProducer.cc",
+            "PhysicsTools/NanoAOD/plugins/JetTaggerTableProducer.cc",
+            "PhysicsTools/NanoAOD/plugins/PackedCandMCMatchTableProducer.cc",
+            "PhysicsTools/NanoAOD/python/btvMC_cff.py",
+            "PhysicsTools/NanoAOD/python/custom_btv_cff.py",
+            "PhysicsTools/NanoAOD/test/BuildFile.xml",
+            "PhysicsTools/NanoAOD/test/test-btvNano.py",
+            "PhysicsTools/NanoAOD/test/test-btvNano.sh"
+        ],
+        "created_at": 1742913562,
+        "number": 47686,
+        "state": "open",
+        "updated_at": 1742913591
     }
 }
