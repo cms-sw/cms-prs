@@ -3373,6 +3373,7 @@
             "EventFilter/L1TXRawToDigi/plugins/L1TTwinMuxRawToDigi.cc",
             "L1Trigger/CSCTrackFinder/src/CSCTFPtLUT.cc",
             "L1Trigger/DTBti/src/DTBtiCard.cc",
+            "L1Trigger/DTBti/src/DTBtiChipEquations.cc",
             "L1Trigger/GlobalTrigger/src/L1GlobalTriggerPSB.cc",
             "L1Trigger/GlobalTrigger/src/L1GtCorrelationCondition.cc",
             "L1Trigger/HardwareValidation/src/L1Comparator.cc",
@@ -3381,7 +3382,7 @@
         "created_at": 1742911638,
         "number": 47683,
         "state": "open",
-        "updated_at": 1742911663
+        "updated_at": 1742914878
     },
     "47684": {
         "base_branch": "master",
