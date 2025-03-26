@@ -3007,12 +3007,13 @@
         "base_branch": "master",
         "changed_files_names": [
             "FWCore/ServiceRegistry/interface/ServicesManager.h",
-            "FWCore/Utilities/src/EDMException.cc"
+            "FWCore/Utilities/src/EDMException.cc",
+            "FWCore/Utilities/test/test_catch2_EDMException.cc"
         ],
         "created_at": 1742770072,
         "number": 47670,
         "state": "open",
-        "updated_at": 1742987481
+        "updated_at": 1743006996
     },
     "47671": {
         "base_branch": "CMSSW_15_0_X",
