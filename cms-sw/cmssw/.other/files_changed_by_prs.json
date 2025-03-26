@@ -3304,5 +3304,24 @@
         "number": 47701,
         "state": "open",
         "updated_at": 1743004899
+    },
+    "47702": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/ProcessModifiers/python/allSonicTriton_cff.py",
+            "Configuration/ProcessModifiers/python/unifiedparticleTransformerAK4SonicTriton_cff.py",
+            "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py",
+            "RecoBTag/ONNXRuntime/interface/tensor_configs.h",
+            "RecoBTag/ONNXRuntime/interface/tensor_fillers.h",
+            "RecoBTag/ONNXRuntime/plugins/UnifiedParticleTransformerAK4ONNXJetTagsProducer.cc",
+            "RecoBTag/ONNXRuntime/plugins/UnifiedParticleTransformerAK4SonicJetTagsProducer.cc",
+            "RecoBTag/ONNXRuntime/python/pfUnifiedParticleTransformerAK4V1_cff.py",
+            "RecoBTag/ONNXRuntime/python/pfUnifiedParticleTransformerAK4_cff.py",
+            "RecoBTag/ONNXRuntime/src/tensor_fillers.cc"
+        ],
+        "created_at": 1743008843,
+        "number": 47702,
+        "state": "open",
+        "updated_at": 1743008863
     }
 }
