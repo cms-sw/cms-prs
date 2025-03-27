@@ -1854,13 +1854,14 @@
             "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EcalUncalibRecHitPhase2WeightsAlgoPortable.dev.cc",
             "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EcalUncalibRecHitPhase2WeightsAlgoPortable.h",
             "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EcalUncalibRecHitPhase2WeightsProducerPortable.cc",
-            "RecoLocalCalo/EcalRecProducers/python/ecalUncalibRecHitPhase2Portable_cfi.py",
+            "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EcalUncalibRecHitPhase2WeightsStruct.h",
+            "RecoLocalCalo/EcalRecProducers/python/ecalRecHit_cff.py",
             "RecoLocalCalo/EcalRecProducers/python/ecalUncalibRecHitPhase2_cff.py"
         ],
         "created_at": 1737118172,
         "number": 47124,
         "state": "open",
-        "updated_at": 1741966438
+        "updated_at": 1743085549
     },
     "47138": {
         "base_branch": "master",
