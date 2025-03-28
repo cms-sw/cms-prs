@@ -3522,5 +3522,19 @@
         "number": 47719,
         "state": "open",
         "updated_at": 1743109672
+    },
+    "47721": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQMOffline/JetMET/interface/JetAnalyzer.h",
+            "DQMOffline/JetMET/python/jetAnalyzer_cff.py",
+            "DQMOffline/JetMET/python/jetAnalyzer_cfi.py",
+            "DQMOffline/JetMET/src/JetAnalyzer.cc",
+            "PhysicsTools/SelectorUtils/interface/Run3ScoutingPFJetIDSelectionFunctor.h"
+        ],
+        "created_at": 1743117744,
+        "number": 47721,
+        "state": "open",
+        "updated_at": 1743117773
     }
 }
