@@ -3318,5 +3318,21 @@
         "number": 47747,
         "state": "open",
         "updated_at": 1743493530
+    },
+    "47748": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "HeterogeneousCore/SonicCore/test/BuildFile.xml",
+            "HeterogeneousCore/SonicCore/test/sonicTestAna_cfg.py",
+            "HeterogeneousCore/SonicCore/test/sonicTest_cfg.py",
+            "HeterogeneousCore/SonicTriton/python/customize.py",
+            "HeterogeneousCore/SonicTriton/src/TritonService.cc",
+            "HeterogeneousCore/SonicTriton/test/tritonTest_cfg.py"
+        ],
+        "created_at": 1743507503,
+        "number": 47748,
+        "state": "open",
+        "updated_at": 1743507528
     }
 }
