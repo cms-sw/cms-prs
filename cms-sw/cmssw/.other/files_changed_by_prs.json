@@ -2420,7 +2420,9 @@
         "base_branch": "CMSSW_15_0_X",
         "changed_files_names": [
             "CondCore/CondDB/interface/IOVProxy.h",
+            "CondCore/CondDB/interface/Time.h",
             "CondCore/CondDB/src/IOVProxy.cc",
+            "CondCore/CondDB/src/Time.cc",
             "CondCore/ESSources/interface/ProductResolver.h",
             "CondCore/ESSources/plugins/CondDBESSource.cc",
             "CondCore/ESSources/plugins/CondDBESSource.h",
@@ -2430,7 +2432,7 @@
         "created_at": 1742315664,
         "number": 47619,
         "state": "open",
-        "updated_at": 1742805675
+        "updated_at": 1743500574
     },
     "47625": {
         "base_branch": "master",
