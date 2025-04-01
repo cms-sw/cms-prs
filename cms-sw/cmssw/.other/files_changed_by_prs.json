@@ -1764,7 +1764,9 @@
         "base_branch": "master",
         "changed_files_names": [
             "CondCore/CondDB/interface/IOVProxy.h",
+            "CondCore/CondDB/interface/Time.h",
             "CondCore/CondDB/src/IOVProxy.cc",
+            "CondCore/CondDB/src/Time.cc",
             "CondCore/ESSources/interface/ProductResolver.h",
             "CondCore/ESSources/plugins/CondDBESSource.cc",
             "CondCore/ESSources/plugins/CondDBESSource.h",
@@ -1774,7 +1776,7 @@
         "created_at": 1737650173,
         "number": 47171,
         "state": "open",
-        "updated_at": 1743426551
+        "updated_at": 1743491970
     },
     "47306": {
         "base_branch": "master",
