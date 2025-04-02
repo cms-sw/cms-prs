@@ -3131,5 +3131,18 @@
         "number": 47768,
         "state": "open",
         "updated_at": 1743613900
+    },
+    "47770": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Utilities/interface/ESGetToken.h",
+            "FWCore/Utilities/interface/OftenEmptyCString.h",
+            "FWCore/Utilities/src/OftenEmptyCString.cc",
+            "FWCore/Utilities/test/test_catch2_OftenEmptyCString.cc"
+        ],
+        "created_at": 1743621517,
+        "number": 47770,
+        "state": "open",
+        "updated_at": 1743621542
     }
 }
