@@ -3157,5 +3157,20 @@
         "number": 47771,
         "state": "open",
         "updated_at": 1743661082
+    },
+    "47772": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/interface/HGCalParameters.h",
+            "Geometry/HGCalCommonData/src/HGCalCassette.cc",
+            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc",
+            "Geometry/HGCalCommonData/src/HGCalGeomParameters.cc",
+            "Geometry/HGCalGeometry/src/HGCalGeometry.cc",
+            "SimG4CMS/Calo/src/HGCalNumberingScheme.cc"
+        ],
+        "created_at": 1743662551,
+        "number": 47772,
+        "state": "open",
+        "updated_at": 1743662581
     }
 }
