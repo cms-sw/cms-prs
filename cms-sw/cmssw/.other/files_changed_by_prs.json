@@ -2995,5 +2995,24 @@
         "number": 47789,
         "state": "open",
         "updated_at": 1743699395
+    },
+    "47792": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/L1TParticleFlow/interface/PFJet.h",
+            "DataFormats/L1TParticleFlow/interface/datatypes.h",
+            "DataFormats/L1TParticleFlow/interface/gt_datatypes.h",
+            "DataFormats/L1TParticleFlow/interface/jets.h",
+            "L1Trigger/Configuration/python/SimL1Emulator_cff.py",
+            "L1Trigger/Phase2L1ParticleFlow/interface/jetmet/L1SeedConePFJetEmulator.h",
+            "L1Trigger/Phase2L1ParticleFlow/plugins/L1SeedConePFJetProducer.cc",
+            "L1Trigger/Phase2L1ParticleFlow/python/l1pfJetMet_cff.py",
+            "L1Trigger/Phase2L1ParticleFlow/src/jetmet/L1SeedConePFJetEmulator.cc",
+            "L1Trigger/Phase2L1ParticleFlow/test/make_l1ct_binaryFiles_cfg.py"
+        ],
+        "created_at": 1743751903,
+        "number": 47792,
+        "state": "open",
+        "updated_at": 1743751924
     }
 }
