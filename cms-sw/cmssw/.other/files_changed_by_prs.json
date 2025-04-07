@@ -2412,7 +2412,6 @@
     "47718": {
         "base_branch": "CMSSW_15_1_RNTUPLE_X",
         "changed_files_names": [
-            "Configuration/Applications/python/ConfigBuilder.py",
             "Configuration/PyReleaseValidation/python/MatrixReader.py",
             "Configuration/PyReleaseValidation/python/WorkFlowRunner.py",
             "FWIO/RNTuple/bin/edmRntupleStorage.cc",
@@ -2421,13 +2420,12 @@
             "FWIO/RNTuple/plugins/RNTupleOutputFile.cc",
             "FWIO/RNTuple/plugins/RNTupleOutputModule.cc",
             "FWIO/RNTuple/plugins/RNTupleSource.cc",
-            "FWIO/RNTuple/test/test_catch2_output2input.cc",
-            "PhysicsTools/NanoAOD/plugins/JetTaggerTableProducer.cc"
+            "FWIO/RNTuple/test/test_catch2_output2input.cc"
         ],
         "created_at": 1743101187,
         "number": 47718,
         "state": "open",
-        "updated_at": 1743603646
+        "updated_at": 1744048715
     },
     "47726": {
         "base_branch": "master",
