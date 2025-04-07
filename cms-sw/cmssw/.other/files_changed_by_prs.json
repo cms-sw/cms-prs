@@ -2778,5 +2778,18 @@
         "number": 47802,
         "state": "open",
         "updated_at": 1744060001
+    },
+    "47803": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CalibFormats/SiStripObjects/interface/SiStripClusterizerConditions.h",
+            "RecoLocalTracker/SiStripClusterizer/interface/ThreeThresholdAlgorithm.h",
+            "RecoLocalTracker/SiStripClusterizer/plugins/ClustersFromRawProducer.cc",
+            "RecoLocalTracker/SiStripClusterizer/src/ThreeThresholdAlgorithm.cc"
+        ],
+        "created_at": 1744059997,
+        "number": 47803,
+        "state": "open",
+        "updated_at": 1744060021
     }
 }
