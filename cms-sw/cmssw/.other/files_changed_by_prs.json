@@ -2848,26 +2848,5 @@
         "number": 47820,
         "state": "open",
         "updated_at": 1744120808
-    },
-    "47821": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "SimG4Core/Application/interface/CMSSimEventManager.h",
-            "SimG4Core/Application/interface/Phase2EventAction.h",
-            "SimG4Core/Application/interface/Phase2TrackingAction.h",
-            "SimG4Core/Application/interface/RunManagerMTWorker.h",
-            "SimG4Core/Application/interface/StackingAction.h",
-            "SimG4Core/Application/src/CMSSimEventManager.cc",
-            "SimG4Core/Application/src/Phase2EventAction.cc",
-            "SimG4Core/Application/src/Phase2TrackingAction.cc",
-            "SimG4Core/Application/src/RunManagerMT.cc",
-            "SimG4Core/Application/src/RunManagerMTWorker.cc",
-            "SimG4Core/Application/src/StackingAction.cc",
-            "SimG4Core/Application/src/TrackingAction.cc"
-        ],
-        "created_at": 1744122563,
-        "number": 47821,
-        "state": "open",
-        "updated_at": 1744122590
     }
 }
