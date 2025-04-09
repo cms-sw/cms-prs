@@ -2412,13 +2412,15 @@
         "changed_files_names": [
             "PhysicsTools/Scouting/plugins/BuildFile.xml",
             "PhysicsTools/Scouting/plugins/Run3ScoutingElectronBestTrack.cc",
-            "PhysicsTools/Scouting/python/test/run_Run3ScoutingElectronBestTrack_cfg.py",
-            "PhysicsTools/Scouting/test/BuildFile.xml"
+            "PhysicsTools/Scouting/test/BuildFile.xml",
+            "PhysicsTools/Scouting/test/ref_Run3ScoutingElectronBestTrack_outputevtctnt.txt",
+            "PhysicsTools/Scouting/test/test_Run3ScoutingElectronBestTrack.sh",
+            "PhysicsTools/Scouting/test/test_Run3ScoutingElectronBestTrack_cfg.py"
         ],
         "created_at": 1743165853,
         "number": 47726,
         "state": "open",
-        "updated_at": 1744111287
+        "updated_at": 1744209805
     },
     "47728": {
         "base_branch": "master",
