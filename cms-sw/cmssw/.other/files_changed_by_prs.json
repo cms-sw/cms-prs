@@ -2314,14 +2314,16 @@
             "FWCore/Framework/test/stubs/HistoryAnalyzer.cc",
             "FWCore/Integration/plugins/TestParentage.cc",
             "FWCore/ParameterSet/interface/IllegalParameters.h",
+            "FWCore/TestProcessor/interface/TestProcessor.h",
             "FWCore/TestProcessor/src/TestProcessor.cc",
+            "FWCore/TestProcessor/test/testprocessor_t.cppunit.cc",
             "IOPool/Common/bin/EdmProvDump.cc",
             "IOPool/Output/src/PoolOutputModule.cc"
         ],
         "created_at": 1742589170,
         "number": 47659,
         "state": "open",
-        "updated_at": 1742847548
+        "updated_at": 1744227585
     },
     "47683": {
         "base_branch": "master",
