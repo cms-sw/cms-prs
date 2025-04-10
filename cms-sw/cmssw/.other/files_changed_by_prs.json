@@ -1715,6 +1715,8 @@
     "47124": {
         "base_branch": "master",
         "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/relval_gpu.py",
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
             "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitSoAToLegacy.cc",
             "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EcalPhase2DigiToPortableProducer.cc",
             "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EcalUncalibRecHitPhase2WeightsAlgoPortable.dev.cc",
@@ -1727,7 +1729,7 @@
         "created_at": 1737118172,
         "number": 47124,
         "state": "open",
-        "updated_at": 1743094670
+        "updated_at": 1744272646
     },
     "47138": {
         "base_branch": "master",
