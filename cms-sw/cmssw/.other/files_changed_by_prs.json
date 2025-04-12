@@ -3091,5 +3091,17 @@
         "number": 47851,
         "state": "open",
         "updated_at": 1744445636
+    },
+    "47853": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "PhysicsTools/NanoAOD/python/custom_run3scouting_cff.py",
+            "PhysicsTools/NanoAOD/python/run3scouting_cff.py",
+            "RecoBTag/FeatureTools/plugins/DeepBoostedJetTagInfoProducer.cc"
+        ],
+        "created_at": 1744466213,
+        "number": 47853,
+        "state": "open",
+        "updated_at": 1744466235
     }
 }
