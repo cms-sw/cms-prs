@@ -3182,5 +3182,17 @@
         "number": 47859,
         "state": "open",
         "updated_at": 1744548099
+    },
+    "47861": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "HLTrigger/Tools/scripts/hltInfo",
+            "HLTrigger/Tools/test/BuildFile.xml",
+            "HLTrigger/Tools/test/check_hlt_info.sh"
+        ],
+        "created_at": 1744618263,
+        "number": 47861,
+        "state": "open",
+        "updated_at": 1744618290
     }
 }
