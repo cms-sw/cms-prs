@@ -2378,7 +2378,12 @@
         "base_branch": "master",
         "changed_files_names": [
             "DQM/TrackingMonitorSource/python/TrackingSourceConfig_Tier0_cff.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrackCandidates_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInputLST_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltLST_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2OTHitsInputLST_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltPixelSeedInputLST_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTInitialStepSequence_cfi.py",
             "RecoTracker/IterativeTracking/python/HighPtTripletStep_cff.py",
             "RecoTracker/LST/interface/LSTPhase2OTHitsInput.h",
             "RecoTracker/LST/interface/LSTPixelSeedInput.h",
@@ -2427,7 +2432,7 @@
         "created_at": 1743768150,
         "number": 47793,
         "state": "open",
-        "updated_at": 1744311009
+        "updated_at": 1744724163
     },
     "47798": {
         "base_branch": "master",
