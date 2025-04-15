@@ -1915,7 +1915,6 @@
             "PhysicsTools/BPHNano/plugins/BToTrkTrkLLBuilder.cc",
             "PhysicsTools/BPHNano/plugins/BToV0LLBuilder.cc",
             "PhysicsTools/BPHNano/plugins/BuildFile.xml",
-            "PhysicsTools/BPHNano/plugins/CandMCMatchTableProducerBPH.cc",
             "PhysicsTools/BPHNano/plugins/DiLeptonBuilder.cc",
             "PhysicsTools/BPHNano/plugins/DiTrackBuilder.cc",
             "PhysicsTools/BPHNano/plugins/KinVtxFitter.cc",
@@ -1950,6 +1949,8 @@
             "PhysicsTools/BPHNano/test/time_analysis.py",
             "PhysicsTools/BPHNano/test/validate_nano.py",
             "PhysicsTools/BPHNano/test/validate_pr.sh",
+            "PhysicsTools/NanoAOD/plugins/CandMCMatchTableProducer.cc",
+            "PhysicsTools/NanoAOD/plugins/SimpleFlatTableProducerPlugins.cc",
             "PhysicsTools/NanoAOD/python/autoNANO.py",
             "TrackingTools/TransientTrack/src/classes.h",
             "TrackingTools/TransientTrack/src/classes_def.xml"
@@ -1957,7 +1958,7 @@
         "created_at": 1742054252,
         "number": 47603,
         "state": "open",
-        "updated_at": 1744704823
+        "updated_at": 1744728335
     },
     "47605": {
         "base_branch": "master",
