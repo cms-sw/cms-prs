@@ -3295,5 +3295,24 @@
         "number": 47867,
         "state": "open",
         "updated_at": 1744710425
+    },
+    "47869": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "CalibMuon/DTCalibration/python/PlottingTools/plotResiduals.py",
+            "CalibMuon/DTCalibration/python/Workflow/CrabHelper.py",
+            "CalibMuon/DTCalibration/python/Workflow/Crabtools/crabFunctions.py",
+            "CalibMuon/DTCalibration/python/Workflow/DTCalibrationWorker.py",
+            "CalibMuon/DTCalibration/python/Workflow/DTTtrigWorkflow.py",
+            "CalibMuon/DTCalibration/python/Workflow/DTVdriftWorkflow.py",
+            "CalibMuon/DTCalibration/python/Workflow/DTWorkflow.py",
+            "CalibMuon/DTCalibration/python/Workflow/addPoolDBESSource.py",
+            "CalibMuon/DTCalibration/scripts/allPlotsResiduals.py",
+            "CalibMuon/DTCalibration/scripts/dtCalibration"
+        ],
+        "created_at": 1744720131,
+        "number": 47869,
+        "state": "open",
+        "updated_at": 1744720156
     }
 }
