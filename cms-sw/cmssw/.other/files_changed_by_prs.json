@@ -1910,7 +1910,7 @@
         "base_branch": "master",
         "changed_files_names": [
             "DataFormats/PatCandidates/src/classes_def_objects.xml",
-            "PhysicsTools/BPHNano/BuildFile.xml",
+            "PhysicsTools/BPHNano/plugins/BPHTrackMerger.cc",
             "PhysicsTools/BPHNano/plugins/BToTrkLLBuilder.cc",
             "PhysicsTools/BPHNano/plugins/BToTrkTrkLLBuilder.cc",
             "PhysicsTools/BPHNano/plugins/BToV0LLBuilder.cc",
@@ -1925,11 +1925,9 @@
             "PhysicsTools/BPHNano/plugins/MuonTriggerSelector.cc",
             "PhysicsTools/BPHNano/plugins/PVertexBPHTable.cc",
             "PhysicsTools/BPHNano/plugins/SimpleFlatTableProducerBPHPlugins.cc",
-            "PhysicsTools/BPHNano/plugins/TrackMerger.cc",
-            "PhysicsTools/BPHNano/plugins/TriggerObjectTable.cc",
             "PhysicsTools/BPHNano/plugins/V0ReBuilder.cc",
             "PhysicsTools/BPHNano/plugins/helper.h",
-            "PhysicsTools/BPHNano/production/README",
+            "PhysicsTools/BPHNano/production/README.md",
             "PhysicsTools/BPHNano/production/apply_crab_command.sh",
             "PhysicsTools/BPHNano/production/samples.yml",
             "PhysicsTools/BPHNano/production/submit_on_crab.py",
@@ -1959,7 +1957,7 @@
         "created_at": 1742054252,
         "number": 47603,
         "state": "open",
-        "updated_at": 1742989332
+        "updated_at": 1744703596
     },
     "47605": {
         "base_branch": "master",
