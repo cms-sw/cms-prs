@@ -3418,5 +3418,19 @@
         "number": 47878,
         "state": "open",
         "updated_at": 1744736015
+    },
+    "47879": {
+        "base_branch": "CMSSW_13_2_X",
+        "changed_files_names": [
+            "CommonTools/RecoAlgos/BuildFile.xml",
+            "CommonTools/RecoAlgos/interface/KDTreeLinkerAlgo.h",
+            "DataFormats/Math/interface/logic.h",
+            "RecoTracker/MeasurementDet/BuildFile.xml",
+            "RecoTracker/MeasurementDet/plugins/doubleMatch.icc"
+        ],
+        "created_at": 1744735982,
+        "number": 47879,
+        "state": "open",
+        "updated_at": 1744736019
     }
 }
