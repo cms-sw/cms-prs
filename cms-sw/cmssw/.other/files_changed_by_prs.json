@@ -2354,6 +2354,7 @@
         "base_branch": "master",
         "changed_files_names": [
             "DQM/TrackingMonitorSource/python/TrackingSourceConfig_Tier0_cff.py",
+            "DataFormats/Common/src/classes_def.xml",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrackCandidates_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltInputLST_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltLST_cfi.py",
@@ -2374,11 +2375,13 @@
             "RecoTracker/LST/src/classes_def.xml",
             "RecoTracker/LSTCore/BuildFile.xml",
             "RecoTracker/LSTCore/interface/Common.h",
+            "RecoTracker/LSTCore/interface/HitsHostCollection.h",
             "RecoTracker/LSTCore/interface/HitsSoA.h",
             "RecoTracker/LSTCore/interface/LSTInputHostCollection.h",
             "RecoTracker/LSTCore/interface/LSTInputSoA.h",
             "RecoTracker/LSTCore/interface/LSTPrepareInput.h",
             "RecoTracker/LSTCore/interface/PixelSegmentsSoA.h",
+            "RecoTracker/LSTCore/interface/alpaka/HitsDeviceCollection.h",
             "RecoTracker/LSTCore/interface/alpaka/LST.h",
             "RecoTracker/LSTCore/interface/alpaka/LSTInputDeviceCollection.h",
             "RecoTracker/LSTCore/src/alpaka/Hit.h",
@@ -2408,7 +2411,7 @@
         "created_at": 1743768150,
         "number": 47793,
         "state": "open",
-        "updated_at": 1744724163
+        "updated_at": 1744823830
     },
     "47798": {
         "base_branch": "master",
