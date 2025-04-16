@@ -2960,6 +2960,10 @@
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTHgcalTiclPFClusteringForEgamma_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPFClusteringForEgammaUnseededSequence_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTParticleFlowClusterSequence_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTParticleFlowSequence_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPfClusteringECALSequence_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPfClusteringHBHEHFSequence_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPfRecHitUnseededSequence_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPhoton187UnseededSequence_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTTICLLocalRecoSequence_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33_cff.py",
@@ -3009,7 +3013,7 @@
         "created_at": 1744548059,
         "number": 47859,
         "state": "open",
-        "updated_at": 1744551023
+        "updated_at": 1744824740
     },
     "47866": {
         "base_branch": "master",
