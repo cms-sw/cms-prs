@@ -3388,5 +3388,20 @@
         "number": 47880,
         "state": "open",
         "updated_at": 1744736142
+    },
+    "47883": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/SimTauCPLinkProducer.cc",
+            "SimDataFormats/CaloAnalysis/interface/SimTauCPLink.h",
+            "SimGeneral/CaloAnalysis/plugins/CaloTruthAccumulator.cc",
+            "SimGeneral/Debugging/plugins/CaloParticleDebugger.cc",
+            "SimGeneral/Debugging/python/caloParticleDebugger_cfg.py",
+            "SimGeneral/MixingModule/interface/DecayGraph.h"
+        ],
+        "created_at": 1744800487,
+        "number": 47883,
+        "state": "open",
+        "updated_at": 1744800512
     }
 }
