@@ -2497,6 +2497,7 @@
             "CondFormats/HGCalObjects/interface/HGCalMappingParameterSoA.h",
             "Geometry/HGCalMapping/plugins/alpaka/HGCalMappingCellESProducer.cc",
             "Geometry/HGCalMapping/python/hgcalmapping_cff.py",
+            "Geometry/HGCalMapping/test/testMappingModuleIndexer_cfg.py",
             "RecoLocalCalo/HGCalRecAlgos/interface/alpaka/HGCalRecHitCalibrationAlgorithms.h",
             "RecoLocalCalo/HGCalRecAlgos/plugins/alpaka/HGCalRecHitCalibrationAlgorithms.dev.cc",
             "RecoLocalCalo/HGCalRecAlgos/plugins/alpaka/HGCalRecHitProducers.cc"
@@ -2504,7 +2505,7 @@
         "created_at": 1744201913,
         "number": 47829,
         "state": "open",
-        "updated_at": 1744380466
+        "updated_at": 1744875997
     },
     "47830": {
         "base_branch": "master",
