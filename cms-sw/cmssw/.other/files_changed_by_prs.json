@@ -2572,14 +2572,20 @@
             "Configuration/PyReleaseValidation/python/relval_standard.py",
             "Configuration/PyReleaseValidation/python/relval_steps.py",
             "Configuration/StandardSequences/python/Eras.py",
+            "PhysicsTools/PatAlgos/python/slimming/MicroEventContent_cff.py",
+            "PhysicsTools/PatAlgos/python/slimming/genParticles_cff.py",
+            "PhysicsTools/PatAlgos/python/slimming/slimming_cff.py",
+            "RecoHI/HiEvtPlaneAlgos/python/HiEvtPlane_cfi.py",
             "RecoHI/HiTracking/python/HILowPtConformalPixelTracks_cfi.py",
             "RecoTracker/TkSeedGenerator/python/trackerClusterCheck_cfi.py",
-            "RecoVertex/PrimaryVertexProducer/python/OfflinePrimaryVertices_cfi.py"
+            "RecoVertex/PrimaryVertexProducer/python/OfflinePrimaryVertices_cfi.py",
+            "SimCalorimetry/HcalTrigPrimProducers/python/hcaltpdigi_cff.py",
+            "SimGeneral/Configuration/python/SimGeneral_EventContent_cff.py"
         ],
         "created_at": 1744367739,
         "number": 47846,
         "state": "open",
-        "updated_at": 1744482214
+        "updated_at": 1744846879
     },
     "47853": {
         "base_branch": "CMSSW_15_0_X",
