@@ -1900,6 +1900,7 @@
     "47603": {
         "base_branch": "master",
         "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/relval_nano.py",
             "DataFormats/PatCandidates/src/classes_def_objects.xml",
             "PhysicsTools/BPHNano/plugins/BPHTrackMerger.cc",
             "PhysicsTools/BPHNano/plugins/BToTrkLLBuilder.cc",
@@ -1943,13 +1944,14 @@
             "PhysicsTools/NanoAOD/plugins/CandMCMatchTableProducer.cc",
             "PhysicsTools/NanoAOD/plugins/SimpleFlatTableProducerPlugins.cc",
             "PhysicsTools/NanoAOD/python/autoNANO.py",
+            "PhysicsTools/NanoAOD/python/custom_bph_cff.py",
             "TrackingTools/TransientTrack/src/classes.h",
             "TrackingTools/TransientTrack/src/classes_def.xml"
         ],
         "created_at": 1742054252,
         "number": 47603,
         "state": "open",
-        "updated_at": 1744728335
+        "updated_at": 1744896374
     },
     "47605": {
         "base_branch": "master",
