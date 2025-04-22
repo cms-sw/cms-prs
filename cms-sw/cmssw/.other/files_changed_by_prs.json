@@ -3247,5 +3247,29 @@
         "number": 47929,
         "state": "open",
         "updated_at": 1745326284
+    },
+    "47930": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Framework/interface/EDConsumerBase.h",
+            "FWCore/Framework/interface/ModuleProcessName.h",
+            "FWCore/Framework/interface/PathsAndConsumesOfModules.h",
+            "FWCore/Framework/interface/Schedule.h",
+            "FWCore/Framework/interface/maker/Worker.h",
+            "FWCore/Framework/interface/maker/WorkerT.h",
+            "FWCore/Framework/interface/stream/EDAnalyzerAdaptorBase.h",
+            "FWCore/Framework/interface/stream/ProducingModuleAdaptorBase.h",
+            "FWCore/Framework/src/EDConsumerBase.cc",
+            "FWCore/Framework/src/EventProcessor.cc",
+            "FWCore/Framework/src/PathsAndConsumesOfModules.cc",
+            "FWCore/Framework/src/Schedule.cc",
+            "FWCore/Framework/src/stream/EDAnalyzerAdaptorBase.cc",
+            "FWCore/Framework/src/stream/ProducingModuleAdaptorBase.cc",
+            "FWCore/ServiceRegistry/interface/PathsAndConsumesOfModulesBase.h"
+        ],
+        "created_at": 1745330940,
+        "number": 47930,
+        "state": "open",
+        "updated_at": 1745330970
     }
 }
