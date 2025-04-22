@@ -3304,5 +3304,17 @@
         "number": 47922,
         "state": "open",
         "updated_at": 1745306446
+    },
+    "47923": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "DQMOffline/HLTScouting/python/HLTScoutingDqmOffline_cff.py",
+            "HLTriggerOffline/Scouting/plugins/ScoutingCollectionMonitor.cc",
+            "HLTriggerOffline/Scouting/python/ScoutingCollectionMonitor_cfi.py"
+        ],
+        "created_at": 1745308580,
+        "number": 47923,
+        "state": "open",
+        "updated_at": 1745308607
     }
 }
