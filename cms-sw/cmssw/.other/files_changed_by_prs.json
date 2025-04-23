@@ -1685,25 +1685,6 @@
         "state": "open",
         "updated_at": 1738913892
     },
-    "47124": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "Configuration/PyReleaseValidation/python/relval_gpu.py",
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
-            "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitSoAToLegacy.cc",
-            "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EcalPhase2DigiToPortableProducer.cc",
-            "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EcalUncalibRecHitPhase2WeightsAlgoPortable.dev.cc",
-            "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EcalUncalibRecHitPhase2WeightsAlgoPortable.h",
-            "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EcalUncalibRecHitPhase2WeightsProducerPortable.cc",
-            "RecoLocalCalo/EcalRecProducers/plugins/alpaka/EcalUncalibRecHitPhase2WeightsStruct.h",
-            "RecoLocalCalo/EcalRecProducers/python/ecalRecHit_cff.py",
-            "RecoLocalCalo/EcalRecProducers/python/ecalUncalibRecHitPhase2_cff.py"
-        ],
-        "created_at": 1737118172,
-        "number": 47124,
-        "state": "open",
-        "updated_at": 1744643782
-    },
     "47138": {
         "base_branch": "master",
         "changed_files_names": [
