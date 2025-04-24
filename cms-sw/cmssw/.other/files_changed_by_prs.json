@@ -2642,6 +2642,7 @@
     "47926": {
         "base_branch": "master",
         "changed_files_names": [
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py",
             "RecoLocalTracker/SiStripRecHitConverter/interface/SiStripRecHitConverterAlgorithm.h",
             "RecoLocalTracker/SiStripRecHitConverter/src/SiStripRecHitConverterAlgorithm.cc",
             "RecoTracker/MkFit/plugins/BuildFile.xml",
@@ -2658,7 +2659,7 @@
         "created_at": 1745325111,
         "number": 47926,
         "state": "open",
-        "updated_at": 1745407437
+        "updated_at": 1745497007
     },
     "47927": {
         "base_branch": "CMSSW_15_0_X",
