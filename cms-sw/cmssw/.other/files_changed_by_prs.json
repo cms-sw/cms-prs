@@ -1900,7 +1900,7 @@
         "created_at": 1742054252,
         "number": 47603,
         "state": "open",
-        "updated_at": 1745498102
+        "updated_at": 1745505845
     },
     "47605": {
         "base_branch": "master",
@@ -2286,7 +2286,7 @@
         "created_at": 1744036746,
         "number": 47798,
         "state": "open",
-        "updated_at": 1745497273
+        "updated_at": 1745507348
     },
     "47829": {
         "base_branch": "master",
@@ -2526,7 +2526,6 @@
             "Configuration/EventContent/python/EventContent_cff.py",
             "HLTriggerOffline/Common/python/HLTValidationHarvest_cff.py",
             "HLTriggerOffline/Common/python/HLTValidation_cff.py",
-            "HLTriggerOffline/HGCal/python/HLTHGCalPostProcessor_cff.py",
             "RecoHGCal/TICL/plugins/FilteredLayerClustersProducer.cc",
             "RecoHGCal/TICL/plugins/SimTrackstersProducer.cc",
             "RecoHGCal/TICL/python/HLTSimTracksters_cff.py",
@@ -2543,13 +2542,15 @@
             "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToSCAssociatorEDProducer.cc",
             "Validation/Configuration/python/hltHGCalSimValid_cff.py",
             "Validation/HGCalValidation/plugins/HGCalValidator.cc",
+            "Validation/HGCalValidation/python/HLTHGCalPostProcessor_cff.py",
             "Validation/HGCalValidation/python/HLTHGCalValidator_cff.py",
+            "Validation/HGCalValidation/python/HLT_TICLIterLabels_cff.py",
             "Validation/HGCalValidation/src/TICLCandidateValidator.cc"
         ],
         "created_at": 1744825602,
         "number": 47892,
         "state": "open",
-        "updated_at": 1745477732
+        "updated_at": 1745501588
     },
     "47911": {
         "base_branch": "CMSSW_15_0_X",
@@ -2792,7 +2793,7 @@
         "created_at": 1745435159,
         "number": 47938,
         "state": "open",
-        "updated_at": 1745494982
+        "updated_at": 1745502040
     },
     "47939": {
         "base_branch": "master",
@@ -2833,7 +2834,7 @@
         "created_at": 1745496735,
         "number": 47941,
         "state": "open",
-        "updated_at": 1745496765
+        "updated_at": 1745506519
     },
     "47942": {
         "base_branch": "CMSSW_15_0_X",
@@ -2856,7 +2857,7 @@
         "created_at": 1745502699,
         "number": 47943,
         "state": "open",
-        "updated_at": 1745502725
+        "updated_at": 1745502818
     },
     "47944": {
         "base_branch": "CMSSW_15_0_X",
