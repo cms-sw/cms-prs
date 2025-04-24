@@ -2744,6 +2744,10 @@
             "FWCore/Framework/interface/ESProductResolverFactoryProducer.h",
             "FWCore/Framework/interface/ESProductResolverProvider.h",
             "FWCore/Framework/interface/ESTagGetter.h",
+            "FWCore/Framework/interface/EventSetupProvider.h",
+            "FWCore/Framework/interface/EventSetupRecord.h",
+            "FWCore/Framework/interface/EventSetupRecordImpl.h",
+            "FWCore/Framework/interface/EventSetupRecordProvider.h",
             "FWCore/Framework/interface/ModuleConsumesMinimalESInfo.h",
             "FWCore/Framework/interface/PathsAndConsumesOfModules.h",
             "FWCore/Framework/interface/Schedule.h",
@@ -2756,6 +2760,9 @@
             "FWCore/Framework/src/ESProductResolverFactoryProducer.cc",
             "FWCore/Framework/src/ESTagGetter.cc",
             "FWCore/Framework/src/EventProcessor.cc",
+            "FWCore/Framework/src/EventSetupProvider.cc",
+            "FWCore/Framework/src/EventSetupRecordImpl.cc",
+            "FWCore/Framework/src/EventSetupRecordProvider.cc",
             "FWCore/Framework/src/PathsAndConsumesOfModules.cc",
             "FWCore/Framework/src/Schedule.cc",
             "FWCore/Framework/src/WorkerT.cc",
@@ -2777,7 +2784,7 @@
         "created_at": 1745429532,
         "number": 47937,
         "state": "open",
-        "updated_at": 1745496144
+        "updated_at": 1745514229
     },
     "47938": {
         "base_branch": "master",
