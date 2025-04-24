@@ -2366,6 +2366,7 @@
             "HLTrigger/Configuration/python/HLT_75e33_timing_cff.py",
             "RecoHGCal/TICL/plugins/TICLLayerTileProducer.cc",
             "RecoHGCal/TICL/plugins/TracksterInferenceByDNN.cc",
+            "RecoHGCal/TICL/plugins/TracksterInferenceByPFN.cc",
             "RecoLocalCalo/HGCalRecAlgos/interface/RecHitTools.h",
             "RecoLocalCalo/HGCalRecAlgos/src/RecHitTools.cc",
             "RecoLocalCalo/HGCalRecProducers/interface/BarrelTilesConstants.h",
@@ -2409,7 +2410,7 @@
         "created_at": 1744548059,
         "number": 47859,
         "state": "open",
-        "updated_at": 1745297381
+        "updated_at": 1745521718
     },
     "47869": {
         "base_branch": "CMSSW_15_0_X",
