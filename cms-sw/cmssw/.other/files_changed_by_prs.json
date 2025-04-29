@@ -3289,5 +3289,17 @@
         "number": 47975,
         "state": "open",
         "updated_at": 1745922257
+    },
+    "47976": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "CalibCalorimetry/HcalAlgos/src/HcalDbHardcode.cc",
+            "CalibCalorimetry/HcalPlugins/python/Hcal_PCCUpdate_cff.py",
+            "CalibCalorimetry/HcalPlugins/src/HcalHardcodeCalibrations.cc"
+        ],
+        "created_at": 1745922765,
+        "number": 47976,
+        "state": "open",
+        "updated_at": 1745922791
     }
 }
