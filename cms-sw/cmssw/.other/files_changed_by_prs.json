@@ -2760,6 +2760,7 @@
         "changed_files_names": [
             "Configuration/Eras/python/Era_Run3_2025_OXY_cff.py",
             "Configuration/Eras/python/Era_Run3_2025_UPC_OXY_cff.py",
+            "Configuration/Eras/python/Modifier_pp_on_PbPb_run3_2025_cff.py",
             "Configuration/PyReleaseValidation/python/relval_standard.py",
             "Configuration/PyReleaseValidation/python/relval_steps.py",
             "Configuration/StandardSequences/python/Eras.py",
@@ -2776,7 +2777,7 @@
         "created_at": 1745504230,
         "number": 47944,
         "state": "open",
-        "updated_at": 1745504257
+        "updated_at": 1745927236
     },
     "47948": {
         "base_branch": "CMSSW_14_2_X",
