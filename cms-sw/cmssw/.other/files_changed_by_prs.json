@@ -3278,5 +3278,16 @@
         "number": 47974,
         "state": "open",
         "updated_at": 1745920037
+    },
+    "47975": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "Calibration/HcalAlCaRecoProducers/plugins/AlCaHcalIsotrkProducer.cc",
+            "Calibration/HcalAlCaRecoProducers/python/ALCARECOHcalCalIsoTrkProducerFilter_AlCaRaw_cff.py"
+        ],
+        "created_at": 1745922232,
+        "number": 47975,
+        "state": "open",
+        "updated_at": 1745922257
     }
 }
