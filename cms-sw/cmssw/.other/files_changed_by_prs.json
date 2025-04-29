@@ -2547,9 +2547,11 @@
     "47912": {
         "base_branch": "CMSSW_14_1_X",
         "changed_files_names": [
+            "Configuration/Generator/python/AMPT_PPb_5020GeV_MinimumBias_ExtGen_cfi.py",
             "Configuration/Generator/python/AMPT_PPb_5020GeV_MinimumBias_cfi.py",
             "Configuration/Generator/python/Hijing_PPb_MinimumBias_cfi.py",
             "Configuration/Generator/python/Hydjet2_Quenched_MinBias_5020GeV_cfi.py",
+            "Configuration/Generator/python/Hydjet_Quenched_B12_5020GeV_ExtGen_cfi.py",
             "Configuration/Generator/python/Hydjet_Quenched_B12_5020GeV_cfi.py",
             "Configuration/Generator/python/Hydjet_Quenched_B12_5362GeV_cfi.py",
             "Configuration/Generator/python/Hydjet_Quenched_MinBias_2760GeV_cfi.py",
@@ -2564,9 +2566,12 @@
             "Configuration/Generator/python/Pyquen_DiJet_pt80to120_5362GeV_cfi.py",
             "Configuration/Generator/python/Pyquen_GammaJet_pt20_2760GeV_cfi.py",
             "Configuration/Generator/python/Pyquen_GammaJet_pt20_5362GeV_cfi.py",
+            "Configuration/Generator/python/Pyquen_ZeemumuJets_pt10_2760GeV_ExtGen_cfi.py",
             "Configuration/Generator/python/Pyquen_ZeemumuJets_pt10_2760GeV_cfi.py",
             "Configuration/Generator/python/Pyquen_ZeemumuJets_pt10_5362GeV_cfi.py",
+            "Configuration/Generator/python/ReggeGribovPartonMC_EposLHC_4080_4080GeV_pPb_ExtGen_cfi.py",
             "Configuration/Generator/python/ReggeGribovPartonMC_EposLHC_4080_4080GeV_pPb_cfi.py",
+            "Configuration/PyReleaseValidation/python/relval_steps.py",
             "GeneratorInterface/HydjetInterface/interface/HydjetHadronizer.h",
             "GeneratorInterface/HydjetInterface/python/hydjetDefaultParameters_cff.py",
             "GeneratorInterface/HydjetInterface/python/hydjetDefault_cfi.py",
@@ -2575,7 +2580,7 @@
         "created_at": 1745215907,
         "number": 47912,
         "state": "open",
-        "updated_at": 1745215932
+        "updated_at": 1745903174
     },
     "47926": {
         "base_branch": "master",
