@@ -3183,5 +3183,25 @@
         "number": 47966,
         "state": "open",
         "updated_at": 1745844147
+    },
+    "47969": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/test/python/testHGCGeometry_cfg.py",
+            "Geometry/HGCalCommonData/test/python/testHGCalPartialMissingIDTester_cfg.py",
+            "Geometry/HGCalCommonData/test/python/testHGCalPartialWaferTester_cfg.py",
+            "Geometry/HGCalCommonData/test/python/testHGCalScintID_cfg.py",
+            "Geometry/HGCalCommonData/test/python/testHGCalValidHex_cfg.py",
+            "Geometry/HGCalCommonData/test/python/testHGCalValidity_cfg.py",
+            "Geometry/HGCalCommonData/test/python/testHGCalWaferID_cfg.py",
+            "Geometry/HGCalCommonData/test/python/testHGCalWafer_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalCellDumpDD4hep_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalCellDumpDDD_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalCorner_cfg.py"
+        ],
+        "created_at": 1745892103,
+        "number": 47969,
+        "state": "open",
+        "updated_at": 1745892128
     }
 }
