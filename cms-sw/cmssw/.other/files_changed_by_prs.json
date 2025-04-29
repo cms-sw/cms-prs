@@ -3314,5 +3314,17 @@
         "number": 47977,
         "state": "open",
         "updated_at": 1745929089
+    },
+    "47979": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/AbstractServices/interface/TimingServiceBase.h",
+            "FWCore/AbstractServices/src/TimingServiceBase.cc",
+            "FWCore/Services/plugins/Timing.cc"
+        ],
+        "created_at": 1745942846,
+        "number": 47979,
+        "state": "open",
+        "updated_at": 1745942874
     }
 }
