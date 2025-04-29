@@ -3301,5 +3301,28 @@
         "number": 47976,
         "state": "open",
         "updated_at": 1745922791
+    },
+    "47977": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "IOPool/TFileAdaptor/src/TFileAdaptor.cc",
+            "IOPool/TFileAdaptor/test/tfileTest.cpp",
+            "Utilities/LStoreAdaptor/BuildFile.xml",
+            "Utilities/LStoreAdaptor/interface/LStoreFile.h",
+            "Utilities/LStoreAdaptor/plugins/BuildFile.xml",
+            "Utilities/LStoreAdaptor/plugins/LStoreStorageMaker.cc",
+            "Utilities/LStoreAdaptor/src/LStoreFile.cc",
+            "Utilities/LStoreAdaptor/test/exampleMerge.py",
+            "Utilities/ReleaseScripts/python/cmsCodeRules/config.py",
+            "Utilities/StorageFactory/plugins/BuildFile.xml",
+            "Utilities/StorageFactory/plugins/GsiFTPStorageMaker.cc",
+            "Utilities/StorageFactory/plugins/StormLCGStorageMaker.cc",
+            "Utilities/StorageFactory/plugins/StormStorageMaker.cc",
+            "Utilities/StorageFactory/scripts/storm-ptg"
+        ],
+        "created_at": 1745929061,
+        "number": 47977,
+        "state": "open",
+        "updated_at": 1745929089
     }
 }
