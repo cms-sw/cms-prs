@@ -2254,29 +2254,6 @@
         "state": "open",
         "updated_at": 1745499593
     },
-    "47798": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DataFormats/L1TParticleFlow/interface/PFJet.h",
-            "DataFormats/L1TParticleFlow/interface/datatypes.h",
-            "DataFormats/L1TParticleFlow/interface/gt_datatypes.h",
-            "DataFormats/L1TParticleFlow/interface/jets.h",
-            "DataFormats/L1TParticleFlow/src/classes_def.xml",
-            "DataFormats/L1TParticleFlow/src/jets.cpp",
-            "L1Trigger/Configuration/python/SimL1Emulator_cff.py",
-            "L1Trigger/Phase2L1ParticleFlow/interface/L1TSC4NGJetID.h",
-            "L1Trigger/Phase2L1ParticleFlow/interface/l1-converters/tkinput_ref.h",
-            "L1Trigger/Phase2L1ParticleFlow/plugins/L1TSC4NGJetProducer.cc",
-            "L1Trigger/Phase2L1ParticleFlow/python/l1pfJetMet_cff.py",
-            "L1Trigger/Phase2L1ParticleFlow/src/L1TSC4NGJet.cc",
-            "L1Trigger/Phase2L1ParticleFlow/src/l1-converters/tkinput_ref.cpp",
-            "L1Trigger/Phase2L1ParticleFlow/test/make_l1ct_binaryFiles_cfg.py"
-        ],
-        "created_at": 1744036746,
-        "number": 47798,
-        "state": "open",
-        "updated_at": 1745507348
-    },
     "47829": {
         "base_branch": "master",
         "changed_files_names": [
