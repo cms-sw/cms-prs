@@ -2193,6 +2193,7 @@
             "DataFormats/TrackReco/interface/trackFromSeedFitFailed.h",
             "Validation/RecoTrack/interface/trackFromSeedFitFailed.h",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrackCandidates_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrajectorySeedsLST_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltInputLST_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltLST_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2OTHitsInputLST_cfi.py",
@@ -2252,7 +2253,7 @@
         "created_at": 1743768150,
         "number": 47793,
         "state": "open",
-        "updated_at": 1746004561
+        "updated_at": 1746043457
     },
     "47829": {
         "base_branch": "master",
