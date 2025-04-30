@@ -2417,38 +2417,6 @@
         "state": "open",
         "updated_at": 1744723008
     },
-    "47892": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "Configuration/EventContent/python/EventContent_cff.py",
-            "HLTriggerOffline/Common/python/HLTValidationHarvest_cff.py",
-            "HLTriggerOffline/Common/python/HLTValidation_cff.py",
-            "RecoHGCal/TICL/plugins/FilteredLayerClustersProducer.cc",
-            "RecoHGCal/TICL/plugins/SimTrackstersProducer.cc",
-            "RecoHGCal/TICL/python/HLTSimTracksters_cff.py",
-            "RecoLocalCalo/HGCalRecProducers/plugins/RecHitMapProducer.cc",
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/AllHitToTracksterAssociatorsProducer.cc",
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/AllLayerClusterToTracksterAssociatorsProducer.cc",
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/AllTracksterToSimTracksterAssociatorsByHitsProducer.cc",
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/AllTracksterToSimTracksterAssociatorsByLCsProducer.cc",
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/HitToSimClusterCaloParticleAssociatorProducer.cc",
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/HitToSimClusterCaloParticleAssociatorProducer.h",
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToCPAssociatorByEnergyScoreProducer.cc",
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToCPAssociatorEDProducer.cc",
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToSCAssociatorByEnergyScoreProducer.cc",
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToSCAssociatorEDProducer.cc",
-            "Validation/Configuration/python/hltHGCalSimValid_cff.py",
-            "Validation/HGCalValidation/plugins/HGCalValidator.cc",
-            "Validation/HGCalValidation/python/HLTHGCalPostProcessor_cff.py",
-            "Validation/HGCalValidation/python/HLTHGCalValidator_cff.py",
-            "Validation/HGCalValidation/python/HLT_TICLIterLabels_cff.py",
-            "Validation/HGCalValidation/src/TICLCandidateValidator.cc"
-        ],
-        "created_at": 1744825602,
-        "number": 47892,
-        "state": "open",
-        "updated_at": 1745501588
-    },
     "47911": {
         "base_branch": "CMSSW_15_0_X",
         "changed_files_names": [
