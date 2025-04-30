@@ -3150,7 +3150,7 @@
             "PhysicsTools/PyTorch/interface/Converter.h",
             "PhysicsTools/PyTorch/interface/Model.h",
             "PhysicsTools/PyTorch/interface/Nvtx.h",
-            "PhysicsTools/PyTorch/interface/SoAWrapper.h",
+            "PhysicsTools/PyTorch/interface/SoAMetadata.h",
             "PhysicsTools/PyTorch/models/aot_regression_model_cpu_el9_amd64_gcc12.pt2",
             "PhysicsTools/PyTorch/models/aot_regression_model_cuda_el9_amd64_gcc12.pt2",
             "PhysicsTools/PyTorch/models/jit_classification_model.pt",
@@ -3201,6 +3201,6 @@
         "created_at": 1745997609,
         "number": 47984,
         "state": "open",
-        "updated_at": 1745997642
+        "updated_at": 1746000389
     }
 }
