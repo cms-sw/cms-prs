@@ -3290,5 +3290,18 @@
         "number": 47997,
         "state": "open",
         "updated_at": 1746045828
+    },
+    "47999": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondFormats/GeometryObjects/interface/PHGCalParameters.h",
+            "CondFormats/GeometryObjects/src/classes_def.xml",
+            "CondTools/Geometry/plugins/PHGCalParametersDBBuilder.cc",
+            "Geometry/HGCalCommonData/test/HGCalParametersAnalyzer.cc"
+        ],
+        "created_at": 1746145318,
+        "number": 47999,
+        "state": "open",
+        "updated_at": 1746145344
     }
 }
