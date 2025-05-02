@@ -1885,7 +1885,7 @@
         "created_at": 1742054252,
         "number": 47603,
         "state": "open",
-        "updated_at": 1745598769
+        "updated_at": 1746185407
     },
     "47605": {
         "base_branch": "master",
@@ -2041,7 +2041,7 @@
         "created_at": 1742389758,
         "number": 47625,
         "state": "open",
-        "updated_at": 1746013033
+        "updated_at": 1746111786
     },
     "47627": {
         "base_branch": "master",
@@ -2150,7 +2150,7 @@
         "created_at": 1743228492,
         "number": 47732,
         "state": "open",
-        "updated_at": 1743564563
+        "updated_at": 1746101231
     },
     "47792": {
         "base_branch": "master",
@@ -2239,7 +2239,7 @@
         "created_at": 1743768150,
         "number": 47793,
         "state": "open",
-        "updated_at": 1746043457
+        "updated_at": 1746186350
     },
     "47829": {
         "base_branch": "master",
@@ -2255,7 +2255,7 @@
         "created_at": 1744201913,
         "number": 47829,
         "state": "open",
-        "updated_at": 1744876296
+        "updated_at": 1746120012
     },
     "47859": {
         "base_branch": "master",
@@ -2457,7 +2457,7 @@
         "created_at": 1745051730,
         "number": 47911,
         "state": "open",
-        "updated_at": 1745347995
+        "updated_at": 1746091716
     },
     "47912": {
         "base_branch": "CMSSW_14_1_X",
@@ -2495,7 +2495,7 @@
         "created_at": 1745215907,
         "number": 47912,
         "state": "open",
-        "updated_at": 1745988003
+        "updated_at": 1746183061
     },
     "47926": {
         "base_branch": "master",
@@ -2540,23 +2540,6 @@
         "state": "open",
         "updated_at": 1745477566
     },
-    "47934": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "Configuration/Eras/python/Era_Run3_2023_cff.py",
-            "Configuration/Eras/python/Era_Run3_2024_cff.py",
-            "Configuration/Eras/python/Modifier_run3_scouting_nanoAOD_2023_cff.py",
-            "Configuration/Eras/python/Modifier_run3_scouting_nanoAOD_2024_cff.py",
-            "Configuration/Eras/python/Modifier_run3_scouting_nanoAOD_post2023_cff.py",
-            "PhysicsTools/NanoAOD/plugins/SimpleScoutingFlatTableProducerPlugins.cc",
-            "PhysicsTools/NanoAOD/python/custom_run3scouting_cff.py",
-            "PhysicsTools/NanoAOD/python/run3scouting_cff.py"
-        ],
-        "created_at": 1745405711,
-        "number": 47934,
-        "state": "open",
-        "updated_at": 1745840139
-    },
     "47935": {
         "base_branch": "CMSSW_15_0_X",
         "changed_files_names": [
@@ -2571,7 +2554,7 @@
         "created_at": 1745411787,
         "number": 47935,
         "state": "open",
-        "updated_at": 1745863286
+        "updated_at": 1746173039
     },
     "47941": {
         "base_branch": "CMSSW_15_0_X",
@@ -2636,7 +2619,7 @@
         "created_at": 1745504230,
         "number": 47944,
         "state": "open",
-        "updated_at": 1745943523
+        "updated_at": 1746175079
     },
     "47948": {
         "base_branch": "CMSSW_14_2_X",
@@ -2729,7 +2712,7 @@
         "created_at": 1745569071,
         "number": 47950,
         "state": "open",
-        "updated_at": 1745922872
+        "updated_at": 1746186667
     },
     "47951": {
         "base_branch": "master",
@@ -2968,7 +2951,7 @@
         "created_at": 1745646141,
         "number": 47954,
         "state": "open",
-        "updated_at": 1745739424
+        "updated_at": 1746026554
     },
     "47966": {
         "base_branch": "master",
@@ -3015,7 +2998,7 @@
         "created_at": 1745901508,
         "number": 47971,
         "state": "open",
-        "updated_at": 1746024650
+        "updated_at": 1746171025
     },
     "47973": {
         "base_branch": "CMSSW_15_0_X",
@@ -3061,25 +3044,6 @@
         "number": 47976,
         "state": "open",
         "updated_at": 1745922791
-    },
-    "47982": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "SimG4CMS/Calo/test/python/runHGC10_cfg.py",
-            "SimG4CMS/Calo/test/python/runHGC1_cfg.py",
-            "SimG4CMS/Calo/test/python/runHGC2_cfg.py",
-            "SimG4CMS/Calo/test/python/runHGC3_cfg.py",
-            "SimG4CMS/Calo/test/python/runHGC4_cfg.py",
-            "SimG4CMS/Calo/test/python/runHGC5_cfg.py",
-            "SimG4CMS/Calo/test/python/runHGC6_cfg.py",
-            "SimG4CMS/Calo/test/python/runHGC7_cfg.py",
-            "SimG4CMS/Calo/test/python/runHGC8_cfg.py",
-            "SimG4CMS/Calo/test/python/runHGC9_cfg.py"
-        ],
-        "created_at": 1745985326,
-        "number": 47982,
-        "state": "open",
-        "updated_at": 1745992426
     },
     "47984": {
         "base_branch": "master",
@@ -3154,7 +3118,7 @@
         "created_at": 1745997609,
         "number": 47984,
         "state": "open",
-        "updated_at": 1746000656
+        "updated_at": 1746083843
     },
     "47986": {
         "base_branch": "master",
@@ -3165,17 +3129,7 @@
         "created_at": 1746008338,
         "number": 47986,
         "state": "open",
-        "updated_at": 1746021088
-    },
-    "47987": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "PhysicsTools/NanoAOD/python/custom_jme_cff.py"
-        ],
-        "created_at": 1746008402,
-        "number": 47987,
-        "state": "open",
-        "updated_at": 1746016114
+        "updated_at": 1746189273
     },
     "47988": {
         "base_branch": "master",
@@ -3185,7 +3139,7 @@
         "created_at": 1746014108,
         "number": 47988,
         "state": "open",
-        "updated_at": 1746019288
+        "updated_at": 1746177670
     },
     "47989": {
         "base_branch": "CMSSW_15_0_X",
@@ -3195,7 +3149,7 @@
         "created_at": 1746014370,
         "number": 47989,
         "state": "open",
-        "updated_at": 1746014412
+        "updated_at": 1746186475
     },
     "47992": {
         "base_branch": "CMSSW_15_0_X",
@@ -3235,7 +3189,7 @@
         "created_at": 1746029747,
         "number": 47994,
         "state": "open",
-        "updated_at": 1746029770
+        "updated_at": 1746088955
     },
     "47995": {
         "base_branch": "master",
@@ -3253,7 +3207,7 @@
         "created_at": 1746040790,
         "number": 47995,
         "state": "open",
-        "updated_at": 1746040814
+        "updated_at": 1746168133
     },
     "47996": {
         "base_branch": "master",
@@ -3263,7 +3217,7 @@
         "created_at": 1746042683,
         "number": 47996,
         "state": "open",
-        "updated_at": 1746042709
+        "updated_at": 1746188750
     },
     "47997": {
         "base_branch": "master",
@@ -3275,7 +3229,7 @@
         "created_at": 1746045803,
         "number": 47997,
         "state": "open",
-        "updated_at": 1746045828
+        "updated_at": 1746167929
     },
     "47999": {
         "base_branch": "master",
@@ -3288,7 +3242,7 @@
         "created_at": 1746145318,
         "number": 47999,
         "state": "open",
-        "updated_at": 1746145344
+        "updated_at": 1746186188
     },
     "48000": {
         "base_branch": "master",
@@ -3299,7 +3253,7 @@
         "created_at": 1746166077,
         "number": 48000,
         "state": "open",
-        "updated_at": 1746166103
+        "updated_at": 1746166188
     },
     "48001": {
         "base_branch": "CMSSW_15_0_X",
@@ -3309,6 +3263,6 @@
         "created_at": 1746186529,
         "number": 48001,
         "state": "open",
-        "updated_at": 1746186555
+        "updated_at": 1746189422
     }
 }
