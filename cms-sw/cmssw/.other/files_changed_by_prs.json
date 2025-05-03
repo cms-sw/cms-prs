@@ -2416,7 +2416,6 @@
             "PhysicsTools/BPHNano/plugins/MatchEmbedder.cc",
             "PhysicsTools/BPHNano/plugins/MuonTriggerSelector.cc",
             "PhysicsTools/BPHNano/plugins/PVertexBPHTable.cc",
-            "PhysicsTools/BPHNano/plugins/SimpleFlatTableProducerBPHPlugins.cc",
             "PhysicsTools/BPHNano/plugins/V0ReBuilder.cc",
             "PhysicsTools/BPHNano/plugins/helper.h",
             "PhysicsTools/BPHNano/production/README.md",
@@ -2435,12 +2434,7 @@
             "PhysicsTools/BPHNano/python/particlelevelBPH_cff.py",
             "PhysicsTools/BPHNano/python/pverticesBPH_cff.py",
             "PhysicsTools/BPHNano/python/tracks_cff.py",
-            "PhysicsTools/BPHNano/python/trgbits_cff.py",
             "PhysicsTools/BPHNano/python/vertices_cff.py",
-            "PhysicsTools/BPHNano/test/run_bphNano_cfg.py",
-            "PhysicsTools/BPHNano/test/time_analysis.py",
-            "PhysicsTools/BPHNano/test/validate_nano.py",
-            "PhysicsTools/BPHNano/test/validate_pr.sh",
             "PhysicsTools/NanoAOD/plugins/CandMCMatchTableProducer.cc",
             "PhysicsTools/NanoAOD/plugins/SimpleFlatTableProducerPlugins.cc",
             "PhysicsTools/NanoAOD/python/autoNANO.py",
@@ -2451,7 +2445,7 @@
         "created_at": 1745051730,
         "number": 47911,
         "state": "open",
-        "updated_at": 1746091716
+        "updated_at": 1746251643
     },
     "47912": {
         "base_branch": "CMSSW_14_1_X",
