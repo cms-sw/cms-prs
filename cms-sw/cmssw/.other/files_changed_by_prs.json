@@ -3225,6 +3225,7 @@
             "L1Trigger/DemonstratorTools/src/utilities.cc",
             "L1Trigger/L1CaloTrigger/plugins/L1NNCaloTauEmulator.cc",
             "L1Trigger/L1CaloTrigger/plugins/L1NNCaloTauProducer.cc",
+            "L1Trigger/L1CaloTrigger/plugins/Phase2L1TCaloBarrelToCorrelator.cc",
             "L1Trigger/Phase2L1ParticleFlow/data/egamma/compositeID_EB_v0.json",
             "L1Trigger/Phase2L1ParticleFlow/data/egamma/compositeID_EB_v1.json",
             "L1Trigger/Phase2L1ParticleFlow/data/egamma/compositeID_EE_v0.json",
@@ -3274,7 +3275,7 @@
         "created_at": 1746194720,
         "number": 48002,
         "state": "open",
-        "updated_at": 1746194741
+        "updated_at": 1746454125
     },
     "48006": {
         "base_branch": "master",
