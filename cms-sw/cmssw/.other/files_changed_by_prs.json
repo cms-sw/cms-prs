@@ -3257,36 +3257,6 @@
         "state": "open",
         "updated_at": 1746454125
     },
-    "48006": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "Geometry/HGCalCommonData/python/hgcalEEHENumberingInitialization_cfi.py",
-            "Geometry/HGCalCommonData/python/hgcalEEHEParametersInitialization_cfi.py",
-            "Geometry/HGCalCommonData/src/HGCalGeomTools.cc",
-            "Geometry/HGCalTBCommonData/data/TB231/CaloUtil.xml",
-            "Geometry/HGCalTBCommonData/data/TB231/caloBase.xml",
-            "Geometry/HGCalTBCommonData/data/TB231/cms.xml",
-            "Geometry/HGCalTBCommonData/data/TB231/flatFileTB231May.txt",
-            "Geometry/HGCalTBCommonData/data/TB231/hgcProdCuts.xml",
-            "Geometry/HGCalTBCommonData/data/TB231/hgcal.xml",
-            "Geometry/HGCalTBCommonData/data/TB231/hgcalCons.xml",
-            "Geometry/HGCalTBCommonData/data/TB231/hgcalConsData.xml",
-            "Geometry/HGCalTBCommonData/data/TB231/hgcalEE.xml",
-            "Geometry/HGCalTBCommonData/data/TB231/hgcalHE.xml",
-            "Geometry/HGCalTBCommonData/data/TB231/hgcalcell.xml",
-            "Geometry/HGCalTBCommonData/data/TB231/hgcalsense.xml",
-            "Geometry/HGCalTBCommonData/data/TB231/hgcalwafer.xml",
-            "Geometry/HGCalTBCommonData/python/testHGCalTB231May_cff.py",
-            "Geometry/HGCalTBCommonData/python/testTB231MayXML_cfi.py",
-            "Geometry/HGCalTBCommonData/test/python/dumpHGCalTB_cfg.py",
-            "Geometry/HGCalTBCommonData/test/python/g4OverlapCheck_cfg.py",
-            "SimG4CMS/HGCalTestBeam/test/HGCalTB231May_cfg.py"
-        ],
-        "created_at": 1746356732,
-        "number": 48006,
-        "state": "open",
-        "updated_at": 1746356758
-    },
     "48007": {
         "base_branch": "CMSSW_15_0_X",
         "changed_files_names": [
