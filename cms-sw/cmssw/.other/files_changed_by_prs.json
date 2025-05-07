@@ -3438,5 +3438,24 @@
         "number": 48025,
         "state": "open",
         "updated_at": 1746549387
+    },
+    "48026": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQM/SiStripCommon/interface/SiStripFolderOrganizer.h",
+            "DQM/SiStripCommon/src/SiStripFolderOrganizer.cc",
+            "DQM/SiStripCommon/src/SiStripHistoId.cc",
+            "DQM/SiStripMonitorCluster/interface/SiStripMonitorCluster.h",
+            "DQM/SiStripMonitorCluster/src/SiStripMonitorCluster.cc",
+            "DQM/SiStripMonitorDigi/interface/SiStripMonitorDigi.h",
+            "DQM/SiStripMonitorDigi/src/SiStripMonitorDigi.cc",
+            "DQM/SiStripMonitorTrack/interface/SiStripMonitorTrack.h",
+            "DQM/SiStripMonitorTrack/src/SiStripMonitorTrack.cc",
+            "Validation/TrackerRecHits/src/SiStripRecHitsValid.cc"
+        ],
+        "created_at": 1746596758,
+        "number": 48026,
+        "state": "open",
+        "updated_at": 1746596781
     }
 }
