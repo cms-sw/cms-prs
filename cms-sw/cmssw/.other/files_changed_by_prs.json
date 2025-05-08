@@ -2445,30 +2445,6 @@
         "state": "open",
         "updated_at": 1745832697
     },
-    "47944": {
-        "base_branch": "CMSSW_15_0_X",
-        "changed_files_names": [
-            "Configuration/Eras/python/Era_Run3_2025_OXY_cff.py",
-            "Configuration/Eras/python/Era_Run3_2025_UPC_OXY_cff.py",
-            "Configuration/Eras/python/Modifier_pp_on_PbPb_run3_2025_cff.py",
-            "Configuration/PyReleaseValidation/python/relval_standard.py",
-            "Configuration/PyReleaseValidation/python/relval_steps.py",
-            "Configuration/StandardSequences/python/Eras.py",
-            "PhysicsTools/PatAlgos/python/slimming/MicroEventContent_cff.py",
-            "PhysicsTools/PatAlgos/python/slimming/genParticles_cff.py",
-            "PhysicsTools/PatAlgos/python/slimming/slimming_cff.py",
-            "RecoHI/HiEvtPlaneAlgos/python/HiEvtPlane_cfi.py",
-            "RecoHI/HiTracking/python/HILowPtConformalPixelTracks_cfi.py",
-            "RecoTracker/TkSeedGenerator/python/trackerClusterCheck_cfi.py",
-            "RecoVertex/PrimaryVertexProducer/python/OfflinePrimaryVertices_cfi.py",
-            "SimCalorimetry/HcalTrigPrimProducers/python/hcaltpdigi_cff.py",
-            "SimGeneral/Configuration/python/SimGeneral_EventContent_cff.py"
-        ],
-        "created_at": 1745504230,
-        "number": 47944,
-        "state": "open",
-        "updated_at": 1746175079
-    },
     "47948": {
         "base_branch": "CMSSW_14_2_X",
         "changed_files_names": [
