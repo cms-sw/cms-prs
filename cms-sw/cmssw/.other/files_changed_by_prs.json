@@ -2849,7 +2849,6 @@
             "Calibration/HcalAlCaRecoProducers/plugins/AlCaHcalIsotrkProducer.cc",
             "Calibration/HcalAlCaRecoProducers/python/ALCARECOHcalCalIsoTrkFromAlCaRaw_Output_cff.py",
             "Calibration/HcalAlCaRecoProducers/python/ALCARECOHcalCalIsoTrkFromAlCaRaw_cff.py",
-            "Calibration/HcalAlCaRecoProducers/python/ALCARECOHcalCalIsoTrkProducerFilter_AlCaRaw_cff.py",
             "Configuration/AlCa/python/autoAlca.py",
             "Configuration/DataProcessing/python/Impl/AlCaHcalIsoTrk_Run3.py",
             "Configuration/DataProcessing/test/run_CfgTest_5.sh",
@@ -2859,7 +2858,7 @@
         "created_at": 1745922232,
         "number": 47975,
         "state": "open",
-        "updated_at": 1746596022
+        "updated_at": 1746705021
     },
     "47976": {
         "base_branch": "CMSSW_15_0_X",
