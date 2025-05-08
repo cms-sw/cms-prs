@@ -3267,6 +3267,7 @@
         "base_branch": "master",
         "changed_files_names": [
             "Configuration/HLT/python/autoCondHLT.py",
+            "Configuration/HLT/python/autoHLT.py",
             "HLTrigger/Configuration/python/HLT_2025v11_cff.py",
             "HLTrigger/Configuration/python/HLT_2025v10_cff.py",
             "HLTrigger/Configuration/python/HLT_FULL_cff.py",
@@ -3313,7 +3314,7 @@
         "created_at": 1746717309,
         "number": 48042,
         "state": "open",
-        "updated_at": 1746717391
+        "updated_at": 1746728563
     },
     "48043": {
         "base_branch": "CMSSW_15_0_X",
