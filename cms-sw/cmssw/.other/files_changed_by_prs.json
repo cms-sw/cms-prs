@@ -3107,21 +3107,24 @@
             "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEClusterRepair.h",
             "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEFastParamsHost.h",
             "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEGeneric.h",
+            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPETemplateReco.h",
             "RecoLocalTracker/SiPixelRecHits/interface/SiPixelTemplateReco.h",
             "RecoLocalTracker/SiPixelRecHits/interface/pixelCPEforDevice.h",
             "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelCPEFastParamsESProducerAlpaka.cc",
             "RecoLocalTracker/SiPixelRecHits/python/PixelCPEClusterRepair_cfi.py",
             "RecoLocalTracker/SiPixelRecHits/python/PixelCPEESProducers_cff.py",
             "RecoLocalTracker/SiPixelRecHits/python/PixelCPEGeneric_cfi.py",
+            "RecoLocalTracker/SiPixelRecHits/python/PixelCPETemplateReco_cfi.py",
             "RecoLocalTracker/SiPixelRecHits/src/PixelCPEClusterRepair.cc",
             "RecoLocalTracker/SiPixelRecHits/src/PixelCPEFastParamsHost.cc",
             "RecoLocalTracker/SiPixelRecHits/src/PixelCPEGeneric.cc",
+            "RecoLocalTracker/SiPixelRecHits/src/PixelCPETemplateReco.cc",
             "RecoLocalTracker/SiPixelRecHits/src/SiPixelTemplateReco.cc"
         ],
         "created_at": 1746428772,
         "number": 48008,
         "state": "open",
-        "updated_at": 1746428796
+        "updated_at": 1746699654
     },
     "48009": {
         "base_branch": "CMSSW_15_1_FASTPU_X",
