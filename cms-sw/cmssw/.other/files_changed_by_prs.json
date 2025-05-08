@@ -3244,5 +3244,17 @@
         "number": 48033,
         "state": "open",
         "updated_at": 1746699285
+    },
+    "48034": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "DQM/HLTEvF/python/HLTPrimaryVertexMonitoring_cff.py",
+            "DQMOffline/RecoB/plugins/PrimaryVertexMonitor.cc",
+            "DQMOffline/Trigger/python/PrimaryVertexMonitoring_cff.py"
+        ],
+        "created_at": 1746706381,
+        "number": 48034,
+        "state": "open",
+        "updated_at": 1746706412
     }
 }
