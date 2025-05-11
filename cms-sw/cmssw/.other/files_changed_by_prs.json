@@ -2103,6 +2103,7 @@
     "47859": {
         "base_branch": "master",
         "changed_files_names": [
+            "Configuration/EventContent/python/EventContent_cff.py",
             "Configuration/Generator/python/CloseByPGun_Barrel_Front_cfi.py",
             "Configuration/ProcessModifiers/python/ticl_barrel_cff.py",
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
@@ -2156,6 +2157,10 @@
             "HLTrigger/Configuration/python/HLT_75e33/paths/HLT_PFPuppiMETTypeOne140_PFPuppiMHT140_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/paths/MC_BTV_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/paths/MC_JME_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTDiphoton3023IsoCaloIdUnseededSequence_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTDoubleEle25CaloIdLPMS2UnseededSequence_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTEle26WP70UnseededSequence_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTEle32WPTightUnseededSequence_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTHgcalLocalRecoSequence_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTHgcalTiclPFClusteringForEgammaL1SeededSequence_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTHgcalTiclPFClusteringForEgammaUnseededSequence_cfi.py",
@@ -2166,6 +2171,7 @@
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPfClusteringECALSequence_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPfClusteringHBHEHFSequence_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPfRecHitUnseededSequence_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPhoton108EBTightIDTightIsoUnseededSequence_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPhoton187UnseededSequence_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTTICLLocalRecoSequence_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33_cff.py",
@@ -2173,6 +2179,7 @@
             "RecoHGCal/TICL/plugins/TICLLayerTileProducer.cc",
             "RecoHGCal/TICL/plugins/TracksterInferenceByDNN.cc",
             "RecoHGCal/TICL/plugins/TracksterInferenceByPFN.cc",
+            "RecoHGCal/TICL/python/HLTSimTracksters_cff.py",
             "RecoLocalCalo/HGCalRecAlgos/interface/RecHitTools.h",
             "RecoLocalCalo/HGCalRecAlgos/src/RecHitTools.cc",
             "RecoLocalCalo/HGCalRecProducers/interface/BarrelTilesConstants.h",
@@ -2201,6 +2208,7 @@
             "Validation/Configuration/python/autoValidation.py",
             "Validation/Configuration/python/barrelSimValid_cff.py",
             "Validation/Configuration/python/globalValidation_cff.py",
+            "Validation/Configuration/python/hltHGCalSimValid_cff.py",
             "Validation/Configuration/python/postValidation_cff.py",
             "Validation/HGCalValidation/interface/BarrelVHistoProducerAlgo.h",
             "Validation/HGCalValidation/interface/BarrelValidator.h",
@@ -2209,6 +2217,7 @@
             "Validation/HGCalValidation/python/BarrelPostProcessor_cff.py",
             "Validation/HGCalValidation/python/BarrelValidator_cff.py",
             "Validation/HGCalValidation/python/HGCalPostProcessor_cff.py",
+            "Validation/HGCalValidation/python/HLTHGCalValidator_cff.py",
             "Validation/HGCalValidation/python/PostProcessorBarrel_cfi.py",
             "Validation/HGCalValidation/src/BarrelVHistoProducerAlgo.cc",
             "Validation/HGCalValidation/src/HGVHistoProducerAlgo.cc"
@@ -2216,7 +2225,7 @@
         "created_at": 1744548059,
         "number": 47859,
         "state": "open",
-        "updated_at": 1746461130
+        "updated_at": 1746979304
     },
     "47869": {
         "base_branch": "CMSSW_15_0_X",
