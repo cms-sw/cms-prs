@@ -3264,5 +3264,16 @@
         "number": 48058,
         "state": "open",
         "updated_at": 1747039275
+    },
+    "48060": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "RecoLocalTracker/SiPixelDigiReProducers/plugins/BuildFile.xml",
+            "RecoLocalTracker/SiPixelDigiReProducers/plugins/SiPixelDigiMorphing.cc"
+        ],
+        "created_at": 1747045581,
+        "number": 48060,
+        "state": "open",
+        "updated_at": 1747045610
     }
 }
