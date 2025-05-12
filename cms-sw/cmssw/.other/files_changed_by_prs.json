@@ -3224,5 +3224,24 @@
         "number": 48055,
         "state": "open",
         "updated_at": 1746993363
+    },
+    "48056": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "DQM/SiStripCommon/interface/SiStripFolderOrganizer.h",
+            "DQM/SiStripCommon/src/SiStripFolderOrganizer.cc",
+            "DQM/SiStripCommon/src/SiStripHistoId.cc",
+            "DQM/SiStripMonitorCluster/interface/SiStripMonitorCluster.h",
+            "DQM/SiStripMonitorCluster/src/SiStripMonitorCluster.cc",
+            "DQM/SiStripMonitorDigi/interface/SiStripMonitorDigi.h",
+            "DQM/SiStripMonitorDigi/src/SiStripMonitorDigi.cc",
+            "DQM/SiStripMonitorTrack/interface/SiStripMonitorTrack.h",
+            "DQM/SiStripMonitorTrack/src/SiStripMonitorTrack.cc",
+            "Validation/TrackerRecHits/src/SiStripRecHitsValid.cc"
+        ],
+        "created_at": 1747028240,
+        "number": 48056,
+        "state": "open",
+        "updated_at": 1747028272
     }
 }
