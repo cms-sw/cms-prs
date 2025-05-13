@@ -2448,31 +2448,6 @@
         "state": "open",
         "updated_at": 1746507923
     },
-    "47954": {
-        "base_branch": "CMSSW_15_0_X",
-        "changed_files_names": [
-            "EventFilter/Utilities/interface/DAQSource.h",
-            "EventFilter/Utilities/interface/DAQSourceModels.h",
-            "EventFilter/Utilities/interface/DAQSourceModelsDTH.h",
-            "EventFilter/Utilities/interface/DAQSourceModelsFRD.h",
-            "EventFilter/Utilities/interface/FedRawDataInputSource.h",
-            "EventFilter/Utilities/plugins/DaqFakeReader.cc",
-            "EventFilter/Utilities/plugins/DaqFakeReader.h",
-            "EventFilter/Utilities/src/DAQSource.cc",
-            "EventFilter/Utilities/src/DAQSourceModelsFRD.cc",
-            "EventFilter/Utilities/src/EvFDaqDirector.cc",
-            "EventFilter/Utilities/src/FedRawDataInputSource.cc",
-            "EventFilter/Utilities/test/RunBUFU.sh",
-            "EventFilter/Utilities/test/hlt_dir_example.py",
-            "EventFilter/Utilities/test/startBU.py",
-            "EventFilter/Utilities/test/startFU_daqsource.py",
-            "EventFilter/Utilities/test/unittest_FU_daqsource.py"
-        ],
-        "created_at": 1745646141,
-        "number": 47954,
-        "state": "open",
-        "updated_at": 1746026554
-    },
     "47966": {
         "base_branch": "master",
         "changed_files_names": [
