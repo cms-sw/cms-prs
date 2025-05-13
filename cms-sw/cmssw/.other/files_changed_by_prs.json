@@ -2759,6 +2759,9 @@
             "CondFormats/SiPixelTransient/src/SiPixelTemplate.cc",
             "CondFormats/SiPixelTransient/src/SiPixelUtils.cc",
             "Configuration/ProcessModifiers/python/siPixelGoodEdgeAlgo_cff.py",
+            "Configuration/PyReleaseValidation/README.md",
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "RecoLocalTracker/Configuration/python/customizeHLT.py",
             "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEClusterRepair.h",
             "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEFastParamsHost.h",
             "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEGeneric.h",
@@ -2779,7 +2782,7 @@
         "created_at": 1746428772,
         "number": 48008,
         "state": "open",
-        "updated_at": 1747023984
+        "updated_at": 1747115337
     },
     "48009": {
         "base_branch": "CMSSW_15_1_FASTPU_X",
