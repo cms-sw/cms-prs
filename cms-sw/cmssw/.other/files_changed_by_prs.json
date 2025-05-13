@@ -1897,7 +1897,6 @@
             "DataFormats/TrackingRecHitSoA/test/testWriteAndReadHitSoA.sh",
             "DataFormats/TrackingRecHitSoA/test/testWriteHostHitSoA.py",
             "Geometry/CommonTopologies/interface/SimplePixelTopology.h",
-            "HLTrigger/Configuration/python/HLT_75e33/eventsetup/hltPhase2ESCAGeometry_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2PixelTracksSoA_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33_cff.py",
             "HLTrigger/Configuration/python/HLT_75e33_timing_cff.py",
@@ -1942,7 +1941,6 @@
             "RecoTracker/PixelSeeding/plugins/alpaka/HelixFit.cc",
             "RecoTracker/PixelSeeding/plugins/alpaka/HelixFit.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/RiemannFit.dev.cc",
-            "RecoTracker/PixelSeeding/python/CAGeometryESProducer_cfi.py",
             "RecoTracker/PixelSeeding/src/ES_CAGeometry.cc",
             "RecoTracker/PixelSeeding/test/alpaka/CAGeometry_t.cpp",
             "RecoTracker/PixelSeeding/test/alpaka/CAGeometry_t.h",
@@ -1959,7 +1957,7 @@
         "created_at": 1742211150,
         "number": 47611,
         "state": "open",
-        "updated_at": 1747044596
+        "updated_at": 1747122868
     },
     "47627": {
         "base_branch": "master",
