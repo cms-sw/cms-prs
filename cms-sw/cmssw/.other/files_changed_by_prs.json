@@ -2935,5 +2935,36 @@
         "number": 48072,
         "state": "open",
         "updated_at": 1747157166
+    },
+    "48073": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Services/src/SiteLocalConfigService.cc",
+            "IOPool/TFileAdaptor/src/TFileAdaptor.cc",
+            "IOPool/TFileAdaptor/src/TFileAdaptor.h",
+            "Utilities/DCacheAdaptor/plugins/DCacheStorageMaker.cc",
+            "Utilities/DavixAdaptor/plugins/DavixStorageMaker.cc",
+            "Utilities/StorageFactory/BuildFile.xml",
+            "Utilities/StorageFactory/README.md",
+            "Utilities/StorageFactory/interface/StorageFactory.h",
+            "Utilities/StorageFactory/interface/StorageMaker.h",
+            "Utilities/StorageFactory/interface/StorageProxyMaker.h",
+            "Utilities/StorageFactory/interface/StorageProxyMakerFactory.h",
+            "Utilities/StorageFactory/plugins/BuildFile.xml",
+            "Utilities/StorageFactory/plugins/HttpStorageMaker.cc",
+            "Utilities/StorageFactory/plugins/LocalStorageMaker.cc",
+            "Utilities/StorageFactory/plugins/StorageAddLatencyProxy.cc",
+            "Utilities/StorageFactory/plugins/StorageTracerProxy.cc",
+            "Utilities/StorageFactory/scripts/edmStorageTrace.py",
+            "Utilities/StorageFactory/src/StorageFactory.cc",
+            "Utilities/StorageFactory/src/StorageProxyMaker.cc",
+            "Utilities/StorageFactory/src/StorageProxyMakerFactory.cc",
+            "Utilities/StorageFactory/test/BuildFile.xml",
+            "Utilities/XrdAdaptor/plugins/XrdStorageMaker.cc"
+        ],
+        "created_at": 1747161095,
+        "number": 48073,
+        "state": "open",
+        "updated_at": 1747161124
     }
 }
