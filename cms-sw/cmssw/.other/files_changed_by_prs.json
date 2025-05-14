@@ -2814,12 +2814,13 @@
     "48065": {
         "base_branch": "master",
         "changed_files_names": [
-            "DataFormats/L1TParticleFlow/interface/jets.h"
+            "DataFormats/L1TParticleFlow/interface/jets.h",
+            "L1Trigger/Phase2L1ParticleFlow/src/L1TSC4NGJet.cc"
         ],
         "created_at": 1747136596,
         "number": 48065,
         "state": "open",
-        "updated_at": 1747136596
+        "updated_at": 1747221396
     },
     "48068": {
         "base_branch": "CMSSW_15_0_X",
