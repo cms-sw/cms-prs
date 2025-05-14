@@ -2885,12 +2885,15 @@
             "Utilities/StorageFactory/src/StorageProxyMaker.cc",
             "Utilities/StorageFactory/src/StorageProxyMakerFactory.cc",
             "Utilities/StorageFactory/test/BuildFile.xml",
+            "Utilities/StorageFactory/test/test_storageproxies.sh",
+            "Utilities/StorageFactory/test/test_storageproxy_make_file_cfg.py",
+            "Utilities/StorageFactory/test/test_storageproxy_test_cfg.py",
             "Utilities/XrdAdaptor/plugins/XrdStorageMaker.cc"
         ],
         "created_at": 1747161095,
         "number": 48073,
         "state": "open",
-        "updated_at": 1747161124
+        "updated_at": 1747241403
     },
     "48074": {
         "base_branch": "master",
