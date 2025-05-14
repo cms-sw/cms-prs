@@ -2940,5 +2940,37 @@
         "number": 48082,
         "state": "open",
         "updated_at": 1747244113
+    },
+    "48084": {
+        "base_branch": "CMSSW_15_1_RNTUPLE_X",
+        "changed_files_names": [
+            "FWCore/Sources/interface/InputSourceRunHelper.h",
+            "IOPool/Input/src/RunHelper.h",
+            "FWCore/Sources/src/InputSourceRunHelper.cc",
+            "IOPool/Input/src/RunHelper.cc",
+            "FWIO/RNTuple/plugins/BuildFile.xml",
+            "FWIO/RNTuple/plugins/RNTupleInputFile.cc",
+            "FWIO/RNTuple/plugins/RNTupleInputFile.h",
+            "FWIO/RNTuple/plugins/RNTupleSource.cc",
+            "FWIO/RNTuple/test/BuildFile.xml",
+            "FWIO/RNTuple/test/PreRNTupleInputTest_cfg.py",
+            "FWIO/RNTuple/test/RunPerLumiTest_cfg.py",
+            "FWIO/RNTuple/test/TestRNTupleInputRunPerLumi.sh",
+            "FWIO/RNTuple/test/firstLuminosityBlockForEachRunTest_cfg.py",
+            "FWIO/RNTuple/test/firstLuminosityBlockForEachRun_skipLumis2_Test_cfg.py",
+            "FWIO/RNTuple/test/firstLuminosityBlockForEachRun_skipLumis_Test_cfg.py",
+            "FWIO/RNTuple/test/unit_test_outputs/RunPerLumiTest.filtered.txt",
+            "IOPool/Input/src/EmbeddedRootSource.cc",
+            "IOPool/Input/src/EmbeddedRootSource.h",
+            "IOPool/Input/src/PoolSource.cc",
+            "IOPool/Input/src/PoolSource.h",
+            "IOPool/Input/src/RepeatingCachedRootSource.cc",
+            "IOPool/Input/src/RootFile.cc",
+            "IOPool/Input/src/RootFile.h"
+        ],
+        "created_at": 1747248742,
+        "number": 48084,
+        "state": "open",
+        "updated_at": 1747248771
     }
 }
