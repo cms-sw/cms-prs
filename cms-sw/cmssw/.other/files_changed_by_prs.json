@@ -2921,27 +2921,6 @@
         "state": "open",
         "updated_at": 1747257390
     },
-    "48085": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "Geometry/HGCalCommonData/data/dd4hep/testHGCalV16.xml",
-            "Geometry/HGCalCommonData/data/dd4hep/testHGCalV17.xml",
-            "Geometry/HGCalCommonData/data/dd4hep/testHGCalV17Shift.xml",
-            "Geometry/HGCalCommonData/data/dd4hep/testHGCalV17n.xml",
-            "Geometry/HGCalCommonData/data/dd4hep/testHGCalV18.xml",
-            "Geometry/HGCalCommonData/data/hgcalwafer/v19/hgcalpos.xml",
-            "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h",
-            "Geometry/HGCalCommonData/interface/HGCalWaferMask.h",
-            "Geometry/HGCalCommonData/plugins/DDHGCalWaferPartialRotated.cc",
-            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalWaferPartialRotated.cc",
-            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc",
-            "Geometry/HGCalCommonData/src/HGCalWaferMask.cc"
-        ],
-        "created_at": 1747275868,
-        "number": 48085,
-        "state": "open",
-        "updated_at": 1747307990
-    },
     "48086": {
         "base_branch": "master",
         "changed_files_names": [
