@@ -2657,6 +2657,7 @@
             "SimCalorimetry/HcalSimProducers/python/hcalUnsuppressedDigis_cfi.py",
             "SimCalorimetry/HcalSimProducers/src/HcalDigitizer.cc",
             "SimGeneral/MixingModule/plugins/MixingModule.cc",
+            "SimGeneral/MixingModule/plugins/MixingModule.h",
             "SimGeneral/MixingModule/plugins/MixingWorker.cc",
             "SimGeneral/MixingModule/plugins/MixingWorker.h",
             "SimGeneral/MixingModule/plugins/MixingWorkerBase.h",
@@ -2664,6 +2665,7 @@
             "SimGeneral/MixingModule/python/SiStripSimParameters_cfi.py",
             "SimGeneral/MixingModule/python/ecalDigitizer_cfi.py",
             "SimGeneral/MixingModule/python/mixObjects_cfi.py",
+            "SimGeneral/MixingModule/python/mix_probFunction_25ns_PoissonOOTPU_cfi.py",
             "SimGeneral/MixingModule/python/pixelDigitizer_cfi.py",
             "SimGeneral/MixingModule/python/stripDigitizer_cfi.py",
             "SimGeneral/MixingModule/python/trackingTruthProducer_cfi.py",
@@ -2688,7 +2690,7 @@
         "created_at": 1746431684,
         "number": 48009,
         "state": "open",
-        "updated_at": 1746710879
+        "updated_at": 1747277643
     },
     "48037": {
         "base_branch": "master",
