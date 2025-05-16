@@ -1929,12 +1929,9 @@
             "RecoTracker/PixelSeeding/plugins/alpaka/HelixFit.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/RiemannFit.dev.cc",
             "RecoTracker/PixelSeeding/src/ES_CAGeometry.cc",
-            "RecoTracker/PixelSeeding/test/alpaka/CAGeometry_t.cpp",
-            "RecoTracker/PixelSeeding/test/alpaka/CAGeometry_t.h",
             "RecoTracker/PixelTrackFitting/plugins/PixelTrackDumpAlpaka.cc",
             "RecoTracker/PixelTrackFitting/plugins/PixelTrackProducerFromSoAAlpaka.cc",
             "RecoTracker/PixelTrackFitting/python/PixelTracks_cff.py",
-            "RecoTracker/Record/BuildFile.xml",
             "RecoTracker/Record/src/alpaka/ES_CAGeometrySoACollection.cc",
             "RecoVertex/Configuration/python/RecoPixelVertexing_cff.py",
             "RecoVertex/PixelVertexFinding/plugins/alpaka/PixelVertexProducerAlpaka.cc",
@@ -1944,7 +1941,7 @@
         "created_at": 1742211150,
         "number": 47611,
         "state": "open",
-        "updated_at": 1747310514
+        "updated_at": 1747365719
     },
     "47627": {
         "base_branch": "master",
