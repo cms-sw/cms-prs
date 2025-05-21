@@ -3042,5 +3042,31 @@
         "number": 48136,
         "state": "open",
         "updated_at": 1747815085
+    },
+    "48137": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondFormats/HGCalObjects/interface/HGCalCalibrationParameterHost.h",
+            "CondFormats/HGCalObjects/interface/HGCalConfigParamSoA.h",
+            "CondFormats/HGCalObjects/interface/HGCalConfiguration.h",
+            "CondFormats/HGCalObjects/interface/HGCalESProducerTools.h",
+            "CondFormats/HGCalObjects/interface/HGCalMappingModuleIndexer.h",
+            "CondFormats/HGCalObjects/interface/alpaka/HGCalCalibrationParameterDevice.h",
+            "CondFormats/HGCalObjects/src/T_EventSetup_HGCalCalibrationParameterHost.cc",
+            "CondFormats/HGCalObjects/src/alpaka/T_EventSetup_HGCalCalibrationParameterDevice.cc",
+            "CondFormats/HGCalObjects/src/classes_def.xml",
+            "RecoLocalCalo/HGCalRecAlgos/interface/alpaka/HGCalRecHitCalibrationAlgorithms.h",
+            "RecoLocalCalo/HGCalRecAlgos/plugins/HGCalConfigurationESProducer.cc",
+            "RecoLocalCalo/HGCalRecAlgos/plugins/alpaka/HGCalRecHitCalibrationAlgorithms.dev.cc",
+            "RecoLocalCalo/HGCalRecAlgos/plugins/alpaka/HGCalRecHitCalibrationESProducer.cc",
+            "RecoLocalCalo/HGCalRecAlgos/plugins/alpaka/HGCalRecHitConfigurationESProducer.cc",
+            "RecoLocalCalo/HGCalRecAlgos/plugins/alpaka/HGCalRecHitProducers.cc",
+            "RecoLocalCalo/HGCalRecAlgos/test/alpaka/HGCalRecHitESProducersTest.cc",
+            "RecoLocalCalo/HGCalRecAlgos/test/testHGCalRecHitESProducers_cfg.py"
+        ],
+        "created_at": 1747832767,
+        "number": 48137,
+        "state": "open",
+        "updated_at": 1747832792
     }
 }
