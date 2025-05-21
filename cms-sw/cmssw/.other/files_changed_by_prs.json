@@ -2804,6 +2804,7 @@
             "Configuration/PyReleaseValidation/scripts/README.md",
             "Configuration/PyReleaseValidation/scripts/runTheMatrix.py",
             "PhysicsTools/NanoAOD/python/boostedTaus_cff.py",
+            "PhysicsTools/NanoAOD/python/custom_btv_cff.py",
             "PhysicsTools/NanoAOD/python/custom_jme_cff.py",
             "PhysicsTools/NanoAOD/python/electrons_cff.py",
             "PhysicsTools/NanoAOD/python/jetsAK4_CHS_cff.py",
@@ -2813,14 +2814,13 @@
             "PhysicsTools/NanoAOD/python/nanoDQM_cff.py",
             "PhysicsTools/NanoAOD/python/nano_cff.py",
             "PhysicsTools/NanoAOD/python/nano_eras_cff.py",
-            "PhysicsTools/NanoAOD/test/test-btvNano.sh",
             "PhysicsTools/PatAlgos/plugins/BuildFile.xml",
             "PhysicsTools/PatAlgos/plugins/LeptonUpdater.cc"
         ],
         "created_at": 1747382665,
         "number": 48104,
         "state": "open",
-        "updated_at": 1747857704
+        "updated_at": 1747860419
     },
     "48107": {
         "base_branch": "CMSSW_15_0_X",
