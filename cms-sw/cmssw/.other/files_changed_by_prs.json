@@ -2961,12 +2961,14 @@
     "48133": {
         "base_branch": "master",
         "changed_files_names": [
+            "DataFormats/SoATemplate/BuildFile.xml",
             "DataFormats/SoATemplate/interface/SoACommon.h",
-            "DataFormats/SoATemplate/interface/SoAView.h"
+            "DataFormats/SoATemplate/interface/SoAView.h",
+            "DataFormats/SoATemplate/test/BuildFile.xml"
         ],
         "created_at": 1747806611,
         "number": 48133,
         "state": "open",
-        "updated_at": 1747806634
+        "updated_at": 1747812450
     }
 }
