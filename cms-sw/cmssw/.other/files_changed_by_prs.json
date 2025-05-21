@@ -3124,5 +3124,27 @@
         "number": 48142,
         "state": "open",
         "updated_at": 1747848316
+    },
+    "48143": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Catalog/interface/FileLocator.h",
+            "FWCore/Framework/interface/ESSourceProductResolverBase.h",
+            "FWCore/Framework/interface/es_Label.h",
+            "FWCore/Framework/src/Path.cc",
+            "FWCore/Framework/src/Principal.cc",
+            "FWCore/MessageLogger/src/MessageSender.cc",
+            "FWCore/MessageService/bin/Standalone.cpp",
+            "FWCore/MessageService/src/ThreadSafeLogMessageLoggerScribe.cc",
+            "FWCore/MessageService/src/ThreadSafeLogMessageLoggerScribe.h",
+            "FWCore/ParameterSet/src/FillDescriptionFromPSet.cc",
+            "FWCore/PythonFramework/src/PythonEventProcessor.cc",
+            "FWCore/Utilities/interface/UnixSignalHandlers.h",
+            "FWCore/Utilities/src/Digest.cc"
+        ],
+        "created_at": 1747856405,
+        "number": 48143,
+        "state": "open",
+        "updated_at": 1747856431
     }
 }
