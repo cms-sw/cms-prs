@@ -3147,5 +3147,39 @@
         "number": 48143,
         "state": "open",
         "updated_at": 1747856431
+    },
+    "48144": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/test/python/dumpHGCalCellDDD_cfg.py",
+            "Geometry/HGCalCommonData/test/python/dumpHGCalEEDD4hep_cfg.py",
+            "Geometry/HGCalCommonData/test/python/dumpHGCalEEDDD_cfg.py",
+            "Geometry/HGCalCommonData/test/python/dumpHGCalGeometryDD4hep_cfg.py",
+            "Geometry/HGCalCommonData/test/python/dumpHGCalGeometryDDD_cfg.py",
+            "Geometry/HGCalCommonData/test/python/dumpHGCalHEmixDD4hep_cfg.py",
+            "Geometry/HGCalCommonData/test/python/dumpHGCalHEmixDDD_cfg.py",
+            "Geometry/HGCalCommonData/test/python/dumpHGCalHEsilDD4hep_cfg.py",
+            "Geometry/HGCalCommonData/test/python/dumpHGCalHEsilDDD_cfg.py",
+            "Geometry/HGCalCommonData/test/python/dumpHGCalWaferDD4hep_cfg.py",
+            "Geometry/HGCalCommonData/test/python/dumpHGCalWaferDDD_cfg.py",
+            "Geometry/HGCalCommonData/test/python/dumpTBModuleDDD_cfg.py",
+            "Geometry/HGCalCommonData/test/python/g4OverlapCheckLayer_cfg.py",
+            "Geometry/HGCalCommonData/test/python/runHGCalDD4hep_cfg.py",
+            "Geometry/HGCalCommonData/test/python/runHGCalDDD_cfg.py",
+            "Geometry/HGCalCommonData/test/python/runHGCalTestDD4hep_cfg.py",
+            "Geometry/HGCalCommonData/test/python/runHGCalTestDDD_cfg.py",
+            "Geometry/HGCalCommonData/test/python/testHGCGeometry_cfg.py",
+            "Geometry/HGCalCommonData/test/python/testHGCalPartialWaferTester_cfg.py",
+            "Geometry/HGCalCommonData/test/python/testHGCalScintID_cfg.py",
+            "Geometry/HGCalCommonData/test/python/testHGCalV17Shift_cfg.py",
+            "Geometry/HGCalCommonData/test/python/testHGCalValidHex_cfg.py",
+            "Geometry/HGCalCommonData/test/python/testHGCalValidity_cfg.py",
+            "Geometry/HGCalCommonData/test/python/testHGCalWaferID_cfg.py",
+            "Geometry/HGCalCommonData/test/python/testHGCalWafer_cfg.py"
+        ],
+        "created_at": 1747878862,
+        "number": 48144,
+        "state": "open",
+        "updated_at": 1747878889
     }
 }
