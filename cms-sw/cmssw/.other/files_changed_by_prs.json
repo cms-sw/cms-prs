@@ -3135,5 +3135,17 @@
         "number": 48154,
         "state": "open",
         "updated_at": 1747963628
+    },
+    "48155": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondFormats/HGCalObjects/interface/HGCalMappingModuleIndexer.h",
+            "CondFormats/HGCalObjects/src/HGCalMappingModuleIndexer.cc",
+            "Geometry/HGCalMapping/plugins/alpaka/HGCalMappingModuleESProducer.cc"
+        ],
+        "created_at": 1747986656,
+        "number": 48155,
+        "state": "open",
+        "updated_at": 1747986681
     }
 }
