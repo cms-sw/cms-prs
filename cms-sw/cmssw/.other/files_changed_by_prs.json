@@ -3141,11 +3141,12 @@
         "changed_files_names": [
             "CondFormats/HGCalObjects/interface/HGCalMappingModuleIndexer.h",
             "CondFormats/HGCalObjects/src/HGCalMappingModuleIndexer.cc",
-            "Geometry/HGCalMapping/plugins/alpaka/HGCalMappingModuleESProducer.cc"
+            "Geometry/HGCalMapping/plugins/alpaka/HGCalMappingModuleESProducer.cc",
+            "RecoLocalCalo/HGCalRecAlgos/plugins/alpaka/HGCalRecHitCalibrationESProducer.cc"
         ],
         "created_at": 1747986656,
         "number": 48155,
         "state": "open",
-        "updated_at": 1747986681
+        "updated_at": 1748000378
     }
 }
