@@ -3081,5 +3081,33 @@
         "number": 48162,
         "state": "open",
         "updated_at": 1748024560
+    },
+    "48163": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/relval_nano.py",
+            "DataFormats/L1Scouting/BuildFile.xml",
+            "DataFormats/L1Scouting/interface/OrbitCollection.h",
+            "DataFormats/L1Scouting/interface/OrbitFlatTable.h",
+            "DataFormats/L1Scouting/src/classes.h",
+            "DataFormats/L1Scouting/src/classes_def.xml",
+            "DataFormats/NanoAOD/interface/FlatTable.h",
+            "L1TriggerScouting/Utilities/plugins/BuildFile.xml",
+            "L1TriggerScouting/Utilities/plugins/L1ScoutingEtSumOrbitFlatTableProducer.cc",
+            "L1TriggerScouting/Utilities/plugins/L1ScoutingPhysicalValueMapProducer.cc",
+            "L1TriggerScouting/Utilities/plugins/OrbitNanoAODOutputModule.cc",
+            "L1TriggerScouting/Utilities/plugins/OrbitTableOutputBranches.cc",
+            "L1TriggerScouting/Utilities/plugins/OrbitTableOutputBranches.h",
+            "L1TriggerScouting/Utilities/plugins/SelectedBxTableOutputBranches.cc",
+            "L1TriggerScouting/Utilities/plugins/SelectedBxTableOutputBranches.h",
+            "L1TriggerScouting/Utilities/plugins/SimpleOrbitFlatTableProducer.cc",
+            "PhysicsTools/NanoAOD/python/autoNANO.py",
+            "PhysicsTools/NanoAOD/python/custom_l1scoutingrun3_cff.py",
+            "PhysicsTools/NanoAOD/python/l1scoutingrun3_cff.py"
+        ],
+        "created_at": 1748028027,
+        "number": 48163,
+        "state": "open",
+        "updated_at": 1748028059
     }
 }
