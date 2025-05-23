@@ -3109,5 +3109,17 @@
         "number": 48163,
         "state": "open",
         "updated_at": 1748028059
+    },
+    "48164": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "L1Trigger/L1TGlobal/interface/GlobalBoard.h",
+            "L1Trigger/L1TGlobal/src/CICADACondition.cc",
+            "L1Trigger/L1TGlobal/src/GlobalBoard.cc"
+        ],
+        "created_at": 1748032327,
+        "number": 48164,
+        "state": "open",
+        "updated_at": 1748032353
     }
 }
