@@ -3091,5 +3091,19 @@
         "number": 48172,
         "state": "open",
         "updated_at": 1748241133
+    },
+    "48173": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Validation/MtdValidation/plugins/BtlLocalRecoHarvester.cc",
+            "Validation/MtdValidation/plugins/BtlLocalRecoValidation.cc",
+            "Validation/MtdValidation/plugins/BtlSimHitsHarvester.cc",
+            "Validation/MtdValidation/plugins/BtlSimHitsValidation.cc",
+            "Validation/MtdValidation/test/mtdValidation_cfg.py"
+        ],
+        "created_at": 1748243509,
+        "number": 48173,
+        "state": "open",
+        "updated_at": 1748243538
     }
 }
