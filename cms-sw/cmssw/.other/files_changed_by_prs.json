@@ -1903,14 +1903,14 @@
             "RecoTauTag/HLTProducers/src/L2TauTagNNProducerAlpaka.cc",
             "RecoTracker/Configuration/python/customizePixelTracksForTriplets.py",
             "RecoTracker/PixelSeeding/BuildFile.xml",
-            "RecoTracker/PixelSeeding/interface/CACoupleDevice.h",
-            "RecoTracker/PixelSeeding/interface/CACoupleHost.h",
-            "RecoTracker/PixelSeeding/interface/CACoupleSoA.h",
             "RecoTracker/PixelSeeding/interface/CAGeometryDevice.h",
             "RecoTracker/PixelSeeding/interface/CAGeometryHost.h",
             "RecoTracker/PixelSeeding/interface/CAGeometrySoA.h",
-            "RecoTracker/PixelSeeding/interface/alpaka/CACoupleSoACollection.h",
+            "RecoTracker/PixelSeeding/interface/CAPairDevice.h",
+            "RecoTracker/PixelSeeding/interface/CAPairHost.h",
+            "RecoTracker/PixelSeeding/interface/CAPairSoA.h",
             "RecoTracker/PixelSeeding/interface/alpaka/CAGeometrySoACollection.h",
+            "RecoTracker/PixelSeeding/interface/alpaka/CAPairSoACollection.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/BrokenLineFit.dev.cc",
             "RecoTracker/PixelSeeding/plugins/alpaka/CACell.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/CAFishbone.h",
@@ -1941,7 +1941,7 @@
         "created_at": 1742211150,
         "number": 47611,
         "state": "open",
-        "updated_at": 1747395724
+        "updated_at": 1748249546
     },
     "47627": {
         "base_branch": "master",
