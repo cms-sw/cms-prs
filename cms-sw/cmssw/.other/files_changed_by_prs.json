@@ -2746,9 +2746,6 @@
         "base_branch": "master",
         "changed_files_names": [
             "Configuration/ProcessModifiers/python/nanoAOD_rePuppi_cff.py",
-            "Configuration/PyReleaseValidation/python/relval_nano.py",
-            "Configuration/PyReleaseValidation/scripts/README.md",
-            "Configuration/PyReleaseValidation/scripts/runTheMatrix.py",
             "PhysicsTools/NanoAOD/python/boostedTaus_cff.py",
             "PhysicsTools/NanoAOD/python/custom_btv_cff.py",
             "PhysicsTools/NanoAOD/python/custom_jme_cff.py",
@@ -2766,7 +2763,7 @@
         "created_at": 1747382665,
         "number": 48104,
         "state": "open",
-        "updated_at": 1747912652
+        "updated_at": 1748258860
     },
     "48107": {
         "base_branch": "CMSSW_15_0_X",
