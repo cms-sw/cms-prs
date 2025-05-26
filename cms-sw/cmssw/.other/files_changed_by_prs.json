@@ -3145,5 +3145,24 @@
         "number": 48177,
         "state": "open",
         "updated_at": 1748264032
+    },
+    "48178": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "L1Trigger/L1TCommon/BuildFile.xml",
+            "L1Trigger/L1TCommon/src/XmlConfigParser.cc",
+            "L1Trigger/L1TMuonOverlap/BuildFile.xml",
+            "L1Trigger/L1TMuonOverlap/interface/XMLConfigWriter.h",
+            "L1Trigger/L1TMuonOverlap/src/XMLConfigReader.cc",
+            "L1Trigger/L1TMuonOverlap/src/XMLConfigWriter.cc",
+            "L1Trigger/L1TMuonOverlapPhase1/BuildFile.xml",
+            "L1Trigger/L1TMuonOverlapPhase1/interface/Omtf/XMLConfigWriter.h",
+            "L1Trigger/L1TMuonOverlapPhase1/src/Omtf/XMLConfigReader.cc",
+            "L1Trigger/L1TMuonOverlapPhase1/src/Omtf/XMLConfigWriter.cc"
+        ],
+        "created_at": 1748265601,
+        "number": 48178,
+        "state": "open",
+        "updated_at": 1748265629
     }
 }
