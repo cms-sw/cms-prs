@@ -3096,26 +3096,6 @@
         "state": "open",
         "updated_at": 1748261891
     },
-    "48177": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "Geometry/HGCalCommonData/data/hgcalCons/v19/hgcalCons.xml",
-            "Geometry/HGCalCommonData/data/hgcalCons/v19n/hgcalCons.xml",
-            "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h",
-            "Geometry/HGCalCommonData/python/testHGCalV17Reco_cff.py",
-            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc",
-            "Geometry/HGCalCommonData/src/HGCalGeomParameters.cc",
-            "Geometry/HGCalCommonData/src/HGCalParametersFromDD.cc",
-            "SimG4CMS/Calo/src/HGCGuardRing.cc",
-            "SimG4CMS/Calo/src/HGCGuardRingPartial.cc",
-            "SimG4CMS/Calo/src/HGCalSD.cc",
-            "SimG4CMS/Calo/test/python/runHGC1_cfg.py"
-        ],
-        "created_at": 1748264006,
-        "number": 48177,
-        "state": "open",
-        "updated_at": 1748264032
-    },
     "48178": {
         "base_branch": "CMSSW_15_0_X",
         "changed_files_names": [
