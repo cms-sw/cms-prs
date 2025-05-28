@@ -2930,6 +2930,7 @@
             "CondFormats/HGCalObjects/src/HGCalMappingModuleIndexer.cc",
             "Geometry/HGCalMapping/plugins/alpaka/HGCalMappingModuleESProducer.cc",
             "RecoLocalCalo/HGCalRecAlgos/interface/HGCalESProducerTools.h",
+            "RecoLocalCalo/HGCalRecAlgos/plugins/alpaka/HGCalRecHitCalibrationAlgorithms.dev.cc",
             "RecoLocalCalo/HGCalRecAlgos/plugins/alpaka/HGCalRecHitCalibrationESProducer.cc",
             "RecoLocalCalo/HGCalRecAlgos/src/HGCalESProducerTools.cc",
             "RecoLocalCalo/HGCalRecAlgos/test/alpaka/HGCalRecHitESProducersTest.cc",
@@ -2938,7 +2939,7 @@
         "created_at": 1748359430,
         "number": 48187,
         "state": "open",
-        "updated_at": 1748359458
+        "updated_at": 1748443649
     },
     "48189": {
         "base_branch": "CMSSW_15_0_X",
