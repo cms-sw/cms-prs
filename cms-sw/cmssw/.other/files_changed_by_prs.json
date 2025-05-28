@@ -2811,32 +2811,6 @@
         "state": "open",
         "updated_at": 1748191233
     },
-    "48156": {
-        "base_branch": "CMSSW_15_0_X",
-        "changed_files_names": [
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/DiMuonV_cfg.py",
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/JetHT_cfg.py",
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/PV_cfg.py",
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/SplitV_cfg.py",
-            "Alignment/OfflineValidation/python/TkAlAllInOneTool/Zmumu_cfg.py",
-            "Alignment/OfflineValidation/test/PVValidation_TEMPL_cfg.py",
-            "Alignment/OfflineValidation/test/PVValidation_T_cfg.py",
-            "Alignment/OfflineValidation/test/PrimaryVertexResolution_cfg.py",
-            "Alignment/OfflineValidation/test/PrimaryVertexResolution_templ_cfg.py",
-            "Alignment/OfflineValidation/test/testPrimaryVertexRelatedValidations_cfg.py",
-            "Alignment/OfflineValidation/test/test_all_Phase2_cfg.py",
-            "Alignment/OfflineValidation/test/test_all_cfg.py",
-            "DQM/BeamMonitor/python/AlcaBeamMonitor_cff.py",
-            "RecoVertex/BeamSpotProducer/plugins/BeamSpotCompatibilityChecker.cc",
-            "RecoVertex/BeamSpotProducer/plugins/BeamSpotOnlineProducer.cc",
-            "RecoVertex/BeamSpotProducer/test/testBeamSpotCompatibility.cc",
-            "RecoVertex/BeamSpotProducer/test/testBeamSpotCompatibility_cfg.py"
-        ],
-        "created_at": 1747993890,
-        "number": 48156,
-        "state": "open",
-        "updated_at": 1748002013
-    },
     "48162": {
         "base_branch": "master",
         "changed_files_names": [
