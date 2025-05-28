@@ -2978,5 +2978,25 @@
         "number": 48189,
         "state": "open",
         "updated_at": 1748417900
+    },
+    "48191": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HeterogeneousCore/CUDACore/README.md",
+            "HeterogeneousCore/CUDACore/interface/ContextState.h",
+            "HeterogeneousCore/CUDACore/interface/ScopedContext.h",
+            "HeterogeneousCore/CUDACore/src/ScopedContext.cc",
+            "HeterogeneousCore/CUDATest/plugins/TestCUDAProducerGPUEWTask.cc",
+            "HeterogeneousCore/CUDATest/python/prod6CPU_cfi.py",
+            "HeterogeneousCore/CUDATest/python/prod6CUDA_cfi.py",
+            "HeterogeneousCore/CUDATest/python/prod6FromCUDA_cfi.py",
+            "HeterogeneousCore/CUDATest/python/prod6Switch_cff.py",
+            "HeterogeneousCore/CUDATest/test/BuildFile.xml",
+            "HeterogeneousCore/CUDATest/test/testCUDASwitch_cfg.py"
+        ],
+        "created_at": 1748431978,
+        "number": 48191,
+        "state": "open",
+        "updated_at": 1748432005
     }
 }
