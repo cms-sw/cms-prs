@@ -2960,5 +2960,23 @@
         "number": 48188,
         "state": "open",
         "updated_at": 1748393810
+    },
+    "48189": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "Configuration/ProcessModifiers/python/nanoAOD_rePuppi_cff.py",
+            "Configuration/PyReleaseValidation/python/relval_nano.py",
+            "Configuration/PyReleaseValidation/scripts/README.md",
+            "Configuration/PyReleaseValidation/scripts/runTheMatrix.py",
+            "PhysicsTools/NanoAOD/python/btvMC_cff.py",
+            "PhysicsTools/NanoAOD/python/custom_muon_cff.py",
+            "Validation/RecoTau/python/dataTypes/ValidateTausOnRealData_cff.py",
+            "Validation/RecoTau/python/dataTypes/ValidateTausOnRealElectronsData_cff.py",
+            "Validation/RecoTau/python/dataTypes/ValidateTausOnRealMuonsData_cff.py"
+        ],
+        "created_at": 1748417874,
+        "number": 48189,
+        "state": "open",
+        "updated_at": 1748417900
     }
 }
