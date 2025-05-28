@@ -2790,13 +2790,15 @@
         "base_branch": "master",
         "changed_files_names": [
             "CondFormats/HGCalObjects/interface/HGCalMappingModuleIndexer.h",
+            "CondFormats/HGCalObjects/interface/HGCalMappingParameterSoA.h",
             "CondFormats/HGCalObjects/src/HGCalMappingModuleIndexer.cc",
-            "Geometry/HGCalMapping/plugins/alpaka/HGCalMappingModuleESProducer.cc"
+            "Geometry/HGCalMapping/plugins/alpaka/HGCalMappingModuleESProducer.cc",
+            "RecoLocalCalo/HGCalRecAlgos/src/HGCalESProducerTools.cc"
         ],
         "created_at": 1747986656,
         "number": 48155,
         "state": "open",
-        "updated_at": 1748191233
+        "updated_at": 1748441508
     },
     "48162": {
         "base_branch": "master",
