@@ -2614,22 +2614,6 @@
         "state": "open",
         "updated_at": 1747947445
     },
-    "48089": {
-        "base_branch": "CMSSW_15_0_X",
-        "changed_files_names": [
-            "DQM/HLTEvF/plugins/ScoutingCollectionMonitor.cc",
-            "HLTriggerOffline/Scouting/plugins/ScoutingCollectionMonitor.cc",
-            "DQM/HLTEvF/python/ScoutingCollectionMonitor_cfi.py",
-            "DQM/Integration/python/clients/ngt_dqm_sourceclient-live_cfg.py",
-            "DQM/Integration/test/BuildFile.xml",
-            "DQMOffline/HLTScouting/python/HLTScoutingDqmOffline_cff.py",
-            "HLTriggerOffline/Scouting/python/ScoutingCollectionMonitor_cfi.py"
-        ],
-        "created_at": 1747311172,
-        "number": 48089,
-        "state": "open",
-        "updated_at": 1748000225
-    },
     "48091": {
         "base_branch": "master",
         "changed_files_names": [
