@@ -2762,12 +2762,14 @@
             "HLTrigger/Timer/interface/ProcessCallGraph.h",
             "HLTrigger/Timer/plugins/FastTimerService.cc",
             "HLTrigger/Timer/plugins/FastTimerService.h",
-            "HLTrigger/Timer/src/ProcessCallGraph.cc"
+            "HLTrigger/Timer/src/ProcessCallGraph.cc",
+            "HLTrigger/Timer/test/BuildFile.xml",
+            "HLTrigger/Timer/test/testFastTimerService_cfg.py"
         ],
         "created_at": 1748614236,
         "number": 48218,
         "state": "open",
-        "updated_at": 1748873738
+        "updated_at": 1748890699
     },
     "48219": {
         "base_branch": "master",
