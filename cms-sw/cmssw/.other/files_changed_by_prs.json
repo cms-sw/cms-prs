@@ -2543,9 +2543,6 @@
         "base_branch": "master",
         "changed_files_names": [
             "CondFormats/HGCalObjects/interface/HGCalCalibParamSoA.h",
-            "CondFormats/HGCalObjects/interface/HGCalMappingModuleIndexer.h",
-            "CondFormats/HGCalObjects/src/HGCalMappingModuleIndexer.cc",
-            "Geometry/HGCalMapping/plugins/alpaka/HGCalMappingModuleESProducer.cc",
             "Geometry/HGCalMapping/test/testMappingModuleIndexer_cfg.py",
             "RecoLocalCalo/HGCalRecAlgos/interface/HGCalESProducerTools.h",
             "RecoLocalCalo/HGCalRecAlgos/plugins/alpaka/HGCalRecHitCalibrationAlgorithms.dev.cc",
@@ -2557,7 +2554,7 @@
         "created_at": 1748359430,
         "number": 48187,
         "state": "open",
-        "updated_at": 1748957461
+        "updated_at": 1748957883
     },
     "48189": {
         "base_branch": "CMSSW_15_0_X",
