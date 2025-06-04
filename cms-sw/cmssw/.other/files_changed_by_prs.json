@@ -2743,5 +2743,31 @@
         "number": 48247,
         "state": "open",
         "updated_at": 1749046071
+    },
+    "48248": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/ParticleFlowReco/interface/PFClusterSoA.h",
+            "RecoParticleFlow/PFClusterProducer/interface/PFMultiDepthClusteringEdgeVarsSoA.h",
+            "RecoParticleFlow/PFClusterProducer/interface/PFMultiDepthClusteringVarsSoA.h",
+            "RecoParticleFlow/PFClusterProducer/interface/alpaka/PFMultiDepthClusterWarpIntrinsics.h",
+            "RecoParticleFlow/PFClusterProducer/interface/alpaka/PFMultiDepthClusteringEdgeVarsDeviceCollection.h",
+            "RecoParticleFlow/PFClusterProducer/interface/alpaka/PFMultiDepthClusteringVarsDeviceCollection.h",
+            "RecoParticleFlow/PFClusterProducer/interface/alpaka/PFMultiDepthClusteringVarsHostCollection.h",
+            "RecoParticleFlow/PFClusterProducer/interface/alpaka/PFMultiDepthClusterizerHelper.h",
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusterECLCC.h",
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusterProducer_Alpaka.cc",
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusteringVarsDeviceCollection.h",
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusterizer_Alpaka.dev.cc",
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusterizer_Alpaka.h",
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthConstructLinks.h",
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthECLCCEpilogue.h",
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthECLCCPrologue.h",
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthShowerShape.h"
+        ],
+        "created_at": 1749047202,
+        "number": 48248,
+        "state": "open",
+        "updated_at": 1749047230
     }
 }
