@@ -761,35 +761,6 @@
         "state": "open",
         "updated_at": 1721283739
     },
-    "45441": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "PhysicsTools/PyTorch/BuildFile.xml",
-            "PhysicsTools/PyTorch/interface/config.h",
-            "PhysicsTools/PyTorch/test/BuildFile.xml",
-            "PhysicsTools/PyTorch/test/alpaka/testTorchMTMS-localNN.cc",
-            "PhysicsTools/PyTorch/test/alpaka/testTorchMTMS.cc",
-            "PhysicsTools/PyTorch/test/create_dnn_largeinput.py",
-            "PhysicsTools/PyTorch/test/create_dnn_sum.py",
-            "PhysicsTools/PyTorch/test/create_simple_dnn.py",
-            "PhysicsTools/PyTorch/test/simple_dnn_largeinput.pt",
-            "PhysicsTools/PyTorch/test/testBase.h",
-            "PhysicsTools/PyTorch/test/testBaseCUDA.h",
-            "PhysicsTools/PyTorch/test/testRunner.cc",
-            "PhysicsTools/PyTorch/test/testTorchFromBuffer.cu",
-            "PhysicsTools/PyTorch/test/testTorchFromBufferModelEval.cu",
-            "PhysicsTools/PyTorch/test/testTorchFromBufferModelEvalMTMS.cu",
-            "PhysicsTools/PyTorch/test/testTorchFromBufferPinnedMemory.cu",
-            "PhysicsTools/PyTorch/test/testTorchSimpleDnn.cc",
-            "PhysicsTools/PyTorch/test/testTorchSimpleDnnCUDA.cc",
-            "PhysicsTools/PythonAnalysis/test/BuildFile.xml",
-            "PhysicsTools/PythonAnalysis/test/test_torch.py"
-        ],
-        "created_at": 1720796883,
-        "number": 45441,
-        "state": "open",
-        "updated_at": 1745997840
-    },
     "45612": {
         "base_branch": "master",
         "changed_files_names": [
