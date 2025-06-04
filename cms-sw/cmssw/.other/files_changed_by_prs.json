@@ -2913,5 +2913,39 @@
         "number": 48237,
         "state": "open",
         "updated_at": 1748977308
+    },
+    "48238": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/Geometry/README.md",
+            "Configuration/Geometry/python/GeometryDD4hepExtendedRun4D122Reco_cff.py",
+            "Configuration/Geometry/python/GeometryDD4hepExtendedRun4D122_cff.py",
+            "Configuration/Geometry/python/GeometryDD4hepExtendedRun4D123Reco_cff.py",
+            "Configuration/Geometry/python/GeometryDD4hepExtendedRun4D123_cff.py",
+            "Configuration/Geometry/python/GeometryExtendedRun4D122Reco_cff.py",
+            "Configuration/Geometry/python/GeometryExtendedRun4D122_cff.py",
+            "Configuration/Geometry/python/GeometryExtendedRun4D123Reco_cff.py",
+            "Configuration/Geometry/python/GeometryExtendedRun4D123_cff.py",
+            "Configuration/Geometry/python/dictRun4Geometry.py",
+            "Configuration/PyReleaseValidation/python/relval_Run4.py",
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "Configuration/StandardSequences/python/GeometryConf.py",
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometryRun4D103.xml",
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometryRun4D109.xml",
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometryRun4D122.xml",
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometryRun4D123.xml",
+            "Geometry/CMSCommonData/python/cmsExtendedGeometryRun4D103XML_cfi.py",
+            "Geometry/CMSCommonData/python/cmsExtendedGeometryRun4D109XML_cfi.py",
+            "Geometry/CMSCommonData/python/cmsExtendedGeometryRun4D122XML_cfi.py",
+            "Geometry/CMSCommonData/python/cmsExtendedGeometryRun4D123XML_cfi.py",
+            "Geometry/HGCalCommonData/data/hgcal/v19ng/hgcal.xml",
+            "Geometry/HGCalCommonData/data/hgcalwafer/v19ng/hgcalwafer.xml",
+            "Geometry/HGCalCommonData/python/testHGCalV19nXML_cfi.py",
+            "Geometry/HGCalCommonData/python/testHGCalV19ngXML_cfi.py"
+        ],
+        "created_at": 1748993752,
+        "number": 48238,
+        "state": "open",
+        "updated_at": 1748993774
     }
 }
