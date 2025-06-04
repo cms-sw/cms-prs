@@ -2105,6 +2105,7 @@
             "PhysicsTools/PyTorch/plugins/alpaka/CombinatoricsProducer.cc",
             "PhysicsTools/PyTorch/plugins/alpaka/DataProducer.cc",
             "PhysicsTools/PyTorch/plugins/alpaka/JitClassificationProducer.cc",
+            "PhysicsTools/PyTorch/plugins/alpaka/JitRegressionProducer.cc",
             "PhysicsTools/PyTorch/plugins/alpaka/Kernels.dev.cc",
             "PhysicsTools/PyTorch/plugins/alpaka/Kernels.h",
             "PhysicsTools/PyTorch/python/aot_inductor_export.py",
@@ -2145,7 +2146,7 @@
         "created_at": 1745997609,
         "number": 47984,
         "state": "open",
-        "updated_at": 1746638263
+        "updated_at": 1749031133
     },
     "48002": {
         "base_branch": "master",
