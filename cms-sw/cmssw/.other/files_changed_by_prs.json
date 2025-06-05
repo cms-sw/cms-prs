@@ -2054,8 +2054,8 @@
             "PhysicsTools/PyTorch/interface/Model.h",
             "PhysicsTools/PyTorch/interface/Nvtx.h",
             "PhysicsTools/PyTorch/interface/SoAMetadata.h",
-            "PhysicsTools/PyTorch/models/aot_regression_model_cpu_el9_amd64_gcc12.pt2",
-            "PhysicsTools/PyTorch/models/aot_regression_model_cuda_el9_amd64_gcc12.pt2",
+            "PhysicsTools/PyTorch/models/aot_regression_model_cpu_el8_amd64_gcc12.pt2",
+            "PhysicsTools/PyTorch/models/aot_regression_model_cuda_el8_amd64_gcc12.pt2",
             "PhysicsTools/PyTorch/models/jit_classification_model.pt",
             "PhysicsTools/PyTorch/models/jit_multi_branch_model.pt",
             "PhysicsTools/PyTorch/models/jit_regression_model.pt",
@@ -2089,7 +2089,8 @@
             "PhysicsTools/PyTorch/test/create_simple_dnn.py",
             "PhysicsTools/PyTorch/test/testBase.h",
             "PhysicsTools/PyTorch/test/testBaseCUDA.h",
-            "PhysicsTools/PyTorch/test/testModel.cc",
+            "PhysicsTools/PyTorch/test/testModelCpu.cc",
+            "PhysicsTools/PyTorch/test/testModelCuda.cc",
             "PhysicsTools/PyTorch/test/testPipeline.py",
             "PhysicsTools/PyTorch/test/testPipeline.sh",
             "PhysicsTools/PyTorch/test/testPipelineStandalone.sh",
@@ -2105,7 +2106,7 @@
         "created_at": 1745997609,
         "number": 47984,
         "state": "open",
-        "updated_at": 1749031807
+        "updated_at": 1749123745
     },
     "48002": {
         "base_branch": "master",
