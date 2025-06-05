@@ -1700,8 +1700,8 @@
     "47629": {
         "base_branch": "master",
         "changed_files_names": [
-            ".gitignore",
             "DataFormats/Common/src/classes_def.xml",
+            "DataFormats/SiStripCluster/interface/SiStripCluster.h",
             "DataFormats/SiStripClusterSoA/BuildFile.xml",
             "DataFormats/SiStripClusterSoA/README.md",
             "DataFormats/SiStripClusterSoA/interface/SiStripClustersHost.h",
@@ -1719,6 +1719,17 @@
             "DataFormats/SiStripClusterSoA/test/alpaka/TestSiStripClustersDevice.cc",
             "DataFormats/SiStripClusterSoA/test/alpaka/TestSiStripClustersDevice.dev.cc",
             "DataFormats/SiStripClusterSoA/test/alpaka/TestSiStripClustersDevice.h",
+            "DataFormats/SiStripDigiSoA/BuildFile.xml",
+            "DataFormats/SiStripDigiSoA/interface/SiStripDigiHost.h",
+            "DataFormats/SiStripDigiSoA/interface/SiStripDigiSoA.h",
+            "DataFormats/SiStripDigiSoA/interface/alpaka/SiStripDigiDevice.h",
+            "DataFormats/SiStripDigiSoA/src/alpaka/classes_cuda.h",
+            "DataFormats/SiStripDigiSoA/src/alpaka/classes_cuda_def.xml",
+            "DataFormats/SiStripDigiSoA/src/alpaka/classes_rocm.h",
+            "DataFormats/SiStripDigiSoA/src/alpaka/classes_rocm_def.xml",
+            "DataFormats/SiStripDigiSoA/src/classes.cc",
+            "DataFormats/SiStripDigiSoA/src/classes.h",
+            "DataFormats/SiStripDigiSoA/src/classes_def.xml",
             "RecoLocalTracker/SiStripClusterizer/BuildFile.xml",
             "RecoLocalTracker/SiStripClusterizer/interface/SiStripClusterizerConditionsHost.h",
             "RecoLocalTracker/SiStripClusterizer/interface/SiStripClusterizerConditionsRecord.h",
@@ -1730,6 +1741,9 @@
             "RecoLocalTracker/SiStripClusterizer/plugins/BuildFile.xml",
             "RecoLocalTracker/SiStripClusterizer/plugins/SiStripClustersToLegacy.cc",
             "RecoLocalTracker/SiStripClusterizer/plugins/alpaka/SiStripClusterizerConditionsESProducerAlpaka.cc",
+            "RecoLocalTracker/SiStripClusterizer/plugins/alpaka/SiStripClustersToLegacy2.cc",
+            "RecoLocalTracker/SiStripClusterizer/plugins/alpaka/SiStripClustersToLegacyAlgo.dev.cc",
+            "RecoLocalTracker/SiStripClusterizer/plugins/alpaka/SiStripClustersToLegacyAlgo.h",
             "RecoLocalTracker/SiStripClusterizer/plugins/alpaka/SiStripRawToCluster.cc",
             "RecoLocalTracker/SiStripClusterizer/plugins/alpaka/SiStripRawToClusterAlgo.dev.cc",
             "RecoLocalTracker/SiStripClusterizer/plugins/alpaka/SiStripRawToClusterAlgo.h",
@@ -1752,7 +1766,7 @@
         "created_at": 1742404155,
         "number": 47629,
         "state": "open",
-        "updated_at": 1744954493
+        "updated_at": 1749111512
     },
     "47708": {
         "base_branch": "master",
