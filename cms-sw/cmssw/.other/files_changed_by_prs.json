@@ -2689,31 +2689,6 @@
         "state": "open",
         "updated_at": 1749136492
     },
-    "48249": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "RecoTracker/LSTCore/interface/Common.h",
-            "RecoTracker/LSTCore/interface/PixelSegmentsSoA.h",
-            "RecoTracker/LSTCore/interface/QuintupletsSoA.h",
-            "RecoTracker/LSTCore/interface/TripletsSoA.h",
-            "RecoTracker/LSTCore/interface/alpaka/Common.h",
-            "RecoTracker/LSTCore/src/alpaka/Kernels.h",
-            "RecoTracker/LSTCore/src/alpaka/NeuralNetwork.h",
-            "RecoTracker/LSTCore/src/alpaka/Quintuplet.h",
-            "RecoTracker/LSTCore/src/alpaka/Segment.h",
-            "RecoTracker/LSTCore/src/alpaka/T5EmbedNetworkWeights.h",
-            "RecoTracker/LSTCore/src/alpaka/TrackCandidate.h",
-            "RecoTracker/LSTCore/src/alpaka/Triplet.h",
-            "RecoTracker/LSTCore/src/alpaka/pLSEmbedNetworkWeights.h",
-            "RecoTracker/LSTCore/standalone/analysis/DNN/embed_train.ipynb",
-            "RecoTracker/LSTCore/standalone/code/core/write_lst_ntuple.cc",
-            "RecoTracker/LSTCore/standalone/code/core/write_lst_ntuple.h"
-        ],
-        "created_at": 1749054376,
-        "number": 48249,
-        "state": "open",
-        "updated_at": 1749054398
-    },
     "48250": {
         "base_branch": "master",
         "changed_files_names": [
