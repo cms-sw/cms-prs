@@ -2645,6 +2645,7 @@
             "RecoParticleFlow/PFClusterProducer/interface/alpaka/PFMultiDepthClusterizerHelper.h",
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusterECLCC.h",
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusterProducer_Alpaka.cc",
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusterSoAProducer.cc",
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusterWarpIntrinsics.h",
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusteringVarsDeviceCollection.h",
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusterizerHelper.h",
@@ -2658,7 +2659,7 @@
         "created_at": 1749047202,
         "number": 48248,
         "state": "open",
-        "updated_at": 1749144227
+        "updated_at": 1749145912
     },
     "48250": {
         "base_branch": "master",
