@@ -2752,5 +2752,24 @@
         "number": 48264,
         "state": "open",
         "updated_at": 1749214166
+    },
+    "48266": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondFormats/PPSObjects/interface/CTPPSPixelIndices.h",
+            "DataFormats/CTPPSReco/interface/CTPPSPixelRecHit.h",
+            "DataFormats/Common/interface/DetSetVector.h",
+            "RecoPPS/Local/interface/CTPPSPixelClusterProducer.h",
+            "RecoPPS/Local/interface/CTPPSPixelRecHitProducer.h",
+            "RecoPPS/Local/interface/RPixClusterToHit.h",
+            "RecoPPS/Local/plugins/CTPPSPixelClusterProducer.cc",
+            "RecoPPS/Local/plugins/CTPPSPixelRecHitProducer.cc",
+            "RecoPPS/Local/src/RPixClusterToHit.cc",
+            "RecoPPS/Local/src/RPixDetClusterizer.cc"
+        ],
+        "created_at": 1749220811,
+        "number": 48266,
+        "state": "open",
+        "updated_at": 1749220891
     }
 }
