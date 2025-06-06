@@ -2054,12 +2054,15 @@
             "PhysicsTools/PyTorch/interface/Model.h",
             "PhysicsTools/PyTorch/interface/Nvtx.h",
             "PhysicsTools/PyTorch/interface/SoAMetadata.h",
+            "PhysicsTools/PyTorch/models/aot_classification_model_cpu_el8_amd64_gcc12.pt2",
+            "PhysicsTools/PyTorch/models/aot_classification_model_cuda_el8_amd64_gcc12.pt2",
             "PhysicsTools/PyTorch/models/aot_regression_model_cpu_el8_amd64_gcc12.pt2",
             "PhysicsTools/PyTorch/models/aot_regression_model_cuda_el8_amd64_gcc12.pt2",
             "PhysicsTools/PyTorch/models/jit_classification_model.pt",
             "PhysicsTools/PyTorch/models/jit_multi_branch_model.pt",
             "PhysicsTools/PyTorch/models/jit_regression_model.pt",
             "PhysicsTools/PyTorch/plugins/BuildFile.xml",
+            "PhysicsTools/PyTorch/plugins/alpaka/AotClassificationProducer.cc",
             "PhysicsTools/PyTorch/plugins/alpaka/AotRegressionProducer.cc",
             "PhysicsTools/PyTorch/plugins/alpaka/CombinatoricsProducer.cc",
             "PhysicsTools/PyTorch/plugins/alpaka/DataProducer.cc",
@@ -2070,6 +2073,7 @@
             "PhysicsTools/PyTorch/python/aot_inductor_export.py",
             "PhysicsTools/PyTorch/python/modules.py",
             "PhysicsTools/PyTorch/python/options.py",
+            "PhysicsTools/PyTorch/scripts/aot.sh",
             "PhysicsTools/PyTorch/scripts/compile.sh",
             "PhysicsTools/PyTorch/scripts/compile_cuda.sh",
             "PhysicsTools/PyTorch/scripts/link.sh",
@@ -2106,7 +2110,7 @@
         "created_at": 1745997609,
         "number": 47984,
         "state": "open",
-        "updated_at": 1749123745
+        "updated_at": 1749206948
     },
     "48002": {
         "base_branch": "master",
