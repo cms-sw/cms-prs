@@ -2817,5 +2817,23 @@
         "number": 48275,
         "state": "open",
         "updated_at": 1749475999
+    },
+    "48276": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Alignment/OfflineValidation/plugins/ShortenedTrackValidation.cc",
+            "Alignment/OfflineValidation/test/BuildFile.xml",
+            "Alignment/OfflineValidation/test/testShortenedTrackValidation_cfg.py",
+            "Alignment/OfflineValidation/test/test_all_Phase2_cfg.py",
+            "Alignment/OfflineValidation/test/test_all_cfg.py",
+            "Alignment/OfflineValidation/test/testingScripts/testPVValidation.sh",
+            "Alignment/OfflineValidation/test/testingScripts/test_unitPVValidation.sh",
+            "Alignment/OfflineValidation/test/testingScripts/test_unitShortTrackValidation.sh",
+            "DQM/TrackingMonitorSource/plugins/ShortenedTrackResolution.cc"
+        ],
+        "created_at": 1749479899,
+        "number": 48276,
+        "state": "open",
+        "updated_at": 1749479927
     }
 }
