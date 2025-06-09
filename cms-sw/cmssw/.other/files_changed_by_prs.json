@@ -2528,8 +2528,6 @@
             "Configuration/Geometry/python/GeometryExtendedRun4D123Reco_cff.py",
             "Configuration/Geometry/python/GeometryExtendedRun4D123_cff.py",
             "Configuration/Geometry/python/dictRun4Geometry.py",
-            "Configuration/PyReleaseValidation/python/relval_Run4.py",
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
             "Configuration/StandardSequences/python/GeometryConf.py",
             "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometryRun4D103.xml",
             "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometryRun4D109.xml",
@@ -2547,7 +2545,7 @@
         "created_at": 1748993752,
         "number": 48238,
         "state": "open",
-        "updated_at": 1749029882
+        "updated_at": 1749463347
     },
     "48245": {
         "base_branch": "master",
