@@ -2837,5 +2837,36 @@
         "number": 48286,
         "state": "open",
         "updated_at": 1749562697
+    },
+    "48287": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/ForwardDetId/interface/HGCalTriggerDetId.h",
+            "DataFormats/ForwardDetId/interface/HGCalTriggerModuleDetId.h",
+            "HLTrigger/Configuration/python/HLT_75e33/psets/HGCAL_chargeCollectionEfficiencies_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/psets/HGCAL_noise_fC_cfi.py",
+            "L1Trigger/L1THGCal/interface/HGCalCoarseTriggerCellMapping.h",
+            "L1Trigger/L1THGCal/interface/HGCalTriggerTools.h",
+            "L1Trigger/L1THGCal/interface/concentrator/HGCalConcentratorCoarsenerImpl.h",
+            "L1Trigger/L1THGCal/interface/concentrator/HGCalConcentratorProcessorSelection.h",
+            "L1Trigger/L1THGCal/interface/concentrator/HGCalConcentratorSuperTriggerCellImpl.h",
+            "L1Trigger/L1THGCal/plugins/concentrator/HGCalConcentratorProcessorSelection.cc",
+            "L1Trigger/L1THGCal/plugins/veryfrontend/HGCalVFEProcessorSums.cc",
+            "L1Trigger/L1THGCal/python/l1tHGCalConcentratorProducer_cfi.py",
+            "L1Trigger/L1THGCal/python/l1tHGCalVFEProducer_cfi.py",
+            "L1Trigger/L1THGCal/src/HGCalTriggerTools.cc",
+            "L1Trigger/L1THGCal/src/concentrator/HGCalConcentratorCoarsenerImpl.cc",
+            "L1Trigger/L1THGCal/src/concentrator/HGCalConcentratorSuperTriggerCellImpl.cc",
+            "L1Trigger/L1THGCal/src/veryfrontend/HGCalVFESummationImpl.cc",
+            "RecoLocalCalo/HGCalRecAlgos/src/RecHitTools.cc",
+            "RecoLocalCalo/HGCalRecProducers/python/HGCalUncalibRecHit_cfi.py",
+            "SimCalorimetry/HGCalSimProducers/interface/HGCDigitizerBase.h",
+            "SimCalorimetry/HGCalSimProducers/plugins/HGCDigitizerBase.cc",
+            "SimCalorimetry/HGCalSimProducers/python/hgcalDigitizer_cfi.py"
+        ],
+        "created_at": 1749564583,
+        "number": 48287,
+        "state": "open",
+        "updated_at": 1749564630
     }
 }
