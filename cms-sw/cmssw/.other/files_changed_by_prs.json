@@ -2896,5 +2896,23 @@
         "number": 48299,
         "state": "open",
         "updated_at": 1749669315
+    },
+    "48300": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/MTDCommonData/python/defaultMTDConditionsEra_cff.py",
+            "Geometry/MTDCommonData/test/testMTDinDD4hep.py",
+            "Geometry/MTDCommonData/test/testMTDinDDD.py",
+            "Geometry/MTDGeometryBuilder/test/mtd_cfg.py",
+            "Geometry/MTDNumberingBuilder/test/dd4hep_mtd_cfg.py",
+            "Geometry/MTDNumberingBuilder/test/mtd_cfg.py",
+            "RecoMTD/DetLayers/test/mtd_cfg.py",
+            "SimG4CMS/Forward/test/python/runMTDSens_DD4hep_cfg.py",
+            "SimG4CMS/Forward/test/python/runMTDSens_cfg.py"
+        ],
+        "created_at": 1749670678,
+        "number": 48300,
+        "state": "open",
+        "updated_at": 1749670699
     }
 }
