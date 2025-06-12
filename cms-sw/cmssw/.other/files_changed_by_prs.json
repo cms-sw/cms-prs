@@ -5772,5 +5772,17 @@
         "number": 48304,
         "state": "open",
         "updated_at": 1749731507
+    },
+    "48305": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "DQM/GEM/interface/GEMDAQStatusSource.h",
+            "DQM/GEM/plugins/GEMDAQStatusSource.cc",
+            "DQM/GEM/plugins/GEMDQMHarvester.cc"
+        ],
+        "created_at": 1749739543,
+        "number": 48305,
+        "state": "open",
+        "updated_at": 1749739567
     }
 }
