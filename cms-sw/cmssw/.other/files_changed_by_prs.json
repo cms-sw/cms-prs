@@ -2901,6 +2901,10 @@
     "48300": {
         "base_branch": "master",
         "changed_files_names": [
+            "Geometry/MTDCommonData/python/GeometryDD4hepExtendedRun4MTDDefaultReco_cff.py",
+            "Geometry/MTDCommonData/python/GeometryDD4hepExtendedRun4MTDDefault_cff.py",
+            "Geometry/MTDCommonData/python/GeometryExtendedRun4MTDDefaultReco_cff.py",
+            "Geometry/MTDCommonData/python/GeometryExtendedRun4MTDDefault_cff.py",
             "Geometry/MTDCommonData/python/defaultMTDConditionsEra_cff.py",
             "Geometry/MTDCommonData/test/testMTDinDD4hep.py",
             "Geometry/MTDCommonData/test/testMTDinDDD.py",
@@ -2914,7 +2918,7 @@
         "created_at": 1749670678,
         "number": 48300,
         "state": "open",
-        "updated_at": 1749670699
+        "updated_at": 1749696956
     },
     "48301": {
         "base_branch": "master",
