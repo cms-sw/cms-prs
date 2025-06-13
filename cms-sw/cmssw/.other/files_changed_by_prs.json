@@ -2804,12 +2804,13 @@
             "SimCalorimetry/HGCalSimProducers/plugins/HGCDigitizer.cc",
             "SimCalorimetry/HGCalSimProducers/plugins/HGCDigitizerBase.cc",
             "SimCalorimetry/HGCalSimProducers/python/hgcROCParameters_cfi.py",
-            "SimCalorimetry/HGCalSimProducers/python/hgcalDigitizer_cfi.py"
+            "SimCalorimetry/HGCalSimProducers/python/hgcalDigitizer_cfi.py",
+            "SimCalorimetry/HGCalSimProducers/src/HGCFEElectronics.cc"
         ],
         "created_at": 1749723738,
         "number": 48303,
         "state": "open",
-        "updated_at": 1749752137
+        "updated_at": 1749795312
     },
     "48304": {
         "base_branch": "master",
