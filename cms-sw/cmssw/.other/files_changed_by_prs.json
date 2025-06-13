@@ -2111,11 +2111,6 @@
             "L1Trigger/L1CaloTrigger/plugins/L1NNCaloTauEmulator.cc",
             "L1Trigger/L1CaloTrigger/plugins/L1NNCaloTauProducer.cc",
             "L1Trigger/L1CaloTrigger/plugins/Phase2L1TCaloBarrelToCorrelator.cc",
-            "L1Trigger/Phase2L1ParticleFlow/data/egamma/compositeID_EB_v0.json",
-            "L1Trigger/Phase2L1ParticleFlow/data/egamma/compositeID_EB_v1.json",
-            "L1Trigger/Phase2L1ParticleFlow/data/egamma/compositeID_EE_v0.json",
-            "L1Trigger/Phase2L1ParticleFlow/data/egamma/compositeID_EE_v1.json",
-            "L1Trigger/Phase2L1ParticleFlow/data/multiclassID/multiclass_EE.json",
             "L1Trigger/Phase2L1ParticleFlow/interface/HGC3DClusterEgID.h",
             "L1Trigger/Phase2L1ParticleFlow/interface/L1TCorrelatorLayer1PatternFileWriter.h",
             "L1Trigger/Phase2L1ParticleFlow/interface/ParametricResolution.h",
@@ -2159,7 +2154,7 @@
         "created_at": 1746194720,
         "number": 48002,
         "state": "open",
-        "updated_at": 1749735179
+        "updated_at": 1749809332
     },
     "48008": {
         "base_branch": "CMSSW_15_0_X",
