@@ -2899,5 +2899,19 @@
         "number": 48306,
         "state": "open",
         "updated_at": 1749754786
+    },
+    "48308": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "L1Trigger/Phase2L1ParticleFlow/interface/jetmet/L1PFJUMPEmulator.h",
+            "L1Trigger/Phase2L1ParticleFlow/interface/jetmet/L1PFMetEmulator.h",
+            "L1Trigger/Phase2L1ParticleFlow/plugins/L1JUMPProducer.cc",
+            "L1Trigger/Phase2L1ParticleFlow/plugins/L1MetPfProducer.cc",
+            "L1Trigger/Phase2L1ParticleFlow/python/l1tJUMPProducer_cfi.py"
+        ],
+        "created_at": 1749789217,
+        "number": 48308,
+        "state": "open",
+        "updated_at": 1749789239
     }
 }
