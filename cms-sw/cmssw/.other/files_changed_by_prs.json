@@ -3882,5 +3882,17 @@
         "number": 48324,
         "state": "open",
         "updated_at": 1749897374
+    },
+    "48325": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/Geometry/python/dictRun4Geometry.py",
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometryRun4D122.xml",
+            "Geometry/CMSCommonData/python/cmsExtendedGeometryRun4D122XML_cfi.py"
+        ],
+        "created_at": 1749899538,
+        "number": 48325,
+        "state": "open",
+        "updated_at": 1749899561
     }
 }
