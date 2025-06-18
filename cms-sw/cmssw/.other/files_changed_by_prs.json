@@ -3691,5 +3691,27 @@
         "number": 48355,
         "state": "open",
         "updated_at": 1750227869
+    },
+    "48356": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondFormats/SiPixelTransient/interface/SiPixelTemplate.h",
+            "CondFormats/SiPixelTransient/src/SiPixelTemplate.cc",
+            "Configuration/ProcessModifiers/python/siPixelGoodEdgeAlgo_cff.py",
+            "Configuration/PyReleaseValidation/README.md",
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEClusterRepair.h",
+            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPETemplateReco.h",
+            "RecoLocalTracker/SiPixelRecHits/interface/SiPixelTemplateReco.h",
+            "RecoLocalTracker/SiPixelRecHits/python/PixelCPEClusterRepair_cfi.py",
+            "RecoLocalTracker/SiPixelRecHits/python/PixelCPETemplateReco_cfi.py",
+            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEClusterRepair.cc",
+            "RecoLocalTracker/SiPixelRecHits/src/PixelCPETemplateReco.cc",
+            "RecoLocalTracker/SiPixelRecHits/src/SiPixelTemplateReco.cc"
+        ],
+        "created_at": 1750229998,
+        "number": 48356,
+        "state": "open",
+        "updated_at": 1750230026
     }
 }
