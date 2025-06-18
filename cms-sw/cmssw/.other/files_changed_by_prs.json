@@ -3732,5 +3732,32 @@
         "number": 48357,
         "state": "open",
         "updated_at": 1750234315
+    },
+    "48358": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Framework/interface/GlobalSchedule.h",
+            "FWCore/Framework/interface/ModuleRegistry.h",
+            "FWCore/Framework/interface/Schedule.h",
+            "FWCore/Framework/interface/StreamSchedule.h",
+            "FWCore/Framework/interface/WorkerManager.h",
+            "FWCore/Framework/interface/WorkerRegistry.h",
+            "FWCore/Framework/interface/maker/ModuleHolder.h",
+            "FWCore/Framework/interface/maker/Worker.h",
+            "FWCore/Framework/interface/maker/WorkerT.h",
+            "FWCore/Framework/src/GlobalSchedule.cc",
+            "FWCore/Framework/src/ModuleHolderT.cc",
+            "FWCore/Framework/src/ModuleRegistry.cc",
+            "FWCore/Framework/src/Schedule.cc",
+            "FWCore/Framework/src/StreamSchedule.cc",
+            "FWCore/Framework/src/Worker.cc",
+            "FWCore/Framework/src/WorkerManager.cc",
+            "FWCore/Framework/src/WorkerRegistry.cc",
+            "FWCore/Framework/src/WorkerT.cc"
+        ],
+        "created_at": 1750244197,
+        "number": 48358,
+        "state": "open",
+        "updated_at": 1750244225
     }
 }
