@@ -3693,12 +3693,14 @@
             "FWCore/Framework/src/Worker.cc",
             "FWCore/Framework/src/WorkerManager.cc",
             "FWCore/Framework/src/WorkerRegistry.cc",
-            "FWCore/Framework/src/WorkerT.cc"
+            "FWCore/Framework/src/WorkerT.cc",
+            "Mixing/Base/src/SecondaryEventProvider.cc",
+            "Mixing/Base/src/SecondaryEventProvider.h"
         ],
         "created_at": 1750244197,
         "number": 48358,
         "state": "open",
-        "updated_at": 1750258041
+        "updated_at": 1750274429
     },
     "48359": {
         "base_branch": "master",
