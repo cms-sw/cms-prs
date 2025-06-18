@@ -3680,5 +3680,16 @@
         "number": 48354,
         "state": "open",
         "updated_at": 1750227799
+    },
+    "48355": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "DQM/EcalMonitorTasks/python/TrigPrimTask_cfi.py",
+            "DQM/EcalMonitorTasks/src/TrigPrimTask.cc"
+        ],
+        "created_at": 1750227843,
+        "number": 48355,
+        "state": "open",
+        "updated_at": 1750227869
     }
 }
