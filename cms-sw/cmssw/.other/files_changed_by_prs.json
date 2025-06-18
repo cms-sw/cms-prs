@@ -3746,6 +3746,7 @@
             "FWCore/Framework/interface/maker/Worker.h",
             "FWCore/Framework/interface/maker/WorkerT.h",
             "FWCore/Framework/src/GlobalSchedule.cc",
+            "FWCore/Framework/src/ModuleHolder.cc",
             "FWCore/Framework/src/ModuleHolderT.cc",
             "FWCore/Framework/src/ModuleRegistry.cc",
             "FWCore/Framework/src/Schedule.cc",
@@ -3758,7 +3759,7 @@
         "created_at": 1750244197,
         "number": 48358,
         "state": "open",
-        "updated_at": 1750244225
+        "updated_at": 1750258041
     },
     "48359": {
         "base_branch": "master",
