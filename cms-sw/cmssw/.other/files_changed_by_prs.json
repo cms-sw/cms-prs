@@ -3707,5 +3707,30 @@
         "number": 48356,
         "state": "open",
         "updated_at": 1750230026
+    },
+    "48357": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "L1Trigger/L1TGlobal/interface/GlobalDefinitions.h",
+            "L1Trigger/L1TGlobal/interface/TOPOCondition.h",
+            "L1Trigger/L1TGlobal/interface/TOPOTemplate.h",
+            "L1Trigger/L1TGlobal/interface/TriggerMenu.h",
+            "L1Trigger/L1TGlobal/plugins/L1TGlobalPrescalesVetosFractESProducer.cc",
+            "L1Trigger/L1TGlobal/plugins/L1TGlobalProducer.cc",
+            "L1Trigger/L1TGlobal/plugins/TriggerMenuParser.cc",
+            "L1Trigger/L1TGlobal/plugins/TriggerMenuParser.h",
+            "L1Trigger/L1TGlobal/src/GlobalBoard.cc",
+            "L1Trigger/L1TGlobal/src/GlobalCondition.cc",
+            "L1Trigger/L1TGlobal/src/GlobalDefinitions.cc",
+            "L1Trigger/L1TGlobal/src/TOPOCondition.cc",
+            "L1Trigger/L1TGlobal/src/TOPOTemplate.cc",
+            "L1Trigger/L1TGlobal/src/TriggerMenu.cc",
+            "L1Trigger/L1TGlobal/src/classes.h",
+            "L1Trigger/L1TGlobal/src/classes_def.xml"
+        ],
+        "created_at": 1750234289,
+        "number": 48357,
+        "state": "open",
+        "updated_at": 1750234315
     }
 }
