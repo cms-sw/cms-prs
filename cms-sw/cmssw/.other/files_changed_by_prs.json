@@ -3806,5 +3806,16 @@
         "number": 48363,
         "state": "open",
         "updated_at": 1750258207
+    },
+    "48364": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "RecoTracker/PixelSeeding/plugins/GPUCACell.h",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CACell.h"
+        ],
+        "created_at": 1750258309,
+        "number": 48364,
+        "state": "open",
+        "updated_at": 1750258329
     }
 }
