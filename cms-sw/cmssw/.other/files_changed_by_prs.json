@@ -3783,5 +3783,18 @@
         "number": 48361,
         "state": "open",
         "updated_at": 1750249204
+    },
+    "48362": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "DQMOffline/Trigger/python/TrackingMonitoring_cff.py",
+            "HLTrigger/Configuration/python/HLTrigger_EventContent_cff.py",
+            "Validation/RecoTrack/python/HLTmultiTrackValidator_cff.py",
+            "Validation/RecoTrack/python/HLTmultiTrackValidator_cfi.py"
+        ],
+        "created_at": 1750249290,
+        "number": 48362,
+        "state": "open",
+        "updated_at": 1750249315
     }
 }
