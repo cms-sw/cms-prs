@@ -2345,30 +2345,6 @@
         "state": "open",
         "updated_at": 1748866993
     },
-    "48246": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "Configuration/EventContent/python/EventContent_cff.py",
-            "Configuration/ProcessModifiers/python/phase2L2AndL3Muons_cff.py",
-            "Configuration/PyReleaseValidation/README.md",
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
-            "DPGAnalysis/MuonTools/python/nano_mu_hlt_cff.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltIter2Phase2L3FromL1TkMuonPixelSeedsFiltered_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltL2MuonSeedsFromL1TkMuon_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2L3FromL1TkMuonPixelTracksTrackingRegions_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2L3MuonFilter_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2L3MuonMerged_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2L3OISeedsFromL2Muons_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTL2MuonsFromL1TkSequence_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTMuonsSequence_cfi.py",
-            "Validation/RecoMuon/python/associators_cff.py",
-            "Validation/RecoMuon/python/muonValidationHLT_cff.py"
-        ],
-        "created_at": 1749045065,
-        "number": 48246,
-        "state": "open",
-        "updated_at": 1749681364
-    },
     "48248": {
         "base_branch": "master",
         "changed_files_names": [
