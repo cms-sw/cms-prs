@@ -2055,39 +2055,6 @@
         "state": "open",
         "updated_at": 1749211471
     },
-    "48008": {
-        "base_branch": "CMSSW_15_0_X",
-        "changed_files_names": [
-            "CondFormats/SiPixelTransient/interface/SiPixelTemplate.h",
-            "CondFormats/SiPixelTransient/interface/SiPixelUtils.h",
-            "CondFormats/SiPixelTransient/src/SiPixelTemplate.cc",
-            "CondFormats/SiPixelTransient/src/SiPixelUtils.cc",
-            "Configuration/ProcessModifiers/python/siPixelGoodEdgeAlgo_cff.py",
-            "Configuration/PyReleaseValidation/README.md",
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
-            "RecoLocalTracker/Configuration/python/customizeHLT.py",
-            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEClusterRepair.h",
-            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEFastParamsHost.h",
-            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEGeneric.h",
-            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPETemplateReco.h",
-            "RecoLocalTracker/SiPixelRecHits/interface/SiPixelTemplateReco.h",
-            "RecoLocalTracker/SiPixelRecHits/interface/pixelCPEforDevice.h",
-            "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelCPEFastParamsESProducerAlpaka.cc",
-            "RecoLocalTracker/SiPixelRecHits/python/PixelCPEClusterRepair_cfi.py",
-            "RecoLocalTracker/SiPixelRecHits/python/PixelCPEESProducers_cff.py",
-            "RecoLocalTracker/SiPixelRecHits/python/PixelCPEGeneric_cfi.py",
-            "RecoLocalTracker/SiPixelRecHits/python/PixelCPETemplateReco_cfi.py",
-            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEClusterRepair.cc",
-            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEFastParamsHost.cc",
-            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEGeneric.cc",
-            "RecoLocalTracker/SiPixelRecHits/src/PixelCPETemplateReco.cc",
-            "RecoLocalTracker/SiPixelRecHits/src/SiPixelTemplateReco.cc"
-        ],
-        "created_at": 1746428772,
-        "number": 48008,
-        "state": "open",
-        "updated_at": 1747889302
-    },
     "48058": {
         "base_branch": "CMSSW_15_0_X",
         "changed_files_names": [
