@@ -1646,12 +1646,12 @@
             "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernelsImpl.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/CAPixelDoublets.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/CAPixelDoubletsAlgos.h",
-            "RecoTracker/PixelSeeding/plugins/alpaka/CASimpleCell.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/CAStructures.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/HelixFit.cc",
             "RecoTracker/PixelSeeding/plugins/alpaka/HelixFit.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/RiemannFit.dev.cc",
             "RecoTracker/PixelSeeding/src/ES_CAGeometry.cc",
+            "RecoTracker/PixelSeeding/test/alpaka/CAsizes_t.cpp",
             "RecoTracker/PixelTrackFitting/plugins/PixelTrackDumpAlpaka.cc",
             "RecoTracker/PixelTrackFitting/plugins/PixelTrackProducerFromSoAAlpaka.cc",
             "RecoTracker/PixelTrackFitting/python/PixelTracks_cff.py",
@@ -1663,7 +1663,7 @@
         "created_at": 1742211150,
         "number": 47611,
         "state": "open",
-        "updated_at": 1749629544
+        "updated_at": 1750415402
     },
     "47627": {
         "base_branch": "master",
