@@ -1763,7 +1763,9 @@
             "Configuration/Generator/python/CloseByPGun_Barrel_Front_cfi.py",
             "Configuration/ProcessModifiers/python/ticl_barrel_cff.py",
             "Configuration/PyReleaseValidation/README.md",
+            "Configuration/PyReleaseValidation/python/relval_Run4.py",
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "Configuration/PyReleaseValidation/scripts/runTheMatrix.py",
             "DataFormats/CaloRecHit/interface/CaloCluster.h",
             "DataFormats/HGCalReco/interface/Common.h",
             "DataFormats/HGCalReco/interface/TICLLayerTile.h",
@@ -1881,7 +1883,7 @@
         "created_at": 1744548059,
         "number": 47859,
         "state": "open",
-        "updated_at": 1750759749
+        "updated_at": 1750779893
     },
     "47870": {
         "base_branch": "master",
