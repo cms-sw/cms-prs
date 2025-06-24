@@ -1893,28 +1893,6 @@
         "state": "open",
         "updated_at": 1744723008
     },
-    "47926": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py",
-            "RecoLocalTracker/SiStripRecHitConverter/interface/SiStripRecHitConverterAlgorithm.h",
-            "RecoLocalTracker/SiStripRecHitConverter/src/SiStripRecHitConverterAlgorithm.cc",
-            "RecoTracker/MkFit/plugins/BuildFile.xml",
-            "RecoTracker/MkFit/plugins/MkFitEventOfHitsProducer.cc",
-            "RecoTracker/MkFit/plugins/MkFitPhase2HitConverter.cc",
-            "RecoTracker/MkFit/plugins/MkFitSiPixelHitConverter.cc",
-            "RecoTracker/MkFit/plugins/MkFitSiStripHitConverter.cc",
-            "RecoTracker/MkFit/plugins/MkFitSiStripHitConverterFromClusters.cc",
-            "RecoTracker/MkFit/plugins/convertHits.h",
-            "RecoTracker/MkFit/python/customizeHLTIter0ToMkFit.py",
-            "RecoTracker/MkFit/python/mkFitSiStripHitConverterFromClusters_cfi.py",
-            "RecoTracker/MkFitCore/interface/HitStructures.h"
-        ],
-        "created_at": 1745325111,
-        "number": 47926,
-        "state": "open",
-        "updated_at": 1745918263
-    },
     "47927": {
         "base_branch": "CMSSW_15_0_X",
         "changed_files_names": [
