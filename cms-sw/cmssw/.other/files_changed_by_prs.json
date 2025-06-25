@@ -2998,5 +2998,39 @@
         "number": 48408,
         "state": "open",
         "updated_at": 1750854952
+    },
+    "48409": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/Common/src/classes_def.xml",
+            "RecoTracker/LST/interface/LSTOutput.h",
+            "RecoTracker/LST/plugins/BuildFile.xml",
+            "RecoTracker/LST/plugins/LSTOutputConverter.cc",
+            "RecoTracker/LST/plugins/alpaka/LSTOutputConverter.cc",
+            "RecoTracker/LST/plugins/alpaka/LSTProducer.cc",
+            "RecoTracker/LSTCore/interface/Common.h",
+            "RecoTracker/LSTCore/interface/LSTInputSoA.h",
+            "RecoTracker/LSTCore/interface/TrackCandidatesHostCollection.h",
+            "RecoTracker/LSTCore/interface/TrackCandidatesSoA.h",
+            "RecoTracker/LSTCore/interface/alpaka/LST.h",
+            "RecoTracker/LSTCore/interface/alpaka/TrackCandidatesDeviceCollection.h",
+            "RecoTracker/LSTCore/src/alpaka/LST.cc",
+            "RecoTracker/LSTCore/src/alpaka/LSTEvent.dev.cc",
+            "RecoTracker/LSTCore/src/alpaka/LSTEvent.h",
+            "RecoTracker/LSTCore/src/alpaka/TrackCandidate.h",
+            "RecoTracker/LSTCore/src/alpaka/classes_cuda.h",
+            "RecoTracker/LSTCore/src/alpaka/classes_cuda_def.xml",
+            "RecoTracker/LSTCore/src/alpaka/classes_rocm.h",
+            "RecoTracker/LSTCore/src/alpaka/classes_rocm_def.xml",
+            "RecoTracker/LSTCore/src/classes.cc",
+            "RecoTracker/LSTCore/src/classes.h",
+            "RecoTracker/LSTCore/src/classes_def.xml",
+            "RecoTracker/LSTCore/standalone/code/core/AccessHelper.cc",
+            "RecoTracker/LSTCore/standalone/code/core/write_lst_ntuple.cc"
+        ],
+        "created_at": 1750857578,
+        "number": 48409,
+        "state": "open",
+        "updated_at": 1750857602
     }
 }
