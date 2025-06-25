@@ -3009,7 +3009,6 @@
             "RecoTracker/LST/plugins/alpaka/LSTOutputConverter.cc",
             "RecoTracker/LST/plugins/alpaka/LSTProducer.cc",
             "RecoTracker/LSTCore/interface/Common.h",
-            "RecoTracker/LSTCore/interface/LSTInputSoA.h",
             "RecoTracker/LSTCore/interface/TrackCandidatesHostCollection.h",
             "RecoTracker/LSTCore/interface/TrackCandidatesSoA.h",
             "RecoTracker/LSTCore/interface/alpaka/LST.h",
@@ -3031,7 +3030,7 @@
         "created_at": 1750857578,
         "number": 48409,
         "state": "open",
-        "updated_at": 1750857602
+        "updated_at": 1750863740
     },
     "48410": {
         "base_branch": "master",
