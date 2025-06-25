@@ -2852,6 +2852,8 @@
     "48397": {
         "base_branch": "CMSSW_15_0_X",
         "changed_files_names": [
+            "Configuration/Applications/python/ConfigBuilder.py",
+            "Configuration/PyReleaseValidation/python/relval_production.py",
             "Configuration/PyReleaseValidation/python/relval_standard.py",
             "Configuration/PyReleaseValidation/python/relval_steps.py",
             "Configuration/Skimming/python/Ion_MuonSkim_cff.py",
@@ -2862,7 +2864,7 @@
         "created_at": 1750785255,
         "number": 48397,
         "state": "open",
-        "updated_at": 1750785285
+        "updated_at": 1750868167
     },
     "48398": {
         "base_branch": "master",
