@@ -3180,5 +3180,35 @@
         "number": 48424,
         "state": "open",
         "updated_at": 1750937004
+    },
+    "48425": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/relval_Run4.py",
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "Configuration/PyReleaseValidation/scripts/runTheMatrix.py",
+            "HLTrigger/NGTScouting/plugins/BuildFile.xml",
+            "HLTrigger/NGTScouting/plugins/HLTElectronTableProducer.cc",
+            "HLTrigger/NGTScouting/plugins/HLTPhotonTableProducer.cc",
+            "HLTrigger/NGTScouting/plugins/HLTTauTableProducer.cc",
+            "HLTrigger/NGTScouting/plugins/HLTVertexTableProducer.cc",
+            "HLTrigger/NGTScouting/python/HLTNanoProducer_cff.py",
+            "HLTrigger/NGTScouting/python/hltElectrons_cfi.py",
+            "HLTrigger/NGTScouting/python/hltJets_cfi.py",
+            "HLTrigger/NGTScouting/python/hltMuons_cfi.py",
+            "HLTrigger/NGTScouting/python/hltPhotons_cfi.py",
+            "HLTrigger/NGTScouting/python/hltSums_cfi.py",
+            "HLTrigger/NGTScouting/python/hltTaus_cfi.py",
+            "HLTrigger/NGTScouting/python/hltTracks_cfi.py",
+            "HLTrigger/NGTScouting/python/hltTracksters_cfi.py",
+            "HLTrigger/NGTScouting/python/hltVertices_cfi.py",
+            "PhysicsTools/NanoAOD/interface/SimpleFlatTableProducer.h",
+            "PhysicsTools/NanoAOD/plugins/SimpleFlatTableProducerPlugins.cc",
+            "SimMuon/MCTruth/plugins/MuonTrackProducer.cc"
+        ],
+        "created_at": 1750944473,
+        "number": 48425,
+        "state": "open",
+        "updated_at": 1750944492
     }
 }
