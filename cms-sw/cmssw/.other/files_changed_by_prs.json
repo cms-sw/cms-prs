@@ -2869,13 +2869,16 @@
     "48398": {
         "base_branch": "master",
         "changed_files_names": [
+            "DQM/HLTEvF/python/ScoutingJetMonitoring_cff.py",
+            "DQM/HLTEvF/python/ScoutingMuonMonitoring_cff.py",
             "DQM/Integration/python/clients/scouting_dqm_sourceclient-live_cfg.py",
+            "DQM/Integration/python/config/unittestinputsource_cfi.py",
             "DQM/Integration/test/BuildFile.xml"
         ],
         "created_at": 1750785672,
         "number": 48398,
         "state": "open",
-        "updated_at": 1750785694
+        "updated_at": 1750921934
     },
     "48399": {
         "base_branch": "CMSSW_15_0_X",
