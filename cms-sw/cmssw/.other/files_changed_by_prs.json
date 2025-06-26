@@ -3150,5 +3150,16 @@
         "number": 48417,
         "state": "open",
         "updated_at": 1750902224
+    },
+    "48418": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "Alignment/CommonAlignmentProducer/python/ALCARECOTkAlMinBias_cff.py",
+            "Calibration/TkAlCaRecoProducers/python/ALCARECOSiStripCalMinBias_cff.py"
+        ],
+        "created_at": 1750909648,
+        "number": 48418,
+        "state": "open",
+        "updated_at": 1750909672
     }
 }
