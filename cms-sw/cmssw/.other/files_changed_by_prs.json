@@ -3130,5 +3130,21 @@
         "number": 48426,
         "state": "open",
         "updated_at": 1750960967
+    },
+    "48428": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/data/hgcalCons/v19/hgcalCons.xml",
+            "Geometry/HGCalCommonData/data/hgcalCons/v19n/hgcalCons.xml",
+            "Geometry/HGCalCommonData/data/hgcalCons/v19ng/hgcalCons.xml",
+            "Geometry/HGCalCommonData/python/testHGCalV19nReco_cff.py",
+            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc",
+            "SimG4CMS/Calo/src/HGCalSD.cc",
+            "SimG4CMS/Calo/test/python/runHGC1_cfg.py"
+        ],
+        "created_at": 1750999012,
+        "number": 48428,
+        "state": "open",
+        "updated_at": 1750999032
     }
 }
