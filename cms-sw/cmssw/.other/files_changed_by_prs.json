@@ -2980,6 +2980,7 @@
             "FWCore/Framework/interface/limited/EDProducerBase.h",
             "FWCore/Framework/interface/limited/OutputModuleBase.h",
             "FWCore/Framework/interface/maker/ModuleHolder.h",
+            "FWCore/Framework/interface/maker/ModuleSignalSentry.h",
             "FWCore/Framework/interface/maker/Worker.h",
             "FWCore/Framework/interface/maker/WorkerT.h",
             "FWCore/Framework/interface/one/EDAnalyzerBase.h",
@@ -3023,7 +3024,7 @@
         "created_at": 1750877490,
         "number": 48416,
         "state": "open",
-        "updated_at": 1750955459
+        "updated_at": 1751038198
     },
     "48421": {
         "base_branch": "master",
