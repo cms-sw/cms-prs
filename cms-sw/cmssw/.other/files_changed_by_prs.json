@@ -2648,6 +2648,7 @@
         "base_branch": "master",
         "changed_files_names": [
             "Configuration/Applications/python/ConfigBuilder.py",
+            "Configuration/EventContent/python/EventContent_cff.py",
             "Configuration/ProcessModifiers/python/tau_embedding_emu_cff.py",
             "Configuration/ProcessModifiers/python/tau_embedding_etauh_cff.py",
             "Configuration/ProcessModifiers/python/tau_embedding_mu_to_e_cff.py",
@@ -2686,6 +2687,7 @@
             "TauAnalysis/MCEmbeddingTools/python/EmbeddingLHEProducer_cfi.py",
             "TauAnalysis/MCEmbeddingTools/python/EmbeddingPythia8Hadronizer_cfi.py",
             "TauAnalysis/MCEmbeddingTools/python/EmbeddingVertexCorrector_cfi.py",
+            "TauAnalysis/MCEmbeddingTools/python/Embedding_EventContent_cff.py",
             "TauAnalysis/MCEmbeddingTools/python/LHE_USER_cff.py",
             "TauAnalysis/MCEmbeddingTools/python/Merging_USER_cff.py",
             "TauAnalysis/MCEmbeddingTools/python/Nano_cff.py",
@@ -2705,7 +2707,7 @@
         "created_at": 1750854918,
         "number": 48408,
         "state": "open",
-        "updated_at": 1751211046
+        "updated_at": 1751381550
     },
     "48409": {
         "base_branch": "master",
