@@ -2637,6 +2637,8 @@
             "Configuration/ProcessModifiers/python/tau_embedding_mu_to_mu_cff.py",
             "Configuration/ProcessModifiers/python/tau_embedding_mutauh_cff.py",
             "Configuration/ProcessModifiers/python/tau_embedding_tauhtauh_cff.py",
+            "Configuration/PyReleaseValidation/python/relval_standard.py",
+            "Configuration/PyReleaseValidation/python/relval_steps.py",
             "TauAnalysis/MCEmbeddingTools/docs/README",
             "TauAnalysis/MCEmbeddingTools/docs/README.md",
             "TauAnalysis/MCEmbeddingTools/docs/cmsDriver_cmds_DATA_RUN3.sh",
@@ -2679,7 +2681,6 @@
             "TauAnalysis/MCEmbeddingTools/python/Simulation_HLT_customiser_cff.py",
             "TauAnalysis/MCEmbeddingTools/python/Simulation_RECO_cff.py",
             "TauAnalysis/MCEmbeddingTools/python/customisers.py",
-            "TauAnalysis/MCEmbeddingTools/test/BuildFile.xml",
             "TauAnalysis/MCEmbeddingTools/test/run_2016postVFPUL_workflow_tests.sh",
             "TauAnalysis/MCEmbeddingTools/test/run_2016preVFPUL_workflow_tests.sh",
             "TauAnalysis/MCEmbeddingTools/test/run_2017UL_workflow_tests.sh",
@@ -2689,7 +2690,7 @@
         "created_at": 1750854918,
         "number": 48408,
         "state": "open",
-        "updated_at": 1751381550
+        "updated_at": 1751459430
     },
     "48409": {
         "base_branch": "master",
