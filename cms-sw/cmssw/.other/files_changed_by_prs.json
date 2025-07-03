@@ -2835,7 +2835,6 @@
     "48448": {
         "base_branch": "CMSSW_15_1_FASTPU_X",
         "changed_files_names": [
-            "SimCalorimetry/HcalSimAlgos/python/AddCaloSamplesAnalyzer.py",
             "SimCalorimetry/HcalSimProducers/interface/HcalDigitizer.h",
             "SimCalorimetry/HcalSimProducers/python/hcalUnsuppressedDigis_cfi.py",
             "SimCalorimetry/HcalSimProducers/src/HcalDigitizer.cc"
@@ -2843,7 +2842,7 @@
         "created_at": 1751286027,
         "number": 48448,
         "state": "open",
-        "updated_at": 1751301607
+        "updated_at": 1751498133
     },
     "48450": {
         "base_branch": "CMSSW_15_0_X",
