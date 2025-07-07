@@ -2895,6 +2895,8 @@
             "SimG4Core/CustomPhysics/interface/CMSAntiSQ.h",
             "SimG4Core/CustomPhysics/interface/CMSDarkPairProduction.h",
             "SimG4Core/CustomPhysics/interface/CMSDarkPairProductionProcess.h",
+            "SimG4Core/CustomPhysics/interface/CMSSIMPInelasticProcess.h",
+            "SimG4Core/CustomPhysics/interface/CMSSIMPInelasticXS.h",
             "SimG4Core/CustomPhysics/interface/CMSSQ.h",
             "SimG4Core/CustomPhysics/interface/CMSSQInelasticCrossSection.h",
             "SimG4Core/CustomPhysics/interface/CMSSQLoopProcess.h",
@@ -2910,10 +2912,13 @@
             "SimG4Core/CustomPhysics/interface/FullModelHadronicProcess.h",
             "SimG4Core/CustomPhysics/interface/FullModelReactionDynamics.h",
             "SimG4Core/CustomPhysics/interface/G4APrime.h",
+            "SimG4Core/CustomPhysics/plugins/DBremWatcher.cc",
             "SimG4Core/CustomPhysics/src/APrimePhysics.cc",
             "SimG4Core/CustomPhysics/src/CMSAPrime.cc",
             "SimG4Core/CustomPhysics/src/CMSDarkPairProduction.cc",
             "SimG4Core/CustomPhysics/src/CMSDarkPairProductionProcess.cc",
+            "SimG4Core/CustomPhysics/src/CMSSIMPInelasticProcess.cc",
+            "SimG4Core/CustomPhysics/src/CMSSIMPInelasticXS.cc",
             "SimG4Core/CustomPhysics/src/CMSSQInelasticCrossSection.cc",
             "SimG4Core/CustomPhysics/src/CMSmuDarkBremsstrahlung.cc",
             "SimG4Core/CustomPhysics/src/CMSmuDarkBremsstrahlungModel.cc",
@@ -2930,7 +2935,7 @@
         "created_at": 1751796716,
         "number": 48488,
         "state": "open",
-        "updated_at": 1751796738
+        "updated_at": 1751876703
     },
     "48489": {
         "base_branch": "CMSSW_15_0_X",
