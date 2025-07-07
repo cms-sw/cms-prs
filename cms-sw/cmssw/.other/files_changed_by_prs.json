@@ -2823,15 +2823,12 @@
         "base_branch": "master",
         "changed_files_names": [
             "Validation/RecoTrack/plugins/SimpleTrackValidation.cc",
-            "Validation/RecoTrack/plugins/SimpleTrackValidationEtaBins.cc",
-            "Validation/RecoTrack/plugins/SimpleTrackValidationPtBins.cc",
-            "Validation/RecoTrack/test/SimpleTrackValidationEtaBins_cfg.py",
-            "Validation/RecoTrack/test/SimpleTrackValidationPtBins_cfg.py"
+            "Validation/RecoTrack/test/SimpleTrackValidation_cfg.py"
         ],
         "created_at": 1751530450,
         "number": 48472,
         "state": "open",
-        "updated_at": 1751542610
+        "updated_at": 1751868215
     },
     "48476": {
         "base_branch": "CMSSW_15_0_X",
