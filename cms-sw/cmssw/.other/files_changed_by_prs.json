@@ -2697,5 +2697,17 @@
         "number": 48502,
         "state": "open",
         "updated_at": 1751981159
+    },
+    "48503": {
+        "base_branch": "CMSSW_14_1_X",
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/test/BuildFile.xml",
+            "Configuration/PyReleaseValidation/test/test_mc_setup/test_MC_setup.sh",
+            "Configuration/PyReleaseValidation/test/test_mc_setup/test_MC_setup_gen_sim.sh"
+        ],
+        "created_at": 1751983420,
+        "number": 48503,
+        "state": "open",
+        "updated_at": 1751983448
     }
 }
