@@ -2781,5 +2781,26 @@
         "number": 48497,
         "state": "open",
         "updated_at": 1751956440
+    },
+    "48500": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HLTrigger/NGTScouting/plugins/BuildFile.xml",
+            "HLTrigger/NGTScouting/plugins/SimTracksterTableProducer.cc",
+            "HLTrigger/NGTScouting/plugins/TICLCandidateExtraTableProducer.cc",
+            "HLTrigger/NGTScouting/plugins/TICLCandidateTableProducer.cc",
+            "HLTrigger/NGTScouting/plugins/TICLSuperClustersTableProducer.cc",
+            "HLTrigger/NGTScouting/python/HLTNanoProducer_cff.py",
+            "HLTrigger/NGTScouting/python/hltSimTracksters_cfi.py",
+            "HLTrigger/NGTScouting/python/hltTICLCandidates_cfi.py",
+            "HLTrigger/NGTScouting/python/hltTICLSuperClusters_cfi.py",
+            "HLTrigger/NGTScouting/python/hltTracksters_cfi.py",
+            "HLTrigger/NGTScouting/test/readNano.py",
+            "PhysicsTools/NanoAOD/interface/AssociationMapFlatTableProducer.h"
+        ],
+        "created_at": 1751969229,
+        "number": 48500,
+        "state": "open",
+        "updated_at": 1751969253
     }
 }
