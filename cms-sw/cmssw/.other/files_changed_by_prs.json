@@ -2673,5 +2673,29 @@
         "number": 48500,
         "state": "open",
         "updated_at": 1751969253
+    },
+    "48502": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/relval_nano.py",
+            "PhysicsTools/NanoAOD/plugins/BuildFile.xml",
+            "PhysicsTools/NanoAOD/plugins/DSAMuonTableProducer.cc",
+            "PhysicsTools/NanoAOD/plugins/DispJetTableProducer.cc",
+            "PhysicsTools/NanoAOD/plugins/ElectronExtendedTableProducer.cc",
+            "PhysicsTools/NanoAOD/plugins/ElectronVertexTableProducer.cc",
+            "PhysicsTools/NanoAOD/plugins/GenParticlesExtendedProducer.cc",
+            "PhysicsTools/NanoAOD/plugins/MuonExtendedTableProducer.cc",
+            "PhysicsTools/NanoAOD/plugins/MuonVertexTableProducer.cc",
+            "PhysicsTools/NanoAOD/plugins/SimpleFlatTableProducerPlugins.cc",
+            "PhysicsTools/NanoAOD/plugins/cscMDSshowerTableProducer.cc",
+            "PhysicsTools/NanoAOD/plugins/dtMDSshowerTableProducer.cc",
+            "PhysicsTools/NanoAOD/python/autoNANO.py",
+            "PhysicsTools/NanoAOD/python/custom_exo_cff.py",
+            "PhysicsTools/NanoAOD/test/test-exoNano.sh"
+        ],
+        "created_at": 1751981131,
+        "number": 48502,
+        "state": "open",
+        "updated_at": 1751981159
     }
 }
