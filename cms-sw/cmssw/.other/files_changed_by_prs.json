@@ -3053,5 +3053,21 @@
         "number": 48516,
         "state": "open",
         "updated_at": 1752060871
+    },
+    "48517": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoEgamma/EgammaTools/python/slimmedEgammaHGC_cff.py",
+            "RecoHGCal/TICL/python/customiseForTICLv5_cff.py",
+            "RecoHGCal/TICL/python/customiseTICLFromReco.py",
+            "RecoLocalCalo/Configuration/python/hgcalLocalReco_cff.py",
+            "RecoLocalCalo/HGCalRecProducers/plugins/RecHitMapProducer.cc",
+            "RecoLocalCalo/HGCalRecProducers/python/recHitMapProducer_cff.py",
+            "Validation/Configuration/python/hltHGCalSimValid_cff.py"
+        ],
+        "created_at": 1752062888,
+        "number": 48517,
+        "state": "open",
+        "updated_at": 1752062919
     }
 }
