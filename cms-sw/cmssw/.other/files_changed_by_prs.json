@@ -2887,5 +2887,23 @@
         "number": 48543,
         "state": "open",
         "updated_at": 1752516620
+    },
+    "48544": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Concurrency/test/BuildFile.xml",
+            "FWCore/Concurrency/test/limitedtaskqueue_t.cppunit.cpp",
+            "FWCore/Concurrency/test/serialtaskqueue_t.cppunit.cpp",
+            "FWCore/Concurrency/test/serialtaskqueuechain_t.cppunit.cpp",
+            "FWCore/Concurrency/test/test2_catch2_limitedtaskqueue.cc",
+            "FWCore/Concurrency/test/test2_catch2_serialtaskqueue.cc",
+            "FWCore/Concurrency/test/test2_catch2_serialtaskqueuechain.cc",
+            "FWCore/Concurrency/test/test2_catch2_waitingtasklist.cc",
+            "FWCore/Concurrency/test/waitingtasklist_t.cppunit.cpp"
+        ],
+        "created_at": 1752519343,
+        "number": 48544,
+        "state": "open",
+        "updated_at": 1752519366
     }
 }
