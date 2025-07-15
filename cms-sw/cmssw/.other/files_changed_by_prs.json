@@ -2590,27 +2590,6 @@
         "state": "open",
         "updated_at": 1752035201
     },
-    "48511": {
-        "base_branch": "CMSSW_15_0_X",
-        "changed_files_names": [
-            "DQM/HcalCommon/interface/Constants.h",
-            "DQM/HcalCommon/interface/ValueQuantity.h",
-            "DQM/HcalTasks/interface/HFRaddamTask.h",
-            "DQM/HcalTasks/interface/LaserTask.h",
-            "DQM/HcalTasks/interface/UMNioTask.h",
-            "DQM/HcalTasks/plugins/HFRaddamTask.cc",
-            "DQM/HcalTasks/plugins/LaserTask.cc",
-            "DQM/HcalTasks/plugins/UMNioTask.cc",
-            "DQM/HcalTasks/python/HFRaddamTask_cfi.py",
-            "DQM/HcalTasks/python/LaserTask_cfi.py",
-            "DQM/HcalTasks/python/UMNioTask_cfi.py",
-            "DQM/Integration/python/clients/hcalcalib_dqm_sourceclient-live_cfg.py"
-        ],
-        "created_at": 1752048052,
-        "number": 48511,
-        "state": "open",
-        "updated_at": 1752048077
-    },
     "48518": {
         "base_branch": "master",
         "changed_files_names": [
