@@ -2906,5 +2906,20 @@
         "number": 48558,
         "state": "open",
         "updated_at": 1752657574
+    },
+    "48559": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/HGCalDigi/interface/HGCalECONDPacketInfoSoA.h",
+            "DataFormats/HGCalDigi/interface/HGCalFEDPacketInfoSoA.h",
+            "DataFormats/HGCalDigi/interface/HGCalRawDataDefinitions.h",
+            "EventFilter/HGCalRawToDigi/interface/HGCalUnpacker.h",
+            "EventFilter/HGCalRawToDigi/plugins/HGCalRawToDigi.cc",
+            "EventFilter/HGCalRawToDigi/src/HGCalUnpacker.cc"
+        ],
+        "created_at": 1752666010,
+        "number": 48559,
+        "state": "open",
+        "updated_at": 1752666033
     }
 }
