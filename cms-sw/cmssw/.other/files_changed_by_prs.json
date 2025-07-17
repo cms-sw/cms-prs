@@ -2893,5 +2893,16 @@
         "number": 48565,
         "state": "open",
         "updated_at": 1752747787
+    },
+    "48566": {
+        "base_branch": "CMSSW_10_6_X",
+        "changed_files_names": [
+            "SimG4Core/CustomPhysics/interface/FullModelHadronicProcess.h",
+            "SimG4Core/CustomPhysics/src/FullModelHadronicProcess.cc"
+        ],
+        "created_at": 1752754902,
+        "number": 48566,
+        "state": "open",
+        "updated_at": 1752754927
     }
 }
