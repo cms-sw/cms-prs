@@ -2191,6 +2191,7 @@
             "RecoLocalTracker/SiPixelClusterizer/interface/SiPixelImageDevice.h",
             "RecoLocalTracker/SiPixelClusterizer/interface/SiPixelImageHost.h",
             "RecoLocalTracker/SiPixelClusterizer/interface/SiPixelImageSoA.h",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/BuildFile.xml",
             "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/PixelClustering.h",
             "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelMorphingConfig.h",
             "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToCluster.cc",
@@ -2200,7 +2201,7 @@
         "created_at": 1750154723,
         "number": 48343,
         "state": "open",
-        "updated_at": 1751034551
+        "updated_at": 1752755146
     },
     "48357": {
         "base_branch": "CMSSW_15_0_X",
