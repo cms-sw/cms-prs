@@ -2953,5 +2953,21 @@
         "number": 48570,
         "state": "open",
         "updated_at": 1752811467
+    },
+    "48571": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalMapping/interface/HGCalMappingTools.h",
+            "Geometry/HGCalMapping/plugins/HGCalMappingESProducer.cc",
+            "Geometry/HGCalMapping/plugins/alpaka/HGCalMappingCellESProducer.cc",
+            "Geometry/HGCalMapping/scripts/make_sipm_channelmap.py",
+            "Geometry/HGCalMapping/src/HGCalMappingTools.cc",
+            "Geometry/HGCalMapping/test/HGCalMappingESSourceTester.cc",
+            "Geometry/HGCalMapping/test/testMappingModuleIndexer_cfg.py"
+        ],
+        "created_at": 1752827352,
+        "number": 48571,
+        "state": "open",
+        "updated_at": 1752827377
     }
 }
