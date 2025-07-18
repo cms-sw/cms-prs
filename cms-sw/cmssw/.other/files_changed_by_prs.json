@@ -2938,5 +2938,20 @@
         "number": 48569,
         "state": "open",
         "updated_at": 1752755770
+    },
+    "48570": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoLocalCalo/HGCalRecProducers/plugins/SealModules.cc",
+            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalLayerClusterPluginFactory.cc",
+            "RecoLocalCalo/HGCalRecProducers/src/HGCalLayerClusterPluginFactory.cc",
+            "RecoParticleFlow/PFClusterProducer/BuildFile.xml",
+            "RecoParticleFlow/PFClusterProducer/plugins/SealModules.cc",
+            "RecoParticleFlow/PFClusterProducer/plugins/BarrelLayerClusterPluginFactory.cc"
+        ],
+        "created_at": 1752811445,
+        "number": 48570,
+        "state": "open",
+        "updated_at": 1752811467
     }
 }
