@@ -2888,12 +2888,14 @@
     "48565": {
         "base_branch": "master",
         "changed_files_names": [
-            "HLTrigger/Configuration/python/HLT_75e33/paths/DST_PFScouting_cfi.py"
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltMergeLayerClusters_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/paths/DST_PFScouting_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTTICLLocalRecoSequence_cfi.py"
         ],
         "created_at": 1752747765,
         "number": 48565,
         "state": "open",
-        "updated_at": 1752747787
+        "updated_at": 1752831591
     },
     "48566": {
         "base_branch": "CMSSW_10_6_X",
