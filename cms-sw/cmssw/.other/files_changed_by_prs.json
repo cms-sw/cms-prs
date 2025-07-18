@@ -2996,5 +2996,21 @@
         "number": 48576,
         "state": "open",
         "updated_at": 1752849454
+    },
+    "48577": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQM/DTMonitorClient/python/dtCertificationSummary_cfi.py",
+            "DQM/DTMonitorClient/src/DTCertificationSummary.cc",
+            "DQM/DTMonitorClient/src/DTCertificationSummary.h",
+            "DQM/EcalMonitorClient/plugins/EcalDQMonitorClient.cc",
+            "DQM/EcalMonitorClient/python/EcalCertification_cfi.py",
+            "DQMServices/Core/interface/DQMEDHarvester.h",
+            "DQMServices/Core/src/DQMStore.cc"
+        ],
+        "created_at": 1752854780,
+        "number": 48577,
+        "state": "open",
+        "updated_at": 1752854807
     }
 }
