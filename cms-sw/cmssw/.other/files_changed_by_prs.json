@@ -3012,5 +3012,17 @@
         "number": 48577,
         "state": "open",
         "updated_at": 1752854807
+    },
+    "48579": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/StandardSequences/python/VtxSmeared.py",
+            "IOMC/EventVertexGenerators/python/VtxSmearedParameters_cfi.py",
+            "IOMC/EventVertexGenerators/python/VtxSmearedRealistic2023PbPbCollision_cfi.py"
+        ],
+        "created_at": 1752867797,
+        "number": 48579,
+        "state": "open",
+        "updated_at": 1752867819
     }
 }
