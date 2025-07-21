@@ -3119,5 +3119,22 @@
         "number": 48597,
         "state": "open",
         "updated_at": 1753125093
+    },
+    "48598": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/Common/README.md",
+            "DataFormats/Common/interface/PathActivityToken.h",
+            "DataFormats/Common/src/classes.h",
+            "DataFormats/Common/src/classes_def.xml",
+            "FWCore/Modules/src/PathActivityFilter.cc",
+            "FWCore/Modules/src/PathActivityProbe.cc",
+            "FWCore/Modules/test/BuildFile.xml",
+            "FWCore/Modules/test/testPathActivityFilter_cfg.py"
+        ],
+        "created_at": 1753127593,
+        "number": 48598,
+        "state": "open",
+        "updated_at": 1753127618
     }
 }
