@@ -2424,12 +2424,9 @@
         "base_branch": "master",
         "changed_files_names": [
             "DataFormats/Common/src/classes_def.xml",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrackCandidates_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrajectorySeedsLST_cfi.py",
             "RecoTracker/LST/interface/LSTOutput.h",
             "RecoTracker/LST/plugins/BuildFile.xml",
             "RecoTracker/LST/plugins/LSTOutputConverter.cc",
-            "RecoTracker/LST/plugins/alpaka/LSTOutputConverter.cc",
             "RecoTracker/LST/plugins/alpaka/LSTProducer.cc",
             "RecoTracker/LST/src/classes.h",
             "RecoTracker/LST/src/classes_def.xml",
@@ -2455,7 +2452,7 @@
         "created_at": 1750857578,
         "number": 48409,
         "state": "open",
-        "updated_at": 1752723153
+        "updated_at": 1753203078
     },
     "48422": {
         "base_branch": "master",
