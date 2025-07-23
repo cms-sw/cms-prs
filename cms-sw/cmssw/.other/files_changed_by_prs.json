@@ -3158,5 +3158,26 @@
         "number": 48610,
         "state": "open",
         "updated_at": 1753249976
+    },
+    "48613": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "DataFormats/Scouting/interface/Run3ScoutingEBRecHit.h",
+            "DataFormats/Scouting/interface/Run3ScoutingEERecHit.h",
+            "DataFormats/Scouting/interface/Run3ScoutingHBHERecHit.h",
+            "DataFormats/Scouting/src/classes.h",
+            "DataFormats/Scouting/src/classes_def.xml",
+            "DataFormats/Scouting/test/TestReadRun3Scouting.cc",
+            "DataFormats/Scouting/test/TestRun3ScoutingFormats.sh",
+            "DataFormats/Scouting/test/TestWriteRun3Scouting.cc",
+            "DataFormats/Scouting/test/create_Run3Scouting_test_file_cfg.py",
+            "DataFormats/Scouting/test/test_readRun3Scouting_cfg.py",
+            "HLTrigger/special/plugins/BuildFile.xml",
+            "HLTrigger/special/plugins/HLTScoutingRecHitProducer.cc"
+        ],
+        "created_at": 1753256654,
+        "number": 48613,
+        "state": "open",
+        "updated_at": 1753256680
     }
 }
