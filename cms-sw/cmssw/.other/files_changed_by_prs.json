@@ -3028,17 +3028,19 @@
         "base_branch": "master",
         "changed_files_names": [
             "PhysicsTools/UtilAlgos/interface/ConfigurableHisto.h",
+            "PhysicsTools/UtilAlgos/interface/Plotter.h",
             "PhysicsTools/UtilAlgos/interface/VariableHelper.h",
             "PhysicsTools/UtilAlgos/interface/VariableNTupler.h",
             "PhysicsTools/UtilAlgos/plugins/ConfigurableAnalysis.cc",
             "PhysicsTools/UtilAlgos/plugins/PlottingDevice.cc",
             "PhysicsTools/UtilAlgos/plugins/VariableEventSelector.h",
             "PhysicsTools/UtilAlgos/plugins/modules.cc",
-            "PhysicsTools/UtilAlgos/src/CachingVariable.cc"
+            "PhysicsTools/UtilAlgos/src/CachingVariable.cc",
+            "PhysicsTools/UtilAlgos/src/VariableHelper.cc"
         ],
         "created_at": 1753299339,
         "number": 48621,
         "state": "open",
-        "updated_at": 1753299366
+        "updated_at": 1753302022
     }
 }
