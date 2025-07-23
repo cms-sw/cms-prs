@@ -3007,5 +3007,21 @@
         "number": 48619,
         "state": "open",
         "updated_at": 1753293641
+    },
+    "48620": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "Configuration/Generator/python/UndergroundCosmicMu_cfi.py",
+            "Configuration/Generator/python/UndergroundCosmicSPLooseMu_cfi.py",
+            "GeneratorInterface/CosmicMuonGenerator/interface/CosMuoGenProducer.h",
+            "GeneratorInterface/CosmicMuonGenerator/interface/CosmicMuonGenerator.h",
+            "GeneratorInterface/CosmicMuonGenerator/python/CMSCGENproducer_cfi.py",
+            "GeneratorInterface/CosmicMuonGenerator/src/CosMuoGenProducer.cc",
+            "GeneratorInterface/CosmicMuonGenerator/src/CosmicMuonGenerator.cc"
+        ],
+        "created_at": 1753295092,
+        "number": 48620,
+        "state": "open",
+        "updated_at": 1753295118
     }
 }
