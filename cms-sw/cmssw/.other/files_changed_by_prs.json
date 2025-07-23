@@ -3147,5 +3147,16 @@
         "number": 48609,
         "state": "open",
         "updated_at": 1753249701
+    },
+    "48610": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "RecoParticleFlow/PFClusterProducer/interface/PFEcalBarrelRecHitCreator.h",
+            "RecoParticleFlow/PFClusterProducer/interface/PFEcalEndcapRecHitCreator.h"
+        ],
+        "created_at": 1753249949,
+        "number": 48610,
+        "state": "open",
+        "updated_at": 1753249976
     }
 }
