@@ -2824,18 +2824,18 @@
         "base_branch": "master",
         "changed_files_names": [
             "DataFormats/Common/README.md",
-            "DataFormats/Common/interface/PathActivityToken.h",
+            "DataFormats/Common/interface/PathStateToken.h",
             "DataFormats/Common/src/classes.h",
             "DataFormats/Common/src/classes_def.xml",
-            "FWCore/Modules/src/PathActivityFilter.cc",
-            "FWCore/Modules/src/PathActivityProducer.cc",
+            "FWCore/Modules/src/PathStateCapture.cc",
+            "FWCore/Modules/src/PathStateRelease.cc",
             "FWCore/Modules/test/BuildFile.xml",
-            "FWCore/Modules/test/testPathActivityFilter_cfg.py"
+            "FWCore/Modules/test/testPathStateCaptureRelease_cfg.py"
         ],
         "created_at": 1753127593,
         "number": 48598,
         "state": "open",
-        "updated_at": 1753277095
+        "updated_at": 1753381720
     },
     "48600": {
         "base_branch": "master",
