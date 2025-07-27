@@ -1552,7 +1552,6 @@
     "47629": {
         "base_branch": "master",
         "changed_files_names": [
-            "DataFormats/Common/src/classes_def.xml",
             "DataFormats/SiStripCluster/interface/SiStripCluster.h",
             "DataFormats/SiStripClusterSoA/BuildFile.xml",
             "DataFormats/SiStripClusterSoA/README.md",
@@ -1597,22 +1596,12 @@
             "RecoLocalTracker/SiStripClusterizer/python/customizeStripClustersFromRaw.py",
             "RecoLocalTracker/SiStripClusterizer/src/ES_SiStripClusterizerConditionsHost.cc",
             "RecoLocalTracker/SiStripClusterizer/src/SiStripClusterizerConditionsRecord.cc",
-            "RecoLocalTracker/SiStripClusterizer/src/alpaka/ES_SiStripClusterizerConditionsDevice.cc",
-            "RecoLocalTracker/SiStripClusterizer/test/BuildFile.xml",
-            "RecoLocalTracker/SiStripClusterizer/test/SiStripRawToCluster/README.md",
-            "RecoLocalTracker/SiStripClusterizer/test/SiStripRawToCluster/TestSiStripClusterizerConditionsSoA.cc",
-            "RecoLocalTracker/SiStripClusterizer/test/SiStripRawToCluster/TestSiStripMappingSoA.cc",
-            "RecoLocalTracker/SiStripClusterizer/test/SiStripRawToCluster/alpaka/TestSiStripClusterizerConditionsDevice.cc",
-            "RecoLocalTracker/SiStripClusterizer/test/SiStripRawToCluster/alpaka/TestSiStripClusterizerConditionsDevice.dev.cc",
-            "RecoLocalTracker/SiStripClusterizer/test/SiStripRawToCluster/alpaka/TestSiStripClusterizerConditionsDevice.h",
-            "RecoLocalTracker/SiStripClusterizer/test/SiStripRawToCluster/alpaka/TestSiStripMappingDevice.cc",
-            "RecoLocalTracker/SiStripClusterizer/test/SiStripRawToCluster/alpaka/TestSiStripMappingDevice.dev.cc",
-            "RecoLocalTracker/SiStripClusterizer/test/SiStripRawToCluster/alpaka/TestSiStripMappingDevice.h"
+            "RecoLocalTracker/SiStripClusterizer/src/alpaka/ES_SiStripClusterizerConditionsDevice.cc"
         ],
         "created_at": 1742404155,
         "number": 47629,
         "state": "open",
-        "updated_at": 1753273234
+        "updated_at": 1753653181
     },
     "47708": {
         "base_branch": "master",
