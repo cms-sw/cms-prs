@@ -2752,8 +2752,6 @@
             "DataFormats/HGCalReco/interface/HGCalSoARecHits.h",
             "Geometry/HGCalMapping/plugins/alpaka/HGCalDenseIndexInfoESProducer.cc",
             "Geometry/HGCalMapping/test/testMappingModuleIndexer_cfg.py",
-            "L1Trigger/L1CaloTrigger/interface/Phase2L1CaloPFClusterEmulator.h",
-            "L1Trigger/L1CaloTrigger/plugins/Phase2L1CaloPFClusterEmulator.cc",
             "RecoLocalCalo/Configuration/python/hgcalTestBeamLocalReco_cff.py",
             "RecoLocalCalo/HGCalRecAlgos/interface/HGCalESProducerTools.h",
             "RecoLocalCalo/HGCalRecAlgos/interface/alpaka/HGCalRecHitCalibrationAlgorithms.h",
@@ -2772,7 +2770,7 @@
         "created_at": 1753189917,
         "number": 48606,
         "state": "open",
-        "updated_at": 1753707126
+        "updated_at": 1753709096
     },
     "48607": {
         "base_branch": "master",
