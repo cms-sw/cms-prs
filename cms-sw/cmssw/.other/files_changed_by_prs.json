@@ -3973,5 +3973,17 @@
         "number": 48640,
         "state": "open",
         "updated_at": 1753715209
+    },
+    "48641": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "DQM/EcalMonitorTasks/interface/TimingTask.h",
+            "DQM/EcalMonitorTasks/python/TimingTask_cfi.py",
+            "DQM/EcalMonitorTasks/src/TimingTask.cc"
+        ],
+        "created_at": 1753715275,
+        "number": 48641,
+        "state": "open",
+        "updated_at": 1753715298
     }
 }
