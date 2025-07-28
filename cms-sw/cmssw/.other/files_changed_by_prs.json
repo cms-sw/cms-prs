@@ -1965,10 +1965,12 @@
             "L1Trigger/L1THGCal/plugins/veryfrontend/HGCalVFEProcessorSums.cc",
             "L1Trigger/L1THGCal/python/l1tHGCalConcentratorProducer_cfi.py",
             "L1Trigger/L1THGCal/python/l1tHGCalVFEProducer_cfi.py",
+            "L1Trigger/L1THGCal/src/HGCalCoarseTriggerCellMapping.cc",
             "L1Trigger/L1THGCal/src/HGCalTriggerTools.cc",
             "L1Trigger/L1THGCal/src/concentrator/HGCalConcentratorCoarsenerImpl.cc",
             "L1Trigger/L1THGCal/src/concentrator/HGCalConcentratorSuperTriggerCellImpl.cc",
             "L1Trigger/L1THGCal/src/veryfrontend/HGCalVFESummationImpl.cc",
+            "L1Trigger/L1THGCalUtilities/test/testHGCalL1T_multialgo_V19_cfg.py",
             "RecoLocalCalo/HGCalRecAlgos/src/RecHitTools.cc",
             "RecoLocalCalo/HGCalRecProducers/python/HGCalRecHit_cfi.py",
             "RecoLocalCalo/HGCalRecProducers/python/HGCalUncalibRecHit_cfi.py",
@@ -1983,7 +1985,7 @@
         "created_at": 1749723738,
         "number": 48303,
         "state": "open",
-        "updated_at": 1752622045
+        "updated_at": 1753684225
     },
     "48308": {
         "base_branch": "master",
