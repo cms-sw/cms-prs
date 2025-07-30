@@ -1822,12 +1822,12 @@
         "base_branch": "master",
         "changed_files_names": [
             "Configuration/PyReleaseValidation/python/relval_nano.py",
-            "DataFormats/L1Scouting/BuildFile.xml",
             "DataFormats/L1Scouting/interface/OrbitCollection.h",
-            "DataFormats/L1Scouting/interface/OrbitFlatTable.h",
-            "DataFormats/L1Scouting/src/classes.h",
             "DataFormats/L1Scouting/src/classes_def.xml",
             "DataFormats/NanoAOD/interface/FlatTable.h",
+            "DataFormats/NanoAOD/interface/OrbitFlatTable.h",
+            "DataFormats/NanoAOD/src/classes.h",
+            "DataFormats/NanoAOD/src/classes_def.xml",
             "L1TriggerScouting/Utilities/plugins/BuildFile.xml",
             "L1TriggerScouting/Utilities/plugins/L1ScoutingEtSumOrbitFlatTableProducer.cc",
             "L1TriggerScouting/Utilities/plugins/L1ScoutingPhysicalValueMapProducer.cc",
@@ -1844,7 +1844,7 @@
         "created_at": 1748028027,
         "number": 48163,
         "state": "open",
-        "updated_at": 1752590901
+        "updated_at": 1753863774
     },
     "48184": {
         "base_branch": "master",
