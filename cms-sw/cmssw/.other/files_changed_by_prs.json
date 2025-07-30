@@ -1975,6 +1975,8 @@
             "RecoLocalCalo/HGCalRecProducers/python/HGCalRecHit_cfi.py",
             "RecoLocalCalo/HGCalRecProducers/python/HGCalUncalibRecHit_cfi.py",
             "SimCalorimetry/HGCalSimProducers/interface/HGCDigitizerBase.h",
+            "SimCalorimetry/HGCalSimProducers/interface/HGCFEElectronics.h",
+            "SimCalorimetry/HGCalSimProducers/plugins/HGCDigitizer.cc",
             "SimCalorimetry/HGCalSimProducers/plugins/HGCDigitizerBase.cc",
             "SimCalorimetry/HGCalSimProducers/python/hgcROCParameters_cfi.py",
             "SimCalorimetry/HGCalSimProducers/python/hgcalDigitizer_cfi.py",
@@ -1983,7 +1985,7 @@
         "created_at": 1749723738,
         "number": 48303,
         "state": "open",
-        "updated_at": 1753787689
+        "updated_at": 1753886932
     },
     "48308": {
         "base_branch": "master",
