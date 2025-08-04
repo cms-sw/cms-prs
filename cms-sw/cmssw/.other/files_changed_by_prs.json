@@ -3114,5 +3114,16 @@
         "number": 48665,
         "state": "open",
         "updated_at": 1754302132
+    },
+    "48666": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "Configuration/EventContent/python/EventContent_cff.py",
+            "HLTrigger/Configuration/python/HLTScouting_EventContent_cff.py"
+        ],
+        "created_at": 1754307919,
+        "number": 48666,
+        "state": "open",
+        "updated_at": 1754307946
     }
 }
