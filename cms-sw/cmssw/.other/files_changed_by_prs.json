@@ -2962,5 +2962,24 @@
         "number": 48673,
         "state": "open",
         "updated_at": 1754405812
+    },
+    "48674": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoTracker/LSTCore/standalone/analysis/jets/myjets.py",
+            "RecoTracker/LSTCore/standalone/analysis/jets/reformat_jets.py",
+            "RecoTracker/LSTCore/standalone/bin/lst.cc",
+            "RecoTracker/LSTCore/standalone/code/core/AnalysisConfig.h",
+            "RecoTracker/LSTCore/standalone/code/core/write_lst_ntuple.cc",
+            "RecoTracker/LSTCore/standalone/efficiency/python/lst_plot_performance.py",
+            "RecoTracker/LSTCore/standalone/efficiency/src/helper.cc",
+            "RecoTracker/LSTCore/standalone/efficiency/src/helper.h",
+            "RecoTracker/LSTCore/standalone/efficiency/src/performance.cc",
+            "RecoTracker/LSTCore/standalone/efficiency/src/performance.h"
+        ],
+        "created_at": 1754406219,
+        "number": 48674,
+        "state": "open",
+        "updated_at": 1754406243
     }
 }
