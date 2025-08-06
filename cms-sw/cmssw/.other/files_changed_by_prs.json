@@ -2527,35 +2527,6 @@
         "state": "open",
         "updated_at": 1752754465
     },
-    "48562": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "HLTrigger/Tools/scripts/hltInfo",
-            "IOPool/Common/bin/BuildFile.xml",
-            "IOPool/Common/bin/EdmProvDump.cc",
-            "IOPool/Common/test/BuildFile.xml",
-            "IOPool/Common/test/removeChangingParts.py",
-            "IOPool/Common/test/run_TestEdmConfigDump.sh",
-            "IOPool/Common/test/run_TestEdmProvDump.sh",
-            "IOPool/Common/test/testEdmProvDumpMerge_cfg.py",
-            "IOPool/Common/test/testEdmProvDumpSplit_cfg.py",
-            "IOPool/Common/test/testEdmProvDump_cfg.py",
-            "IOPool/Common/test/testEdmConfigDump_cfg.py",
-            "IOPool/Common/test/unit_test_outputs/provdump_complex_final.log",
-            "IOPool/Common/test/unit_test_outputs/provdump_complex_intermediate.log",
-            "IOPool/Common/test/unit_test_outputs/provdump_complex_merge.log",
-            "IOPool/Common/test/unit_test_outputs/provdump_complex_split.log",
-            "IOPool/Common/test/unit_test_outputs/provdump_simple_default.log",
-            "IOPool/Common/test/unit_test_outputs/provdump_simple_excludeESModules.log",
-            "IOPool/Common/test/unit_test_outputs/provdump.log",
-            "IOPool/Common/test/unit_test_outputs/provdump_simple_showAllModules.log",
-            "IOPool/Common/test/unit_test_outputs/provdump_simple_showTopLevelPSets.log"
-        ],
-        "created_at": 1752693411,
-        "number": 48562,
-        "state": "open",
-        "updated_at": 1753470085
-    },
     "48565": {
         "base_branch": "master",
         "changed_files_names": [
