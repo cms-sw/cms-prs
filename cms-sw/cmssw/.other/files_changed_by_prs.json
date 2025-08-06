@@ -3016,5 +3016,22 @@
         "number": 48681,
         "state": "open",
         "updated_at": 1754480594
+    },
+    "48682": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Framework/interface/EDConsumerBase.h",
+            "FWCore/Framework/interface/PrincipalGetAdapter.h",
+            "FWCore/Framework/src/EDConsumerBase.cc",
+            "FWCore/Framework/src/Principal.cc",
+            "FWCore/Utilities/interface/InputTag.h",
+            "FWCore/Utilities/src/InputTag.cc",
+            "FWCore/Utilities/test/InputTag_t.cpp",
+            "FWCore/Utilities/test/test_catch2_InputTag.cc"
+        ],
+        "created_at": 1754483424,
+        "number": 48682,
+        "state": "open",
+        "updated_at": 1754483450
     }
 }
