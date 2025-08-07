@@ -3075,11 +3075,13 @@
             "FWCore/Services/interface/ExternalRandomNumberGeneratorService.h",
             "FWCore/Services/src/ExternalRandomNumberGeneratorService.cc",
             "IOMC/RandomEngine/plugins/RandomNumberGeneratorService.cc",
-            "IOMC/RandomEngine/plugins/RandomNumberGeneratorService.h"
+            "IOMC/RandomEngine/plugins/RandomNumberGeneratorService.h",
+            "Mixing/Base/src/PileupRandomNumberGenerator.cc",
+            "Mixing/Base/src/PileupRandomNumberGenerator.h"
         ],
         "created_at": 1754588709,
         "number": 48696,
         "state": "open",
-        "updated_at": 1754588767
+        "updated_at": 1754592126
     }
 }
