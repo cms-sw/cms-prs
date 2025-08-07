@@ -3044,14 +3044,17 @@
     "48694": {
         "base_branch": "master",
         "changed_files_names": [
+            "DataFormats/HGCalReco/src/classes_def.xml",
+            "DataFormats/ParticleFlowReco/src/classes_def_2.xml",
             "DataFormats/StdDictionaries/src/classes_def_others.xml",
             "DataFormats/StdDictionaries/src/classes_others.h",
-            "SimDataFormats/Associations/src/classes_def.xml"
+            "SimDataFormats/Associations/src/classes_def.xml",
+            "SimDataFormats/CaloAnalysis/src/classes_def.xml"
         ],
         "created_at": 1754578001,
         "number": 48694,
         "state": "open",
-        "updated_at": 1754578027
+        "updated_at": 1754587908
     },
     "48695": {
         "base_branch": "master",
