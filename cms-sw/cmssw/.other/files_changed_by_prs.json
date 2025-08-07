@@ -3065,5 +3065,21 @@
         "number": 48695,
         "state": "open",
         "updated_at": 1754579207
+    },
+    "48696": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/AbstractServices/interface/RandomNumberGenerator.h",
+            "FWCore/Framework/src/EventProcessor.cc",
+            "FWCore/Framework/src/Schedule.cc",
+            "FWCore/Services/interface/ExternalRandomNumberGeneratorService.h",
+            "FWCore/Services/src/ExternalRandomNumberGeneratorService.cc",
+            "IOMC/RandomEngine/plugins/RandomNumberGeneratorService.cc",
+            "IOMC/RandomEngine/plugins/RandomNumberGeneratorService.h"
+        ],
+        "created_at": 1754588709,
+        "number": 48696,
+        "state": "open",
+        "updated_at": 1754588767
     }
 }
