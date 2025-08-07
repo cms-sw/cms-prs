@@ -2549,6 +2549,7 @@
             "DataFormats/HGCalRecHit/src/classes_def.xml",
             "DataFormats/HGCalReco/interface/HGCalSoARecHits.h",
             "Geometry/HGCalMapping/plugins/alpaka/HGCalDenseIndexInfoESProducer.cc",
+            "Geometry/HGCalMapping/plugins/alpaka/HGCalMappingCellESProducer.cc",
             "Geometry/HGCalMapping/test/testMappingModuleIndexer_cfg.py",
             "RecoLocalCalo/Configuration/python/hgcalTestBeamLocalReco_cff.py",
             "RecoLocalCalo/HGCalRecAlgos/interface/HGCalESProducerTools.h",
@@ -2568,7 +2569,7 @@
         "created_at": 1753189917,
         "number": 48606,
         "state": "open",
-        "updated_at": 1753709096
+        "updated_at": 1754586995
     },
     "48607": {
         "base_branch": "master",
