@@ -3057,5 +3057,18 @@
         "number": 48690,
         "state": "open",
         "updated_at": 1754548554
+    },
+    "48691": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "IOPool/Input/test/testReducedProcessHistoryHardwareResources.sh",
+            "IOPool/Input/test/testReducedProcessHistoryVersion.sh",
+            "IOPool/Streamer/test/run_TestReducedProcessHistoryHardwareResources.sh",
+            "IOPool/Streamer/test/run_TestReducedProcessHistoryVersion.sh"
+        ],
+        "created_at": 1754566560,
+        "number": 48691,
+        "state": "open",
+        "updated_at": 1754566585
     }
 }
