@@ -3168,5 +3168,21 @@
         "number": 48704,
         "state": "open",
         "updated_at": 1754659022
+    },
+    "48705": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQM/Integration/python/clients/beam_dqm_sourceclient-live_cfg.py",
+            "DQM/Integration/python/clients/dt_dqm_sourceclient-live_cfg.py",
+            "DQM/Integration/python/clients/hcal_dqm_sourceclient-live_cfg.py",
+            "DQM/Integration/python/clients/hcalreco_dqm_sourceclient-live_cfg.py",
+            "DQM/Integration/python/clients/pixellumi_dqm_sourceclient-live_cfg.py",
+            "DQM/Integration/python/clients/sistrip_dqm_sourceclient-live_cfg.py",
+            "DQM/Integration/python/clients/visualization-live_cfg.py"
+        ],
+        "created_at": 1754659365,
+        "number": 48705,
+        "state": "open",
+        "updated_at": 1754659387
     }
 }
