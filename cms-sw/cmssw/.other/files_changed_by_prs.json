@@ -3188,6 +3188,7 @@
     "48706": {
         "base_branch": "master",
         "changed_files_names": [
+            "Configuration/HLT/python/autoHLT.py",
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
             "HLTrigger/Configuration/python/HLT_75e33/paths/MC_TRK_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33_cff.py",
@@ -3196,6 +3197,6 @@
         "created_at": 1754662510,
         "number": 48706,
         "state": "open",
-        "updated_at": 1754662539
+        "updated_at": 1754665699
     }
 }
