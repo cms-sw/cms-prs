@@ -3169,5 +3169,16 @@
         "number": 48714,
         "state": "open",
         "updated_at": 1754900467
+    },
+    "48715": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "DQM/HLTEvF/plugins/ScoutingCollectionMonitor.cc",
+            "DQM/HLTEvF/python/ScoutingCollectionMonitor_cfi.py"
+        ],
+        "created_at": 1754903571,
+        "number": 48715,
+        "state": "open",
+        "updated_at": 1754903599
     }
 }
