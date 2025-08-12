@@ -3300,5 +3300,22 @@
         "number": 48721,
         "state": "open",
         "updated_at": 1754936081
+    },
+    "48722": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/StandardSequences/python/Validation_cff.py",
+            "HLTriggerOffline/JetMET/python/Validation/HLTJetMETValidation_cff.py",
+            "HLTriggerOffline/JetMET/src/HLTJetMETValidation.cc",
+            "Validation/RecoJets/plugins/JetTester.cc",
+            "Validation/RecoJets/plugins/JetTester.h",
+            "Validation/RecoJets/plugins/JetTesterPostProcessor.cc",
+            "Validation/RecoJets/python/hltJetValidation_cff.py",
+            "Validation/RecoJets/scripts/makeHLTJetValidationPlots.py"
+        ],
+        "created_at": 1754980562,
+        "number": 48722,
+        "state": "open",
+        "updated_at": 1754980584
     }
 }
