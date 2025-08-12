@@ -2631,6 +2631,7 @@
             "Geometry/HGCalMapping/plugins/BuildFile.xml",
             "Geometry/HGCalMapping/plugins/HGCalMappingTriggerESProducer.cc",
             "Geometry/HGCalMapping/plugins/alpaka/HGCalDenseIndexTriggerInfoESProducer.cc",
+            "Geometry/HGCalMapping/plugins/alpaka/HGCalMappingCellESProducer.cc",
             "Geometry/HGCalMapping/plugins/alpaka/HGCalMappingTriggerModuleESProducer.cc",
             "Geometry/HGCalMapping/python/hgcalmapping_cff.py",
             "Geometry/HGCalMapping/test/BuildFile.xml",
@@ -2640,7 +2641,7 @@
         "created_at": 1753790701,
         "number": 48648,
         "state": "open",
-        "updated_at": 1753993425
+        "updated_at": 1754981535
     },
     "48654": {
         "base_branch": "master",
