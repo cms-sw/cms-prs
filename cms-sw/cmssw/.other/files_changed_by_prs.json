@@ -3125,13 +3125,14 @@
             "RecoTracker/FinalTrackSelectors/plugins/TrackListMerger.cc",
             "RecoTracker/MeasurementDet/plugins/MeasurementTrackerEventProducer.cc",
             "RecoTracker/TkSeedGenerator/plugins/SeedCombiner.cc",
+            "SimTracker/TrackerHitAssociation/plugins/ClusterTPAssociationProducer.cc",
             "Validation/HcalDigis/src/HcalDigisValidation.cc",
             "Validation/HcalDigis/test/HcalDigiStudy.cc"
         ],
         "created_at": 1755025733,
         "number": 48730,
         "state": "open",
-        "updated_at": 1755025757
+        "updated_at": 1755084116
     },
     "48731": {
         "base_branch": "master",
