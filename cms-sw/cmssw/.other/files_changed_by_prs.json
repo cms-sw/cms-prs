@@ -2682,23 +2682,6 @@
         "state": "open",
         "updated_at": 1754387318
     },
-    "48672": {
-        "base_branch": "CMSSW_15_0_X",
-        "changed_files_names": [
-            "Configuration/PyReleaseValidation/python/relval_nano.py",
-            "DPGAnalysis/MuonTools/plugins/BuildFile.xml",
-            "DPGAnalysis/MuonTools/plugins/MuDTSegmentExtTableProducer.cc",
-            "DPGAnalysis/MuonTools/plugins/MuGEML1FETableProducer.cc",
-            "DPGAnalysis/MuonTools/python/muNtupleProducerBkg_cff.py",
-            "DPGAnalysis/MuonTools/python/nano_mu_global_cff.py",
-            "DPGAnalysis/MuonTools/python/nano_mu_local_reco_cff.py",
-            "PhysicsTools/NanoAOD/plugins/LHCInfoProducer.cc"
-        ],
-        "created_at": 1754381740,
-        "number": 48672,
-        "state": "open",
-        "updated_at": 1754395836
-    },
     "48678": {
         "base_branch": "master",
         "changed_files_names": [
