@@ -3102,5 +3102,28 @@
         "number": 48744,
         "state": "open",
         "updated_at": 1755261798
+    },
+    "48745": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/StandardSequences/python/Validation_cff.py",
+            "HLTriggerOffline/JetMET/python/Validation/HLTJetMETValidation_cff.py",
+            "HLTriggerOffline/JetMET/src/HLTJetMETValidation.cc",
+            "Validation/RecoJets/plugins/JetTester.cc",
+            "Validation/RecoJets/plugins/JetTester.h",
+            "Validation/RecoJets/plugins/JetTesterPostProcessor.cc",
+            "Validation/RecoJets/python/hltJetValidation_cff.py",
+            "Validation/RecoJets/scripts/makeHLTJetValidationPlots.py",
+            "Validation/RecoMET/plugins/METTester.cc",
+            "Validation/RecoMET/plugins/METTester.h",
+            "Validation/RecoMET/plugins/METTesterPostProcessor.cc",
+            "Validation/RecoMET/plugins/METTesterPostProcessor.h",
+            "Validation/RecoMET/plugins/METTesterPostProcessorHarvesting.h",
+            "Validation/RecoMET/python/hltMETValidation_cff.py"
+        ],
+        "created_at": 1755264190,
+        "number": 48745,
+        "state": "open",
+        "updated_at": 1755264207
     }
 }
