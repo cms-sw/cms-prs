@@ -3156,5 +3156,16 @@
         "number": 48748,
         "state": "open",
         "updated_at": 1755266753
+    },
+    "48749": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "Alignment/OfflineValidation/bin/PVmerge.cc",
+            "Alignment/OfflineValidation/macros/FitPVResiduals.C"
+        ],
+        "created_at": 1755275230,
+        "number": 48749,
+        "state": "open",
+        "updated_at": 1755275256
     }
 }
