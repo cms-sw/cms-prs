@@ -2883,31 +2883,6 @@
         "state": "open",
         "updated_at": 1755175686
     },
-    "48740": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DataFormats/Provenance/interface/ProductResolverIndexHelper.h",
-            "DataFormats/Provenance/src/ProductRegistry.cc",
-            "DataFormats/Provenance/src/ProductResolverIndexHelper.cc",
-            "DataFormats/Provenance/test/BuildFile.xml",
-            "DataFormats/Provenance/test/productResolverIndexHelper_t.cpp",
-            "DataFormats/Provenance/test/productResolverIndexHelper_t.cppunit.cc",
-            "FWCore/Framework/src/ProductResolvers.cc",
-            "FWCore/Framework/test/edconsumerbase_t.cppunit.cc",
-            "FWCore/Framework/test/stubs/TestFilterModule.cc",
-            "FWCore/Integration/test/BuildFile.xml",
-            "FWCore/Integration/test/run_TestFallback.sh",
-            "FWCore/Integration/test/testNoProcessFallback1_cfg.py",
-            "FWCore/Integration/test/testNoProcessFallback2_cfg.py",
-            "FWCore/Integration/test/testNoProcessFallback3_cfg.py",
-            "FWCore/Integration/test/testNoProcessFallbackNoCurrent_cfg.py",
-            "FWCore/Modules/src/EventIDFilter.cc"
-        ],
-        "created_at": 1755188832,
-        "number": 48740,
-        "state": "open",
-        "updated_at": 1755188855
-    },
     "48741": {
         "base_branch": "CMSSW_12_4_X",
         "changed_files_names": [
