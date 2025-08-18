@@ -2855,28 +2855,6 @@
         "state": "open",
         "updated_at": 1755024855
     },
-    "48730": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "Calibration/EcalAlCaRecoProducers/plugins/SelectedElectronFEDListProducer.cc",
-            "FWCore/Utilities/interface/InputTag.h",
-            "FWCore/Utilities/src/InputTag.cc",
-            "HLTrigger/Muon/plugins/HLTMuonTrkFilter.cc",
-            "HLTrigger/Muon/plugins/HLTMuonTrkL1TFilter.cc",
-            "HLTrigger/Muon/plugins/HLTMuonTrkL1TkMuFilter.cc",
-            "L1Trigger/L1TGlobal/plugins/L1TExtCondProducer.cc",
-            "RecoTracker/FinalTrackSelectors/plugins/TrackListMerger.cc",
-            "RecoTracker/MeasurementDet/plugins/MeasurementTrackerEventProducer.cc",
-            "RecoTracker/TkSeedGenerator/plugins/SeedCombiner.cc",
-            "SimTracker/TrackerHitAssociation/plugins/ClusterTPAssociationProducer.cc",
-            "Validation/HcalDigis/src/HcalDigisValidation.cc",
-            "Validation/HcalDigis/test/HcalDigiStudy.cc"
-        ],
-        "created_at": 1755025733,
-        "number": 48730,
-        "state": "open",
-        "updated_at": 1755084116
-    },
     "48734": {
         "base_branch": "master",
         "changed_files_names": [
