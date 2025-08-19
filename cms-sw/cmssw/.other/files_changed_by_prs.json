@@ -2531,29 +2531,6 @@
         "state": "open",
         "updated_at": 1754291602
     },
-    "48678": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "CondTools/RunInfo/plugins/BuildFile.xml",
-            "CondTools/RunInfo/plugins/LHCInfoAnalyzer.cc",
-            "CondTools/RunInfo/plugins/LHCInfoPerFillAnalyzer.cc",
-            "CondTools/RunInfo/plugins/LHCInfoPerFillTester.cc",
-            "CondTools/RunInfo/plugins/LHCInfoPerLSAnalyzer.cc",
-            "CondTools/RunInfo/plugins/LHCInfoPerLSTester.cc",
-            "CondTools/RunInfo/python/LHCInfoAnalyzer_cfg.py",
-            "CondTools/RunInfo/test/LHCInfoPerFillAnalyzer_cfg.py",
-            "CondTools/RunInfo/test/LHCInfoPerFillTester_cfg.py",
-            "CondTools/RunInfo/test/LHCInfoPerLSAnalyzer_cfg.py",
-            "CondTools/RunInfo/test/LHCInfoPerLSTester_cfg.py",
-            "CondTools/RunInfo/test/printLHCInfoPerPayloads.py",
-            "CondTools/RunInfo/test/summarizePerLSPopConValidityLogs.sh",
-            "CondTools/RunInfo/test/test_lhcInfo.sh"
-        ],
-        "created_at": 1754469250,
-        "number": 48678,
-        "state": "open",
-        "updated_at": 1754638575
-    },
     "48679": {
         "base_branch": "master",
         "changed_files_names": [
