@@ -2825,10 +2825,6 @@
     "48756": {
         "base_branch": "master",
         "changed_files_names": [
-            "Configuration/PyReleaseValidation/README.md",
-            "Configuration/PyReleaseValidation/python/relval_Run4.py",
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
-            "Configuration/PyReleaseValidation/scripts/runTheMatrix.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltMergeLayerClusters_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/paths/DST_PFScouting_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTTICLLocalRecoSequence_cfi.py"
@@ -2836,7 +2832,7 @@
         "created_at": 1755507554,
         "number": 48756,
         "state": "open",
-        "updated_at": 1755527617
+        "updated_at": 1755699772
     },
     "48758": {
         "base_branch": "master",
