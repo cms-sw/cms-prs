@@ -2950,5 +2950,32 @@
         "number": 48767,
         "state": "open",
         "updated_at": 1755620922
+    },
+    "48768": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HeterogeneousCore/AlpakaCore/README.md",
+            "HeterogeneousCore/CUDACore/README.md",
+            "HeterogeneousCore/CUDACore/python/SwitchProducerCUDA.py",
+            "HeterogeneousCore/CUDACore/test/test_ProcessAcceleratorCUDA.cc",
+            "HeterogeneousCore/CUDATest/python/prod1CPU_cfi.py",
+            "HeterogeneousCore/CUDATest/python/prod1CUDA_cfi.py",
+            "HeterogeneousCore/CUDATest/python/prod1FromCUDA_cfi.py",
+            "HeterogeneousCore/CUDATest/python/prod1Switch_cff.py",
+            "HeterogeneousCore/CUDATest/python/prod5CPU_cfi.py",
+            "HeterogeneousCore/CUDATest/python/prod5CUDA_cfi.py",
+            "HeterogeneousCore/CUDATest/python/prod5FromCUDA_cfi.py",
+            "HeterogeneousCore/CUDATest/python/prod5Switch_cff.py",
+            "HeterogeneousCore/CUDATest/test/BuildFile.xml",
+            "HeterogeneousCore/CUDATest/test/reader.py",
+            "HeterogeneousCore/CUDATest/test/runtests.sh",
+            "HeterogeneousCore/CUDATest/test/testCUDASwitch_cfg.py",
+            "HeterogeneousCore/CUDATest/test/testHeterogeneousCoreCUDATestWriteRead.sh",
+            "HeterogeneousCore/CUDATest/test/writer.py"
+        ],
+        "created_at": 1755690644,
+        "number": 48768,
+        "state": "open",
+        "updated_at": 1755690668
     }
 }
