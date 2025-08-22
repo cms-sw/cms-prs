@@ -2804,5 +2804,37 @@
         "number": 48784,
         "state": "open",
         "updated_at": 1755864370
+    },
+    "48785": {
+        "base_branch": "master",
+        "changed_files_names": [
+            ".gitignore",
+            "SimPPS/DirectSimProducer/cutFiles/thetaphibottleneck_-160urad_18cm_60cm_calib-nodet-xrphd-64bins.out",
+            "SimPPS/DirectSimProducer/cutFiles/thetaphibottleneck_-160urad_18cm_60cm_phys-nodet-xrphd-64bins.out",
+            "SimPPS/DirectSimProducer/cutFiles/thetaphilimits_-160urad_18cm_60cm_calib-nodet-xrphd-64bins.out",
+            "SimPPS/DirectSimProducer/cutFiles/thetaphilimits_-160urad_18cm_60cm_calib-nodet-xrphd.out",
+            "SimPPS/DirectSimProducer/cutFiles/thetaphilimits_-160urad_18cm_60cm_phys-nodet-xrphd-64bins.out",
+            "SimPPS/DirectSimProducer/cutFiles/thetaphilimits_-160urad_18cm_60cm_phys-nodet-xrphd.out",
+            "SimPPS/DirectSimProducer/plugins/CTPPSGregDucer.cc",
+            "SimPPS/DirectSimProducer/python/ctppsGregDucer_cfi.py",
+            "Validation/CTPPS/plugins/CTPPSGregPlotter.cc",
+            "Validation/CTPPS/python/ctppsGregPlotter_cfi.py",
+            "Validation/CTPPS/test/simu/.gitattributes",
+            "Validation/CTPPS/test/simu/.simu_2018_cfg.py.swo",
+            "Validation/CTPPS/test/simu/ReadMe.pdf",
+            "Validation/CTPPS/test/simu/debug.txt",
+            "Validation/CTPPS/test/simu/plotGreg.py",
+            "Validation/CTPPS/test/simu/plotProtons.py",
+            "Validation/CTPPS/test/simu/plotTracks.py",
+            "Validation/CTPPS/test/simu/run_multiple",
+            "Validation/CTPPS/test/simu/simu_2018.log",
+            "Validation/CTPPS/test/simu/simu_2018_cfg.py",
+            "Validation/CTPPS/test/simu/test.txt",
+            "Validation/CTPPS/test/simu/your_histogram_name_comparison.png"
+        ],
+        "created_at": 1755869691,
+        "number": 48785,
+        "state": "open",
+        "updated_at": 1755869712
     }
 }
