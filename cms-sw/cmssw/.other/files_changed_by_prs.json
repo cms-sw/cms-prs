@@ -2719,23 +2719,14 @@
         "base_branch": "master",
         "changed_files_names": [
             "DQMServices/Components/plugins/DQMGenericClient.cc",
-            "HLTriggerOffline/Common/python/HLTValidationHarvest_cff.py",
-            "HLTriggerOffline/Common/python/HLTValidation_cff.py",
-            "HLTriggerOffline/JetMET/python/Validation/HLTJetMETPostVal_cff.py",
-            "HLTriggerOffline/JetMET/python/Validation/HLTJetMETValidation_cff.py",
-            "HLTriggerOffline/JetMET/python/Validation/JetMETPostProcessor_cff.py",
-            "HLTriggerOffline/JetMET/src/HLTJetMETValidation.cc",
             "Validation/RecoJets/plugins/JetTester.cc",
             "Validation/RecoJets/plugins/JetTester.h",
-            "Validation/RecoJets/plugins/JetTesterPostProcessor.cc",
-            "Validation/RecoJets/python/hltJetPostProcessor_cff.py",
-            "Validation/RecoJets/python/hltJetValidation_cff.py",
             "Validation/RecoJets/scripts/makeHLTJetValidationPlots.py"
         ],
         "created_at": 1755873923,
         "number": 48786,
         "state": "open",
-        "updated_at": 1755873953
+        "updated_at": 1756147614
     },
     "48787": {
         "base_branch": "master",
