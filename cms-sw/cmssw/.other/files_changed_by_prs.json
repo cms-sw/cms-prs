@@ -2779,5 +2779,19 @@
         "number": 48809,
         "state": "open",
         "updated_at": 1756277662
+    },
+    "48811": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoHGCal/TICL/interface/SuperclusteringDNNInputs.h",
+            "RecoHGCal/TICL/plugins/SuperclusteringSampleDumper.cc",
+            "RecoHGCal/TICL/plugins/TracksterLinkingbySuperClusteringDNN.cc",
+            "RecoHGCal/TICL/python/superclustering_cff.py",
+            "RecoHGCal/TICL/src/SuperclusteringDNNInputs.cc"
+        ],
+        "created_at": 1756288930,
+        "number": 48811,
+        "state": "open",
+        "updated_at": 1756288956
     }
 }
