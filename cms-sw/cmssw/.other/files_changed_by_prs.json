@@ -2622,9 +2622,11 @@
             "FWCore/Integration/test/testNoProcessFallback3_cfg.py",
             "FWCore/Integration/test/testNoProcessFallbackNoCurrent_cfg.py",
             "FWCore/Integration/test/testProcessBlockNOMergeOfMergedFiles_cfg.py",
+            "FWCore/Sources/src/DaqProvenanceHelper.cc",
             "FWCore/Sources/src/PuttableSourceBase.cc",
             "FWCore/TestProcessor/src/TestProcessor.cc",
             "GeneratorInterface/Core/plugins/GeneratorSmearedProducer.cc",
+            "GeneratorInterface/LHEInterface/plugins/LHEProvenanceHelper.cc",
             "IOPool/Input/src/RootFile.cc",
             "IOPool/Input/src/RootFile.h",
             "IOPool/Input/src/RootPrimaryFileSequence.cc",
@@ -2633,7 +2635,7 @@
         "created_at": 1756227148,
         "number": 48807,
         "state": "open",
-        "updated_at": 1756319639
+        "updated_at": 1756323645
     },
     "48808": {
         "base_branch": "master",
