@@ -2793,5 +2793,21 @@
         "number": 48811,
         "state": "open",
         "updated_at": 1756288956
+    },
+    "48812": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondFormats/HGCalObjects/interface/HGCalMappingModuleIndexer.h",
+            "CondFormats/HGCalObjects/src/HGCalMappingModuleIndexer.cc",
+            "DataFormats/HGCalDigi/interface/HGCalFEDPacketInfoSoA.h",
+            "EventFilter/HGCalRawToDigi/plugins/HGCalRawToDigi.cc",
+            "EventFilter/HGCalRawToDigi/src/HGCalUnpacker.cc",
+            "EventFilter/Utilities/src/DAQSourceModelsDTH.cc",
+            "Geometry/HGCalMapping/test/HGCalMappingESSourceTester.cc"
+        ],
+        "created_at": 1756292131,
+        "number": 48812,
+        "state": "open",
+        "updated_at": 1756292164
     }
 }
