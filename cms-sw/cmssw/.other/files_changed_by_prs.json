@@ -2734,5 +2734,21 @@
         "number": 48816,
         "state": "open",
         "updated_at": 1756395341
+    },
+    "48817": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/TestObjects/interface/SchemaEvolutionTestObjects.h",
+            "DataFormats/TestObjects/src/SchemaEvolutionTestObjects.cc",
+            "DataFormats/TestObjects/src/classes_def.xml",
+            "IOPool/Input/test/SchemaEvolutionTestRead.cc",
+            "IOPool/Input/test/SchemaEvolutionTestWrite.cc",
+            "IOPool/Input/test/SchemaEvolution_test_read_cfg.py",
+            "IOPool/Input/test/testSchemaEvolution.sh"
+        ],
+        "created_at": 1756406476,
+        "number": 48817,
+        "state": "open",
+        "updated_at": 1756406512
     }
 }
