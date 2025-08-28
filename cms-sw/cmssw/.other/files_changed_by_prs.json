@@ -2637,6 +2637,8 @@
     "48811": {
         "base_branch": "master",
         "changed_files_names": [
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTHgcalTiclPFClusteringForEgammaL1SeededSequence_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTHgcalTiclPFClusteringForEgammaUnseededSequence_cfi.py",
             "RecoHGCal/TICL/interface/SuperclusteringDNNInputs.h",
             "RecoHGCal/TICL/plugins/SuperclusteringSampleDumper.cc",
             "RecoHGCal/TICL/plugins/TracksterLinkingbySuperClusteringDNN.cc",
@@ -2646,7 +2648,7 @@
         "created_at": 1756288930,
         "number": 48811,
         "state": "open",
-        "updated_at": 1756288956
+        "updated_at": 1756381667
     },
     "48812": {
         "base_branch": "master",
