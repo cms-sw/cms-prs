@@ -2701,6 +2701,7 @@
         "changed_files_names": [
             "DataFormats/TestObjects/interface/SchemaEvolutionTestObjects.h",
             "DataFormats/TestObjects/src/SchemaEvolutionTestObjects.cc",
+            "DataFormats/TestObjects/src/classes.h",
             "DataFormats/TestObjects/src/classes_def.xml",
             "IOPool/Input/test/SchemaEvolutionTestRead.cc",
             "IOPool/Input/test/SchemaEvolutionTestWrite.cc",
@@ -2710,7 +2711,7 @@
         "created_at": 1756406476,
         "number": 48817,
         "state": "open",
-        "updated_at": 1756406512
+        "updated_at": 1756467730
     },
     "48818": {
         "base_branch": "CMSSW_15_1_RNTUPLE_X",
