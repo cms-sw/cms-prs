@@ -2755,5 +2755,34 @@
         "number": 48825,
         "state": "open",
         "updated_at": 1756718010
+    },
+    "48826": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/Common/interface/MultiVectorManager.h",
+            "CommonTools/RecoAlgos/interface/MultiVectorManager.h",
+            "DataFormats/HGCalReco/interface/Trackster.h",
+            "RecoHGCal/TICL/interface/TICLInterpretationAlgoBase.h",
+            "RecoHGCal/TICL/interface/TracksterLinkingAlgoBase.h",
+            "RecoHGCal/TICL/plugins/TICLCandidateProducer.cc",
+            "RecoHGCal/TICL/plugins/TracksterLinksProducer.cc",
+            "RecoLocalCalo/HGCalRecProducers/plugins/RecHitMapProducer.cc",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/AllHitToTracksterAssociatorsProducer.cc",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/AllTracksterToSimTracksterAssociatorsByHitsProducer.cc",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/HitToLayerClusterAssociatorProducer.cc",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/HitToLayerClusterAssociatorProducer.h",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/HitToSimClusterCaloParticleAssociatorProducer.cc",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/HitToSimClusterCaloParticleAssociatorProducer.h",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/HitToTracksterAssociatorProducer.cc",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/HitToTracksterAssociatorProducer.h",
+            "Validation/HGCalValidation/interface/BarrelVHistoProducerAlgo.h",
+            "Validation/HGCalValidation/interface/BarrelValidator.h",
+            "Validation/HGCalValidation/interface/HGCalValidator.h",
+            "Validation/HGCalValidation/interface/HGVHistoProducerAlgo.h"
+        ],
+        "created_at": 1756721362,
+        "number": 48826,
+        "state": "open",
+        "updated_at": 1756721388
     }
 }
