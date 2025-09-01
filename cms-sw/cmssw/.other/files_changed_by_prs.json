@@ -1553,9 +1553,6 @@
             "RecoLocalTracker/SiStripClusterizer/plugins/BuildFile.xml",
             "RecoLocalTracker/SiStripClusterizer/plugins/SiStripClustersToLegacy.cc",
             "RecoLocalTracker/SiStripClusterizer/plugins/alpaka/SiStripClusterizerConditionsESProducerAlpaka.cc",
-            "RecoLocalTracker/SiStripClusterizer/plugins/alpaka/SiStripClustersToLegacy2.cc",
-            "RecoLocalTracker/SiStripClusterizer/plugins/alpaka/SiStripClustersToLegacyAlgo.dev.cc",
-            "RecoLocalTracker/SiStripClusterizer/plugins/alpaka/SiStripClustersToLegacyAlgo.h",
             "RecoLocalTracker/SiStripClusterizer/plugins/alpaka/SiStripRawToCluster.cc",
             "RecoLocalTracker/SiStripClusterizer/plugins/alpaka/SiStripRawToClusterAlgo.dev.cc",
             "RecoLocalTracker/SiStripClusterizer/plugins/alpaka/SiStripRawToClusterAlgo.h",
@@ -1567,7 +1564,7 @@
         "created_at": 1742404155,
         "number": 47629,
         "state": "open",
-        "updated_at": 1756218203
+        "updated_at": 1756700321
     },
     "47708": {
         "base_branch": "master",
