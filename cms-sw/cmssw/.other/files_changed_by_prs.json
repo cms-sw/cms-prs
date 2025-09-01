@@ -2766,6 +2766,7 @@
             "RecoHGCal/TICL/interface/TracksterLinkingAlgoBase.h",
             "RecoHGCal/TICL/plugins/TICLCandidateProducer.cc",
             "RecoHGCal/TICL/plugins/TracksterLinksProducer.cc",
+            "RecoLocalCalo/HGCalRecAlgos/interface/ClusterTools.h",
             "RecoLocalCalo/HGCalRecProducers/plugins/RecHitMapProducer.cc",
             "SimCalorimetry/HGCalAssociatorProducers/plugins/AllHitToTracksterAssociatorsProducer.cc",
             "SimCalorimetry/HGCalAssociatorProducers/plugins/AllTracksterToSimTracksterAssociatorsByHitsProducer.cc",
@@ -2783,6 +2784,6 @@
         "created_at": 1756721362,
         "number": 48826,
         "state": "open",
-        "updated_at": 1756721388
+        "updated_at": 1756725123
     }
 }
