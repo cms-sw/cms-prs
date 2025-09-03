@@ -2774,5 +2774,28 @@
         "number": 48833,
         "state": "open",
         "updated_at": 1756849764
+    },
+    "48835": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoTracker/LSTCore/interface/SegmentsSoA.h",
+            "RecoTracker/LSTCore/src/alpaka/Segment.h",
+            "RecoTracker/LSTCore/standalone/analysis/DNN/embed_train.ipynb",
+            "RecoTracker/LSTCore/standalone/analysis/DNN/train_pT3_DNN.ipynb",
+            "RecoTracker/LSTCore/standalone/bin/lst.cc",
+            "RecoTracker/LSTCore/standalone/code/core/AnalysisConfig.h",
+            "RecoTracker/LSTCore/standalone/code/core/trkCore.cc",
+            "RecoTracker/LSTCore/standalone/code/core/trkCore.h",
+            "RecoTracker/LSTCore/standalone/code/core/write_lst_ntuple.cc",
+            "RecoTracker/LSTCore/standalone/code/core/write_lst_ntuple.h",
+            "RecoTracker/LSTCore/standalone/code/rooutil/treeutil.cc",
+            "RecoTracker/LSTCore/standalone/code/rooutil/treeutil.h",
+            "RecoTracker/LSTCore/standalone/efficiency/python/lst_plot_performance.py",
+            "RecoTracker/LSTCore/standalone/efficiency/src/performance.cc"
+        ],
+        "created_at": 1756898988,
+        "number": 48835,
+        "state": "open",
+        "updated_at": 1756899018
     }
 }
