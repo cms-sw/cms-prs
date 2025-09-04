@@ -2298,7 +2298,10 @@
     "48648": {
         "base_branch": "master",
         "changed_files_names": [
+            "CondFormats/HGCalObjects/interface/HGCalDenseIndexerBase.h",
+            "CondFormats/HGCalObjects/interface/HGCalMappingCellIndexer.h",
             "CondFormats/HGCalObjects/interface/HGCalMappingCellIndexerTrigger.h",
+            "CondFormats/HGCalObjects/interface/HGCalMappingModuleIndexer.h",
             "CondFormats/HGCalObjects/interface/HGCalMappingModuleIndexerTrigger.h",
             "CondFormats/HGCalObjects/interface/HGCalMappingParameterHost.h",
             "CondFormats/HGCalObjects/interface/HGCalMappingParameterSoA.h",
@@ -2309,24 +2312,35 @@
             "CondFormats/HGCalObjects/src/alpaka/HGCalMappingParameterDevice.cc",
             "CondFormats/HGCalObjects/src/classes_def.xml",
             "CondFormats/HGCalObjects/src/headers.h",
+            "CondFormats/HGCalObjects/test/testDenseIndexerBase.cc",
             "CondFormats/HGCalObjects/test/testSerializationHGCalCondDataFormats.cc",
             "DataFormats/HGCalDigi/interface/HGCalDigiTriggerHost.h",
             "DataFormats/HGCalDigi/interface/HGCalDigiTriggerSoA.h",
             "DataFormats/HGCalDigi/interface/alpaka/HGCalDigiTriggerDevice.h",
             "Geometry/HGCalMapping/plugins/BuildFile.xml",
+            "Geometry/HGCalMapping/plugins/HGCalMappingESProducer.cc",
             "Geometry/HGCalMapping/plugins/HGCalMappingTriggerESProducer.cc",
+            "Geometry/HGCalMapping/plugins/alpaka/HGCalDenseIndexInfoESProducer.cc",
             "Geometry/HGCalMapping/plugins/alpaka/HGCalDenseIndexTriggerInfoESProducer.cc",
             "Geometry/HGCalMapping/plugins/alpaka/HGCalMappingCellESProducer.cc",
+            "Geometry/HGCalMapping/plugins/alpaka/HGCalMappingModuleESProducer.cc",
             "Geometry/HGCalMapping/plugins/alpaka/HGCalMappingTriggerModuleESProducer.cc",
             "Geometry/HGCalMapping/python/hgcalmapping_cff.py",
             "Geometry/HGCalMapping/test/BuildFile.xml",
+            "Geometry/HGCalMapping/test/HGCalMappingESSourceTester.cc",
             "Geometry/HGCalMapping/test/HGCalMappingTriggerESSourceTester.cc",
-            "Geometry/HGCalMapping/test/testMappingModuleIndexerTrigger_cfg.py"
+            "Geometry/HGCalMapping/test/alpaka/HGCalMappingESSourceTester.cc",
+            "Geometry/HGCalMapping/test/testMappingModuleIndexerTrigger_cfg.py",
+            "Geometry/HGCalMapping/test/testMappingModuleIndexer_cfg.py",
+            "RecoLocalCalo/HGCalRecAlgos/interface/RecHitTools.h",
+            "RecoLocalCalo/HGCalRecAlgos/plugins/HGCalConfigurationESProducer.cc",
+            "RecoLocalCalo/HGCalRecAlgos/plugins/alpaka/HGCalRecHitCalibrationESProducer.cc",
+            "RecoLocalCalo/HGCalRecAlgos/test/alpaka/HGCalRecHitESProducersTest.cc"
         ],
         "created_at": 1753790701,
         "number": 48648,
         "state": "open",
-        "updated_at": 1755604715
+        "updated_at": 1756997439
     },
     "48708": {
         "base_branch": "CMSSW_15_0_X",
