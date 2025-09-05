@@ -2829,5 +2829,18 @@
         "number": 48846,
         "state": "open",
         "updated_at": 1757006047
+    },
+    "48848": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "DQM/Integration/python/clients/sistrip_dqm_sourceclient-live_cfg.py",
+            "DQM/TrackingMonitorClient/data/tracking_qualitytest_config_tier0_cosmic.xml",
+            "RecoTracker/SpecialSeedGenerators/python/SimpleCosmicBONSeeder_cfi.py",
+            "RecoTracker/SpecialSeedGenerators/src/SimpleCosmicBONSeeder.cc"
+        ],
+        "created_at": 1757060339,
+        "number": 48848,
+        "state": "open",
+        "updated_at": 1757060365
     }
 }
