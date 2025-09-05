@@ -2207,9 +2207,6 @@
         "base_branch": "master",
         "changed_files_names": [
             "DataFormats/Common/interface/ValueMap.h",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltMergeLayerClusters_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/paths/DST_PFScouting_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTTICLLocalRecoSequence_cfi.py",
             "RecoLocalCalo/HGCalRecAlgos/src/RecHitTools.cc",
             "RecoLocalCalo/HGCalRecProducers/plugins/RecHitMapProducer.cc",
             "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToCPAssociatorByEnergyScoreImpl.cc",
@@ -2237,7 +2234,7 @@
         "created_at": 1752747765,
         "number": 48565,
         "state": "open",
-        "updated_at": 1755498906
+        "updated_at": 1757051418
     },
     "48587": {
         "base_branch": "master",
