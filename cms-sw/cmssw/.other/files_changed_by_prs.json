@@ -2855,5 +2855,21 @@
         "number": 48849,
         "state": "open",
         "updated_at": 1757060840
+    },
+    "48850": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQM/HLTEvF/python/ScoutingElectronMonitoring_cff.py",
+            "DQM/Integration/python/clients/scouting_dqm_sourceclient-live_cfg.py",
+            "HLTriggerOffline/Scouting/plugins/ScoutingEGammaCollectionMonitoring.cc",
+            "HLTriggerOffline/Scouting/plugins/ScoutingElectronTagProbeAnalyzer.cc",
+            "HLTriggerOffline/Scouting/python/HLTScoutingEGammaDqmOffline_cff.py",
+            "HLTriggerOffline/Scouting/python/ScoutingEGammaCollectionMonitoring_cfi.py",
+            "HLTriggerOffline/Scouting/python/ScoutingElectronTagProbeAnalyzer_cfi.py"
+        ],
+        "created_at": 1757064930,
+        "number": 48850,
+        "state": "open",
+        "updated_at": 1757064957
     }
 }
