@@ -1910,11 +1910,11 @@
             "DataFormats/SiPixelDigiSoA/interface/SiPixelDigiErrorsHost.h",
             "DataFormats/SoATemplate/interface/SoACommon.h",
             "DataFormats/SoATemplate/interface/SoALayout.h",
-            "DataFormats/TrackingRecHitSoA/interface/TrackingRecHitsDevice.h",
-            "DataFormats/TrackingRecHitSoA/interface/TrackingRecHitsHost.h",
             "DataFormats/TrackingRecHitSoA/test/alpaka/Hits_test.cc",
             "EventFilter/EcalRawToDigi/plugins/EcalDigisFromPortableProducer.cc",
             "EventFilter/EcalRawToDigi/plugins/alpaka/UnpackPortable.dev.cc",
+            "HeterogeneousCore/AlpakaInterface/README.md",
+            "HeterogeneousCore/AlpakaInterface/interface/memory.h",
             "HeterogeneousCore/AlpakaTest/plugins/TestAlpakaAnalyzer.cc",
             "HeterogeneousCore/CUDATest/plugins/TestPortableAnalyzer.cc",
             "RecoLocalCalo/EcalRecProducers/plugins/alpaka/AmplitudeComputationCommonKernels.h",
@@ -1923,7 +1923,6 @@
             "RecoLocalCalo/EcalRecProducers/plugins/alpaka/TimeComputationKernels.h",
             "RecoLocalCalo/HGCalRecAlgos/plugins/alpaka/HGCalRecHitCalibrationESProducer.cc",
             "RecoLocalCalo/HGCalRecProducers/plugins/alpaka/HGCalLayerClustersAlgoWrapper.dev.cc",
-            "RecoLocalCalo/HGCalRecProducers/plugins/alpaka/HGCalLayerClustersSoAAlgoWrapper.dev.cc",
             "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.cu",
             "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToCluster.cc",
             "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToClusterKernel.dev.cc",
@@ -1966,7 +1965,7 @@
         "created_at": 1750407215,
         "number": 48377,
         "state": "open",
-        "updated_at": 1755872773
+        "updated_at": 1757081743
     },
     "48383": {
         "base_branch": "master",
