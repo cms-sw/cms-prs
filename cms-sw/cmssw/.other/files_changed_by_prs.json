@@ -2898,5 +2898,18 @@
         "number": 48853,
         "state": "open",
         "updated_at": 1757083917
+    },
+    "48854": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HeterogeneousCore/AlpakaInterface/interface/debug.h",
+            "RecoTracker/PixelSeeding/plugins/alpaka/BrokenLineFit.dev.cc",
+            "RecoVertex/PixelVertexFinding/plugins/alpaka/clusterTracksByDensity.h",
+            "RecoVertex/PixelVertexFinding/plugins/alpaka/clusterTracksDBSCAN.h"
+        ],
+        "created_at": 1757084453,
+        "number": 48854,
+        "state": "open",
+        "updated_at": 1757084477
     }
 }
