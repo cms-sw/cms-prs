@@ -3008,5 +3008,29 @@
         "number": 48861,
         "state": "open",
         "updated_at": 1757328393
+    },
+    "48862": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/HGCalReco/interface/TICLCandidate.h",
+            "DataFormats/HGCalReco/interface/Trackster.h",
+            "DataFormats/HGCalReco/src/classes_def.xml",
+            "RecoHGCal/TICL/plugins/LinkingAlgoByDirectionGeometric.cc",
+            "RecoHGCal/TICL/plugins/SimTrackstersProducer.cc",
+            "RecoHGCal/TICL/plugins/TICLCandidateProducer.cc",
+            "RecoHGCal/TICL/plugins/TICLDumper.cc",
+            "RecoHGCal/TICL/plugins/TracksterGeneralTrackPlugin.cc",
+            "RecoHGCal/TICL/plugins/TrackstersMergeProducer.cc",
+            "Validation/HGCalValidation/interface/HGCalValidator.h",
+            "Validation/HGCalValidation/interface/TICLCandidateValidator.h",
+            "Validation/HGCalValidation/plugins/HGCalValidator.cc",
+            "Validation/HGCalValidation/python/PostProcessorHGCAL_cfi.py",
+            "Validation/HGCalValidation/python/hgcalPlots.py",
+            "Validation/HGCalValidation/src/TICLCandidateValidator.cc"
+        ],
+        "created_at": 1757331918,
+        "number": 48862,
+        "state": "open",
+        "updated_at": 1757331947
     }
 }
