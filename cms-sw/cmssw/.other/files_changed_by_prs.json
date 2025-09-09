@@ -3039,5 +3039,18 @@
         "number": 48876,
         "state": "open",
         "updated_at": 1757366847
+    },
+    "48877": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "DQMOffline/MuonDPG/plugins/GEMTnPEfficiencyTask.cc",
+            "DQMOffline/MuonDPG/python/gemTnPEfficiencyClient_cfi.py",
+            "DQMOffline/MuonDPG/python/gemTnPEfficiencyTask_cfi.py",
+            "RecoMuon/MuonIdentification/plugins/MuonIdProducer.cc"
+        ],
+        "created_at": 1757386964,
+        "number": 48877,
+        "state": "open",
+        "updated_at": 1757386989
     }
 }
