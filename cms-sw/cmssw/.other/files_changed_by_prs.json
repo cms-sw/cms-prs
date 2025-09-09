@@ -2897,14 +2897,13 @@
     "48861": {
         "base_branch": "master",
         "changed_files_names": [
+            "Calibration/LumiAlCaRecoProducers/data/FPix_ring1_modules.txt",
+            "Calibration/LumiAlCaRecoProducers/data/minimal_veto-2024.txt",
+            "Calibration/LumiAlCaRecoProducers/data/minimal_veto_frac_response-2024.txt",
             "Calibration/LumiAlCaRecoProducers/plugins/BuildFile.xml",
             "Calibration/LumiAlCaRecoProducers/plugins/DQMOneEDProducer.h",
             "Calibration/LumiAlCaRecoProducers/plugins/DynamicVetoProducer.cc",
             "Calibration/LumiAlCaRecoProducers/plugins/RawPCCProducerDynVeto.cc",
-            "Calibration/LumiAlCaRecoProducers/python/FPix_ring1_modules.txt",
-            "Calibration/LumiAlCaRecoProducers/python/minimal_veto-2024.txt",
-            "Calibration/LumiAlCaRecoProducers/python/minimal_veto_frac_response-2024.txt",
-            "Calibration/LumiAlCaRecoProducers/python/modList.txt",
             "Calibration/LumiAlCaRecoProducers/python/test_hlt.py",
             "Calibration/LumiAlCaRecoProducers/python/test_hlt_2.py",
             "Calibration/LumiAlCaRecoProducers/python/test_hlt_2_old.py",
@@ -2923,7 +2922,7 @@
         "created_at": 1757328360,
         "number": 48861,
         "state": "open",
-        "updated_at": 1757414464
+        "updated_at": 1757415588
     },
     "48862": {
         "base_branch": "master",
