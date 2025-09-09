@@ -2339,34 +2339,6 @@
         "state": "open",
         "updated_at": 1756997439
     },
-    "48708": {
-        "base_branch": "CMSSW_15_0_X",
-        "changed_files_names": [
-            "DQM/HcalCommon/interface/Constants.h",
-            "DQM/HcalCommon/interface/Utilities.h",
-            "DQM/HcalCommon/interface/ValueQuantity.h",
-            "DQM/HcalCommon/src/Utilities.cc",
-            "DQM/HcalTasks/interface/DigiTask.h",
-            "DQM/HcalTasks/interface/HFRaddamTask.h",
-            "DQM/HcalTasks/interface/LEDTask.h",
-            "DQM/HcalTasks/interface/LaserTask.h",
-            "DQM/HcalTasks/interface/UMNioTask.h",
-            "DQM/HcalTasks/plugins/DigiTask.cc",
-            "DQM/HcalTasks/plugins/HFRaddamTask.cc",
-            "DQM/HcalTasks/plugins/LEDTask.cc",
-            "DQM/HcalTasks/plugins/LaserTask.cc",
-            "DQM/HcalTasks/plugins/UMNioTask.cc",
-            "DQM/HcalTasks/python/DigiTask_cfi.py",
-            "DQM/HcalTasks/python/HFRaddamTask_cfi.py",
-            "DQM/HcalTasks/python/LEDTask_cfi.py",
-            "DQM/HcalTasks/src/DigiRunSummary.cc",
-            "DQM/Integration/python/clients/hcal_dqm_sourceclient-live_cfg.py"
-        ],
-        "created_at": 1754733989,
-        "number": 48708,
-        "state": "open",
-        "updated_at": 1756145337
-    },
     "48717": {
         "base_branch": "CMSSW_15_0_X",
         "changed_files_names": [
