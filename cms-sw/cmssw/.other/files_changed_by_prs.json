@@ -2330,12 +2330,14 @@
             "Geometry/HGCalMapping/test/testMappingModuleIndexerTrigger_cfg.py",
             "Geometry/HGCalMapping/test/testMappingModuleIndexer_cfg.py",
             "RecoLocalCalo/HGCalRecAlgos/interface/RecHitTools.h",
-            "RecoLocalCalo/HGCalRecAlgos/plugins/HGCalConfigurationESProducer.cc"
+            "RecoLocalCalo/HGCalRecAlgos/plugins/HGCalConfigurationESProducer.cc",
+            "RecoLocalCalo/HGCalRecAlgos/plugins/alpaka/HGCalRecHitCalibrationESProducer.cc",
+            "RecoLocalCalo/HGCalRecAlgos/test/alpaka/HGCalRecHitESProducersTest.cc"
         ],
         "created_at": 1753790701,
         "number": 48648,
         "state": "open",
-        "updated_at": 1757488050
+        "updated_at": 1757503583
     },
     "48717": {
         "base_branch": "CMSSW_15_0_X",
