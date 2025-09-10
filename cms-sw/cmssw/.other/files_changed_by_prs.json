@@ -2299,6 +2299,7 @@
             "DataFormats/HGCalDigi/interface/HGCalDigiTriggerHost.h",
             "DataFormats/HGCalDigi/interface/HGCalDigiTriggerSoA.h",
             "DataFormats/HGCalDigi/interface/alpaka/HGCalDigiTriggerDevice.h",
+            "Geometry/HGCalMapping/interface/HGCalMappingTools.h",
             "Geometry/HGCalMapping/plugins/BuildFile.xml",
             "Geometry/HGCalMapping/plugins/HGCalMappingESProducer.cc",
             "Geometry/HGCalMapping/plugins/HGCalMappingTriggerESProducer.cc",
@@ -2322,7 +2323,7 @@
         "created_at": 1753790701,
         "number": 48648,
         "state": "open",
-        "updated_at": 1757503583
+        "updated_at": 1757529563
     },
     "48717": {
         "base_branch": "CMSSW_15_0_X",
