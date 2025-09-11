@@ -1309,13 +1309,20 @@
     "47138": {
         "base_branch": "master",
         "changed_files_names": [
+            "Configuration/Eras/python/Era_Phase2_cff.py",
+            "Configuration/Eras/python/Era_Run3_2025_cff.py",
+            "Configuration/Eras/python/Modifier_phase2_RPC_cff.py",
+            "Configuration/Eras/python/Modifier_run3_RPC_2025_cff.py",
+            "RecoMuon/DetLayers/plugins/MuonDetLayerGeometryESProducer.cc",
+            "RecoMuon/DetLayers/python/muonDetLayerGeometry_cfi.py",
             "RecoMuon/DetLayers/src/MuRingForwardDoubleLayer.cc",
-            "RecoMuon/DetLayers/src/MuonRPCDetLayerGeometryBuilder.cc"
+            "RecoMuon/DetLayers/src/MuonRPCDetLayerGeometryBuilder.cc",
+            "RecoMuon/DetLayers/src/MuonRPCDetLayerGeometryBuilder.h"
         ],
         "created_at": 1737358688,
         "number": 47138,
         "state": "open",
-        "updated_at": 1739460652
+        "updated_at": 1757570028
     },
     "47348": {
         "base_branch": "master",
