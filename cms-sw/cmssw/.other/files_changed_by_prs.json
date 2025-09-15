@@ -3638,5 +3638,23 @@
         "number": 48926,
         "state": "open",
         "updated_at": 1757925709
+    },
+    "48927": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/CaloRecHit/interface/CaloClusterFwd.h",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToCPAssociatorByEnergyScoreImpl.cc",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToSCAssociatorByEnergyScoreImpl.cc",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToSimTSAssociatorByEnergyScoreImpl.cc",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToSimTSAssociatorByEnergyScoreImpl.h",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/TSToSCAssociatorByEnergyScoreImpl.h",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/TSToSimTSAssociatorByEnergyScoreImpl.h",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/TSToSimTSHitLCAssociatorByEnergyScoreImpl.h",
+            "SimDataFormats/Associations/interface/LayerClusterToCaloParticleAssociatorBaseImpl.h"
+        ],
+        "created_at": 1757926464,
+        "number": 48927,
+        "state": "open",
+        "updated_at": 1757926486
     }
 }
