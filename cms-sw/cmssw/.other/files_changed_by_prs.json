@@ -2927,6 +2927,7 @@
         "changed_files_names": [
             "Validation/RecoEgamma/plugins/ElectronMcSignalValidator.cc",
             "Validation/RecoEgamma/plugins/ElectronMcSignalValidator.h",
+            "Validation/RecoEgamma/python/ElectronMcSignalValidatorPt1000_gedGsfElectrons_cfi.py",
             "Validation/RecoEgamma/python/ElectronMcSignalValidator_gedGsfElectrons_cfi.py",
             "Validation/RecoEgamma/test/ElectronMcSignalHistos.txt",
             "Validation/RecoEgamma/test/ElectronMcSignalHistosPt1000.txt",
@@ -2936,7 +2937,7 @@
         "created_at": 1757676576,
         "number": 48907,
         "state": "open",
-        "updated_at": 1757676605
+        "updated_at": 1757923631
     },
     "48908": {
         "base_branch": "master",
