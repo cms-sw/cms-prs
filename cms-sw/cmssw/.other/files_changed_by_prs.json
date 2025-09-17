@@ -3642,5 +3642,17 @@
         "number": 48941,
         "state": "open",
         "updated_at": 1758036272
+    },
+    "48942": {
+        "base_branch": "CMSSW_15_1_X",
+        "changed_files_names": [
+            "Alignment/CommonAlignmentProducer/python/ALCARECOPromptCalibProdSiPixelAliHG_cff.py",
+            "Calibration/TkAlCaRecoProducers/python/ALCARECOPromptCalibProdSiStripGains_cff.py",
+            "Calibration/TkAlCaRecoProducers/python/ALCARECOPromptCalibProdSiStripHitEfficiency_cff.py"
+        ],
+        "created_at": 1758085070,
+        "number": 48942,
+        "state": "open",
+        "updated_at": 1758085138
     }
 }
