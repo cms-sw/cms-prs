@@ -2345,6 +2345,7 @@
             "CondFormats/HGCalObjects/interface/HGCalMappingParameterHost.h",
             "CondFormats/HGCalObjects/interface/HGCalMappingParameterSoA.h",
             "CondFormats/HGCalObjects/interface/alpaka/HGCalMappingParameterDevice.h",
+            "CondFormats/HGCalObjects/src/HGCalMappingModuleIndexer.cc",
             "CondFormats/HGCalObjects/src/HGCalMappingModuleIndexerTrigger.cc",
             "CondFormats/HGCalObjects/src/HGCalMappingParameterHost.cc",
             "CondFormats/HGCalObjects/src/T_EventSetup_HGCalMappingIndexers.cc",
@@ -2382,7 +2383,7 @@
         "created_at": 1753790701,
         "number": 48648,
         "state": "open",
-        "updated_at": 1757918451
+        "updated_at": 1758092298
     },
     "48717": {
         "base_branch": "CMSSW_15_0_X",
