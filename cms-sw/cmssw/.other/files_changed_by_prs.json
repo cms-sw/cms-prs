@@ -3135,5 +3135,17 @@
         "number": 48958,
         "state": "open",
         "updated_at": 1758286029
+    },
+    "48959": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "GeneratorInterface/Hydjet2Interface/plugins/BuildFile.xml",
+            "GeneratorInterface/HydjetInterface/plugins/BuildFile.xml",
+            "GeneratorInterface/PyquenInterface/plugins/BuildFile.xml"
+        ],
+        "created_at": 1758286498,
+        "number": 48959,
+        "state": "open",
+        "updated_at": 1758286522
     }
 }
