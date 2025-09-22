@@ -2959,13 +2959,15 @@
         "base_branch": "master",
         "changed_files_names": [
             "HLTrigger/NGTScouting/plugins/HLTTracksExtraTableProducer.cc",
+            "HLTrigger/NGTScouting/plugins/HLTVertexTableProducer.cc",
             "HLTrigger/NGTScouting/python/HLTNanoProducer_cff.py",
-            "HLTrigger/NGTScouting/python/hltTracks_cfi.py"
+            "HLTrigger/NGTScouting/python/hltTracks_cfi.py",
+            "HLTrigger/NGTScouting/python/hltVertices_cfi.py"
         ],
         "created_at": 1758016725,
         "number": 48935,
         "state": "open",
-        "updated_at": 1758031854
+        "updated_at": 1758546838
     },
     "48941": {
         "base_branch": "master",
