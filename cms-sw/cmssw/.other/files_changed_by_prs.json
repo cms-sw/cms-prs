@@ -2538,7 +2538,7 @@
         "created_at": 1757331918,
         "number": 48862,
         "state": "open",
-        "updated_at": 1758719603
+        "updated_at": 1758728210
     },
     "48876": {
         "base_branch": "CMSSW_15_0_X",
@@ -2805,7 +2805,7 @@
         "created_at": 1758016725,
         "number": 48935,
         "state": "open",
-        "updated_at": 1758616042
+        "updated_at": 1758729509
     },
     "48941": {
         "base_branch": "master",
@@ -2885,7 +2885,7 @@
         "created_at": 1758302625,
         "number": 48961,
         "state": "open",
-        "updated_at": 1758718869
+        "updated_at": 1758741876
     },
     "48963": {
         "base_branch": "master",
@@ -2938,7 +2938,7 @@
         "created_at": 1758556483,
         "number": 48969,
         "state": "open",
-        "updated_at": 1758561959
+        "updated_at": 1758735374
     },
     "48970": {
         "base_branch": "master",
@@ -2964,7 +2964,7 @@
         "created_at": 1758612376,
         "number": 48971,
         "state": "open",
-        "updated_at": 1758716102
+        "updated_at": 1758739565
     },
     "48972": {
         "base_branch": "CMSSW_15_0_X",
@@ -3014,7 +3014,7 @@
         "created_at": 1758670606,
         "number": 48978,
         "state": "open",
-        "updated_at": 1758709816
+        "updated_at": 1758731823
     },
     "48979": {
         "base_branch": "master",
@@ -3059,7 +3059,7 @@
         "created_at": 1758718344,
         "number": 48983,
         "state": "open",
-        "updated_at": 1758724586
+        "updated_at": 1758746669
     },
     "48984": {
         "base_branch": "master",
@@ -3079,7 +3079,7 @@
         "created_at": 1758721415,
         "number": 48984,
         "state": "open",
-        "updated_at": 1758726002
+        "updated_at": 1758727748
     },
     "48985": {
         "base_branch": "master",
@@ -3107,7 +3107,7 @@
         "created_at": 1758727501,
         "number": 48986,
         "state": "open",
-        "updated_at": 1758727527
+        "updated_at": 1758732998
     },
     "48987": {
         "base_branch": "master",
@@ -3117,6 +3117,29 @@
         "created_at": 1758737142,
         "number": 48987,
         "state": "open",
-        "updated_at": 1758739995
+        "updated_at": 1758745684
+    },
+    "48988": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/PatCandidates/interface/Electron.h",
+            "DataFormats/PatCandidates/interface/Muon.h",
+            "DataFormats/PatCandidates/interface/Photon.h",
+            "PhysicsTools/PatAlgos/plugins/PATElectronCandidatesRekeyer.cc",
+            "PhysicsTools/PatAlgos/plugins/PATJetCandidatesRekeyer.cc",
+            "PhysicsTools/PatAlgos/plugins/PATMuonCandidatesRekeyer.cc",
+            "PhysicsTools/PatAlgos/plugins/PATObjectPuppiIsolationUpdater.cc",
+            "PhysicsTools/PatAlgos/plugins/PATPackedCandidateUpdater.cc",
+            "PhysicsTools/PatAlgos/plugins/PATPhotonCandidatesRekeyer.cc",
+            "PhysicsTools/PatAlgos/plugins/PATTauCandidatesRekeyer.cc",
+            "PhysicsTools/PatAlgos/plugins/VertexCompositeCandidateDaughtersRekeyer.cc",
+            "PhysicsTools/PatAlgos/python/slimming/miniAODFromMiniAOD_tools.py",
+            "PhysicsTools/PatAlgos/python/tools/jetTools.py",
+            "PhysicsTools/PatAlgos/python/tools/puppiJetMETReclusteringTools.py"
+        ],
+        "created_at": 1758747747,
+        "number": 48988,
+        "state": "open",
+        "updated_at": 1758748216
     }
 }
