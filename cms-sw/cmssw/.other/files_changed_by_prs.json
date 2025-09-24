@@ -2538,7 +2538,7 @@
         "created_at": 1757331918,
         "number": 48862,
         "state": "open",
-        "updated_at": 1757500239
+        "updated_at": 1758709767
     },
     "48876": {
         "base_branch": "CMSSW_15_0_X",
@@ -2977,7 +2977,7 @@
         "created_at": 1758572244,
         "number": 48970,
         "state": "open",
-        "updated_at": 1758700509
+        "updated_at": 1758710486
     },
     "48971": {
         "base_branch": "master",
@@ -3027,7 +3027,7 @@
         "created_at": 1758655473,
         "number": 48977,
         "state": "open",
-        "updated_at": 1758698202
+        "updated_at": 1758709852
     },
     "48978": {
         "base_branch": "master",
@@ -3037,7 +3037,7 @@
         "created_at": 1758670606,
         "number": 48978,
         "state": "open",
-        "updated_at": 1758702537
+        "updated_at": 1758709816
     },
     "48979": {
         "base_branch": "master",
@@ -3051,6 +3051,19 @@
         "state": "open",
         "updated_at": 1758705312
     },
+    "48980": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQM/TrackingMonitor/src/PrimaryVertexResolution.cc",
+            "DQMOffline/Configuration/python/DQMOffline_SecondStep_cff.py",
+            "DQMOffline/Trigger/python/PrimaryVertexMonitoring_Client_cff.py",
+            "DQMOffline/Trigger/python/PrimaryVertexMonitoring_cff.py"
+        ],
+        "created_at": 1758709789,
+        "number": 48980,
+        "state": "open",
+        "updated_at": 1758712483
+    },
     "48981": {
         "base_branch": "master",
         "changed_files_names": [
@@ -3059,6 +3072,6 @@
         "created_at": 1758711419,
         "number": 48981,
         "state": "open",
-        "updated_at": 1758711453
+        "updated_at": 1758712577
     }
 }
