@@ -3132,5 +3132,17 @@
         "number": 48989,
         "state": "open",
         "updated_at": 1758753888
+    },
+    "48991": {
+        "base_branch": "CMSSW_14_0_X",
+        "changed_files_names": [
+            "Configuration/Eras/python/Era_Run3_2024_FastSim_cff.py",
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "Configuration/StandardSequences/python/Eras.py"
+        ],
+        "created_at": 1758782574,
+        "number": 48991,
+        "state": "open",
+        "updated_at": 1758782603
     }
 }
