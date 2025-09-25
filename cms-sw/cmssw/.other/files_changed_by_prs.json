@@ -1994,7 +1994,7 @@
         "created_at": 1752066678,
         "number": 48518,
         "state": "open",
-        "updated_at": 1758718525
+        "updated_at": 1758784690
     },
     "48557": {
         "base_branch": "CMSSW_15_0_X",
@@ -2219,7 +2219,7 @@
         "created_at": 1753790701,
         "number": 48648,
         "state": "open",
-        "updated_at": 1758696027
+        "updated_at": 1758778334
     },
     "48717": {
         "base_branch": "CMSSW_15_0_X",
@@ -2484,7 +2484,7 @@
         "created_at": 1757104349,
         "number": 48857,
         "state": "open",
-        "updated_at": 1758702701
+        "updated_at": 1758780118
     },
     "48861": {
         "base_branch": "master",
@@ -2805,7 +2805,7 @@
         "created_at": 1758016725,
         "number": 48935,
         "state": "open",
-        "updated_at": 1758729509
+        "updated_at": 1758776304
     },
     "48941": {
         "base_branch": "master",
@@ -2964,7 +2964,7 @@
         "created_at": 1758612376,
         "number": 48971,
         "state": "open",
-        "updated_at": 1758739565
+        "updated_at": 1758782617
     },
     "48972": {
         "base_branch": "CMSSW_15_0_X",
@@ -2994,7 +2994,7 @@
         "created_at": 1758655473,
         "number": 48977,
         "state": "open",
-        "updated_at": 1758716073
+        "updated_at": 1758761009
     },
     "48978": {
         "base_branch": "master",
@@ -3004,7 +3004,7 @@
         "created_at": 1758670606,
         "number": 48978,
         "state": "open",
-        "updated_at": 1758731823
+        "updated_at": 1758780064
     },
     "48979": {
         "base_branch": "master",
@@ -3016,7 +3016,7 @@
         "created_at": 1758705312,
         "number": 48979,
         "state": "open",
-        "updated_at": 1758718927
+        "updated_at": 1758784614
     },
     "48980": {
         "base_branch": "master",
@@ -3029,7 +3029,7 @@
         "created_at": 1758709789,
         "number": 48980,
         "state": "open",
-        "updated_at": 1758716425
+        "updated_at": 1758782855
     },
     "48981": {
         "base_branch": "master",
@@ -3059,7 +3059,7 @@
         "created_at": 1758721415,
         "number": 48984,
         "state": "open",
-        "updated_at": 1758727748
+        "updated_at": 1758778283
     },
     "48985": {
         "base_branch": "master",
@@ -3069,7 +3069,7 @@
         "created_at": 1758722350,
         "number": 48985,
         "state": "open",
-        "updated_at": 1758722350
+        "updated_at": 1758778297
     },
     "48986": {
         "base_branch": "master",
@@ -3087,7 +3087,7 @@
         "created_at": 1758727501,
         "number": 48986,
         "state": "open",
-        "updated_at": 1758732998
+        "updated_at": 1758778075
     },
     "48987": {
         "base_branch": "master",
@@ -3131,7 +3131,21 @@
         "created_at": 1758753857,
         "number": 48989,
         "state": "open",
-        "updated_at": 1758753888
+        "updated_at": 1758781259
+    },
+    "48990": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/Geometry/README.md",
+            "Configuration/Geometry/python/dict2021Geometry.py",
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2025.xml",
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2025XML_cfi.py",
+            "Geometry/ForwardCommonData/data/zdc/2025/v1/zdc.xml"
+        ],
+        "created_at": 1758780473,
+        "number": 48990,
+        "state": "open",
+        "updated_at": 1758781634
     },
     "48991": {
         "base_branch": "CMSSW_14_0_X",
@@ -3143,7 +3157,7 @@
         "created_at": 1758782574,
         "number": 48991,
         "state": "open",
-        "updated_at": 1758782603
+        "updated_at": 1758782896
     },
     "48992": {
         "base_branch": "master",
@@ -4027,6 +4041,6 @@
         "created_at": 1758782586,
         "number": 48992,
         "state": "open",
-        "updated_at": 1758782603
+        "updated_at": 1758782685
     }
 }
