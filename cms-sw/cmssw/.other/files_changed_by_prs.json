@@ -1486,12 +1486,12 @@
             "DataFormats/SiStripDigiSoA/src/classes_def.xml",
             "EventFilter/SiStripRawToDigi/interface/SiStripFEDBufferComponents.h",
             "RecoLocalTracker/SiStripClusterizer/BuildFile.xml",
-            "RecoLocalTracker/SiStripClusterizer/interface/SiStripClusterizerConditionsHost.h",
+            "RecoLocalTracker/SiStripClusterizer/interface/SiStripClusterizerConditionsHostObject.h",
             "RecoLocalTracker/SiStripClusterizer/interface/SiStripClusterizerConditionsRecord.h",
-            "RecoLocalTracker/SiStripClusterizer/interface/SiStripClusterizerConditionsSoA.h",
+            "RecoLocalTracker/SiStripClusterizer/interface/SiStripClusterizerConditionsStruct.h",
             "RecoLocalTracker/SiStripClusterizer/interface/SiStripMappingHost.h",
             "RecoLocalTracker/SiStripClusterizer/interface/SiStripMappingSoA.h",
-            "RecoLocalTracker/SiStripClusterizer/interface/alpaka/SiStripClusterizerConditionsDevice.h",
+            "RecoLocalTracker/SiStripClusterizer/interface/alpaka/SiStripClusterizerConditionsDeviceObject.h",
             "RecoLocalTracker/SiStripClusterizer/interface/alpaka/SiStripMappingDevice.h",
             "RecoLocalTracker/SiStripClusterizer/plugins/BuildFile.xml",
             "RecoLocalTracker/SiStripClusterizer/plugins/SiStripClustersToLegacy.cc",
@@ -1507,7 +1507,7 @@
         "created_at": 1742404155,
         "number": 47629,
         "state": "open",
-        "updated_at": 1758273627
+        "updated_at": 1758831978
     },
     "47870": {
         "base_branch": "master",
