@@ -3981,5 +3981,17 @@
         "number": 49003,
         "state": "open",
         "updated_at": 1758900205
+    },
+    "49004": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py",
+            "HLTrigger/special/plugins/HLTL1NumberFilter.cc",
+            "HLTrigger/special/plugins/HLTL1NumberFilter.h"
+        ],
+        "created_at": 1758904134,
+        "number": 49004,
+        "state": "open",
+        "updated_at": 1758904157
     }
 }
