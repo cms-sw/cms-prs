@@ -3947,5 +3947,24 @@
         "number": 48999,
         "state": "open",
         "updated_at": 1758887285
+    },
+    "49000": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoTracker/GeometryESProducer/plugins/TrackerMTDRecoGeometryESProducer.cc",
+            "RecoTracker/GeometryESProducer/python/TrackerMTDRecoGeometryESProducer_cfi.py",
+            "RecoTracker/Record/interface/TrackerRecoGeometryRecord.h",
+            "RecoTracker/TkDetLayers/BuildFile.xml",
+            "RecoTracker/TkDetLayers/interface/GeometricSearchTracker.h",
+            "RecoTracker/TkDetLayers/interface/GeometricSearchTrackerBuilder.h",
+            "RecoTracker/TkDetLayers/src/GeometricSearchTracker.cc",
+            "RecoTracker/TkDetLayers/src/GeometricSearchTrackerBuilder.cc",
+            "RecoTracker/TkNavigation/test/NavigationSchoolAnalyzer.cc",
+            "RecoTracker/TkNavigation/test/NavigationSchoolAnalyzer_cfg.py"
+        ],
+        "created_at": 1758887479,
+        "number": 49000,
+        "state": "open",
+        "updated_at": 1758887505
     }
 }
