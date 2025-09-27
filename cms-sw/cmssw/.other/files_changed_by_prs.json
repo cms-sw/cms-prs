@@ -4076,5 +4076,32 @@
         "number": 49008,
         "state": "open",
         "updated_at": 1758974664
+    },
+    "49009": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "DQM/Integration/python/clients/hcal_dqm_sourceclient-live_cfg.py",
+            "L1Trigger/L1TCalorimeter/plugins/BuildFile.xml",
+            "L1Trigger/L1TCalorimeter/plugins/L1TEtSumsPrinter.cc",
+            "L1Trigger/L1TZDC/README.md",
+            "L1Trigger/L1TZDC/plugins/BuildFile.xml",
+            "L1Trigger/L1TZDC/plugins/L1TZDCEtSumsAnalyzer.cc",
+            "L1Trigger/L1TZDC/plugins/L1TZDCAnalyzer.cc",
+            "L1Trigger/L1TZDC/plugins/L1TZDCEtSumsProducer.cc",
+            "L1Trigger/L1TZDC/plugins/L1TZDCProducer.cc",
+            "L1Trigger/L1TZDC/python/etSumZdcAnalyzer_cfi.py",
+            "L1Trigger/L1TZDC/python/l1tZDCEtSums_cfi.py",
+            "L1Trigger/L1TZDC/test/BuildFile.xml",
+            "L1Trigger/L1TZDC/test/L1TZDCProducerV1.cc",
+            "L1Trigger/L1TZDC/test/README",
+            "L1Trigger/L1TZDC/test/etSumZDCProducerV1_cfi.py",
+            "L1Trigger/L1TZDC/test/l1ZDCProducerTest.py",
+            "L1Trigger/L1TZDC/test/testL1TZDCEtSumsProducer.sh",
+            "L1Trigger/L1TZDC/test/testL1TZDCEtSumsProducer_cfg.py"
+        ],
+        "created_at": 1758974653,
+        "number": 49009,
+        "state": "open",
+        "updated_at": 1758974677
     }
 }
