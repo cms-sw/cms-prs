@@ -3927,23 +3927,6 @@
         "state": "open",
         "updated_at": 1758894859
     },
-    "49001": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "FWCore/AbstractServices/interface/TimingServiceBase.h",
-            "FWCore/AbstractServices/src/TimingServiceBase.cc",
-            "FWCore/Framework/bin/cmsRun.cpp",
-            "FWCore/Framework/interface/Schedule.h",
-            "FWCore/Framework/src/EventProcessor.cc",
-            "FWCore/Framework/src/Schedule.cc",
-            "FWCore/ServiceRegistry/interface/ActivityRegistry.h",
-            "FWCore/ServiceRegistry/src/ActivityRegistry.cc"
-        ],
-        "created_at": 1758889115,
-        "number": 49001,
-        "state": "open",
-        "updated_at": 1758896576
-    },
     "49002": {
         "base_branch": "CMSSW_15_1_X",
         "changed_files_names": [
