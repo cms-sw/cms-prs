@@ -1839,6 +1839,7 @@
             "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorTrackSoA.cc",
             "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorTrackSoAAlpaka.cc",
             "DataFormats/SiPixelDigi/interface/SiPixelDigisSoA.h",
+            "DataFormats/SiPixelDigiSoA/interface/SiPixelDigiErrorsDevice.h",
             "DataFormats/SiPixelDigiSoA/interface/SiPixelDigiErrorsHost.h",
             "DataFormats/SoATemplate/interface/SoACommon.h",
             "DataFormats/SoATemplate/interface/SoALayout.h",
@@ -1898,7 +1899,7 @@
         "created_at": 1750407215,
         "number": 48377,
         "state": "open",
-        "updated_at": 1759134245
+        "updated_at": 1759142768
     },
     "48383": {
         "base_branch": "master",
