@@ -3250,5 +3250,18 @@
         "number": 49020,
         "state": "open",
         "updated_at": 1759135403
+    },
+    "49021": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/CommonTopologies/interface/SimplePixelTopology.h",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/PixelClustering.h",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToCluster.cc",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToClusterKernel.dev.cc"
+        ],
+        "created_at": 1759136146,
+        "number": 49021,
+        "state": "open",
+        "updated_at": 1759136172
     }
 }
