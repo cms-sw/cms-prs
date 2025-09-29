@@ -3394,5 +3394,18 @@
         "number": 49027,
         "state": "open",
         "updated_at": 1759144315
+    },
+    "49028": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "DQM/TrackingMonitor/src/PrimaryVertexResolution.cc",
+            "DQMOffline/Configuration/python/DQMOffline_SecondStep_cff.py",
+            "DQMOffline/Trigger/python/PrimaryVertexMonitoring_Client_cff.py",
+            "DQMOffline/Trigger/python/PrimaryVertexMonitoring_cff.py"
+        ],
+        "created_at": 1759144289,
+        "number": 49028,
+        "state": "open",
+        "updated_at": 1759144330
     }
 }
