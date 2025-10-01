@@ -3028,5 +3028,20 @@
         "number": 49040,
         "state": "open",
         "updated_at": 1759323981
+    },
+    "49041": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/Geometry/README.md",
+            "Configuration/Geometry/python/dict2021Geometry.py",
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2025.xml",
+            "Geometry/CMSCommonData/data/extend/v4/cmsextent.xml",
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2025XML_cfi.py",
+            "Geometry/ForwardCommonData/data/zdc/2025/v2/zdc.xml"
+        ],
+        "created_at": 1759324944,
+        "number": 49041,
+        "state": "open",
+        "updated_at": 1759324973
     }
 }
