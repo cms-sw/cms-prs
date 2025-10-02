@@ -2890,5 +2890,19 @@
         "number": 49049,
         "state": "open",
         "updated_at": 1759410456
+    },
+    "49050": {
+        "base_branch": "CMSSW_15_1_X",
+        "changed_files_names": [
+            "Geometry/CommonTopologies/interface/SimplePixelTopology.h",
+            "HLTrigger/Configuration/python/HLT_GRun_15_0_0_V112_cff.py",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/PixelClustering.h",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToCluster.cc",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToClusterKernel.dev.cc"
+        ],
+        "created_at": 1759411962,
+        "number": 49050,
+        "state": "open",
+        "updated_at": 1759411989
     }
 }
