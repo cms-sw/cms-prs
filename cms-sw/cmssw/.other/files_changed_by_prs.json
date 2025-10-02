@@ -2293,6 +2293,7 @@
         "changed_files_names": [
             "Configuration/ProcessModifiers/python/ngtScouting_cff.py",
             "Configuration/ProcessModifiers/python/phase2CAExtension_cff.py",
+            "Configuration/ProcessModifiers/python/phase2LegacyPixelTracks_cff.py",
             "Configuration/PyReleaseValidation/README.md",
             "Configuration/PyReleaseValidation/python/relval_Run4.py",
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
@@ -2339,6 +2340,7 @@
             "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernels.dev.cc",
             "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernelsImpl.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/CAPixelDoubletsAlgos.h",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAStructures.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/HelixFit.cc",
             "RecoTracker/PixelSeeding/plugins/alpaka/RiemannFit.dev.cc",
             "RecoTracker/PixelTrackFitting/interface/alpaka/BrokenLine.h",
@@ -2351,7 +2353,7 @@
         "created_at": 1757695547,
         "number": 48921,
         "state": "open",
-        "updated_at": 1759146137
+        "updated_at": 1759420973
     },
     "48969": {
         "base_branch": "master",
