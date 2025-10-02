@@ -2456,6 +2456,16 @@
             "SimDataFormats/Associations/interface/LayerClusterToSimClusterAssociatorBaseImpl.h",
             "SimDataFormats/Associations/interface/LayerClusterToSimTracksterAssociator.h",
             "SimDataFormats/Associations/interface/LayerClusterToSimTracksterAssociatorBaseImpl.h",
+            "SimDataFormats/Associations/interface/MtdRecoClusterToSimLayerClusterAssociator.h",
+            "SimDataFormats/Associations/interface/MtdSimLayerClusterToTPAssociator.h",
+            "SimDataFormats/Associations/interface/MultiClusterToCaloParticleAssociator.h",
+            "SimDataFormats/Associations/interface/MuonToTrackingParticleAssociator.h",
+            "SimDataFormats/Associations/interface/TrackToGenParticleAssociator.h",
+            "SimDataFormats/Associations/interface/TrackToTrackingParticleAssociator.h",
+            "SimDataFormats/Associations/interface/TracksterToSimClusterAssociator.h",
+            "SimDataFormats/Associations/interface/TracksterToSimTracksterAssociator.h",
+            "SimDataFormats/Associations/interface/TracksterToSimTracksterHitLCAssociator.h",
+            "SimDataFormats/Associations/interface/VertexToTrackingVertexAssociator.h",
             "SimDataFormats/Associations/src/LayerClusterToCaloParticleAssociator.cc",
             "SimDataFormats/Associations/src/LayerClusterToCaloParticleAssociatorBaseImpl.cc",
             "SimDataFormats/Associations/src/LayerClusterToSimClusterAssociator.cc",
@@ -2475,7 +2485,7 @@
         "created_at": 1758807639,
         "number": 48995,
         "state": "open",
-        "updated_at": 1758868560
+        "updated_at": 1759398977
     },
     "48999": {
         "base_branch": "master",
