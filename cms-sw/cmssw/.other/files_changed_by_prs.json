@@ -1667,32 +1667,6 @@
         "state": "open",
         "updated_at": 1757489347
     },
-    "48275": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DQM/SiTrackerPhase2/plugins/Phase2TrackerMonitorDigi.cc",
-            "DQM/SiTrackerPhase2/python/Phase2TrackerMonitorDigi_cff.py",
-            "DQM/SiTrackerPhase2/python/Phase2TrackerMonitorDigi_cfi.py",
-            "DQM/SiTrackerPhase2/test/harvestingstep_phase2tk_cfg.py",
-            "Validation/SiTrackerPhase2V/BuildFile.xml",
-            "Validation/SiTrackerPhase2V/interface/TrackerPhase2HistUtil.h",
-            "Validation/SiTrackerPhase2V/interface/TrackerPhase2ValidationUtil.h",
-            "Validation/SiTrackerPhase2V/plugins/Phase2OTHarvestReconstruction.cc",
-            "Validation/SiTrackerPhase2V/plugins/Phase2OTHarvestStub.cc",
-            "Validation/SiTrackerPhase2V/plugins/Phase2OTHarvestTracks.cc",
-            "Validation/SiTrackerPhase2V/plugins/Phase2OTValidateReconstruction.cc",
-            "Validation/SiTrackerPhase2V/plugins/Phase2OTValidateStub.cc",
-            "Validation/SiTrackerPhase2V/plugins/Phase2OTValidateTTStub.cc",
-            "Validation/SiTrackerPhase2V/plugins/Phase2OTValidateTracks.cc",
-            "Validation/SiTrackerPhase2V/python/HLTPhase2TrackerValidationFirstStep_cff.py",
-            "Validation/SiTrackerPhase2V/python/Phase2TrackerMCHarvesting_cff.py",
-            "Validation/SiTrackerPhase2V/python/Phase2ValidateL1TTObjects_cff.py"
-        ],
-        "created_at": 1749475959,
-        "number": 48275,
-        "state": "open",
-        "updated_at": 1759322492
-    },
     "48319": {
         "base_branch": "master",
         "changed_files_names": [
