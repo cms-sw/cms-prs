@@ -3076,5 +3076,17 @@
         "number": 49060,
         "state": "open",
         "updated_at": 1759637341
+    },
+    "49061": {
+        "base_branch": "CMSSW_15_1_X",
+        "changed_files_names": [
+            "PhysicsTools/BPHNano/plugins/DiTrackBuilder.cc",
+            "PhysicsTools/BPHNano/python/muons_cff.py",
+            "PhysicsTools/NanoAOD/python/custom_bph_cff.py"
+        ],
+        "created_at": 1759638604,
+        "number": 49061,
+        "state": "open",
+        "updated_at": 1759638633
     }
 }
