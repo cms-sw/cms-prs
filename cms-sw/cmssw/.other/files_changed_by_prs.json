@@ -3154,6 +3154,7 @@
         "changed_files_names": [
             "HLTrigger/NGTScouting/plugins/LayerClustersExtraTableProducer.cc",
             "HLTrigger/NGTScouting/plugins/LayerClustersTableProducer.cc",
+            "HLTrigger/NGTScouting/plugins/TICLCandidateExtraTableProducer.cc",
             "HLTrigger/NGTScouting/python/HLTNanoProducer_cff.py",
             "HLTrigger/NGTScouting/python/hltLayerClusters_cfi.py",
             "HLTrigger/NGTScouting/test/readNano.py"
@@ -3161,7 +3162,7 @@
         "created_at": 1759747346,
         "number": 49068,
         "state": "open",
-        "updated_at": 1759747373
+        "updated_at": 1759771458
     },
     "49069": {
         "base_branch": "master",
