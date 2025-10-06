@@ -2026,6 +2026,8 @@
             "DataFormats/Portable/interface/PortableCollectionCommon.h",
             "DataFormats/Portable/interface/PortableDeviceCollection.h",
             "DataFormats/Portable/interface/PortableHostCollection.h",
+            "DataFormats/Portable/test/BuildFile.xml",
+            "DataFormats/Portable/test/alpaka/test_catch2_heterogeneousSoABlocks.dev.cc",
             "DataFormats/Portable/test/test_catch2_blocks.cc",
             "DataFormats/Portable/test/test_catch2_deepCopyOnHost.cc",
             "DataFormats/SoATemplate/README.md",
@@ -2041,7 +2043,7 @@
         "created_at": 1753371823,
         "number": 48629,
         "state": "open",
-        "updated_at": 1759306595
+        "updated_at": 1759771169
     },
     "48637": {
         "base_branch": "master",
