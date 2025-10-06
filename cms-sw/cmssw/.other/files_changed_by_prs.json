@@ -3192,5 +3192,25 @@
         "number": 49071,
         "state": "open",
         "updated_at": 1759750295
+    },
+    "49072": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/Portable/README.md",
+            "DataFormats/Portable/interface/PortableCollectionCommon.h",
+            "DataFormats/Portable/interface/PortableDeviceCollection.h",
+            "DataFormats/Portable/interface/PortableHostCollection.h",
+            "DataFormats/Portable/test/BuildFile.xml",
+            "DataFormats/Portable/test/alpaka/test_catch2_portableAoS.dev.cc",
+            "DataFormats/SoATemplate/README.md",
+            "DataFormats/SoATemplate/interface/SoACommon.h",
+            "DataFormats/SoATemplate/interface/SoALayout.h",
+            "DataFormats/SoATemplate/test/AoSUnitTests.cc",
+            "DataFormats/SoATemplate/test/BuildFile.xml"
+        ],
+        "created_at": 1759758123,
+        "number": 49072,
+        "state": "open",
+        "updated_at": 1759758148
     }
 }
