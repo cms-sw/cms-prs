@@ -3139,12 +3139,14 @@
     "49067": {
         "base_branch": "CMSSW_15_0_X",
         "changed_files_names": [
-            "Configuration/Eras/python/Era_Run3_2025_cff.py"
+            "Configuration/Eras/python/Era_Run3_2025_cff.py",
+            "DQM/Integration/python/clients/beam_dqm_sourceclient-live_cfg.py",
+            "DQM/Integration/python/clients/beampixel_dqm_sourceclient-live_cfg.py"
         ],
         "created_at": 1759740850,
         "number": 49067,
         "state": "open",
-        "updated_at": 1759740875
+        "updated_at": 1759758086
     },
     "49068": {
         "base_branch": "master",
