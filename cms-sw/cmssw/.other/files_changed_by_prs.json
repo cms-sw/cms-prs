@@ -3224,5 +3224,17 @@
         "number": 49074,
         "state": "open",
         "updated_at": 1759778690
+    },
+    "49075": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalGeometry/data/missingIDsV19.txt",
+            "Geometry/HGCalGeometry/test/HGCalMissingID.cc",
+            "Geometry/HGCalGeometry/test/python/testHGCalMissingID_cfg.py"
+        ],
+        "created_at": 1759802396,
+        "number": 49075,
+        "state": "open",
+        "updated_at": 1759802424
     }
 }
