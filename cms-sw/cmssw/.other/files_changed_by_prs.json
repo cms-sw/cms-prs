@@ -3110,5 +3110,20 @@
         "number": 49092,
         "state": "open",
         "updated_at": 1759903034
+    },
+    "49095": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondTools/RunInfo/interface/TestLHCInfoPerFillPopConSourceHandler.h",
+            "CondTools/RunInfo/python/LHCInfoPerFillPopConAnalyzer_cfg.py",
+            "CondTools/RunInfo/python/LHCInfoPerLSPopConAnalyzer_cfg.py",
+            "CondTools/RunInfo/src/LHCInfoPerFillPopConSourceHandler.cc",
+            "CondTools/RunInfo/test/BuildFile.xml",
+            "CondTools/RunInfo/test/test_catch2_LHCInfoPerFillPopCon.cpp"
+        ],
+        "created_at": 1759910262,
+        "number": 49095,
+        "state": "open",
+        "updated_at": 1759912375
     }
 }
