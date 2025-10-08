@@ -3271,5 +3271,19 @@
         "number": 49104,
         "state": "open",
         "updated_at": 1759922690
+    },
+    "49105": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "DQM/PFTasks/plugins/PFHcalGPUComparisonTask.cc",
+            "DQMOffline/Configuration/python/DQMOffline_cff.py",
+            "DQMOffline/Configuration/python/autoDQM.py",
+            "DQMOffline/Trigger/python/HeterogeneousMonitoring_cff.py"
+        ],
+        "created_at": 1759927158,
+        "number": 49105,
+        "state": "open",
+        "updated_at": 1759927186
     }
 }
