@@ -3126,5 +3126,29 @@
         "number": 49118,
         "state": "open",
         "updated_at": 1760014991
+    },
+    "49119": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "L1Trigger/L1TGlobal/interface/GlobalDefinitions.h",
+            "L1Trigger/L1TGlobal/interface/TOPOCondition.h",
+            "L1Trigger/L1TGlobal/interface/TOPOTemplate.h",
+            "L1Trigger/L1TGlobal/interface/TriggerMenu.h",
+            "L1Trigger/L1TGlobal/plugins/L1TGlobalProducer.cc",
+            "L1Trigger/L1TGlobal/plugins/TriggerMenuParser.cc",
+            "L1Trigger/L1TGlobal/plugins/TriggerMenuParser.h",
+            "L1Trigger/L1TGlobal/src/GlobalBoard.cc",
+            "L1Trigger/L1TGlobal/src/GlobalCondition.cc",
+            "L1Trigger/L1TGlobal/src/GlobalDefinitions.cc",
+            "L1Trigger/L1TGlobal/src/TOPOCondition.cc",
+            "L1Trigger/L1TGlobal/src/TOPOTemplate.cc",
+            "L1Trigger/L1TGlobal/src/TriggerMenu.cc",
+            "L1Trigger/L1TGlobal/src/classes.h",
+            "L1Trigger/L1TGlobal/src/classes_def.xml"
+        ],
+        "created_at": 1760017225,
+        "number": 49119,
+        "state": "open",
+        "updated_at": 1760017255
     }
 }
