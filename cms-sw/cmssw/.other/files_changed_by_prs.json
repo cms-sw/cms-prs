@@ -1958,12 +1958,15 @@
         "changed_files_names": [
             "MagneticField/ParametrizedEngine/BuildFile.xml",
             "MagneticField/ParametrizedEngine/interface/ParabolicParametrizedMagneticField.h",
-            "MagneticField/ParametrizedEngine/test/alpaka/testParabolicParametrizedMagneticField.dev.cc"
+            "MagneticField/ParametrizedEngine/test/alpaka/testParabolicParametrizedMagneticField.dev.cc",
+            "MagneticField/PortableParametrizedTrackerField/interface/alpaka/ParabolicParametricTrackerMagneticField.h",
+            "MagneticField/PortableParametrizedTrackerField/test/BuildFile.xml",
+            "MagneticField/PortableParametrizedTrackerField/test/alpaka/testParabolicParametrizedTrackerField.dev.cc"
         ],
         "created_at": 1755024833,
         "number": 48729,
         "state": "open",
-        "updated_at": 1759151715
+        "updated_at": 1760062395
     },
     "48811": {
         "base_branch": "master",
