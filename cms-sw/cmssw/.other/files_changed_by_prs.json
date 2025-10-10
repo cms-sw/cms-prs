@@ -1556,14 +1556,18 @@
     "48248": {
         "base_branch": "master",
         "changed_files_names": [
+            "RecoParticleFlow/PFClusterProducer/interface/PFMultiDepthClusteringEdgeVarsHostCollection.h",
             "RecoParticleFlow/PFClusterProducer/interface/PFMultiDepthClusteringEdgeVarsSoA.h",
+            "RecoParticleFlow/PFClusterProducer/interface/PFMultiDepthClusteringVarsHostCollection.h",
             "RecoParticleFlow/PFClusterProducer/interface/PFMultiDepthClusteringVarsSoA.h",
             "RecoParticleFlow/PFClusterProducer/interface/alpaka/PFMultiDepthClusteringEdgeVarsDeviceCollection.h",
             "RecoParticleFlow/PFClusterProducer/interface/alpaka/PFMultiDepthClusteringVarsDeviceCollection.h",
+            "RecoParticleFlow/PFClusterProducer/plugins/LegacyMultiDepthPFClusterProducer.cc",
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusterECLCC.h",
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusterParams.h",
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusterSoAProducer.cc",
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusterWarpIntrinsics.h",
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusteringEdgeVarsDeviceCollection.h",
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusteringVarsDeviceCollection.h",
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusterizerHelper.h",
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusterizer_Alpaka.dev.cc",
@@ -1571,12 +1575,19 @@
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthConstructLinks.h",
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthECLCCEpilogue.h",
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthECLCCPrologue.h",
-            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthShowerShape.h"
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthShowerShape.h",
+            "RecoParticleFlow/PFClusterProducer/test/BuildFile.xml",
+            "RecoParticleFlow/PFClusterProducer/test/alpaka/ConstructLinksTest.dev.cc",
+            "RecoParticleFlow/PFClusterProducer/test/alpaka/ECLCCTest.dev.cc",
+            "RecoParticleFlow/PFClusterProducer/test/alpaka/PrologueTest.dev.cc",
+            "RecoParticleFlow/PFClusterProducer/test/alpaka/ReductionTest.dev.cc",
+            "RecoParticleFlow/PFClusterProducer/test/alpaka/ShowerShapeTest.dev.cc",
+            "RecoParticleFlow/PFClusterProducer/test/alpaka/WarpIntrinsicsTest.dev.cc"
         ],
         "created_at": 1749047202,
         "number": 48248,
         "state": "open",
-        "updated_at": 1759150401
+        "updated_at": 1760097555
     },
     "48263": {
         "base_branch": "master",
