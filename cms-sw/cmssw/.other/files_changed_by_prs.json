@@ -1556,6 +1556,8 @@
     "48248": {
         "base_branch": "master",
         "changed_files_names": [
+            "RecoParticleFlow/PFClusterProducer/interface/PFClusteringEdgeVarsSoA.h",
+            "RecoParticleFlow/PFClusterProducer/interface/PFClusteringVarsSoA.h",
             "RecoParticleFlow/PFClusterProducer/interface/PFMultiDepthClusteringEdgeVarsHostCollection.h",
             "RecoParticleFlow/PFClusterProducer/interface/PFMultiDepthClusteringEdgeVarsSoA.h",
             "RecoParticleFlow/PFClusterProducer/interface/PFMultiDepthClusteringVarsHostCollection.h",
@@ -1563,6 +1565,7 @@
             "RecoParticleFlow/PFClusterProducer/interface/alpaka/PFMultiDepthClusteringEdgeVarsDeviceCollection.h",
             "RecoParticleFlow/PFClusterProducer/interface/alpaka/PFMultiDepthClusteringVarsDeviceCollection.h",
             "RecoParticleFlow/PFClusterProducer/plugins/LegacyMultiDepthPFClusterProducer.cc",
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFClusterParamsSoA.h",
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusterECLCC.h",
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusterParams.h",
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusterSoAProducer.cc",
@@ -1587,7 +1590,7 @@
         "created_at": 1749047202,
         "number": 48248,
         "state": "open",
-        "updated_at": 1760097555
+        "updated_at": 1760143141
     },
     "48263": {
         "base_branch": "master",
