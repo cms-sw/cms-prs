@@ -2962,6 +2962,7 @@
             "CondFormats/SiStripObjects/test/test_catch2_SiStripBadStripForPhase2.cpp",
             "CondFormats/SiStripObjects/test/test_catch2_SiStripLatency.cpp",
             "CondFormats/SiStripObjects/test/test_catch2_main.cpp",
+            "CondTools/RunInfo/test/test_catch2_LHCInfoPerFillPopCon.cpp",
             "DQM/BeamMonitor/test/testAlcaBeamMonitor.cc",
             "DQM/EcalCommon/test/testEcalCommon.cc",
             "DQM/TrackerRemapper/test/test_catch2_Phase1PixelMaps.cc",
@@ -3164,7 +3165,7 @@
         "created_at": 1760034065,
         "number": 49121,
         "state": "open",
-        "updated_at": 1760034102
+        "updated_at": 1760190432
     },
     "49123": {
         "base_branch": "CMSSW_15_1_X",
