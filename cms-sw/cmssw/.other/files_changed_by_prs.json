@@ -3345,5 +3345,36 @@
         "number": 49147,
         "state": "open",
         "updated_at": 1760362436
+    },
+    "49148": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondFormats/HGCalObjects/interface/HGCalMappingModuleIndexer.h",
+            "CondFormats/HGCalObjects/src/HGCalMappingModuleIndexer.cc",
+            "DataFormats/HGCalDigi/src/alpaka/classes_cuda.h",
+            "DataFormats/HGCalDigi/src/alpaka/classes_cuda_def.xml",
+            "DataFormats/HGCalDigi/src/alpaka/classes_rocm.h",
+            "DataFormats/HGCalDigi/src/alpaka/classes_rocm_def.xml",
+            "DataFormats/HGCalDigi/src/classes.h",
+            "DataFormats/HGCalDigi/src/classes_def.xml",
+            "EventFilter/HGCalRawToDigi/interface/HGCalUnpacker.h",
+            "EventFilter/HGCalRawToDigi/plugins/HGCalRawToDigi.cc",
+            "EventFilter/HGCalRawToDigi/src/HGCalUnpacker.cc",
+            "Geometry/HGCalMapping/plugins/alpaka/HGCalMappingModuleESProducer.cc",
+            "Geometry/HGCalMapping/test/BuildFile.xml",
+            "Geometry/HGCalMapping/test/HGCalMappingESSourceTester.cc",
+            "Geometry/HGCalMapping/test/HGCalMappingTriggerESSourceTester.cc",
+            "Geometry/HGCalMapping/test/testMappingModuleIndexer_cfg.py",
+            "RecoLocalCalo/Configuration/python/hgcalTestBeamLocalReco_cff.py",
+            "RecoLocalCalo/HGCalRecAlgos/interface/alpaka/HGCalRecHitCalibrationAlgorithms.h",
+            "RecoLocalCalo/HGCalRecAlgos/plugins/HGCalConfigurationESProducer.cc",
+            "RecoLocalCalo/HGCalRecAlgos/plugins/alpaka/HGCalRecHitCalibrationAlgorithms.dev.cc",
+            "RecoLocalCalo/HGCalRecAlgos/plugins/alpaka/HGCalRecHitCalibrationESProducer.cc",
+            "RecoLocalCalo/HGCalRecAlgos/plugins/alpaka/HGCalRecHitProducers.cc"
+        ],
+        "created_at": 1760362631,
+        "number": 49148,
+        "state": "open",
+        "updated_at": 1760362662
     }
 }
