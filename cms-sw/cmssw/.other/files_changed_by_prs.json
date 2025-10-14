@@ -3382,12 +3382,13 @@
         "base_branch": "CMSSW_15_1_X",
         "changed_files_names": [
             "HLTrigger/Configuration/python/customizeHLTforCMSSW.py",
+            "RecoTracker/Configuration/python/customizePixelTracksForTriplets.py",
             "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtuplet.cc"
         ],
         "created_at": 1760363045,
         "number": 49149,
         "state": "open",
-        "updated_at": 1760363073
+        "updated_at": 1760414324
     },
     "49152": {
         "base_branch": "master",
