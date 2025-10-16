@@ -2927,8 +2927,12 @@
         "base_branch": "master",
         "changed_files_names": [
             "DataFormats/Common/interface/AnyBuffer.h",
+            "DataFormats/Common/interface/TrivialCopyTraits.h",
             "DataFormats/Common/interface/Wrapper.h",
             "DataFormats/Common/interface/WrapperBase.h",
+            "DataFormats/Common/test/test_catch2_TrivialCopyTraits.cpp",
+            "DataFormats/Portable/BuildFile.xml",
+            "DataFormats/Portable/interface/PortableCollection.h",
             "DataFormats/Portable/interface/PortableHostCollection.h",
             "DataFormats/Portable/interface/PortableHostObject.h",
             "FWCore/Framework/interface/WrapperBaseHandle.h",
@@ -2938,7 +2942,6 @@
             "FWCore/TestModules/plugins/GenericCloner.cc",
             "FWCore/TestModules/test/testGenericCloner_cfg.py",
             "TrivialSerialisation/Common/BuildFile.xml",
-            "TrivialSerialisation/Common/interface/TrivialCopyTraits.h",
             "TrivialSerialisation/Common/interface/TrivialSerialiser.h",
             "TrivialSerialisation/Common/interface/TrivialSerialiserBase.h",
             "TrivialSerialisation/Common/interface/TrivialSerialiserSource.h",
@@ -2950,7 +2953,7 @@
         "created_at": 1760384729,
         "number": 49152,
         "state": "open",
-        "updated_at": 1760516825
+        "updated_at": 1760622207
     },
     "49158": {
         "base_branch": "master",
