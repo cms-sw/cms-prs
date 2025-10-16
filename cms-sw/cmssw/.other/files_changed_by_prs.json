@@ -1582,6 +1582,7 @@
             "RecoParticleFlow/PFClusterProducer/test/BuildFile.xml",
             "RecoParticleFlow/PFClusterProducer/test/alpaka/ConstructLinksTest.dev.cc",
             "RecoParticleFlow/PFClusterProducer/test/alpaka/ECLCCTest.dev.cc",
+            "RecoParticleFlow/PFClusterProducer/test/alpaka/EpilogueTest.dev.cc",
             "RecoParticleFlow/PFClusterProducer/test/alpaka/PrologueTest.dev.cc",
             "RecoParticleFlow/PFClusterProducer/test/alpaka/ReductionTest.dev.cc",
             "RecoParticleFlow/PFClusterProducer/test/alpaka/ShowerShapeTest.dev.cc",
@@ -1590,7 +1591,7 @@
         "created_at": 1749047202,
         "number": 48248,
         "state": "open",
-        "updated_at": 1760385445
+        "updated_at": 1760585625
     },
     "48263": {
         "base_branch": "master",
