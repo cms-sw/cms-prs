@@ -3095,5 +3095,24 @@
         "number": 49177,
         "state": "open",
         "updated_at": 1760598488
+    },
+    "49179": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "L1Trigger/L1TMuonEndCap/BuildFile.xml",
+            "L1Trigger/L1TMuonEndCap/interface/PtAssignment.h",
+            "L1Trigger/L1TMuonEndCap/interface/PtAssignmentEngineDxy.h",
+            "L1Trigger/L1TMuonEndCap/interface/VersionControl.h",
+            "L1Trigger/L1TMuonEndCap/plugins/BuildFile.xml",
+            "L1Trigger/L1TMuonEndCap/python/simEmtfDigis_cfi.py",
+            "L1Trigger/L1TMuonEndCap/src/PtAssignment.cc",
+            "L1Trigger/L1TMuonEndCap/src/PtAssignmentEngineDxy.cc",
+            "L1Trigger/L1TMuonEndCap/src/SectorProcessor.cc",
+            "L1Trigger/L1TMuonEndCap/src/VersionControl.cc"
+        ],
+        "created_at": 1760621310,
+        "number": 49179,
+        "state": "open",
+        "updated_at": 1760621337
     }
 }
