@@ -2754,40 +2754,6 @@
         "state": "open",
         "updated_at": 1760442924
     },
-    "49098": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "Configuration/Applications/python/ConfigBuilder.py",
-            "Configuration/ProcessModifiers/python/run2_miniAOD_miniAODUL_cff.py",
-            "Configuration/ProcessModifiers/python/run3_miniAOD_miniAODpre142X_cff.py",
-            "Configuration/PyReleaseValidation/python/relval_nano.py",
-            "Configuration/StandardSequences/python/PATMC_cff.py",
-            "Configuration/StandardSequences/python/PAT_cff.py",
-            "Configuration/StandardSequences/python/REMINI_cff.py",
-            "DQMOffline/JetMET/python/jetMETDQMOfflineSource_cff.py",
-            "DataFormats/PatCandidates/interface/Electron.h",
-            "DataFormats/PatCandidates/interface/Muon.h",
-            "DataFormats/PatCandidates/interface/Photon.h",
-            "PhysicsTools/PatAlgos/plugins/PATElectronCandidatesRekeyer.cc",
-            "PhysicsTools/PatAlgos/plugins/PATJetCandidatesRekeyer.cc",
-            "PhysicsTools/PatAlgos/plugins/PATMuonCandidatesRekeyer.cc",
-            "PhysicsTools/PatAlgos/plugins/PATObjectPuppiIsolationUpdater.cc",
-            "PhysicsTools/PatAlgos/plugins/PATPackedCandidateUpdater.cc",
-            "PhysicsTools/PatAlgos/plugins/PATPhotonCandidatesRekeyer.cc",
-            "PhysicsTools/PatAlgos/plugins/PATTauCandidatesRekeyer.cc",
-            "PhysicsTools/PatAlgos/plugins/VertexCompositeCandidateDaughtersRekeyer.cc",
-            "PhysicsTools/PatAlgos/python/slimming/isolatedTracks_cfi.py",
-            "PhysicsTools/PatAlgos/python/slimming/metFilterPaths_cff.py",
-            "PhysicsTools/PatAlgos/python/slimming/miniAODFromMiniAOD_tools.py",
-            "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py",
-            "PhysicsTools/PatAlgos/python/tools/jetTools.py",
-            "PhysicsTools/PatAlgos/python/tools/puppiJetMETReclusteringTools.py"
-        ],
-        "created_at": 1759913082,
-        "number": 49098,
-        "state": "open",
-        "updated_at": 1760531145
-    },
     "49102": {
         "base_branch": "master",
         "changed_files_names": [
