@@ -3048,16 +3048,17 @@
         "base_branch": "master",
         "changed_files_names": [
             "SimG4Core/PhysicsLists/BuildFile.xml",
-            "SimG4Core/PhysicsLists/interface/CMSEmStandardPhysicsA.h",
-            "SimG4Core/PhysicsLists/plugins/FTFPCMS_BERT_EMA.cc",
-            "SimG4Core/PhysicsLists/plugins/FTFPCMS_BERT_EMA.h",
-            "SimG4Core/PhysicsLists/plugins/module.cc",
-            "SimG4Core/PhysicsLists/src/CMSEmStandardPhysicsA.cc"
+            "SimG4Core/PhysicsLists/plugins/BuildFile.xml",
+            "SimG4Core/PhysicsLists/plugins/adept/CMSEmStandardPhysicsA.cc",
+            "SimG4Core/PhysicsLists/plugins/adept/CMSEmStandardPhysicsA.h",
+            "SimG4Core/PhysicsLists/plugins/adept/FTFPCMS_BERT_EMA.cc",
+            "SimG4Core/PhysicsLists/plugins/adept/FTFPCMS_BERT_EMA.h",
+            "SimG4Core/PhysicsLists/plugins/adept/module.cc"
         ],
         "created_at": 1760875931,
         "number": 49185,
         "state": "open",
-        "updated_at": 1760875956
+        "updated_at": 1760968132
     },
     "49187": {
         "base_branch": "master",
