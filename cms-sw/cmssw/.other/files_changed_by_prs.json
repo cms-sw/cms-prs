@@ -3090,5 +3090,22 @@
         "number": 49189,
         "state": "open",
         "updated_at": 1760954560
+    },
+    "49190": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/Common/interface/MultiCollection.h",
+            "DataFormats/Common/test/test_catch2_MultiCollection.cpp",
+            "DataFormats/HGCRecHit/src/classes.h",
+            "DataFormats/HGCRecHit/src/classes_def.xml",
+            "RecoLocalCalo/Configuration/python/hgcalLocalReco_cff.py",
+            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalRecHitMultiCollectionProducer.cc",
+            "RecoLocalCalo/HGCalRecProducers/plugins/RecHitMapProducer.cc",
+            "Validation/Configuration/python/hltHGCalSimValid_cff.py"
+        ],
+        "created_at": 1760954645,
+        "number": 49190,
+        "state": "open",
+        "updated_at": 1760954675
     }
 }
