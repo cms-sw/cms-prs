@@ -1878,39 +1878,6 @@
         "state": "open",
         "updated_at": 1760451237
     },
-    "48565": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DataFormats/Common/interface/ValueMap.h",
-            "RecoLocalCalo/HGCalRecAlgos/src/RecHitTools.cc",
-            "RecoLocalCalo/HGCalRecProducers/plugins/RecHitMapProducer.cc",
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToCPAssociatorByEnergyScoreImpl.cc",
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToCPAssociatorByEnergyScoreProducer.cc",
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToCPAssociatorByEnergyScoreProducer.h",
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToCPAssociatorEDProducer.cc",
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToSCAssociatorByEnergyScoreImpl.cc",
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToSCAssociatorByEnergyScoreProducer.cc",
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToSCAssociatorByEnergyScoreProducer.h",
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToSCAssociatorEDProducer.cc",
-            "SimDataFormats/CaloAnalysis/interface/SimCluster.h",
-            "Validation/HGCalValidation/interface/BarrelValidator.h",
-            "Validation/HGCalValidation/interface/HGCalValidator.h",
-            "Validation/HGCalValidation/plugins/BarrelValidator.cc",
-            "Validation/HGCalValidation/plugins/HGCalValidator.cc",
-            "Validation/HGCalValidation/python/HLTHGCalPostProcessor_cff.py",
-            "Validation/HGCalValidation/python/HLTHGCalValidator_cff.py",
-            "Validation/HGCalValidation/python/PostProcessorBarrel_cfi.py",
-            "Validation/HGCalValidation/python/PostProcessorHGCAL_cfi.py",
-            "Validation/HGCalValidation/python/hgcalPlots.py",
-            "Validation/HGCalValidation/scripts/makeHGCalValidationPlots.py",
-            "Validation/HGCalValidation/src/BarrelVHistoProducerAlgo.cc",
-            "Validation/HGCalValidation/src/HGVHistoProducerAlgo.cc"
-        ],
-        "created_at": 1752747765,
-        "number": 48565,
-        "state": "open",
-        "updated_at": 1760976257
-    },
     "48587": {
         "base_branch": "master",
         "changed_files_names": [
