@@ -3064,5 +3064,19 @@
         "number": 49196,
         "state": "open",
         "updated_at": 1761049659
+    },
+    "49197": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CalibCalorimetry/HcalTPGAlgos/interface/HcaluLUTTPGCoder.h",
+            "CalibCalorimetry/HcalTPGAlgos/src/HcaluLUTTPGCoder.cc",
+            "CalibCalorimetry/HcalTPGEventSetup/src/HcalTPGCoderULUT.cc",
+            "SimCalorimetry/HcalTrigPrimProducers/python/hcaltpdigi_cff.py",
+            "SimCalorimetry/HcalTrigPrimProducers/python/hcaltpdigi_cfi.py"
+        ],
+        "created_at": 1761052272,
+        "number": 49197,
+        "state": "open",
+        "updated_at": 1761052296
     }
 }
