@@ -2092,6 +2092,7 @@
             "DataFormats/SoATemplate/README.md",
             "DataFormats/SoATemplate/interface/SoALayout.h",
             "DataFormats/TrackSoA/interface/alpaka/TrackUtilities.h",
+            "DataFormats/TrackingRecHitSoA/interface/alpaka/TrackingRecHitsSoACollection.h",
             "Geometry/CommonTopologies/interface/SimplePixelTopology.h",
             "HLTrigger/Configuration/python/HLT_75e33/eventsetup/hltESPPixelCPEFastParams_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltGeneralTracks_cfi.py",
@@ -2146,7 +2147,7 @@
         "created_at": 1757695547,
         "number": 48921,
         "state": "open",
-        "updated_at": 1761219797
+        "updated_at": 1761239109
     },
     "48969": {
         "base_branch": "master",
