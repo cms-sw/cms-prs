@@ -2755,5 +2755,17 @@
         "number": 49205,
         "state": "open",
         "updated_at": 1761242924
+    },
+    "49206": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoTracker/LSTCore/interface/ModulesSoA.h",
+            "RecoTracker/LSTCore/src/ModuleMethods.h",
+            "RecoTracker/LSTCore/src/alpaka/MiniDoublet.h"
+        ],
+        "created_at": 1761250318,
+        "number": 49206,
+        "state": "open",
+        "updated_at": 1761250343
     }
 }
