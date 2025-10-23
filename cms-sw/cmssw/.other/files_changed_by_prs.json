@@ -2085,6 +2085,7 @@
             "Configuration/ProcessModifiers/python/phase2LegacyPixelTracks_cff.py",
             "Configuration/PyReleaseValidation/README.md",
             "Configuration/PyReleaseValidation/python/relval_Run4.py",
+            "Configuration/PyReleaseValidation/python/relval_gpu.py",
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
             "Configuration/PyReleaseValidation/scripts/runTheMatrix.py",
             "DataFormats/SiPixelClusterSoA/interface/ClusteringConstants.h",
@@ -2121,6 +2122,7 @@
             "RecoLocalTracker/Phase2TrackerRecHits/plugins/BuildFile.xml",
             "RecoLocalTracker/Phase2TrackerRecHits/plugins/alpaka/Phase2OTRecHitsSoAConverter.cc",
             "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/SiPixelRecHitExtendedAlpaka.cc",
+            "RecoLocalTracker/SiPixelRecHits/python/SiPixelRecHits_cfi.py",
             "RecoTracker/Configuration/python/customizePixelTracksForTriplets.py",
             "RecoTracker/PixelSeeding/interface/CAGeometrySoA.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/BrokenLineFit.dev.cc",
@@ -2144,7 +2146,7 @@
         "created_at": 1757695547,
         "number": 48921,
         "state": "open",
-        "updated_at": 1760987011
+        "updated_at": 1761219797
     },
     "48969": {
         "base_branch": "master",
