@@ -2661,5 +2661,16 @@
         "number": 49206,
         "state": "open",
         "updated_at": 1761250343
+    },
+    "49207": {
+        "base_branch": "CMSSW_16_0_RNTUPLE_X",
+        "changed_files_names": [
+            "FWIO/RNTupleTempInput/src/FixMissingStreamerInfos.cc",
+            "FWIO/RNTupleTempOutput/src/RootOutputFile.cc"
+        ],
+        "created_at": 1761288100,
+        "number": 49207,
+        "state": "open",
+        "updated_at": 1761288122
     }
 }
