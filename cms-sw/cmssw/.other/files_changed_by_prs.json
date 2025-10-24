@@ -2700,5 +2700,18 @@
         "number": 49210,
         "state": "open",
         "updated_at": 1761309034
+    },
+    "49211": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/GeometrySurface/interface/SimpleConeBounds.h",
+            "DataFormats/GeometrySurface/interface/SimpleCylinderBounds.h",
+            "DataFormats/GeometrySurface/interface/SimpleDiskBounds.h",
+            "SimCalorimetry/HcalSimAlgos/interface/HcalSiPMHitResponse.h"
+        ],
+        "created_at": 1761311033,
+        "number": 49211,
+        "state": "open",
+        "updated_at": 1761311057
     }
 }
