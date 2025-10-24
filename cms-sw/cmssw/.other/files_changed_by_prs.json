@@ -2713,5 +2713,35 @@
         "number": 49211,
         "state": "open",
         "updated_at": 1761311057
+    },
+    "49212": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/TrackerRecHit2D/interface/VectorHit.h",
+            "EventFilter/SiStripRawToDigi/interface/SiStripFEDBuffer.h",
+            "EventFilter/SiStripRawToDigi/plugins/SiStripDigiToRawModule.h",
+            "RecoMuon/TransientTrackingRecHit/interface/MuonTransientTrackingRecHit.h",
+            "RecoTracker/CkfPattern/plugins/GroupedCkfTrajectoryBuilder.h",
+            "RecoTracker/TkDetLayers/src/CompositeTECPetal.h",
+            "RecoTracker/TkDetLayers/src/Phase1PixelBlade.h",
+            "RecoTracker/TkDetLayers/src/Phase2EndcapRing.h",
+            "RecoTracker/TkDetLayers/src/Phase2EndcapSingleRing.h",
+            "RecoTracker/TkDetLayers/src/PixelBlade.h",
+            "RecoTracker/TkDetLayers/src/TIBRing.h",
+            "RecoTracker/TkDetLayers/src/TIDRing.h",
+            "RecoTracker/TkNavigation/plugins/NavigationSchoolESProducer.cc",
+            "RecoTracker/TrackProducer/plugins/QualityFilter.cc",
+            "RecoTracker/TransientTrackingRecHit/interface/TRecHit1DMomConstraint.h",
+            "RecoTracker/TransientTrackingRecHit/interface/TRecHit2DPosConstraint.h",
+            "RecoTracker/TransientTrackingRecHit/interface/TRecHit5DParamConstraint.h",
+            "RecoVertex/KinematicFitPrimitives/interface/TrackKinematicStatePropagator.h",
+            "TrackingTools/GeomPropagators/interface/HelixExtrapolatorToLine2Order.h",
+            "TrackingTools/GsfTracking/interface/GsfMultipleScatteringUpdator.h",
+            "TrackingTools/PatternTools/interface/TwoTrackMinimumDistance.h"
+        ],
+        "created_at": 1761311058,
+        "number": 49212,
+        "state": "open",
+        "updated_at": 1761311084
     }
 }
