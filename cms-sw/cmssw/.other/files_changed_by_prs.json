@@ -2743,5 +2743,28 @@
         "number": 49212,
         "state": "open",
         "updated_at": 1761311084
+    },
+    "49213": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/CaloTopology/interface/CaloTowerTopology.h",
+            "Geometry/CommonTopologies/interface/PixelGeomDetType.h",
+            "Geometry/CommonTopologies/interface/PixelGeomDetUnit.h",
+            "Geometry/CommonTopologies/interface/ProxyPixelTopology.h",
+            "Geometry/CommonTopologies/interface/TrapezoidalStripTopology.h",
+            "Geometry/EcalAlgo/interface/EcalPreshowerGeometry.h",
+            "Geometry/HGCalGeometry/interface/HGCalGeometry.h",
+            "Geometry/HGCalGeometry/interface/HGCalTBGeometry.h",
+            "Geometry/MTDGeometryBuilder/interface/MTDGeomDetType.h",
+            "Geometry/MTDGeometryBuilder/interface/MTDGeomDetUnit.h",
+            "Geometry/MTDGeometryBuilder/interface/ProxyMTDTopology.h",
+            "Geometry/TrackerGeometryBuilder/interface/ProxyStripTopology.h",
+            "Geometry/TrackerGeometryBuilder/interface/StripGeomDetType.h",
+            "Geometry/TrackerGeometryBuilder/interface/StripGeomDetUnit.h"
+        ],
+        "created_at": 1761311067,
+        "number": 49213,
+        "state": "open",
+        "updated_at": 1761311089
     }
 }
