@@ -2588,31 +2588,6 @@
         "state": "open",
         "updated_at": 1761052296
     },
-    "49201": {
-        "base_branch": "CMSSW_15_1_X",
-        "changed_files_names": [
-            "DataFormats/TrackSoA/src/classes.cc",
-            "DataFormats/TrackSoA/test/TestReadHostTrackSoA.cc",
-            "DataFormats/TrackSoA/test/TestWriteHostTrackSoA.cc",
-            "DataFormats/TrackSoA/test/testReadHostTrackSoA.py",
-            "DataFormats/TrackSoA/test/testWriteHostTrackSoA.py",
-            "DataFormats/TrackingRecHitSoA/src/classes.cc",
-            "DataFormats/TrackingRecHitSoA/test/TestReadHostHitSoA.cc",
-            "DataFormats/TrackingRecHitSoA/test/TestWriteHostHitSoA.cc",
-            "DataFormats/TrackingRecHitSoA/test/testReadHostHitSoA.py",
-            "DataFormats/TrackingRecHitSoA/test/testWriteHostHitSoA.py",
-            "DataFormats/VertexSoA/test/BuildFile.xml",
-            "DataFormats/VertexSoA/test/TestReadHostVertexSoA.cc",
-            "DataFormats/VertexSoA/test/TestWriteHostVertexSoA.cc",
-            "DataFormats/VertexSoA/test/testReadHostVertexSoA.py",
-            "DataFormats/VertexSoA/test/testWriteAndReadVertexSoA.sh",
-            "DataFormats/VertexSoA/test/testWriteHostVertexSoA.py"
-        ],
-        "created_at": 1761142542,
-        "number": 49201,
-        "state": "open",
-        "updated_at": 1761145051
-    },
     "49203": {
         "base_branch": "master",
         "changed_files_names": [
