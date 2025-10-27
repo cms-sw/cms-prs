@@ -2548,12 +2548,14 @@
     "49195": {
         "base_branch": "master",
         "changed_files_names": [
-            "Alignment/OfflineValidation/scripts/plotBeamSpotFromOfflineTag.py"
+            "Alignment/OfflineValidation/scripts/plotBeamSpotFromOfflineTag.py",
+            "Alignment/OfflineValidation/test/BuildFile.xml",
+            "Alignment/OfflineValidation/test/testingScripts/test_unitBeamSpotPlotting.sh"
         ],
         "created_at": 1761047537,
         "number": 49195,
         "state": "open",
-        "updated_at": 1761047563
+        "updated_at": 1761583314
     },
     "49197": {
         "base_branch": "master",
