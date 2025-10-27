@@ -2798,5 +2798,19 @@
         "number": 49226,
         "state": "open",
         "updated_at": 1761583554
+    },
+    "49227": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/relval_standard.py",
+            "Configuration/PyReleaseValidation/python/relval_steps.py",
+            "Configuration/Skimming/python/PbPb_EWSkim_cff.py",
+            "Configuration/Skimming/python/Skims_PbPb_cff.py",
+            "Configuration/Skimming/python/autoSkim.py"
+        ],
+        "created_at": 1761586410,
+        "number": 49227,
+        "state": "open",
+        "updated_at": 1761586435
     }
 }
