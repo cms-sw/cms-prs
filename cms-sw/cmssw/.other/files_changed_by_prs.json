@@ -2406,11 +2406,13 @@
             "DataFormats/Portable/interface/PortableHostCollection.h",
             "DataFormats/Portable/interface/PortableHostObject.h",
             "DataFormats/Portable/plugins/BuildFile.xml",
-            "DataFormats/Portable/plugins/modules.cc",
+            "DataFormats/Portable/plugins/TrivialSerialisationPlugins.cc",
             "DataFormats/Portable/test/BuildFile.xml",
             "DataFormats/Portable/test/testGenericCloner_cfg.py",
+            "DataFormats/PortableTestObjects/plugins/BuildFile.xml",
+            "DataFormats/PortableTestObjects/plugins/TrivialSerialisationPlugins.cc",
             "DataFormats/StdDictionaries/plugins/BuildFile.xml",
-            "DataFormats/StdDictionaries/plugins/modules.cc",
+            "DataFormats/StdDictionaries/plugins/TrivialSerialisationPlugins.cc",
             "FWCore/Framework/interface/WrapperBaseHandle.h",
             "FWCore/Framework/interface/WrapperBaseOrphanHandle.h",
             "FWCore/Framework/src/WrapperBaseHandle.cc",
@@ -2429,7 +2431,7 @@
         "created_at": 1760384729,
         "number": 49152,
         "state": "open",
-        "updated_at": 1761116850
+        "updated_at": 1761646532
     },
     "49170": {
         "base_branch": "master",
