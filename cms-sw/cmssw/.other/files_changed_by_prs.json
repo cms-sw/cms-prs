@@ -2650,5 +2650,17 @@
         "number": 49245,
         "state": "open",
         "updated_at": 1761731588
+    },
+    "49246": {
+        "base_branch": "CMSSW_15_1_X",
+        "changed_files_names": [
+            "DQM/Integration/python/clients/pixel_dqm_sourceclient-live_cfg.py",
+            "DQM/Integration/python/clients/sistrip_dqm_sourceclient-live_cfg.py",
+            "DQM/TrackingMonitorClient/data/tracking_qualitytest_config_tier0_cosmic.xml"
+        ],
+        "created_at": 1761732473,
+        "number": 49246,
+        "state": "open",
+        "updated_at": 1761732499
     }
 }
