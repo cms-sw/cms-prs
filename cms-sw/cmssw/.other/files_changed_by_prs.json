@@ -2170,11 +2170,10 @@
     "49190": {
         "base_branch": "master",
         "changed_files_names": [
+            "DataFormats/Common/interface/MultiCollection.h",
             "DataFormats/Common/interface/MultiSpan.h",
             "DataFormats/Common/test/test_catch2_MultiSpan.cpp",
-            "DataFormats/HGCRecHit/interface/HGCRecHitCollections.h",
             "DataFormats/HGCRecHit/src/classes_def.xml",
-            "DataFormats/ParticleFlowReco/interface/PFRecHitFwd.h",
             "RecoLocalCalo/HGCalRecProducers/plugins/RecHitMapProducer.cc",
             "RecoLocalCalo/HGCalRecProducers/python/recHitMapProducer_cff.py",
             "SimCalorimetry/HGCalAssociatorProducers/plugins/AllHitToTracksterAssociatorsProducer.cc",
@@ -2199,7 +2198,7 @@
         "created_at": 1760954645,
         "number": 49190,
         "state": "open",
-        "updated_at": 1761769349
+        "updated_at": 1761813247
     },
     "49194": {
         "base_branch": "master",
