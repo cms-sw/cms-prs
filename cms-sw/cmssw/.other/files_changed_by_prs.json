@@ -2615,5 +2615,17 @@
         "number": 49271,
         "state": "open",
         "updated_at": 1761835532
+    },
+    "49272": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelPhase2DigiToCluster.cc",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToClusterKernel.dev.cc",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToClusterKernel.h"
+        ],
+        "created_at": 1761905731,
+        "number": 49272,
+        "state": "open",
+        "updated_at": 1761905753
     }
 }
