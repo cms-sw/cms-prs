@@ -2597,5 +2597,20 @@
         "number": 49275,
         "state": "open",
         "updated_at": 1761921443
+    },
+    "49276": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Services/plugins/tracer_setupFile.cc",
+            "FWCore/Services/scripts/edmTracerCompactLogViewer.py",
+            "FWCore/Services/test/BuildFile.xml",
+            "FWCore/Services/test/test_tracer_file.sh",
+            "FWCore/Services/test/tracer_cfg.py",
+            "FWCore/Services/web/transitions.js"
+        ],
+        "created_at": 1761933842,
+        "number": 49276,
+        "state": "open",
+        "updated_at": 1761933865
     }
 }
