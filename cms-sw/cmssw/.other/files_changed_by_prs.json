@@ -2146,8 +2146,8 @@
     "49190": {
         "base_branch": "master",
         "changed_files_names": [
-            "DataFormats/Common/interface/MultiCollection.h",
             "DataFormats/Common/interface/MultiSpan.h",
+            "DataFormats/Common/interface/RefProdVector.h",
             "DataFormats/Common/test/test_catch2_MultiSpan.cpp",
             "DataFormats/HGCRecHit/src/classes_def.xml",
             "RecoLocalCalo/HGCalRecProducers/plugins/RecHitMapProducer.cc",
@@ -2174,7 +2174,7 @@
         "created_at": 1760954645,
         "number": 49190,
         "state": "open",
-        "updated_at": 1761813247
+        "updated_at": 1761899484
     },
     "49194": {
         "base_branch": "master",
