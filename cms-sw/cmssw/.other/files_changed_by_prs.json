@@ -2713,5 +2713,17 @@
         "number": 49286,
         "state": "open",
         "updated_at": 1762156591
+    },
+    "49287": {
+        "base_branch": "CMSSW_15_1_X",
+        "changed_files_names": [
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtuplet.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernels.dev.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAPixelDoubletsAlgos.h"
+        ],
+        "created_at": 1762156776,
+        "number": 49287,
+        "state": "open",
+        "updated_at": 1762156801
     }
 }
