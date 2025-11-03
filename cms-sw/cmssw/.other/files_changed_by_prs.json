@@ -2214,34 +2214,6 @@
         "state": "open",
         "updated_at": 1761770728
     },
-    "49231": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "Configuration/ProcessModifiers/python/hltTrackingMkFitInitialStep_cff.py",
-            "Configuration/PyReleaseValidation/README.md",
-            "Configuration/PyReleaseValidation/python/relval_Run4.py",
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
-            "Configuration/PyReleaseValidation/scripts/runTheMatrix.py",
-            "HLTrigger/Configuration/python/HLT_75e33/eventsetup/hltESPMkFit_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepMkFitSeeds_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrackCandidatesMkFit_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrackCandidates_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltMkFitEventOfHits_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltMkFitSiPhase2Hits_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltMkFitSiPixelHits_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltMkFitSiStripHits_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTInitialStepSequence_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTMkFitInputSequence_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33_cff.py",
-            "HLTrigger/Configuration/python/HLT_75e33_timing_cff.py",
-            "RecoTracker/MkFit/plugins/MkFitOutputConverter.cc",
-            "RecoTracker/MkFit/plugins/MkFitProducer.cc"
-        ],
-        "created_at": 1761640727,
-        "number": 49231,
-        "state": "open",
-        "updated_at": 1761930432
-    },
     "49233": {
         "base_branch": "master",
         "changed_files_names": [
