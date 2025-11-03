@@ -2758,5 +2758,23 @@
         "number": 49290,
         "state": "open",
         "updated_at": 1762166360
+    },
+    "49291": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "PhysicsTools/PyTorch/BuildFile.xml",
+            "PhysicsTools/PyTorch/test/BuildFile.xml",
+            "PhysicsTools/PyTorch/test/create_simple_dnn.py",
+            "PhysicsTools/PyTorch/test/test_simple_dnn.py",
+            "PhysicsTools/PyTorch/test/torch-control-flow.py",
+            "PhysicsTools/PyTorch/test/torch-cpu-cuda.py",
+            "PhysicsTools/PyTorch/test/torch-cuda.py",
+            "PhysicsTools/PyTorch/test/torch-mini-nn.py",
+            "PhysicsTools/PyTorch/test/torch-tensor.py"
+        ],
+        "created_at": 1762166768,
+        "number": 49291,
+        "state": "open",
+        "updated_at": 1762166789
     }
 }
