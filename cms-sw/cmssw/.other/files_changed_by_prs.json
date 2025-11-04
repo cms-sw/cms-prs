@@ -3110,6 +3110,7 @@
     "49304": {
         "base_branch": "CMSSW_15_1_X",
         "changed_files_names": [
+            "Configuration/AlCa/python/autoCond.py",
             "Configuration/HLT/python/autoCondHLT.py",
             "HLTrigger/Configuration/python/HLT_2025v13_cff.py",
             "HLTrigger/Configuration/python/HLT_FULL_cff.py",
@@ -3142,7 +3143,7 @@
         "created_at": 1762244189,
         "number": 49304,
         "state": "open",
-        "updated_at": 1762244207
+        "updated_at": 1762264225
     },
     "49305": {
         "base_branch": "master",
