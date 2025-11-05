@@ -1835,18 +1835,20 @@
     "48729": {
         "base_branch": "master",
         "changed_files_names": [
+            "FWCore/Utilities/interface/Abs.h",
             "MagneticField/ParametrizedEngine/BuildFile.xml",
             "MagneticField/ParametrizedEngine/interface/ParabolicParametrizedMagneticField.h",
-            "MagneticField/PortableParametrizations/interface/alpaka/ParabolicParametricTrackerMagneticField.h",
-            "MagneticField/PortableParametrizations/test/BuildFile.xml",
+            "MagneticField/Portable/README.md",
+            "MagneticField/Portable/interface/ParabolicMagneticField.h",
+            "MagneticField/Portable/test/BuildFile.xml",
             "MagneticField/ParametrizedEngine/test/BuildFile.xml",
-            "MagneticField/PortableParametrizations/test/alpaka/testParabolicParametrizedTrackerField.dev.cc",
+            "MagneticField/Portable/test/alpaka/testParabolicParametrizedTrackerField.dev.cc",
             "MagneticField/ParametrizedEngine/test/alpaka/testParabolicParametrizedMagneticField.dev.cc"
         ],
         "created_at": 1755024833,
         "number": 48729,
         "state": "open",
-        "updated_at": 1760964129
+        "updated_at": 1762355992
     },
     "48817": {
         "base_branch": "master",
