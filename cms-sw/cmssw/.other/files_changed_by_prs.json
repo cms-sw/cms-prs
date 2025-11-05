@@ -2202,6 +2202,7 @@
             "FWCore/TestModules/plugins/GenericCloner.cc",
             "FWCore/TestModules/test/BuildFile.xml",
             "FWCore/TestModules/test/testGenericCloner_cfg.py",
+            "HLTrigger/Timer/plugins/ThroughputService.cc",
             "HeterogeneousCore/MPICore/.gitignore",
             "HeterogeneousCore/MPICore/BuildFile.xml",
             "HeterogeneousCore/MPICore/README.md",
@@ -2234,6 +2235,8 @@
             "HeterogeneousCore/MPICore/test/follower_cfg.py",
             "HeterogeneousCore/MPICore/test/plotters/averager.py",
             "HeterogeneousCore/MPICore/test/plotters/averager_dummy.py",
+            "HeterogeneousCore/MPICore/test/plotters/errored_averager.py",
+            "HeterogeneousCore/MPICore/test/plotters/histogram_plotter.py",
             "HeterogeneousCore/MPICore/test/plotters/plotter_for_dummy.py",
             "HeterogeneousCore/MPICore/test/plotters/plotter_per_approach.py",
             "HeterogeneousCore/MPICore/test/testMPIApplication.sh",
@@ -2257,6 +2260,7 @@
             "HeterogeneousCore/MPICore/test/test_scripts_and_configs/real/measurement_local-remote_t-s-c_remote-oversub.sh",
             "HeterogeneousCore/MPICore/test/test_scripts_and_configs/real/measurement_local-remote_t-s-c_same-cores.sh",
             "HeterogeneousCore/MPICore/test/test_scripts_and_configs/real/measurement_milan-genoa_t-s-c.sh",
+            "HeterogeneousCore/MPICore/test/test_scripts_and_configs/real/measurement_same_socket.sh",
             "HeterogeneousCore/MPICore/test/test_scripts_and_configs/real/measurement_whole_hlt_t-s-c.sh",
             "HeterogeneousCore/MPICore/test/test_scripts_and_configs/real/run383631_cff.py",
             "HeterogeneousCore/MPICore/test/test_scripts_and_configs/real/run_all.sh",
@@ -2265,7 +2269,7 @@
         "created_at": 1761655841,
         "number": 49233,
         "state": "open",
-        "updated_at": 1761668478
+        "updated_at": 1762351736
     },
     "49235": {
         "base_branch": "master",
