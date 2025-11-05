@@ -3018,12 +3018,15 @@
     "49301": {
         "base_branch": "master",
         "changed_files_names": [
-            "FWCore/Framework/interface/global/implementors.h"
+            "FWCore/Framework/interface/global/implementors.h",
+            "FWCore/Framework/interface/limited/implementors.h",
+            "FWCore/Framework/interface/one/implementors.h",
+            "FWCore/Utilities/interface/disable_ubsan.h"
         ],
         "created_at": 1762208612,
         "number": 49301,
         "state": "open",
-        "updated_at": 1762208641
+        "updated_at": 1762304486
     },
     "49302": {
         "base_branch": "master",
