@@ -3142,5 +3142,21 @@
         "number": 49339,
         "state": "open",
         "updated_at": 1762458278
+    },
+    "49340": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareRecHits.cc",
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareRecHitsSoA.cc",
+            "DQMOffline/Configuration/python/DQMOffline_SecondStep_cff.py",
+            "DQMOffline/Configuration/python/autoDQM.py",
+            "DQMOffline/Trigger/python/HeterogeneousMonitoringClient_cff.py",
+            "DQMOffline/Trigger/python/HeterogeneousMonitoring_cff.py"
+        ],
+        "created_at": 1762462112,
+        "number": 49340,
+        "state": "open",
+        "updated_at": 1762462191
     }
 }
