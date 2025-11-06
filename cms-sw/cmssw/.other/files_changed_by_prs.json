@@ -3149,5 +3149,28 @@
         "number": 49326,
         "state": "open",
         "updated_at": 1762357748
+    },
+    "49328": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoTracker/LST/plugins/alpaka/LSTInputProducer.cc",
+            "RecoTracker/LST/plugins/alpaka/LSTProducer.cc",
+            "RecoTracker/LSTCore/interface/LSTInputSoA.h",
+            "RecoTracker/LSTCore/interface/LSTPrepareInput.h",
+            "RecoTracker/LSTCore/interface/alpaka/LST.h",
+            "RecoTracker/LSTCore/src/alpaka/LST.cc",
+            "RecoTracker/LSTCore/src/alpaka/LSTEvent.dev.cc",
+            "RecoTracker/LSTCore/src/alpaka/LSTEvent.h",
+            "RecoTracker/LSTCore/src/alpaka/MiniDoublet.h",
+            "RecoTracker/LSTCore/standalone/bin/lst.cc",
+            "RecoTracker/LSTCore/standalone/code/core/AnalysisConfig.h",
+            "RecoTracker/LSTCore/standalone/code/rooutil/treeutil.cc",
+            "RecoTracker/LSTCore/standalone/code/rooutil/treeutil.h",
+            "Validation/RecoTrack/plugins/TrackingNtuple.cc"
+        ],
+        "created_at": 1762408453,
+        "number": 49328,
+        "state": "open",
+        "updated_at": 1762408482
     }
 }
