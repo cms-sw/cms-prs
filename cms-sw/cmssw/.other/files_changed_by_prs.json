@@ -3175,5 +3175,16 @@
         "number": 49341,
         "state": "open",
         "updated_at": 1762517320
+    },
+    "49342": {
+        "base_branch": "CMSSW_15_1_X",
+        "changed_files_names": [
+            "DQM/EcalCommon/src/MESetEcal.cc",
+            "DQM/EcalMonitorTasks/python/SelectiveReadoutTask_cfi.py"
+        ],
+        "created_at": 1762517592,
+        "number": 49342,
+        "state": "open",
+        "updated_at": 1762517618
     }
 }
