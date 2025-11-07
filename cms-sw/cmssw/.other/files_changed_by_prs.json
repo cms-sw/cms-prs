@@ -3241,5 +3241,22 @@
         "number": 49345,
         "state": "open",
         "updated_at": 1762526667
+    },
+    "49346": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/Generator/python/SingleMuPt10_Eta1p5_2p7_cfi.py",
+            "DataFormats/SiPixelClusterSoA/interface/ClusteringConstants.h",
+            "Geometry/CommonTopologies/interface/SimplePixelTopology.h",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2PixelTracksSoA_cfi.py",
+            "RecoLocalTracker/Phase2TrackerRecHits/plugins/alpaka/Phase2OTRecHitsSoAConverter.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtuplet.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAPixelDoubletsAlgos.h",
+            "RecoTracker/PixelTrackFitting/plugins/PixelTrackProducerFromSoAAlpaka.cc"
+        ],
+        "created_at": 1762531617,
+        "number": 49346,
+        "state": "open",
+        "updated_at": 1762531645
     }
 }
