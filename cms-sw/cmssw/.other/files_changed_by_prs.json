@@ -3186,5 +3186,30 @@
         "number": 49342,
         "state": "open",
         "updated_at": 1762517618
+    },
+    "49343": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclCandidate_cfi.py",
+            "RecoHGCal/TICL/interface/TracksterInferenceAlgoBase.h",
+            "RecoHGCal/TICL/interface/TracksterInferenceByANN.h",
+            "RecoHGCal/TICL/interface/TracksterInferenceByCNNv4.h",
+            "RecoHGCal/TICL/interface/TracksterInferenceByDNN.h",
+            "RecoHGCal/TICL/interface/TracksterInferenceByPFN.h",
+            "RecoHGCal/TICL/plugins/TICLCandidateProducer.cc",
+            "RecoHGCal/TICL/plugins/TracksterInferenceByANN.cc",
+            "RecoHGCal/TICL/plugins/TracksterInferenceByCNNv4.cc",
+            "RecoHGCal/TICL/plugins/TracksterInferenceByDNN.cc",
+            "RecoHGCal/TICL/plugins/TracksterInferenceByPFN.cc",
+            "RecoHGCal/TICL/plugins/TracksterLinksProducer.cc",
+            "RecoHGCal/TICL/plugins/TrackstersProducer.cc",
+            "RecoHGCal/TICL/python/iterativeTICL_cff.py",
+            "RecoLocalCalo/HGCalRecAlgos/interface/RecHitTools.h",
+            "RecoLocalCalo/HGCalRecAlgos/src/RecHitTools.cc"
+        ],
+        "created_at": 1762520214,
+        "number": 49343,
+        "state": "open",
+        "updated_at": 1762520237
     }
 }
