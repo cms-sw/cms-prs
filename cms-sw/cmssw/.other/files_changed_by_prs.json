@@ -3158,5 +3158,19 @@
         "number": 49360,
         "state": "open",
         "updated_at": 1762790224
+    },
+    "49361": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoLocalFastTime/FTLCommonAlgos/plugins/ETLUncalibRecHitAlgo.cc",
+            "RecoLocalFastTime/FTLRecProducers/python/mtdUncalibratedRecHits_cfi.py",
+            "SimFastTiming/FastTimingCommon/interface/ETLDeviceSim.h",
+            "SimFastTiming/FastTimingCommon/python/mtdDigitizer_cfi.py",
+            "SimFastTiming/FastTimingCommon/src/ETLDeviceSim.cc"
+        ],
+        "created_at": 1762800190,
+        "number": 49361,
+        "state": "open",
+        "updated_at": 1762800213
     }
 }
