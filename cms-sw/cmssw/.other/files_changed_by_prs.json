@@ -3138,12 +3138,16 @@
         "changed_files_names": [
             "DQMOffline/Configuration/python/DQMOffline_cff.py",
             "DQMOffline/JetMET/python/jetMETDQMOfflineSource_cff.py",
-            "HLTriggerOffline/Scouting/python/HLTScoutingEGammaDqmOffline_cff.py"
+            "HLTriggerOffline/Scouting/plugins/PatElectronTagProbeAnalyzer.cc",
+            "HLTriggerOffline/Scouting/plugins/ScoutingEGammaCollectionMonitoring.cc",
+            "HLTriggerOffline/Scouting/python/HLTScoutingEGammaDqmOffline_cff.py",
+            "HLTriggerOffline/Scouting/python/PatElectronTagProbeAnalyzer_cfi.py",
+            "HLTriggerOffline/Scouting/python/ScoutingEGammaCollectionMonitoring_cfi.py"
         ],
         "created_at": 1762789118,
         "number": 49358,
         "state": "open",
-        "updated_at": 1762789144
+        "updated_at": 1762798192
     },
     "49360": {
         "base_branch": "master",
