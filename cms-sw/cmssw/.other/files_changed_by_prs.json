@@ -2988,9 +2988,11 @@
             "Configuration/PyReleaseValidation/python/relval_Run4.py",
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
             "Configuration/PyReleaseValidation/scripts/runTheMatrix.py",
+            "Configuration/StandardSequences/python/earlyDeleteSettings_cff.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrackCandidatesMkFitFit_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTracks_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTInitialStepSequence_cfi.py",
+            "RecoTracker/Configuration/python/customiseEarlyDeleteForMkFit.py",
             "RecoTracker/MkFit/plugins/MkFitFitProducer.cc",
             "RecoTracker/MkFit/plugins/MkFitOutputTrackConverter.cc",
             "RecoTracker/MkFitCMS/interface/runFunctions.h",
@@ -3008,7 +3010,7 @@
         "created_at": 1762458246,
         "number": 49339,
         "state": "open",
-        "updated_at": 1762556514
+        "updated_at": 1762802750
     },
     "49341": {
         "base_branch": "master",
