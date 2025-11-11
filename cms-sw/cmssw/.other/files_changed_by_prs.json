@@ -2178,12 +2178,16 @@
     "49217": {
         "base_branch": "CMSSW_15_0_X",
         "changed_files_names": [
+            "Configuration/Eras/python/Era_Run3_2025_FtoG_cff.py",
+            "Configuration/Eras/python/Era_Run3_2025_cff.py",
+            "Configuration/Eras/python/Modifier_run3_CSC_2025_cff.py",
+            "L1Trigger/CSCTriggerPrimitives/python/cscTriggerPrimitiveDigis_cfi.py",
             "L1Trigger/CSCTriggerPrimitives/python/params/showerParams.py"
         ],
         "created_at": 1761348567,
         "number": 49217,
         "state": "open",
-        "updated_at": 1761770728
+        "updated_at": 1762893792
     },
     "49233": {
         "base_branch": "master",
