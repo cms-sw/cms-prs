@@ -3033,21 +3033,14 @@
     "49358": {
         "base_branch": "master",
         "changed_files_names": [
-            "DQM/HLTEvF/plugins/ScoutingCollectionMonitor.cc",
             "DQMOffline/Configuration/python/DQMOffline_cff.py",
             "DQMOffline/JetMET/python/jetMETDQMOfflineSource_cff.py",
-            "HLTriggerOffline/Scouting/plugins/PatElectronTagProbeAnalyzer.cc",
-            "HLTriggerOffline/Scouting/plugins/ScoutingEGammaCollectionMonitoring.cc",
-            "HLTriggerOffline/Scouting/plugins/ScoutingElectronTagProbeAnalyzer.cc",
-            "HLTriggerOffline/Scouting/plugins/ScoutingMuonPropertiesAnalyzer.cc",
-            "HLTriggerOffline/Scouting/plugins/ScoutingMuonTagProbeAnalyzer.cc",
-            "HLTriggerOffline/Scouting/plugins/ScoutingMuonTriggerAnalyzer.cc",
-            "HLTriggerOffline/Scouting/python/HLTScoutingEGammaDqmOffline_cff.py"
+            "HLTriggerOffline/Scouting/plugins/ScoutingEGammaCollectionMonitoring.cc"
         ],
         "created_at": 1762789118,
         "number": 49358,
         "state": "open",
-        "updated_at": 1762849887
+        "updated_at": 1762875694
     },
     "49360": {
         "base_branch": "master",
