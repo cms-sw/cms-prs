@@ -3118,5 +3118,35 @@
         "number": 49376,
         "state": "open",
         "updated_at": 1762953258
+    },
+    "49378": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Framework/interface/resolveMaker.h",
+            "FWCore/Framework/src/EventProcessor.cc",
+            "FWCore/Framework/src/ExceptionActions.cc",
+            "FWCore/Framework/src/InputSourceFactory.cc",
+            "FWCore/Framework/src/OutputModuleCore.cc",
+            "FWCore/Framework/src/one/OutputModuleBase.cc",
+            "FWCore/PluginManager/src/PresenceFactory.cc",
+            "FWCore/Sources/src/VectorInputSourceFactory.cc",
+            "FWCore/Utilities/doc/Utilities.doc",
+            "FWCore/Utilities/interface/DebugMacros.h",
+            "FWCore/Utilities/src/DebugMacros.cc",
+            "FWCore/Utilities/src/UnixSignalHandlers.cc",
+            "IOPool/Streamer/interface/ClassFiller.h",
+            "IOPool/Streamer/interface/StreamerInputModule.h",
+            "IOPool/Streamer/src/ClassFiller.cc",
+            "IOPool/Streamer/src/StreamSerializer.cc",
+            "IOPool/Streamer/src/StreamerFileReader.cc",
+            "IOPool/Streamer/src/StreamerInputFile.cc",
+            "IOPool/Streamer/src/StreamerInputSource.cc",
+            "IOPool/Streamer/src/StreamerOutputModuleCommon.cc",
+            "IOPool/Streamer/src/StreamerOutputMsgBuilders.cc"
+        ],
+        "created_at": 1762960273,
+        "number": 49378,
+        "state": "open",
+        "updated_at": 1762960297
     }
 }
