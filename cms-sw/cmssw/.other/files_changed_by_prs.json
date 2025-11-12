@@ -2059,39 +2059,6 @@
         "state": "open",
         "updated_at": 1761834523
     },
-    "49190": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DataFormats/Common/interface/MultiSpan.h",
-            "DataFormats/Common/interface/RefProdVector.h",
-            "DataFormats/Common/test/test_catch2_MultiSpan.cpp",
-            "DataFormats/HGCRecHit/src/classes_def.xml",
-            "RecoLocalCalo/HGCalRecProducers/plugins/RecHitMapProducer.cc",
-            "RecoLocalCalo/HGCalRecProducers/python/recHitMapProducer_cff.py",
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/AllHitToTracksterAssociatorsProducer.cc",
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/AllTracksterToSimTracksterAssociatorsByHitsProducer.cc",
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/HitToSimClusterCaloParticleAssociatorProducer.cc",
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/HitToSimClusterCaloParticleAssociatorProducer.h",
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToCPAssociatorByEnergyScoreImpl.cc",
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToCPAssociatorByEnergyScoreImpl.h",
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToCPAssociatorByEnergyScoreProducer.cc",
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToCPAssociatorByEnergyScoreProducer.h",
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToSCAssociatorByEnergyScoreImpl.cc",
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToSCAssociatorByEnergyScoreImpl.h",
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToSCAssociatorByEnergyScoreProducer.cc",
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToSCAssociatorByEnergyScoreProducer.h",
-            "Validation/Configuration/python/hltHGCalSimValid_cff.py",
-            "Validation/HGCalValidation/interface/BarrelValidator.h",
-            "Validation/HGCalValidation/interface/HGCalValidator.h",
-            "Validation/HGCalValidation/plugins/BarrelValidator.cc",
-            "Validation/HGCalValidation/plugins/HGCalValidator.cc",
-            "Validation/HGCalValidation/python/HLTHGCalValidator_cff.py"
-        ],
-        "created_at": 1760954645,
-        "number": 49190,
-        "state": "open",
-        "updated_at": 1762002035
-    },
     "49194": {
         "base_branch": "master",
         "changed_files_names": [
