@@ -3101,5 +3101,22 @@
         "number": 49375,
         "state": "open",
         "updated_at": 1762953101
+    },
+    "49376": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/TrackerCommonData/data/CRack_PhaseII/README.md",
+            "Geometry/TrackerCommonData/data/CRack_PhaseII/step1_cosmics_for_crack.py",
+            "Geometry/TrackerCommonData/data/CRack_PhaseII/myTrackerOnly_cfg.py",
+            "Geometry/TrackerCommonData/data/CRack_PhaseII/step2_digi_ttclusters_ttstubs_cluster1Dobj.py",
+            "Geometry/TrackerCommonData/data/CRack_PhaseII/tob.xml",
+            "Geometry/TrackerCommonData/data/CRack_PhaseII/trackerStructureTopology.xml",
+            "Geometry/TrackerCommonData/data/CRack_PhaseII/trackersens.xml",
+            "SimG4Core/Configuration/python/customise_trackerOnlySim.py"
+        ],
+        "created_at": 1762953229,
+        "number": 49376,
+        "state": "open",
+        "updated_at": 1762953258
     }
 }
