@@ -2959,12 +2959,14 @@
         "base_branch": "master",
         "changed_files_names": [
             "DQMOffline/Configuration/python/DQMOffline_cff.py",
+            "DQMOffline/HLTScouting/python/HLTScoutingDqmOffline_cff.py",
+            "DQMOffline/JetMET/python/jetAnalyzer_cff.py",
             "DQMOffline/JetMET/python/jetMETDQMOfflineSource_cff.py"
         ],
         "created_at": 1762789118,
         "number": 49358,
         "state": "open",
-        "updated_at": 1762875910
+        "updated_at": 1762944379
     },
     "49361": {
         "base_branch": "master",
