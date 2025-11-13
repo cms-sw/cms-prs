@@ -2964,36 +2964,6 @@
         "state": "open",
         "updated_at": 1762961165
     },
-    "49370": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "FWCore/Framework/interface/EventSetupImpl.h",
-            "FWCore/Framework/test/BuildFile.xml",
-            "FWCore/Framework/test/global_filter_catch2.cc",
-            "FWCore/Framework/test/global_filter_t.cppunit.cc",
-            "FWCore/Framework/test/global_outputmodule_catch2.cc",
-            "FWCore/Framework/test/global_outputmodule_t.cppunit.cc",
-            "FWCore/Framework/test/global_producer_catch2.cc",
-            "FWCore/Framework/test/global_producer_t.cppunit.cc",
-            "FWCore/Framework/test/limited_filter_catch2.cc",
-            "FWCore/Framework/test/limited_filter_t.cppunit.cc",
-            "FWCore/Framework/test/limited_outputmodule_catch2.cc",
-            "FWCore/Framework/test/limited_outputmodule_t.cppunit.cc",
-            "FWCore/Framework/test/limited_producer_catch2.cc",
-            "FWCore/Framework/test/limited_producer_t.cppunit.cc",
-            "FWCore/Framework/test/makeEmptyEventSetupImplForTest.h",
-            "FWCore/Framework/test/one_outputmodule_catch2.cc",
-            "FWCore/Framework/test/one_outputmodule_t.cppunit.cc",
-            "FWCore/Framework/test/stream_filter_catch2.cc",
-            "FWCore/Framework/test/stream_filter_t.cppunit.cc",
-            "FWCore/Framework/test/stream_producer_catch2.cc",
-            "FWCore/Framework/test/stream_producer_t.cppunit.cc"
-        ],
-        "created_at": 1762889541,
-        "number": 49370,
-        "state": "open",
-        "updated_at": 1762889572
-    },
     "49371": {
         "base_branch": "CMSSW_15_1_X",
         "changed_files_names": [
