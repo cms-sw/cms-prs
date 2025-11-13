@@ -3061,5 +3061,43 @@
         "number": 49381,
         "state": "open",
         "updated_at": 1763027500
+    },
+    "49382": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/EventContent/python/EventContent_cff.py",
+            "DQM/Integration/python/clients/beam_dqm_sourceclient-live_cfg.py",
+            "DQMOffline/Trigger/python/TrackingMonitoring_cff.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltGeneralTracks_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHighPtTripletStepTrackCandidates_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHighPtTripletStepTrackCandidatespLSTCLST_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHighPtTripletStepTrackCutClassifier_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHighPtTripletStepTrackCutClassifierpLSTCLST_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHighPtTripletStepTrackSelectionHighPuritypLSTCLST_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHighPtTripletStepTrackspLSTCLST_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrackCutClassifier_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrackCutClassifierpLSTCLST_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrackCutClassifierpTTCLST_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrackSelectionHighPuritypLSTCLST_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrackSelectionHighPuritypTTCLST_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTracks_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrackspLSTCLST_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrackspTTCLST_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltIter0Phase2L3FromL1TkMuonTrackCutClassifier_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltIter2Phase2L3FromL1TkMuonTrackCutClassifier_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2L3MuonHighPtTripletStepTrackCutClassifier_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2L3MuonInitialStepTrackCutClassifier_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2L3OIMuonTrackCutClassifier_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2PixelTracksCutClassifier_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTHighPtTripletStepSequence_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTInitialStepSequence_cfi.py",
+            "RecoTracker/FinalTrackSelectors/plugins/TrackCutClassifier.cc",
+            "Validation/RecoTrack/python/HLTmultiTrackValidator_cff.py",
+            "Validation/RecoTrack/python/customiseTrackingNtuple.py"
+        ],
+        "created_at": 1763032976,
+        "number": 49382,
+        "state": "open",
+        "updated_at": 1763033002
     }
 }
