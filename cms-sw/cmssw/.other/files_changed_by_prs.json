@@ -2178,7 +2178,8 @@
             "HeterogeneousCore/MPICore/test/test_scripts_and_configs/real/measurement_local-remote_t-s-c_different_sockets.sh",
             "HeterogeneousCore/MPICore/test/test_scripts_and_configs/real/measurement_local-remote_t-s-c_remote-oversub.sh",
             "HeterogeneousCore/MPICore/test/test_scripts_and_configs/real/measurement_local-remote_t-s-c_same-cores.sh",
-            "HeterogeneousCore/MPICore/test/test_scripts_and_configs/real/measurement_milan-genoa_t-s-c.sh",
+            "HeterogeneousCore/MPICore/test/test_scripts_and_configs/real/measurement_milan-genoa_mpich.sh",
+            "HeterogeneousCore/MPICore/test/test_scripts_and_configs/real/measurement_milan-genoa_openmpi.sh",
             "HeterogeneousCore/MPICore/test/test_scripts_and_configs/real/measurement_same_socket.sh",
             "HeterogeneousCore/MPICore/test/test_scripts_and_configs/real/measurement_whole_hlt_t-s-c.sh",
             "HeterogeneousCore/MPICore/test/test_scripts_and_configs/real/run383631_cff.py",
@@ -2188,7 +2189,7 @@
         "created_at": 1761655841,
         "number": 49233,
         "state": "open",
-        "updated_at": 1762351828
+        "updated_at": 1763133969
     },
     "49235": {
         "base_branch": "master",
