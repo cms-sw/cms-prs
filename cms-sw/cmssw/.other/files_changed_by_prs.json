@@ -2963,26 +2963,6 @@
         "state": "open",
         "updated_at": 1762953258
     },
-    "49380": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "FWCore/Framework/interface/ComponentConstructionSentry.h",
-            "FWCore/Framework/interface/ComponentMaker.h",
-            "FWCore/Framework/interface/EventSetupProvider.h",
-            "FWCore/Framework/src/ComponentConstructionSentry.cc",
-            "FWCore/ServiceRegistry/interface/ActivityRegistry.h",
-            "FWCore/ServiceRegistry/src/ActivityRegistry.cc",
-            "FWCore/Services/plugins/Tracer.cc",
-            "FWCore/Services/plugins/tracer_setupFile.cc",
-            "FWCore/Services/scripts/edmTracerCompactLogViewer.py",
-            "FWCore/Services/test/test_tracer_file.sh",
-            "FWCore/Services/test/tracer_cfg.py"
-        ],
-        "created_at": 1762980865,
-        "number": 49380,
-        "state": "open",
-        "updated_at": 1763061116
-    },
     "49381": {
         "base_branch": "master",
         "changed_files_names": [
