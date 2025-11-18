@@ -3134,5 +3134,26 @@
         "number": 49413,
         "state": "open",
         "updated_at": 1763499435
+    },
+    "49414": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "SimG4Core/CustomPhysics/BuildFile.xml",
+            "SimG4Core/CustomPhysics/data/RhadronPythiaDecayerCommands.txt",
+            "SimG4Core/CustomPhysics/interface/RHDecayTracer.h",
+            "SimG4Core/CustomPhysics/interface/RHadronPythiaDecayDataManager.h",
+            "SimG4Core/CustomPhysics/interface/RHadronPythiaDecayer.h",
+            "SimG4Core/CustomPhysics/plugins/RHDecayTracer.cc",
+            "SimG4Core/CustomPhysics/plugins/module.cc",
+            "SimG4Core/CustomPhysics/python/CustomPhysics_cfi.py",
+            "SimG4Core/CustomPhysics/python/Exotica_HSCP_SIM_cfi.py",
+            "SimG4Core/CustomPhysics/src/CustomParticleFactory.cc",
+            "SimG4Core/CustomPhysics/src/CustomPhysicsList.cc",
+            "SimG4Core/CustomPhysics/src/RHadronPythiaDecayer.cc"
+        ],
+        "created_at": 1763500094,
+        "number": 49414,
+        "state": "open",
+        "updated_at": 1763500117
     }
 }
