@@ -3132,5 +3132,16 @@
         "number": 49417,
         "state": "open",
         "updated_at": 1763547808
+    },
+    "49418": {
+        "base_branch": "CMSSW_15_1_X",
+        "changed_files_names": [
+            "Calibration/EcalCalibAlgos/plugins/EcalPhiSymRecHitProducers.cc",
+            "Calibration/EcalCalibAlgos/python/EcalPhiSymRecHitProducers_cfi.py"
+        ],
+        "created_at": 1763548869,
+        "number": 49418,
+        "state": "open",
+        "updated_at": 1763548892
     }
 }
