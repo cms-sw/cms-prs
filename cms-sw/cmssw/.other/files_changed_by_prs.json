@@ -3081,5 +3081,24 @@
         "number": 49436,
         "state": "open",
         "updated_at": 1763738465
+    },
+    "49437": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondTools/Geometry/test/calogeometryRun4writer.py",
+            "CondTools/Geometry/test/hgcalgeometrywriter.py",
+            "CondTools/Geometry/test/me0geometrywriter.py",
+            "CondTools/Geometry/test/writehelpers/geometryExtendedRun4_writer.py",
+            "CondTools/Geometry/test/writehelpers/geometryExtendedRun4_xmlwriter.py",
+            "CondTools/Geometry/test/writehelpers/splitExtendedRun4Database.sh",
+            "Configuration/PyReleaseValidation/python/relval_Run4.py",
+            "Configuration/PyReleaseValidation/python/relval_steps.py",
+            "Configuration/PyReleaseValidation/scripts/runTheMatrix.py",
+            "Configuration/StandardSequences/python/DD4hep_GeometrySimPhase2_cff.py"
+        ],
+        "created_at": 1763748901,
+        "number": 49437,
+        "state": "open",
+        "updated_at": 1763748924
     }
 }
