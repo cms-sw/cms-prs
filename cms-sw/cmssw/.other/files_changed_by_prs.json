@@ -3088,5 +3088,22 @@
         "number": 49444,
         "state": "open",
         "updated_at": 1763840715
+    },
+    "49445": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/ParticleFlowReco/interface/CaloRecHitSoA.h",
+            "DataFormats/ParticleFlowReco/src/alpaka/classes_cuda.h",
+            "DataFormats/ParticleFlowReco/src/alpaka/classes_rocm.h",
+            "DataFormats/ParticleFlowReco/src/classes_serial.cc",
+            "DataFormats/ParticleFlowReco/src/classes_serial.h",
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFClusterSoAProducerKernel.h",
+            "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/CalorimeterDefinitions.h",
+            "RecoParticleFlow/PFRecHitProducer/test/PFRecHitProducerTest.cc"
+        ],
+        "created_at": 1763857197,
+        "number": 49445,
+        "state": "open",
+        "updated_at": 1763857223
     }
 }
