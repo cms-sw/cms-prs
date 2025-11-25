@@ -2965,5 +2965,17 @@
         "number": 49471,
         "state": "open",
         "updated_at": 1764086115
+    },
+    "49472": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQMServices/Demo/test/BuildFile.xml",
+            "DQMServices/Demo/test/test_dqm_compare_histogram.sh",
+            "DQMServices/FileIO/scripts/compareHistograms.py"
+        ],
+        "created_at": 1764097071,
+        "number": 49472,
+        "state": "open",
+        "updated_at": 1764097093
     }
 }
