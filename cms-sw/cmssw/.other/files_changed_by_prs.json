@@ -3282,5 +3282,23 @@
         "number": 49491,
         "state": "open",
         "updated_at": 1764162882
+    },
+    "49492": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HLTrigger/Egamma/plugins/HLTEgammaCaloIsolFilterPairs.cc",
+            "HLTrigger/Egamma/plugins/HLTEgammaEtFilterPairs.cc",
+            "HLTrigger/Egamma/plugins/HLTGenericFilter.cc",
+            "HLTrigger/Muon/plugins/HLTMuonL1TFilter.cc",
+            "HLTrigger/Muon/plugins/HLTMuonL1TRegionalFilter.cc",
+            "HLTrigger/btau/plugins/HLTmumutkFilter.cc",
+            "HLTrigger/btau/plugins/HLTmumutktkFilter.cc",
+            "RecoEgamma/EgammaHLTProducers/plugins/EgammaHLTPhase2ExtraProducer.cc",
+            "RecoTauTag/HLTProducers/src/L2TauPixelTrackMatch.cc"
+        ],
+        "created_at": 1764162867,
+        "number": 49492,
+        "state": "open",
+        "updated_at": 1764162889
     }
 }
