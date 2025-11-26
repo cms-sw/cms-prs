@@ -3311,5 +3311,28 @@
         "number": 49493,
         "state": "open",
         "updated_at": 1764162919
+    },
+    "49494": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DetectorDescription/Parser/src/DDLParser.cc",
+            "Geometry/EcalTestBeam/plugins/EcalTBHodoscopeGeometryLoaderFromDDD.cc",
+            "Geometry/GEMGeometryBuilder/src/ME0GeometryBuilder.cc",
+            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc",
+            "Geometry/HGCalMapping/plugins/alpaka/HGCalMappingModuleESProducer.cc",
+            "Geometry/HGCalTBCommonData/src/HGCalTBDDDConstants.cc",
+            "Geometry/HcalAlgo/plugins/dd4hep/DDHCalLinearXY.cc",
+            "Geometry/HcalCommonData/src/HcalDDDRecConstants.cc",
+            "Geometry/MTDGeometryBuilder/src/MTDGeomBuilderFromGeometricTimingDet.cc",
+            "Geometry/MTDGeometryBuilder/src/MTDGeometry.cc",
+            "Geometry/MuonNumbering/src/MuonGeometryNumbering.cc",
+            "Geometry/TrackerCommonData/plugins/dd4hep/DDPixBarLayerAlgo.cc",
+            "Geometry/TrackerGeometryBuilder/src/TrackerGeomBuilderFromGeometricDet.cc",
+            "Geometry/TrackerGeometryBuilder/src/TrackerGeometry.cc"
+        ],
+        "created_at": 1764162898,
+        "number": 49494,
+        "state": "open",
+        "updated_at": 1764162920
     }
 }
