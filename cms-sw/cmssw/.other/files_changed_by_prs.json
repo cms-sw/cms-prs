@@ -2943,7 +2943,6 @@
             "DataFormats/Portable/interface/PortableObject.h",
             "DataFormats/PortableTestObjects/plugins/BuildFile.xml",
             "DataFormats/PortableTestObjects/plugins/serialisation.cc",
-            "DataFormats/SiPixelClusterSoA/BuildFile.xml",
             "DataFormats/SiPixelClusterSoA/interface/SiPixelClustersHost.h",
             "DataFormats/SiPixelClusterSoA/plugins/BuildFile.xml",
             "DataFormats/SiPixelClusterSoA/plugins/serialisation.cc",
@@ -2958,13 +2957,6 @@
             "DataFormats/TrackingRecHitSoA/plugins/serialisation.cc",
             "DataFormats/VertexSoA/plugins/BuildFile.xml",
             "DataFormats/VertexSoA/plugins/serialisation.cc",
-            "FWCore/Framework/interface/WrapperBaseHandle.h",
-            "FWCore/Framework/interface/WrapperBaseOrphanHandle.h",
-            "FWCore/Framework/src/WrapperBaseHandle.cc",
-            "FWCore/Integration/plugins/BuildFile.xml",
-            "FWCore/Integration/plugins/WrapperBaseProducer.cc",
-            "FWCore/Integration/test/BuildFile.xml",
-            "FWCore/Integration/test/testWrapperBaseProducer_cfg.py",
             "HeterogeneousCore/SerialisationCore/BuildFile.xml",
             "HeterogeneousCore/SerialisationCore/README.md",
             "HeterogeneousCore/SerialisationCore/interface/AnyBuffer.h",
@@ -2990,7 +2982,7 @@
         "created_at": 1764103999,
         "number": 49475,
         "state": "open",
-        "updated_at": 1764104014
+        "updated_at": 1764159909
     },
     "49476": {
         "base_branch": "master",
