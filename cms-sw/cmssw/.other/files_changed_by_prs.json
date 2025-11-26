@@ -3067,5 +3067,42 @@
         "number": 49478,
         "state": "open",
         "updated_at": 1764145152
+    },
+    "49479": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "SimCalorimetry/EcalEBTrigPrimProducers/test/testPhase2_15_0_0.py",
+            "SimG4CMS/Calo/test/python/SimRun4_cfg.py",
+            "SimG4CMS/Calo/test/python/minbias.py",
+            "SimG4CMS/Calo/test/python/minbiasRun4_cfg.py",
+            "SimG4CMS/Calo/test/python/runHGC7_cfg.py",
+            "SimG4CMS/Calo/test/python/runHGC8_cfg.py",
+            "SimG4CMS/Calo/test/python/testHGCalGuardRing_cfg.py",
+            "SimG4CMS/Calo/test/python/testHGCalMouseBite_cfg.py",
+            "SimG4CMS/Calo/test/python/ttbar.py",
+            "SimG4Core/PrintGeomInfo/test/python/g4DumpGeometry_cfg.py",
+            "SimG4Core/PrintGeomInfo/test/python/g4HGCalPrintLV_cfg.py",
+            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheckCalo_cfg.py",
+            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheckEcal_cfg.py",
+            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheckHGCal_cfg.py",
+            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheckMuon_cfg.py",
+            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheckRun4DD4hep_cfg.py",
+            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheckRun4DDD_cfg.py",
+            "SimG4Core/PrintGeomInfo/test/python/g4OverlapCheckTracker_cfg.py",
+            "SimG4Core/PrintGeomInfo/test/python/runDD4hepRun4_cfg.py",
+            "SimG4Core/PrintGeomInfo/test/python/runDDDRun4_cfg.py",
+            "SimG4Core/PrintGeomInfo/test/python/runMaterialBudgeInfoRun4_cfg.py",
+            "SimG4Core/PrintGeomInfo/test/python/runPrintG4Solids2_cfg.py",
+            "SimG4Core/PrintGeomInfo/test/python/runPrintG4Solids_cfg.py",
+            "SimG4Core/PrintGeomInfo/test/python/runPrintG4TouchRun4_cfg.py",
+            "SimG4Core/PrintGeomInfo/test/python/runPrintSolidRun4_cfg.py",
+            "SimG4Core/PrintGeomInfo/test/python/runSensRun4_cfg.py",
+            "SimG4Core/PrintGeomInfo/test/python/runSummaryRun4_cfg.py",
+            "SimGeneral/Debugging/python/caloParticleDebugger_cfg.py"
+        ],
+        "created_at": 1764150194,
+        "number": 49479,
+        "state": "open",
+        "updated_at": 1764150223
     }
 }
