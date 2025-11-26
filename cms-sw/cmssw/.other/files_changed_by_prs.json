@@ -3242,5 +3242,22 @@
         "number": 49489,
         "state": "open",
         "updated_at": 1764162847
+    },
+    "49490": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Fireworks/Calo/src/FWECALCaloDataDetailViewBuilder.cc",
+            "Fireworks/Calo/src/FWECALDetailViewBuilder.cc",
+            "Fireworks/ParticleFlow/plugins/FWPFCandidateWithHitsProxyBuilder.cc",
+            "Fireworks/Vertices/plugins/FWSecVertexCandidateProxyBuilder.cc",
+            "Fireworks/Vertices/plugins/FWSecVertexProxyBuilder.cc",
+            "Fireworks/Vertices/plugins/FWVertexCandidateProxyBuilder.cc",
+            "Fireworks/Vertices/plugins/FWVertexProxyBuilder.cc",
+            "Fireworks/Vertices/src/TEveEllipsoidGL.cc"
+        ],
+        "created_at": 1764162851,
+        "number": 49490,
+        "state": "open",
+        "updated_at": 1764162874
     }
 }
