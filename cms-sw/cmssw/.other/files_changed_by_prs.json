@@ -2593,13 +2593,16 @@
     "49417": {
         "base_branch": "master",
         "changed_files_names": [
+            "Calibration/EcalCalibAlgos/plugins/BuildFile.xml",
             "Calibration/EcalCalibAlgos/plugins/EcalPhiSymRecHitProducers.cc",
-            "Calibration/EcalCalibAlgos/python/EcalPhiSymRecHitProducers_cfi.py"
+            "Calibration/EcalCalibAlgos/python/EcalPhiSymRecHitProducers_cfi.py",
+            "CondTools/RunInfo/interface/LHCInfoCombined.h",
+            "CondTools/RunInfo/src/LHCInfoCombined.cc"
         ],
         "created_at": 1763547780,
         "number": 49417,
         "state": "open",
-        "updated_at": 1764163784
+        "updated_at": 1764257157
     },
     "49418": {
         "base_branch": "CMSSW_15_1_X",
