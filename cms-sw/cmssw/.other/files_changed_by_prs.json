@@ -2860,14 +2860,12 @@
     "49483": {
         "base_branch": "master",
         "changed_files_names": [
-            "Validation/Geometry/test/genHGCalPlots.sh",
             "Validation/Geometry/test/runMaterialBudgetVolumeRun4DD4hep_cfg.py",
             "Validation/Geometry/test/runMaterialBudgetVolumeRun4DDD_cfg.py",
             "Validation/Geometry/test/runMaterialDumpAnalyser_PhaseII.sh",
             "Validation/Geometry/test/runP_HGCal_cfg.py",
             "Validation/Geometry/test/runP_Mtd_cfg.py",
             "Validation/Geometry/test/runP_TrackerPhase2TkBE_cfg.py",
-            "Validation/HGCalValidation/scripts/muonTomo.sh",
             "Validation/HGCalValidation/scripts/testHGCalCellHitSum_cfg.py",
             "Validation/HGCalValidation/scripts/testHGCalMTRecoStudy_cfg.py",
             "Validation/HGCalValidation/scripts/testHGCalReco_cfg.py",
@@ -2904,7 +2902,7 @@
         "created_at": 1764160829,
         "number": 49483,
         "state": "open",
-        "updated_at": 1764160859
+        "updated_at": 1764226062
     },
     "49484": {
         "base_branch": "master",
