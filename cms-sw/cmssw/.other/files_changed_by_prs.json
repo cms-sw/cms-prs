@@ -2782,5 +2782,20 @@
         "number": 49521,
         "state": "open",
         "updated_at": 1764329259
+    },
+    "49522": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "GeneratorInterface/Core/interface/GeneratorFilter.h",
+            "GeneratorInterface/Core/interface/HadronizerFilter.h",
+            "GeneratorInterface/RivetInterface/plugins/GenParticles2HepMCConverter.cc",
+            "IOMC/EventVertexGenerators/src/BaseEvtVtxGenerator.cc",
+            "SimDataFormats/GeneratorProducts/interface/HepMC3Product.h",
+            "SimDataFormats/GeneratorProducts/src/HepMC3Product.cc"
+        ],
+        "created_at": 1764344839,
+        "number": 49522,
+        "state": "open",
+        "updated_at": 1764344915
     }
 }
