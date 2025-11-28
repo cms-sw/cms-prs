@@ -2078,21 +2078,16 @@
     "49295": {
         "base_branch": "master",
         "changed_files_names": [
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
-            "RecoLocalCalo/Configuration/python/hcalGlobalReco_cff.py",
-            "RecoLocalCalo/Configuration/python/hcalLocalReco_cff.py",
             "RecoParticleFlow/PFClusterProducer/python/particleFlowClusterHBHE_cfi.py",
-            "RecoParticleFlow/PFClusterProducer/python/particleFlowClusterHCAL_cfi.py",
             "RecoParticleFlow/PFClusterProducer/python/particleFlowCluster_cff.py",
             "RecoParticleFlow/PFClusterProducer/python/particleFlowRecHitHBHE_cfi.py",
             "RecoParticleFlow/PFClusterProducer/python/pfClusterHBHEAlpaka_cff.py",
-            "Validation/RecoParticleFlow/python/PFClusterValidation_cff.py",
             "Validation/RecoParticleFlow/python/pfCaloGPUComparisonTask_cfi.py"
         ],
         "created_at": 1762178992,
         "number": 49295,
         "state": "open",
-        "updated_at": 1763502250
+        "updated_at": 1764353241
     },
     "49318": {
         "base_branch": "master",
