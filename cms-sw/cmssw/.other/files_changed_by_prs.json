@@ -2368,6 +2368,10 @@
             "DataFormats/HcalRecHit/plugins/serialisation.cc",
             "DataFormats/ParticleFlowReco/plugins/BuildFile.xml",
             "DataFormats/ParticleFlowReco/plugins/serialisation.cc",
+            "DataFormats/ParticleFlowReco/src/alpaka/classes_cuda.h",
+            "DataFormats/ParticleFlowReco/src/alpaka/classes_rocm.h",
+            "DataFormats/ParticleFlowReco/src/classes_serial.cc",
+            "DataFormats/ParticleFlowReco/src/classes_serial.h",
             "DataFormats/Portable/BuildFile.xml",
             "DataFormats/Portable/interface/PortableCollection.h",
             "DataFormats/Portable/interface/PortableCollectionCommon.h",
@@ -2416,7 +2420,7 @@
         "created_at": 1764103999,
         "number": 49475,
         "state": "open",
-        "updated_at": 1764228159
+        "updated_at": 1764396009
     },
     "49476": {
         "base_branch": "master",
