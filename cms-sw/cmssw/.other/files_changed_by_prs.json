@@ -2610,34 +2610,6 @@
         "state": "open",
         "updated_at": 1764344915
     },
-    "49526": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "FWCore/Framework/interface/BranchActionType.h",
-            "FWCore/Framework/interface/OccurrenceTraits.h",
-            "FWCore/Framework/interface/TransitionActionType.h",
-            "FWCore/Framework/interface/maker/Worker.h",
-            "FWCore/Framework/src/EventProcessor.cc",
-            "FWCore/Framework/src/Path.cc",
-            "FWCore/Framework/src/ProductResolvers.cc",
-            "FWCore/Framework/src/StreamSchedule.cc",
-            "FWCore/Framework/test/global_filter_catch2.cc",
-            "FWCore/Framework/test/global_outputmodule_catch2.cc",
-            "FWCore/Framework/test/global_producer_catch2.cc",
-            "FWCore/Framework/test/limited_filter_catch2.cc",
-            "FWCore/Framework/test/limited_outputmodule_catch2.cc",
-            "FWCore/Framework/test/limited_producer_catch2.cc",
-            "FWCore/Framework/test/one_outputmodule_catch2.cc",
-            "FWCore/Framework/test/stream_filter_catch2.cc",
-            "FWCore/Framework/test/stream_producer_catch2.cc",
-            "FWCore/TestProcessor/src/TestProcessor.cc",
-            "Mixing/Base/src/SecondaryEventProvider.cc"
-        ],
-        "created_at": 1764531967,
-        "number": 49526,
-        "state": "open",
-        "updated_at": 1764593913
-    },
     "49527": {
         "base_branch": "master",
         "changed_files_names": [
