@@ -1664,25 +1664,29 @@
         "base_branch": "master",
         "changed_files_names": [
             "Configuration/PyReleaseValidation/python/relval_nano.py",
+            "PhysicsTools/NanoAOD/interface/DisTauTagScaling.h",
             "PhysicsTools/NanoAOD/plugins/BuildFile.xml",
             "PhysicsTools/NanoAOD/plugins/DSAMuonTableProducer.cc",
+            "PhysicsTools/NanoAOD/plugins/DisTauTag.cc",
             "PhysicsTools/NanoAOD/plugins/DispJetTableProducer.cc",
             "PhysicsTools/NanoAOD/plugins/ElectronExtendedTableProducer.cc",
             "PhysicsTools/NanoAOD/plugins/ElectronVertexTableProducer.cc",
             "PhysicsTools/NanoAOD/plugins/GenParticlesExtendedProducer.cc",
+            "PhysicsTools/NanoAOD/plugins/JetImpactParameters.cc",
             "PhysicsTools/NanoAOD/plugins/MuonExtendedTableProducer.cc",
             "PhysicsTools/NanoAOD/plugins/MuonVertexTableProducer.cc",
             "PhysicsTools/NanoAOD/plugins/SimpleFlatTableProducerPlugins.cc",
             "PhysicsTools/NanoAOD/plugins/cscMDSshowerTableProducer.cc",
             "PhysicsTools/NanoAOD/plugins/dtMDSshowerTableProducer.cc",
             "PhysicsTools/NanoAOD/python/autoNANO.py",
+            "PhysicsTools/NanoAOD/python/custom_displacedtau_cff.py",
             "PhysicsTools/NanoAOD/python/custom_exo_cff.py",
             "PhysicsTools/NanoAOD/test/test-exoNano.sh"
         ],
         "created_at": 1751981131,
         "number": 48502,
         "state": "open",
-        "updated_at": 1757484280
+        "updated_at": 1764658887
     },
     "48637": {
         "base_branch": "master",
