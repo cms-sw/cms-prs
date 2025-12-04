@@ -2671,5 +2671,20 @@
         "number": 49548,
         "state": "open",
         "updated_at": 1764846325
+    },
+    "49549": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h",
+            "Geometry/HGCalCommonData/interface/HGCalParameters.h",
+            "Geometry/HGCalCommonData/src/HGCalParameters.cc",
+            "Geometry/HGCalGeometry/test/HGCalIdCheck.cc",
+            "Geometry/HGCalGeometry/test/HGCalWaferParameters.cc",
+            "Geometry/HGCalGeometry/test/python/testHGCalWaferParameters_cfg.py"
+        ],
+        "created_at": 1764855261,
+        "number": 49549,
+        "state": "open",
+        "updated_at": 1764855286
     }
 }
