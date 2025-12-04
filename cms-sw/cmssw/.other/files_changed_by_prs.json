@@ -3086,5 +3086,21 @@
         "number": 49545,
         "state": "open",
         "updated_at": 1764834788
+    },
+    "49547": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HeterogeneousCore/AlpakaCore/interface/QueueCache.h",
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/EDMetadataAcquireSentry.h",
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/ProducerBase.h",
+            "HeterogeneousCore/AlpakaCore/src/alpaka/EDMetadataAcquireSentry.cc",
+            "HeterogeneousCore/AlpakaCore/src/alpaka/EDMetadataSentry.cc",
+            "HeterogeneousCore/AlpakaServices/interface/alpaka/AlpakaService.h",
+            "HeterogeneousCore/AlpakaServices/src/alpaka/AlpakaService.cc"
+        ],
+        "created_at": 1764837208,
+        "number": 49547,
+        "state": "open",
+        "updated_at": 1764837236
     }
 }
