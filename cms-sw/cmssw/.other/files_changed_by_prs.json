@@ -2747,5 +2747,22 @@
         "number": 49554,
         "state": "open",
         "updated_at": 1764881993
+    },
+    "49555": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/L1TGlobal/interface/AXOL1TLScore.h",
+            "DataFormats/L1TGlobal/src/AXOL1TLScore.cc",
+            "DataFormats/L1TGlobal/src/classes_def.xml",
+            "L1Trigger/Configuration/python/customiseUtils.py",
+            "L1Trigger/L1TGlobal/interface/AXOL1TLCondition.h",
+            "L1Trigger/L1TGlobal/plugins/L1TGlobalProducer.cc",
+            "L1Trigger/L1TGlobal/src/AXOL1TLCondition.cc",
+            "L1Trigger/L1TNtuples/plugins/L1AXOTreeProducer.cc"
+        ],
+        "created_at": 1764930902,
+        "number": 49555,
+        "state": "open",
+        "updated_at": 1764930928
     }
 }
