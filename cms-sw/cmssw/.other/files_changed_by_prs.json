@@ -2851,5 +2851,20 @@
         "number": 49561,
         "state": "open",
         "updated_at": 1764949853
+    },
+    "49562": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FastSimulation/Calorimetry/interface/CalorimetryManager.h",
+            "FastSimulation/Calorimetry/interface/HCALResponse.h",
+            "FastSimulation/Calorimetry/src/CalorimetryManager.cc",
+            "FastSimulation/Calorimetry/src/HCALResponse.cc",
+            "FastSimulation/ShowerDevelopment/interface/FastHFShowerLibrary.h",
+            "FastSimulation/SimplifiedGeometryPropagator/plugins/FastSimProducer.cc"
+        ],
+        "created_at": 1764964726,
+        "number": 49562,
+        "state": "open",
+        "updated_at": 1764964753
     }
 }
