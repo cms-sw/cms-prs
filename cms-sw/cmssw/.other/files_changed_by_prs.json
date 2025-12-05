@@ -2797,18 +2797,20 @@
             "RecoLocalCalo/HcalRecAlgos/interface/AbsHBHEPhase1Algo.h",
             "RecoLocalCalo/HcalRecAlgos/interface/HcalPulseShapeLookupRcd.h",
             "RecoLocalCalo/HcalRecAlgos/interface/MahiFit.h",
+            "RecoLocalCalo/HcalRecAlgos/interface/SimpleHBHEPhase1Algo.h",
             "RecoLocalCalo/HcalRecAlgos/plugins/HcalPulseShapesEP.cc",
             "RecoLocalCalo/HcalRecAlgos/python/hcalPulseShapesESProd_cfi.py",
             "RecoLocalCalo/HcalRecAlgos/src/HcalPulseShapeLookupRcd.cc",
             "RecoLocalCalo/HcalRecAlgos/src/MahiFit.cc",
             "RecoLocalCalo/HcalRecAlgos/src/SimpleHBHEPhase1Algo.cc",
+            "RecoLocalCalo/HcalRecAlgos/src/parseHBHEPhase1AlgoDescription.cc",
             "RecoLocalCalo/HcalRecProducers/python/HBHEPhase1Reconstructor_cfi.py",
             "RecoLocalCalo/HcalRecProducers/src/HBHEPhase1Reconstructor.cc"
         ],
         "created_at": 1764931442,
         "number": 49556,
         "state": "open",
-        "updated_at": 1764931467
+        "updated_at": 1764948412
     },
     "49558": {
         "base_branch": "master",
