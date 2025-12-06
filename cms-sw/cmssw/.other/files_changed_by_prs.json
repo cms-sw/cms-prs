@@ -2392,29 +2392,6 @@
         "state": "open",
         "updated_at": 1764233611
     },
-    "49491": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "GeneratorInterface/EvtGenInterface/plugins/EvtGen/EvtGenInterface.cc",
-            "GeneratorInterface/ExternalDecays/src/ConcurrentExternalDecayDriver.cc",
-            "GeneratorInterface/ExternalDecays/src/ExternalDecayDriver.cc",
-            "GeneratorInterface/GenFilters/plugins/BCToEFilterAlgo.cc",
-            "GeneratorInterface/GenFilters/plugins/MCParticlePairFilter.cc",
-            "GeneratorInterface/GenFilters/plugins/MCProcessFilter.cc",
-            "GeneratorInterface/GenFilters/plugins/MCSingleParticleFilter.cc",
-            "GeneratorInterface/GenFilters/plugins/MCSingleParticleYPt.cc",
-            "GeneratorInterface/LHEInterface/src/LHEEvent.cc",
-            "GeneratorInterface/PartonShowerVeto/src/JetMatchingMadgraph.cc",
-            "GeneratorInterface/PhotosInterface/plugins/PhotosppInterface.cc",
-            "GeneratorInterface/RivetInterface/plugins/HTXSRivetProducer.cc",
-            "GeneratorInterface/RivetInterface/plugins/RivetAnalyzer.cc",
-            "GeneratorInterface/TauolaInterface/plugins/Tauolapp/TauolappInterface.cc"
-        ],
-        "created_at": 1764162859,
-        "number": 49491,
-        "state": "open",
-        "updated_at": 1764163164
-    },
     "49497": {
         "base_branch": "master",
         "changed_files_names": [
