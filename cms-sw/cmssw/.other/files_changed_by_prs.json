@@ -2683,5 +2683,42 @@
         "number": 49575,
         "state": "open",
         "updated_at": 1765270334
+    },
+    "49577": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Framework/interface/ModuleRegistry.h",
+            "FWCore/Framework/interface/OccurrenceTraits.h",
+            "FWCore/Framework/src/ComponentConstructionSentry.cc",
+            "FWCore/Framework/src/EventAcquireSignalsSentry.h",
+            "FWCore/Framework/src/EventProcessor.cc",
+            "FWCore/Framework/src/EventSetupProvider.cc",
+            "FWCore/Framework/src/EventSignalsSentry.h",
+            "FWCore/Framework/src/GlobalSchedule.cc",
+            "FWCore/Framework/src/InputSource.cc",
+            "FWCore/Framework/src/ModuleMaker.cc",
+            "FWCore/Framework/src/ModuleRegistry.cc",
+            "FWCore/Framework/src/ModuleRegistryUtilities.cc",
+            "FWCore/Framework/src/OutputModuleCommunicatorT.cc",
+            "FWCore/Framework/src/Path.cc",
+            "FWCore/Framework/src/Schedule.cc",
+            "FWCore/Framework/src/SendSourceTerminationSignalIfException.h",
+            "FWCore/Framework/src/SignallingProductRegistryFiller.cc",
+            "FWCore/Framework/src/StreamSchedule.cc",
+            "FWCore/Framework/src/TransformerBase.cc",
+            "FWCore/PluginManager/src/PluginCapabilities.cc",
+            "FWCore/PluginManager/src/PluginFactoryBase.cc",
+            "FWCore/PluginManager/src/PluginFactoryManager.cc",
+            "FWCore/PluginManager/src/PluginManager.cc",
+            "FWCore/ServiceRegistry/test/connect_but_block_self_t.cppunit.cc",
+            "FWCore/ServiceRegistry/test/servicesmanager_order.cpp",
+            "FWCore/ServiceRegistry/test/servicesmanager_t.cppunit.cc",
+            "FWCore/TestProcessor/src/TestProcessor.cc",
+            "FWCore/Utilities/interface/Signal.h"
+        ],
+        "created_at": 1765272221,
+        "number": 49577,
+        "state": "open",
+        "updated_at": 1765272248
     }
 }
