@@ -2721,5 +2721,19 @@
         "number": 49567,
         "state": "open",
         "updated_at": 1765189333
+    },
+    "49569": {
+        "base_branch": "CMSSW_15_1_X",
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHpsPFTau150LooseTauWPDeepTau_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPreLooseDeepTauPFTauHPS150L2NNeta2p1_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/paths/HLT_LooseDeepTauPFTauHPS150_L2NN_eta2p1_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33_cff.py",
+            "HLTrigger/Configuration/python/HLT_75e33_timing_cff.py"
+        ],
+        "created_at": 1765241310,
+        "number": 49569,
+        "state": "open",
+        "updated_at": 1765241332
     }
 }
