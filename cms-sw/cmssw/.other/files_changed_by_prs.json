@@ -2858,7 +2858,6 @@
             "FWCore/ParameterSet/test/test_catch2_ps.cc",
             "FWCore/Services/plugins/BuildFile.xml",
             "FWCore/Services/plugins/Module.cc",
-            "FWCore/Services/src/SiteLocalConfigService.h",
             "FWCore/Services/test/BuildFile.xml",
             "FWStorage/DCacheAdaptor/BuildFile.xml",
             "Utilities/DCacheAdaptor/BuildFile.xml",
@@ -2883,6 +2882,7 @@
             "FWStorage/Services/src/SiteLocalConfigService.cc",
             "FWCore/Services/src/SiteLocalConfigService.cc",
             "FWStorage/Services/src/SiteLocalConfigService.h",
+            "FWCore/Services/src/SiteLocalConfigService.h",
             "FWStorage/Services/src/setupSiteLocalConfig.cc",
             "FWCore/Services/src/setupSiteLocalConfig.cc",
             "FWStorage/Services/test/BuildFile.xml",
@@ -3144,6 +3144,6 @@
         "created_at": 1765382648,
         "number": 49594,
         "state": "open",
-        "updated_at": 1765382664
+        "updated_at": 1765383372
     }
 }
