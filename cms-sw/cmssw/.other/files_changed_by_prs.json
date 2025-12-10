@@ -2814,5 +2814,30 @@
         "number": 49587,
         "state": "open",
         "updated_at": 1765349599
+    },
+    "49589": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/L1DTTrackFinder/BuildFile.xml",
+            "DataFormats/L1DTTrackFinder/interface/L1Phase2MuDTExtPhDigi.h",
+            "DataFormats/L1DTTrackFinder/interface/L1Phase2MuDTExtPhiThetaPair.h",
+            "DataFormats/L1DTTrackFinder/interface/L1Phase2MuDTExtPhiThetaPairContainer.h",
+            "DataFormats/L1DTTrackFinder/interface/L1Phase2MuDTExtThDigi.h",
+            "DataFormats/L1DTTrackFinder/src/L1Phase2MuDTExtPhiThetaPair.cc",
+            "DataFormats/L1DTTrackFinder/src/L1Phase2MuDTExtPhiThetaPairContainer.cc",
+            "DataFormats/L1DTTrackFinder/src/classes.h",
+            "DataFormats/L1DTTrackFinder/src/classes_def.xml",
+            "L1Trigger/Configuration/python/L1Trigger_EventContent_cff.py",
+            "L1Trigger/Configuration/python/SimL1Emulator_cff.py",
+            "L1Trigger/DTTriggerPhase2/plugins/DTTrigPhase2PairsProd.cc",
+            "L1Trigger/DTTriggerPhase2/plugins/DTTrigPhase2Prod.cc",
+            "L1Trigger/DTTriggerPhase2/python/dtTriggerPhase2PrimitiveDigis_cfi.py",
+            "L1Trigger/DTTriggerPhase2/python/dtTriggerPhase2PrimitivePairDigis_cfi.py",
+            "L1Trigger/DTTriggerPhase2/src/MPThetaMatching.cc"
+        ],
+        "created_at": 1765359715,
+        "number": 49589,
+        "state": "open",
+        "updated_at": 1765359750
     }
 }
