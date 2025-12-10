@@ -2839,5 +2839,20 @@
         "number": 49591,
         "state": "open",
         "updated_at": 1765370647
+    },
+    "49592": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "GeneratorInterface/Pythia8Interface/interface/Py8HMC3GunBase.h",
+            "GeneratorInterface/Pythia8Interface/src/Py8HMC3GunBase.cc",
+            "GeneratorInterface/Pythia8Interface/test/Py8EGun_Z2tau_Tauola_cfg.py",
+            "GeneratorInterface/Pythia8Interface/test/Py8EGun_Z2tau_cfg.py",
+            "GeneratorInterface/Pythia8Interface/test/Py8hmc3EGun_Z2tau_G4_cfg.py",
+            "GeneratorInterface/Pythia8Interface/test/Py8hmc3EGun_Z2tau_cfg.py"
+        ],
+        "created_at": 1765373338,
+        "number": 49592,
+        "state": "open",
+        "updated_at": 1765373362
     }
 }
