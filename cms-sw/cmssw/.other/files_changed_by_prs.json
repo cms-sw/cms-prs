@@ -3282,5 +3282,26 @@
         "number": 49608,
         "state": "open",
         "updated_at": 1765464188
+    },
+    "49609": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HLTriggerOffline/Common/python/HLTValidationHarvest_cff.py",
+            "SimTracker/VertexAssociation/interface/VertexAssociatorByPositionAndTracks.h",
+            "SimTracker/VertexAssociation/interface/calculateVertexSharedTracks.h",
+            "SimTracker/VertexAssociation/plugins/VertexAssociatorByPositionAndTracksProducer.cc",
+            "SimTracker/VertexAssociation/src/VertexAssociatorByPositionAndTracks.cc",
+            "SimTracker/VertexAssociation/src/calculateVertexSharedTracks.cc",
+            "Validation/RecoVertex/interface/PrimaryVertexAnalyzer4PUSlimmed.h",
+            "Validation/RecoVertex/python/HLTmultiPVvalidator_cff.py",
+            "Validation/RecoVertex/python/HLTpostProcessorVertex_cfi.py",
+            "Validation/RecoVertex/python/PrimaryVertexAnalyzer4PUSlimmed_Client_cfi.py",
+            "Validation/RecoVertex/python/PrimaryVertexAnalyzer4PUSlimmed_cfi.py",
+            "Validation/RecoVertex/src/PrimaryVertexAnalyzer4PUSlimmed.cc"
+        ],
+        "created_at": 1765465498,
+        "number": 49609,
+        "state": "open",
+        "updated_at": 1765465518
     }
 }
