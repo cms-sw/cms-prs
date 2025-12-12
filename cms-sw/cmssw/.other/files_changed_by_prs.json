@@ -3403,5 +3403,30 @@
         "number": 49622,
         "state": "open",
         "updated_at": 1765556192
+    },
+    "49623": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/Common/src/classes_def.xml",
+            "RecoTracker/LST/plugins/LSTOutputConverter.cc",
+            "RecoTracker/LSTCore/interface/Common.h",
+            "RecoTracker/LSTCore/interface/QuintupletsSoA.h",
+            "RecoTracker/LSTCore/interface/alpaka/Common.h",
+            "RecoTracker/LSTCore/src/alpaka/LSTEvent.dev.cc",
+            "RecoTracker/LSTCore/src/alpaka/NeuralNetwork.h",
+            "RecoTracker/LSTCore/src/alpaka/Quintuplet.h",
+            "RecoTracker/LSTCore/src/alpaka/TrackCandidate.h",
+            "RecoTracker/LSTCore/standalone/code/core/AccessHelper.cc",
+            "RecoTracker/LSTCore/standalone/code/core/AccessHelper.h",
+            "RecoTracker/LSTCore/standalone/code/core/write_lst_ntuple.cc",
+            "RecoTracker/LSTCore/standalone/code/core/write_lst_ntuple.h",
+            "RecoTracker/LSTCore/standalone/efficiency/python/lst_plot_performance.py",
+            "RecoTracker/LSTCore/standalone/efficiency/src/performance.cc",
+            "RecoTracker/LSTCore/standalone/efficiency/src/performance.h"
+        ],
+        "created_at": 1765571723,
+        "number": 49623,
+        "state": "open",
+        "updated_at": 1765571750
     }
 }
