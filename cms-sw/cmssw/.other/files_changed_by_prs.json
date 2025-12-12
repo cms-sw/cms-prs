@@ -3356,5 +3356,20 @@
         "number": 49618,
         "state": "open",
         "updated_at": 1765543968
+    },
+    "49619": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQM/HLTEvF/python/ScoutingRechitMonitoring_cff.py",
+            "DQM/Integration/python/clients/scouting_dqm_sourceclient-live_cfg.py",
+            "DQMOffline/HLTScouting/python/HLTScoutingDqmOffline_cff.py",
+            "DQMServices/Core/interface/DQMStore.h",
+            "HLTriggerOffline/Scouting/plugins/ScoutingRecHitAnalyzer.cc",
+            "HLTriggerOffline/Scouting/python/ScoutingRecHitAnalyzers_cff.py"
+        ],
+        "created_at": 1765544126,
+        "number": 49619,
+        "state": "open",
+        "updated_at": 1765544154
     }
 }
