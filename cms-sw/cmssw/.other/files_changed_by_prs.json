@@ -2922,5 +2922,42 @@
         "number": 49655,
         "state": "open",
         "updated_at": 1765977544
+    },
+    "49656": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CUDADataFormats/BeamSpot/src/classes.h",
+            "CUDADataFormats/BeamSpot/src/classes_def.xml",
+            "CUDADataFormats/CaloCommon/src/classes.h",
+            "CUDADataFormats/CaloCommon/src/classes_def.xml",
+            "CUDADataFormats/Common/src/classes.h",
+            "CUDADataFormats/Common/src/classes_def.xml",
+            "CUDADataFormats/EcalDigi/src/classes.h",
+            "CUDADataFormats/EcalDigi/src/classes_def.xml",
+            "CUDADataFormats/EcalRecHitSoA/src/classes.h",
+            "CUDADataFormats/EcalRecHitSoA/src/classes_def.xml",
+            "CUDADataFormats/HGCal/src/classes.h",
+            "CUDADataFormats/HGCal/src/classes_def.xml",
+            "CUDADataFormats/PortableTestObjects/src/classes.h",
+            "CUDADataFormats/PortableTestObjects/src/classes_def.xml",
+            "CUDADataFormats/SiPixelCluster/src/classes.h",
+            "CUDADataFormats/SiPixelCluster/src/classes_def.xml",
+            "CUDADataFormats/SiPixelDigi/src/classes.h",
+            "CUDADataFormats/SiPixelDigi/src/classes_def.xml",
+            "CUDADataFormats/SiStripCluster/src/classes.h",
+            "CUDADataFormats/SiStripCluster/src/classes_def.xml",
+            "CUDADataFormats/StdDictionaries/src/classes.h",
+            "CUDADataFormats/StdDictionaries/src/classes_def.xml",
+            "CUDADataFormats/Track/src/classes.h",
+            "CUDADataFormats/Track/src/classes_def.xml",
+            "CUDADataFormats/TrackingRecHit/src/classes.h",
+            "CUDADataFormats/TrackingRecHit/src/classes_def.xml",
+            "CUDADataFormats/Vertex/src/classes.h",
+            "CUDADataFormats/Vertex/src/classes_def.xml"
+        ],
+        "created_at": 1765977953,
+        "number": 49656,
+        "state": "open",
+        "updated_at": 1765977982
     }
 }
