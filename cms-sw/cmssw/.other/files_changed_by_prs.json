@@ -2206,6 +2206,8 @@
             "DataFormats/TrivialSerialisation/BuildFile.xml",
             "DataFormats/TrivialSerialisation/README.md",
             "DataFormats/TrivialSerialisation/interface/MemoryCopyTraits.h",
+            "DataFormats/TrivialSerialisation/plugins/BuildFile.xml",
+            "DataFormats/TrivialSerialisation/plugins/TrivialSerialisation.cc",
             "DataFormats/TrivialSerialisation/test/BuildFile.xml",
             "DataFormats/TrivialSerialisation/test/test_catch2_MemoryCopyTraits.cc",
             "DataFormats/TrivialSerialisation/test/test_catch2_main.cc",
@@ -2223,7 +2225,6 @@
             "HeterogeneousCore/TrivialSerialisation/interface/WriterBase.h",
             "HeterogeneousCore/TrivialSerialisation/plugins/BuildFile.xml",
             "HeterogeneousCore/TrivialSerialisation/plugins/GenericCloner.cc",
-            "HeterogeneousCore/TrivialSerialisation/plugins/TrivialSerialisation.cc",
             "HeterogeneousCore/TrivialSerialisation/src/SerialiserFactory.cc",
             "HeterogeneousCore/TrivialSerialisation/test/BuildFile.xml",
             "HeterogeneousCore/TrivialSerialisation/test/testGenericClonerHost_cfg.py",
@@ -2234,7 +2235,7 @@
         "created_at": 1764103999,
         "number": 49475,
         "state": "open",
-        "updated_at": 1765921061
+        "updated_at": 1765948569
     },
     "49476": {
         "base_branch": "master",
