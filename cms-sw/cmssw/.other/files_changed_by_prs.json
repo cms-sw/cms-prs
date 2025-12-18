@@ -2642,6 +2642,7 @@
         "changed_files_names": [
             "Configuration/ProcessModifiers/python/ticlv5_TrackLinkingGNN_cff.py",
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "Configuration/PyReleaseValidation/scripts/runTheMatrix.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclCandidate_cfi.py",
             "RecoHGCal/TICL/interface/TICLInterpretationAlgoBase.h",
             "RecoHGCal/TICL/plugins/GNNInterpretationAlgo.cc",
@@ -2653,7 +2654,7 @@
         "created_at": 1765961088,
         "number": 49652,
         "state": "open",
-        "updated_at": 1766042656
+        "updated_at": 1766058895
     },
     "49654": {
         "base_branch": "master",
