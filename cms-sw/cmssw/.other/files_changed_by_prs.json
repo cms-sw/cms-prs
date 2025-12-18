@@ -2897,5 +2897,21 @@
         "number": 49670,
         "state": "open",
         "updated_at": 1766066303
+    },
+    "49671": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/Portable/test/BuildFile.xml",
+            "DataFormats/Portable/test/alpaka/test_catch2_SoAMethods.dev.cc",
+            "DataFormats/SoATemplate/README.md",
+            "DataFormats/SoATemplate/test/BuildFile.xml",
+            "DataFormats/SoATemplate/test/SoACustomizedMethods_t.cc",
+            "DataFormats/SoATemplate/test/SoACustomizedMethods_t.cu",
+            "DataFormats/SoATemplate/test/SoACustomizedMethods_t.hip.cc"
+        ],
+        "created_at": 1766069008,
+        "number": 49671,
+        "state": "open",
+        "updated_at": 1766069028
     }
 }
