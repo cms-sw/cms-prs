@@ -1383,6 +1383,7 @@
             "DataFormats/SiStripDigiSoA/src/classes.cc",
             "DataFormats/SiStripDigiSoA/src/classes.h",
             "DataFormats/SiStripDigiSoA/src/classes_def.xml",
+            "EventFilter/SiStripRawToDigi/interface/SiStripFEDBuffer.h",
             "EventFilter/SiStripRawToDigi/interface/SiStripFEDBufferComponents.h",
             "RecoLocalTracker/SiStripClusterizer/BuildFile.xml",
             "RecoLocalTracker/SiStripClusterizer/interface/SiStripClusterizerConditionsHostObject.h",
@@ -1406,7 +1407,7 @@
         "created_at": 1742404155,
         "number": 47629,
         "state": "open",
-        "updated_at": 1765962619
+        "updated_at": 1766048142
     },
     "48093": {
         "base_branch": "master",
