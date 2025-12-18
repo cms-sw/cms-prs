@@ -1774,41 +1774,6 @@
         "state": "open",
         "updated_at": 1760421021
     },
-    "49152": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DataFormats/Common/interface/AnyBuffer.h",
-            "DataFormats/Common/interface/TrivialCopyTraits.h",
-            "DataFormats/Common/interface/Wrapper.h",
-            "DataFormats/Common/test/test_catch2_TrivialCopyTraits.cpp",
-            "DataFormats/Portable/interface/PortableHostCollection.h",
-            "DataFormats/Portable/interface/PortableHostObject.h",
-            "DataFormats/PortableTestObjects/plugins/BuildFile.xml",
-            "DataFormats/PortableTestObjects/plugins/TrivialSerialisationPlugins.cc",
-            "DataFormats/PortableTestObjects/test/BuildFile.xml",
-            "DataFormats/PortableTestObjects/test/testGenericCloner_cfg.py",
-            "DataFormats/StdDictionaries/plugins/BuildFile.xml",
-            "DataFormats/StdDictionaries/plugins/TrivialSerialisationPlugins.cc",
-            "FWCore/Framework/interface/WrapperBaseHandle.h",
-            "FWCore/Framework/interface/WrapperBaseOrphanHandle.h",
-            "FWCore/Framework/src/WrapperBaseHandle.cc",
-            "FWCore/TestModules/plugins/BuildFile.xml",
-            "FWCore/TestModules/plugins/GenericCloner.cc",
-            "FWCore/TestModules/test/BuildFile.xml",
-            "FWCore/TestModules/test/testGenericCloner_cfg.py",
-            "TrivialSerialisation/Common/BuildFile.xml",
-            "TrivialSerialisation/Common/interface/Serialiser.h",
-            "TrivialSerialisation/Common/interface/SerialiserBase.h",
-            "TrivialSerialisation/Common/interface/SerialiserFactory.h",
-            "TrivialSerialisation/Common/interface/TrivialSerialiser.h",
-            "TrivialSerialisation/Common/interface/TrivialSerialiserBase.h",
-            "TrivialSerialisation/Common/src/SerialiserFactory.cc"
-        ],
-        "created_at": 1760384729,
-        "number": 49152,
-        "state": "open",
-        "updated_at": 1761834523
-    },
     "49194": {
         "base_branch": "master",
         "changed_files_names": [
