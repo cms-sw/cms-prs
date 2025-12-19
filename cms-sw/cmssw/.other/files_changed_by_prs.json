@@ -2967,5 +2967,25 @@
         "number": 49680,
         "state": "open",
         "updated_at": 1766133492
+    },
+    "49681": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoEgamma/EgammaElectronProducers/python/gedGsfElectrons_cfi.py",
+            "RecoEgamma/EgammaPhotonProducers/BuildFile.xml",
+            "RecoEgamma/EgammaPhotonProducers/python/gedPhotons_cfi.py",
+            "RecoEgamma/EgammaPhotonProducers/src/GEDPhotonProducer.cc",
+            "RecoEgamma/EgammaTools/BuildFile.xml",
+            "RecoEgamma/EgammaTools/interface/EgammaDNNHelper.h",
+            "RecoEgamma/EgammaTools/src/EgammaDNNHelper.cc",
+            "RecoEgamma/ElectronIdentification/BuildFile.xml",
+            "RecoEgamma/ElectronIdentification/interface/ElectronDNNEstimator.h",
+            "RecoEgamma/PhotonIdentification/BuildFile.xml",
+            "RecoEgamma/PhotonIdentification/interface/PhotonDNNEstimator.h"
+        ],
+        "created_at": 1766153422,
+        "number": 49681,
+        "state": "open",
+        "updated_at": 1766153451
     }
 }
