@@ -2963,5 +2963,22 @@
         "number": 49689,
         "state": "open",
         "updated_at": 1766245250
+    },
+    "49690": {
+        "base_branch": "CMSSW_14_2_X",
+        "changed_files_names": [
+            "Configuration/Eras/python/Era_Run3_2023_UPC_cff.py",
+            "Configuration/Eras/python/Era_Run3_2024_UPC_cff.py",
+            "Configuration/Eras/python/Modifier_run3_upc_2023_cff.py",
+            "Configuration/Eras/python/Modifier_run3_upc_2024_cff.py",
+            "RecoEcal/EgammaClusterProducers/python/particleFlowSuperClusterECAL_cfi.py",
+            "RecoEgamma/EgammaElectronProducers/python/lowPtGsfElectrons_cfi.py",
+            "RecoEgamma/EgammaTools/python/regressionModifier_cfi.py",
+            "SimCalorimetry/HcalTrigPrimProducers/python/hcaltpdigi_cff.py"
+        ],
+        "created_at": 1766246429,
+        "number": 49690,
+        "state": "open",
+        "updated_at": 1766246456
     }
 }
