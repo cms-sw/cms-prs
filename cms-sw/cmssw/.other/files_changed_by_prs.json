@@ -2916,5 +2916,23 @@
         "number": 49686,
         "state": "open",
         "updated_at": 1766174037
+    },
+    "49687": {
+        "base_branch": "CMSSW_16_0_X",
+        "changed_files_names": [
+            "Configuration/Eras/python/Era_Run3_2026_UPC_cff.py",
+            "Configuration/Eras/python/Era_Run3_pp_on_PbPb_2025_cff.py",
+            "Configuration/Eras/python/Era_Run3_pp_on_PbPb_2026_cff.py",
+            "Configuration/Eras/python/Era_Run3_pp_on_PbPb_approxSiStripClusters_2026_cff.py",
+            "Configuration/Eras/python/Modifier_pp_on_PbPb_run3_2026_cff.py",
+            "Configuration/Eras/python/Modifier_run3_upc_2026_cff.py",
+            "Configuration/PyReleaseValidation/python/relval_standard.py",
+            "Configuration/PyReleaseValidation/python/relval_steps.py",
+            "Configuration/StandardSequences/python/Eras.py"
+        ],
+        "created_at": 1766243232,
+        "number": 49687,
+        "state": "open",
+        "updated_at": 1766243261
     }
 }
