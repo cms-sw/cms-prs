@@ -2851,6 +2851,7 @@
             "Configuration/Eras/python/Era_Run3_pp_on_PbPb_approxSiStripClusters_2026_cff.py",
             "Configuration/Eras/python/Modifier_pp_on_PbPb_run3_2026_cff.py",
             "Configuration/Eras/python/Modifier_run3_upc_2026_cff.py",
+            "Configuration/HLT/python/autoHLT.py",
             "Configuration/PyReleaseValidation/python/relval_standard.py",
             "Configuration/PyReleaseValidation/python/relval_steps.py",
             "Configuration/StandardSequences/python/Eras.py"
@@ -2858,7 +2859,7 @@
         "created_at": 1766171936,
         "number": 49684,
         "state": "open",
-        "updated_at": 1766171936
+        "updated_at": 1766326597
     },
     "49685": {
         "base_branch": "master",
