@@ -3013,5 +3013,17 @@
         "number": 49730,
         "state": "open",
         "updated_at": 1767709387
+    },
+    "49731": {
+        "base_branch": "CMSSW_16_0_X",
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py",
+            "RecoTracker/TkSeedGenerator/plugins/ElectronSeedFitter.cc",
+            "RecoTracker/TkSeedGenerator/plugins/SeedFromConsecutiveHitsCreatorFakeState.cc"
+        ],
+        "created_at": 1767711451,
+        "number": 49731,
+        "state": "open",
+        "updated_at": 1767711479
     }
 }
