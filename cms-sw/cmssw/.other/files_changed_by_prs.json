@@ -3070,8 +3070,6 @@
             "DataFormats/PortableTestObjects/src/classes_def.xml",
             "DataFormats/PortableTestObjects/test/TestSoA.cc",
             "DataFormats/SoATemplate/interface/SoABlocks.h",
-            "DataFormats/SoATemplate/interface/SoACommon.h",
-            "DataFormats/SoATemplate/test/SoABlocks_t.cc",
             "DataFormats/TrackSoA/interface/TracksDevice.h",
             "DataFormats/TrackSoA/interface/TracksHost.h",
             "DataFormats/TrackSoA/interface/TracksSoA.h",
@@ -3095,6 +3093,10 @@
             "DataFormats/VertexSoA/interface/ZVertexDevice.h",
             "DataFormats/VertexSoA/interface/ZVertexHost.h",
             "DataFormats/VertexSoA/interface/ZVertexSoA.h",
+            "DataFormats/VertexSoA/interface/alpaka/ZVertexSoACollection.h",
+            "DataFormats/VertexSoA/plugins/TrivialSerialisation.cc",
+            "DataFormats/VertexSoA/src/alpaka/classes_cuda_def.xml",
+            "DataFormats/VertexSoA/src/alpaka/classes_rocm_def.xml",
             "DataFormats/VertexSoA/src/classes.cc",
             "DataFormats/VertexSoA/src/classes_def.xml",
             "DataFormats/VertexSoA/test/TestReadHostVertexSoA.cc",
@@ -3121,7 +3123,6 @@
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestHelperClass.h",
             "HeterogeneousCore/AlpakaTest/src/ES_AlpakaESTestData.cc",
             "HeterogeneousCore/AlpakaTest/src/alpaka/ES_AlpakaESTestData.cc",
-            "HeterogeneousCore/AlpakaTest/test/testAlpaka.root",
             "HeterogeneousCore/AlpakaTest/test/testAlpakaModules_cfg.py",
             "RecoLocalTracker/Phase2TrackerRecHits/plugins/alpaka/Phase2OTRecHitsSoAConverter.cc",
             "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitFromSoAAlpaka.cc",
@@ -3173,12 +3174,13 @@
             "RecoVertex/PixelVertexFinding/plugins/PixelVertexProducerFromSoAAlpaka.cc",
             "RecoVertex/PixelVertexFinding/plugins/alpaka/PixelVertexProducerAlpaka.cc",
             "RecoVertex/PixelVertexFinding/plugins/alpaka/vertexFinder.dev.cc",
+            "RecoVertex/PixelVertexFinding/plugins/alpaka/vertexFinder.h",
             "RecoVertex/PixelVertexFinding/test/alpaka/VertexFinder_t.dev.cc"
         ],
         "created_at": 1767773553,
         "number": 49734,
         "state": "open",
-        "updated_at": 1767773588
+        "updated_at": 1767798036
     },
     "49735": {
         "base_branch": "master",
