@@ -3216,5 +3216,35 @@
         "number": 49737,
         "state": "open",
         "updated_at": 1767795909
+    },
+    "49740": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Catalog/interface/InputFileCatalog.h",
+            "FWCore/Catalog/interface/StorageProtocolConfig.h",
+            "FWCore/Catalog/src/InputFileCatalog.cc",
+            "FWCore/Catalog/test/InputFileCatalog_t.cpp",
+            "FWCore/Catalog/test/TestStorageProtocolConfig.h",
+            "FWCore/Framework/src/defaultCmsRunServices.cc",
+            "FWCore/Sources/interface/VectorInputSourceDescription.h",
+            "FWIO/RNTupleTempInput/src/EmbeddedRNTupleTempSource.cc",
+            "FWStorage/Services/plugins/StorageProtocolConfigService.cc",
+            "FWStorage/Services/test/BuildFile.xml",
+            "FWStorage/Services/test/StorageProtocolConfigServiceTester.cc",
+            "FWStorage/Services/test/test_sitelocalconfig_catalog_cfg.py",
+            "FWStorage/Services/test/test_storageProtocolConfig_cfg.py",
+            "FWStorage/Services/test/test_storageProtocolConfig_default_cfg.py",
+            "FWStorage/Services/test/test_storageprotocolconfig.sh",
+            "IOPool/Input/src/EmbeddedRootSource.cc",
+            "Mixing/Base/interface/BMixingModule.h",
+            "Mixing/Base/interface/PileUp.h",
+            "Mixing/Base/src/BMixingModule.cc",
+            "Mixing/Base/src/PileUp.cc",
+            "SimGeneral/PreMixingModule/plugins/PreMixingModule.cc"
+        ],
+        "created_at": 1767801313,
+        "number": 49740,
+        "state": "open",
+        "updated_at": 1767801343
     }
 }
