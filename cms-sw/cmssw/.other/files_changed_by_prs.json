@@ -2838,6 +2838,8 @@
     "49733": {
         "base_branch": "master",
         "changed_files_names": [
+            "CondTools/L1Trigger/plugins/L1CondDBIOVWriter.h",
+            "CondTools/L1Trigger/plugins/L1CondDBPayloadWriter.h",
             "FWCore/Framework/interface/DependentRecordImplementation.h",
             "FWCore/Framework/interface/EventSetup.h",
             "FWCore/Framework/interface/data_default_record_trait.h",
@@ -2849,7 +2851,7 @@
         "created_at": 1767731322,
         "number": 49733,
         "state": "open",
-        "updated_at": 1767981994
+        "updated_at": 1767989788
     },
     "49734": {
         "base_branch": "master",
