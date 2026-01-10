@@ -3160,5 +3160,17 @@
         "number": 49759,
         "state": "open",
         "updated_at": 1767991494
+    },
+    "49760": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "PhysicsTools/NanoAOD/plugins/GenCandMotherTableProducer.cc",
+            "PhysicsTools/NanoAOD/test/BuildFile.xml",
+            "PhysicsTools/NanoAOD/test/test-btvNanoDY.sh"
+        ],
+        "created_at": 1768029888,
+        "number": 49760,
+        "state": "open",
+        "updated_at": 1768029916
     }
 }
