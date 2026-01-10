@@ -3173,7 +3173,11 @@
         "changed_files_names": [
             "CUDADataFormats/BeamSpot/BuildFile.xml",
             "CUDADataFormats/BeamSpot/interface/BeamSpotCUDA.h",
+            "RecoLocalTracker/SiPixelRecHits/BuildFile.xml",
+            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEFast.h",
+            "RecoLocalTracker/SiPixelRecHits/interface/pixelCPEforGPU.h",
             "RecoLocalTracker/SiPixelRecHits/plugins/BuildFile.xml",
+            "RecoLocalTracker/SiPixelRecHits/plugins/PixelCPEFastESProducer.cc",
             "RecoLocalTracker/SiPixelRecHits/plugins/PixelRecHitGPUKernel.cu",
             "RecoLocalTracker/SiPixelRecHits/plugins/PixelRecHitGPUKernel.h",
             "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitCUDA.cc",
@@ -3182,12 +3186,13 @@
             "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitSoAFromCUDA.cc",
             "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitSoAFromLegacy.cc",
             "RecoLocalTracker/SiPixelRecHits/plugins/gpuPixelRecHits.h",
+            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEFast.cc",
             "RecoVertex/BeamSpotProducer/plugins/BeamSpotToCUDA.cc",
             "RecoVertex/BeamSpotProducer/plugins/BuildFile.xml"
         ],
         "created_at": 1768041215,
         "number": 49761,
         "state": "open",
-        "updated_at": 1768045020
+        "updated_at": 1768058841
     }
 }
