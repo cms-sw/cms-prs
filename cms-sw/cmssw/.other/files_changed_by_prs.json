@@ -3000,9 +3000,23 @@
     "49761": {
         "base_branch": "master",
         "changed_files_names": [
+            "CUDADataFormats/BeamSpot/BuildFile.xml",
+            "CUDADataFormats/BeamSpot/interface/BeamSpotCUDA.h",
+            "CUDADataFormats/SiPixelCluster/BuildFile.xml",
+            "CUDADataFormats/SiPixelCluster/interface/SiPixelClustersCUDA.h",
             "CUDADataFormats/SiPixelCluster/interface/gpuClusteringConstants.h",
+            "CUDADataFormats/SiPixelDigi/BuildFile.xml",
+            "CUDADataFormats/SiPixelDigi/interface/SiPixelDigiErrorsCUDA.h",
+            "CUDADataFormats/SiPixelDigi/interface/SiPixelDigisCUDA.h",
+            "CUDADataFormats/SiPixelDigi/src/SiPixelDigiErrorsCUDA.cc",
+            "CUDADataFormats/TrackingRecHit/BuildFile.xml",
             "CUDADataFormats/TrackingRecHit/interface/SiPixelHitStatus.h",
+            "CUDADataFormats/TrackingRecHit/interface/TrackingRecHitSoADevice.h",
+            "CUDADataFormats/TrackingRecHit/interface/TrackingRecHitSoAHost.h",
             "CUDADataFormats/TrackingRecHit/interface/TrackingRecHitsUtilities.h",
+            "CUDADataFormats/TrackingRecHit/test/BuildFile.xml",
+            "CUDADataFormats/TrackingRecHit/test/TrackingRecHitSoA_test.cpp",
+            "CUDADataFormats/TrackingRecHit/test/TrackingRecHitSoA_test.cu",
             "CalibTracker/SiPixelESProducers/src/SiPixelROCsStatusAndMappingWrapper.cc",
             "EventFilter/SiPixelRawToDigi/plugins/BuildFile.xml",
             "EventFilter/SiPixelRawToDigi/plugins/SiPixelDigiErrorsSoAFromCUDA.cc",
@@ -3069,7 +3083,7 @@
         "created_at": 1768041215,
         "number": 49761,
         "state": "open",
-        "updated_at": 1768240682
+        "updated_at": 1768252195
     },
     "49765": {
         "base_branch": "master",
