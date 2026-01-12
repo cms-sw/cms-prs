@@ -3251,5 +3251,17 @@
         "number": 49765,
         "state": "open",
         "updated_at": 1768147391
+    },
+    "49766": {
+        "base_branch": "CMSSW_16_0_X",
+        "changed_files_names": [
+            "Configuration/HLT/python/autoHLT.py",
+            "Configuration/PyReleaseValidation/python/relval_steps.py",
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py"
+        ],
+        "created_at": 1768202036,
+        "number": 49766,
+        "state": "open",
+        "updated_at": 1768202064
     }
 }
