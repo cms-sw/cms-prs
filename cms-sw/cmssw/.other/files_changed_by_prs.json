@@ -3089,6 +3089,13 @@
     "49761": {
         "base_branch": "master",
         "changed_files_names": [
+            "CUDADataFormats/SiPixelCluster/interface/gpuClusteringConstants.h",
+            "CUDADataFormats/TrackingRecHit/interface/SiPixelHitStatus.h",
+            "CUDADataFormats/TrackingRecHit/interface/TrackingRecHitsUtilities.h",
+            "CalibTracker/SiPixelESProducers/src/SiPixelROCsStatusAndMappingWrapper.cc",
+            "EventFilter/SiPixelRawToDigi/plugins/BuildFile.xml",
+            "EventFilter/SiPixelRawToDigi/plugins/SiPixelDigiErrorsSoAFromCUDA.cc",
+            "EventFilter/SiPixelRawToDigi/plugins/SiPixelDigisSoAFromCUDA.cc",
             "RecoLocalTracker/SiPixelClusterizer/interface/SiPixelClusterThresholds.h",
             "RecoLocalTracker/SiPixelClusterizer/plugins/BuildFile.xml",
             "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelDigisClustersFromSoA.cc",
@@ -3099,6 +3106,10 @@
             "RecoLocalTracker/SiPixelClusterizer/plugins/gpuCalibPixel.h",
             "RecoLocalTracker/SiPixelClusterizer/plugins/gpuClusterChargeCut.h",
             "RecoLocalTracker/SiPixelClusterizer/plugins/gpuClustering.h",
+            "RecoLocalTracker/SiPixelClusterizer/test/BuildFile.xml",
+            "RecoLocalTracker/SiPixelClusterizer/test/cpuClustering_t.cpp",
+            "RecoLocalTracker/SiPixelClusterizer/test/gpuClustering_t.cu",
+            "RecoLocalTracker/SiPixelClusterizer/test/gpuClustering_t.h",
             "RecoLocalTracker/SiPixelRecHits/BuildFile.xml",
             "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEFast.h",
             "RecoLocalTracker/SiPixelRecHits/interface/pixelCPEforGPU.h",
@@ -3112,6 +3123,8 @@
             "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitSoAFromLegacy.cc",
             "RecoLocalTracker/SiPixelRecHits/plugins/gpuPixelRecHits.h",
             "RecoLocalTracker/SiPixelRecHits/src/PixelCPEFast.cc",
+            "RecoTauTag/HLTProducers/BuildFile.xml",
+            "RecoTauTag/HLTProducers/src/L2TauTagNNProducer.cc",
             "RecoTracker/PixelSeeding/plugins/BrokenLineFitOnGPU.cc",
             "RecoTracker/PixelSeeding/plugins/BrokenLineFitOnGPU.cu",
             "RecoTracker/PixelSeeding/plugins/BrokenLineFitOnGPU.h",
@@ -3138,13 +3151,14 @@
             "RecoTracker/PixelSeeding/plugins/gpuFishbone.h",
             "RecoTracker/PixelSeeding/plugins/gpuPixelDoublets.h",
             "RecoTracker/PixelSeeding/plugins/gpuPixelDoubletsAlgos.h",
+            "RecoTracker/PixelTrackFitting/plugins/PixelTrackProducerFromSoA.cc",
             "RecoVertex/BeamSpotProducer/plugins/BeamSpotToCUDA.cc",
             "RecoVertex/BeamSpotProducer/plugins/BuildFile.xml"
         ],
         "created_at": 1768041215,
         "number": 49761,
         "state": "open",
-        "updated_at": 1768149818
+        "updated_at": 1768240682
     },
     "49763": {
         "base_branch": "master",
