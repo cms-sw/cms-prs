@@ -1466,6 +1466,11 @@
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthECLCCEpilogue.h",
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthECLCCPrologue.h",
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthShowerShape.h",
+            "RecoParticleFlow/PFClusterProducer/python/particleFlowClusterHBHE_cfi.py",
+            "RecoParticleFlow/PFClusterProducer/python/particleFlowClusterHCAL_cfi.py",
+            "RecoParticleFlow/PFClusterProducer/python/particleFlowCluster_cff.py",
+            "RecoParticleFlow/PFClusterProducer/python/particleFlowRecHitHBHE_cfi.py",
+            "RecoParticleFlow/PFClusterProducer/python/pfClusterHBHEAlpaka_cff.py",
             "RecoParticleFlow/PFClusterProducer/test/BuildFile.xml",
             "RecoParticleFlow/PFClusterProducer/test/alpaka/ConstructLinksTest.dev.cc",
             "RecoParticleFlow/PFClusterProducer/test/alpaka/ECLCCTest.dev.cc",
@@ -1473,12 +1478,13 @@
             "RecoParticleFlow/PFClusterProducer/test/alpaka/PrologueTest.dev.cc",
             "RecoParticleFlow/PFClusterProducer/test/alpaka/ReductionTest.dev.cc",
             "RecoParticleFlow/PFClusterProducer/test/alpaka/ShowerShapeTest.dev.cc",
-            "RecoParticleFlow/PFClusterProducer/test/alpaka/WarpIntrinsicsTest.dev.cc"
+            "RecoParticleFlow/PFClusterProducer/test/alpaka/WarpIntrinsicsTest.dev.cc",
+            "Validation/RecoParticleFlow/python/pfCaloGPUComparisonTask_cfi.py"
         ],
         "created_at": 1749047202,
         "number": 48248,
         "state": "open",
-        "updated_at": 1767110406
+        "updated_at": 1768225790
     },
     "48319": {
         "base_branch": "master",
