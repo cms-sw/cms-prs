@@ -3300,5 +3300,26 @@
         "number": 49771,
         "state": "open",
         "updated_at": 1768217346
+    },
+    "49774": {
+        "base_branch": "CMSSW_16_0_X",
+        "changed_files_names": [
+            "DataFormats/BeamSpot/src/classes_def.xml",
+            "DataFormats/EcalRecHit/src/classes_def.xml",
+            "DataFormats/HGCalReco/src/classes_def.xml",
+            "DataFormats/HcalDigi/src/classes_def.xml",
+            "DataFormats/HcalRecHit/src/classes_def.xml",
+            "DataFormats/ParticleFlowReco/src/classes_serial_def.xml",
+            "DataFormats/Portable/README.md",
+            "DataFormats/Portable/scripts/portableHostCollectionHints",
+            "DataFormats/PortableTestObjects/src/classes_def.xml",
+            "DataFormats/SiPixelClusterSoA/src/classes_def.xml",
+            "DataFormats/SiPixelDigiSoA/src/classes_def.xml",
+            "RecoTracker/LSTCore/src/classes_def.xml"
+        ],
+        "created_at": 1768225792,
+        "number": 49774,
+        "state": "open",
+        "updated_at": 1768225817
     }
 }
