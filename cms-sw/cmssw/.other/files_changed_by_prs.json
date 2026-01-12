@@ -1467,6 +1467,7 @@
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthECLCCPrologue.h",
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthShowerShape.h",
             "RecoParticleFlow/PFClusterProducer/python/particleFlowClusterHCAL_cfi.py",
+            "RecoParticleFlow/PFClusterProducer/python/particleFlowCluster_cff.py",
             "RecoParticleFlow/PFClusterProducer/test/BuildFile.xml",
             "RecoParticleFlow/PFClusterProducer/test/alpaka/ConstructLinksTest.dev.cc",
             "RecoParticleFlow/PFClusterProducer/test/alpaka/ECLCCTest.dev.cc",
@@ -1479,7 +1480,7 @@
         "created_at": 1749047202,
         "number": 48248,
         "state": "open",
-        "updated_at": 1768227119
+        "updated_at": 1768245837
     },
     "48319": {
         "base_branch": "master",
