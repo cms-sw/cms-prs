@@ -2988,7 +2988,12 @@
             "CUDADataFormats/TrackingRecHit/test/TrackingRecHitSoA_test.cpp",
             "CUDADataFormats/TrackingRecHit/test/TrackingRecHitSoA_test.cu",
             "CalibTracker/SiPixelESProducers/src/SiPixelROCsStatusAndMappingWrapper.cc",
+            "DataFormats/SiPixelDigi/interface/SiPixelDigisSoA.h",
+            "DataFormats/SiPixelDigi/src/classes.h",
+            "DataFormats/SiPixelDigi/src/classes_def.xml",
+            "DataFormats/SiPixelRawData/interface/SiPixelErrorsSoA.h",
             "EventFilter/SiPixelRawToDigi/plugins/BuildFile.xml",
+            "EventFilter/SiPixelRawToDigi/plugins/SiPixelDigiErrorsFromSoA.cc",
             "EventFilter/SiPixelRawToDigi/plugins/SiPixelDigiErrorsSoAFromCUDA.cc",
             "EventFilter/SiPixelRawToDigi/plugins/SiPixelDigisSoAFromCUDA.cc",
             "RecoLocalTracker/SiPixelClusterizer/interface/SiPixelClusterThresholds.h",
@@ -3046,6 +3051,8 @@
             "RecoTracker/PixelSeeding/plugins/gpuFishbone.h",
             "RecoTracker/PixelSeeding/plugins/gpuPixelDoublets.h",
             "RecoTracker/PixelSeeding/plugins/gpuPixelDoubletsAlgos.h",
+            "RecoTracker/PixelSeeding/test/BuildFile.xml",
+            "RecoTracker/PixelSeeding/test/CAsizes_t.cpp",
             "RecoTracker/PixelTrackFitting/plugins/PixelTrackProducerFromSoA.cc",
             "RecoVertex/BeamSpotProducer/plugins/BeamSpotToCUDA.cc",
             "RecoVertex/BeamSpotProducer/plugins/BuildFile.xml"
@@ -3053,7 +3060,7 @@
         "created_at": 1768041215,
         "number": 49761,
         "state": "open",
-        "updated_at": 1768252195
+        "updated_at": 1768300396
     },
     "49765": {
         "base_branch": "master",
