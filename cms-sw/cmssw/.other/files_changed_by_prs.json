@@ -3168,13 +3168,18 @@
         "base_branch": "master",
         "changed_files_names": [
             "L1Trigger/TrackFindingTracklet/interface/Settings.h",
+            "L1Trigger/TrackFindingTracklet/interface/TrackletEngineDisplaced.h",
+            "L1Trigger/TrackFindingTracklet/interface/TripletEngine.h",
             "L1Trigger/TrackFindingTracklet/plugins/L1FPGATrackProducer.cc",
-            "L1Trigger/TrackFindingTracklet/python/l1tTTTracksFromTrackletEmulation_cfi.py"
+            "L1Trigger/TrackFindingTracklet/python/l1tTTTracksFromTrackletEmulation_cfi.py",
+            "L1Trigger/TrackFindingTracklet/src/TrackletEngineDisplaced.cc",
+            "L1Trigger/TrackFindingTracklet/src/TripletEngine.cc",
+            "L1Trigger/TrackFindingTracklet/test/fpga.cc"
         ],
         "created_at": 1768238994,
         "number": 49779,
         "state": "open",
-        "updated_at": 1768239023
+        "updated_at": 1768295801
     },
     "49781": {
         "base_branch": "CMSSW_15_1_X",
