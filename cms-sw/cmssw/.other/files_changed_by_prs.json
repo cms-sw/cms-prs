@@ -2992,6 +2992,8 @@
             "DataFormats/SiPixelDigi/src/classes.h",
             "DataFormats/SiPixelDigi/src/classes_def.xml",
             "DataFormats/SiPixelRawData/interface/SiPixelErrorsSoA.h",
+            "DataFormats/SiPixelRawData/src/classes.h",
+            "DataFormats/SiPixelRawData/src/classes_def.xml",
             "EventFilter/SiPixelRawToDigi/plugins/BuildFile.xml",
             "EventFilter/SiPixelRawToDigi/plugins/SiPixelDigiErrorsFromSoA.cc",
             "EventFilter/SiPixelRawToDigi/plugins/SiPixelDigiErrorsSoAFromCUDA.cc",
@@ -3060,7 +3062,7 @@
         "created_at": 1768041215,
         "number": 49761,
         "state": "open",
-        "updated_at": 1768300396
+        "updated_at": 1768304572
     },
     "49765": {
         "base_branch": "master",
