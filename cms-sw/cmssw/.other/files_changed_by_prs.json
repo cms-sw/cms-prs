@@ -3654,5 +3654,25 @@
         "number": 49828,
         "state": "open",
         "updated_at": 1768394832
+    },
+    "49829": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoLocalTracker/SiStripClusterizer/plugins/BuildFile.xml",
+            "RecoLocalTracker/SiStripClusterizer/plugins/ChannelLocsGPU.cc",
+            "RecoLocalTracker/SiStripClusterizer/plugins/ChannelLocsGPU.h",
+            "RecoLocalTracker/SiStripClusterizer/plugins/ClustersFromRawProducerGPU.cc",
+            "RecoLocalTracker/SiStripClusterizer/plugins/SiStripClustersFromSOA.cc",
+            "RecoLocalTracker/SiStripClusterizer/plugins/SiStripClustersSOAtoHost.cc",
+            "RecoLocalTracker/SiStripClusterizer/plugins/SiStripRawToClusterGPUKernel.cc",
+            "RecoLocalTracker/SiStripClusterizer/plugins/SiStripRawToClusterGPUKernel.cu",
+            "RecoLocalTracker/SiStripClusterizer/plugins/SiStripRawToClusterGPUKernel.h",
+            "RecoLocalTracker/SiStripClusterizer/plugins/StripDataView.h",
+            "RecoLocalTracker/SiStripClusterizer/python/customizeStripClustersFromRaw.py"
+        ],
+        "created_at": 1768396797,
+        "number": 49829,
+        "state": "open",
+        "updated_at": 1768396821
     }
 }
