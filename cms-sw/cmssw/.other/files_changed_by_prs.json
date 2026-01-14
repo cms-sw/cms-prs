@@ -2871,8 +2871,6 @@
             "CondTools/SiPhase2Tracker/test/SiPhase2BadStripChannelReader_cfg.py",
             "CondTools/SiPhase2Tracker/test/SiPhase2OuterTrackerLorentzAngleReader_cfg.py",
             "CondTools/SiPhase2Tracker/test/SiPhase2OuterTrackerLorentzAngleWriter_cfg.py",
-            "CondTools/SiPixel/test/SiPixelLorentzAngleDBLoader_Phase2_cfg.py",
-            "CondTools/SiPixel/test/createTestDBObjects.sh",
             "Configuration/AlCa/python/autoCondPhase2.py",
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
             "Configuration/PyReleaseValidation/scripts/README.md",
@@ -2916,7 +2914,7 @@
         "created_at": 1768290371,
         "number": 49790,
         "state": "open",
-        "updated_at": 1768301475
+        "updated_at": 1768377002
     },
     "49791": {
         "base_branch": "CMSSW_16_0_X",
