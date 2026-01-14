@@ -3705,7 +3705,7 @@
             "Configuration/ProcessModifiers/python/alpakaValidationLST_cff.py",
             "Configuration/ProcessModifiers/python/alpakaValidation_cff.py",
             "Configuration/PyReleaseValidation/README.md",
-            "Configuration/PyReleaseValidation/python/relval_Run4.py",
+            "Configuration/PyReleaseValidation/python/relval_gpu.py",
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
             "DQM/TrackingMonitorClient/python/TrackingClientConfig_Tier0_cff.py",
             "DQM/TrackingMonitorSource/interface/TrackToTrackComparisonHists.h",
@@ -3726,7 +3726,7 @@
         "created_at": 1768406129,
         "number": 49832,
         "state": "open",
-        "updated_at": 1768406161
+        "updated_at": 1768423751
     },
     "49834": {
         "base_branch": "CMSSW_16_0_X",
