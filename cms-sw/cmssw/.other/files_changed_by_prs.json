@@ -3184,6 +3184,7 @@
             "EventFilter/SiPixelRawToDigi/plugins/SiPixelDigiErrorsFromSoA.cc",
             "EventFilter/SiPixelRawToDigi/plugins/SiPixelDigiErrorsSoAFromCUDA.cc",
             "EventFilter/SiPixelRawToDigi/plugins/SiPixelDigisSoAFromCUDA.cc",
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py",
             "RecoLocalTracker/SiPixelClusterizer/interface/SiPixelClusterThresholds.h",
             "RecoLocalTracker/SiPixelClusterizer/plugins/BuildFile.xml",
             "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelDigisClustersFromSoA.cc",
@@ -3273,7 +3274,7 @@
         "created_at": 1768318314,
         "number": 49799,
         "state": "open",
-        "updated_at": 1768335355
+        "updated_at": 1768390781
     },
     "49800": {
         "base_branch": "CMSSW_16_0_X",
