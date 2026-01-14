@@ -3695,5 +3695,35 @@
         "number": 49831,
         "state": "open",
         "updated_at": 1768403559
+    },
+    "49832": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/EventContent/python/EventContent_cff.py",
+            "Configuration/ProcessModifiers/python/alpakaValidationLST_cff.py",
+            "Configuration/ProcessModifiers/python/alpakaValidation_cff.py",
+            "Configuration/PyReleaseValidation/README.md",
+            "Configuration/PyReleaseValidation/python/relval_Run4.py",
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "DQM/TrackingMonitorClient/python/TrackingClientConfig_Tier0_cff.py",
+            "DQM/TrackingMonitorSource/interface/TrackToTrackComparisonHists.h",
+            "DQM/TrackingMonitorSource/python/trackToTrackCPU_cff.py",
+            "DQM/TrackingMonitorSource/src/TrackToTrackComparisonHists.cc",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepMkFitSeeds_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrackCandidatesMkFit_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrackCandidates_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTracks_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrajectorySeedsLST_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInputLST_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltLST_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTInitialStepSequence_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTMkFitInputSequence_cfi.py",
+            "RecoTracker/IterativeTracking/python/HighPtTripletStep_cff.py",
+            "Validation/RecoTrack/python/HLTmultiTrackValidator_cff.py"
+        ],
+        "created_at": 1768406129,
+        "number": 49832,
+        "state": "open",
+        "updated_at": 1768406161
     }
 }
