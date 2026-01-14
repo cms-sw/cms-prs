@@ -3678,12 +3678,14 @@
     "49830": {
         "base_branch": "master",
         "changed_files_names": [
-            "DQMServices/Components/scripts/dqm-plot"
+            "DQMServices/Components/scripts/dqm-plot",
+            "DQMServices/Components/test/BuildFile.xml",
+            "DQMServices/Components/test/test_dqm-plot.sh"
         ],
         "created_at": 1768397751,
         "number": 49830,
         "state": "open",
-        "updated_at": 1768397773
+        "updated_at": 1768411527
     },
     "49831": {
         "base_branch": "master",
