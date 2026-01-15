@@ -1189,8 +1189,11 @@
             "EventFilter/L1ScoutingRawToDigi/interface/blocks.h",
             "EventFilter/L1ScoutingRawToDigi/interface/masks.h",
             "EventFilter/L1ScoutingRawToDigi/interface/shifts.h",
+            "EventFilter/L1ScoutingRawToDigi/plugins/ScBMTFRawToDigi.cc",
+            "EventFilter/L1ScoutingRawToDigi/plugins/ScCALORawToDigi.cc",
             "EventFilter/L1ScoutingRawToDigi/plugins/ScCaloTowerRawToDigi.cc",
             "EventFilter/L1ScoutingRawToDigi/plugins/ScCaloTowerRawToDigi.h",
+            "EventFilter/L1ScoutingRawToDigi/plugins/ScGMTRawToDigi.cc",
             "L1TriggerScouting/OnlineProcessing/BuildFile.xml",
             "L1TriggerScouting/OnlineProcessing/plugins/BuildFile.xml",
             "L1TriggerScouting/OnlineProcessing/plugins/ScoutingJetProducer.cc",
@@ -1200,7 +1203,7 @@
         "created_at": 1747319471,
         "number": 48093,
         "state": "open",
-        "updated_at": 1768323814
+        "updated_at": 1768493012
     },
     "48146": {
         "base_branch": "master",
