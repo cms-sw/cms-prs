@@ -1203,7 +1203,7 @@
         "created_at": 1747319471,
         "number": 48093,
         "state": "open",
-        "updated_at": 1768493012
+        "updated_at": 1768493471
     },
     "48146": {
         "base_branch": "master",
@@ -1257,7 +1257,7 @@
         "created_at": 1749047202,
         "number": 48248,
         "state": "open",
-        "updated_at": 1768335246
+        "updated_at": 1768441134
     },
     "48319": {
         "base_branch": "master",
@@ -2064,7 +2064,7 @@
         "created_at": 1765805587,
         "number": 49628,
         "state": "open",
-        "updated_at": 1766061491
+        "updated_at": 1768400434
     },
     "49632": {
         "base_branch": "master",
@@ -2311,7 +2311,7 @@
         "created_at": 1767694154,
         "number": 49724,
         "state": "open",
-        "updated_at": 1768313831
+        "updated_at": 1768477502
     },
     "49726": {
         "base_branch": "master",
@@ -2463,7 +2463,7 @@
         "created_at": 1767773553,
         "number": 49734,
         "state": "open",
-        "updated_at": 1768392972
+        "updated_at": 1768417878
     },
     "49740": {
         "base_branch": "master",
@@ -2498,7 +2498,7 @@
         "created_at": 1767801313,
         "number": 49740,
         "state": "open",
-        "updated_at": 1768501126
+        "updated_at": 1768503500
     },
     "49743": {
         "base_branch": "CMSSW_16_0_X",
@@ -2511,7 +2511,7 @@
         "created_at": 1767855542,
         "number": 49743,
         "state": "open",
-        "updated_at": 1767927069
+        "updated_at": 1768458716
     },
     "49755": {
         "base_branch": "master",
@@ -2524,7 +2524,7 @@
         "created_at": 1767982049,
         "number": 49755,
         "state": "open",
-        "updated_at": 1768471192
+        "updated_at": 1768483680
     },
     "49756": {
         "base_branch": "CMSSW_16_1_EVOLUTION_X",
@@ -2598,7 +2598,7 @@
         "created_at": 1767982295,
         "number": 49756,
         "state": "open",
-        "updated_at": 1768338334
+        "updated_at": 1768503269
     },
     "49759": {
         "base_branch": "master",
@@ -2621,7 +2621,7 @@
         "created_at": 1768233550,
         "number": 49775,
         "state": "open",
-        "updated_at": 1768382234
+        "updated_at": 1768399618
     },
     "49779": {
         "base_branch": "master",
@@ -2662,7 +2662,7 @@
         "created_at": 1768238994,
         "number": 49779,
         "state": "open",
-        "updated_at": 1768484577
+        "updated_at": 1768486707
     },
     "49781": {
         "base_branch": "CMSSW_15_1_X",
@@ -2717,7 +2717,7 @@
         "created_at": 1768275368,
         "number": 49788,
         "state": "open",
-        "updated_at": 1768365478
+        "updated_at": 1768467495
     },
     "49790": {
         "base_branch": "master",
@@ -2773,7 +2773,7 @@
         "created_at": 1768290371,
         "number": 49790,
         "state": "open",
-        "updated_at": 1768391887
+        "updated_at": 1768464386
     },
     "49791": {
         "base_branch": "CMSSW_16_0_X",
@@ -2805,20 +2805,11 @@
         "created_at": 1768294902,
         "number": 49793,
         "state": "open",
-        "updated_at": 1768396688
+        "updated_at": 1768476128
     },
     "49794": {
         "base_branch": "master",
         "changed_files_names": [
-            "CUDADataFormats/BeamSpot/BuildFile.xml",
-            "CUDADataFormats/BeamSpot/interface/BeamSpotCUDA.h",
-            "CUDADataFormats/SiPixelCluster/BuildFile.xml",
-            "CUDADataFormats/SiPixelCluster/interface/SiPixelClustersCUDA.h",
-            "CUDADataFormats/SiPixelCluster/interface/gpuClusteringConstants.h",
-            "CUDADataFormats/SiPixelDigi/BuildFile.xml",
-            "CUDADataFormats/SiPixelDigi/interface/SiPixelDigiErrorsCUDA.h",
-            "CUDADataFormats/SiPixelDigi/interface/SiPixelDigisCUDA.h",
-            "CUDADataFormats/SiPixelDigi/src/SiPixelDigiErrorsCUDA.cc",
             "CUDADataFormats/Track/BuildFile.xml",
             "CUDADataFormats/Track/README.md",
             "CUDADataFormats/Track/interface/PixelTrackUtilities.h",
@@ -2830,14 +2821,6 @@
             "CUDADataFormats/Track/test/TrajectoryStateSOA_t.cpp",
             "CUDADataFormats/Track/test/TrajectoryStateSOA_t.cu",
             "CUDADataFormats/Track/test/TrajectoryStateSOA_t.h",
-            "CUDADataFormats/TrackingRecHit/BuildFile.xml",
-            "CUDADataFormats/TrackingRecHit/interface/SiPixelHitStatus.h",
-            "CUDADataFormats/TrackingRecHit/interface/TrackingRecHitSoADevice.h",
-            "CUDADataFormats/TrackingRecHit/interface/TrackingRecHitSoAHost.h",
-            "CUDADataFormats/TrackingRecHit/interface/TrackingRecHitsUtilities.h",
-            "CUDADataFormats/TrackingRecHit/test/BuildFile.xml",
-            "CUDADataFormats/TrackingRecHit/test/TrackingRecHitSoA_test.cpp",
-            "CUDADataFormats/TrackingRecHit/test/TrackingRecHitSoA_test.cu",
             "CUDADataFormats/Vertex/BuildFile.xml",
             "CUDADataFormats/Vertex/README.md",
             "CUDADataFormats/Vertex/interface/ZVertexHeterogeneous.h",
@@ -2845,82 +2828,14 @@
             "CUDADataFormats/Vertex/interface/ZVertexSoAHeterogeneousDevice.h",
             "CUDADataFormats/Vertex/interface/ZVertexSoAHeterogeneousHost.h",
             "CUDADataFormats/Vertex/interface/ZVertexUtilities.h",
-            "CalibTracker/SiPixelESProducers/src/SiPixelROCsStatusAndMappingWrapper.cc",
-            "DataFormats/SiPixelDigi/interface/SiPixelDigisSoA.h",
-            "DataFormats/SiPixelDigi/src/classes.h",
-            "DataFormats/SiPixelDigi/src/classes_def.xml",
-            "DataFormats/SiPixelRawData/interface/SiPixelErrorsSoA.h",
-            "DataFormats/SiPixelRawData/src/classes.h",
-            "DataFormats/SiPixelRawData/src/classes_def.xml",
-            "EventFilter/SiPixelRawToDigi/plugins/BuildFile.xml",
-            "EventFilter/SiPixelRawToDigi/plugins/SiPixelDigiErrorsFromSoA.cc",
-            "EventFilter/SiPixelRawToDigi/plugins/SiPixelDigiErrorsSoAFromCUDA.cc",
-            "EventFilter/SiPixelRawToDigi/plugins/SiPixelDigisSoAFromCUDA.cc",
-            "RecoLocalTracker/SiPixelClusterizer/interface/SiPixelClusterThresholds.h",
-            "RecoLocalTracker/SiPixelClusterizer/plugins/BuildFile.xml",
-            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelDigisClustersFromSoA.cc",
-            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelPhase2DigiToClusterCUDA.cc",
-            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterCUDA.cc",
-            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.cu",
-            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelRawToClusterGPUKernel.h",
-            "RecoLocalTracker/SiPixelClusterizer/plugins/gpuCalibPixel.h",
-            "RecoLocalTracker/SiPixelClusterizer/plugins/gpuClusterChargeCut.h",
-            "RecoLocalTracker/SiPixelClusterizer/plugins/gpuClustering.h",
-            "RecoLocalTracker/SiPixelClusterizer/test/BuildFile.xml",
-            "RecoLocalTracker/SiPixelClusterizer/test/cpuClustering_t.cpp",
-            "RecoLocalTracker/SiPixelClusterizer/test/gpuClustering_t.cu",
-            "RecoLocalTracker/SiPixelClusterizer/test/gpuClustering_t.h",
-            "RecoLocalTracker/SiPixelRecHits/BuildFile.xml",
-            "RecoLocalTracker/SiPixelRecHits/interface/PixelCPEFast.h",
-            "RecoLocalTracker/SiPixelRecHits/interface/pixelCPEforGPU.h",
-            "RecoLocalTracker/SiPixelRecHits/plugins/BuildFile.xml",
-            "RecoLocalTracker/SiPixelRecHits/plugins/PixelRecHitGPUKernel.cu",
-            "RecoLocalTracker/SiPixelRecHits/plugins/PixelRecHitGPUKernel.h",
-            "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitCUDA.cc",
-            "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitConverter.cc",
-            "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitFromCUDA.cc",
-            "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitSoAFromCUDA.cc",
-            "RecoLocalTracker/SiPixelRecHits/plugins/SiPixelRecHitSoAFromLegacy.cc",
-            "RecoLocalTracker/SiPixelRecHits/plugins/gpuPixelRecHits.h",
-            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEFast.cc",
             "RecoTauTag/HLTProducers/BuildFile.xml",
             "RecoTauTag/HLTProducers/src/L2TauTagNNProducer.cc",
-            "RecoTracker/PixelSeeding/plugins/BrokenLineFitOnGPU.cc",
-            "RecoTracker/PixelSeeding/plugins/BrokenLineFitOnGPU.cu",
-            "RecoTracker/PixelSeeding/plugins/BrokenLineFitOnGPU.h",
-            "RecoTracker/PixelSeeding/plugins/BuildFile.xml",
-            "RecoTracker/PixelSeeding/plugins/CAHitNtupletCUDA.cc",
-            "RecoTracker/PixelSeeding/plugins/CAHitNtupletGeneratorKernels.cc",
-            "RecoTracker/PixelSeeding/plugins/CAHitNtupletGeneratorKernels.cu",
-            "RecoTracker/PixelSeeding/plugins/CAHitNtupletGeneratorKernels.h",
-            "RecoTracker/PixelSeeding/plugins/CAHitNtupletGeneratorKernelsAlloc.cc",
-            "RecoTracker/PixelSeeding/plugins/CAHitNtupletGeneratorKernelsAlloc.cu",
-            "RecoTracker/PixelSeeding/plugins/CAHitNtupletGeneratorKernelsImpl.h",
-            "RecoTracker/PixelSeeding/plugins/CAHitNtupletGeneratorOnGPU.cc",
-            "RecoTracker/PixelSeeding/plugins/CAHitNtupletGeneratorOnGPU.h",
-            "RecoTracker/PixelSeeding/plugins/CAStructures.h",
-            "RecoTracker/PixelSeeding/plugins/GPUCACell.h",
-            "RecoTracker/PixelSeeding/plugins/HelixFitOnGPU.cc",
-            "RecoTracker/PixelSeeding/plugins/HelixFitOnGPU.h",
-            "RecoTracker/PixelSeeding/plugins/RiemannFitOnGPU.cc",
-            "RecoTracker/PixelSeeding/plugins/RiemannFitOnGPU.h",
-            "RecoTracker/PixelSeeding/plugins/RiemannFitOnGPU.icc",
-            "RecoTracker/PixelSeeding/plugins/RiemannFitOnGPU_HIonPhase1.cu",
-            "RecoTracker/PixelSeeding/plugins/RiemannFitOnGPU_Phase1.cu",
-            "RecoTracker/PixelSeeding/plugins/RiemannFitOnGPU_Phase2.cu",
-            "RecoTracker/PixelSeeding/plugins/gpuFishbone.h",
-            "RecoTracker/PixelSeeding/plugins/gpuPixelDoublets.h",
-            "RecoTracker/PixelSeeding/plugins/gpuPixelDoubletsAlgos.h",
-            "RecoTracker/PixelSeeding/test/BuildFile.xml",
-            "RecoTracker/PixelSeeding/test/CAsizes_t.cpp",
             "RecoTracker/PixelTrackFitting/plugins/BuildFile.xml",
             "RecoTracker/PixelTrackFitting/plugins/PixelTrackDumpCUDA.cc",
             "RecoTracker/PixelTrackFitting/plugins/PixelTrackProducerFromSoA.cc",
             "RecoTracker/PixelTrackFitting/plugins/PixelTrackSoAFromCUDA.cc",
             "RecoTracker/TkSeedGenerator/plugins/BuildFile.xml",
             "RecoTracker/TkSeedGenerator/plugins/SeedProducerFromSoA.cc",
-            "RecoVertex/BeamSpotProducer/plugins/BeamSpotToCUDA.cc",
-            "RecoVertex/BeamSpotProducer/plugins/BuildFile.xml",
             "RecoVertex/PixelVertexFinding/plugins/BuildFile.xml",
             "RecoVertex/PixelVertexFinding/plugins/PixelVertexProducerCUDA.cc",
             "RecoVertex/PixelVertexFinding/plugins/PixelVertexProducerFromSoA.cc",
@@ -2945,7 +2860,7 @@
         "created_at": 1768296899,
         "number": 49794,
         "state": "open",
-        "updated_at": 1768378152
+        "updated_at": 1768501931
     },
     "49796": {
         "base_branch": "master",
@@ -2955,7 +2870,7 @@
         "created_at": 1768313124,
         "number": 49796,
         "state": "open",
-        "updated_at": 1768320768
+        "updated_at": 1768403145
     },
     "49797": {
         "base_branch": "master",
@@ -2966,7 +2881,7 @@
         "created_at": 1768316154,
         "number": 49797,
         "state": "open",
-        "updated_at": 1768325513
+        "updated_at": 1768468282
     },
     "49798": {
         "base_branch": "master",
@@ -3129,7 +3044,7 @@
         "created_at": 1768318314,
         "number": 49799,
         "state": "open",
-        "updated_at": 1768390924
+        "updated_at": 1768493525
     },
     "49800": {
         "base_branch": "CMSSW_16_0_X",
@@ -3203,7 +3118,7 @@
         "created_at": 1768355994,
         "number": 49806,
         "state": "open",
-        "updated_at": 1768385822
+        "updated_at": 1768463963
     },
     "49807": {
         "base_branch": "CMSSW_15_1_X",
@@ -3236,7 +3151,7 @@
         "created_at": 1768376049,
         "number": 49812,
         "state": "open",
-        "updated_at": 1768386005
+        "updated_at": 1768481232
     },
     "49818": {
         "base_branch": "master",
@@ -3247,7 +3162,7 @@
         "created_at": 1768388816,
         "number": 49818,
         "state": "open",
-        "updated_at": 1768388976
+        "updated_at": 1768483102
     },
     "49819": {
         "base_branch": "CMSSW_14_0_X",
@@ -3258,7 +3173,7 @@
         "created_at": 1768389852,
         "number": 49819,
         "state": "open",
-        "updated_at": 1768395503
+        "updated_at": 1768459472
     },
     "49820": {
         "base_branch": "master",
@@ -3268,7 +3183,7 @@
         "created_at": 1768391216,
         "number": 49820,
         "state": "open",
-        "updated_at": 1768396661
+        "updated_at": 1768406067
     },
     "49821": {
         "base_branch": "master",
@@ -3279,7 +3194,7 @@
         "created_at": 1768392187,
         "number": 49821,
         "state": "open",
-        "updated_at": 1768392371
+        "updated_at": 1768483456
     },
     "49824": {
         "base_branch": "CMSSW_14_0_X",
@@ -3339,7 +3254,7 @@
         "created_at": 1768394670,
         "number": 49828,
         "state": "open",
-        "updated_at": 1768394832
+        "updated_at": 1768502222
     },
     "49829": {
         "base_branch": "master",
@@ -3359,7 +3274,7 @@
         "created_at": 1768396797,
         "number": 49829,
         "state": "open",
-        "updated_at": 1768396821
+        "updated_at": 1768468575
     },
     "49831": {
         "base_branch": "master",
@@ -3370,7 +3285,7 @@
         "created_at": 1768403536,
         "number": 49831,
         "state": "open",
-        "updated_at": 1768403559
+        "updated_at": 1768425453
     },
     "49832": {
         "base_branch": "master",
@@ -3400,7 +3315,7 @@
         "created_at": 1768406129,
         "number": 49832,
         "state": "open",
-        "updated_at": 1768423751
+        "updated_at": 1768482079
     },
     "49834": {
         "base_branch": "CMSSW_16_0_X",
@@ -3411,7 +3326,7 @@
         "created_at": 1768406647,
         "number": 49834,
         "state": "open",
-        "updated_at": 1768406674
+        "updated_at": 1768459323
     },
     "49835": {
         "base_branch": "CMSSW_14_1_X",
@@ -3422,7 +3337,7 @@
         "created_at": 1768407131,
         "number": 49835,
         "state": "open",
-        "updated_at": 1768407157
+        "updated_at": 1768459251
     },
     "49836": {
         "base_branch": "CMSSW_14_2_X",
@@ -3433,7 +3348,7 @@
         "created_at": 1768407610,
         "number": 49836,
         "state": "open",
-        "updated_at": 1768407637
+        "updated_at": 1768459222
     },
     "49837": {
         "base_branch": "CMSSW_15_0_X",
@@ -3444,7 +3359,7 @@
         "created_at": 1768407914,
         "number": 49837,
         "state": "open",
-        "updated_at": 1768407942
+        "updated_at": 1768459206
     },
     "49838": {
         "base_branch": "CMSSW_15_1_X",
@@ -3455,7 +3370,7 @@
         "created_at": 1768408273,
         "number": 49838,
         "state": "open",
-        "updated_at": 1768408299
+        "updated_at": 1768456439
     },
     "49840": {
         "base_branch": "master",
@@ -3466,7 +3381,7 @@
         "created_at": 1768413129,
         "number": 49840,
         "state": "open",
-        "updated_at": 1768413151
+        "updated_at": 1768424623
     },
     "49842": {
         "base_branch": "CMSSW_15_0_X",
@@ -3476,7 +3391,7 @@
         "created_at": 1768433642,
         "number": 49842,
         "state": "open",
-        "updated_at": 1768433668
+        "updated_at": 1768433684
     },
     "49843": {
         "base_branch": "CMSSW_15_0_X",
