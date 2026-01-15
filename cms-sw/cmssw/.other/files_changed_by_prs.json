@@ -3783,5 +3783,25 @@
         "number": 49842,
         "state": "open",
         "updated_at": 1768433668
+    },
+    "49843": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "SimPPS/DirectSimProducer/BuildFile.xml",
+            "SimPPS/DirectSimProducer/interface/DirectSimulator.h",
+            "SimPPS/DirectSimProducer/interface/NanoAODDirectSimulator.h",
+            "SimPPS/DirectSimProducer/plugins/BuildFile.xml",
+            "SimPPS/DirectSimProducer/plugins/PPSDirectProtonSimulation.cc",
+            "SimPPS/DirectSimProducer/python/NanoAODDirectSimProducer.py",
+            "SimPPS/DirectSimProducer/src/DirectSimulator.cc",
+            "SimPPS/DirectSimProducer/src/NanoAODDirectSimulator.cc",
+            "SimPPS/DirectSimProducer/src/classes.h",
+            "SimPPS/DirectSimProducer/src/classes_def.xml",
+            "SimPPS/DirectSimProducer/test/test_NanoAOD_cfg.py"
+        ],
+        "created_at": 1768474520,
+        "number": 49843,
+        "state": "open",
+        "updated_at": 1768474547
     }
 }
