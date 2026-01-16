@@ -3422,5 +3422,20 @@
         "number": 49844,
         "state": "open",
         "updated_at": 1768508093
+    },
+    "49845": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalGeometry/data/D122FE.txt",
+            "Geometry/HGCalGeometry/data/D122FH.txt",
+            "Geometry/HGCalGeometry/test/HGCalBadIdCheck.cc",
+            "Geometry/HGCalGeometry/test/HGCalIdCheck.cc",
+            "Geometry/HGCalGeometry/test/python/testHGCalBadIdCheck_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalIdCheck_cfg.py"
+        ],
+        "created_at": 1768538568,
+        "number": 49845,
+        "state": "open",
+        "updated_at": 1768538593
     }
 }
