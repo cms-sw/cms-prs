@@ -3317,5 +3317,18 @@
         "number": 49854,
         "state": "open",
         "updated_at": 1768580049
+    },
+    "49855": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWIO/RNTupleTempInput/src/RootRNTuple.cc",
+            "FWStorage/StorageFactory/plugins/StorageTracerProxy.cc",
+            "FWStorage/StorageFactory/scripts/edmStorageTrace.py",
+            "IOPool/Input/src/RootTree.cc"
+        ],
+        "created_at": 1768581621,
+        "number": 49855,
+        "state": "open",
+        "updated_at": 1768581645
     }
 }
