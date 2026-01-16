@@ -3070,6 +3070,7 @@
             "Configuration/ProcessModifiers/python/alpakaValidationLST_cff.py",
             "Configuration/ProcessModifiers/python/alpakaValidation_cff.py",
             "Configuration/PyReleaseValidation/README.md",
+            "Configuration/PyReleaseValidation/python/relval_Run4.py",
             "Configuration/PyReleaseValidation/python/relval_gpu.py",
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
             "DQM/TrackingMonitorClient/python/TrackingClientConfig_Tier0_cff.py",
@@ -3086,12 +3087,13 @@
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTInitialStepSequence_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTMkFitInputSequence_cfi.py",
             "RecoTracker/IterativeTracking/python/HighPtTripletStep_cff.py",
+            "RecoTracker/LSTCore/standalone/README.md",
             "Validation/RecoTrack/python/HLTmultiTrackValidator_cff.py"
         ],
         "created_at": 1768406129,
         "number": 49832,
         "state": "open",
-        "updated_at": 1768482079
+        "updated_at": 1768584408
     },
     "49834": {
         "base_branch": "CMSSW_16_0_X",
