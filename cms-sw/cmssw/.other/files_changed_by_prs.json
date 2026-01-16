@@ -3330,5 +3330,19 @@
         "number": 49855,
         "state": "open",
         "updated_at": 1768581645
+    },
+    "49856": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/Common/interface/DeviceProduct.h",
+            "DataFormats/Common/src/DeviceProduct.cc",
+            "DataFormats/Common/test/test_catch2_DeviceProduct.cpp",
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/EDMetadata.h",
+            "HeterogeneousCore/AlpakaCore/src/alpaka/EDMetadata.cc"
+        ],
+        "created_at": 1768581701,
+        "number": 49856,
+        "state": "open",
+        "updated_at": 1768581728
     }
 }
