@@ -2757,8 +2757,6 @@
             "Validation/HGCalValidation/scripts/testHGCalReco_cfg.py",
             "Validation/HGCalValidation/scripts/testHGCalSimSingleMuonPt100_cfg.py",
             "Validation/HGCalValidation/scripts/testHGCalSimTTBar_cfg.py",
-            "Validation/HGCalValidation/test/python/standalone_fromRECO.py",
-            "Validation/HGCalValidation/test/python/standalone_fromRECO_HARVESTING.py",
             "Validation/HGCalValidation/test/python/standalone_onlyTICL_HARVESTING.py",
             "Validation/HGCalValidation/test/python/standalone_onlyTICL_fromRECO.py",
             "Validation/HGCalValidation/test/python/testHGCalSimWatcherV17N_cfg.py",
@@ -2773,7 +2771,7 @@
         "created_at": 1768290371,
         "number": 49790,
         "state": "open",
-        "updated_at": 1768464386
+        "updated_at": 1768559126
     },
     "49791": {
         "base_branch": "CMSSW_16_0_X",
