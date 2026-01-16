@@ -1190,10 +1190,16 @@
             "EventFilter/L1ScoutingRawToDigi/interface/masks.h",
             "EventFilter/L1ScoutingRawToDigi/interface/shifts.h",
             "EventFilter/L1ScoutingRawToDigi/plugins/ScBMTFRawToDigi.cc",
+            "EventFilter/L1ScoutingRawToDigi/plugins/ScBMTFRawToDigi.h",
             "EventFilter/L1ScoutingRawToDigi/plugins/ScCALORawToDigi.cc",
+            "EventFilter/L1ScoutingRawToDigi/plugins/ScCALORawToDigi.h",
             "EventFilter/L1ScoutingRawToDigi/plugins/ScCaloTowerRawToDigi.cc",
             "EventFilter/L1ScoutingRawToDigi/plugins/ScCaloTowerRawToDigi.h",
             "EventFilter/L1ScoutingRawToDigi/plugins/ScGMTRawToDigi.cc",
+            "EventFilter/L1ScoutingRawToDigi/plugins/ScGMTRawToDigi.h",
+            "EventFilter/L1ScoutingRawToDigi/python/ScBMTFRawToDigi_cfi.py",
+            "EventFilter/L1ScoutingRawToDigi/python/ScCaloRawToDigi_cfi.py",
+            "EventFilter/L1ScoutingRawToDigi/python/ScGMTRawToDigi_cfi.py",
             "L1TriggerScouting/OnlineProcessing/BuildFile.xml",
             "L1TriggerScouting/OnlineProcessing/plugins/BuildFile.xml",
             "L1TriggerScouting/OnlineProcessing/plugins/ScoutingJetProducer.cc",
@@ -1203,7 +1209,7 @@
         "created_at": 1747319471,
         "number": 48093,
         "state": "open",
-        "updated_at": 1768493471
+        "updated_at": 1768568947
     },
     "48146": {
         "base_branch": "master",
