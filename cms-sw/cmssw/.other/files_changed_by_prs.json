@@ -2983,6 +2983,13 @@
     "49829": {
         "base_branch": "master",
         "changed_files_names": [
+            "CUDADataFormats/SiStripCluster/BuildFile.xml",
+            "CUDADataFormats/SiStripCluster/interface/SiStripClustersCUDA.h",
+            "CUDADataFormats/SiStripCluster/src/SiStripClustersCUDA.cc",
+            "CalibFormats/SiStripObjects/BuildFile.xml",
+            "CalibFormats/SiStripObjects/interface/SiStripClusterizerConditionsGPU.h",
+            "CalibFormats/SiStripObjects/src/EventSetup_Registration.cc",
+            "CalibFormats/SiStripObjects/src/SiStripClusterizerConditionsGPU.cc",
             "RecoLocalTracker/SiStripClusterizer/plugins/BuildFile.xml",
             "RecoLocalTracker/SiStripClusterizer/plugins/ChannelLocsGPU.cc",
             "RecoLocalTracker/SiStripClusterizer/plugins/ChannelLocsGPU.h",
@@ -2998,7 +3005,7 @@
         "created_at": 1768396797,
         "number": 49829,
         "state": "open",
-        "updated_at": 1768468575
+        "updated_at": 1768650201
     },
     "49831": {
         "base_branch": "master",
