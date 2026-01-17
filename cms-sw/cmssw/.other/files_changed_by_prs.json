@@ -2990,10 +2990,12 @@
             "CalibFormats/SiStripObjects/interface/SiStripClusterizerConditionsGPU.h",
             "CalibFormats/SiStripObjects/src/EventSetup_Registration.cc",
             "CalibFormats/SiStripObjects/src/SiStripClusterizerConditionsGPU.cc",
+            "CommonTools/TrackerMap/BuildFile.xml",
             "RecoLocalTracker/SiStripClusterizer/plugins/BuildFile.xml",
             "RecoLocalTracker/SiStripClusterizer/plugins/ChannelLocsGPU.cc",
             "RecoLocalTracker/SiStripClusterizer/plugins/ChannelLocsGPU.h",
             "RecoLocalTracker/SiStripClusterizer/plugins/ClustersFromRawProducerGPU.cc",
+            "RecoLocalTracker/SiStripClusterizer/plugins/SiStripClusterizerConditionsGPUESProducer.cc",
             "RecoLocalTracker/SiStripClusterizer/plugins/SiStripClustersFromSOA.cc",
             "RecoLocalTracker/SiStripClusterizer/plugins/SiStripClustersSOAtoHost.cc",
             "RecoLocalTracker/SiStripClusterizer/plugins/SiStripRawToClusterGPUKernel.cc",
@@ -3005,7 +3007,7 @@
         "created_at": 1768396797,
         "number": 49829,
         "state": "open",
-        "updated_at": 1768650201
+        "updated_at": 1768660333
     },
     "49831": {
         "base_branch": "master",
