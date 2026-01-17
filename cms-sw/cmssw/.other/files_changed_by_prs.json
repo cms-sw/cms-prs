@@ -2813,26 +2813,6 @@
         "state": "open",
         "updated_at": 1768389093
     },
-    "49799": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "CalibTracker/SiPixelESProducers/BuildFile.xml",
-            "CalibTracker/SiPixelESProducers/interface/SiPixelGainCalibrationForHLTGPU.h",
-            "CalibTracker/SiPixelESProducers/interface/SiPixelROCsStatusAndMappingWrapper.h",
-            "CalibTracker/SiPixelESProducers/plugins/BuildFile.xml",
-            "CalibTracker/SiPixelESProducers/plugins/SiPixelGainCalibrationForHLTGPUESProducer.cc",
-            "CalibTracker/SiPixelESProducers/plugins/SiPixelROCsStatusAndMappingWrapperESProducer.cc",
-            "CalibTracker/SiPixelESProducers/src/ES_SiPixelGainCalibrationForHLTGPU.cc",
-            "CalibTracker/SiPixelESProducers/src/ES_SiPixelROCsStatusAndMappingWrapper.cc",
-            "CalibTracker/SiPixelESProducers/src/SiPixelGainCalibrationForHLTGPU.cc",
-            "CalibTracker/SiPixelESProducers/src/SiPixelROCsStatusAndMappingWrapper.cc",
-            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py"
-        ],
-        "created_at": 1768318314,
-        "number": 49799,
-        "state": "open",
-        "updated_at": 1768551145
-    },
     "49800": {
         "base_branch": "CMSSW_16_0_X",
         "changed_files_names": [
