@@ -3487,6 +3487,8 @@
             "RecoHGCal/TICL/plugins/PatternRecognitionbyFastJet.h",
             "RecoHGCal/TICL/plugins/PatternRecognitionbyRecovery.h",
             "RecoHGCal/TICL/plugins/TICLCandidateProducer.cc",
+            "RecoHGCal/TICL/plugins/TracksterLinkingbySuperClusteringDNN.cc",
+            "RecoHGCal/TICL/plugins/TracksterLinkingbySuperClusteringMustache.cc",
             "RecoHGCal/TICL/plugins/TracksterLinksProducer.cc",
             "RecoHGCal/TICL/plugins/TrackstersMergeProducer.cc",
             "RecoHGCal/TICL/plugins/TrackstersProducer.cc",
@@ -3498,7 +3500,7 @@
         "created_at": 1768825764,
         "number": 49866,
         "state": "open",
-        "updated_at": 1768835318
+        "updated_at": 1768835633
     },
     "49867": {
         "base_branch": "master",
