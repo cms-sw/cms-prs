@@ -3121,27 +3121,6 @@
         "state": "open",
         "updated_at": 1768614211
     },
-    "49859": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "RecoTracker/PixelSeeding/plugins/alpaka/HelixFit.h",
-            "RecoTracker/PixelTrackFitting/BuildFile.xml",
-            "RecoTracker/PixelTrackFitting/interface/BrokenLine.h",
-            "RecoTracker/PixelTrackFitting/interface/FitResult.h",
-            "RecoTracker/PixelTrackFitting/interface/FitUtils.h",
-            "RecoTracker/PixelTrackFitting/interface/RiemannFit.h",
-            "RecoTracker/PixelTrackFitting/interface/alpaka/FitResult.h",
-            "RecoTracker/PixelTrackFitting/interface/alpaka/FitUtils.h",
-            "RecoTracker/PixelTrackFitting/test/BuildFile.xml",
-            "RecoTracker/PixelTrackFitting/test/testEigenGPU.cu",
-            "RecoTracker/PixelTrackFitting/test/testEigenGPUNoFit.cu",
-            "RecoTracker/PixelTrackFitting/test/test_common.h"
-        ],
-        "created_at": 1768807097,
-        "number": 49859,
-        "state": "open",
-        "updated_at": 1768807097
-    },
     "49860": {
         "base_branch": "master",
         "changed_files_names": [
