@@ -2230,6 +2230,7 @@
             "RecoEgamma/EgammaPhotonProducers/BuildFile.xml",
             "RecoEgamma/EgammaPhotonProducers/python/gedPhotonSequence_cff.py",
             "RecoEgamma/EgammaPhotonProducers/python/gedPhotons_cfi.py",
+            "RecoEgamma/EgammaPhotonProducers/python/photons_cfi.py",
             "RecoEgamma/EgammaPhotonProducers/src/GEDPhotonProducer.cc",
             "RecoEgamma/EgammaTools/BuildFile.xml",
             "RecoEgamma/EgammaTools/interface/EgammaDNNHelper.h",
@@ -2242,7 +2243,7 @@
         "created_at": 1766153422,
         "number": 49681,
         "state": "open",
-        "updated_at": 1768829614
+        "updated_at": 1768836888
     },
     "49682": {
         "base_branch": "master",
