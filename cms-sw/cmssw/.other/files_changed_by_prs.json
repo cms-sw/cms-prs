@@ -3466,5 +3466,24 @@
         "number": 49863,
         "state": "open",
         "updated_at": 1768823404
+    },
+    "49866": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTrackstersMerge_cfi.py",
+            "RecoHGCal/TICL/BuildFile.xml",
+            "RecoHGCal/TICL/plugins/BuildFile.xml",
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyCA.h",
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyCLUE3D.h",
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyFastJet.h",
+            "RecoHGCal/TICL/plugins/TrackstersMergeProducer.cc",
+            "RecoHGCal/TICL/python/customiseForTICLv5_cff.py",
+            "RecoHGCal/TICL/python/iterativeTICL_cff.py",
+            "RecoHGCal/TICL/python/tracksterSelectionTf_cfi.py"
+        ],
+        "created_at": 1768825764,
+        "number": 49866,
+        "state": "open",
+        "updated_at": 1768825788
     }
 }
