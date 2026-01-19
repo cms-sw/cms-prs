@@ -2224,6 +2224,7 @@
     "49681": {
         "base_branch": "master",
         "changed_files_names": [
+            "RecoEgamma/EgammaElectronProducers/plugins/GsfElectronProducer.cc",
             "RecoEgamma/EgammaElectronProducers/python/gedGsfElectrons_cfi.py",
             "RecoEgamma/EgammaPhotonProducers/BuildFile.xml",
             "RecoEgamma/EgammaPhotonProducers/python/gedPhotonSequence_cff.py",
@@ -2240,7 +2241,7 @@
         "created_at": 1766153422,
         "number": 49681,
         "state": "open",
-        "updated_at": 1768585408
+        "updated_at": 1768829614
     },
     "49682": {
         "base_branch": "master",
