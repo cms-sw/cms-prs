@@ -3378,5 +3378,18 @@
         "number": 49870,
         "state": "open",
         "updated_at": 1768835839
+    },
+    "49871": {
+        "base_branch": "CMSSW_16_0_X",
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py",
+            "HLTrigger/special/plugins/BuildFile.xml",
+            "HLTrigger/special/plugins/HLTEcalPhiSymFilter.cc",
+            "HLTrigger/special/plugins/HLTEcalPhiSymFilter.h"
+        ],
+        "created_at": 1768853758,
+        "number": 49871,
+        "state": "open",
+        "updated_at": 1768853789
     }
 }
