@@ -3402,6 +3402,9 @@
             "EventFilter/EcalRawToDigi/plugins/EcalRawToDigiGPU.cc",
             "EventFilter/EcalRawToDigi/plugins/UnpackGPU.cu",
             "EventFilter/EcalRawToDigi/plugins/UnpackGPU.h",
+            "RecoLocalCalo/EcalRecAlgos/bin/BuildFile.xml",
+            "RecoLocalCalo/EcalRecAlgos/bin/makeEcalMultifitResultsGpuValidationPlots.cpp",
+            "RecoLocalCalo/EcalRecAlgos/bin/makeEcalRechitValidationPlots.cpp",
             "RecoLocalCalo/EcalRecProducers/BuildFile.xml",
             "RecoLocalCalo/EcalRecProducers/plugins/AmplitudeComputationCommonKernels.cu",
             "RecoLocalCalo/EcalRecProducers/plugins/AmplitudeComputationCommonKernels.h",
@@ -3442,6 +3445,6 @@
         "created_at": 1768862253,
         "number": 49872,
         "state": "open",
-        "updated_at": 1768862280
+        "updated_at": 1768892942
     }
 }
