@@ -3427,9 +3427,6 @@
             "HeterogeneousCore/CUDACore/src/chooseDevice.cc",
             "HeterogeneousCore/CUDACore/src/chooseDevice.h",
             "HeterogeneousCore/CUDACore/test/BuildFile.xml",
-            "HeterogeneousCore/CUDACore/test/cudaTimeMeasurement.cu",
-            "HeterogeneousCore/CUDACore/test/mpiCudaGeneric.cu",
-            "HeterogeneousCore/CUDACore/test/testStreamEvent.cu",
             "HeterogeneousCore/CUDACore/test/test_ScopedContext.cc",
             "HeterogeneousCore/CUDACore/test/test_ScopedContextKernels.cu",
             "HeterogeneousCore/CUDACore/test/test_ScopedContextKernels.h",
@@ -3463,6 +3460,6 @@
         "created_at": 1769023283,
         "number": 49891,
         "state": "open",
-        "updated_at": 1769023619
+        "updated_at": 1769023817
     }
 }
