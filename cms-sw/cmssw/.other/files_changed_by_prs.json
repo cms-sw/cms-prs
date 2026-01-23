@@ -3217,5 +3217,23 @@
         "number": 49924,
         "state": "open",
         "updated_at": 1769197928
+    },
+    "49925": {
+        "base_branch": "CMSSW_16_1_EVOLUTION_X",
+        "changed_files_names": [
+            "RecoBTag/FeatureTools/test/BuildFile.xml",
+            "RecoEcal/EgammaClusterProducers/test/BuildFile.xml",
+            "RecoEgamma/ElectronIdentification/test/BuildFile.xml",
+            "RecoEgamma/PhotonIdentification/test/BuildFile.xml",
+            "RecoMET/METProducers/test/BuildFile.xml",
+            "RecoPPS/Local/test/BuildFile.xml",
+            "RecoTauTag/RecoTau/test/BuildFile.xml",
+            "RecoTracker/TrackProducer/test/BuildFile.xml",
+            "RecoVertex/BeamSpotProducer/test/BuildFile.xml"
+        ],
+        "created_at": 1769203281,
+        "number": 49925,
+        "state": "open",
+        "updated_at": 1769203346
     }
 }
