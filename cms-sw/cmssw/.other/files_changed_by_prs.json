@@ -2624,41 +2624,6 @@
         "state": "open",
         "updated_at": 1768930566
     },
-    "49879": {
-        "base_branch": "CMSSW_16_0_X",
-        "changed_files_names": [
-            "FWCore/Catalog/interface/InputFileCatalog.h",
-            "FWCore/Catalog/interface/StorageURLModifier.h",
-            "FWCore/Catalog/src/InputFileCatalog.cc",
-            "FWCore/Catalog/test/InputFileCatalog_t.cpp",
-            "FWCore/Catalog/test/TestScitagConfig.h",
-            "FWCore/Framework/src/defaultCmsRunServices.cc",
-            "FWCore/Sources/interface/SciTagCategoryForEmbeddedSources.h",
-            "FWCore/Sources/interface/VectorInputSourceDescription.h",
-            "FWIO/RNTupleTempInput/bin/EdmRNTupleTempFileUtil.cpp",
-            "FWIO/RNTupleTempInput/bin/EdmRNTupleTempProvDump.cc",
-            "FWIO/RNTupleTempInput/src/EmbeddedRNTupleTempSource.cc",
-            "FWStorage/Services/plugins/ScitagConfig.cc",
-            "FWStorage/Services/test/BuildFile.xml",
-            "FWStorage/Services/test/test_catch2_ScitagConfig.cc",
-            "FWStorage/Services/test/test_sitelocalconfig_catalog_cfg.py",
-            "IOPool/Common/bin/EdmCopyUtil.cpp",
-            "IOPool/Common/bin/EdmFileUtil.cpp",
-            "IOPool/Common/bin/EdmProvDump.cc",
-            "IOPool/Common/test/test_catch2_output2input.cc",
-            "IOPool/Input/src/EmbeddedRootSource.cc",
-            "IOPool/Streamer/test/ReadStreamerFile.cpp",
-            "Mixing/Base/interface/BMixingModule.h",
-            "Mixing/Base/interface/PileUp.h",
-            "Mixing/Base/src/BMixingModule.cc",
-            "Mixing/Base/src/PileUp.cc",
-            "SimGeneral/PreMixingModule/plugins/PreMixingModule.cc"
-        ],
-        "created_at": 1768939405,
-        "number": 49879,
-        "state": "open",
-        "updated_at": 1768939428
-    },
     "49881": {
         "base_branch": "CMSSW_16_1_EVOLUTION_X",
         "changed_files_names": [
