@@ -2175,12 +2175,14 @@
         "base_branch": "master",
         "changed_files_names": [
             "Validation/HGCalValidation/python/hgcalPlots.py",
-            "Validation/HGCalValidation/scripts/makeHGCalValidationPlots.py"
+            "Validation/HGCalValidation/scripts/makeHGCalValidationPlots.py",
+            "Validation/HGCalValidation/test/BuildFile.xml",
+            "Validation/HGCalValidation/test/test_makeHGCalValidationPlots.sh"
         ],
         "created_at": 1768233550,
         "number": 49775,
         "state": "open",
-        "updated_at": 1768399618
+        "updated_at": 1769175889
     },
     "49779": {
         "base_branch": "master",
