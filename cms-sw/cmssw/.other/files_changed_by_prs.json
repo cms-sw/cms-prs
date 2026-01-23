@@ -3161,5 +3161,19 @@
         "number": 49904,
         "state": "open",
         "updated_at": 1769139782
+    },
+    "49905": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondTools/Hcal/interface/CastorChannelQualityHandler.h",
+            "CondTools/Hcal/interface/EventSetupPayloadPopConAnalyzer.h",
+            "CondTools/Hcal/interface/SinglePayloadPopConHandler.h",
+            "CondTools/Hcal/plugins/CastorChannelQualityPopConAnalyzer.cc",
+            "CondTools/Hcal/src/CastorChannelQualityHandler.cc"
+        ],
+        "created_at": 1769154157,
+        "number": 49905,
+        "state": "open",
+        "updated_at": 1769154182
     }
 }
