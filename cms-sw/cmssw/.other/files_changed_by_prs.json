@@ -3206,5 +3206,29 @@
         "number": 49943,
         "state": "open",
         "updated_at": 1769453434
+    },
+    "49944": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DetectorDescription/DDCMS/plugins/DDDetectorESProducer.cc",
+            "FWCore/Integration/plugins/ProducerWithPSetDesc.cc",
+            "FWCore/ParameterSet/src/ConfigurationDescriptions.cc",
+            "Geometry/MTDGeometryBuilder/plugins/MTDDigiGeometryESModule.cc",
+            "Geometry/MTDNumberingBuilder/plugins/MTDGeometricTimingDetESModule.cc",
+            "Geometry/TrackerGeometryBuilder/plugins/TrackerDigiGeometryESModule.cc",
+            "Geometry/TrackerNumberingBuilder/plugins/TrackerGeometricDetESModule.cc",
+            "L1Trigger/L1TGlobal/plugins/L1TGlobalPrescaler.cc",
+            "RecoBTag/ONNXRuntime/plugins/DeepDoubleXONNXJetTagsProducer.cc",
+            "RecoLocalCalo/HcalRecProducers/src/HcalSimpleReconstructor.cc",
+            "RecoMET/METFilters/plugins/BadParticleFilter.cc",
+            "RecoMET/METProducers/src/PFMETProducer.cc",
+            "RecoMuon/GlobalTrackingTools/src/MuonTrackingRegionBuilder.cc",
+            "RecoTauTag/RecoTau/plugins/PFRecoTauTagInfoProducer.cc",
+            "RecoTracker/TkTrackingRegions/interface/GlobalTrackingRegionProducerFromBeamSpot.h"
+        ],
+        "created_at": 1769459958,
+        "number": 49944,
+        "state": "open",
+        "updated_at": 1769459985
     }
 }
