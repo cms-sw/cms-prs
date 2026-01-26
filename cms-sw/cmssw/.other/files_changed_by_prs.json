@@ -3262,5 +3262,29 @@
         "number": 49934,
         "state": "open",
         "updated_at": 1769267212
+    },
+    "49936": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQM/Integration/python/clients/pixelgpu_dqm_sourceclient-live_cfg.py",
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareRecHitsSoA.cc",
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareRecHits.cc",
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareTracksSoA.cc",
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareTracks.cc",
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareVerticesSoA.cc",
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareVertices.cc",
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorRecHitsSoA.cc",
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorRecHitsSoAAlpaka.cc",
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorTrackSoA.cc",
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorTrackSoAAlpaka.cc",
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorVertexSoA.cc",
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorVertexSoAAlpaka.cc",
+            "DQM/SiPixelHeterogeneous/python/SiPixelHeterogenousDQM_FirstStep_cff.py",
+            "DQMOffline/Trigger/python/HeterogeneousMonitoring_cff.py"
+        ],
+        "created_at": 1769409705,
+        "number": 49936,
+        "state": "open",
+        "updated_at": 1769409731
     }
 }
