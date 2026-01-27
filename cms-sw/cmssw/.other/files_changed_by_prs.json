@@ -2948,12 +2948,16 @@
             "HeterogeneousCore/MPICore/plugins/MPISender.cc",
             "HeterogeneousCore/MPICore/src/api.cc",
             "HeterogeneousCore/MPICore/src/macros.h",
-            "HeterogeneousCore/MPICore/src/metadata.cc"
+            "HeterogeneousCore/MPICore/src/metadata.cc",
+            "HeterogeneousCore/MPICore/test/BuildFile.xml",
+            "HeterogeneousCore/MPICore/test/FilteredEventValidator.cc",
+            "HeterogeneousCore/MPICore/test/controller_filters_cfg.py",
+            "HeterogeneousCore/MPICore/test/follower_filters_cfg.py"
         ],
         "created_at": 1769377758,
         "number": 49935,
         "state": "open",
-        "updated_at": 1769450942
+        "updated_at": 1769507300
     },
     "49936": {
         "base_branch": "master",
