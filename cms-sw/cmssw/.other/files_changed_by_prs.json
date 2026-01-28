@@ -6260,5 +6260,19 @@
         "number": 49951,
         "state": "open",
         "updated_at": 1769564102
+    },
+    "49952": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/CaloTopology/test/BuildFile.xml",
+            "Geometry/CaloTopology/test/HGCalNeighbourTester.cc",
+            "Geometry/CaloTopology/test/testHGCalNeighbour_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalIdCheck_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalMissingID_cfg.py"
+        ],
+        "created_at": 1769569713,
+        "number": 49952,
+        "state": "open",
+        "updated_at": 1769569740
     }
 }
