@@ -2880,12 +2880,14 @@
             "Validation/HGCalValidation/scripts/harvestHGCalValidationPlots.py",
             "Validation/HGCalValidation/scripts/makeHGCalValidationPlots.py",
             "Validation/HGCalValidation/src/TICLCandidateValidator.cc",
-            "Validation/HGCalValidation/test/python/standalone_fromRECO.py"
+            "Validation/HGCalValidation/test/BuildFile.xml",
+            "Validation/HGCalValidation/test/python/standalone_fromRECO.py",
+            "Validation/HGCalValidation/test/test_makeHGCalValidationPlots.sh"
         ],
         "created_at": 1769261230,
         "number": 49932,
         "state": "open",
-        "updated_at": 1769491001
+        "updated_at": 1769614580
     },
     "49935": {
         "base_branch": "master",
