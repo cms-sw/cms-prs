@@ -3350,5 +3350,37 @@
         "number": 49967,
         "state": "open",
         "updated_at": 1769614866
+    },
+    "49969": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoMTD/TimingIDTools/plugins/MVATrainingNtuple.cc",
+            "SimDataFormats/CaloAnalysis/interface/MtdSimCluster.h",
+            "SimDataFormats/CaloAnalysis/src/MtdSimLayerCluster.cc",
+            "SimDataFormats/TrackingHit/interface/PSimHit.h",
+            "SimDataFormats/TrackingHit/interface/SimHitCategory.h",
+            "SimDataFormats/TrackingHit/src/classes_def.xml",
+            "SimDataFormats/TrackingHit/test/BuildFile.xml",
+            "SimDataFormats/TrackingHit/test/testPSimHit.cc",
+            "SimG4CMS/Forward/interface/BscG4Hit.h",
+            "SimG4CMS/Forward/interface/MtdHitCategory.h",
+            "SimG4CMS/Forward/interface/MtdSD.h",
+            "SimG4CMS/Forward/src/BSCG4Hit.cc",
+            "SimG4CMS/Forward/src/MtdSD.cc",
+            "SimG4CMS/Forward/src/TimingSD.cc",
+            "SimG4Core/Application/test/SimHitCaloHitDumper.cc",
+            "SimG4Core/Notification/src/SimTrackManager.cc",
+            "SimGeneral/CaloAnalysis/plugins/MtdTruthAccumulator.cc",
+            "Validation/MtdValidation/plugins/BtlLocalRecoValidation.cc",
+            "Validation/MtdValidation/plugins/BtlSimHitsValidation.cc",
+            "Validation/MtdValidation/plugins/EtlLocalRecoValidation.cc",
+            "Validation/MtdValidation/plugins/EtlSimHitsValidation.cc",
+            "Validation/MtdValidation/plugins/MTDHit.h",
+            "Validation/MtdValidation/plugins/MtdTracksValidation.cc"
+        ],
+        "created_at": 1769615680,
+        "number": 49969,
+        "state": "open",
+        "updated_at": 1769615706
     }
 }
