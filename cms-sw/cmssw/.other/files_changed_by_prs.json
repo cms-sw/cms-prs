@@ -2217,6 +2217,7 @@
             "DataFormats/Portable/interface/PortableObject.h",
             "DataFormats/Portable/interface/alpaka/PortableCollection.h",
             "DataFormats/Portable/interface/alpaka/PortableObject.h",
+            "DataFormats/Portable/test/alpaka/test_catch2_SoAMethods.dev.cc",
             "DataFormats/Portable/test/alpaka/test_catch2_heterogeneousDeepCopy.dev.cc",
             "DataFormats/Portable/test/alpaka/test_catch2_heterogeneousSoABlocks.dev.cc",
             "DataFormats/Portable/test/test_catch2_blocks.cc",
@@ -2306,7 +2307,7 @@
         "created_at": 1768810822,
         "number": 49860,
         "state": "open",
-        "updated_at": 1769466809
+        "updated_at": 1769674373
     },
     "49870": {
         "base_branch": "master",
