@@ -2543,14 +2543,14 @@
     "49970": {
         "base_branch": "master",
         "changed_files_names": [
-            "FWCore/Framework/src/ProductProvenanceRetriever.cc",
             "FWIO/RNTupleTempInput/src/RootFile.cc",
-            "FWIO/RNTupleTempInput/src/RootFile.h"
+            "FWIO/RNTupleTempInput/src/RootFile.h",
+            "FWIO/RNTupleTempInput/src/RootRNTuple.h"
         ],
         "created_at": 1769616368,
         "number": 49970,
         "state": "open",
-        "updated_at": 1769616391
+        "updated_at": 1769713581
     },
     "49971": {
         "base_branch": "CMSSW_16_0_X",
