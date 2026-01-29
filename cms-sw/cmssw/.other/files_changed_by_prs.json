@@ -2707,5 +2707,24 @@
         "number": 49983,
         "state": "open",
         "updated_at": 1769711115
+    },
+    "49984": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/ProcessModifiers/python/alpakaValidationLST_cff.py",
+            "Configuration/ProcessModifiers/python/alpakaValidation_cff.py",
+            "Configuration/PyReleaseValidation/README.md",
+            "Configuration/PyReleaseValidation/python/relval_Run4.py",
+            "Configuration/PyReleaseValidation/python/relval_gpu.py",
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "DQM/TrackingMonitorClient/python/TrackingClientConfig_Tier0_cff.py",
+            "DQM/TrackingMonitorSource/python/trackToTrackCPU_cff.py",
+            "RecoTracker/IterativeTracking/python/HighPtTripletStep_cff.py",
+            "RecoTracker/LSTCore/standalone/README.md"
+        ],
+        "created_at": 1769721078,
+        "number": 49984,
+        "state": "open",
+        "updated_at": 1769721106
     }
 }
