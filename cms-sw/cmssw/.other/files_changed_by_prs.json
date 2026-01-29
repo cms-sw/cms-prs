@@ -2819,5 +2819,32 @@
         "number": 49971,
         "state": "open",
         "updated_at": 1769617466
+    },
+    "49973": {
+        "base_branch": "CMSSW_16_0_X",
+        "changed_files_names": [
+            "HeterogeneousCore/MPICore/README.md",
+            "HeterogeneousCore/MPICore/interface/api.h",
+            "HeterogeneousCore/MPICore/interface/messages.h",
+            "HeterogeneousCore/MPICore/interface/metadata.h",
+            "HeterogeneousCore/MPICore/plugins/MPIReceiver.cc",
+            "HeterogeneousCore/MPICore/plugins/MPISender.cc",
+            "HeterogeneousCore/MPICore/src/api.cc",
+            "HeterogeneousCore/MPICore/src/macros.h",
+            "HeterogeneousCore/MPICore/src/metadata.cc",
+            "HeterogeneousCore/MPICore/test/BuildFile.xml",
+            "HeterogeneousCore/MPICore/test/controller_cfg.py",
+            "HeterogeneousCore/MPICore/test/controller_complex_cfg.py",
+            "HeterogeneousCore/MPICore/test/controller_filters_cfg.py",
+            "HeterogeneousCore/MPICore/test/controller_soa_cfg.py",
+            "HeterogeneousCore/MPICore/test/follower_cfg.py",
+            "HeterogeneousCore/MPICore/test/follower_complex_cfg.py",
+            "HeterogeneousCore/MPICore/test/follower_filters_cfg.py",
+            "HeterogeneousCore/MPICore/test/follower_soa_cfg.py"
+        ],
+        "created_at": 1769684150,
+        "number": 49973,
+        "state": "open",
+        "updated_at": 1769684178
     }
 }
