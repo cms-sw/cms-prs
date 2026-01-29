@@ -2790,5 +2790,18 @@
         "number": 49975,
         "state": "open",
         "updated_at": 1769699068
+    },
+    "49976": {
+        "base_branch": "CMSSW_16_0_X",
+        "changed_files_names": [
+            "DataFormats/Common/interface/DeviceProduct.h",
+            "DataFormats/Common/test/test_catch2_DeviceProduct.cpp",
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/EDMetadata.h",
+            "HeterogeneousCore/AlpakaCore/src/alpaka/EDMetadata.cc"
+        ],
+        "created_at": 1769699228,
+        "number": 49976,
+        "state": "open",
+        "updated_at": 1769699256
     }
 }
