@@ -2515,5 +2515,25 @@
         "number": 49990,
         "state": "open",
         "updated_at": 1769784432
+    },
+    "49991": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQM/HLTEvF/python/HLTPixelFakeDigiMonitoring_cff.py",
+            "DQM/HLTEvF/python/HLTSiPixelMonitoring_cff.py",
+            "DataFormats/SiPixelClusterSoA/interface/SiPixelClustersSoA.h",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/BuildFile.xml",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelFakeDigiMonitor.cc",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelFakeDigiMonitor.h",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/CalibPixel.h",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/PixelClustering.h",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToCluster.cc",
+            "RecoLocalTracker/SiPixelClusterizer/python/SiPixelFakeDigiMonitor_HLT_cff.py",
+            "RecoLocalTracker/SiPixelClusterizer/python/SiPixelFakeDigiMonitor_cfi.py"
+        ],
+        "created_at": 1769785419,
+        "number": 49991,
+        "state": "open",
+        "updated_at": 1769785448
     }
 }
