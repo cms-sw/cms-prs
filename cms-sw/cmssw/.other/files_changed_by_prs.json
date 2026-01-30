@@ -2152,6 +2152,7 @@
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleFlowSuperClusterHGCalFromTICLL1Seeded_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleFlowSuperClusterHGCalFromTICLUnseeded_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltPfTICL_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclCandidate_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTrackstersCLUE3DHighL1Seeded_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTrackstersCLUE3DHigh_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTrackstersMerge_cfi.py",
@@ -2257,7 +2258,7 @@
         "created_at": 1769261230,
         "number": 49932,
         "state": "open",
-        "updated_at": 1769766181
+        "updated_at": 1769783361
     },
     "49942": {
         "base_branch": "master",
