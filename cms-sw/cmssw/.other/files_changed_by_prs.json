@@ -2462,5 +2462,22 @@
         "number": 49991,
         "state": "open",
         "updated_at": 1769787474
+    },
+    "49992": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/AbstractServices/interface/IntrusiveMonitorBase.h",
+            "FWCore/AbstractServices/src/IntrusiveMonitorBase.cc",
+            "PerfTools/AllocMonitor/README.md",
+            "PerfTools/AllocMonitor/plugins/IntrusiveAllocMonitor.cc",
+            "PerfTools/AllocMonitor/plugins/ThreadAllocInfo.h",
+            "PerfTools/AllocMonitor/test/BuildFile.xml",
+            "PerfTools/AllocMonitor/test/test_intrusiveAllocMonitor.cc",
+            "PerfTools/AllocMonitor/test/verifyIntrusiveAllocMonitor.py"
+        ],
+        "created_at": 1769805184,
+        "number": 49992,
+        "state": "open",
+        "updated_at": 1769805209
     }
 }
