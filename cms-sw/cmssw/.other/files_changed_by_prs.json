@@ -2473,5 +2473,21 @@
         "number": 49994,
         "state": "open",
         "updated_at": 1769917259
+    },
+    "49995": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/AssociationMap/BuildFile.xml",
+            "DataFormats/AssociationMap/interface/AssociationMap.h",
+            "DataFormats/AssociationMap/interface/FillAssociator.h",
+            "DataFormats/AssociationMap/interface/detail/FillAssociator.h",
+            "DataFormats/AssociationMap/test/BuildFile.xml",
+            "DataFormats/AssociationMap/test/alpaka/TestAssociationMap.dev.cc",
+            "DataFormats/SoATemplate/interface/SoABlocks.h"
+        ],
+        "created_at": 1769952648,
+        "number": 49995,
+        "state": "open",
+        "updated_at": 1769952673
     }
 }
