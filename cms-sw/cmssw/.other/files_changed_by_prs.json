@@ -2500,5 +2500,27 @@
         "number": 49997,
         "state": "open",
         "updated_at": 1770037444
+    },
+    "49998": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/Candidate/interface/Candidate.h",
+            "DataFormats/PatCandidates/interface/ElectronFwd.h",
+            "DataFormats/PatCandidates/interface/MuonFwd.h",
+            "PhysicsTools/Heppy/interface/EGammaMvaEleEstimatorFWLite.h",
+            "PhysicsTools/PatAlgos/interface/CalculatePtRatioRel.h",
+            "PhysicsTools/PatAlgos/interface/MuonMvaIDEstimator.h",
+            "PhysicsTools/PatAlgos/interface/SoftMuonMvaEstimator.h",
+            "PhysicsTools/PatAlgos/interface/SoftMuonMvaRun3Estimator.h",
+            "PhysicsTools/PatUtils/interface/CaloIsolationEnergy.h",
+            "PhysicsTools/PatUtils/interface/LeptonVertexSignificance.h",
+            "PhysicsTools/PatUtils/interface/TrackerIsolationPt.h",
+            "PhysicsTools/PatUtils/src/CaloIsolationEnergy.cc",
+            "PhysicsTools/PatUtils/src/TrackerIsolationPt.cc"
+        ],
+        "created_at": 1770044228,
+        "number": 49998,
+        "state": "open",
+        "updated_at": 1770044264
     }
 }
