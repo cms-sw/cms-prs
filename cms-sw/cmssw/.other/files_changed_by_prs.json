@@ -2536,5 +2536,22 @@
         "number": 50004,
         "state": "open",
         "updated_at": 1770064345
+    },
+    "50005": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoTracker/LSTCore/standalone/bin/lst.cc",
+            "RecoTracker/LSTCore/standalone/code/core/write_lst_ntuple.cc",
+            "RecoTracker/LSTCore/standalone/code/core/write_lst_ntuple.h",
+            "RecoTracker/LSTCore/standalone/efficiency/bin/lst_timing",
+            "RecoTracker/LSTCore/standalone/efficiency/python/lst_plot_performance.py",
+            "RecoTracker/LSTCore/standalone/efficiency/src/performance.cc",
+            "RecoTracker/LSTCore/standalone/efficiency/src/performance.h",
+            "Validation/RecoTrack/plugins/TrackingNtuple.cc"
+        ],
+        "created_at": 1770091381,
+        "number": 50005,
+        "state": "open",
+        "updated_at": 1770091405
     }
 }
