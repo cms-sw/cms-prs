@@ -2878,5 +2878,19 @@
         "number": 50024,
         "state": "open",
         "updated_at": 1770150366
+    },
+    "50025": {
+        "base_branch": "CMSSW_16_0_X",
+        "changed_files_names": [
+            "DQM/EcalMonitorTasks/python/EcalMonitorTask_cff.py",
+            "DQMOffline/Trigger/python/HeterogeneousMonitoring_cff.py",
+            "EventFilter/EcalRawToDigi/python/ecalDigis_cff.py",
+            "RecoLocalCalo/EcalRecProducers/python/ecalMultiFitUncalibRecHit_cff.py",
+            "RecoLocalCalo/EcalRecProducers/python/ecalRecHit_cff.py"
+        ],
+        "created_at": 1770154368,
+        "number": 50025,
+        "state": "open",
+        "updated_at": 1770154397
     }
 }
