@@ -2636,29 +2636,6 @@
         "state": "open",
         "updated_at": 1770122973
     },
-    "50014": {
-        "base_branch": "CMSSW_16_1_EVOLUTION_X",
-        "changed_files_names": [
-            "DataFormats/Candidate/interface/Candidate.h",
-            "DataFormats/PatCandidates/interface/ElectronFwd.h",
-            "DataFormats/PatCandidates/interface/MuonFwd.h",
-            "HLTrigger/Configuration/python/HLT_NGTScouting_cff.py",
-            "PhysicsTools/Heppy/interface/EGammaMvaEleEstimatorFWLite.h",
-            "PhysicsTools/PatAlgos/interface/CalculatePtRatioRel.h",
-            "PhysicsTools/PatAlgos/interface/MuonMvaIDEstimator.h",
-            "PhysicsTools/PatAlgos/interface/SoftMuonMvaEstimator.h",
-            "PhysicsTools/PatAlgos/interface/SoftMuonMvaRun3Estimator.h",
-            "PhysicsTools/PatUtils/interface/CaloIsolationEnergy.h",
-            "PhysicsTools/PatUtils/interface/LeptonVertexSignificance.h",
-            "PhysicsTools/PatUtils/interface/TrackerIsolationPt.h",
-            "PhysicsTools/PatUtils/src/CaloIsolationEnergy.cc",
-            "PhysicsTools/PatUtils/src/TrackerIsolationPt.cc"
-        ],
-        "created_at": 1770125066,
-        "number": 50014,
-        "state": "open",
-        "updated_at": 1770125093
-    },
     "50016": {
         "base_branch": "master",
         "changed_files_names": [
