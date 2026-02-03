@@ -2835,5 +2835,35 @@
         "number": 50018,
         "state": "open",
         "updated_at": 1770128749
+    },
+    "50019": {
+        "base_branch": "CMSSW_16_1_EVOLUTION_X",
+        "changed_files_names": [
+            "AnalysisDataFormats/SUSYBSMObjects/src/classes_def.xml",
+            "AnalysisDataFormats/TopObjects/src/classes_def.xml",
+            "DataFormats/PatCandidates/interface/CompositeCandidate.h",
+            "DataFormats/PatCandidates/interface/Electron.h",
+            "DataFormats/PatCandidates/interface/ElectronFwd.h",
+            "DataFormats/PatCandidates/interface/IsolatedTrack.h",
+            "DataFormats/PatCandidates/interface/Jet.h",
+            "DataFormats/PatCandidates/interface/MET.h",
+            "DataFormats/PatCandidates/interface/Muon.h",
+            "DataFormats/PatCandidates/interface/MuonFwd.h",
+            "DataFormats/PatCandidates/interface/PackedCandidate.h",
+            "DataFormats/PatCandidates/interface/PackedGenParticle.h",
+            "DataFormats/PatCandidates/interface/PackedTriggerPrescales.h",
+            "DataFormats/PatCandidates/interface/Photon.h",
+            "DataFormats/PatCandidates/interface/Tau.h",
+            "DataFormats/PatCandidates/interface/TriggerObjectStandAlone.h",
+            "DataFormats/PatCandidates/src/classes_def_objects.xml",
+            "DataFormats/PatCandidates/src/classes_def_trigger.xml",
+            "JetMETCorrections/Type1MET/interface/CaloJetMETcorrInputProducerT.h",
+            "JetMETCorrections/Type1MET/interface/JetCleanerForType1METT.h",
+            "JetMETCorrections/Type1MET/interface/PFJetMETcorrInputProducerT.h"
+        ],
+        "created_at": 1770133399,
+        "number": 50019,
+        "state": "open",
+        "updated_at": 1770133428
     }
 }
