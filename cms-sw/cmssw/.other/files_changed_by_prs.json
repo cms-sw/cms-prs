@@ -2871,5 +2871,16 @@
         "number": 50029,
         "state": "open",
         "updated_at": 1770203790
+    },
+    "50030": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CalibTracker/SiStripQuality/src/SiStripHotStripAlgorithmFromClusterOccupancy.cc",
+            "CondCore/SiPixelPlugins/plugins/SiPixelDynamicInefficiency_PayloadInspector.cc"
+        ],
+        "created_at": 1770205841,
+        "number": 50030,
+        "state": "open",
+        "updated_at": 1770205867
     }
 }
