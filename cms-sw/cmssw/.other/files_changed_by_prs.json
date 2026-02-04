@@ -2804,12 +2804,14 @@
             "FWCore/MessageService/test/BuildFile.xml",
             "FWCore/MessageService/test/makeJobReport.cpp",
             "FWCore/MessageService/test/testJobReportXMLUtils.cpp",
+            "FWCore/MessageService/test/testMakeJobReport.sh",
+            "FWCore/MessageService/test/unit_test_outputs/makeJobReport_expected.xml",
             "FWCore/MessageService/test/validateXML.py"
         ],
         "created_at": 1770150340,
         "number": 50024,
         "state": "open",
-        "updated_at": 1770150366
+        "updated_at": 1770215082
     },
     "50025": {
         "base_branch": "CMSSW_16_0_X",
