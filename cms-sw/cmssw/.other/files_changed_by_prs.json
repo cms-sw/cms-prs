@@ -3028,5 +3028,22 @@
         "number": 50036,
         "state": "open",
         "updated_at": 1770232543
+    },
+    "50037": {
+        "base_branch": "CMSSW_16_0_X",
+        "changed_files_names": [
+            "FWCore/MessageLogger/interface/xmlUtils.h",
+            "FWCore/MessageLogger/src/JobReport.cc",
+            "FWCore/MessageService/test/BuildFile.xml",
+            "FWCore/MessageService/test/makeJobReport.cpp",
+            "FWCore/MessageService/test/testJobReportXMLUtils.cpp",
+            "FWCore/MessageService/test/testMakeJobReport.sh",
+            "FWCore/MessageService/test/unit_test_outputs/makeJobReport_expected.xml",
+            "FWCore/MessageService/test/validateXML.py"
+        ],
+        "created_at": 1770235720,
+        "number": 50037,
+        "state": "open",
+        "updated_at": 1770235770
     }
 }
