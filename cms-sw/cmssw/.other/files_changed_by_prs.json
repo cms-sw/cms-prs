@@ -2275,6 +2275,7 @@
             "RecoTracker/PixelSeeding/plugins/alpaka/BrokenLineFit.dev.cc",
             "RecoTracker/PixelSeeding/plugins/alpaka/CACell.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernels.dev.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernels.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernelsImpl.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/CAStructures.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/RiemannFit.dev.cc",
@@ -2285,7 +2286,7 @@
         "created_at": 1769699040,
         "number": 49975,
         "state": "open",
-        "updated_at": 1770298272
+        "updated_at": 1770313806
     },
     "49984": {
         "base_branch": "master",
