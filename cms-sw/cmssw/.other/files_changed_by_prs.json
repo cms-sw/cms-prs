@@ -2237,7 +2237,7 @@
         "created_at": 1769699040,
         "number": 49975,
         "state": "open",
-        "updated_at": 1770321251
+        "updated_at": 1770358486
     },
     "49984": {
         "base_branch": "master",
@@ -2325,7 +2325,7 @@
         "created_at": 1770104810,
         "number": 50007,
         "state": "open",
-        "updated_at": 1770283360
+        "updated_at": 1770356223
     },
     "50011": {
         "base_branch": "master",
@@ -2661,7 +2661,7 @@
         "created_at": 1770280104,
         "number": 50040,
         "state": "open",
-        "updated_at": 1770321654
+        "updated_at": 1770360543
     },
     "50043": {
         "base_branch": "master",
@@ -2756,6 +2756,16 @@
         "number": 50048,
         "state": "open",
         "updated_at": 1770316022
+    },
+    "50049": {
+        "base_branch": "CMSSW_13_0_X",
+        "changed_files_names": [
+            "GeneratorInterface/GenFilters/plugins/LHEPtFilter.cc"
+        ],
+        "created_at": 1770316563,
+        "number": 50049,
+        "state": "open",
+        "updated_at": 1770316591
     },
     "50050": {
         "base_branch": "CMSSW_12_4_X",
