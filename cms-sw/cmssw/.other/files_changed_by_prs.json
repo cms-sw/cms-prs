@@ -2778,12 +2778,16 @@
     "50063": {
         "base_branch": "master",
         "changed_files_names": [
+            "Configuration/Eras/python/Era_Run3_2026_UPC_cff.py",
+            "Configuration/Eras/python/Era_Run3_pp_on_PbPb_2025_cff.py",
+            "Configuration/Eras/python/Era_Run3_pp_on_PbPb_2026_cff.py",
+            "Configuration/ProcessModifiers/python/rpdReco_cff.py",
             "RecoLocalCalo/HcalRecProducers/plugins/ZdcHitReconstructor_Run3.cc"
         ],
         "created_at": 1770402230,
         "number": 50063,
         "state": "open",
-        "updated_at": 1770402254
+        "updated_at": 1770509045
     },
     "50064": {
         "base_branch": "CMSSW_14_1_X",
