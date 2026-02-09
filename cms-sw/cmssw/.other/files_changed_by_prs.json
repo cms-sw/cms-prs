@@ -2562,6 +2562,8 @@
             "Configuration/PyReleaseValidation/scripts/runTheMatrix.py",
             "HLTrigger/Configuration/python/HLT_75e33/eventsetup/hltESPMkFit_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/eventsetup/hltESPModulesDevLST_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/eventsetup/hltESPSiPixelCablingSoA_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/eventsetup/hltESPSiPixelGainCalibrationForHLTSoA_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/eventsetup/hltESPTTRHBuilderWithoutRefit_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltGeneralTracks_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltHighPtTripletStepClusters_cfi.py",
@@ -2583,6 +2585,9 @@
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPhase2PixelTracksAndVerticesSequence_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTTrackingSequence_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/test/runHLTTiming.sh",
+            "HLTrigger/Configuration/python/HLT_75e33_cff.py",
+            "HLTrigger/Configuration/python/HLT_75e33_timing_cff.py",
+            "HLTrigger/Configuration/python/HLT_NGTScouting_cff.py",
             "HLTrigger/NGTScouting/python/hltTracks_cfi.py",
             "Validation/RecoTrack/python/HLTmultiTrackValidator_cff.py",
             "Validation/RecoTrack/python/customiseTrackingNtuple.py",
@@ -2591,7 +2596,7 @@
         "created_at": 1770280104,
         "number": 50040,
         "state": "open",
-        "updated_at": 1770360543
+        "updated_at": 1770631570
     },
     "50044": {
         "base_branch": "CMSSW_16_0_X",
