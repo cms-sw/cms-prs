@@ -2950,5 +2950,19 @@
         "number": 50079,
         "state": "open",
         "updated_at": 1770669047
+    },
+    "50080": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "GeneratorInterface/CepGenInterface/interface/CepGenEventGenerator.h",
+            "GeneratorInterface/CepGenInterface/interface/CepGenParametersConverter.h",
+            "GeneratorInterface/Core/plugins/ExternalGeneratorFilter.cc",
+            "GeneratorInterface/Pythia8Interface/plugins/PowhegHooksBB4L.h",
+            "GeneratorInterface/ReggeGribovPartonMCInterface/src/LzmaDec.cc"
+        ],
+        "created_at": 1770669046,
+        "number": 50080,
+        "state": "open",
+        "updated_at": 1770669070
     }
 }
