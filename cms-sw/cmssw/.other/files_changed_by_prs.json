@@ -2836,30 +2836,5 @@
         "number": 50071,
         "state": "open",
         "updated_at": 1770606844
-    },
-    "50074": {
-        "base_branch": "CMSSW_16_1_EVOLUTION_X",
-        "changed_files_names": [
-            "DataFormats/EgammaReco/src/classes_def.xml",
-            "DataFormats/MuonReco/src/classes_def.xml",
-            "DataFormats/ParticleFlowCandidate/src/classes_def.xml",
-            "DataFormats/ParticleFlowReco/src/classes_def_2.xml",
-            "DataFormats/TauReco/src/classes_def_2.xml",
-            "DataFormats/TauReco/src/classes_def_3.xml",
-            "DataFormats/TrackReco/src/classes_def.xml",
-            "HLTrigger/Timer/plugins/FastTimerService.cc",
-            "HLTrigger/Timer/plugins/FastTimerService.h",
-            "L1Trigger/L1TGlobal/interface/CICADATemplate.h",
-            "L1Trigger/L1TGlobal/src/CICADATemplate.cc",
-            "L1Trigger/L1THGCal/src/backend/HGCalHistoSeedingImpl.cc",
-            "PerfTools/AllocMonitor/README.md",
-            "PerfTools/AllocMonitor/plugins/ModuleEventAllocMonitor.cc",
-            "PerfTools/AllocMonitor/python/ModuleEventAllocMonitor.py",
-            "PerfTools/AllocMonitor/scripts/edmModuleEventAllocMonitorAnalyze.py"
-        ],
-        "created_at": 1770644216,
-        "number": 50074,
-        "state": "open",
-        "updated_at": 1770649462
     }
 }
