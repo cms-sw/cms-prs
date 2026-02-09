@@ -2913,5 +2913,20 @@
         "number": 50076,
         "state": "open",
         "updated_at": 1770668998
+    },
+    "50077": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DetectorDescription/DDCMS/interface/DDPlugins.h",
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalMixRotatedFineCassette.cc",
+            "Geometry/HGCalGeometry/test/HGCalIdCheck.cc",
+            "Geometry/HGCalMapping/interface/HGCalMappingTools.h",
+            "Geometry/MTDCommonData/interface/BTLNumberingScheme.h",
+            "Geometry/MuonNumbering/src/ME0NumberingScheme.cc"
+        ],
+        "created_at": 1770668988,
+        "number": 50077,
+        "state": "open",
+        "updated_at": 1770669014
     }
 }
