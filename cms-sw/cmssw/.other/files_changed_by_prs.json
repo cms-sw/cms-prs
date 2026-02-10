@@ -2510,6 +2510,7 @@
     "50040": {
         "base_branch": "master",
         "changed_files_names": [
+            "Configuration/EventContent/python/EventContent_cff.py",
             "Configuration/ProcessModifiers/python/hltPhase2LegacyTrackingPatatrackQuads_cff.py",
             "Configuration/ProcessModifiers/python/hltPhase2LegacyTracking_cff.py",
             "Configuration/ProcessModifiers/python/hltTrackingMkFitInitialStep_cff.py",
@@ -2549,13 +2550,15 @@
             "HLTrigger/Configuration/python/HLT_NGTScouting_cff.py",
             "HLTrigger/NGTScouting/python/hltTracks_cfi.py",
             "Validation/RecoTrack/python/HLTmultiTrackValidator_cff.py",
+            "Validation/RecoTrack/python/associators_cff.py",
             "Validation/RecoTrack/python/customiseTrackingNtuple.py",
+            "Validation/RecoVertex/python/HLTmultiPVvalidator_cff.py",
             "Validation/SiTrackerPhase2V/python/HLTPhase2TrackerValidationFirstStep_cff.py"
         ],
         "created_at": 1770280104,
         "number": 50040,
         "state": "open",
-        "updated_at": 1770659587
+        "updated_at": 1770741002
     },
     "50044": {
         "base_branch": "CMSSW_16_0_X",
