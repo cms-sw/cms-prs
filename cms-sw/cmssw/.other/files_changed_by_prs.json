@@ -2561,12 +2561,14 @@
             "L1TriggerScouting/OnlineProcessing/plugins/ScoutingJetProducer.cc",
             "L1TriggerScouting/Utilities/BuildFile.xml",
             "L1TriggerScouting/Utilities/interface/conversion.h",
-            "L1TriggerScouting/Utilities/interface/scales.h"
+            "L1TriggerScouting/Utilities/interface/scales.h",
+            "L1TriggerScouting/Utilities/plugins/BuildFile.xml",
+            "Utilities/ReleaseScripts/scripts/duplicateReflexLibrarySearch.py"
         ],
         "created_at": 1770297778,
         "number": 50044,
         "state": "open",
-        "updated_at": 1770805797
+        "updated_at": 1770844252
     },
     "50048": {
         "base_branch": "CMSSW_14_0_X",
