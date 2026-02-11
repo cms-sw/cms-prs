@@ -1019,12 +1019,14 @@
             "L1TriggerScouting/OnlineProcessing/plugins/ScoutingJetProducer.cc",
             "L1TriggerScouting/Utilities/BuildFile.xml",
             "L1TriggerScouting/Utilities/interface/conversion.h",
-            "L1TriggerScouting/Utilities/interface/scales.h"
+            "L1TriggerScouting/Utilities/interface/scales.h",
+            "L1TriggerScouting/Utilities/plugins/BuildFile.xml",
+            "Utilities/ReleaseScripts/scripts/duplicateReflexLibrarySearch.py"
         ],
         "created_at": 1747319471,
         "number": 48093,
         "state": "open",
-        "updated_at": 1770803636
+        "updated_at": 1770844273
     },
     "48146": {
         "base_branch": "master",
