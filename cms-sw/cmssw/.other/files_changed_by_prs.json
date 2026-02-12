@@ -2043,6 +2043,8 @@
             "HLTrigger/Configuration/python/HLT_NGTScouting_cff.py",
             "HLTrigger/NGTScouting/plugins/TICLCandidateExtraTableProducer.cc",
             "HLTrigger/NGTScouting/python/hltTICLCandidates_cfi.py",
+            "PhysicsTools/ONNXRuntime/interface/ONNXRuntime.h",
+            "PhysicsTools/ONNXRuntime/src/ONNXRuntime.cc",
             "RecoEcal/EgammaClusterProducers/python/particleFlowSuperClusteringSequence_cff.py",
             "RecoHGCal/Configuration/python/RecoHGCal_EventContent_cff.py",
             "RecoHGCal/TICL/BuildFile.xml",
@@ -2148,7 +2150,7 @@
         "created_at": 1769261230,
         "number": 49932,
         "state": "open",
-        "updated_at": 1770823170
+        "updated_at": 1770875453
     },
     "49942": {
         "base_branch": "master",
