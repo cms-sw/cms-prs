@@ -2852,39 +2852,6 @@
         "state": "open",
         "updated_at": 1770795753
     },
-    "50087": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DataFormats/L1GlobalMuonTrigger/interface/L1MuRegionalCand.h",
-            "DataFormats/L1TCalorimeterPhase2/interface/GCTEmDigiCluster.h",
-            "DataFormats/L1TCalorimeterPhase2/interface/GCTHadDigiCluster.h",
-            "EventFilter/CSCTFRawToDigi/src/CSCSPHeader.h",
-            "EventFilter/CSCTFRawToDigi/src/CSCSP_MEblock.h",
-            "L1Trigger/CSCTrackFinder/src/CSCTFPtMethods.cc",
-            "L1Trigger/L1CaloTrigger/interface/Phase2L1CaloBarrelToCorrelator.h",
-            "L1Trigger/L1TGEM/interface/ME0StubAlgoChamber.h",
-            "L1Trigger/L1TGEM/interface/ME0StubAlgoMask.h",
-            "L1Trigger/L1TGEM/interface/ME0StubAlgoPartition.h",
-            "L1Trigger/L1TGEM/interface/ME0StubAlgoPatUnit.h",
-            "L1Trigger/L1TGEM/interface/ME0StubAlgoPatUnitMux.h",
-            "L1Trigger/L1TGEM/interface/ME0StubAlgoSubfunction.h",
-            "L1Trigger/L1TGEM/interface/ME0StubPrimitive.h",
-            "L1Trigger/L1TGEM/plugins/ME0StubBuilder.cc",
-            "L1Trigger/L1TGEM/plugins/ME0StubProducer.cc",
-            "L1Trigger/L1TGEM/src/ME0StubAlgoMask.cc",
-            "L1Trigger/L1TGEM/src/ME0StubAlgoSubfunction.cc",
-            "L1Trigger/L1TMuonEndCap/src/PtAssignmentEngine2016.cc",
-            "L1Trigger/L1TNtuples/plugins/L1MuonRecoTreeProducer.cc",
-            "L1Trigger/Phase2L1GMT/interface/Isolation.h",
-            "L1Trigger/Phase2L1ParticleFlow/interface/taus/L1HPSPFTauEmulator.h",
-            "L1Trigger/Phase2L1ParticleFlow/plugins/L1JUMPProducer.cc",
-            "L1Trigger/TrackFindingTracklet/src/TrackletConfigBuilder.cc"
-        ],
-        "created_at": 1770669158,
-        "number": 50087,
-        "state": "open",
-        "updated_at": 1770804308
-    },
     "50090": {
         "base_branch": "master",
         "changed_files_names": [
