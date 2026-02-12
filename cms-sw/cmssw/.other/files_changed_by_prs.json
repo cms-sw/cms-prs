@@ -2889,12 +2889,16 @@
         "base_branch": "CMSSW_16_0_X",
         "changed_files_names": [
             "Configuration/DataProcessing/python/Impl/ppEra_Run3_2026.py",
-            "Configuration/DataProcessing/python/Impl/ppEra_Run3_pp_on_PbPb_2026.py"
+            "Configuration/DataProcessing/python/Impl/ppEra_Run3_2026_UPC.py",
+            "Configuration/DataProcessing/python/Impl/ppEra_Run3_pp_on_PbPb_2026.py",
+            "Configuration/DataProcessing/python/Impl/ppEra_Run3_pp_on_PbPb_approxSiStripClusters_2026.py",
+            "Configuration/DataProcessing/python/RecoTLR.py",
+            "Configuration/DataProcessing/test/run_CfgTest_4.sh"
         ],
         "created_at": 1770798305,
         "number": 50110,
         "state": "open",
-        "updated_at": 1770798345
+        "updated_at": 1770879624
     },
     "50112": {
         "base_branch": "master",
