@@ -2958,5 +2958,19 @@
         "number": 50124,
         "state": "open",
         "updated_at": 1770877868
+    },
+    "50125": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Integration/plugins/ProducerWithPSetDesc.cc",
+            "FWCore/Integration/plugins/ProducerWithPSetDesc.h",
+            "FWCore/Integration/test/unit_test_outputs/testProducerWithPsetDesc_briefdoc.txt",
+            "FWCore/Integration/test/unit_test_outputs/testProducerWithPsetDesc_doc.txt",
+            "FWCore/ParameterSet/src/ConfigurationDescriptions.cc"
+        ],
+        "created_at": 1770903759,
+        "number": 50125,
+        "state": "open",
+        "updated_at": 1770903784
     }
 }
