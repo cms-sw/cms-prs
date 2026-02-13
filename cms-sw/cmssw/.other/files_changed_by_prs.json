@@ -2804,5 +2804,24 @@
         "number": 50136,
         "state": "open",
         "updated_at": 1770992968
+    },
+    "50137": {
+        "base_branch": "CMSSW_16_0_X",
+        "changed_files_names": [
+            "DQMOffline/Trigger/plugins/JetMonitor.cc",
+            "DQMOffline/Trigger/plugins/ZGammaplusJetsMonitor.cc",
+            "DQMOffline/Trigger/plugins/ZGammaplusJetsPostProcessor.cc",
+            "DQMOffline/Trigger/plugins/ZGammaplusJetsPostProcessor.h",
+            "DQMOffline/Trigger/python/DQMOffline_HLT_Client_cff.py",
+            "DQMOffline/Trigger/python/JetMETPromptMonitoring_Client_cff.py",
+            "DQMOffline/Trigger/python/JetMonitor_cff.py",
+            "DQMOffline/Trigger/python/JetMonitor_cfi.py",
+            "DQMOffline/Trigger/python/ZGammaplusJetsMonitor_cff.py",
+            "DQMOffline/Trigger/python/ZGammaplusJetsPostProcessor_cff.py"
+        ],
+        "created_at": 1770994408,
+        "number": 50137,
+        "state": "open",
+        "updated_at": 1770994433
     }
 }
