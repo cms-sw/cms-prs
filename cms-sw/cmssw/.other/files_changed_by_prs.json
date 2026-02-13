@@ -2652,26 +2652,6 @@
         "state": "open",
         "updated_at": 1770799216
     },
-    "50105": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DataFormats/L1TParticleFlow/interface/layer1_emulator.h",
-            "DataFormats/L1Trigger/interface/L1CandidateFwd.h",
-            "L1Trigger/L1TGlobal/interface/AXOL1TLCondition.h",
-            "L1Trigger/L1TGlobal/interface/CaloCondition.h",
-            "L1Trigger/L1TGlobal/interface/CorrCondition.h",
-            "L1Trigger/L1TGlobal/interface/CorrThreeBodyCondition.h",
-            "L1Trigger/L1TGlobal/interface/CorrWithOverlapRemovalCondition.h",
-            "L1Trigger/L1TGlobal/interface/EnergySumCondition.h",
-            "L1Trigger/L1TGlobal/interface/EnergySumZdcCondition.h",
-            "L1Trigger/L1TGlobal/interface/ExternalCondition.h",
-            "L1Trigger/L1TGlobal/interface/TOPOCondition.h"
-        ],
-        "created_at": 1770751007,
-        "number": 50105,
-        "state": "open",
-        "updated_at": 1770754096
-    },
     "50110": {
         "base_branch": "CMSSW_16_0_X",
         "changed_files_names": [
