@@ -2748,5 +2748,23 @@
         "number": 50130,
         "state": "open",
         "updated_at": 1770968944
+    },
+    "50131": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/Portable/interface/PortableCollectionCommon.h",
+            "DataFormats/Portable/interface/PortableDeviceCollection.h",
+            "DataFormats/Portable/interface/PortableHostCollection.h",
+            "DataFormats/Portable/test/alpaka/test_catch2_SoACopy.dev.cc",
+            "DataFormats/SoATemplate/interface/SoACommon.h",
+            "DataFormats/SoATemplate/interface/SoALayout.h",
+            "DataFormats/SoATemplate/test/BuildFile.xml",
+            "DataFormats/SoATemplate/test/SoAStreamInternal_t.cc",
+            "PhysicsTools/PyTorchAlpaka/interface/TensorCollection.h"
+        ],
+        "created_at": 1770982994,
+        "number": 50131,
+        "state": "open",
+        "updated_at": 1770983017
     }
 }
