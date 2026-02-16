@@ -2948,5 +2948,16 @@
         "number": 50151,
         "state": "open",
         "updated_at": 1771246670
+    },
+    "50152": {
+        "base_branch": "CMSSW_14_0_X",
+        "changed_files_names": [
+            "GeneratorInterface/PlutoInterface/plugins/BuildFile.xml",
+            "GeneratorInterface/PlutoInterface/plugins/ExternalDecayInjector.cc"
+        ],
+        "created_at": 1771248536,
+        "number": 50152,
+        "state": "open",
+        "updated_at": 1771248564
     }
 }
