@@ -3057,5 +3057,34 @@
         "number": 50156,
         "state": "open",
         "updated_at": 1771261795
+    },
+    "50157": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoTracker/LSTCore/interface/MiniDoubletsSoA.h",
+            "RecoTracker/LSTCore/interface/PixelQuintupletsSoA.h",
+            "RecoTracker/LSTCore/interface/PixelTripletsSoA.h",
+            "RecoTracker/LSTCore/interface/QuadrupletsSoA.h",
+            "RecoTracker/LSTCore/interface/QuintupletsSoA.h",
+            "RecoTracker/LSTCore/interface/SegmentsSoA.h",
+            "RecoTracker/LSTCore/interface/TrackCandidatesSoA.h",
+            "RecoTracker/LSTCore/src/alpaka/LST.cc",
+            "RecoTracker/LSTCore/src/alpaka/LSTEvent.dev.cc",
+            "RecoTracker/LSTCore/src/alpaka/LSTEvent.h",
+            "RecoTracker/LSTCore/src/alpaka/MiniDoublet.h",
+            "RecoTracker/LSTCore/src/alpaka/PixelQuintuplet.h",
+            "RecoTracker/LSTCore/src/alpaka/PixelTriplet.h",
+            "RecoTracker/LSTCore/src/alpaka/Quadruplet.h",
+            "RecoTracker/LSTCore/src/alpaka/Quintuplet.h",
+            "RecoTracker/LSTCore/src/alpaka/Segment.h",
+            "RecoTracker/LSTCore/src/alpaka/TrackCandidate.h",
+            "RecoTracker/LSTCore/src/alpaka/Triplet.h",
+            "RecoTracker/LSTCore/standalone/code/core/trkCore.cc",
+            "RecoTracker/LSTCore/standalone/code/core/write_lst_ntuple.cc"
+        ],
+        "created_at": 1771284720,
+        "number": 50157,
+        "state": "open",
+        "updated_at": 1771284746
     }
 }
