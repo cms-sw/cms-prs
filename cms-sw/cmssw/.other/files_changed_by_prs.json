@@ -3375,5 +3375,21 @@
         "number": 50161,
         "state": "open",
         "updated_at": 1771337406
+    },
+    "50163": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareRecHitsSoA.cc",
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareTracksSoA.cc",
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelCompareVerticesSoA.cc",
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorRecHitsSoA.cc",
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorTrackSoA.cc",
+            "DQM/SiPixelHeterogeneous/plugins/SiPixelMonitorVertexSoA.cc",
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py"
+        ],
+        "created_at": 1771345496,
+        "number": 50163,
+        "state": "open",
+        "updated_at": 1771345526
     }
 }
