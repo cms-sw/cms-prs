@@ -3294,8 +3294,9 @@
         "changed_files_names": [
             "Configuration/HLT/python/autoCondHLT.py",
             "Configuration/HLT/python/autoHLT.py",
-            "HLTrigger/Configuration/python/HLT_2025v13_cff.py",
+            "HLTrigger/Configuration/python/HLTScouting_EventContent_cff.py",
             "HLTrigger/Configuration/python/HLT_2026v10_cff.py",
+            "HLTrigger/Configuration/python/HLT_2025v13_cff.py",
             "HLTrigger/Configuration/python/HLT_FULL_cff.py",
             "HLTrigger/Configuration/python/HLT_Fake1_cff.py",
             "HLTrigger/Configuration/python/HLT_Fake2_cff.py",
@@ -3340,7 +3341,7 @@
         "created_at": 1771419427,
         "number": 50171,
         "state": "open",
-        "updated_at": 1771419450
+        "updated_at": 1771421267
     },
     "50172": {
         "base_branch": "CMSSW_16_0_X",
