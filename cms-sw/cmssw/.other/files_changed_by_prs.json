@@ -2751,39 +2751,6 @@
         "state": "open",
         "updated_at": 1771087888
     },
-    "50149": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "GeneratorInterface/Core/interface/PythiaHepMCFilterGammaGamma.h",
-            "GeneratorInterface/GenFilters/plugins/MCDisplacementFilter.cc",
-            "GeneratorInterface/GenFilters/plugins/MCParticlePairFilter.h",
-            "GeneratorInterface/GenFilters/plugins/MCPdgIndexFilter.h",
-            "GeneratorInterface/GenFilters/plugins/MCSingleParticleFilter.h",
-            "GeneratorInterface/GenFilters/plugins/PhotonGenFilter.h",
-            "GeneratorInterface/GenFilters/plugins/PythiaAllDauVFilter.h",
-            "GeneratorInterface/GenFilters/plugins/PythiaDauFilter.h",
-            "GeneratorInterface/GenFilters/plugins/PythiaDauVFilter.h",
-            "GeneratorInterface/GenFilters/plugins/PythiaDauVFilterMatchID.h",
-            "GeneratorInterface/GenFilters/plugins/PythiaFilter.h",
-            "GeneratorInterface/GenFilters/plugins/PythiaFilterGammaGamma.h",
-            "GeneratorInterface/GenFilters/plugins/PythiaFilterMotherSister.h",
-            "GeneratorInterface/GenFilters/plugins/PythiaFilterMultiAncestor.cc",
-            "GeneratorInterface/GenFilters/plugins/PythiaProbeFilter.h",
-            "IOMC/EventVertexGenerators/interface/BaseEvtVtxGenerator.h",
-            "SimDataFormats/GeneratorProducts/interface/HepMCProductFwd.h",
-            "SimG4Core/Application/interface/RunManagerMTWorker.h",
-            "SimTransport/HectorProducer/interface/HectorProducer.h",
-            "Validation/RecoEgamma/plugins/EgammaObjects.h",
-            "Validation/RecoEgamma/plugins/PhotonValidator.h",
-            "Validation/RecoEgamma/plugins/PhotonValidatorMiniAOD.h",
-            "Validation/RecoHI/plugins/HiBasicGenTest.h",
-            "Validation/TrackerHits/interface/TrackerHitProducer.h"
-        ],
-        "created_at": 1771164398,
-        "number": 50149,
-        "state": "open",
-        "updated_at": 1771164425
-    },
     "50152": {
         "base_branch": "CMSSW_14_0_X",
         "changed_files_names": [
