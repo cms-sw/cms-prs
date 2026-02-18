@@ -3414,5 +3414,27 @@
         "number": 50175,
         "state": "open",
         "updated_at": 1771430336
+    },
+    "50176": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQM/HLTEvF/plugins/ScoutingCollectionMonitor.cc",
+            "DQM/HLTEvF/python/ScoutingDileptonMonitor_cfi.py",
+            "DQM/HLTEvF/python/ScoutingPi0Monitor_cfi.py",
+            "DQM/HLTEvF/python/ScoutingRechitMonitoring_cff.py",
+            "DQM/Integration/python/clients/ngt_dqm_sourceclient-live_cfg.py",
+            "DQM/Integration/python/clients/scouting_dqm_sourceclient-live_cfg.py",
+            "DQMOffline/HLTScouting/python/HLTScoutingDqmOffline_cff.py",
+            "HLTriggerOffline/Scouting/plugins/ScoutingDQMUtils.h",
+            "HLTriggerOffline/Scouting/plugins/ScoutingDileptonMonitor.cc",
+            "HLTriggerOffline/Scouting/plugins/ScoutingPi0Analyzer.cc",
+            "HLTriggerOffline/Scouting/python/HLTScoutingDileptonMonitor_cfi.py",
+            "HLTriggerOffline/Scouting/python/HLTScoutingPi0Monitor_cfi.py",
+            "HLTriggerOffline/Scouting/python/ScoutingRecHitAnalyzers_cff.py"
+        ],
+        "created_at": 1771431778,
+        "number": 50176,
+        "state": "open",
+        "updated_at": 1771431796
     }
 }
