@@ -2535,26 +2535,6 @@
         "state": "open",
         "updated_at": 1770810813
     },
-    "50129": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DetectorDescription/DDCMS/plugins/DDDetectorESProducer.cc",
-            "Geometry/MTDGeometryBuilder/plugins/MTDDigiGeometryESModule.cc",
-            "Geometry/MTDNumberingBuilder/plugins/MTDGeometricTimingDetESModule.cc",
-            "Geometry/TrackerGeometryBuilder/plugins/TrackerDigiGeometryESModule.cc",
-            "Geometry/TrackerNumberingBuilder/plugins/TrackerGeometricDetESModule.cc",
-            "RecoLocalCalo/HcalRecProducers/src/HcalSimpleReconstructor.cc",
-            "RecoMET/METFilters/plugins/BadParticleFilter.cc",
-            "RecoMET/METProducers/src/PFMETProducer.cc",
-            "RecoMuon/GlobalTrackingTools/src/MuonTrackingRegionBuilder.cc",
-            "RecoTauTag/RecoTau/plugins/PFRecoTauTagInfoProducer.cc",
-            "RecoTracker/TkTrackingRegions/interface/GlobalTrackingRegionProducerFromBeamSpot.h"
-        ],
-        "created_at": 1770928237,
-        "number": 50129,
-        "state": "open",
-        "updated_at": 1770928264
-    },
     "50130": {
         "base_branch": "master",
         "changed_files_names": [
