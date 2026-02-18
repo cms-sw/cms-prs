@@ -3424,5 +3424,18 @@
         "number": 50181,
         "state": "open",
         "updated_at": 1771445939
+    },
+    "50183": {
+        "base_branch": "CMSSW_16_0_X",
+        "changed_files_names": [
+            "HLTriggerOffline/Scouting/plugins/PatElectronTagProbeAnalyzer.cc",
+            "HLTriggerOffline/Scouting/plugins/ScoutingDQMUtils.h",
+            "HLTriggerOffline/Scouting/plugins/ScoutingEGammaCollectionMonitoring.cc",
+            "HLTriggerOffline/Scouting/python/PatElectronTagProbeAnalyzer_cfi.py"
+        ],
+        "created_at": 1771452767,
+        "number": 50183,
+        "state": "open",
+        "updated_at": 1771452798
     }
 }
