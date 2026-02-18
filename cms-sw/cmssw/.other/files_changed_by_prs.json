@@ -3260,12 +3260,15 @@
         "base_branch": "master",
         "changed_files_names": [
             "HLTrigger/special/plugins/BuildFile.xml",
-            "HLTrigger/special/plugins/HLTPixelThrustFilter.cc"
+            "HLTrigger/special/plugins/HLTPixelThrustFilter.cc",
+            "PhysicsTools/CandUtils/BuildFile.xml",
+            "PhysicsTools/CandUtils/interface/Thrust.h",
+            "PhysicsTools/CandUtils/src/Thrust.cc"
         ],
         "created_at": 1771355039,
         "number": 50167,
         "state": "open",
-        "updated_at": 1771355070
+        "updated_at": 1771422654
     },
     "50169": {
         "base_branch": "master",
