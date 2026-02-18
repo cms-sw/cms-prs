@@ -3436,5 +3436,33 @@
         "number": 50176,
         "state": "open",
         "updated_at": 1771431796
+    },
+    "50177": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/L1GlobalCaloTrigger/interface/L1GctEmCandFwd.h",
+            "DataFormats/L1GlobalCaloTrigger/interface/L1GctEtHadFwd.h",
+            "DataFormats/L1GlobalCaloTrigger/interface/L1GctEtMissFwd.h",
+            "DataFormats/L1GlobalCaloTrigger/interface/L1GctEtTotalFwd.h",
+            "DataFormats/L1GlobalCaloTrigger/interface/L1GctHFBitCountsFwd.h",
+            "DataFormats/L1GlobalCaloTrigger/interface/L1GctHFRingEtSumsFwd.h",
+            "DataFormats/L1GlobalCaloTrigger/interface/L1GctHtMissFwd.h",
+            "DataFormats/L1GlobalCaloTrigger/interface/L1GctJetCandFwd.h",
+            "DataFormats/L1GlobalCaloTrigger/interface/L1GctJetCountsFwd.h",
+            "DataFormats/L1GlobalTrigger/interface/L1GlobalTriggerObjectMapRecordFwd.h",
+            "DataFormats/L1GlobalTrigger/interface/L1GlobalTriggerReadoutRecordFwd.h",
+            "DataFormats/L1TGlobal/interface/GlobalObjectMapRecordFwd.h",
+            "HLTrigger/HLTfilters/plugins/HLTL1TSeed.h",
+            "HLTrigger/HLTfilters/plugins/HLTLevel1GTSeed.h",
+            "L1Trigger/GlobalCaloTrigger/interface/L1GctJet.h",
+            "L1Trigger/GlobalCaloTrigger/interface/L1GctJetLeafCard.h",
+            "L1Trigger/GlobalCaloTrigger/interface/L1GctJetSorter.h",
+            "L1Trigger/GlobalTrigger/interface/L1GlobalTriggerFDL.h",
+            "L1Trigger/GlobalTrigger/interface/L1GlobalTriggerPSB.h"
+        ],
+        "created_at": 1771434038,
+        "number": 50177,
+        "state": "open",
+        "updated_at": 1771434069
     }
 }
