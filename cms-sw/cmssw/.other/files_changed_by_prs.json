@@ -3382,5 +3382,17 @@
         "number": 50178,
         "state": "open",
         "updated_at": 1771434303
+    },
+    "50179": {
+        "base_branch": "CMSSW_16_0_X",
+        "changed_files_names": [
+            "RecoHGCal/TICL/plugins/GeneralInterpretationAlgo.cc",
+            "RecoHGCal/TICL/plugins/LinkingAlgoByDirectionGeometric.cc",
+            "RecoHGCal/TICL/plugins/TICLCandidateProducer.cc"
+        ],
+        "created_at": 1771435309,
+        "number": 50179,
+        "state": "open",
+        "updated_at": 1771435337
     }
 }
