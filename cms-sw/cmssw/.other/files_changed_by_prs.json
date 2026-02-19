@@ -3235,10 +3235,6 @@
             "DataFormats/L1TParticleFlow/interface/layer1_objs.h",
             "DataFormats/L1TParticleFlow/src/PFJet.cc",
             "DataFormats/L1TParticleFlow/src/layer1_emulator.cpp",
-            "L1Trigger/Phase2L1ParticleFlow/data/hadcorr_HGCal3D_TC.json",
-            "L1Trigger/Phase2L1ParticleFlow/data/hadcorr_HGCal3D_TC.root",
-            "L1Trigger/Phase2L1ParticleFlow/data/met/l1jump_jer_v1.json",
-            "L1Trigger/Phase2L1ParticleFlow/data/met/l1met_ptphi2pxpy_poly2_v1.json",
             "L1Trigger/Phase2L1ParticleFlow/interface/L1TSC4NGJetID.h",
             "L1Trigger/Phase2L1ParticleFlow/interface/common/inversion.h",
             "L1Trigger/Phase2L1ParticleFlow/interface/common/log.h",
@@ -3273,7 +3269,7 @@
         "created_at": 1771428448,
         "number": 50174,
         "state": "open",
-        "updated_at": 1771428469
+        "updated_at": 1771492968
     },
     "50175": {
         "base_branch": "master",
