@@ -3409,5 +3409,19 @@
         "number": 50187,
         "state": "open",
         "updated_at": 1771499735
+    },
+    "50188": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQMOffline/Trigger/plugins/JetMonitor.cc",
+            "DQMOffline/Trigger/python/JetMETPromptMonitoring_Client_cff.py",
+            "DQMOffline/Trigger/python/JetMonitor_cff.py",
+            "DQMOffline/Trigger/python/JetMonitor_cfi.py",
+            "PhysicsTools/SelectorUtils/interface/Run3ScoutingPFJetIDSelectionFunctor.h"
+        ],
+        "created_at": 1771506769,
+        "number": 50188,
+        "state": "open",
+        "updated_at": 1771506814
     }
 }
