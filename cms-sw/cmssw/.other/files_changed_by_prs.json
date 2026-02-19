@@ -3430,5 +3430,23 @@
         "number": 50188,
         "state": "open",
         "updated_at": 1771506814
+    },
+    "50189": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/L1CaloTrigger/interface/L1CaloEmCandFwd.h",
+            "DataFormats/L1CaloTrigger/interface/L1CaloRegionFwd.h",
+            "DataFormats/L1GlobalCaloTrigger/interface/L1GctInternJetDataFwd.h",
+            "L1Trigger/GlobalCaloTrigger/interface/L1GctJetFinderBase.h",
+            "L1Trigger/GlobalCaloTrigger/test/gctTestEnergyAlgos.h",
+            "L1Trigger/GlobalCaloTrigger/test/gctTestFunctions.h",
+            "L1Trigger/GlobalCaloTrigger/test/gctTestHfEtSums.h",
+            "L1Trigger/GlobalCaloTrigger/test/gctTestSingleEvent.h",
+            "L1Trigger/GlobalCaloTrigger/test/gctTestUsingLhcData.h"
+        ],
+        "created_at": 1771512007,
+        "number": 50189,
+        "state": "open",
+        "updated_at": 1771512037
     }
 }
