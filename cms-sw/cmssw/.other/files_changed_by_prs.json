@@ -3543,5 +3543,19 @@
         "number": 50196,
         "state": "open",
         "updated_at": 1771527251
+    },
+    "50197": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondFormats/EcalCorrections/interface/EcalShowerContainmentCorrections.h",
+            "DataFormats/EcalDetId/interface/EBDetIdFwd.h",
+            "DataFormats/EcalDetId/interface/EEDetIdFwd.h",
+            "RecoEcal/EgammaCoreTools/interface/EcalClusterSeverityLevelAlgo.h",
+            "Validation/EcalDigis/plugins/EcalSelectiveReadoutValidation.h"
+        ],
+        "created_at": 1771531688,
+        "number": 50197,
+        "state": "open",
+        "updated_at": 1771531717
     }
 }
