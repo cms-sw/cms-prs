@@ -2578,16 +2578,23 @@
             "DataFormats/Portable/interface/PortableDeviceCollection.h",
             "DataFormats/Portable/interface/PortableHostCollection.h",
             "DataFormats/Portable/test/alpaka/test_catch2_SoACopy.dev.cc",
+            "DataFormats/SiPixelClusterSoA/BuildFile.xml",
+            "DataFormats/SiPixelDigiSoA/BuildFile.xml",
+            "DataFormats/SoATemplate/BuildFile.xml",
             "DataFormats/SoATemplate/interface/SoACommon.h",
             "DataFormats/SoATemplate/interface/SoALayout.h",
+            "DataFormats/SoATemplate/src/SoACommon.cc",
             "DataFormats/SoATemplate/test/BuildFile.xml",
             "DataFormats/SoATemplate/test/SoAStreamInternal_t.cc",
+            "DataFormats/TrackSoA/BuildFile.xml",
+            "DataFormats/TrackingRecHitSoA/BuildFile.xml",
+            "DataFormats/VertexSoA/BuildFile.xml",
             "PhysicsTools/PyTorchAlpaka/interface/TensorCollection.h"
         ],
         "created_at": 1770982994,
         "number": 50131,
         "state": "open",
-        "updated_at": 1770983017
+        "updated_at": 1771510910
     },
     "50133": {
         "base_branch": "master",
