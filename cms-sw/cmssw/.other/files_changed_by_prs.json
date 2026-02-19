@@ -3526,5 +3526,22 @@
         "number": 50195,
         "state": "open",
         "updated_at": 1771521594
+    },
+    "50196": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/HcalDigi/interface/HBHEDataFrameFwd.h",
+            "DataFormats/HcalDigi/interface/HFDataFrameFwd.h",
+            "DataFormats/HcalDigi/interface/HODataFrameFwd.h",
+            "DataFormats/HcalDigi/interface/QIE10DataFrameFwd.h",
+            "DataFormats/HcalDigi/interface/QIE11DataFrameFwd.h",
+            "DataFormats/HcalDigi/interface/ZDCDataFrameFwd.h",
+            "RecoLocalCalo/HcalRecAlgos/interface/HFPreRecAlgo.h",
+            "SimCalorimetry/HcalSimAlgos/interface/HcalElectronicsSim.h"
+        ],
+        "created_at": 1771527229,
+        "number": 50196,
+        "state": "open",
+        "updated_at": 1771527251
     }
 }
