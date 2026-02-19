@@ -3592,5 +3592,16 @@
         "number": 50200,
         "state": "open",
         "updated_at": 1771533913
+    },
+    "50201": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "SimDataFormats/TrackerDigiSimLink/interface/StripDigiSimLinkFwd.h",
+            "SimTracker/SiStripDigitizer/plugins/SiStripDigitizerAlgorithm.h"
+        ],
+        "created_at": 1771534483,
+        "number": 50201,
+        "state": "open",
+        "updated_at": 1771534541
     }
 }
