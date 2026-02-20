@@ -2305,7 +2305,7 @@
         "base_branch": "master",
         "changed_files_names": [
             "Configuration/EventContent/python/EventContent_cff.py",
-            "Configuration/ProcessModifiers/python/hltPhase2LegacyTrackingPatatrackQuads_cff.py",
+            "Configuration/ProcessModifiers/python/hltPhase2LegacyTrackingPatatrackQuadsChain_cff.py",
             "Configuration/ProcessModifiers/python/hltPhase2LegacyTracking_cff.py",
             "Configuration/ProcessModifiers/python/hltTrackingMkFitInitialStep_cff.py",
             "Configuration/ProcessModifiers/python/phase2LegacyPixelTracks_cff.py",
@@ -2352,7 +2352,7 @@
         "created_at": 1770280104,
         "number": 50040,
         "state": "open",
-        "updated_at": 1770761776
+        "updated_at": 1771575523
     },
     "50048": {
         "base_branch": "CMSSW_14_0_X",
