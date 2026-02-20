@@ -2549,6 +2549,7 @@
     "50131": {
         "base_branch": "master",
         "changed_files_names": [
+            "DataFormats/HGCalDigi/BuildFile.xml",
             "DataFormats/Portable/interface/PortableCollectionCommon.h",
             "DataFormats/Portable/interface/PortableDeviceCollection.h",
             "DataFormats/Portable/interface/PortableHostCollection.h",
@@ -2562,14 +2563,18 @@
             "DataFormats/SoATemplate/test/BuildFile.xml",
             "DataFormats/SoATemplate/test/SoAStreamInternal_t.cc",
             "DataFormats/TrackSoA/BuildFile.xml",
+            "DataFormats/TrackSoA/test/BuildFile.xml",
             "DataFormats/TrackingRecHitSoA/BuildFile.xml",
+            "DataFormats/TrackingRecHitSoA/test/BuildFile.xml",
             "DataFormats/VertexSoA/BuildFile.xml",
-            "PhysicsTools/PyTorchAlpaka/interface/TensorCollection.h"
+            "PhysicsTools/PyTorchAlpaka/interface/TensorCollection.h",
+            "PhysicsTools/PyTorchAlpaka/test/BuildFile.xml",
+            "RecoTracker/LSTCore/BuildFile.xml"
         ],
         "created_at": 1770982994,
         "number": 50131,
         "state": "open",
-        "updated_at": 1771510910
+        "updated_at": 1771606831
     },
     "50133": {
         "base_branch": "master",
