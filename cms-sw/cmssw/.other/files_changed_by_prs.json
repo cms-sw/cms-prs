@@ -1488,6 +1488,8 @@
     "49414": {
         "base_branch": "master",
         "changed_files_names": [
+            "PhysicsTools/PatAlgos/python/slimming/MicroEventContent_cff.py",
+            "SimG4Core/Configuration/python/SimG4Core_EventContent_cff.py",
             "SimG4Core/CustomPhysics/BuildFile.xml",
             "SimG4Core/CustomPhysics/data/RhadronPythiaDecayerCommands.txt",
             "SimG4Core/CustomPhysics/interface/RHDecayTracer.h",
@@ -1504,7 +1506,7 @@
         "created_at": 1763500094,
         "number": 49414,
         "state": "open",
-        "updated_at": 1770751307
+        "updated_at": 1771621633
     },
     "49476": {
         "base_branch": "master",
