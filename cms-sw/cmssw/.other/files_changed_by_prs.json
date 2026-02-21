@@ -2116,30 +2116,6 @@
         "state": "open",
         "updated_at": 1770427603
     },
-    "49975": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "HeterogeneousCore/AlpakaInterface/interface/FlexiStorage.h",
-            "HeterogeneousCore/AlpakaInterface/interface/HistoContainer.h",
-            "HeterogeneousCore/AlpakaInterface/interface/OneToManyAssoc.h",
-            "HeterogeneousCore/AlpakaInterface/test/alpaka/testHistoContainer.dev.cc",
-            "HeterogeneousCore/AlpakaInterface/test/alpaka/testOneToManyAssoc.dev.cc",
-            "RecoTracker/PixelSeeding/plugins/alpaka/BrokenLineFit.dev.cc",
-            "RecoTracker/PixelSeeding/plugins/alpaka/CACell.h",
-            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernels.dev.cc",
-            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernels.h",
-            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernelsImpl.h",
-            "RecoTracker/PixelSeeding/plugins/alpaka/CAStructures.h",
-            "RecoTracker/PixelSeeding/plugins/alpaka/RiemannFit.dev.cc",
-            "RecoVertex/PixelVertexFinding/plugins/alpaka/clusterTracksByDensity.h",
-            "RecoVertex/PixelVertexFinding/plugins/alpaka/clusterTracksDBSCAN.h",
-            "RecoVertex/PixelVertexFinding/plugins/alpaka/clusterTracksIterative.h"
-        ],
-        "created_at": 1769699040,
-        "number": 49975,
-        "state": "open",
-        "updated_at": 1770757566
-    },
     "49995": {
         "base_branch": "master",
         "changed_files_names": [
