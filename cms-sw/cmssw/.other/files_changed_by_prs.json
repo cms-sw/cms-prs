@@ -3091,5 +3091,16 @@
         "number": 50215,
         "state": "open",
         "updated_at": 1771621820
+    },
+    "50217": {
+        "base_branch": "CMSSW_16_0_X",
+        "changed_files_names": [
+            "DQM/Integration/python/clients/ngt_dqm_sourceclient-live_cfg.py",
+            "DQM/Integration/test/BuildFile.xml"
+        ],
+        "created_at": 1771675048,
+        "number": 50217,
+        "state": "open",
+        "updated_at": 1771675074
     }
 }
