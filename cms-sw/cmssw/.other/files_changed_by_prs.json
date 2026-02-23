@@ -3180,5 +3180,19 @@
         "number": 50231,
         "state": "open",
         "updated_at": 1771870140
+    },
+    "50232": {
+        "base_branch": "CMSSW_16_0_X",
+        "changed_files_names": [
+            "L1TriggerScouting/OnlineProcessing/plugins/BuildFile.xml",
+            "L1TriggerScouting/OnlineProcessing/plugins/ScoutingJetProducer.cc",
+            "L1TriggerScouting/Utilities/interface/conversion.h",
+            "L1TriggerScouting/Utilities/interface/scales.h",
+            "L1TriggerScouting/Utilities/src/conversion.cc"
+        ],
+        "created_at": 1771870144,
+        "number": 50232,
+        "state": "open",
+        "updated_at": 1771870172
     }
 }
