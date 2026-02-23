@@ -3205,5 +3205,18 @@
         "number": 50233,
         "state": "open",
         "updated_at": 1771878320
+    },
+    "50234": {
+        "base_branch": "CMSSW_16_1_EVOLUTION_X",
+        "changed_files_names": [
+            "SimDataFormats/GeneratorProducts/interface/HepMCProduct.h",
+            "SimDataFormats/GeneratorProducts/interface/HepMCProductFwd.h",
+            "SimDataFormats/GeneratorProducts/src/classes_def.xml",
+            "SimDataFormats/TrackingAnalysis/src/classes_def.xml"
+        ],
+        "created_at": 1771878508,
+        "number": 50234,
+        "state": "open",
+        "updated_at": 1771878530
     }
 }
