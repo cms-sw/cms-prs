@@ -3157,5 +3157,18 @@
         "number": 50235,
         "state": "open",
         "updated_at": 1771881052
+    },
+    "50236": {
+        "base_branch": "CMSSW_16_0_X",
+        "changed_files_names": [
+            "DQM/Integration/python/clients/scouting_dqm_sourceclient-live_cfg.py",
+            "DQMOffline/JetMET/interface/JetAnalyzer.h",
+            "DQMOffline/JetMET/python/jetAnalyzer_cfi.py",
+            "DQMOffline/JetMET/src/JetAnalyzer.cc"
+        ],
+        "created_at": 1771916194,
+        "number": 50236,
+        "state": "open",
+        "updated_at": 1771916257
     }
 }
