@@ -2699,5 +2699,19 @@
         "number": 50250,
         "state": "open",
         "updated_at": 1771966119
+    },
+    "50252": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "EventFilter/HcalRawToDigi/plugins/HcalDigiToRawuHTR.cc",
+            "EventFilter/HcalRawToDigi/plugins/PackerHelp.h",
+            "SimCalorimetry/HcalTrigPrimAlgos/interface/HcalFinegrainBit.h",
+            "SimCalorimetry/HcalTrigPrimAlgos/src/HcalFinegrainBit.cc",
+            "SimCalorimetry/HcalTrigPrimAlgos/src/HcalTriggerPrimitiveAlgo.cc"
+        ],
+        "created_at": 1772018842,
+        "number": 50252,
+        "state": "open",
+        "updated_at": 1772018842
     }
 }
