@@ -2469,7 +2469,10 @@
     "50188": {
         "base_branch": "master",
         "changed_files_names": [
+            "DQM/HLTEvF/python/ScoutingJetMonitoring_cff.py",
+            "DQMOffline/HLTScouting/python/HLTScoutingDqmOffline_cff.py",
             "DQMOffline/Trigger/plugins/JetMonitor.cc",
+            "DQMOffline/Trigger/python/JetMETPromptMonitor_cff.py",
             "DQMOffline/Trigger/python/JetMETPromptMonitoring_Client_cff.py",
             "DQMOffline/Trigger/python/JetMonitor_cff.py",
             "DQMOffline/Trigger/python/JetMonitor_cfi.py",
@@ -2478,7 +2481,7 @@
         "created_at": 1771506769,
         "number": 50188,
         "state": "open",
-        "updated_at": 1771506814
+        "updated_at": 1772056537
     },
     "50209": {
         "base_branch": "CMSSW_15_0_X",
