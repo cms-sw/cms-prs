@@ -2722,5 +2722,18 @@
         "number": 50259,
         "state": "open",
         "updated_at": 1772043103
+    },
+    "50260": {
+        "base_branch": "CMSSW_16_0_X",
+        "changed_files_names": [
+            "EventFilter/L1ScoutingRawToDigi/plugins/ScCALORawToDigi.cc",
+            "EventFilter/L1ScoutingRawToDigi/plugins/ScCALORawToDigi.h",
+            "EventFilter/L1ScoutingRawToDigi/plugins/ScGMTRawToDigi.cc",
+            "EventFilter/L1ScoutingRawToDigi/plugins/ScGMTRawToDigi.h"
+        ],
+        "created_at": 1772043132,
+        "number": 50260,
+        "state": "open",
+        "updated_at": 1772043169
     }
 }
