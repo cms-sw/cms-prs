@@ -2731,5 +2731,25 @@
         "number": 50263,
         "state": "open",
         "updated_at": 1772089203
+    },
+    "50264": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/SiPixelCluster/interface/SiPixelCluster.h",
+            "DataFormats/SiPixelCluster/src/classes_def.xml",
+            "DataFormats/SiPixelDigi/interface/SiPixelDigiConstants.h",
+            "DataFormats/SiPixelDigiSoA/interface/SiPixelDigisSoA.h",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/PixelClusterizerBase.h",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/PixelThresholdClusterizer.cc",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelArrayBuffer.h",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelDigisClustersFromSoAAlpaka.cc",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/CalibPixel.h",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/PixelClustering.h",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToClusterKernel.dev.cc"
+        ],
+        "created_at": 1772103924,
+        "number": 50264,
+        "state": "open",
+        "updated_at": 1772103951
     }
 }
