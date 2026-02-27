@@ -2735,5 +2735,35 @@
         "number": 50274,
         "state": "open",
         "updated_at": 1772188518
+    },
+    "50275": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondCore/MLObjectsPlugins/BuildFile.xml",
+            "CondCore/MLObjectsPlugins/src/plugin.cc",
+            "CondCore/Utilities/BuildFile.xml",
+            "CondCore/Utilities/plugins/Module_2XML.cc",
+            "CondCore/Utilities/src/CondFormats.h",
+            "CondFormats/DataRecord/interface/MetadataRcd.h",
+            "CondFormats/DataRecord/interface/MetadataWrapperRcd.h",
+            "CondFormats/DataRecord/src/MetadataRcd.cc",
+            "CondFormats/DataRecord/src/MetadataWrapperRcd.cc",
+            "CondFormats/MLObjects/BuildFile.xml",
+            "CondFormats/MLObjects/interface/Metadata.h",
+            "CondFormats/MLObjects/interface/MetadataWrapper.h",
+            "CondFormats/MLObjects/src/Metadata.cc",
+            "CondFormats/MLObjects/src/T_EventSetup_Metadata.cc",
+            "CondFormats/MLObjects/src/classes.h",
+            "CondFormats/MLObjects/src/classes_def.xml",
+            "CondFormats/MLObjects/src/headers.h",
+            "CondFormats/MLObjects/test/BuildFile.xml",
+            "CondFormats/MLObjects/test/testSerializationMetadata.cpp",
+            "CondTools/MLObjects/plugins/BuildFile.xml",
+            "CondTools/MLObjects/plugins/MetadataWriter.cc"
+        ],
+        "created_at": 1772191606,
+        "number": 50275,
+        "state": "open",
+        "updated_at": 1772191631
     }
 }
