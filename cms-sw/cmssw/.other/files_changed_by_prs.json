@@ -2228,12 +2228,13 @@
             "DataFormats/VertexSoA/BuildFile.xml",
             "PhysicsTools/PyTorchAlpaka/interface/TensorCollection.h",
             "PhysicsTools/PyTorchAlpaka/test/BuildFile.xml",
-            "RecoTracker/LSTCore/BuildFile.xml"
+            "RecoTracker/LSTCore/BuildFile.xml",
+            "RecoTracker/LSTCore/standalone/bin/lst.cc"
         ],
         "created_at": 1770982994,
         "number": 50131,
         "state": "open",
-        "updated_at": 1772086336
+        "updated_at": 1772178548
     },
     "50133": {
         "base_branch": "master",
