@@ -2672,6 +2672,7 @@
         "changed_files_names": [
             "DataFormats/SiPixelCluster/interface/SiPixelCluster.h",
             "DataFormats/SiPixelCluster/src/classes_def.xml",
+            "DataFormats/SiPixelCluster/test/SiPixelCluster_t.cpp",
             "DataFormats/SiPixelDigi/interface/SiPixelDigiConstants.h",
             "DataFormats/SiPixelDigiSoA/interface/SiPixelDigisSoA.h",
             "RecoLocalTracker/SiPixelClusterizer/plugins/PixelClusterizerBase.h",
@@ -2685,7 +2686,7 @@
         "created_at": 1772103924,
         "number": 50264,
         "state": "open",
-        "updated_at": 1772123636
+        "updated_at": 1772177180
     },
     "50265": {
         "base_branch": "master",
