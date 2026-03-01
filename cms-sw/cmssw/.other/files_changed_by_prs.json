@@ -2887,5 +2887,16 @@
         "number": 50283,
         "state": "open",
         "updated_at": 1772236095
+    },
+    "50284": {
+        "base_branch": "CMSSW_16_0_X",
+        "changed_files_names": [
+            "DQM/HLTEvF/plugins/ScoutingCollectionMonitor.cc",
+            "HLTriggerOffline/Scouting/plugins/ScoutingRecHitAnalyzer.cc"
+        ],
+        "created_at": 1772356600,
+        "number": 50284,
+        "state": "open",
+        "updated_at": 1772356631
     }
 }
