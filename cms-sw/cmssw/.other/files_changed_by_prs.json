@@ -2678,39 +2678,6 @@
         "state": "open",
         "updated_at": 1772202531
     },
-    "50280": {
-        "base_branch": "CMSSW_16_1_EVOLUTION_X",
-        "changed_files_names": [
-            "DataFormats/EcalDetId/interface/EBDetId.h",
-            "DataFormats/EcalDetId/interface/EBDetIdFwd.h",
-            "DataFormats/EcalDetId/interface/EEDetId.h",
-            "DataFormats/EcalDetId/interface/EEDetIdFwd.h",
-            "DataFormats/EcalDetId/interface/EcalElectronicsId.h",
-            "DataFormats/EcalDetId/interface/EcalElectronicsIdFwd.h",
-            "DataFormats/EcalDetId/src/EBDetId.cc",
-            "DataFormats/EcalDetId/src/EEDetId.cc",
-            "DataFormats/EcalDetId/src/classes_def.xml",
-            "DataFormats/EcalDigi/interface/EBDigiCollectionFwd.h",
-            "DataFormats/EcalDigi/interface/EBSrFlag.h",
-            "DataFormats/EcalDigi/interface/EEDigiCollectionFwd.h",
-            "DataFormats/EcalDigi/interface/EESrFlag.h",
-            "DataFormats/EcalDigi/interface/ESDigiCollectionFwd.h",
-            "DataFormats/EcalDigi/interface/EcalDigiCollections.h",
-            "DataFormats/EcalDigi/interface/EcalEBTriggerPrimitiveDigi.h",
-            "DataFormats/EcalDigi/interface/EcalPnDiodeDigi.h",
-            "DataFormats/EcalDigi/interface/EcalPseudoStripInputDigi.h",
-            "DataFormats/EcalDigi/interface/EcalTimeDigi.h",
-            "DataFormats/EcalDigi/interface/EcalTrigPrimCompactColl.h",
-            "DataFormats/EcalDigi/interface/EcalTriggerPrimitiveDigi.h",
-            "DataFormats/EcalDigi/src/EcalEBTriggerPrimitiveDigi.cc",
-            "DataFormats/EcalDigi/src/EcalTriggerPrimitiveDigi.cc",
-            "DataFormats/EcalDigi/src/classes_def.xml"
-        ],
-        "created_at": 1772209724,
-        "number": 50280,
-        "state": "open",
-        "updated_at": 1772209749
-    },
     "50281": {
         "base_branch": "CMSSW_16_1_EVOLUTION_X",
         "changed_files_names": [
