@@ -2860,5 +2860,29 @@
         "number": 50294,
         "state": "open",
         "updated_at": 1772561619
+    },
+    "50295": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "SimDataFormats/CaloAnalysis/interface/CaloParticle.h",
+            "SimDataFormats/CaloAnalysis/interface/CaloParticleFwd.h",
+            "SimDataFormats/CaloAnalysis/interface/MtdCaloParticle.h",
+            "SimDataFormats/CaloAnalysis/interface/MtdCaloParticleFwd.h",
+            "SimDataFormats/CaloAnalysis/interface/MtdSimClusterFwd.h",
+            "SimDataFormats/CaloAnalysis/interface/MtdSimTracksterFwd.h",
+            "SimDataFormats/CaloAnalysis/interface/SimCluster.h",
+            "SimDataFormats/CaloAnalysis/interface/SimClusterFwd.h",
+            "SimDataFormats/CaloAnalysis/src/classes_def.xml",
+            "SimDataFormats/CaloHit/interface/PCaloHit.h",
+            "SimDataFormats/DigiSimLinks/interface/DTDigiSimLink.h",
+            "SimDataFormats/Track/interface/SimTrack.h",
+            "SimDataFormats/TrackingAnalysis/interface/TrackingParticle.h",
+            "SimDataFormats/TrackingAnalysis/interface/TrackingParticleFwd.h",
+            "SimDataFormats/Vertex/interface/SimVertex.h"
+        ],
+        "created_at": 1772566703,
+        "number": 50295,
+        "state": "open",
+        "updated_at": 1772566730
     }
 }
