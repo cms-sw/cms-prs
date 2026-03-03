@@ -2710,6 +2710,7 @@
             "DataFormats/Common/src/ThinnedAssociation.cc",
             "DataFormats/Common/src/classes.h",
             "DataFormats/Common/src/classes_def.xml",
+            "DataFormats/Common/test/BuildFile.xml",
             "DataFormats/Common/test/SimpleEDProductGetter.h",
             "DataFormats/Common/test/ptr_t.cppunit.cc",
             "DataFormats/Common/test/ptrvector_t.cppunit.cc",
@@ -2717,6 +2718,7 @@
             "DataFormats/Common/test/reftobaseprod_t.cppunit.cc",
             "DataFormats/Common/test/test_catch2_DetSetVector.cpp",
             "DataFormats/Common/test/test_catch2_DetSetVectorWithKey_t.cpp",
+            "DataFormats/Common/test/test_catch2_PtrVector.cpp",
             "DataFormats/Common/test/test_catch2_ThinnedRefSet.cpp",
             "DataFormats/FWLite/interface/ChainEvent.h",
             "DataFormats/FWLite/interface/DataGetterHelper.h",
@@ -2906,7 +2908,7 @@
         "created_at": 1772479570,
         "number": 50290,
         "state": "open",
-        "updated_at": 1772479593
+        "updated_at": 1772545137
     },
     "50292": {
         "base_branch": "master",
