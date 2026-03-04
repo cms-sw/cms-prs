@@ -3029,5 +3029,24 @@
         "number": 50304,
         "state": "open",
         "updated_at": 1772640583
+    },
+    "50305": {
+        "base_branch": "CMSSW_16_1_EVOLUTION_X",
+        "changed_files_names": [
+            "DataFormats/DTDigi/interface/DTDigi.h",
+            "DataFormats/DTDigi/interface/DTDigiFwd.h",
+            "DataFormats/DTDigi/interface/DTuROSControlData.h",
+            "DataFormats/DTDigi/interface/DTuROSFEDDataFwd.h",
+            "DataFormats/DTDigi/src/DTDigi.cc",
+            "DataFormats/DTDigi/src/classes_def.xml",
+            "DataFormats/RPCDigi/interface/RPCDigi.h",
+            "DataFormats/RPCDigi/interface/RPCDigiFwd.h",
+            "DataFormats/RPCDigi/src/RPCDigi.cc",
+            "DataFormats/RPCDigi/src/classes_def.xml"
+        ],
+        "created_at": 1772656686,
+        "number": 50305,
+        "state": "open",
+        "updated_at": 1772656714
     }
 }
