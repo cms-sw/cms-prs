@@ -3106,5 +3106,23 @@
         "number": 50307,
         "state": "open",
         "updated_at": 1772659731
+    },
+    "50308": {
+        "base_branch": "CMSSW_16_1_EVOLUTION_X",
+        "changed_files_names": [
+            "DataFormats/CTPPSDigi/interface/CTPPSDiamondDigi.h",
+            "DataFormats/CTPPSDigi/interface/CTPPSPixelDataError.h",
+            "DataFormats/CTPPSDigi/interface/CTPPSPixelDigi.h",
+            "DataFormats/CTPPSDigi/interface/TotemFEDInfo.h",
+            "DataFormats/CTPPSDigi/interface/TotemRPDigi.h",
+            "DataFormats/CTPPSDigi/interface/TotemTimingDigi.h",
+            "DataFormats/CTPPSDigi/interface/TotemVFATStatus.h",
+            "DataFormats/CTPPSDigi/src/TotemVFATStatus.cc",
+            "DataFormats/CTPPSDigi/src/classes_def.xml"
+        ],
+        "created_at": 1772661379,
+        "number": 50308,
+        "state": "open",
+        "updated_at": 1772661403
     }
 }
