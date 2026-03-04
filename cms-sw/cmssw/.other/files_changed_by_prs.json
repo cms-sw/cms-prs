@@ -2156,7 +2156,6 @@
     "50154": {
         "base_branch": "master",
         "changed_files_names": [
-            "DataFormats/Common/interface/DeviceProduct.h",
             "DataFormats/EcalDigi/plugins/BuildFile.xml",
             "DataFormats/EcalDigi/plugins/alpaka/TrivialSerialisation.cc",
             "DataFormats/EcalRecHit/plugins/BuildFile.xml",
@@ -2178,6 +2177,7 @@
             "DataFormats/TrivialSerialisation/test/alpaka/test_catch2_MemoryCopyTraitsPortable.dev.cc",
             "DataFormats/VertexSoA/plugins/BuildFile.xml",
             "DataFormats/VertexSoA/plugins/alpaka/TrivialSerialisation.cc",
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/Event.h",
             "HeterogeneousCore/TrivialSerialisation/BuildFile.xml",
             "HeterogeneousCore/TrivialSerialisation/interface/Common.h",
             "HeterogeneousCore/TrivialSerialisation/interface/Reader.h",
@@ -2203,7 +2203,7 @@
         "created_at": 1771257230,
         "number": 50154,
         "state": "open",
-        "updated_at": 1772439059
+        "updated_at": 1772632550
     },
     "50156": {
         "base_branch": "master",
