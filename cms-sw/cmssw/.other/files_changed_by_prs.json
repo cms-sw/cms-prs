@@ -3011,5 +3011,21 @@
         "number": 50312,
         "state": "open",
         "updated_at": 1772704682
+    },
+    "50313": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "SimG4CMS/Forward/BuildFile.xml",
+            "SimG4CMS/Forward/interface/FscNumberingScheme.h",
+            "SimG4CMS/Forward/interface/FscSD.h",
+            "SimG4CMS/Forward/plugins/FSCSensitiveDetectorBuilder.cc",
+            "SimG4CMS/Forward/src/FscNumberingScheme.cc",
+            "SimG4CMS/Forward/src/FscSD.cc",
+            "SimG4Core/Application/python/g4SimHits_cfi.py"
+        ],
+        "created_at": 1772706343,
+        "number": 50313,
+        "state": "open",
+        "updated_at": 1772706368
     }
 }
