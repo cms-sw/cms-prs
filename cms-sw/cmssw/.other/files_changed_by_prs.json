@@ -2808,27 +2808,6 @@
         "state": "open",
         "updated_at": 1772655213
     },
-    "50304": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DataFormats/L1Scouting/interface/L1ScoutingCaloJet.h",
-            "DataFormats/L1Scouting/interface/L1ScoutingFastJet.h",
-            "DataFormats/L1Scouting/src/classes.h",
-            "DataFormats/L1Scouting/src/classes_def.xml",
-            "DataFormats/L1Scouting/test/TestL1ScoutingFormat.sh",
-            "DataFormats/L1Scouting/test/TestReadL1Scouting.cc",
-            "DataFormats/L1Scouting/test/TestWriteL1Scouting.cc",
-            "DataFormats/L1Scouting/test/create_L1Scouting_test_file_cfg.py",
-            "DataFormats/L1Scouting/test/read_L1Scouting_cfg.py",
-            "L1TriggerScouting/OnlineProcessing/plugins/L1ScoutingCaloJetProducer.cc",
-            "L1TriggerScouting/OnlineProcessing/plugins/ScoutingJetProducer.cc",
-            "L1TriggerScouting/OnlineProcessing/plugins/MaskOrbitBx.cc"
-        ],
-        "created_at": 1772640553,
-        "number": 50304,
-        "state": "open",
-        "updated_at": 1772663246
-    },
     "50307": {
         "base_branch": "master",
         "changed_files_names": [
