@@ -3123,5 +3123,19 @@
         "number": 50322,
         "state": "open",
         "updated_at": 1772769123
+    },
+    "50323": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/CaloTopology/data/D120E.txt",
+            "Geometry/CaloTopology/data/D120H.txt",
+            "Geometry/CaloTopology/test/HGCalNeighbourCheck.cc",
+            "Geometry/CaloTopology/test/testHGCalNeighbourCheck_cfg.py",
+            "Geometry/CaloTopology/test/testHGCalNeighbour_cfg.py"
+        ],
+        "created_at": 1772785319,
+        "number": 50323,
+        "state": "open",
+        "updated_at": 1772785344
     }
 }
