@@ -2985,5 +2985,19 @@
         "number": 50325,
         "state": "open",
         "updated_at": 1772802195
+    },
+    "50326": {
+        "base_branch": "CMSSW_16_1_EVOLUTION_X",
+        "changed_files_names": [
+            "DataFormats/SiPixelDigi/interface/PixelDigi.h",
+            "DataFormats/SiPixelDigi/interface/PixelDigiCollection.h",
+            "DataFormats/SiPixelDigi/interface/PixelDigiFwd.h",
+            "DataFormats/SiPixelDigi/src/PixelDigiCollection.cc",
+            "DataFormats/SiPixelDigi/src/classes_def.xml"
+        ],
+        "created_at": 1772805644,
+        "number": 50326,
+        "state": "open",
+        "updated_at": 1772805669
     }
 }
