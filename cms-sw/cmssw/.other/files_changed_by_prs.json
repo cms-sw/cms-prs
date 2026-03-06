@@ -2970,5 +2970,36 @@
         "number": 50324,
         "state": "open",
         "updated_at": 1772788318
+    },
+    "50325": {
+        "base_branch": "CMSSW_16_1_EVOLUTION_X",
+        "changed_files_names": [
+            "DataFormats/HcalDigi/interface/HBHEDataFrame.h",
+            "DataFormats/HcalDigi/interface/HBHEDataFrameFwd.h",
+            "DataFormats/HcalDigi/interface/HFDataFrame.h",
+            "DataFormats/HcalDigi/interface/HFDataFrameFwd.h",
+            "DataFormats/HcalDigi/interface/HODataFrame.h",
+            "DataFormats/HcalDigi/interface/HODataFrameFwd.h",
+            "DataFormats/HcalDigi/interface/HcalTriggerPrimitiveDigi.h",
+            "DataFormats/HcalDigi/interface/HcalUnpackerReport.h",
+            "DataFormats/HcalDigi/interface/QIE10DataFrame.h",
+            "DataFormats/HcalDigi/interface/QIE10DataFrameFwd.h",
+            "DataFormats/HcalDigi/interface/QIE11DataFrame.h",
+            "DataFormats/HcalDigi/interface/QIE11DataFrameFwd.h",
+            "DataFormats/HcalDigi/interface/ZDCDataFrame.h",
+            "DataFormats/HcalDigi/interface/ZDCDataFrameFwd.h",
+            "DataFormats/HcalDigi/src/HBHEDataFrame.cc",
+            "DataFormats/HcalDigi/src/HFDataFrame.cc",
+            "DataFormats/HcalDigi/src/HODataFrame.cc",
+            "DataFormats/HcalDigi/src/HcalTriggerPrimitiveDigi.cc",
+            "DataFormats/HcalDigi/src/QIE10DataFrame.cc",
+            "DataFormats/HcalDigi/src/QIE11DataFrame.cc",
+            "DataFormats/HcalDigi/src/ZDCDataFrame.cc",
+            "DataFormats/HcalDigi/src/classes_def.xml"
+        ],
+        "created_at": 1772802171,
+        "number": 50325,
+        "state": "open",
+        "updated_at": 1772802195
     }
 }
