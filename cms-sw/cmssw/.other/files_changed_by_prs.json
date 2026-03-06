@@ -2176,10 +2176,9 @@
             "HeterogeneousCore/TrivialSerialisation/interface/alpaka/ReaderBase.h",
             "HeterogeneousCore/TrivialSerialisation/interface/alpaka/Serialiser.h",
             "HeterogeneousCore/TrivialSerialisation/interface/alpaka/SerialiserBase.h",
-            "HeterogeneousCore/TrivialSerialisation/interface/alpaka/SerialiserFactory.h",
+            "HeterogeneousCore/TrivialSerialisation/interface/alpaka/SerialiserFactoryDevice.h",
             "HeterogeneousCore/TrivialSerialisation/interface/alpaka/Writer.h",
             "HeterogeneousCore/TrivialSerialisation/interface/alpaka/WriterBase.h",
-            "HeterogeneousCore/TrivialSerialisation/src/alpaka/SerialiserFactory.cc",
             "HeterogeneousCore/TrivialSerialisation/test/BuildFile.xml",
             "HeterogeneousCore/TrivialSerialisation/test/alpaka/test_catch2_main.cc",
             "HeterogeneousCore/TrivialSerialisation/test/alpaka/test_catch2_portableCollectionsSerialiserPluginFactory.dev.cc"
@@ -2187,7 +2186,7 @@
         "created_at": 1771257230,
         "number": 50154,
         "state": "open",
-        "updated_at": 1772785635
+        "updated_at": 1772786755
     },
     "50156": {
         "base_branch": "master",
