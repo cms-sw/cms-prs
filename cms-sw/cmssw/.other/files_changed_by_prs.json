@@ -2163,7 +2163,6 @@
             "DataFormats/TrivialSerialisation/test/alpaka/test_catch2_MemoryCopyTraitsPortable.dev.cc",
             "DataFormats/VertexSoA/plugins/BuildFile.xml",
             "DataFormats/VertexSoA/plugins/alpaka/TrivialSerialisation.cc",
-            "HeterogeneousCore/AlpakaCore/interface/alpaka/Event.h",
             "HeterogeneousCore/TrivialSerialisation/BuildFile.xml",
             "HeterogeneousCore/TrivialSerialisation/interface/Common.h",
             "HeterogeneousCore/TrivialSerialisation/interface/Reader.h",
@@ -2183,13 +2182,12 @@
             "HeterogeneousCore/TrivialSerialisation/src/alpaka/SerialiserFactory.cc",
             "HeterogeneousCore/TrivialSerialisation/test/BuildFile.xml",
             "HeterogeneousCore/TrivialSerialisation/test/alpaka/test_catch2_main.cc",
-            "HeterogeneousCore/TrivialSerialisation/test/alpaka/test_catch2_portableCollectionsSerialiserPluginFactory.dev.cc",
-            "HeterogeneousCore/TrivialSerialisation/test/testGenericClonerPortable_cfg.py"
+            "HeterogeneousCore/TrivialSerialisation/test/alpaka/test_catch2_portableCollectionsSerialiserPluginFactory.dev.cc"
         ],
         "created_at": 1771257230,
         "number": 50154,
         "state": "open",
-        "updated_at": 1772638986
+        "updated_at": 1772785635
     },
     "50156": {
         "base_branch": "master",
