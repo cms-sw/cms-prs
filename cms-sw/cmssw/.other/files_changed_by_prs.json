@@ -3107,5 +3107,31 @@
         "number": 50335,
         "state": "open",
         "updated_at": 1772813663
+    },
+    "50336": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/EventContent/python/EventContent_cff.py",
+            "Configuration/ProcessModifiers/python/alpakaValidationHLT_cff.py",
+            "Configuration/PyReleaseValidation/README.md",
+            "Configuration/PyReleaseValidation/python/relval_Run4.py",
+            "Configuration/PyReleaseValidation/python/relval_gpu.py",
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "DQM/TrackingMonitorSource/plugins/TrackToTrackComparisonHists.cc",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrajectorySeedsLSTTracks_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/paths/DQM_TRKHeterogeneousValidation_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTInitialStepSequence_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPhase2PixelTracksAndVerticesSequence_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPhase2PixelVertexingSequence_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTTrackingSequence_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33_cff.py",
+            "HLTriggerOffline/Common/python/HLTValidation_cff.py",
+            "Validation/Configuration/python/autoValidation.py",
+            "Validation/RecoTrack/python/HLTmultiTrackValidator_cff.py"
+        ],
+        "created_at": 1772815087,
+        "number": 50336,
+        "state": "open",
+        "updated_at": 1772815116
     }
 }
