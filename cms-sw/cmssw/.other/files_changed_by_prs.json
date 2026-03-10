@@ -2907,5 +2907,18 @@
         "number": 50362,
         "state": "open",
         "updated_at": 1773155588
+    },
+    "50364": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondFormats/HGCalObjects/interface/HGCalConfiguration.h",
+            "CondFormats/HGCalObjects/src/HGCalMappingModuleIndexer.cc",
+            "EventFilter/HGCalRawToDigi/src/HGCalUnpacker.cc",
+            "RecoLocalCalo/HGCalRecAlgos/plugins/HGCalConfigurationESProducer.cc"
+        ],
+        "created_at": 1773159603,
+        "number": 50364,
+        "state": "open",
+        "updated_at": 1773159628
     }
 }
