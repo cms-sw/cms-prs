@@ -2920,5 +2920,20 @@
         "number": 50365,
         "state": "open",
         "updated_at": 1773161554
+    },
+    "50366": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "IOPool/Streamer/bin/DiagStreamerFile.cpp",
+            "IOPool/Streamer/interface/StreamerInputSource.h",
+            "IOPool/Streamer/interface/uncompress.h",
+            "IOPool/Streamer/src/DumpTools.cc",
+            "IOPool/Streamer/src/StreamerInputSource.cc",
+            "IOPool/Streamer/src/uncompress.cc"
+        ],
+        "created_at": 1773164001,
+        "number": 50366,
+        "state": "open",
+        "updated_at": 1773164028
     }
 }
