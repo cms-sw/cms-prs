@@ -2782,8 +2782,6 @@
         "base_branch": "CMSSW_16_1_EVOLUTION_X",
         "changed_files_names": [
             "AnalysisDataFormats/SUSYBSMObjects/src/classes_def.xml",
-            "CalibMuon/DTCalibration/interface/DTRecHitSegmentResidual.h",
-            "CalibMuon/DTCalibration/interface/DTSegmentSelector.h",
             "DataFormats/DTRecHit/interface/DTRecHit1D.h",
             "DataFormats/DTRecHit/interface/DTRecHit1DFwd.h",
             "DataFormats/DTRecHit/interface/DTRecHit1DPair.h",
@@ -2798,7 +2796,7 @@
         "created_at": 1773165562,
         "number": 50368,
         "state": "open",
-        "updated_at": 1773165586
+        "updated_at": 1773245737
     },
     "50369": {
         "base_branch": "master",
