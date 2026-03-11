@@ -3009,5 +3009,22 @@
         "number": 50374,
         "state": "open",
         "updated_at": 1773221529
+    },
+    "50375": {
+        "base_branch": "CMSSW_16_0_X",
+        "changed_files_names": [
+            "Configuration/Eras/python/Era_Run3_2026_cff.py",
+            "Configuration/Eras/python/Modifier_run3_l1scouting_2026_cff.py",
+            "Configuration/PyReleaseValidation/python/relval_nano.py",
+            "L1TriggerScouting/Utilities/plugins/L1ScoutingCaloTowerPhysicalValueMapProducer.cc",
+            "L1TriggerScouting/Utilities/plugins/SimpleOrbitFlatTableProducer.cc",
+            "PhysicsTools/NanoAOD/python/autoNANO.py",
+            "PhysicsTools/NanoAOD/python/custom_l1scoutingrun3_cff.py",
+            "PhysicsTools/NanoAOD/python/l1scoutingrun3_cff.py"
+        ],
+        "created_at": 1773221553,
+        "number": 50375,
+        "state": "open",
+        "updated_at": 1773221579
     }
 }
