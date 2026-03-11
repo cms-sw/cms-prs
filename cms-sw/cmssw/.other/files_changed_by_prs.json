@@ -2895,5 +2895,18 @@
         "number": 50377,
         "state": "open",
         "updated_at": 1773228842
+    },
+    "50378": {
+        "base_branch": "CMSSW_16_0_X",
+        "changed_files_names": [
+            "DQM/HLTEvF/plugins/ScoutingCollectionMonitor.cc",
+            "DQM/Integration/python/clients/ngt_dqm_sourceclient-live_cfg.py",
+            "HLTriggerOffline/Scouting/plugins/ScoutingPi0Analyzer.cc",
+            "HLTriggerOffline/Scouting/plugins/ScoutingRecHitAnalyzer.cc"
+        ],
+        "created_at": 1773238118,
+        "number": 50378,
+        "state": "open",
+        "updated_at": 1773238162
     }
 }
