@@ -2750,18 +2750,18 @@
             "PerfTools/AllocMonitor/README.md",
             "PerfTools/AllocMonitor/plugins/BuildFile.xml",
             "PerfTools/AllocMonitor/plugins/IntrusiveAllocMonitor.cc",
-            "PerfTools/AllocMonitor/plugins/IntrusiveTraceAllocMonitor.cc",
+            "PerfTools/AllocMonitor/plugins/IntrusiveAllocProfiler.cc",
             "PerfTools/AllocMonitor/plugins/MonitorStackNode.h",
-            "PerfTools/AllocMonitor/scripts/edmIntrusiveTraceAllocMonitorFoldStacks.py",
+            "PerfTools/AllocMonitor/scripts/edmIntrusiveAllocProfilerFoldStacks.py",
             "PerfTools/AllocMonitor/test/BuildFile.xml",
             "PerfTools/AllocMonitor/test/test_intrusiveAllocMonitor.cc",
             "PerfTools/AllocMonitor/test/verifyIntrusiveAllocMonitor.py",
-            "PerfTools/AllocMonitor/test/verifyIntrusiveTraceAllocMonitor.py"
+            "PerfTools/AllocMonitor/test/verifyIntrusiveAllocProfiler.py"
         ],
         "created_at": 1773174436,
         "number": 50369,
         "state": "open",
-        "updated_at": 1773174462
+        "updated_at": 1773339773
     },
     "50370": {
         "base_branch": "CMSSW_16_1_EVOLUTION_X",
