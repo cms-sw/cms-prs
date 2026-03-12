@@ -2929,5 +2929,22 @@
         "number": 50386,
         "state": "open",
         "updated_at": 1773318339
+    },
+    "50387": {
+        "base_branch": "CMSSW_16_1_EVOLUTION_X",
+        "changed_files_names": [
+            "SimDataFormats/CrossingFrame/interface/CrossingFramePlaybackInfoNew.h",
+            "SimDataFormats/CrossingFrame/interface/CrossingFramePlaybackInfoNewFwd.h",
+            "SimDataFormats/CrossingFrame/src/CrossingFramePlaybackInfoNew.cc",
+            "SimDataFormats/CrossingFrame/src/classes_def.xml",
+            "SimDataFormats/PileupSummaryInfo/interface/PileupSummaryInfo.h",
+            "SimDataFormats/PileupSummaryInfo/interface/PileupSummaryInfoFwd.h",
+            "SimDataFormats/PileupSummaryInfo/src/PileupSummaryInfo.cc",
+            "SimDataFormats/PileupSummaryInfo/src/classes_def.xml"
+        ],
+        "created_at": 1773320449,
+        "number": 50387,
+        "state": "open",
+        "updated_at": 1773320475
     }
 }
