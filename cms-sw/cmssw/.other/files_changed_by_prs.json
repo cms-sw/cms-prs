@@ -2937,5 +2937,18 @@
         "number": 50388,
         "state": "open",
         "updated_at": 1773324873
+    },
+    "50389": {
+        "base_branch": "CMSSW_16_1_EVOLUTION_X",
+        "changed_files_names": [
+            "DataFormats/RPCRecHit/interface/RPCRecHit.h",
+            "DataFormats/RPCRecHit/interface/RPCRecHitFwd.h",
+            "DataFormats/RPCRecHit/src/RPCRecHit.cc",
+            "DataFormats/RPCRecHit/src/classes_def.xml"
+        ],
+        "created_at": 1773326779,
+        "number": 50389,
+        "state": "open",
+        "updated_at": 1773326807
     }
 }
