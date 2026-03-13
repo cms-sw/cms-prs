@@ -3081,5 +3081,34 @@
         "number": 50392,
         "state": "open",
         "updated_at": 1773380910
+    },
+    "50393": {
+        "base_branch": "CMSSW_16_0_X",
+        "changed_files_names": [
+            "FWCore/ParameterSet/python/processFromFile.py",
+            "FWCore/ParameterSet/scripts/edmConfigDump",
+            "FWCore/ParameterSet/scripts/edmConfigSplit",
+            "HeterogeneousCore/MPICore/README.md",
+            "HeterogeneousCore/MPICore/interface/api.h",
+            "HeterogeneousCore/MPICore/interface/messages.h",
+            "HeterogeneousCore/MPICore/plugins/BuildFile.xml",
+            "HeterogeneousCore/MPICore/plugins/DumpProductNames.cc",
+            "HeterogeneousCore/MPICore/plugins/MPIController.cc",
+            "HeterogeneousCore/MPICore/plugins/MPISource.cc",
+            "HeterogeneousCore/MPICore/python/configuration_splitter/cpp_name_getter.py",
+            "HeterogeneousCore/MPICore/python/configuration_splitter/editor_functions.py",
+            "HeterogeneousCore/MPICore/python/configuration_splitter/module_dependency_analyzer.py",
+            "HeterogeneousCore/MPICore/python/configuration_splitter/path_state_helpers.py",
+            "HeterogeneousCore/MPICore/scripts/edmMpiSplitConfig.py",
+            "HeterogeneousCore/MPICore/src/api.cc",
+            "HeterogeneousCore/MPICore/src/messages.cc",
+            "HeterogeneousCore/MPICore/test/BuildFile.xml",
+            "HeterogeneousCore/MPICore/test/configutration_for_automatic_splitter.py",
+            "HeterogeneousCore/MPICore/test/testAutomaticSplitter.sh"
+        ],
+        "created_at": 1773381463,
+        "number": 50393,
+        "state": "open",
+        "updated_at": 1773381489
     }
 }
