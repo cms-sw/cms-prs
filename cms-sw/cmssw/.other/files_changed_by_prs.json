@@ -3044,6 +3044,9 @@
             "FWCore/ParameterSet/python/processFromFile.py",
             "FWCore/ParameterSet/scripts/edmConfigDump",
             "FWCore/ParameterSet/scripts/edmConfigSplit",
+            "HLTrigger/Timer/plugins/BuildFile.xml",
+            "HLTrigger/Timer/plugins/ThroughputService.cc",
+            "HLTrigger/Timer/plugins/ThroughputService.h",
             "HeterogeneousCore/MPICore/README.md",
             "HeterogeneousCore/MPICore/interface/api.h",
             "HeterogeneousCore/MPICore/interface/messages.h",
@@ -3065,7 +3068,7 @@
         "created_at": 1773381463,
         "number": 50393,
         "state": "open",
-        "updated_at": 1773381489
+        "updated_at": 1773413039
     },
     "50395": {
         "base_branch": "CMSSW_16_0_X",
