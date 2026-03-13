@@ -3069,5 +3069,17 @@
         "number": 50391,
         "state": "open",
         "updated_at": 1773377885
+    },
+    "50392": {
+        "base_branch": "CMSSW_16_0_X",
+        "changed_files_names": [
+            "FWCore/ParameterSet/python/processFromFile.py",
+            "FWCore/ParameterSet/scripts/edmConfigDump",
+            "FWCore/ParameterSet/scripts/edmConfigSplit"
+        ],
+        "created_at": 1773380873,
+        "number": 50392,
+        "state": "open",
+        "updated_at": 1773380910
     }
 }
