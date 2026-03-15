@@ -1660,6 +1660,7 @@
             "RecoHGCal/TICL/interface/TracksterInferenceAlgoBase.h",
             "RecoHGCal/TICL/interface/TracksterInferenceAlgoFactory.h",
             "RecoHGCal/TICL/interface/TracksterInferenceByANN.h",
+            "RecoHGCal/TICL/interface/TracksterInferenceByCNN.h",
             "RecoHGCal/TICL/interface/TracksterInferenceByCNNv4.h",
             "RecoHGCal/TICL/interface/TracksterInferenceByDNN.h",
             "RecoHGCal/TICL/interface/TracksterInferenceByPFN.h",
@@ -1682,6 +1683,7 @@
             "RecoHGCal/TICL/plugins/TICLDumper.cc",
             "RecoHGCal/TICL/plugins/TracksterInferenceAlgoFactory.cc",
             "RecoHGCal/TICL/plugins/TracksterInferenceByANN.cc",
+            "RecoHGCal/TICL/plugins/TracksterInferenceByCNN.cc",
             "RecoHGCal/TICL/plugins/TracksterInferenceByCNNv4.cc",
             "RecoHGCal/TICL/plugins/TracksterInferenceByDNN.cc",
             "RecoHGCal/TICL/plugins/TracksterInferenceByPFN.cc",
@@ -1760,7 +1762,7 @@
         "created_at": 1769261230,
         "number": 49932,
         "state": "open",
-        "updated_at": 1772725841
+        "updated_at": 1773582440
     },
     "49942": {
         "base_branch": "master",
