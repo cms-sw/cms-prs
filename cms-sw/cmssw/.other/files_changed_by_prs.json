@@ -3202,5 +3202,17 @@
         "number": 50412,
         "state": "open",
         "updated_at": 1773509487
+    },
+    "50413": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/AbstractServices/interface/ResourceInformation.h",
+            "FWCore/Services/plugins/ResourceInformationService.cc",
+            "HeterogeneousCore/ROCmServices/plugins/ROCmService.cc"
+        ],
+        "created_at": 1773571829,
+        "number": 50413,
+        "state": "open",
+        "updated_at": 1773571852
     }
 }
