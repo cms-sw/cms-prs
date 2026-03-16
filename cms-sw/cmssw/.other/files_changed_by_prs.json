@@ -3464,5 +3464,29 @@
         "number": 50431,
         "state": "open",
         "updated_at": 1773671378
+    },
+    "50432": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HeterogeneousCore/MPICore/README.md",
+            "HeterogeneousCore/MPICore/plugins/BuildFile.xml",
+            "HeterogeneousCore/MPICore/plugins/DumpProductNames.cc",
+            "HeterogeneousCore/MPICore/plugins/MPIReceiver.cc",
+            "HeterogeneousCore/MPICore/plugins/MPISender.cc",
+            "HeterogeneousCore/MPICore/python/configuration_splitter/cpp_name_getter.py",
+            "HeterogeneousCore/MPICore/python/configuration_splitter/editor_functions.py",
+            "HeterogeneousCore/MPICore/python/configuration_splitter/module_dependency_analyzer.py",
+            "HeterogeneousCore/MPICore/python/configuration_splitter/path_state_helpers.py",
+            "HeterogeneousCore/MPICore/scripts/edmMpiSplitConfig",
+            "HeterogeneousCore/MPICore/test/BuildFile.xml",
+            "HeterogeneousCore/MPICore/test/configutration_for_automatic_splitter.py",
+            "HeterogeneousCore/MPICore/test/controller_filters_cfg.py",
+            "HeterogeneousCore/MPICore/test/follower_filters_cfg.py",
+            "HeterogeneousCore/MPICore/test/testAutomaticSplitter.sh"
+        ],
+        "created_at": 1773673233,
+        "number": 50432,
+        "state": "open",
+        "updated_at": 1773673260
     }
 }
