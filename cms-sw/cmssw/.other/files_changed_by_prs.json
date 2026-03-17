@@ -3184,5 +3184,20 @@
         "number": 50444,
         "state": "open",
         "updated_at": 1773755028
+    },
+    "50445": {
+        "base_branch": "CMSSW_16_1_EVOLUTION_X",
+        "changed_files_names": [
+            "DataFormats/SiPixelCluster/interface/SiPixelCluster.h",
+            "DataFormats/SiPixelCluster/interface/SiPixelClusterFwd.h",
+            "DataFormats/SiPixelCluster/src/SiPixelCluster.cc",
+            "DataFormats/SiPixelCluster/src/classes_def.xml",
+            "DataFormats/TrackReco/src/classes_def.xml",
+            "DataFormats/TrackerRecHit2D/src/classes_def.xml"
+        ],
+        "created_at": 1773756118,
+        "number": 50445,
+        "state": "open",
+        "updated_at": 1773756145
     }
 }
