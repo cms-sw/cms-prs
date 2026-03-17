@@ -3306,5 +3306,25 @@
         "number": 50460,
         "state": "open",
         "updated_at": 1773780272
+    },
+    "50461": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HeterogeneousCore/MPICore/interface/api.h",
+            "HeterogeneousCore/MPICore/interface/messages.h",
+            "HeterogeneousCore/MPICore/plugins/MPIController.cc",
+            "HeterogeneousCore/MPICore/plugins/MPISource.cc",
+            "HeterogeneousCore/MPICore/src/api.cc",
+            "HeterogeneousCore/MPICore/src/messages.cc",
+            "HeterogeneousCore/MPICore/test/BuildFile.xml",
+            "HeterogeneousCore/MPICore/test/controller_multi_cfg.py",
+            "HeterogeneousCore/MPICore/test/follower_multi1_cfg.py",
+            "HeterogeneousCore/MPICore/test/follower_multi2_cfg.py",
+            "HeterogeneousCore/MPICore/test/testMPICommWorld.sh"
+        ],
+        "created_at": 1773784537,
+        "number": 50461,
+        "state": "open",
+        "updated_at": 1773784561
     }
 }
