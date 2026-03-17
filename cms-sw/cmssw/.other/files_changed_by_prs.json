@@ -1304,12 +1304,15 @@
     "49476": {
         "base_branch": "master",
         "changed_files_names": [
-            "RecoLocalMuon/GEMRecHit/plugins/GEMRecHitProducer.cc"
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py",
+            "RecoLocalMuon/GEMRecHit/plugins/GEMRecHitProducer.cc",
+            "RecoLocalMuon/GEMRecHit/plugins/GEMRecHitProducer.h",
+            "RecoLocalMuon/GEMRecHit/python/gemRecHits_cfi.py"
         ],
         "created_at": 1764140937,
         "number": 49476,
         "state": "open",
-        "updated_at": 1772545133
+        "updated_at": 1773740107
     },
     "49477": {
         "base_branch": "master",
