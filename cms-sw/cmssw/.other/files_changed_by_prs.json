@@ -3191,29 +3191,6 @@
         "state": "open",
         "updated_at": 1773681745
     },
-    "50436": {
-        "base_branch": "CMSSW_16_1_EVOLUTION_X",
-        "changed_files_names": [
-            "DataFormats/L1CSCTrackFinder/src/classes_def.xml",
-            "DataFormats/L1DTTrackFinder/src/classes_def.xml",
-            "DataFormats/L1GlobalMuonTrigger/interface/L1MuGMTCand.h",
-            "DataFormats/L1GlobalMuonTrigger/interface/L1MuGMTCandFwd.h",
-            "DataFormats/L1GlobalMuonTrigger/interface/L1MuGMTReadoutCollection.h",
-            "DataFormats/L1GlobalMuonTrigger/interface/L1MuGMTReadoutCollectionFwd.h",
-            "DataFormats/L1GlobalMuonTrigger/interface/L1MuRegionalCand.h",
-            "DataFormats/L1GlobalMuonTrigger/interface/L1MuRegionalCandFwd.h",
-            "DataFormats/L1GlobalMuonTrigger/src/L1MuGMTCand.cc",
-            "DataFormats/L1GlobalMuonTrigger/src/classes_def.xml",
-            "DataFormats/L1GlobalTrigger/interface/L1GlobalTriggerReadoutRecord.h",
-            "DataFormats/L1GlobalTrigger/interface/L1GlobalTriggerReadoutRecordFwd.h",
-            "DataFormats/L1GlobalTrigger/src/classes_def.xml",
-            "L1Trigger/GlobalTriggerAnalyzer/interface/L1GtUtils.h"
-        ],
-        "created_at": 1773685898,
-        "number": 50436,
-        "state": "open",
-        "updated_at": 1773685923
-    },
     "50437": {
         "base_branch": "master",
         "changed_files_names": [
