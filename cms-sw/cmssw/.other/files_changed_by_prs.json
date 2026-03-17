@@ -3199,5 +3199,23 @@
         "number": 50445,
         "state": "open",
         "updated_at": 1773756145
+    },
+    "50446": {
+        "base_branch": "CMSSW_16_0_X",
+        "changed_files_names": [
+            "HeterogeneousCore/MPICore/plugins/BuildFile.xml",
+            "HeterogeneousCore/MPICore/plugins/MPIReceiver.cc",
+            "HeterogeneousCore/MPICore/plugins/MPISender.cc",
+            "HeterogeneousCore/MPICore/python/configuration_splitter/editor_functions.py",
+            "HeterogeneousCore/MPICore/test/controller_filters_cfg.py",
+            "HeterogeneousCore/MPICore/test/controller_soa_cfg.py",
+            "HeterogeneousCore/MPICore/test/follower_filters_cfg.py",
+            "HeterogeneousCore/MPICore/test/follower_soa_cfg.py",
+            "HeterogeneousCore/MPICore/test/testMPICommWorld.sh"
+        ],
+        "created_at": 1773757234,
+        "number": 50446,
+        "state": "open",
+        "updated_at": 1773757264
     }
 }
