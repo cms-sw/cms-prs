@@ -2641,12 +2641,17 @@
             "HeterogeneousCore/MPICore/plugins/MPIController.cc",
             "HeterogeneousCore/MPICore/plugins/MPISource.cc",
             "HeterogeneousCore/MPICore/src/api.cc",
-            "HeterogeneousCore/MPICore/src/messages.cc"
+            "HeterogeneousCore/MPICore/src/messages.cc",
+            "HeterogeneousCore/MPICore/test/BuildFile.xml",
+            "HeterogeneousCore/MPICore/test/controller_multi_cfg.py",
+            "HeterogeneousCore/MPICore/test/follower_multi1_cfg.py",
+            "HeterogeneousCore/MPICore/test/follower_multi2_cfg.py",
+            "HeterogeneousCore/MPICore/test/testMPICommWorld.sh"
         ],
         "created_at": 1773381463,
         "number": 50393,
         "state": "open",
-        "updated_at": 1773782008
+        "updated_at": 1773782522
     },
     "50395": {
         "base_branch": "CMSSW_16_0_X",
