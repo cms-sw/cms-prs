@@ -3170,5 +3170,19 @@
         "number": 50443,
         "state": "open",
         "updated_at": 1773736313
+    },
+    "50444": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQM/HLTEvF/plugins/ScoutingCollectionMonitor.cc",
+            "DQM/HLTEvF/python/ScoutingCollectionMonitor_cfi.py",
+            "DQM/Integration/python/clients/ngt_dqm_sourceclient-live_cfg.py",
+            "DQM/Integration/python/clients/scouting_dqm_sourceclient-live_cfg.py",
+            "DQMOffline/HLTScouting/python/HLTScoutingDqmOffline_cff.py"
+        ],
+        "created_at": 1773755002,
+        "number": 50444,
+        "state": "open",
+        "updated_at": 1773755028
     }
 }
