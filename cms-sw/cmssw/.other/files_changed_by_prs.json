@@ -2591,6 +2591,7 @@
     "50393": {
         "base_branch": "CMSSW_16_0_X",
         "changed_files_names": [
+            "HeterogeneousCore/MPICore/BuildFile.xml",
             "HeterogeneousCore/MPICore/interface/api.h",
             "HeterogeneousCore/MPICore/interface/messages.h",
             "HeterogeneousCore/MPICore/plugins/MPIController.cc",
@@ -2599,6 +2600,9 @@
             "HeterogeneousCore/MPICore/src/messages.cc",
             "HeterogeneousCore/MPICore/test/BuildFile.xml",
             "HeterogeneousCore/MPICore/test/controller_multi_cfg.py",
+            "HeterogeneousCore/MPICore/test/controller_multi_rr_cfg.py",
+            "HeterogeneousCore/MPICore/test/controller_rr_cfg.py",
+            "HeterogeneousCore/MPICore/test/follower_cfg.py",
             "HeterogeneousCore/MPICore/test/follower_multi1_cfg.py",
             "HeterogeneousCore/MPICore/test/follower_multi2_cfg.py",
             "HeterogeneousCore/MPICore/test/testMPICommWorld.sh"
@@ -2606,7 +2610,7 @@
         "created_at": 1773381463,
         "number": 50393,
         "state": "open",
-        "updated_at": 1773782522
+        "updated_at": 1773854462
     },
     "50403": {
         "base_branch": "CMSSW_16_1_EVOLUTION_X",
