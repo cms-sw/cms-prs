@@ -2347,9 +2347,6 @@
     "50316": {
         "base_branch": "master",
         "changed_files_names": [
-            "Configuration/Generator/python/QCDForPF_13p6TeV_TuneCUETP8M1_cfi.py",
-            "Configuration/Generator/python/TTbar_13p6TeV_TuneCUETP8M1_cfi.py",
-            "Configuration/Generator/python/ZTT_All_hadronic_13p6TeV_TuneCUETP8M1_cfi.py",
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
             "RecoParticleFlow/PFProducer/interface/MLPFModel.h",
             "RecoParticleFlow/PFProducer/plugins/MLPFProducer.cc",
@@ -2362,7 +2359,7 @@
         "created_at": 1772722744,
         "number": 50316,
         "state": "open",
-        "updated_at": 1773316181
+        "updated_at": 1773835953
     },
     "50336": {
         "base_branch": "master",
