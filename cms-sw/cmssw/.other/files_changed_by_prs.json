@@ -2299,6 +2299,7 @@
             "PhysicsTools/PatFromScouting/plugins/Run3ScoutingParticleToPackedCandidateProducer.cc",
             "PhysicsTools/PatFromScouting/plugins/Run3ScoutingTrackToRecoTrackProducer.cc",
             "PhysicsTools/PatFromScouting/plugins/Run3ScoutingVertexToRecoVertexProducer.cc",
+            "PhysicsTools/PatFromScouting/plugins/ScoutingDimuonVtxProducer.cc",
             "PhysicsTools/PatFromScouting/plugins/ScoutingRhoProducer.cc",
             "PhysicsTools/PatFromScouting/python/autoPAT.py",
             "PhysicsTools/PatFromScouting/python/nanoAOD_customizations_cff.py",
@@ -2316,7 +2317,7 @@
         "created_at": 1772659709,
         "number": 50307,
         "state": "open",
-        "updated_at": 1773319272
+        "updated_at": 1773929334
     },
     "50316": {
         "base_branch": "master",
