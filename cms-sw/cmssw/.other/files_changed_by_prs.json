@@ -2922,6 +2922,7 @@
             "CondFormats/SiPixelTransient/src/SiPixelTemplate.cc",
             "Configuration/Applications/python/ConfigBuilder.py",
             "Configuration/Eras/python/Era_Phase2C17I13M9_FastSim_cff.py",
+            "Configuration/Eras/python/Era_Phase2C22I13M9_FastSim_cff.py",
             "Configuration/Eras/python/Modifier_phase2_fastSim_cff.py",
             "Configuration/Eras/python/Util_fastSimPhase2_cff.py",
             "Configuration/PyReleaseValidation/python/relval_Run4.py",
@@ -2966,7 +2967,7 @@
         "created_at": 1773686402,
         "number": 50437,
         "state": "open",
-        "updated_at": 1773686442
+        "updated_at": 1773878610
     },
     "50442": {
         "base_branch": "master",
