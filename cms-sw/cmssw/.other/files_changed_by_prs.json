@@ -2384,10 +2384,13 @@
         "changed_files_names": [
             "Geometry/HGCalTBCommonData/data/TB251/hgcal.xml",
             "Geometry/HGCalTBCommonData/data/TB251/hgcalCons.xml",
+            "Geometry/HGCalTBCommonData/data/TB251/hgcalConsData.xml",
             "Geometry/HGCalTBCommonData/data/TB251/hgcalEE.xml",
             "Geometry/HGCalTBCommonData/data/TB251/hgcalPassive.xml",
+            "Geometry/HGCalTBCommonData/data/TB252/hgcalConsData.xml",
             "Geometry/HGCalTBCommonData/data/TB252/hgcalEE.xml",
             "Geometry/HGCalTBCommonData/data/TB252/hgcalPassive.xml",
+            "Geometry/HGCalTBCommonData/plugins/DDHGCalTBSiliconRotatedCassette.cc",
             "Geometry/HGCalTBCommonData/python/testTB251XML_cfi.py",
             "Geometry/HGCalTBCommonData/python/testTB252XML_cfi.py",
             "Geometry/HGCalTBCommonData/test/python/#g4OverlapCheck_cfg.py#",
@@ -2396,7 +2399,7 @@
         "created_at": 1773113718,
         "number": 50356,
         "state": "open",
-        "updated_at": 1773113867
+        "updated_at": 1774004734
     },
     "50374": {
         "base_branch": "master",
