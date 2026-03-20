@@ -2995,5 +2995,18 @@
         "number": 50483,
         "state": "open",
         "updated_at": 1774011876
+    },
+    "50484": {
+        "base_branch": "CMSSW_16_0_X",
+        "changed_files_names": [
+            "HLTriggerOffline/Scouting/plugins/PatElectronTagProbeAnalyzer.cc",
+            "HLTriggerOffline/Scouting/plugins/ScoutingEGammaCollectionMonitoring.cc",
+            "HLTriggerOffline/Scouting/plugins/ScoutingElectronTagProbeAnalyzer.cc",
+            "HLTriggerOffline/Scouting/python/HLTScoutingEGammaDqmOffline_cff.py"
+        ],
+        "created_at": 1774015726,
+        "number": 50484,
+        "state": "open",
+        "updated_at": 1774015751
     }
 }
