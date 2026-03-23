@@ -2352,37 +2352,6 @@
         "state": "open",
         "updated_at": 1773835953
     },
-    "50336": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "Configuration/ProcessModifiers/python/alpakaValidationHLT_cff.py",
-            "Configuration/PyReleaseValidation/README.md",
-            "Configuration/PyReleaseValidation/python/relval_Run4.py",
-            "Configuration/PyReleaseValidation/python/relval_gpu.py",
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
-            "DQM/TrackingMonitorSource/plugins/TrackToTrackComparisonHists.cc",
-            "DQMOffline/Trigger/python/HeterogeneousMonitoringClient_cff.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepSeedsTrackToTrackSerialSync_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrajectorySeedsLSTTracks_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPixelTrackToTrackSerialSync_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPixelTracksSoACompareGPUvsCPU_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPixelTracksSoAMonitorCPU_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPixelTracksSoAMonitorGPU_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/paths/DQM_TRKHeterogeneousValidation_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTDQMTrackReconstruction_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTInitialStepSequence_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPhase2PixelTracksAndVerticesSequence_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPhase2PixelVertexingSequence_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTTrackingSequence_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33_cff.py",
-            "HLTriggerOffline/Common/python/HLTValidation_cff.py",
-            "Validation/Configuration/python/autoValidation.py"
-        ],
-        "created_at": 1772815087,
-        "number": 50336,
-        "state": "open",
-        "updated_at": 1773837661
-    },
     "50352": {
         "base_branch": "CMSSW_16_0_X",
         "changed_files_names": [
