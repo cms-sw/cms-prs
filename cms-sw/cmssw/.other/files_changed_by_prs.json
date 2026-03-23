@@ -2050,14 +2050,6 @@
     "50154": {
         "base_branch": "master",
         "changed_files_names": [
-            "DataFormats/AlpakaCommon/BuildFile.xml",
-            "DataFormats/AlpakaCommon/README.md",
-            "DataFormats/AlpakaCommon/interface/alpaka/DeviceProductType.h",
-            "HeterogeneousCore/AlpakaCore/interface/alpaka/DeviceProductType.h",
-            "DataFormats/AlpakaCommon/interface/alpaka/EDMetadata.h",
-            "HeterogeneousCore/AlpakaCore/interface/alpaka/EDMetadata.h",
-            "DataFormats/AlpakaCommon/src/alpaka/EDMetadata.cc",
-            "HeterogeneousCore/AlpakaCore/src/alpaka/EDMetadata.cc",
             "DataFormats/EcalDigi/plugins/BuildFile.xml",
             "DataFormats/EcalDigi/plugins/alpaka/TrivialSerialisation.cc",
             "DataFormats/EcalRecHit/plugins/BuildFile.xml",
@@ -2079,16 +2071,6 @@
             "DataFormats/TrivialSerialisation/test/alpaka/test_catch2_MemoryCopyTraitsPortable.dev.cc",
             "DataFormats/VertexSoA/plugins/BuildFile.xml",
             "DataFormats/VertexSoA/plugins/alpaka/TrivialSerialisation.cc",
-            "HeterogeneousCore/AlpakaCore/BuildFile.xml",
-            "HeterogeneousCore/AlpakaCore/interface/alpaka/EDGetToken.h",
-            "HeterogeneousCore/AlpakaCore/interface/alpaka/EDMetadataAcquireSentry.h",
-            "HeterogeneousCore/AlpakaCore/interface/alpaka/EDMetadataSentry.h",
-            "HeterogeneousCore/AlpakaCore/interface/alpaka/EDPutToken.h",
-            "HeterogeneousCore/AlpakaCore/interface/alpaka/ESProducer.h",
-            "HeterogeneousCore/AlpakaCore/interface/alpaka/Event.h",
-            "HeterogeneousCore/AlpakaCore/interface/alpaka/ProducerBase.h",
-            "HeterogeneousCore/AlpakaCore/src/alpaka/EDMetadataAcquireSentry.cc",
-            "HeterogeneousCore/AlpakaCore/src/alpaka/ESProducer.cc",
             "HeterogeneousCore/TrivialSerialisation/BuildFile.xml",
             "HeterogeneousCore/TrivialSerialisation/interface/Common.h",
             "HeterogeneousCore/TrivialSerialisation/interface/Reader.h",
@@ -2112,7 +2094,7 @@
         "created_at": 1771257230,
         "number": 50154,
         "state": "open",
-        "updated_at": 1774271047
+        "updated_at": 1774281255
     },
     "50156": {
         "base_branch": "master",
