@@ -2665,10 +2665,16 @@
     "50446": {
         "base_branch": "CMSSW_16_0_X",
         "changed_files_names": [
+            "HeterogeneousCore/MPICore/interface/MPIChannel.h",
+            "HeterogeneousCore/MPICore/interface/api.h",
             "HeterogeneousCore/MPICore/plugins/BuildFile.xml",
+            "HeterogeneousCore/MPICore/plugins/MPIController.cc",
             "HeterogeneousCore/MPICore/plugins/MPIReceiver.cc",
             "HeterogeneousCore/MPICore/plugins/MPISender.cc",
+            "HeterogeneousCore/MPICore/plugins/MPISource.cc",
             "HeterogeneousCore/MPICore/python/configuration_splitter/editor_functions.py",
+            "HeterogeneousCore/MPICore/src/MPIChannel.cc",
+            "HeterogeneousCore/MPICore/src/api.cc",
             "HeterogeneousCore/MPICore/test/controller_filters_cfg.py",
             "HeterogeneousCore/MPICore/test/controller_soa_cfg.py",
             "HeterogeneousCore/MPICore/test/follower_filters_cfg.py",
@@ -2678,7 +2684,7 @@
         "created_at": 1773757234,
         "number": 50446,
         "state": "open",
-        "updated_at": 1773757264
+        "updated_at": 1774249808
     },
     "50452": {
         "base_branch": "CMSSW_16_0_X",
