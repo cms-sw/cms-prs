@@ -2837,5 +2837,20 @@
         "number": 50497,
         "state": "open",
         "updated_at": 1774277011
+    },
+    "50498": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "PhysicsTools/PyTorch/interface/Model.h",
+            "PhysicsTools/PyTorchAlpaka/README.md",
+            "PhysicsTools/PyTorchAlpaka/interface/SoAConversion.h",
+            "PhysicsTools/PyTorchAlpaka/interface/TensorCollection.h",
+            "PhysicsTools/PyTorchAlpaka/interface/TensorHandle.h",
+            "PhysicsTools/PyTorchAlpaka/interface/alpaka/AlpakaModel.h"
+        ],
+        "created_at": 1774282408,
+        "number": 50498,
+        "state": "open",
+        "updated_at": 1774282437
     }
 }
