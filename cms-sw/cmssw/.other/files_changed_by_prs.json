@@ -3119,5 +3119,22 @@
         "number": 50491,
         "state": "open",
         "updated_at": 1774249181
+    },
+    "50492": {
+        "base_branch": "CMSSW_16_0_X",
+        "changed_files_names": [
+            "HeterogeneousCore/MPICore/interface/MPIChannel.h",
+            "HeterogeneousCore/MPICore/interface/api.h",
+            "HeterogeneousCore/MPICore/plugins/MPIController.cc",
+            "HeterogeneousCore/MPICore/plugins/MPIReceiver.cc",
+            "HeterogeneousCore/MPICore/plugins/MPISender.cc",
+            "HeterogeneousCore/MPICore/plugins/MPISource.cc",
+            "HeterogeneousCore/MPICore/src/MPIChannel.cc",
+            "HeterogeneousCore/MPICore/src/api.cc"
+        ],
+        "created_at": 1774249503,
+        "number": 50492,
+        "state": "open",
+        "updated_at": 1774249542
     }
 }
