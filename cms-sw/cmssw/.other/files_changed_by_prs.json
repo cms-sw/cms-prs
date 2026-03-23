@@ -2242,6 +2242,7 @@
             "SimDataFormats/CaloAnalysis/src/SimClusterUtils.cc",
             "SimDataFormats/CaloAnalysis/src/classes_def.xml",
             "SimGeneral/CaloAnalysis/plugins/CaloTruthAccumulator.cc",
+            "SimGeneral/CaloAnalysis/plugins/PreMixingCaloParticleWorker.cc",
             "SimGeneral/MixingModule/python/caloTruthProducer_cfi.py",
             "SimGeneral/MixingModule/python/digitizers_cfi.py",
             "Validation/Configuration/python/hltHGCalSimValid_cff.py",
@@ -2265,7 +2266,7 @@
         "created_at": 1772527151,
         "number": 50292,
         "state": "open",
-        "updated_at": 1773944058
+        "updated_at": 1774265537
     },
     "50307": {
         "base_branch": "master",
