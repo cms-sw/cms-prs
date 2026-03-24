@@ -2753,12 +2753,16 @@
             "PhysicsTools/PyTorchAlpaka/interface/SoAConversion.h",
             "PhysicsTools/PyTorchAlpaka/interface/TensorCollection.h",
             "PhysicsTools/PyTorchAlpaka/interface/TensorHandle.h",
-            "PhysicsTools/PyTorchAlpaka/interface/alpaka/AlpakaModel.h"
+            "PhysicsTools/PyTorchAlpaka/interface/alpaka/AlpakaModel.h",
+            "PhysicsTools/PyTorchAlpakaTest/plugins/InspectionSink.cc",
+            "PhysicsTools/PyTorchAlpakaTest/plugins/alpaka/SimpleNetMiniBatch.cc",
+            "PhysicsTools/PyTorchAlpakaTest/python/options_cff.py",
+            "PhysicsTools/PyTorchAlpakaTest/test/runPyTorchAlpakaTest.py"
         ],
         "created_at": 1774282408,
         "number": 50498,
         "state": "open",
-        "updated_at": 1774282437
+        "updated_at": 1774361783
     },
     "50499": {
         "base_branch": "master",
