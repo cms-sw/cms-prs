@@ -2990,5 +2990,31 @@
         "number": 50510,
         "state": "open",
         "updated_at": 1774351529
+    },
+    "50511": {
+        "base_branch": "CMSSW_16_0_X",
+        "changed_files_names": [
+            "Configuration/DataProcessing/python/Impl/l1Scouting.py",
+            "Configuration/DataProcessing/python/Impl/l1ScoutingEra_Run3_2026.py",
+            "Configuration/DataProcessing/python/Merge.py",
+            "Configuration/DataProcessing/test/BuildFile.xml",
+            "Configuration/DataProcessing/test/RunMerge.py",
+            "Configuration/DataProcessing/test/run_CfgTest_14.sh",
+            "Configuration/Eras/python/Era_Run3_2026_cff.py",
+            "Configuration/Eras/python/Modifier_run3_l1scouting_2026_cff.py",
+            "Configuration/EventContent/python/EventContent_cff.py",
+            "Configuration/PyReleaseValidation/python/relval_nano.py",
+            "L1TriggerScouting/Utilities/plugins/L1ScoutingCaloTowerPhysicalValueMapProducer.cc",
+            "L1TriggerScouting/Utilities/plugins/L1ScoutingEtSumOrbitFlatTableProducer.cc",
+            "L1TriggerScouting/Utilities/plugins/SimpleOrbitFlatTableProducer.cc",
+            "PhysicsTools/NanoAOD/python/L1SCOUTNanoAODEDMEventContent_cff.py",
+            "PhysicsTools/NanoAOD/python/autoNANO.py",
+            "PhysicsTools/NanoAOD/python/custom_l1scoutingrun3_cff.py",
+            "PhysicsTools/NanoAOD/python/l1scoutingrun3_cff.py"
+        ],
+        "created_at": 1774351587,
+        "number": 50511,
+        "state": "open",
+        "updated_at": 1774351617
     }
 }
