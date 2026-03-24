@@ -3016,5 +3016,18 @@
         "number": 50519,
         "state": "open",
         "updated_at": 1774379737
+    },
+    "50520": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FastSimulation/CaloHitMakers/test/testEcalHitMaker.cc",
+            "FastSimulation/MuonSimHitProducer/plugins/MuonSimHitProducer.cc",
+            "FastSimulation/SimplifiedGeometryPropagator/plugins/FastTrackDeDxProducer.cc",
+            "FastSimulation/TrackingRecHitProducer/plugins/TrackingRecHitProducer.cc"
+        ],
+        "created_at": 1774380512,
+        "number": 50520,
+        "state": "open",
+        "updated_at": 1774380537
     }
 }
