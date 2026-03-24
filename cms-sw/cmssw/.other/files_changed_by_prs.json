@@ -3029,5 +3029,30 @@
         "number": 50520,
         "state": "open",
         "updated_at": 1774380537
+    },
+    "50521": {
+        "base_branch": "CMSSW_16_1_EVOLUTION_X",
+        "changed_files_names": [
+            "SimDataFormats/GeneratorProducts/interface/GenEventInfoProduct.h",
+            "SimDataFormats/GeneratorProducts/interface/GenFilterInfo.h",
+            "SimDataFormats/GeneratorProducts/interface/GenLumiInfoHeader.h",
+            "SimDataFormats/GeneratorProducts/interface/GenLumiInfoProduct.h",
+            "SimDataFormats/GeneratorProducts/interface/GenRunInfoProduct.h",
+            "SimDataFormats/GeneratorProducts/interface/LHEEventProduct.h",
+            "SimDataFormats/GeneratorProducts/interface/LHERunInfoProduct.h",
+            "SimDataFormats/GeneratorProducts/interface/LHEXMLStringProduct.h",
+            "SimDataFormats/GeneratorProducts/src/GenEventInfoProduct.cc",
+            "SimDataFormats/GeneratorProducts/src/GenFilterInfo.cc",
+            "SimDataFormats/GeneratorProducts/src/GenLumiInfoProduct.cc",
+            "SimDataFormats/GeneratorProducts/src/GenRunInfoProduct.cc",
+            "SimDataFormats/GeneratorProducts/src/LHEEventProduct.cc",
+            "SimDataFormats/GeneratorProducts/src/LHERunInfoProduct.cc",
+            "SimDataFormats/GeneratorProducts/src/LHEXMLStringProduct.cc",
+            "SimDataFormats/GeneratorProducts/src/classes_def.xml"
+        ],
+        "created_at": 1774381014,
+        "number": 50521,
+        "state": "open",
+        "updated_at": 1774381038
     }
 }
