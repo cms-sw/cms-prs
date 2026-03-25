@@ -2473,33 +2473,6 @@
         "state": "open",
         "updated_at": 1774369507
     },
-    "50500": {
-        "base_branch": "CMSSW_16_0_X",
-        "changed_files_names": [
-            "DataFormats/AlpakaCommon/BuildFile.xml",
-            "DataFormats/AlpakaCommon/README.md",
-            "DataFormats/AlpakaCommon/interface/alpaka/DeviceProductType.h",
-            "HeterogeneousCore/AlpakaCore/interface/alpaka/DeviceProductType.h",
-            "DataFormats/AlpakaCommon/interface/alpaka/EDMetadata.h",
-            "HeterogeneousCore/AlpakaCore/interface/alpaka/EDMetadata.h",
-            "DataFormats/AlpakaCommon/src/alpaka/EDMetadata.cc",
-            "HeterogeneousCore/AlpakaCore/src/alpaka/EDMetadata.cc",
-            "HeterogeneousCore/AlpakaCore/BuildFile.xml",
-            "HeterogeneousCore/AlpakaCore/interface/alpaka/EDGetToken.h",
-            "HeterogeneousCore/AlpakaCore/interface/alpaka/EDMetadataAcquireSentry.h",
-            "HeterogeneousCore/AlpakaCore/interface/alpaka/EDMetadataSentry.h",
-            "HeterogeneousCore/AlpakaCore/interface/alpaka/EDPutToken.h",
-            "HeterogeneousCore/AlpakaCore/interface/alpaka/ESProducer.h",
-            "HeterogeneousCore/AlpakaCore/interface/alpaka/Event.h",
-            "HeterogeneousCore/AlpakaCore/interface/alpaka/ProducerBase.h",
-            "HeterogeneousCore/AlpakaCore/src/alpaka/EDMetadataAcquireSentry.cc",
-            "HeterogeneousCore/AlpakaCore/src/alpaka/ESProducer.cc"
-        ],
-        "created_at": 1774295955,
-        "number": 50500,
-        "state": "open",
-        "updated_at": 1774296046
-    },
     "50502": {
         "base_branch": "master",
         "changed_files_names": [
