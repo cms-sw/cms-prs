@@ -2913,5 +2913,20 @@
         "number": 50533,
         "state": "open",
         "updated_at": 1774444148
+    },
+    "50534": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "PhysicsTools/IsolationAlgos/plugins/CITKPFIsolationSumProducer.cc",
+            "PhysicsTools/IsolationAlgos/plugins/CITKPFIsolationSumProducerForPUPPI.cc",
+            "PhysicsTools/NanoAOD/plugins/L1TriggerResultsConverter.cc",
+            "PhysicsTools/PatAlgos/plugins/PATTriggerEventProducer.cc",
+            "PhysicsTools/PatAlgos/plugins/PATTriggerProducer.cc",
+            "PhysicsTools/TagAndProbe/interface/TriggerCandProducer.h"
+        ],
+        "created_at": 1774444963,
+        "number": 50534,
+        "state": "open",
+        "updated_at": 1774444990
     }
 }
