@@ -2991,5 +2991,23 @@
         "number": 50539,
         "state": "open",
         "updated_at": 1774450315
+    },
+    "50540": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoLocalCalo/CaloTowersCreator/src/CaloTowersCreator.cc",
+            "RecoLocalCalo/HGCalRecAlgos/test/alpaka/HGCalRecHitESProducersTest.cc",
+            "RecoLocalCalo/HcalRecProducers/plugins/ZdcHitReconstructor_Run3.h",
+            "RecoLocalCalo/HcalRecProducers/src/HBHEPhase1Reconstructor.cc",
+            "RecoLocalCalo/HcalRecProducers/src/HFPhase1Reconstructor.cc",
+            "RecoLocalCalo/HcalRecProducers/src/HcalHitReconstructor.h",
+            "RecoLocalCalo/HcalRecProducers/src/HcalSimpleReconstructor.h",
+            "RecoLocalCalo/HcalRecProducers/src/ZdcHitReconstructor.h",
+            "RecoLocalCalo/HcalRecProducers/src/ZdcSimpleReconstructor.h"
+        ],
+        "created_at": 1774451414,
+        "number": 50540,
+        "state": "open",
+        "updated_at": 1774451440
     }
 }
