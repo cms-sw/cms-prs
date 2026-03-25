@@ -3030,5 +3030,16 @@
         "number": 50542,
         "state": "open",
         "updated_at": 1774452058
+    },
+    "50543": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoLocalTracker/Phase2TrackerRecHits/plugins/alpaka/Phase2OTRecHitsSoAConverter.cc",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelPhase2DigiToCluster.cc"
+        ],
+        "created_at": 1774452765,
+        "number": 50543,
+        "state": "open",
+        "updated_at": 1774452787
     }
 }
