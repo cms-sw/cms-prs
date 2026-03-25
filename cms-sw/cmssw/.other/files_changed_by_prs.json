@@ -3052,5 +3052,18 @@
         "number": 50544,
         "state": "open",
         "updated_at": 1774462501
+    },
+    "50546": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoMuon/MuonIdentification/plugins/InterestingEcalDetIdProducer.h",
+            "RecoMuon/MuonIdentification/plugins/MuonIdProducer.h",
+            "RecoMuon/MuonSeedGenerator/src/RPCSeedGenerator.cc",
+            "RecoMuon/TrackerSeedGenerator/plugins/TSGFromL2Muon.h"
+        ],
+        "created_at": 1774464897,
+        "number": 50546,
+        "state": "open",
+        "updated_at": 1774464921
     }
 }
