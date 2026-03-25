@@ -2865,5 +2865,20 @@
         "number": 50529,
         "state": "open",
         "updated_at": 1774421673
+    },
+    "50530": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h",
+            "SimG4CMS/Calo/plugins/HGCalTestScintHits.cc",
+            "SimG4CMS/Calo/src/HGCScintSD.cc",
+            "SimG4CMS/Calo/test/python/minbiasRun4_cfg.py",
+            "SimG4CMS/Calo/test/python/runHGC1_cfg.py",
+            "SimG4CMS/Calo/test/python/runHGC8_cfg.py"
+        ],
+        "created_at": 1774432378,
+        "number": 50530,
+        "state": "open",
+        "updated_at": 1774432402
     }
 }
