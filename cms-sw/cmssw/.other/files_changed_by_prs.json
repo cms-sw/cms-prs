@@ -3162,5 +3162,22 @@
         "number": 50551,
         "state": "open",
         "updated_at": 1774468240
+    },
+    "50552": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoTracker/CkfPattern/plugins/CkfTrackCandidateMaker.h",
+            "RecoTracker/CkfPattern/plugins/CkfTrajectoryMaker.h",
+            "RecoTracker/DeDx/plugins/DeDxEstimatorProducer.h",
+            "RecoTracker/DeDx/plugins/DeDxHitCalibrator.cc",
+            "RecoTracker/DeDx/plugins/DeDxHitInfoProducer.cc",
+            "RecoTracker/FinalTrackSelectors/plugins/TrackCandidateTopBottomHitFilter.cc",
+            "RecoTracker/NuclearSeedGenerator/interface/NuclearSeedsEDProducer.h",
+            "RecoTracker/SpecialSeedGenerators/interface/CtfSpecialSeedGenerator.h"
+        ],
+        "created_at": 1774468662,
+        "number": 50552,
+        "state": "open",
+        "updated_at": 1774468684
     }
 }
