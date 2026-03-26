@@ -2796,5 +2796,22 @@
         "number": 50561,
         "state": "open",
         "updated_at": 1774530275
+    },
+    "50562": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "SimMuon/CSCDigitizer/plugins/CSCChamberMasker.cc",
+            "SimMuon/GEMDigitizer/plugins/GEMDigiProducer.cc",
+            "SimMuon/GEMDigitizer/plugins/ME0DigiPreRecoProducer.cc",
+            "SimMuon/GEMDigitizer/plugins/ME0DigiProducer.cc",
+            "SimMuon/GEMDigitizer/plugins/ME0ReDigiProducer.cc",
+            "SimMuon/RPCDigitizer/plugins/RPCChamberMasker.cc",
+            "SimMuon/RPCDigitizer/src/RPCDigiProducer.h",
+            "SimMuon/RPCDigitizer/src/RPCandIRPCDigiProducer.h"
+        ],
+        "created_at": 1774535043,
+        "number": 50562,
+        "state": "open",
+        "updated_at": 1774535069
     }
 }
