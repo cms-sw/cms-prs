@@ -2589,26 +2589,6 @@
         "state": "open",
         "updated_at": 1774366742
     },
-    "50519": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "EventFilter/CastorRawToDigi/plugins/CastorRawToDigi.h",
-            "EventFilter/EcalRawToDigi/plugins/EcalRawToDigi.cc",
-            "EventFilter/HGCalRawToDigi/plugins/HGCalRawToDigi.cc",
-            "EventFilter/L1TRawToDigi/plugins/OmtfPacker.cc",
-            "EventFilter/L1TRawToDigi/plugins/OmtfUnpacker.cc",
-            "EventFilter/RPCRawToDigi/plugins/RPCAMCRawToDigi.h",
-            "EventFilter/RPCRawToDigi/plugins/RPCTwinMuxDigiToRaw.h",
-            "EventFilter/RPCRawToDigi/plugins/RPCTwinMuxRawToDigi.h",
-            "EventFilter/RPCRawToDigi/plugins/RPCUnpackingModule.h",
-            "EventFilter/SiStripRawToDigi/test/plugins/SiStripTrivialClusterSource.cc",
-            "EventFilter/Utilities/plugins/ExceptionGenerator.h"
-        ],
-        "created_at": 1774379712,
-        "number": 50519,
-        "state": "open",
-        "updated_at": 1774379737
-    },
     "50520": {
         "base_branch": "master",
         "changed_files_names": [
