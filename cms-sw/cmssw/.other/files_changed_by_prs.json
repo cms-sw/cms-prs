@@ -2826,20 +2826,9 @@
             "PhysicsTools/NanoAOD/interface/AssociationMapFlatTableProducer.h",
             "RecoHGCal/TICL/interface/alpaka/PatternRecognitionAlgoBase.h",
             "RecoHGCal/TICL/plugins/BuildFile.xml",
-            "RecoHGCal/TICL/plugins/alpaka/ClusterFilterByAlgoAndSize.dev.cc",
-            "RecoHGCal/TICL/plugins/alpaka/ClusterFilterByAlgoAndSize.h",
-            "RecoHGCal/TICL/plugins/alpaka/FilteredLayerClustersProducer.cc",
-            "RecoHGCal/TICL/plugins/alpaka/HeterogeneousTracksterProducer.cc",
-            "RecoHGCal/TICL/plugins/alpaka/PatternRecognitionByCLUEstering.dev.cc",
-            "RecoHGCal/TICL/plugins/alpaka/PatternRecognitionByCLUEstering.h",
-            "RecoHGCal/TICL/plugins/alpaka/PatternRecognitionPluginFactory.dev.cc",
-            "RecoHGCal/TICL/plugins/alpaka/PatternRecognitionPluginFactory.h",
-            "RecoLocalCalo/HGCalRecProducers/interface/HGCalClusteringAlgoBase.h",
             "RecoLocalCalo/HGCalRecProducers/interface/HGCalImagingAlgo.h",
             "RecoLocalCalo/HGCalRecProducers/interface/LayerClusterAndAssociations.h",
             "RecoLocalCalo/HGCalRecProducers/plugins/BuildFile.xml",
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalCLUEAlgo.cc",
-            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalCLUEAlgo.h",
             "RecoLocalCalo/HGCalRecProducers/plugins/HGCalImagingAlgo.cc",
             "RecoLocalCalo/HGCalRecProducers/plugins/HGCalLayerClusterProducer.cc",
             "RecoLocalCalo/HGCalRecProducers/plugins/SealModules.cc",
@@ -2848,15 +2837,12 @@
             "RecoLocalCalo/HGCalRecProducers/plugins/alpaka/HGCalSoALayerClustersProducer.cc",
             "RecoLocalCalo/HGCalRecProducers/plugins/alpaka/LayerClusterMergingAlgo.dev.cc",
             "RecoLocalCalo/HGCalRecProducers/plugins/alpaka/LayerClusterMergingAlgo.h",
-            "RecoLocalCalo/HGCalRecProducers/plugins/alpaka/MergedLayerClusterProducer.cc",
-            "RecoParticleFlow/PFClusterProducer/plugins/BarrelCLUEAlgo.cc",
-            "RecoParticleFlow/PFClusterProducer/plugins/BarrelCLUEAlgo.h",
-            "RecoParticleFlow/PFClusterProducer/plugins/BarrelLayerClusterProducer.cc"
+            "RecoLocalCalo/HGCalRecProducers/plugins/alpaka/MergedLayerClusterProducer.cc"
         ],
         "created_at": 1774544535,
         "number": 50565,
         "state": "open",
-        "updated_at": 1774544576
+        "updated_at": 1774579325
     },
     "50566": {
         "base_branch": "master",
