@@ -2847,5 +2847,23 @@
         "number": 50575,
         "state": "open",
         "updated_at": 1774602650
+    },
+    "50578": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "SimCalorimetry/Configuration/python/SimCalorimetry_EventContent_cff.py",
+            "SimDataFormats/CaloAnalysis/interface/CaloParticle.h",
+            "SimDataFormats/CaloAnalysis/interface/SimCluster.h",
+            "SimDataFormats/CaloAnalysis/src/SimCluster.cc",
+            "SimDataFormats/CaloAnalysis/src/classes_def.xml",
+            "SimGeneral/CaloAnalysis/plugins/BuildFile.xml",
+            "SimGeneral/CaloAnalysis/plugins/CaloTruthAccumulator.cc",
+            "SimGeneral/MixingModule/interface/DecayGraph.h",
+            "SimGeneral/MixingModule/python/caloTruthProducer_cfi.py"
+        ],
+        "created_at": 1774612207,
+        "number": 50578,
+        "state": "open",
+        "updated_at": 1774612235
     }
 }
