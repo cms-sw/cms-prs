@@ -2573,6 +2573,7 @@
             "FWCore/Framework/src/stream/EDAnalyzerAdaptorBase.cc",
             "FWCore/Framework/src/stream/EDProducerBase.cc",
             "FWCore/Framework/src/stream/ProducingModuleAdaptorBase.cc",
+            "FWCore/Framework/test/stubs/TestStreamProducers.cc",
             "FWCore/Framework/test/unit_test_outputs/test_deepCall_unscheduled.log",
             "FWCore/Framework/test/unit_test_outputs/test_onPath_unscheduled.log",
             "FWCore/Services/test/AsyncServiceTester.cc",
@@ -2584,7 +2585,7 @@
         "created_at": 1774614004,
         "number": 50579,
         "state": "open",
-        "updated_at": 1774614032
+        "updated_at": 1774978085
     },
     "50585": {
         "base_branch": "master",
