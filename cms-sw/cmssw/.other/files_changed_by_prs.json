@@ -2874,5 +2874,21 @@
         "number": 50598,
         "state": "open",
         "updated_at": 1774947260
+    },
+    "50599": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HLTriggerOffline/Scouting/plugins/PatElectronTagProbeAnalyzer.cc",
+            "HLTriggerOffline/Scouting/plugins/ScoutingElectronTagProbeAnalyzer.cc",
+            "HLTriggerOffline/Scouting/plugins/ScoutingMuonTagProbeAnalyzer.cc",
+            "HLTriggerOffline/Scouting/plugins/ScoutingMuonTriggerAnalyzer.cc",
+            "HLTriggerOffline/Scouting/plugins/ScoutingRecHitAnalyzer.cc",
+            "HLTriggerOffline/Scouting/test/BuildFile.xml",
+            "HLTriggerOffline/Scouting/test/testHLTScoutingDQMAnalyzers.cc"
+        ],
+        "created_at": 1774951699,
+        "number": 50599,
+        "state": "open",
+        "updated_at": 1774951730
     }
 }
