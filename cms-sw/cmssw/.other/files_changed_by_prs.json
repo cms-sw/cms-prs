@@ -2877,5 +2877,21 @@
         "number": 50610,
         "state": "open",
         "updated_at": 1774983144
+    },
+    "50611": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/Eras/python/Era_Run3_2025_FtoG_cff.py",
+            "Configuration/Eras/python/Era_Run3_2025_cff.py",
+            "Configuration/Eras/python/Modifier_run3_CSC_2025_AtoE_cff.py",
+            "Configuration/Eras/python/Modifier_run3_CSC_2025_cff.py",
+            "Configuration/Eras/python/Modifier_run3_CSC_2025_FtoG_cff.py",
+            "Configuration/StandardSequences/python/Eras.py",
+            "L1Trigger/CSCTriggerPrimitives/python/cscTriggerPrimitiveDigis_cfi.py"
+        ],
+        "created_at": 1774986317,
+        "number": 50611,
+        "state": "open",
+        "updated_at": 1774986346
     }
 }
