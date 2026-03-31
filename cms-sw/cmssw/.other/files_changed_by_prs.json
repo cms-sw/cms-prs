@@ -2910,5 +2910,19 @@
         "number": 50597,
         "state": "open",
         "updated_at": 1774945964
+    },
+    "50598": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQM/HcalCommon/src/DQClient.cc",
+            "DQM/HcalCommon/src/DQTask.cc",
+            "DQM/HcalTasks/interface/DigiRunSummary.h",
+            "DQM/HcalTasks/plugins/DigiTask.cc",
+            "DQM/HcalTasks/src/DigiRunSummary.cc"
+        ],
+        "created_at": 1774947236,
+        "number": 50598,
+        "state": "open",
+        "updated_at": 1774947260
     }
 }
