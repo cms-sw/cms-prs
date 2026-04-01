@@ -2834,5 +2834,18 @@
         "number": 50623,
         "state": "open",
         "updated_at": 1775064389
+    },
+    "50624": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "GeneratorInterface/Core/bin/BuildFile.xml",
+            "GeneratorInterface/Core/bin/ExternalRandomNumberGeneratorService.cc",
+            "GeneratorInterface/Core/src/ExternalRandomNumberGeneratorService.cc",
+            "GeneratorInterface/Core/plugins/ExternalGeneratorFilter.cc"
+        ],
+        "created_at": 1775068990,
+        "number": 50624,
+        "state": "open",
+        "updated_at": 1775069020
     }
 }
