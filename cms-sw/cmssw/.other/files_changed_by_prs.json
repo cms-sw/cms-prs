@@ -2733,12 +2733,13 @@
     "50603": {
         "base_branch": "master",
         "changed_files_names": [
-            "RecoParticleFlow/PFClusterProducer/plugins/LegacyMultiDepthPFClusterProducer.cc"
+            "RecoParticleFlow/PFClusterProducer/plugins/LegacyMultiDepthPFClusterProducer.cc",
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusterSoAProducer.cc"
         ],
         "created_at": 1774963613,
         "number": 50603,
         "state": "open",
-        "updated_at": 1774963641
+        "updated_at": 1775044798
     },
     "50604": {
         "base_branch": "CMSSW_16_0_X",
