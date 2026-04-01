@@ -2883,5 +2883,26 @@
         "number": 50626,
         "state": "open",
         "updated_at": 1775070248
+    },
+    "50627": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HeterogeneousCore/AlpakaCore/README.md",
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/EDMetadataSentry.h",
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/stream/FixedQueueEDProducer.h",
+            "HeterogeneousCore/AlpakaCore/src/alpaka/EDMetadataSentry.cc",
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamFixedQueueProducer.cc",
+            "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamFixedQueueProducerE.cc",
+            "HeterogeneousCore/AlpakaTest/test/testAlpakaModules_cfg.py",
+            "PhysicsTools/PyTorchAlpakaTest/plugins/alpaka/DataSource.cc",
+            "PhysicsTools/PyTorchAlpakaTest/plugins/alpaka/MaskedNet.cc",
+            "PhysicsTools/PyTorchAlpakaTest/plugins/alpaka/MultiHeadNet.cc",
+            "PhysicsTools/PyTorchAlpakaTest/plugins/alpaka/SimpleNet.cc",
+            "PhysicsTools/PyTorchAlpakaTest/plugins/alpaka/TinyResNet.cc"
+        ],
+        "created_at": 1775070324,
+        "number": 50627,
+        "state": "open",
+        "updated_at": 1775070350
     }
 }
