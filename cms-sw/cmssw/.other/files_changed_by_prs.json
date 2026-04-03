@@ -2582,12 +2582,14 @@
             "DQM/HcalTasks/interface/DigiRunSummary.h",
             "DQM/HcalTasks/interface/DigiTask.h",
             "DQM/HcalTasks/plugins/DigiTask.cc",
+            "DQM/HcalTasks/python/DigiTask_cfi.py",
+            "DQM/HcalTasks/python/HcalOfflineHarvesting_cfi.py",
             "DQM/HcalTasks/src/DigiRunSummary.cc"
         ],
         "created_at": 1774945689,
         "number": 50596,
         "state": "open",
-        "updated_at": 1775108338
+        "updated_at": 1775178487
     },
     "50598": {
         "base_branch": "master",
