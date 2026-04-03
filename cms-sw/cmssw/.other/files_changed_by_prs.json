@@ -2736,6 +2736,7 @@
         "changed_files_names": [
             "HeterogeneousCore/AlpakaCore/README.md",
             "HeterogeneousCore/AlpakaCore/interface/alpaka/EDMetadataSentry.h",
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/Event.h",
             "HeterogeneousCore/AlpakaCore/interface/alpaka/stream/FixedQueueEDProducer.h",
             "HeterogeneousCore/AlpakaCore/src/alpaka/EDMetadataSentry.cc",
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamFixedQueueProducer.cc",
@@ -2750,7 +2751,7 @@
         "created_at": 1775070324,
         "number": 50627,
         "state": "open",
-        "updated_at": 1775086959
+        "updated_at": 1775211960
     },
     "50628": {
         "base_branch": "CMSSW_14_2_X",
