@@ -2734,14 +2734,25 @@
     "50627": {
         "base_branch": "master",
         "changed_files_names": [
+            "DataFormats/AlpakaCommon/interface/alpaka/EDMetadata.h",
             "HeterogeneousCore/AlpakaCore/README.md",
+            "HeterogeneousCore/AlpakaCore/interface/CopyToDeviceCache.h",
             "HeterogeneousCore/AlpakaCore/interface/alpaka/EDMetadataSentry.h",
             "HeterogeneousCore/AlpakaCore/interface/alpaka/Event.h",
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/Record.h",
             "HeterogeneousCore/AlpakaCore/interface/alpaka/stream/FixedQueueEDProducer.h",
+            "HeterogeneousCore/AlpakaCore/src/alpaka/EDMetadataAcquireSentry.cc",
             "HeterogeneousCore/AlpakaCore/src/alpaka/EDMetadataSentry.cc",
+            "HeterogeneousCore/AlpakaCore/src/alpaka/ESProducer.cc",
+            "HeterogeneousCore/AlpakaInterface/interface/EventCache.h",
+            "HeterogeneousCore/AlpakaCore/interface/EventCache.h",
+            "HeterogeneousCore/AlpakaInterface/interface/QueueCache.h",
+            "HeterogeneousCore/AlpakaCore/interface/QueueCache.h",
+            "HeterogeneousCore/AlpakaServices/src/alpaka/AlpakaService.cc",
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamFixedQueueProducer.cc",
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamFixedQueueProducerE.cc",
             "HeterogeneousCore/AlpakaTest/test/testAlpakaModules_cfg.py",
+            "HeterogeneousCore/TrivialSerialisation/test/alpaka/test_catch2_portableCollectionsSerialiserPluginFactory.dev.cc",
             "PhysicsTools/PyTorchAlpakaTest/plugins/alpaka/DataSource.cc",
             "PhysicsTools/PyTorchAlpakaTest/plugins/alpaka/MaskedNet.cc",
             "PhysicsTools/PyTorchAlpakaTest/plugins/alpaka/MultiHeadNet.cc",
@@ -2751,7 +2762,7 @@
         "created_at": 1775070324,
         "number": 50627,
         "state": "open",
-        "updated_at": 1775211960
+        "updated_at": 1775283064
     },
     "50628": {
         "base_branch": "CMSSW_14_2_X",
