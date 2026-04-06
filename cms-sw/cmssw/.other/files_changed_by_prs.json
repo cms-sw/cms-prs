@@ -3070,5 +3070,17 @@
         "number": 50666,
         "state": "open",
         "updated_at": 1775457782
+    },
+    "50667": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h",
+            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc",
+            "SimG4CMS/Calo/src/HGCScintSD.cc"
+        ],
+        "created_at": 1775459479,
+        "number": 50667,
+        "state": "open",
+        "updated_at": 1775459517
     }
 }
