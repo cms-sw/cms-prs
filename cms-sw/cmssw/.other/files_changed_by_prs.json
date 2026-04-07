@@ -2427,38 +2427,6 @@
         "state": "open",
         "updated_at": 1775299849
     },
-    "50579": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "FWCore/Framework/interface/stream/AbilityChecker.h",
-            "FWCore/Framework/interface/stream/EDAnalyzer.h",
-            "FWCore/Framework/interface/stream/EDAnalyzerAdaptor.h",
-            "FWCore/Framework/interface/stream/EDAnalyzerAdaptorBase.h",
-            "FWCore/Framework/interface/stream/EDAnalyzerBase.h",
-            "FWCore/Framework/interface/stream/EDFilter.h",
-            "FWCore/Framework/interface/stream/EDFilterBase.h",
-            "FWCore/Framework/interface/stream/EDProducer.h",
-            "FWCore/Framework/interface/stream/EDProducerBase.h",
-            "FWCore/Framework/interface/stream/ProducingModuleAdaptor.h",
-            "FWCore/Framework/interface/stream/ProducingModuleAdaptorBase.h",
-            "FWCore/Framework/interface/stream/implementors.h",
-            "FWCore/Framework/src/stream/EDAnalyzerAdaptorBase.cc",
-            "FWCore/Framework/src/stream/EDProducerBase.cc",
-            "FWCore/Framework/src/stream/ProducingModuleAdaptorBase.cc",
-            "FWCore/Framework/test/stubs/TestStreamProducers.cc",
-            "FWCore/Framework/test/unit_test_outputs/test_deepCall_unscheduled.log",
-            "FWCore/Framework/test/unit_test_outputs/test_onPath_unscheduled.log",
-            "FWCore/Services/test/AsyncServiceTester.cc",
-            "FWIO/RNTupleTempTests/test/unit_test_outputs/testGetBy1.log",
-            "FWIO/RNTupleTempTests/test/unit_test_outputs/testGetBy2.log",
-            "IOPool/Tests/test/unit_test_outputs/testGetBy1.log",
-            "IOPool/Tests/test/unit_test_outputs/testGetBy2.log"
-        ],
-        "created_at": 1774614004,
-        "number": 50579,
-        "state": "open",
-        "updated_at": 1775526898
-    },
     "50585": {
         "base_branch": "master",
         "changed_files_names": [
