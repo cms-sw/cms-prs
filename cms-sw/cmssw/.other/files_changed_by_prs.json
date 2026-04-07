@@ -2052,6 +2052,7 @@
             "SimDataFormats/Associations/interface/LayerClusterToSimClusterAssociatorBaseImpl.h",
             "SimDataFormats/Associations/src/LayerClusterToCaloParticleAssociatorBaseImpl.cc",
             "SimDataFormats/Associations/src/LayerClusterToSimClusterAssociatorBaseImpl.cc",
+            "SimDataFormats/Associations/src/classes_def.xml",
             "SimDataFormats/CaloAnalysis/interface/MtdSimCluster.h",
             "SimDataFormats/CaloAnalysis/interface/SimCluster.h",
             "SimDataFormats/CaloAnalysis/interface/SimClusterFwd.h",
@@ -2063,6 +2064,7 @@
             "SimGeneral/CaloAnalysis/plugins/PreMixingCaloParticleWorker.cc",
             "SimGeneral/MixingModule/python/caloTruthProducer_cfi.py",
             "SimGeneral/MixingModule/python/digitizers_cfi.py",
+            "Validation/Configuration/python/hgcalSimValid_cff.py",
             "Validation/Configuration/python/hltHGCalSimValid_cff.py",
             "Validation/HGCalValidation/plugins/BarrelValidator.cc",
             "Validation/HGCalValidation/plugins/HGCalValidator.cc",
@@ -2084,7 +2086,7 @@
         "created_at": 1772527151,
         "number": 50292,
         "state": "open",
-        "updated_at": 1775299906
+        "updated_at": 1775577920
     },
     "50316": {
         "base_branch": "master",
