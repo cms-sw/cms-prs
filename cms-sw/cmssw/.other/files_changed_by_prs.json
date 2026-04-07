@@ -2377,12 +2377,16 @@
     "50563": {
         "base_branch": "master",
         "changed_files_names": [
-            "HeterogeneousCore/AlpakaInterface/interface/OneToManyAssoc.h"
+            "HeterogeneousCore/AlpakaInterface/interface/OneToManyAssoc.h",
+            "HeterogeneousCore/AlpakaInterface/interface/prefixScan.h",
+            "HeterogeneousCore/AlpakaInterface/src/prefixScan.cc",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToClusterKernel.dev.cc",
+            "RecoLocalTracker/SiStripClusterizer/plugins/alpaka/SiStripRawToClusterAlgo.dev.cc"
         ],
         "created_at": 1774535847,
         "number": 50563,
         "state": "open",
-        "updated_at": 1775299858
+        "updated_at": 1775547169
     },
     "50565": {
         "base_branch": "master",
