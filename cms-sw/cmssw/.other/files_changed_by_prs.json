@@ -2915,5 +2915,33 @@
         "number": 50674,
         "state": "open",
         "updated_at": 1775548752
+    },
+    "50675": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/AlpakaCommon/interface/alpaka/EDMetadata.h",
+            "DataFormats/AlpakaCommon/src/alpaka/EDMetadata.cc",
+            "HeterogeneousCore/AlpakaCore/README.md",
+            "HeterogeneousCore/AlpakaCore/interface/CopyToDeviceCache.h",
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/EDMetadataSentry.h",
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/Event.h",
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/ProducerBase.h",
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/Record.h",
+            "HeterogeneousCore/AlpakaCore/src/alpaka/EDMetadataAcquireSentry.cc",
+            "HeterogeneousCore/AlpakaCore/src/alpaka/EDMetadataSentry.cc",
+            "HeterogeneousCore/AlpakaCore/src/alpaka/ESProducer.cc",
+            "HeterogeneousCore/AlpakaInterface/interface/EventCache.h",
+            "HeterogeneousCore/AlpakaCore/interface/EventCache.h",
+            "HeterogeneousCore/AlpakaInterface/interface/QueueCache.h",
+            "HeterogeneousCore/AlpakaCore/interface/QueueCache.h",
+            "HeterogeneousCore/AlpakaServices/src/alpaka/AlpakaService.cc",
+            "HeterogeneousCore/TrivialSerialisation/interface/alpaka/Serialiser.h",
+            "HeterogeneousCore/TrivialSerialisation/interface/alpaka/SerialiserBase.h",
+            "HeterogeneousCore/TrivialSerialisation/test/alpaka/test_catch2_portableCollectionsSerialiserPluginFactory.dev.cc"
+        ],
+        "created_at": 1775550448,
+        "number": 50675,
+        "state": "open",
+        "updated_at": 1775550472
     }
 }
