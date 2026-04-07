@@ -2669,24 +2669,6 @@
         "state": "open",
         "updated_at": 1775502169
     },
-    "50629": {
-        "base_branch": "CMSSW_15_0_X",
-        "changed_files_names": [
-            "PhysicsTools/HepMCCandAlgos/plugins/GenPlusSimParticleProducer.cc",
-            "SimG4Core/CustomPhysics/BuildFile.xml",
-            "SimG4Core/CustomPhysics/data/RhadronPythiaDecayerCommands.txt",
-            "SimG4Core/CustomPhysics/interface/RHadronPythiaDecayer.h",
-            "SimG4Core/CustomPhysics/python/CustomPhysics_cfi.py",
-            "SimG4Core/CustomPhysics/python/Exotica_HSCP_SIM_cfi.py",
-            "SimG4Core/CustomPhysics/src/CustomParticleFactory.cc",
-            "SimG4Core/CustomPhysics/src/CustomPhysicsList.cc",
-            "SimG4Core/CustomPhysics/src/RHadronPythiaDecayer.cc"
-        ],
-        "created_at": 1775070732,
-        "number": 50629,
-        "state": "open",
-        "updated_at": 1775185806
-    },
     "50633": {
         "base_branch": "master",
         "changed_files_names": [
