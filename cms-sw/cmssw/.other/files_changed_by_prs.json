@@ -2632,10 +2632,12 @@
         "base_branch": "master",
         "changed_files_names": [
             "DataFormats/AlpakaCommon/interface/alpaka/EDMetadata.h",
+            "DataFormats/AlpakaCommon/src/alpaka/EDMetadata.cc",
             "HeterogeneousCore/AlpakaCore/README.md",
             "HeterogeneousCore/AlpakaCore/interface/CopyToDeviceCache.h",
             "HeterogeneousCore/AlpakaCore/interface/alpaka/EDMetadataSentry.h",
             "HeterogeneousCore/AlpakaCore/interface/alpaka/Event.h",
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/ProducerBase.h",
             "HeterogeneousCore/AlpakaCore/interface/alpaka/Record.h",
             "HeterogeneousCore/AlpakaCore/interface/alpaka/stream/FixedQueueEDProducer.h",
             "HeterogeneousCore/AlpakaCore/src/alpaka/EDMetadataAcquireSentry.cc",
@@ -2649,6 +2651,8 @@
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamFixedQueueProducer.cc",
             "HeterogeneousCore/AlpakaTest/plugins/alpaka/TestAlpakaStreamFixedQueueProducerE.cc",
             "HeterogeneousCore/AlpakaTest/test/testAlpakaModules_cfg.py",
+            "HeterogeneousCore/TrivialSerialisation/interface/alpaka/Serialiser.h",
+            "HeterogeneousCore/TrivialSerialisation/interface/alpaka/SerialiserBase.h",
             "HeterogeneousCore/TrivialSerialisation/test/alpaka/test_catch2_portableCollectionsSerialiserPluginFactory.dev.cc",
             "PhysicsTools/PyTorchAlpakaTest/plugins/alpaka/DataSource.cc",
             "PhysicsTools/PyTorchAlpakaTest/plugins/alpaka/MaskedNet.cc",
@@ -2659,7 +2663,7 @@
         "created_at": 1775070324,
         "number": 50627,
         "state": "open",
-        "updated_at": 1775550532
+        "updated_at": 1775570084
     },
     "50633": {
         "base_branch": "master",
