@@ -2959,5 +2959,19 @@
         "number": 50676,
         "state": "open",
         "updated_at": 1775558698
+    },
+    "50677": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/plugins/DDHGCalMixRotatedFineCassette.cc",
+            "Geometry/HGCalCommonData/plugins/DDHGCalSiliconRotatedCassette.cc",
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalMixRotatedFineCassette.cc",
+            "Geometry/HGCalCommonData/plugins/dd4hep/DDHGCalSiliconRotatedCassette.cc",
+            "Geometry/HGCalCommonData/test/python/dumpHGCalDD4hep_cfg.py"
+        ],
+        "created_at": 1775559069,
+        "number": 50677,
+        "state": "open",
+        "updated_at": 1775559098
     }
 }
