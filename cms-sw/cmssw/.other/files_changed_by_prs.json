@@ -2662,12 +2662,13 @@
     "50654": {
         "base_branch": "CMSSW_16_0_X",
         "changed_files_names": [
-            "DQM/Integration/python/clients/ngt_dqm_sourceclient-live_cfg.py"
+            "DQM/Integration/python/clients/ngt_dqm_sourceclient-live_cfg.py",
+            "DQMOffline/Trigger/plugins/HLTFiltersDQMonitor.cc"
         ],
         "created_at": 1775205354,
         "number": 50654,
         "state": "open",
-        "updated_at": 1775213212
+        "updated_at": 1775628564
     },
     "50658": {
         "base_branch": "CMSSW_16_0_X",
