@@ -2983,5 +2983,16 @@
         "number": 50687,
         "state": "open",
         "updated_at": 1775624814
+    },
+    "50688": {
+        "base_branch": "CMSSW_16_0_X",
+        "changed_files_names": [
+            "Alignment/OfflineValidation/plugins/ShortenedTrackValidation.cc",
+            "DQM/TrackingMonitorSource/plugins/ShortenedTrackResolution.cc"
+        ],
+        "created_at": 1775624874,
+        "number": 50688,
+        "state": "open",
+        "updated_at": 1775624919
     }
 }
