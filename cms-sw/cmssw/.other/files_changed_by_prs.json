@@ -2943,5 +2943,19 @@
         "number": 50688,
         "state": "open",
         "updated_at": 1775624919
+    },
+    "50689": {
+        "base_branch": "CMSSW_16_1_X",
+        "changed_files_names": [
+            "DQM/HcalTasks/interface/LEDTask.h",
+            "DQM/HcalTasks/interface/PedestalTask.h",
+            "DQM/HcalTasks/plugins/DigiTask.cc",
+            "DQM/HcalTasks/plugins/LEDTask.cc",
+            "DQM/HcalTasks/plugins/PedestalTask.cc"
+        ],
+        "created_at": 1775635694,
+        "number": 50689,
+        "state": "open",
+        "updated_at": 1775635724
     }
 }
