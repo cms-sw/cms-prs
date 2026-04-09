@@ -2840,12 +2840,14 @@
     "50690": {
         "base_branch": "master",
         "changed_files_names": [
-            "RecoLocalTracker/SiStripClusterizer/plugins/SiStripClustersToLegacy.cc"
+            "RecoLocalTracker/SiStripClusterizer/plugins/SiStripClustersToLegacy.cc",
+            "RecoLocalTracker/SiStripClusterizer/plugins/alpaka/SiStripRawToCluster.cc",
+            "RecoLocalTracker/SiStripClusterizer/plugins/alpaka/SiStripRawToClusterAlgo.dev.cc"
         ],
         "created_at": 1775642897,
         "number": 50690,
         "state": "open",
-        "updated_at": 1775642925
+        "updated_at": 1775723201
     },
     "50691": {
         "base_branch": "master",
