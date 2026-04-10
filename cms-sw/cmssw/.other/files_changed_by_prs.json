@@ -2879,14 +2879,15 @@
             "DataFormats/EgammaTrackReco/interface/ConversionTrack.h",
             "RecoEgamma/EgammaTools/interface/ConversionTrackFwd.h",
             "DataFormats/EgammaTrackReco/interface/ConversionTrackFwd.h",
-            "RecoEgamma/EgammaTools/src/ConversionTrack.cc",
+            "RecoEgamma/EgammaTools/src/classes.h",
+            "RecoEgamma/EgammaTools/src/classes_def.xml",
             "TauAnalysis/MCEmbeddingTools/plugins/BuildFile.xml",
             "TauAnalysis/MCEmbeddingTools/plugins/TrackMergeremb.cc"
         ],
         "created_at": 1775803354,
         "number": 50694,
         "state": "open",
-        "updated_at": 1775803387
+        "updated_at": 1775822765
     },
     "50695": {
         "base_branch": "CMSSW_16_1_X",
