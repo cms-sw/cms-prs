@@ -2864,31 +2864,6 @@
         "state": "open",
         "updated_at": 1775818397
     },
-    "50696": {
-        "base_branch": "CMSSW_17_0_EVOLUTION_X",
-        "changed_files_names": [
-            "PerfTools/AllocMonitor/plugins/ModuleEventAllocMonitor.cc",
-            "PerfTools/AllocMonitor/plugins/mea_AllocMap.h",
-            "PerfTools/AllocMonitor/test/BuildFile.xml",
-            "PerfTools/AllocMonitor/test/moduleEventAlloc_cfg.py",
-            "PerfTools/AllocMonitor/test/runModuleEventAlloc.sh",
-            "PerfTools/AllocMonitor/test/test_catch2_allocmap.cc",
-            "PerfTools/AllocMonitor/test/unittest_output/moduleEventAllocMonitor_thingAnalyzerUnmatched.txt",
-            "SimCalorimetry/Configuration/python/SimCalorimetry_EventContent_cff.py",
-            "SimDataFormats/CaloAnalysis/interface/CaloParticle.h",
-            "SimDataFormats/CaloAnalysis/interface/SimCluster.h",
-            "SimDataFormats/CaloAnalysis/src/SimCluster.cc",
-            "SimDataFormats/CaloAnalysis/src/classes_def.xml",
-            "SimGeneral/CaloAnalysis/plugins/BuildFile.xml",
-            "SimGeneral/CaloAnalysis/plugins/CaloTruthAccumulator.cc",
-            "SimGeneral/MixingModule/interface/DecayGraph.h",
-            "SimGeneral/MixingModule/python/caloTruthProducer_cfi.py"
-        ],
-        "created_at": 1775823747,
-        "number": 50696,
-        "state": "open",
-        "updated_at": 1775823777
-    },
     "50697": {
         "base_branch": "CMSSW_16_0_X",
         "changed_files_names": [
