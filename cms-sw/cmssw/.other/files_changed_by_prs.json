@@ -2797,9 +2797,9 @@
     "50707": {
         "base_branch": "master",
         "changed_files_names": [
-            "FWCore/MessageLogger/interface/private/xmlUtils.h",
-            "FWCore/MessageLogger/interface/xmlUtils.h",
             "FWCore/MessageLogger/src/JobReport.cc",
+            "FWCore/MessageLogger/src/xmlUtils.h",
+            "FWCore/MessageLogger/interface/xmlUtils.h",
             "FWCore/MessageLogger/test/BuildFile.xml",
             "FWCore/MessageLogger/test/makeJobReport.cpp",
             "FWCore/MessageService/test/makeJobReport.cpp",
@@ -2816,6 +2816,6 @@
         "created_at": 1776090366,
         "number": 50707,
         "state": "open",
-        "updated_at": 1776090487
+        "updated_at": 1776095715
     }
 }
