@@ -768,7 +768,7 @@
         "created_at": 1740485223,
         "number": 47447,
         "state": "open",
-        "updated_at": 1775823449
+        "updated_at": 1776012829
     },
     "47605": {
         "base_branch": "master",
@@ -942,7 +942,7 @@
         "created_at": 1751981131,
         "number": 48502,
         "state": "open",
-        "updated_at": 1775625089
+        "updated_at": 1776083116
     },
     "48637": {
         "base_branch": "master",
@@ -1268,7 +1268,7 @@
         "created_at": 1764930902,
         "number": 49555,
         "state": "open",
-        "updated_at": 1776080624
+        "updated_at": 1776080751
     },
     "49556": {
         "base_branch": "master",
@@ -1336,7 +1336,7 @@
         "created_at": 1764931442,
         "number": 49556,
         "state": "open",
-        "updated_at": 1775628771
+        "updated_at": 1775836303
     },
     "49580": {
         "base_branch": "master",
@@ -1651,7 +1651,7 @@
         "created_at": 1769261230,
         "number": 49932,
         "state": "open",
-        "updated_at": 1775299973
+        "updated_at": 1775746319
     },
     "49942": {
         "base_branch": "master",
@@ -1698,7 +1698,7 @@
         "created_at": 1769615680,
         "number": 49969,
         "state": "open",
-        "updated_at": 1775637670
+        "updated_at": 1776080615
     },
     "49995": {
         "base_branch": "master",
@@ -1845,7 +1845,7 @@
         "created_at": 1770237771,
         "number": 50038,
         "state": "open",
-        "updated_at": 1775583859
+        "updated_at": 1776091117
     },
     "50063": {
         "base_branch": "master",
@@ -1965,7 +1965,7 @@
         "created_at": 1771428448,
         "number": 50174,
         "state": "open",
-        "updated_at": 1775542151
+        "updated_at": 1775834654
     },
     "50241": {
         "base_branch": "master",
@@ -2064,7 +2064,7 @@
         "created_at": 1772527151,
         "number": 50292,
         "state": "open",
-        "updated_at": 1775578107
+        "updated_at": 1775833656
     },
     "50316": {
         "base_branch": "master",
@@ -2081,7 +2081,7 @@
         "created_at": 1772722744,
         "number": 50316,
         "state": "open",
-        "updated_at": 1775623412
+        "updated_at": 1775713788
     },
     "50391": {
         "base_branch": "master",
@@ -2113,7 +2113,7 @@
         "created_at": 1773377749,
         "number": 50391,
         "state": "open",
-        "updated_at": 1775757933
+        "updated_at": 1776059536
     },
     "50411": {
         "base_branch": "CMSSW_14_0_X",
@@ -2275,7 +2275,7 @@
         "created_at": 1774468211,
         "number": 50551,
         "state": "open",
-        "updated_at": 1776065062
+        "updated_at": 1776075915
     },
     "50565": {
         "base_branch": "master",
@@ -2366,7 +2366,7 @@
         "created_at": 1774874525,
         "number": 50588,
         "state": "open",
-        "updated_at": 1776079977
+        "updated_at": 1776089005
     },
     "50591": {
         "base_branch": "master",
@@ -2394,7 +2394,7 @@
         "created_at": 1774945689,
         "number": 50596,
         "state": "open",
-        "updated_at": 1775633084
+        "updated_at": 1775914625
     },
     "50602": {
         "base_branch": "master",
@@ -2450,7 +2450,7 @@
         "created_at": 1775107255,
         "number": 50633,
         "state": "open",
-        "updated_at": 1775487576
+        "updated_at": 1775785320
     },
     "50639": {
         "base_branch": "CMSSW_16_0_X",
@@ -2464,7 +2464,7 @@
         "created_at": 1775125281,
         "number": 50639,
         "state": "open",
-        "updated_at": 1775631066
+        "updated_at": 1775648229
     },
     "50643": {
         "base_branch": "master",
@@ -2475,7 +2475,7 @@
         "created_at": 1775135681,
         "number": 50643,
         "state": "open",
-        "updated_at": 1775299797
+        "updated_at": 1775808519
     },
     "50644": {
         "base_branch": "master",
@@ -2507,7 +2507,7 @@
         "created_at": 1775505544,
         "number": 50671,
         "state": "open",
-        "updated_at": 1775505570
+        "updated_at": 1776088009
     },
     "50674": {
         "base_branch": "CMSSW_16_0_X",
@@ -2517,7 +2517,7 @@
         "created_at": 1775548729,
         "number": 50674,
         "state": "open",
-        "updated_at": 1775635065
+        "updated_at": 1775642487
     },
     "50678": {
         "base_branch": "master",
@@ -2533,15 +2533,18 @@
             "HeterogeneousCore/MPICore/test/controller_multi_rr_cfg.py",
             "HeterogeneousCore/MPICore/test/controller_rr_cfg.py",
             "HeterogeneousCore/MPICore/test/follower_cfg.py",
+            "HeterogeneousCore/MPICore/test/follower_complex_cfg.py",
+            "HeterogeneousCore/MPICore/test/follower_filters_cfg.py",
             "HeterogeneousCore/MPICore/test/follower_multi1_cfg.py",
             "HeterogeneousCore/MPICore/test/follower_multi2_cfg.py",
+            "HeterogeneousCore/MPICore/test/follower_soa_cfg.py",
             "HeterogeneousCore/MPIServices/interface/MPIService.h",
             "HeterogeneousCore/MPIServices/src/MPIService.cc"
         ],
         "created_at": 1775560243,
         "number": 50678,
         "state": "open",
-        "updated_at": 1775639606
+        "updated_at": 1776092572
     },
     "50679": {
         "base_branch": "master",
@@ -2599,7 +2602,7 @@
         "created_at": 1775570330,
         "number": 50679,
         "state": "open",
-        "updated_at": 1775586170
+        "updated_at": 1776069627
     },
     "50682": {
         "base_branch": "CMSSW_17_0_EVOLUTION_X",
@@ -2627,7 +2630,7 @@
         "created_at": 1775589991,
         "number": 50685,
         "state": "open",
-        "updated_at": 1775590122
+        "updated_at": 1775651189
     },
     "50689": {
         "base_branch": "CMSSW_16_1_X",
@@ -2641,7 +2644,7 @@
         "created_at": 1775635694,
         "number": 50689,
         "state": "open",
-        "updated_at": 1775635899
+        "updated_at": 1775651040
     },
     "50691": {
         "base_branch": "master",
@@ -2673,7 +2676,7 @@
         "created_at": 1775650474,
         "number": 50691,
         "state": "open",
-        "updated_at": 1775725447
+        "updated_at": 1775725569
     },
     "50694": {
         "base_branch": "master",
@@ -2699,7 +2702,7 @@
         "created_at": 1775803354,
         "number": 50694,
         "state": "open",
-        "updated_at": 1775822765
+        "updated_at": 1776081536
     },
     "50695": {
         "base_branch": "CMSSW_16_1_X",
@@ -2709,7 +2712,7 @@
         "created_at": 1775818367,
         "number": 50695,
         "state": "open",
-        "updated_at": 1775818397
+        "updated_at": 1776087977
     },
     "50697": {
         "base_branch": "CMSSW_16_0_X",
@@ -2719,7 +2722,7 @@
         "created_at": 1775823902,
         "number": 50697,
         "state": "open",
-        "updated_at": 1775823953
+        "updated_at": 1776091023
     },
     "50701": {
         "base_branch": "master",
@@ -2729,7 +2732,7 @@
         "created_at": 1775919027,
         "number": 50701,
         "state": "open",
-        "updated_at": 1775919049
+        "updated_at": 1775919238
     },
     "50702": {
         "base_branch": "master",
@@ -2744,7 +2747,7 @@
         "created_at": 1776065990,
         "number": 50702,
         "state": "open",
-        "updated_at": 1776078941
+        "updated_at": 1776081251
     },
     "50703": {
         "base_branch": "master",
@@ -2779,7 +2782,7 @@
         "created_at": 1776081470,
         "number": 50705,
         "state": "open",
-        "updated_at": 1776081500
+        "updated_at": 1776089284
     },
     "50706": {
         "base_branch": "master",
@@ -2789,7 +2792,7 @@
         "created_at": 1776085535,
         "number": 50706,
         "state": "open",
-        "updated_at": 1776085564
+        "updated_at": 1776090383
     },
     "50707": {
         "base_branch": "master",
@@ -2813,6 +2816,6 @@
         "created_at": 1776090366,
         "number": 50707,
         "state": "open",
-        "updated_at": 1776090392
+        "updated_at": 1776090487
     }
 }
