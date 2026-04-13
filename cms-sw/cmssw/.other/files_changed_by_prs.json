@@ -2880,13 +2880,17 @@
     "50702": {
         "base_branch": "master",
         "changed_files_names": [
+            "HeterogeneousCore/MPICore/interface/MPIChannel.h",
             "HeterogeneousCore/MPICore/plugins/MPIReceiver.cc",
-            "HeterogeneousCore/MPICore/plugins/MPISender.cc"
+            "HeterogeneousCore/MPICore/plugins/MPISender.cc",
+            "HeterogeneousCore/MPICore/src/MPIChannel.cc",
+            "HeterogeneousCore/MPICore/test/controller_soa_cfg.py",
+            "HeterogeneousCore/MPICore/test/follower_soa_cfg.py"
         ],
         "created_at": 1776065990,
         "number": 50702,
         "state": "open",
-        "updated_at": 1776066015
+        "updated_at": 1776078941
     },
     "50703": {
         "base_branch": "master",
