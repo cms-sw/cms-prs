@@ -2794,30 +2794,6 @@
         "state": "open",
         "updated_at": 1776090383
     },
-    "50707": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "FWCore/MessageLogger/src/JobReport.cc",
-            "FWCore/MessageLogger/src/xmlUtils.h",
-            "FWCore/MessageLogger/interface/xmlUtils.h",
-            "FWCore/MessageLogger/test/BuildFile.xml",
-            "FWCore/MessageLogger/test/makeJobReport.cpp",
-            "FWCore/MessageService/test/makeJobReport.cpp",
-            "FWCore/MessageLogger/test/testJobReportXMLUtils.cpp",
-            "FWCore/MessageService/test/testJobReportXMLUtils.cpp",
-            "FWCore/MessageLogger/test/testMakeJobReport.sh",
-            "FWCore/MessageLogger/test/unit_test_outputs/makeJobReport_expected.xml",
-            "FWCore/MessageService/test/unit_test_outputs/makeJobReport_expected.xml",
-            "FWCore/MessageLogger/test/validateXML.py",
-            "FWCore/MessageService/test/validateXML.py",
-            "FWCore/MessageService/test/BuildFile.xml",
-            "FWCore/MessageService/test/testMakeJobReport.sh"
-        ],
-        "created_at": 1776090366,
-        "number": 50707,
-        "state": "open",
-        "updated_at": 1776095715
-    },
     "50708": {
         "base_branch": "master",
         "changed_files_names": [
