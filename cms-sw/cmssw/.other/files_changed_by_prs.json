@@ -2604,13 +2604,16 @@
             "HeterogeneousCore/MPICore/plugins/MPIReceiver.cc",
             "HeterogeneousCore/MPICore/plugins/MPISender.cc",
             "HeterogeneousCore/MPICore/src/MPIChannel.cc",
+            "HeterogeneousCore/MPICore/test/BuildFile.xml",
             "HeterogeneousCore/MPICore/test/controller_soa_cfg.py",
-            "HeterogeneousCore/MPICore/test/follower_soa_cfg.py"
+            "HeterogeneousCore/MPICore/test/controller_too_many_streams_cfg.py",
+            "HeterogeneousCore/MPICore/test/follower_soa_cfg.py",
+            "HeterogeneousCore/MPICore/test/follower_too_many_streams_cfg.py"
         ],
         "created_at": 1776065990,
         "number": 50702,
         "state": "open",
-        "updated_at": 1776170668
+        "updated_at": 1776173402
     },
     "50703": {
         "base_branch": "master",
