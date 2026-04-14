@@ -2347,23 +2347,6 @@
         "state": "open",
         "updated_at": 1775299834
     },
-    "50596": {
-        "base_branch": "CMSSW_16_0_X",
-        "changed_files_names": [
-            "DQM/HcalCommon/src/DQClient.cc",
-            "DQM/HcalCommon/src/DQTask.cc",
-            "DQM/HcalTasks/interface/DigiRunSummary.h",
-            "DQM/HcalTasks/interface/DigiTask.h",
-            "DQM/HcalTasks/plugins/DigiTask.cc",
-            "DQM/HcalTasks/python/DigiTask_cfi.py",
-            "DQM/HcalTasks/python/HcalOfflineHarvesting_cfi.py",
-            "DQM/HcalTasks/src/DigiRunSummary.cc"
-        ],
-        "created_at": 1774945689,
-        "number": 50596,
-        "state": "open",
-        "updated_at": 1775914625
-    },
     "50602": {
         "base_branch": "master",
         "changed_files_names": [
