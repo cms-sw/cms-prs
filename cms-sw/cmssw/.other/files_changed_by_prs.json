@@ -2870,5 +2870,17 @@
         "number": 50715,
         "state": "open",
         "updated_at": 1776161773
+    },
+    "50716": {
+        "base_branch": "CMSSW_16_0_X",
+        "changed_files_names": [
+            "RecoLocalTracker/SiStripClusterizer/plugins/SiStripClustersToLegacy.cc",
+            "RecoLocalTracker/SiStripClusterizer/plugins/alpaka/SiStripRawToCluster.cc",
+            "RecoLocalTracker/SiStripClusterizer/plugins/alpaka/SiStripRawToClusterAlgo.dev.cc"
+        ],
+        "created_at": 1776162491,
+        "number": 50716,
+        "state": "open",
+        "updated_at": 1776162520
     }
 }
