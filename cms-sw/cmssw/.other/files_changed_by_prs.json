@@ -2915,5 +2915,20 @@
         "number": 50726,
         "state": "open",
         "updated_at": 1776226055
+    },
+    "50727": {
+        "base_branch": "CMSSW_16_1_X",
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h",
+            "Geometry/HGCalCommonData/interface/HGCalParameters.h",
+            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc",
+            "Geometry/HGCalCommonData/src/HGCalParameters.cc",
+            "SimG4CMS/Calo/src/HGCScintSD.cc",
+            "SimG4CMS/Calo/src/HGCalNumberingScheme.cc"
+        ],
+        "created_at": 1776229920,
+        "number": 50727,
+        "state": "open",
+        "updated_at": 1776229947
     }
 }
