@@ -2926,5 +2926,20 @@
         "number": 50725,
         "state": "open",
         "updated_at": 1776195160
+    },
+    "50726": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h",
+            "Geometry/HGCalCommonData/interface/HGCalParameters.h",
+            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc",
+            "Geometry/HGCalCommonData/src/HGCalParameters.cc",
+            "SimG4CMS/Calo/src/HGCalNumberingScheme.cc",
+            "SimG4CMS/Calo/test/python/runHGC8_cfg.py"
+        ],
+        "created_at": 1776226026,
+        "number": 50726,
+        "state": "open",
+        "updated_at": 1776226055
     }
 }
