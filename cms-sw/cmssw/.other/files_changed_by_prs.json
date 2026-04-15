@@ -2031,6 +2031,7 @@
             "SimDataFormats/Associations/src/LayerClusterToCaloParticleAssociatorBaseImpl.cc",
             "SimDataFormats/Associations/src/LayerClusterToSimClusterAssociatorBaseImpl.cc",
             "SimDataFormats/Associations/src/classes_def.xml",
+            "SimDataFormats/CaloAnalysis/interface/CaloParticle.h",
             "SimDataFormats/CaloAnalysis/interface/MtdSimCluster.h",
             "SimDataFormats/CaloAnalysis/interface/SimCluster.h",
             "SimDataFormats/CaloAnalysis/interface/SimClusterFwd.h",
@@ -2064,7 +2065,7 @@
         "created_at": 1772527151,
         "number": 50292,
         "state": "open",
-        "updated_at": 1775833656
+        "updated_at": 1776245890
     },
     "50316": {
         "base_branch": "master",
