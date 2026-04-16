@@ -2427,9 +2427,12 @@
             "HeterogeneousCore/MPICore/python/configuration_splitter/multiple_remotes_option_parser.py",
             "HeterogeneousCore/MPICore/scripts/edmMpiSplitConfig",
             "HeterogeneousCore/MPICore/test/controller_cfg.py",
+            "HeterogeneousCore/MPICore/test/controller_complex_cfg.py",
+            "HeterogeneousCore/MPICore/test/controller_filters_cfg.py",
             "HeterogeneousCore/MPICore/test/controller_multi_cfg.py",
             "HeterogeneousCore/MPICore/test/controller_multi_rr_cfg.py",
             "HeterogeneousCore/MPICore/test/controller_rr_cfg.py",
+            "HeterogeneousCore/MPICore/test/controller_soa_cfg.py",
             "HeterogeneousCore/MPICore/test/follower_cfg.py",
             "HeterogeneousCore/MPICore/test/follower_complex_cfg.py",
             "HeterogeneousCore/MPICore/test/follower_filters_cfg.py",
@@ -2442,7 +2445,7 @@
         "created_at": 1775560243,
         "number": 50678,
         "state": "open",
-        "updated_at": 1776092572
+        "updated_at": 1776344466
     },
     "50679": {
         "base_branch": "master",
