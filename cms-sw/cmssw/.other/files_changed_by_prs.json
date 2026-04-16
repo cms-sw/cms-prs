@@ -2882,5 +2882,21 @@
         "number": 50743,
         "state": "open",
         "updated_at": 1776350550
+    },
+    "50745": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQM/CSCMonitorModule/data/emuDQMBooking.xml",
+            "DQM/CSCMonitorModule/plugins/CSCDQM_EventProcessor_processCSC.cc",
+            "DQM/CSCMonitorModule/plugins/CSCDQM_HistoNames.icc",
+            "EventFilter/CSCRawToDigi/interface/CSCTMBHeader.h",
+            "EventFilter/CSCRawToDigi/interface/CSCTMBHeader2020_GEM_Run3b.h",
+            "EventFilter/CSCRawToDigi/src/CSCTMBHeader.cc",
+            "EventFilter/CSCRawToDigi/src/CSCTMBHeader2020_GEM_Run3b.cc"
+        ],
+        "created_at": 1776359686,
+        "number": 50745,
+        "state": "open",
+        "updated_at": 1776359709
     }
 }
