@@ -2932,5 +2932,21 @@
         "number": 50749,
         "state": "open",
         "updated_at": 1776428022
+    },
+    "50750": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Framework/interface/stream/implementors.h",
+            "HeterogeneousCore/TrivialSerialisation/interface/alpaka/Serialiser.h",
+            "HeterogeneousCore/TrivialSerialisation/interface/alpaka/SerialiserBase.h",
+            "HeterogeneousCore/TrivialSerialisation/plugins/BuildFile.xml",
+            "HeterogeneousCore/TrivialSerialisation/plugins/alpaka/GenericClonerDevice.cc",
+            "HeterogeneousCore/TrivialSerialisation/test/BuildFile.xml",
+            "HeterogeneousCore/TrivialSerialisation/test/testGenericClonerDevice_cfg.py"
+        ],
+        "created_at": 1776429931,
+        "number": 50750,
+        "state": "open",
+        "updated_at": 1776429966
     }
 }
