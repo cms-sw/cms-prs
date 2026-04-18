@@ -2738,17 +2738,20 @@
     "50726": {
         "base_branch": "master",
         "changed_files_names": [
+            "DataFormats/ForwardDetId/interface/HGCScintillatorDetId.h",
             "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h",
             "Geometry/HGCalCommonData/interface/HGCalParameters.h",
             "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc",
             "Geometry/HGCalCommonData/src/HGCalParameters.cc",
+            "Geometry/HGCalGeometry/src/HGCalGeometry.cc",
+            "Geometry/HGCalGeometry/src/HGCalGeometryLoader.cc",
             "SimG4CMS/Calo/src/HGCalNumberingScheme.cc",
             "SimG4CMS/Calo/test/python/runHGC8_cfg.py"
         ],
         "created_at": 1776226026,
         "number": 50726,
         "state": "open",
-        "updated_at": 1776226055
+        "updated_at": 1776474124
     },
     "50727": {
         "base_branch": "CMSSW_16_1_X",
