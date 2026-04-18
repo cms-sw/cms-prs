@@ -2836,5 +2836,16 @@
         "number": 50754,
         "state": "open",
         "updated_at": 1776448785
+    },
+    "50755": {
+        "base_branch": "CMSSW_15_1_X",
+        "changed_files_names": [
+            "CondFormats/SiPixelTransient/src/SiPixelTemplate.cc",
+            "RecoLocalTracker/SiPixelRecHits/src/SiPixelTemplateReco.cc"
+        ],
+        "created_at": 1776538718,
+        "number": 50755,
+        "state": "open",
+        "updated_at": 1776538746
     }
 }
