@@ -2917,5 +2917,24 @@
         "number": 50761,
         "state": "open",
         "updated_at": 1776601824
+    },
+    "50762": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "SimG4CMS/HcalTestBeam/test/python/anal_tb06_cfg.py",
+            "SimG4CMS/HcalTestBeam/test/python/run_tb06_kaon_cfg.py",
+            "SimG4CMS/HcalTestBeam/test/scripts/TB06Calib.C",
+            "SimG4CMS/HcalTestBeam/test/scripts/TB06Plots2.C",
+            "SimG4CMS/HcalTestBeam/test/scripts/runTB06.csh",
+            "SimG4CMS/HcalTestBeam/test/scripts/runTB06.sh",
+            "SimG4CMS/HcalTestBeam/test/scripts/runTB06e.csh",
+            "SimG4CMS/HcalTestBeam/test/scripts/runTB06e.sh",
+            "SimG4CMS/HcalTestBeam/test/scripts/runTB06g.csh",
+            "SimG4CMS/HcalTestBeam/test/scripts/runTB06g.sh"
+        ],
+        "created_at": 1776620716,
+        "number": 50762,
+        "state": "open",
+        "updated_at": 1776620744
     }
 }
