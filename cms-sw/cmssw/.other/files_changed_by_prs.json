@@ -1113,6 +1113,8 @@
             "Configuration/StandardSequences/python/Reconstruction_cff.py",
             "IOMC/EventVertexGenerators/python/VtxSmearedRealistic_cfi.py",
             "PhysicsTools/NanoAOD/python/autoNANO.py",
+            "PhysicsTools/NanoAOD/python/triggerObjects_cff.py",
+            "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py",
             "RecoLocalCalo/Configuration/python/hcalGlobalReco_cff.py",
             "RecoLocalCalo/Configuration/python/hcalLocalRecoNZS_cff.py",
             "RecoLocalCalo/EcalRecProducers/python/ecalPreshowerRecHit_cfi.py",
@@ -1187,7 +1189,7 @@
         "created_at": 1763487762,
         "number": 49410,
         "state": "open",
-        "updated_at": 1766050819
+        "updated_at": 1776689571
     },
     "49477": {
         "base_branch": "master",
