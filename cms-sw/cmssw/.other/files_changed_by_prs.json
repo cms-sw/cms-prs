@@ -2661,30 +2661,6 @@
         "state": "open",
         "updated_at": 1776426119
     },
-    "50749": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DQMServices/FwkIO/plugins/DQMRootSource.cc",
-            "DQMServices/StreamerIO/plugins/DQMProtobufReader.cc",
-            "FWCore/Framework/interface/InputSource.h",
-            "FWCore/Framework/src/EventProcessor.cc",
-            "FWCore/Framework/src/InputSource.cc",
-            "FWCore/Integration/plugins/PutOrMergeTestSource.cc",
-            "FWCore/Integration/plugins/SourceWithWaits.cc",
-            "FWCore/Modules/plugins/TestSource.cc",
-            "FWCore/Sources/src/IDGeneratorSourceBase.cc",
-            "FWCore/Sources/src/RawInputSource.cc",
-            "FWIO/RNTupleTempInput/src/RNTupleTempSource.cc",
-            "FWIO/RNTupleTempInput/src/RootPrimaryFileSequence.cc",
-            "IOPool/Input/src/PoolSource.cc",
-            "IOPool/Input/src/RepeatingCachedRootSource.cc",
-            "IOPool/Input/src/RootPrimaryFileSequence.cc"
-        ],
-        "created_at": 1776427994,
-        "number": 50749,
-        "state": "open",
-        "updated_at": 1776430428
-    },
     "50750": {
         "base_branch": "master",
         "changed_files_names": [
