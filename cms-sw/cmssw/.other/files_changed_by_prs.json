@@ -2916,5 +2916,43 @@
         "number": 50765,
         "state": "open",
         "updated_at": 1776684166
+    },
+    "50766": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/OfflineVertexSoA/BuildFile.xml",
+            "DataFormats/OfflineVertexSoA/interface/TrackHostCollection.h",
+            "DataFormats/OfflineVertexSoA/interface/TrackSoA.h",
+            "DataFormats/OfflineVertexSoA/interface/VertexHostCollection.h",
+            "DataFormats/OfflineVertexSoA/interface/VertexSoA.h",
+            "DataFormats/OfflineVertexSoA/interface/alpaka/TrackDeviceCollection.h",
+            "DataFormats/OfflineVertexSoA/interface/alpaka/VertexDeviceCollection.h",
+            "DataFormats/OfflineVertexSoA/src/alpaka/classes_cuda.h",
+            "DataFormats/OfflineVertexSoA/src/alpaka/classes_cuda_def.xml",
+            "DataFormats/OfflineVertexSoA/src/alpaka/classes_rocm.h",
+            "DataFormats/OfflineVertexSoA/src/alpaka/classes_rocm_def.xml",
+            "DataFormats/OfflineVertexSoA/src/classes.cc",
+            "DataFormats/OfflineVertexSoA/src/classes.h",
+            "DataFormats/OfflineVertexSoA/src/classes_def.xml",
+            "RecoVertex/PrimaryVertexProducer/BuildFile.xml",
+            "RecoVertex/PrimaryVertexProducer/plugins/BuildFile.xml",
+            "RecoVertex/PrimaryVertexProducer/plugins/SoAToRecoVertexProducer.cc",
+            "RecoVertex/PrimaryVertexProducer/plugins/alpaka/DAInBlocksClusterizerAlgo.dev.cc",
+            "RecoVertex/PrimaryVertexProducer/plugins/alpaka/DAInBlocksClusterizerAlgo.dev.h",
+            "RecoVertex/PrimaryVertexProducer/plugins/alpaka/DAInBlocksClusterizerAlgo.h",
+            "RecoVertex/PrimaryVertexProducer/plugins/alpaka/DAInBlocksClusterizerArbitrator.dev.cc",
+            "RecoVertex/PrimaryVertexProducer/plugins/alpaka/DAInBlocksClusterizerReSplitTracks.dev.cc",
+            "RecoVertex/PrimaryVertexProducer/plugins/alpaka/DAInBlocksClusterizerRejectOutliers.dev.cc",
+            "RecoVertex/PrimaryVertexProducer/plugins/alpaka/PortableTrackSoAProducer.cc",
+            "RecoVertex/PrimaryVertexProducer/plugins/alpaka/PrimaryVertexProducerPortable.cc",
+            "RecoVertex/PrimaryVertexProducer/plugins/alpaka/TracksForDAInBlocksAlgo.dev.cc",
+            "RecoVertex/PrimaryVertexProducer/plugins/alpaka/TracksForDAInBlocksAlgo.h",
+            "RecoVertex/PrimaryVertexProducer/plugins/alpaka/WeightedVertexFitterAlgo.dev.cc",
+            "RecoVertex/PrimaryVertexProducer/plugins/alpaka/WeightedVertexFitterAlgo.h"
+        ],
+        "created_at": 1776685391,
+        "number": 50766,
+        "state": "open",
+        "updated_at": 1776685419
     }
 }
