@@ -2431,25 +2431,6 @@
         "state": "open",
         "updated_at": 1776751102
     },
-    "50719": {
-        "base_branch": "CMSSW_16_0_X",
-        "changed_files_names": [
-            "DQM/HLTEvF/plugins/ScoutingCollectionMonitor.cc",
-            "DQM/HLTEvF/python/ScoutingTrackingMonitor_cff.py",
-            "DQM/Integration/python/clients/ngt_dqm_sourceclient-live_cfg.py",
-            "DQM/Integration/python/clients/scouting_dqm_sourceclient-live_cfg.py",
-            "DQMOffline/HLTScouting/python/HLTScoutingDqmOffline_cff.py",
-            "HLTriggerOffline/Scouting/plugins/ScoutingMuonPropertiesAnalyzer.cc",
-            "HLTriggerOffline/Scouting/plugins/ScoutingPi0Analyzer.cc",
-            "HLTriggerOffline/Scouting/plugins/ScoutingTrackMonitor.cc",
-            "HLTriggerOffline/Scouting/python/ScoutingTrackMonitor_cfi.py",
-            "HLTriggerOffline/Scouting/test/testHLTScoutingDQMAnalyzers.cc"
-        ],
-        "created_at": 1776167566,
-        "number": 50719,
-        "state": "open",
-        "updated_at": 1776697338
-    },
     "50722": {
         "base_branch": "master",
         "changed_files_names": [
