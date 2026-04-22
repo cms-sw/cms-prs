@@ -2624,5 +2624,35 @@
         "number": 50785,
         "state": "open",
         "updated_at": 1776856966
+    },
+    "50787": {
+        "base_branch": "CMSSW_17_0_EVOLUTION_X",
+        "changed_files_names": [
+            "DQM/Integration/python/clients/ngt_dqm_sourceclient-live_cfg.py",
+            "DataFormats/BTauReco/src/classes_def.xml",
+            "DataFormats/CSCRecHit/src/classes_def.xml",
+            "DataFormats/CTPPSReco/src/classes_def.xml",
+            "DataFormats/Candidate/src/classes_def.xml",
+            "DataFormats/DTRecHit/src/classes_def.xml",
+            "DataFormats/EcalRecHit/src/classes_def.xml",
+            "DataFormats/EgammaCandidates/src/classes_def.xml",
+            "DataFormats/EgammaReco/src/classes_def.xml",
+            "DataFormats/GEMRecHit/src/classes_def.xml",
+            "DataFormats/GsfTrackReco/src/classes_def.xml",
+            "DataFormats/HcalRecHit/src/classes_def.xml",
+            "DataFormats/HepMCCandidate/src/classes_def.xml",
+            "DataFormats/JetReco/src/classes_def_1.xml",
+            "DataFormats/PatCandidates/src/classes_def_objects.xml",
+            "DataFormats/PatCandidates/src/classes_def_user.xml",
+            "DataFormats/TauReco/src/classes_def_1.xml",
+            "DataFormats/TauReco/src/classes_def_2.xml",
+            "DataFormats/VertexReco/src/classes_def.xml",
+            "HLTriggerOffline/Scouting/plugins/ScoutingMuonPropertiesAnalyzer.cc",
+            "HLTriggerOffline/Scouting/plugins/ScoutingTrackMonitor.cc"
+        ],
+        "created_at": 1776859825,
+        "number": 50787,
+        "state": "open",
+        "updated_at": 1776859851
     }
 }
