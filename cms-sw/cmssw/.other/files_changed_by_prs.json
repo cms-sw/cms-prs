@@ -2745,5 +2745,17 @@
         "number": 50791,
         "state": "open",
         "updated_at": 1776883430
+    },
+    "50792": {
+        "base_branch": "CMSSW_16_0_X",
+        "changed_files_names": [
+            "L1TriggerScouting/OnlineProcessing/plugins/CaloJetBxSelector.cc",
+            "L1TriggerScouting/OnlineProcessing/plugins/L1ScoutingCaloJetProducer.cc",
+            "L1TriggerScouting/Utilities/plugins/SimpleOrbitFlatTableProducer.cc"
+        ],
+        "created_at": 1776883417,
+        "number": 50792,
+        "state": "open",
+        "updated_at": 1776883445
     }
 }
