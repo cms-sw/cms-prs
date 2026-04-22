@@ -1991,38 +1991,6 @@
         "state": "open",
         "updated_at": 1775299891
     },
-    "50498": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DataFormats/Common/interface/FPX.h",
-            "DataFormats/PortableTestObjects/interface/ParticleHostCollection.h",
-            "DataFormats/PortableTestObjects/interface/ParticleSoA.h",
-            "DataFormats/PortableTestObjects/interface/SimpleNetHostCollection.h",
-            "DataFormats/PortableTestObjects/interface/SimpleNetSoA.h",
-            "DataFormats/PortableTestObjects/interface/alpaka/ParticleDeviceCollection.h",
-            "DataFormats/PortableTestObjects/interface/alpaka/SimpleNetDeviceCollection.h",
-            "DataFormats/PortableTestObjects/src/classes_def.xml",
-            "PhysicsTools/PyTorch/interface/Model.h",
-            "PhysicsTools/PyTorch/interface/PyTorchFPXBridge.h",
-            "PhysicsTools/PyTorchAlpaka/README.md",
-            "PhysicsTools/PyTorchAlpaka/interface/SoAConversion.h",
-            "PhysicsTools/PyTorchAlpaka/interface/TensorCollection.h",
-            "PhysicsTools/PyTorchAlpaka/interface/TensorHandle.h",
-            "PhysicsTools/PyTorchAlpaka/interface/alpaka/AlpakaModel.h",
-            "PhysicsTools/PyTorchAlpakaTest/plugins/InspectionSink.cc",
-            "PhysicsTools/PyTorchAlpakaTest/plugins/alpaka/CommonKernels.dev.cc",
-            "PhysicsTools/PyTorchAlpakaTest/plugins/alpaka/CommonKernels.h",
-            "PhysicsTools/PyTorchAlpakaTest/plugins/alpaka/DataSource.cc",
-            "PhysicsTools/PyTorchAlpakaTest/plugins/alpaka/SimpleNetMiniBatch.cc",
-            "PhysicsTools/PyTorchAlpakaTest/plugins/alpaka/TinyResNetMiniBatch.cc",
-            "PhysicsTools/PyTorchAlpakaTest/python/options_cff.py",
-            "PhysicsTools/PyTorchAlpakaTest/test/runPyTorchAlpakaTest.py"
-        ],
-        "created_at": 1774282408,
-        "number": 50498,
-        "state": "open",
-        "updated_at": 1776709576
-    },
     "50502": {
         "base_branch": "master",
         "changed_files_names": [
