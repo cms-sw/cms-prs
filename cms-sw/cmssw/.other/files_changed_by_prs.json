@@ -2818,5 +2818,16 @@
         "number": 50802,
         "state": "open",
         "updated_at": 1776973713
+    },
+    "50803": {
+        "base_branch": "CMSSW_17_0_EVOLUTION_X",
+        "changed_files_names": [
+            "DataFormats/HLTReco/interface/TriggerEventWithRefs.h",
+            "DataFormats/HLTReco/src/classes_def.xml"
+        ],
+        "created_at": 1776973853,
+        "number": 50803,
+        "state": "open",
+        "updated_at": 1776973929
     }
 }
