@@ -1476,7 +1476,13 @@
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleFlowSuperClusterHGCalFromTICLUnseeded_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltPfTICL_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclCandidate_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclEGammaSuperClusterProducerL1Seeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclEGammaSuperClusterProducerUnseeded_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTracksterLinksL1Seeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTracksterLinksSuperclusteringDNNL1Seeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTracksterLinksSuperclusteringDNNUnseeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTracksterLinksSuperclusteringMustacheL1Seeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTracksterLinksSuperclusteringMustacheUnseeded_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTracksterLinks_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTrackstersCLUE3DHighL1Seeded_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltTiclTrackstersCLUE3DHigh_cfi.py",
@@ -1616,7 +1622,7 @@
         "created_at": 1769261230,
         "number": 49932,
         "state": "open",
-        "updated_at": 1775746319
+        "updated_at": 1776943732
     },
     "49942": {
         "base_branch": "master",
