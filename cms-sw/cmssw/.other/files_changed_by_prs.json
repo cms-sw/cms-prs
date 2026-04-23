@@ -2692,5 +2692,21 @@
         "number": 50793,
         "state": "open",
         "updated_at": 1776921651
+    },
+    "50794": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "PhysicsTools/PyTorchAlpaka/interface/TensorCollection.h",
+            "PhysicsTools/PyTorchAlpaka/interface/TensorHandle.h",
+            "PhysicsTools/PyTorchAlpakaTest/plugins/InspectionSink.cc",
+            "PhysicsTools/PyTorchAlpakaTest/plugins/alpaka/SimpleNetMiniBatch.cc",
+            "PhysicsTools/PyTorchAlpakaTest/plugins/alpaka/TinyResNetMiniBatch.cc",
+            "PhysicsTools/PyTorchAlpakaTest/python/options_cff.py",
+            "PhysicsTools/PyTorchAlpakaTest/test/runPyTorchAlpakaTest.py"
+        ],
+        "created_at": 1776925471,
+        "number": 50794,
+        "state": "open",
+        "updated_at": 1776925492
     }
 }
