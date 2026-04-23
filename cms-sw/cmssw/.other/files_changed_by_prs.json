@@ -2233,41 +2233,6 @@
         "state": "open",
         "updated_at": 1775512364
     },
-    "50678": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "HeterogeneousCore/MPICore/plugins/MPIController.cc",
-            "HeterogeneousCore/MPICore/plugins/MPISource.cc",
-            "HeterogeneousCore/MPICore/python/configuration_splitter/editor_functions.py",
-            "HeterogeneousCore/MPICore/python/configuration_splitter/multiple_remotes_option_parser.py",
-            "HeterogeneousCore/MPICore/python/configuration_splitter/split_remote.py",
-            "HeterogeneousCore/MPICore/scripts/edmMpiSplitConfig",
-            "HeterogeneousCore/MPICore/test/BuildFile.xml",
-            "HeterogeneousCore/MPICore/test/controller_cfg.py",
-            "HeterogeneousCore/MPICore/test/controller_complex_cfg.py",
-            "HeterogeneousCore/MPICore/test/controller_filters_cfg.py",
-            "HeterogeneousCore/MPICore/test/controller_multi_cfg.py",
-            "HeterogeneousCore/MPICore/test/controller_multi_rr_cfg.py",
-            "HeterogeneousCore/MPICore/test/controller_rr_cfg.py",
-            "HeterogeneousCore/MPICore/test/controller_soa_cfg.py",
-            "HeterogeneousCore/MPICore/test/controller_too_many_streams_cfg.py",
-            "HeterogeneousCore/MPICore/test/follower_cfg.py",
-            "HeterogeneousCore/MPICore/test/follower_complex_cfg.py",
-            "HeterogeneousCore/MPICore/test/follower_filters_cfg.py",
-            "HeterogeneousCore/MPICore/test/follower_multi1_cfg.py",
-            "HeterogeneousCore/MPICore/test/follower_multi2_cfg.py",
-            "HeterogeneousCore/MPICore/test/follower_soa_cfg.py",
-            "HeterogeneousCore/MPICore/test/follower_too_many_streams_cfg.py",
-            "HeterogeneousCore/MPICore/test/testAutomaticSplitter.sh",
-            "HeterogeneousCore/MPICore/test/testAutomaticSplitterMultiProcess.sh",
-            "HeterogeneousCore/MPIServices/interface/MPIService.h",
-            "HeterogeneousCore/MPIServices/src/MPIService.cc"
-        ],
-        "created_at": 1775560243,
-        "number": 50678,
-        "state": "open",
-        "updated_at": 1776797949
-    },
     "50679": {
         "base_branch": "master",
         "changed_files_names": [
