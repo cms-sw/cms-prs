@@ -2638,12 +2638,13 @@
             "PhysicsTools/PyTorchAlpakaTest/plugins/alpaka/CommonKernels.h",
             "PhysicsTools/PyTorchAlpakaTest/plugins/alpaka/DataSource.cc",
             "PhysicsTools/PyTorchAlpakaTest/plugins/alpaka/SimpleNet.cc",
+            "PhysicsTools/PyTorchAlpakaTest/plugins/alpaka/SimpleNetNativeFP16.cc",
             "PhysicsTools/PyTorchAlpakaTest/test/runPyTorchAlpakaTest.py"
         ],
         "created_at": 1776876217,
         "number": 50790,
         "state": "open",
-        "updated_at": 1776876249
+        "updated_at": 1776944270
     },
     "50791": {
         "base_branch": "CMSSW_16_1_X",
