@@ -2727,5 +2727,28 @@
         "number": 50797,
         "state": "open",
         "updated_at": 1776935532
+    },
+    "50798": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "SimG4Core/Application/interface/Phase2StackingAction.h",
+            "SimG4Core/Application/interface/Phase2SteppingAction.h",
+            "SimG4Core/Application/interface/Phase2TrackFilter.h",
+            "SimG4Core/Application/interface/RunManagerMT.h",
+            "SimG4Core/Application/python/g4SimHits_cfi.py",
+            "SimG4Core/Application/src/Phase2StackingAction.cc",
+            "SimG4Core/Application/src/Phase2SteppingAction.cc",
+            "SimG4Core/Application/src/Phase2TrackFilter.cc",
+            "SimG4Core/Application/src/Phase2TrackingAction.cc",
+            "SimG4Core/Application/src/RunManagerMT.cc",
+            "SimG4Core/Application/src/RunManagerMTWorker.cc",
+            "SimG4Core/Notification/interface/MCTruthUtil.h",
+            "SimG4Core/Notification/src/MCTruthUtil.cc",
+            "SimG4Core/Notification/src/TrackWithHistory.cc"
+        ],
+        "created_at": 1776942393,
+        "number": 50798,
+        "state": "open",
+        "updated_at": 1776942418
     }
 }
