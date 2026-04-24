@@ -3010,5 +3010,20 @@
         "number": 50811,
         "state": "open",
         "updated_at": 1777030007
+    },
+    "50812": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h",
+            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc",
+            "Geometry/HGCalCommonData/test/HGCalParameterTester.cc",
+            "Geometry/HGCalGeometry/test/python/testHGCalValidScintTest_cfg.py",
+            "SimG4CMS/Calo/src/HGCalNumberingScheme.cc",
+            "SimG4CMS/Calo/test/python/runHGC8_cfg.py"
+        ],
+        "created_at": 1777031210,
+        "number": 50812,
+        "state": "open",
+        "updated_at": 1777031235
     }
 }
