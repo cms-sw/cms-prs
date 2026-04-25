@@ -2112,13 +2112,14 @@
             "Validation/HGCalValidation/interface/BarrelValidator.h",
             "Validation/HGCalValidation/plugins/BarrelValidator.cc",
             "Validation/HGCalValidation/python/BarrelPostProcessor_cff.py",
+            "Validation/HGCalValidation/python/HLTBarrelValidator_cff.py",
             "Validation/HGCalValidation/python/PostProcessorBarrel_cfi.py",
             "Validation/HGCalValidation/src/BarrelVHistoProducerAlgo.cc"
         ],
         "created_at": 1774468211,
         "number": 50551,
         "state": "open",
-        "updated_at": 1776748379
+        "updated_at": 1777125107
     },
     "50565": {
         "base_branch": "master",
