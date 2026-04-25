@@ -2494,20 +2494,6 @@
         "state": "open",
         "updated_at": 1776762026
     },
-    "50777": {
-        "base_branch": "CMSSW_16_1_X",
-        "changed_files_names": [
-            "Configuration/Generator/python/Pythia8Angantyr_pO_9p6TeV_MinimumBias_cfi.py",
-            "Configuration/Generator/python/Pythia8Angantyr_pO_9p6TeV_MinimumBias_skipRefit_cfi.py",
-            "GeneratorInterface/Pythia8Interface/plugins/Pythia8Hadronizer.cc",
-            "GeneratorInterface/Pythia8Interface/plugins/Pythia8HepMC3Hadronizer.cc",
-            "GeneratorInterface/Pythia8Interface/test/test_Pythia8ConcurrentGeneratorFilter_HIN_pO_Angantyr.sh"
-        ],
-        "created_at": 1776762014,
-        "number": 50777,
-        "state": "open",
-        "updated_at": 1776762040
-    },
     "50782": {
         "base_branch": "master",
         "changed_files_names": [
