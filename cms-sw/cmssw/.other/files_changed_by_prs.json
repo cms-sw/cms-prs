@@ -2380,12 +2380,12 @@
     "50766": {
         "base_branch": "master",
         "changed_files_names": [
-            "DataFormats/VertexSoA/interface/OfflineVertexHostCollection.h",
-            "DataFormats/VertexSoA/interface/OfflineVertexSoA.h",
             "DataFormats/VertexSoA/interface/TrackForVertexHostCollection.h",
             "DataFormats/VertexSoA/interface/TrackForVertexSoA.h",
-            "DataFormats/VertexSoA/interface/alpaka/OfflineVertexDeviceCollection.h",
+            "DataFormats/VertexSoA/interface/VertexHostCollection.h",
+            "DataFormats/VertexSoA/interface/VertexSoA.h",
             "DataFormats/VertexSoA/interface/alpaka/TrackForVertexDeviceCollection.h",
+            "DataFormats/VertexSoA/interface/alpaka/VertexDeviceCollection.h",
             "DataFormats/VertexSoA/plugins/TrivialSerialisation.cc",
             "DataFormats/VertexSoA/plugins/alpaka/TrivialSerialisation.cc",
             "DataFormats/VertexSoA/src/alpaka/classes_cuda.h",
@@ -2413,7 +2413,7 @@
         "created_at": 1776685391,
         "number": 50766,
         "state": "open",
-        "updated_at": 1776945362
+        "updated_at": 1777302756
     },
     "50768": {
         "base_branch": "CMSSW_14_0_X",
