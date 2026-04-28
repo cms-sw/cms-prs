@@ -2666,39 +2666,6 @@
         "state": "open",
         "updated_at": 1776952651
     },
-    "50810": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "HeterogeneousCore/MPICore/interface/MPIChannel.h",
-            "HeterogeneousCore/MPICore/interface/MPIToken.h",
-            "HeterogeneousCore/MPICore/interface/messages.h",
-            "HeterogeneousCore/MPICore/plugins/MPIController.cc",
-            "HeterogeneousCore/MPICore/plugins/MPIReporter.cc",
-            "HeterogeneousCore/MPICore/plugins/MPISource.cc",
-            "HeterogeneousCore/MPICore/src/MPIChannel.cc",
-            "HeterogeneousCore/MPICore/src/MPIToken.cc",
-            "HeterogeneousCore/MPICore/src/messages.cc",
-            "HeterogeneousCore/MPICore/test/controller_cfg.py",
-            "HeterogeneousCore/MPICore/test/controller_complex_cfg.py",
-            "HeterogeneousCore/MPICore/test/controller_filters_cfg.py",
-            "HeterogeneousCore/MPICore/test/controller_multi_cfg.py",
-            "HeterogeneousCore/MPICore/test/controller_multi_rr_cfg.py",
-            "HeterogeneousCore/MPICore/test/controller_rr_cfg.py",
-            "HeterogeneousCore/MPICore/test/controller_soa_cfg.py",
-            "HeterogeneousCore/MPICore/test/controller_too_many_streams_cfg.py",
-            "HeterogeneousCore/MPICore/test/follower_cfg.py",
-            "HeterogeneousCore/MPICore/test/follower_complex_cfg.py",
-            "HeterogeneousCore/MPICore/test/follower_filters_cfg.py",
-            "HeterogeneousCore/MPICore/test/follower_multi1_cfg.py",
-            "HeterogeneousCore/MPICore/test/follower_multi2_cfg.py",
-            "HeterogeneousCore/MPICore/test/follower_soa_cfg.py",
-            "HeterogeneousCore/MPICore/test/follower_too_many_streams_cfg.py"
-        ],
-        "created_at": 1776981707,
-        "number": 50810,
-        "state": "open",
-        "updated_at": 1776981736
-    },
     "50811": {
         "base_branch": "master",
         "changed_files_names": [
