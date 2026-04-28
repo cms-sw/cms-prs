@@ -2478,36 +2478,6 @@
         "state": "open",
         "updated_at": 1777407003
     },
-    "50789": {
-        "base_branch": "CMSSW_16_0_X",
-        "changed_files_names": [
-            "CalibMuon/CSCCalibration/python/CSCCustomizeBendingAngle_cfi.py",
-            "CondFormats/CSCObjects/interface/CSCL1TPLookupTableME11ILT.h",
-            "CondFormats/CSCObjects/interface/CSCL1TPLookupTableME21ILT.h",
-            "CondFormats/CSCObjects/src/CSCL1TPLookupTableME11ILT.cc",
-            "CondFormats/CSCObjects/src/CSCL1TPLookupTableME21ILT.cc",
-            "DQM/CSCMonitorModule/data/emuDQMBooking.xml",
-            "DQM/CSCMonitorModule/plugins/CSCDQM_EventProcessor_processCSC.cc",
-            "DQM/CSCMonitorModule/plugins/CSCDQM_HistoNames.icc",
-            "DataFormats/CSCDigi/interface/CSCCorrelatedLCTDigi.h",
-            "DataFormats/CSCDigi/src/CSCCorrelatedLCTDigi.cc",
-            "DataFormats/CSCDigi/src/classes_def.xml",
-            "DataFormats/L1CSCTrackFinder/src/classes_def.xml",
-            "DataFormats/L1TMuon/src/EMTFHit.cc",
-            "EventFilter/CSCRawToDigi/interface/CSCTMBHeader.h",
-            "EventFilter/CSCRawToDigi/interface/CSCTMBHeader2020_GEM_Run3b.h",
-            "EventFilter/CSCRawToDigi/src/CSCTMBHeader.cc",
-            "EventFilter/CSCRawToDigi/src/CSCTMBHeader2020_GEM_Run3b.cc",
-            "L1Trigger/CSCTriggerPrimitives/interface/CSCGEMMotherboard.h",
-            "L1Trigger/CSCTriggerPrimitives/src/CSCGEMMotherboard.cc",
-            "L1Trigger/CSCTriggerPrimitives/src/CSCMotherboard.cc",
-            "L1Trigger/CSCTriggerPrimitives/test/runCSCTriggerPrimitiveProducer_cfg.py"
-        ],
-        "created_at": 1776872644,
-        "number": 50789,
-        "state": "open",
-        "updated_at": 1776989671
-    },
     "50790": {
         "base_branch": "master",
         "changed_files_names": [
