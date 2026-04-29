@@ -2731,5 +2731,17 @@
         "number": 50826,
         "state": "open",
         "updated_at": 1777396001
+    },
+    "50827": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/PatCandidates/interface/IsolatedTrack.h",
+            "PhysicsTools/PatAlgos/plugins/PATIsolatedTrackRekeyer.cc",
+            "PhysicsTools/PatAlgos/python/slimming/miniAODFromMiniAOD_tools.py"
+        ],
+        "created_at": 1777448763,
+        "number": 50827,
+        "state": "open",
+        "updated_at": 1777448788
     }
 }
