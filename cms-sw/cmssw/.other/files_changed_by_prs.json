@@ -1857,8 +1857,8 @@
             "SimGeneral/MixingModule/python/caloTruthProducer_cfi.py",
             "SimGeneral/MixingModule/python/digitizers_cfi.py",
             "Validation/Configuration/python/hgcalSimValid_cff.py",
+            "Validation/Configuration/python/hltBarrelSimValid_cff.py",
             "Validation/Configuration/python/hltHGCalSimValid_cff.py",
-            "Validation/HGCalValidation/plugins/BarrelValidator.cc",
             "Validation/HGCalValidation/plugins/HGCalValidator.cc",
             "Validation/HGCalValidation/python/HLTHGCalValidator_cff.py",
             "Validation/RecoParticleFlow/plugins/BuildFile.xml",
@@ -1878,7 +1878,7 @@
         "created_at": 1772527151,
         "number": 50292,
         "state": "open",
-        "updated_at": 1776753264
+        "updated_at": 1777471453
     },
     "50467": {
         "base_branch": "master",
