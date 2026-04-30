@@ -2478,5 +2478,19 @@
         "number": 50834,
         "state": "open",
         "updated_at": 1777529754
+    },
+    "50837": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondCore/ESSources/interface/registration_macros.h",
+            "FWCore/ParameterSet/interface/ValidatedPluginMacros.h",
+            "FWCore/PluginManager/interface/PluginFactory.h",
+            "HeterogeneousCore/TrivialSerialisation/interface/SerialiserFactory.h",
+            "HeterogeneousCore/TrivialSerialisation/interface/alpaka/SerialiserFactoryDevice.h"
+        ],
+        "created_at": 1777546299,
+        "number": 50837,
+        "state": "open",
+        "updated_at": 1777546328
     }
 }
