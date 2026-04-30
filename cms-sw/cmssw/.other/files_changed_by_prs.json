@@ -2456,12 +2456,13 @@
             "Geometry/HGCalCommonData/test/python/dumpHGCalDD4hep_cfg.py",
             "Geometry/HGCalGeometry/src/HGCalGeometry.cc",
             "Geometry/HGCalGeometry/src/HGCalGeometryLoader.cc",
-            "Geometry/HGCalGeometry/test/python/testHGCalValidScintTest_cfg.py"
+            "Geometry/HGCalGeometry/test/python/testHGCalValidScintTest_cfg.py",
+            "SimG4CMS/Calo/src/HGCalNumberingScheme.cc"
         ],
         "created_at": 1777523846,
         "number": 50831,
         "state": "open",
-        "updated_at": 1777523875
+        "updated_at": 1777527822
     },
     "50832": {
         "base_branch": "master",
