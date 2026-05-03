@@ -1499,7 +1499,7 @@
         "created_at": 1769261230,
         "number": 49932,
         "state": "open",
-        "updated_at": 1777294881
+        "updated_at": 1777528914
     },
     "49942": {
         "base_branch": "master",
@@ -1799,7 +1799,7 @@
         "created_at": 1772527151,
         "number": 50292,
         "state": "open",
-        "updated_at": 1777471453
+        "updated_at": 1777665124
     },
     "50487": {
         "base_branch": "master",
@@ -1814,6 +1814,29 @@
     "50503": {
         "base_branch": "master",
         "changed_files_names": [
+            "DataFormats/BeamSpot/plugins/alpaka/TrivialSerialisation.cc",
+            "DataFormats/EcalDigi/plugins/alpaka/TrivialSerialisation.cc",
+            "DataFormats/EcalRecHit/plugins/alpaka/TrivialSerialisation.cc",
+            "DataFormats/HGCalDigi/plugins/alpaka/TrivialSerialisation.cc",
+            "DataFormats/HGCalReco/plugins/alpaka/TrivialSerialisation.cc",
+            "DataFormats/HcalDigi/plugins/alpaka/TrivialSerialisation.cc",
+            "DataFormats/HcalRecHit/plugins/alpaka/TrivialSerialisation.cc",
+            "DataFormats/ParticleFlowReco/plugins/alpaka/TrivialSerialisation.cc",
+            "DataFormats/PortableTestObjects/plugins/alpaka/TrivialSerialisation.cc",
+            "DataFormats/SiPixelClusterSoA/plugins/alpaka/TrivialSerialisation.cc",
+            "DataFormats/SiPixelDigiSoA/plugins/alpaka/TrivialSerialisation.cc",
+            "DataFormats/SiStripClusterSoA/plugins/BuildFile.xml",
+            "DataFormats/SiStripClusterSoA/plugins/TrivialSerialisation.cc",
+            "DataFormats/SiStripClusterSoA/plugins/alpaka/TrivialSerialisation.cc",
+            "DataFormats/SiStripDigiSoA/plugins/BuildFile.xml",
+            "DataFormats/SiStripDigiSoA/plugins/TrivialSerialisation.cc",
+            "DataFormats/SiStripDigiSoA/plugins/alpaka/TrivialSerialisation.cc",
+            "DataFormats/TrackSoA/plugins/alpaka/TrivialSerialisation.cc",
+            "DataFormats/TrackingRecHitSoA/plugins/alpaka/TrivialSerialisation.cc",
+            "DataFormats/VertexSoA/plugins/alpaka/TrivialSerialisation.cc",
+            "FWCore/Framework/interface/stream/implementors.h",
+            "FWCore/PluginManager/interface/PluginFactory.h",
+            "HeterogeneousCore/AlpakaCore/interface/alpaka/ProducerBase.h",
             "HeterogeneousCore/MPICore/interface/MPIChannel.h",
             "HeterogeneousCore/MPICore/interface/metadata.h",
             "HeterogeneousCore/MPICore/plugins/BuildFile.xml",
@@ -1821,19 +1844,22 @@
             "HeterogeneousCore/MPICore/plugins/alpaka/MPISenderPortable.cc",
             "HeterogeneousCore/MPICore/src/MPIChannel.cc",
             "HeterogeneousCore/MPICore/src/metadata.cc",
+            "HeterogeneousCore/MPICore/test/BuildFile.xml",
             "HeterogeneousCore/MPICore/test/controller_soa_device_cfg.py",
             "HeterogeneousCore/MPICore/test/follower_soa_device_cfg.py",
             "HeterogeneousCore/TrivialSerialisation/interface/alpaka/Serialiser.h",
             "HeterogeneousCore/TrivialSerialisation/interface/alpaka/SerialiserBase.h",
+            "HeterogeneousCore/TrivialSerialisation/interface/alpaka/SerialiserFactoryDevice.h",
             "HeterogeneousCore/TrivialSerialisation/plugins/BuildFile.xml",
             "HeterogeneousCore/TrivialSerialisation/plugins/alpaka/GenericClonerDevice.cc",
+            "HeterogeneousCore/TrivialSerialisation/plugins/alpaka/GenericClonerHost.cc",
             "HeterogeneousCore/TrivialSerialisation/test/BuildFile.xml",
             "HeterogeneousCore/TrivialSerialisation/test/testGenericClonerDevice_cfg.py"
         ],
         "created_at": 1774313086,
         "number": 50503,
         "state": "open",
-        "updated_at": 1776428281
+        "updated_at": 1777821517
     },
     "50505": {
         "base_branch": "master",
@@ -1904,7 +1930,7 @@
         "created_at": 1774468211,
         "number": 50551,
         "state": "open",
-        "updated_at": 1777125271
+        "updated_at": 1777479017
     },
     "50565": {
         "base_branch": "master",
@@ -1990,7 +2016,7 @@
         "created_at": 1775148186,
         "number": 50644,
         "state": "open",
-        "updated_at": 1776235848
+        "updated_at": 1777657005
     },
     "50669": {
         "base_branch": "master",
@@ -2058,7 +2084,7 @@
         "created_at": 1775570330,
         "number": 50679,
         "state": "open",
-        "updated_at": 1777405529
+        "updated_at": 1777647534
     },
     "50685": {
         "base_branch": "master",
@@ -2145,7 +2171,7 @@
         "created_at": 1776429931,
         "number": 50750,
         "state": "open",
-        "updated_at": 1777468936
+        "updated_at": 1777534884
     },
     "50766": {
         "base_branch": "master",
@@ -2206,7 +2232,7 @@
         "created_at": 1776849270,
         "number": 50783,
         "state": "open",
-        "updated_at": 1777407003
+        "updated_at": 1777414160
     },
     "50790": {
         "base_branch": "master",
@@ -2258,7 +2284,7 @@
         "created_at": 1776925471,
         "number": 50794,
         "state": "open",
-        "updated_at": 1777406904
+        "updated_at": 1777414250
     },
     "50800": {
         "base_branch": "master",
@@ -2271,7 +2297,7 @@
         "created_at": 1776952252,
         "number": 50800,
         "state": "open",
-        "updated_at": 1777445072
+        "updated_at": 1777448893
     },
     "50801": {
         "base_branch": "master",
@@ -2329,7 +2355,7 @@
         "created_at": 1777322453,
         "number": 50820,
         "state": "open",
-        "updated_at": 1777388195
+        "updated_at": 1777514716
     },
     "50822": {
         "base_branch": "master",
@@ -2339,7 +2365,7 @@
         "created_at": 1777390656,
         "number": 50822,
         "state": "open",
-        "updated_at": 1777410953
+        "updated_at": 1777552094
     },
     "50824": {
         "base_branch": "CMSSW_16_1_X",
@@ -2349,7 +2375,7 @@
         "created_at": 1777395867,
         "number": 50824,
         "state": "open",
-        "updated_at": 1777395891
+        "updated_at": 1777617426
     },
     "50826": {
         "base_branch": "CMSSW_16_0_X",
@@ -2359,7 +2385,7 @@
         "created_at": 1777395975,
         "number": 50826,
         "state": "open",
-        "updated_at": 1777396001
+        "updated_at": 1777617424
     },
     "50827": {
         "base_branch": "master",
@@ -2371,7 +2397,7 @@
         "created_at": 1777448763,
         "number": 50827,
         "state": "open",
-        "updated_at": 1777448788
+        "updated_at": 1777468970
     },
     "50832": {
         "base_branch": "master",
@@ -2387,7 +2413,7 @@
         "created_at": 1777524126,
         "number": 50832,
         "state": "open",
-        "updated_at": 1777524154
+        "updated_at": 1777711092
     },
     "50834": {
         "base_branch": "CMSSW_13_0_X",
@@ -2400,7 +2426,7 @@
         "created_at": 1777529727,
         "number": 50834,
         "state": "open",
-        "updated_at": 1777529754
+        "updated_at": 1777791245
     },
     "50837": {
         "base_branch": "master",
@@ -2414,7 +2440,7 @@
         "created_at": 1777546299,
         "number": 50837,
         "state": "open",
-        "updated_at": 1777546328
+        "updated_at": 1777562134
     },
     "50840": {
         "base_branch": "CMSSW_16_1_X",
@@ -2426,7 +2452,7 @@
         "created_at": 1777557033,
         "number": 50840,
         "state": "open",
-        "updated_at": 1777557060
+        "updated_at": 1777797424
     },
     "50841": {
         "base_branch": "CMSSW_16_0_X",
@@ -2438,7 +2464,7 @@
         "created_at": 1777557120,
         "number": 50841,
         "state": "open",
-        "updated_at": 1777557145
+        "updated_at": 1777797422
     },
     "50842": {
         "base_branch": "master",
@@ -2448,7 +2474,7 @@
         "created_at": 1777563322,
         "number": 50842,
         "state": "open",
-        "updated_at": 1777563348
+        "updated_at": 1777570159
     },
     "50843": {
         "base_branch": "master",
@@ -2475,7 +2501,7 @@
         "created_at": 1777578047,
         "number": 50843,
         "state": "open",
-        "updated_at": 1777643345
+        "updated_at": 1777756727
     },
     "50846": {
         "base_branch": "CMSSW_17_0_EVOLUTION_X",
@@ -2490,7 +2516,7 @@
         "created_at": 1777654117,
         "number": 50846,
         "state": "open",
-        "updated_at": 1777655225
+        "updated_at": 1777673922
     },
     "50847": {
         "base_branch": "CMSSW_17_0_EVOLUTION_X",
@@ -2502,7 +2528,7 @@
         "created_at": 1777654220,
         "number": 50847,
         "state": "open",
-        "updated_at": 1777654246
+        "updated_at": 1777667051
     },
     "50848": {
         "base_branch": "CMSSW_17_0_EVOLUTION_X",
@@ -2513,7 +2539,7 @@
         "created_at": 1777654314,
         "number": 50848,
         "state": "open",
-        "updated_at": 1777654334
+        "updated_at": 1777667299
     },
     "50849": {
         "base_branch": "CMSSW_17_0_EVOLUTION_X",
@@ -2530,7 +2556,7 @@
         "created_at": 1777654614,
         "number": 50849,
         "state": "open",
-        "updated_at": 1777654637
+        "updated_at": 1777672297
     },
     "50850": {
         "base_branch": "CMSSW_17_0_EVOLUTION_X",
@@ -2571,7 +2597,7 @@
         "created_at": 1777654843,
         "number": 50850,
         "state": "open",
-        "updated_at": 1777655176
+        "updated_at": 1777661796
     },
     "50851": {
         "base_branch": "CMSSW_17_0_EVOLUTION_X",
@@ -2588,7 +2614,7 @@
         "created_at": 1777655286,
         "number": 50851,
         "state": "open",
-        "updated_at": 1777655311
+        "updated_at": 1777696729
     },
     "50852": {
         "base_branch": "CMSSW_17_0_EVOLUTION_X",
@@ -2613,7 +2639,7 @@
         "created_at": 1777655413,
         "number": 50852,
         "state": "open",
-        "updated_at": 1777655440
+        "updated_at": 1777696700
     },
     "50853": {
         "base_branch": "CMSSW_17_0_EVOLUTION_X",
@@ -2627,7 +2653,7 @@
         "created_at": 1777655518,
         "number": 50853,
         "state": "open",
-        "updated_at": 1777655540
+        "updated_at": 1777667380
     },
     "50854": {
         "base_branch": "master",
@@ -2637,7 +2663,7 @@
         "created_at": 1777656310,
         "number": 50854,
         "state": "open",
-        "updated_at": 1777656335
+        "updated_at": 1777666909
     },
     "50855": {
         "base_branch": "CMSSW_17_0_EVOLUTION_X",
@@ -2672,7 +2698,7 @@
         "created_at": 1777663043,
         "number": 50855,
         "state": "open",
-        "updated_at": 1777813124
+        "updated_at": 1777821143
     },
     "50856": {
         "base_branch": "master",
@@ -2684,7 +2710,7 @@
         "created_at": 1777664050,
         "number": 50856,
         "state": "open",
-        "updated_at": 1777664075
+        "updated_at": 1777672505
     },
     "50857": {
         "base_branch": "master",
@@ -2694,7 +2720,7 @@
         "created_at": 1777676614,
         "number": 50857,
         "state": "open",
-        "updated_at": 1777676645
+        "updated_at": 1777689051
     },
     "50860": {
         "base_branch": "master",
@@ -2719,7 +2745,7 @@
         "created_at": 1777781314,
         "number": 50860,
         "state": "open",
-        "updated_at": 1777781336
+        "updated_at": 1777800396
     },
     "50861": {
         "base_branch": "CMSSW_16_1_X",
@@ -2751,7 +2777,7 @@
         "created_at": 1777786909,
         "number": 50861,
         "state": "open",
-        "updated_at": 1777786933
+        "updated_at": 1777802510
     },
     "50862": {
         "base_branch": "master",
@@ -2805,7 +2831,7 @@
         "created_at": 1777794858,
         "number": 50862,
         "state": "open",
-        "updated_at": 1777794886
+        "updated_at": 1777810192
     },
     "50863": {
         "base_branch": "CMSSW_16_1_X",
@@ -2862,7 +2888,7 @@
         "created_at": 1777795411,
         "number": 50863,
         "state": "open",
-        "updated_at": 1777795442
+        "updated_at": 1777810243
     },
     "50864": {
         "base_branch": "CMSSW_17_0_EVOLUTION_X",
@@ -2886,6 +2912,6 @@
         "created_at": 1777807807,
         "number": 50864,
         "state": "open",
-        "updated_at": 1777807837
+        "updated_at": 1777816910
     }
 }
