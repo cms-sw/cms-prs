@@ -2655,6 +2655,7 @@
         "base_branch": "CMSSW_17_0_EVOLUTION_X",
         "changed_files_names": [
             "AnalysisDataFormats/SUSYBSMObjects/src/classes_def.xml",
+            "DQM/GEM/plugins/GEMEffByGEMCSCSegmentSource.cc",
             "DataFormats/CSCRecHit/interface/CSCRecHit2DCollection.h",
             "DataFormats/CSCRecHit/interface/CSCSegmentCollection.h",
             "DataFormats/CSCRecHit/src/classes_def.xml",
@@ -2666,8 +2667,11 @@
             "DataFormats/DTRecHit/src/classes_def.xml",
             "DataFormats/DTRecHit/test/BuildFile.xml",
             "DataFormats/DTRecHit/test/test_catch2_DTRangeMapAccessor.cc",
+            "DataFormats/GEMRecHit/interface/GEMCSCSegmentCollection.h",
             "DataFormats/GEMRecHit/interface/GEMRecHitCollection.h",
             "DataFormats/GEMRecHit/interface/GEMSegmentCollection.h",
+            "DataFormats/GEMRecHit/interface/ME0RecHitCollection.h",
+            "DataFormats/GEMRecHit/interface/ME0SegmentCollection.h",
             "DataFormats/GEMRecHit/src/classes_def.xml",
             "DataFormats/MuonDetId/src/classes.h",
             "DataFormats/MuonDetId/src/classes_def.xml",
@@ -2678,13 +2682,15 @@
             "FWCore/Utilities/src/FriendlyName.cc",
             "FWCore/Utilities/test/test_catch2_friendlyname.cc",
             "PhysicsTools/NanoAOD/plugins/dtMDSshowerTableProducer.cc",
+            "RecoLocalMuon/GEMCSCSegment/test/GEMCSCCoincidenceRateAnalyzer.cc",
             "RecoLocalMuon/RPCRecHit/plugins/DTSegtoRPC.cc",
-            "TauAnalysis/MCEmbeddingTools/interface/MuonDetCleaner.h"
+            "TauAnalysis/MCEmbeddingTools/interface/MuonDetCleaner.h",
+            "TauAnalysis/MCEmbeddingTools/plugins/CollectionMerger.cc"
         ],
         "created_at": 1777663043,
         "number": 50855,
         "state": "open",
-        "updated_at": 1777821143
+        "updated_at": 1777899054
     },
     "50856": {
         "base_branch": "master",
