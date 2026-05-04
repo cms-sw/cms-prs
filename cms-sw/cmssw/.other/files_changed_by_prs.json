@@ -2889,29 +2889,5 @@
         "number": 50863,
         "state": "open",
         "updated_at": 1777810243
-    },
-    "50864": {
-        "base_branch": "CMSSW_17_0_EVOLUTION_X",
-        "changed_files_names": [
-            "DataFormats/L1TMuonPhase2/interface/Constants.h",
-            "DataFormats/L1TMuonPhase2/interface/MuonStub.h",
-            "DataFormats/L1TMuonPhase2/src/MuonStub.cc",
-            "HeterogeneousCore/AlpakaCore/python/ProcessAcceleratorAlpaka.py",
-            "HeterogeneousCore/AlpakaCore/test/BuildFile.xml",
-            "HeterogeneousCore/AlpakaCore/test/testProcessAcceleratorAlpaka.py",
-            "L1Trigger/Phase2L1GMT/interface/ConvertedTTTrack.h",
-            "L1Trigger/Phase2L1GMT/interface/PreTrackMatchedMuon.h",
-            "L1Trigger/Phase2L1GMT/interface/TPSAlgorithm.h",
-            "L1Trigger/Phase2L1GMT/interface/TrackConverter.h",
-            "L1Trigger/Phase2L1GMT/plugins/Phase2L1TGMTStubProducer.cc",
-            "L1Trigger/Phase2L1GMT/src/L1TPhase2GMTBarrelStubProcessor.cc",
-            "L1Trigger/Phase2L1GMT/src/TPS.cc",
-            "L1Trigger/Phase2L1GMT/src/TPSAlgorithm.cc",
-            "L1Trigger/Phase2L1GMT/src/TrackConverter.cc"
-        ],
-        "created_at": 1777807807,
-        "number": 50864,
-        "state": "open",
-        "updated_at": 1777816910
     }
 }
