@@ -2108,6 +2108,7 @@
             "DataFormats/PortableTestObjects/interface/SchemaEvolutionHostCollection.h",
             "DataFormats/PortableTestObjects/interface/SchemaEvolutionSoA.h",
             "DataFormats/PortableTestObjects/plugins/BuildFile.xml",
+            "DataFormats/PortableTestObjects/plugins/EvolutionFiveAnalyzer.cc",
             "DataFormats/PortableTestObjects/plugins/EvolutionFourAnalyzer.cc",
             "DataFormats/PortableTestObjects/plugins/EvolutionOneAnalyzer.cc",
             "DataFormats/PortableTestObjects/plugins/EvolutionThreeAnalyzer.cc",
@@ -2117,6 +2118,7 @@
             "DataFormats/PortableTestObjects/src/classes.cc",
             "DataFormats/PortableTestObjects/src/classes.h",
             "DataFormats/PortableTestObjects/src/classes_def.xml",
+            "DataFormats/PortableTestObjects/test/SchemaEvolutionFiveReader.py",
             "DataFormats/PortableTestObjects/test/SchemaEvolutionFourReader.py",
             "DataFormats/PortableTestObjects/test/SchemaEvolutionOneReader.py",
             "DataFormats/PortableTestObjects/test/SchemaEvolutionThreeReader.py",
@@ -2131,7 +2133,7 @@
         "created_at": 1775650474,
         "number": 50691,
         "state": "open",
-        "updated_at": 1775725569
+        "updated_at": 1777895106
     },
     "50750": {
         "base_branch": "master",
