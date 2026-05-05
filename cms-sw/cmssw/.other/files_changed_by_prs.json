@@ -2578,38 +2578,6 @@
         "state": "open",
         "updated_at": 1777689051
     },
-    "50861": {
-        "base_branch": "CMSSW_16_1_X",
-        "changed_files_names": [
-            "Geometry/HGCalGeometry/test/python/testHGCalCellDumpDD4hep_cfg.py",
-            "Geometry/HGCalGeometry/test/python/testHGCalCellDumpDDD_cfg.py",
-            "Geometry/HGCalGeometry/test/python/testHGCalCorner_cfg.py",
-            "Geometry/HGCalGeometry/test/python/testHGCalGeomLocatorHSi_cfg.py",
-            "Geometry/HGCalGeometry/test/python/testHGCalGeomLocatorSc_cfg.py",
-            "Geometry/HGCalGeometry/test/python/testHGCalGeomLocator_cfg.py",
-            "Geometry/HGCalGeometry/test/python/testHGCalGeometryCheck_cfg.py",
-            "Geometry/HGCalGeometry/test/python/testHGCalGeometryMouseBite_cfg.py",
-            "Geometry/HGCalGeometry/test/python/testHGCalGeometryNewCorners_cfg.py",
-            "Geometry/HGCalGeometry/test/python/testHGCalGeometryRotCheck_cfg.py",
-            "Geometry/HGCalGeometry/test/python/testHGCalGeometryRotTest_cfg.py",
-            "Geometry/HGCalGeometry/test/python/testHGCalRecHitTool_cfg.py",
-            "Geometry/HGCalGeometry/test/python/testHGCalValidScintTest_cfg.py",
-            "Geometry/HGCalGeometry/test/python/testHGCalWaferInFileCheck_cfg.py",
-            "Geometry/HGCalGeometry/test/python/testHGCalWaferInfo_cfg.py",
-            "Geometry/HGCalGeometry/test/python/testHGCalWaferSimWt_cfg.py",
-            "Geometry/HGCalGeometry/test/python/testHGCalWaferTypeTester_cfg.py",
-            "SimG4CMS/Calo/test/python/runHGC11_cfg.py",
-            "SimG4CMS/Calo/test/python/runHGC5_cfg.py",
-            "SimG4CMS/Calo/test/python/runHGC6_cfg.py",
-            "SimG4CMS/Calo/test/python/runHGC7_cfg.py",
-            "SimG4CMS/Calo/test/python/runHGC8_cfg.py",
-            "SimG4CMS/Calo/test/python/runHGC9_cfg.py"
-        ],
-        "created_at": 1777786909,
-        "number": 50861,
-        "state": "open",
-        "updated_at": 1777802510
-    },
     "50863": {
         "base_branch": "CMSSW_16_1_X",
         "changed_files_names": [
