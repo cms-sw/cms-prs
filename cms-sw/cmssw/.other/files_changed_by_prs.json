@@ -2716,43 +2716,6 @@
         "state": "open",
         "updated_at": 1777906950
     },
-    "50878": {
-        "base_branch": "CMSSW_16_1_X",
-        "changed_files_names": [
-            "Configuration/HLT/python/autoCondHLT.py",
-            "Configuration/HLT/python/autoHLT.py",
-            "HLTrigger/Configuration/python/HLT_2026v13_cff.py",
-            "HLTrigger/Configuration/python/HLT_2026v12_cff.py",
-            "HLTrigger/Configuration/python/HLT_FULL_cff.py",
-            "HLTrigger/Configuration/python/HLT_GRun_cff.py",
-            "HLTrigger/Configuration/python/HLT_HIon_cff.py",
-            "HLTrigger/Configuration/python/HLT_PIon_cff.py",
-            "HLTrigger/Configuration/python/HLT_PRef_cff.py",
-            "HLTrigger/Configuration/python/HLT_Special_cff.py",
-            "HLTrigger/Configuration/python/HLTrigger_Datasets_GRun_cff.py",
-            "HLTrigger/Configuration/python/HLTrigger_Datasets_HIon_cff.py",
-            "HLTrigger/Configuration/python/HLTrigger_Datasets_PRef_cff.py",
-            "HLTrigger/Configuration/python/Tools/options.py",
-            "HLTrigger/Configuration/tables/makeOnlineGRun",
-            "HLTrigger/Configuration/tables/makeOnlineSpecial",
-            "HLTrigger/Configuration/test/OnLine_HLT_2026v13.py",
-            "HLTrigger/Configuration/test/OnLine_HLT_2026v12.py",
-            "HLTrigger/Configuration/test/OnLine_HLT_FULL.py",
-            "HLTrigger/Configuration/test/OnLine_HLT_GRun.py",
-            "HLTrigger/Configuration/test/OnLine_HLT_HIon.py",
-            "HLTrigger/Configuration/test/OnLine_HLT_PIon.py",
-            "HLTrigger/Configuration/test/OnLine_HLT_PRef.py",
-            "HLTrigger/Configuration/test/OnLine_HLT_Special.py",
-            "HLTrigger/Configuration/test/cmsDriver.csh",
-            "HLTrigger/Configuration/test/getFrozenHLT.sh",
-            "HLTrigger/Configuration/test/runIntegration.csh",
-            "HLTrigger/Configuration/test/runOne.csh"
-        ],
-        "created_at": 1777914727,
-        "number": 50878,
-        "state": "open",
-        "updated_at": 1777914746
-    },
     "50879": {
         "base_branch": "CMSSW_16_0_X",
         "changed_files_names": [
