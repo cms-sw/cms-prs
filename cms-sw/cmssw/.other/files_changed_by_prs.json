@@ -3044,5 +3044,26 @@
         "number": 50894,
         "state": "open",
         "updated_at": 1778073828
+    },
+    "50896": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/L1DTTrackFinder/interface/L1Phase2MuDTShower.h",
+            "DataFormats/L1DTTrackFinder/src/L1Phase2MuDTShower.cc",
+            "DataFormats/L1DTTrackFinder/src/classes_def.xml",
+            "L1Trigger/DTTriggerPhase2/interface/DTprimitive.h",
+            "L1Trigger/DTTriggerPhase2/interface/ShowerBuilder.h",
+            "L1Trigger/DTTriggerPhase2/interface/ShowerCandidate.h",
+            "L1Trigger/DTTriggerPhase2/plugins/BuildFile.xml",
+            "L1Trigger/DTTriggerPhase2/plugins/DTTrigPhase2ShowerProd.cc",
+            "L1Trigger/DTTriggerPhase2/python/dtTriggerPhase2Showers_cfi.py",
+            "L1Trigger/DTTriggerPhase2/src/DTprimitive.cc",
+            "L1Trigger/DTTriggerPhase2/src/ShowerBuilder.cc",
+            "L1Trigger/DTTriggerPhase2/src/ShowerCandidate.cc"
+        ],
+        "created_at": 1778089913,
+        "number": 50896,
+        "state": "open",
+        "updated_at": 1778089941
     }
 }
