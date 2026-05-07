@@ -1835,7 +1835,7 @@
             "DataFormats/TrackingRecHitSoA/plugins/alpaka/TrivialSerialisation.cc",
             "DataFormats/VertexSoA/plugins/alpaka/TrivialSerialisation.cc",
             "FWCore/Framework/interface/stream/implementors.h",
-            "FWCore/PluginManager/interface/PluginFactory.h",
+            "FWCore/Framework/test/stream_producer_catch2.cc",
             "HeterogeneousCore/AlpakaCore/interface/alpaka/ProducerBase.h",
             "HeterogeneousCore/MPICore/interface/MPIChannel.h",
             "HeterogeneousCore/MPICore/interface/metadata.h",
@@ -1847,19 +1847,21 @@
             "HeterogeneousCore/MPICore/test/BuildFile.xml",
             "HeterogeneousCore/MPICore/test/controller_soa_device_cfg.py",
             "HeterogeneousCore/MPICore/test/follower_soa_device_cfg.py",
+            "HeterogeneousCore/TrivialSerialisation/interface/Reader.h",
             "HeterogeneousCore/TrivialSerialisation/interface/alpaka/Serialiser.h",
             "HeterogeneousCore/TrivialSerialisation/interface/alpaka/SerialiserBase.h",
             "HeterogeneousCore/TrivialSerialisation/interface/alpaka/SerialiserFactoryDevice.h",
             "HeterogeneousCore/TrivialSerialisation/plugins/BuildFile.xml",
-            "HeterogeneousCore/TrivialSerialisation/plugins/alpaka/GenericClonerDevice.cc",
-            "HeterogeneousCore/TrivialSerialisation/plugins/alpaka/GenericClonerHost.cc",
+            "HeterogeneousCore/TrivialSerialisation/plugins/alpaka/GenericClonerPortable.cc",
+            "HeterogeneousCore/TrivialSerialisation/src/Serialiser.cc",
             "HeterogeneousCore/TrivialSerialisation/test/BuildFile.xml",
+            "HeterogeneousCore/TrivialSerialisation/test/alpaka/test_catch2_portableCollectionsSerialiserPluginFactory.dev.cc",
             "HeterogeneousCore/TrivialSerialisation/test/testGenericClonerDevice_cfg.py"
         ],
         "created_at": 1774313086,
         "number": 50503,
         "state": "open",
-        "updated_at": 1777821517
+        "updated_at": 1778108496
     },
     "50505": {
         "base_branch": "master",
