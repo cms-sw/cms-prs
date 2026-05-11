@@ -3155,5 +3155,29 @@
         "number": 50911,
         "state": "open",
         "updated_at": 1778264539
+    },
+    "50913": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "PhysicsTools/TruthInfo/BuildFile.xml",
+            "PhysicsTools/TruthInfo/README.md",
+            "PhysicsTools/TruthInfo/interface/Graph.h",
+            "PhysicsTools/TruthInfo/interface/TruthGraph.h",
+            "PhysicsTools/TruthInfo/plugins/BuildFile.xml",
+            "PhysicsTools/TruthInfo/plugins/TruthGraphDumper.cc",
+            "PhysicsTools/TruthInfo/plugins/TruthGraphProducer.cc",
+            "PhysicsTools/TruthInfo/plugins/TruthLogicalGraphDumper.cc",
+            "PhysicsTools/TruthInfo/plugins/TruthLogicalGraphProducer.cc",
+            "PhysicsTools/TruthInfo/python/truthGraphProducer_cfi.py",
+            "PhysicsTools/TruthInfo/python/truthLogicalGraphDumper_cfi.py",
+            "PhysicsTools/TruthInfo/src/Graph.cc",
+            "PhysicsTools/TruthInfo/src/TruthGraph.cc",
+            "PhysicsTools/TruthInfo/src/classes.h",
+            "PhysicsTools/TruthInfo/src/classes_def.xml"
+        ],
+        "created_at": 1778480862,
+        "number": 50913,
+        "state": "open",
+        "updated_at": 1778480889
     }
 }
