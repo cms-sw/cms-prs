@@ -3050,5 +3050,23 @@
         "number": 50917,
         "state": "open",
         "updated_at": 1778523049
+    },
+    "50918": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondFormats/MTDObjects/BuildFile.xml",
+            "CondFormats/MTDObjects/interface/BTLElectronicsMapping.h",
+            "CondFormats/MTDObjects/src/BTLElectronicsMapping.cc",
+            "Geometry/MTDCommonData/src/BTLElectronicsMapping.cc",
+            "CondFormats/MTDObjects/test/BuildFile.xml",
+            "CondFormats/MTDObjects/test/TestBTLElectronicsMapping.cc",
+            "CondFormats/MTDObjects/test/testBTLElectronicsMapping.py",
+            "Geometry/MTDCommonData/interface/BTLElectronicsMapping.h",
+            "Geometry/MTDCommonData/test/DD4hep_TestMTDIdealGeometry.cc"
+        ],
+        "created_at": 1778576178,
+        "number": 50918,
+        "state": "open",
+        "updated_at": 1778576210
     }
 }
