@@ -2732,12 +2732,17 @@
             "PhysicsTools/TruthInfo/src/TruthGraph.cc",
             "PhysicsTools/TruthInfo/src/classes.h",
             "PhysicsTools/TruthInfo/src/classes_def.xml",
-            "PhysicsTools/TruthInfo/test/dumpTruthGraphsFromStep1_cfg.py"
+            "PhysicsTools/TruthInfo/test/dumpTruthGraphsFromStep1_cfg.py",
+            "SimCalorimetry/HGCalAssociatorProducers/BuildFile.xml",
+            "SimCalorimetry/HGCalAssociatorProducers/interface/DetIdRecHitMap.h",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/SimHitToRecHitMapProducer.cc",
+            "SimCalorimetry/HGCalAssociatorProducers/src/classes.h",
+            "SimCalorimetry/HGCalAssociatorProducers/src/classes_def.xml"
         ],
         "created_at": 1778480862,
         "number": 50913,
         "state": "open",
-        "updated_at": 1778590328
+        "updated_at": 1778596609
     },
     "50915": {
         "base_branch": "master",
