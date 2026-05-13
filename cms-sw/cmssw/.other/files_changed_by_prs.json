@@ -2646,10 +2646,12 @@
             "PhysicsTools/TruthInfo/interface/TruthLogicalGraphPostProcessor.h",
             "PhysicsTools/TruthInfo/plugins/BuildFile.xml",
             "PhysicsTools/TruthInfo/plugins/LogicalGraphHitIndexProducer.cc",
+            "PhysicsTools/TruthInfo/plugins/RecHitFlatTableProducer.cc",
             "PhysicsTools/TruthInfo/plugins/TruthGraphDumper.cc",
             "PhysicsTools/TruthInfo/plugins/TruthGraphProducer.cc",
             "PhysicsTools/TruthInfo/plugins/TruthLogicalGraphDumper.cc",
             "PhysicsTools/TruthInfo/plugins/TruthLogicalGraphProducer.cc",
+            "PhysicsTools/TruthInfo/python/recHitTable_cff.py",
             "PhysicsTools/TruthInfo/src/Graph.cc",
             "PhysicsTools/TruthInfo/src/LogicalGraphHitIndexBuilder.cc",
             "PhysicsTools/TruthInfo/src/TruthGraph.cc",
@@ -2666,7 +2668,7 @@
         "created_at": 1778480862,
         "number": 50913,
         "state": "open",
-        "updated_at": 1778673608
+        "updated_at": 1778673808
     },
     "50915": {
         "base_branch": "master",
