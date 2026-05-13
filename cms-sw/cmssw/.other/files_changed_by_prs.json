@@ -2179,33 +2179,6 @@
         "state": "open",
         "updated_at": 1777370530
     },
-    "50819": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepSeedTracksLST_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepSeeds_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrackCandidates_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrajectorySeedsLST_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInputLST_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltIter0Phase2L3FromL1TkMuonPixelSeedsFromPixelTracks_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2L3MuonInitialStepSeeds_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/paths/DST_HeterogeneousReco_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTDoLocalPixelSequence_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTInitialStepSequence_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPhase2PixelTracksAndVerticesSequence_cfi.py",
-            "RecoTracker/IterativeTracking/python/HighPtTripletStep_cff.py",
-            "RecoTracker/LST/plugins/BuildFile.xml",
-            "RecoTracker/LST/plugins/LSTOutputConverter.cc",
-            "RecoTracker/LST/plugins/alpaka/LSTInputProducer.cc",
-            "RecoTracker/LST/python/lstSeedTracks_cff.py",
-            "RecoTracker/TkSeedGenerator/plugins/SeedGeneratorFromProtoTracksEDProducer.cc",
-            "RecoTracker/TkSeedGenerator/plugins/SeedGeneratorFromProtoTracksEDProducer.h"
-        ],
-        "created_at": 1777321512,
-        "number": 50819,
-        "state": "open",
-        "updated_at": 1777378530
-    },
     "50820": {
         "base_branch": "master",
         "changed_files_names": [
