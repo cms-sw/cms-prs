@@ -2608,6 +2608,8 @@
             "PhysicsTools/TruthInfo/src/TruthLogicalGraphPostProcessor.cc",
             "PhysicsTools/TruthInfo/src/classes.h",
             "PhysicsTools/TruthInfo/src/classes_def.xml",
+            "PhysicsTools/TruthInfo/test/BuildFile.xml",
+            "PhysicsTools/TruthInfo/test/TruthLogicalGraphPostProcessor_t.cpp",
             "PhysicsTools/TruthInfo/test/dumpTruthGraphsFromGENSIMRECO_cfg.py",
             "SimCalorimetry/HGCalAssociatorProducers/BuildFile.xml",
             "SimCalorimetry/HGCalAssociatorProducers/interface/DetIdRecHitMap.h",
@@ -2618,7 +2620,7 @@
         "created_at": 1778480862,
         "number": 50913,
         "state": "open",
-        "updated_at": 1778673808
+        "updated_at": 1778825948
     },
     "50915": {
         "base_branch": "master",
