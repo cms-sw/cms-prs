@@ -2587,6 +2587,8 @@
     "50913": {
         "base_branch": "master",
         "changed_files_names": [
+            "Configuration/ProcessModifiers/python/enableTruth_cff.py",
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
             "PhysicsTools/TruthInfo/BuildFile.xml",
             "PhysicsTools/TruthInfo/README.md",
             "PhysicsTools/TruthInfo/interface/Graph.h",
@@ -2620,7 +2622,7 @@
         "created_at": 1778480862,
         "number": 50913,
         "state": "open",
-        "updated_at": 1778825948
+        "updated_at": 1778859591
     },
     "50915": {
         "base_branch": "master",
