@@ -3064,5 +3064,17 @@
         "number": 50943,
         "state": "open",
         "updated_at": 1778769338
+    },
+    "50944": {
+        "base_branch": "CMSSW_16_1_X",
+        "changed_files_names": [
+            "DQM/HLTEvF/plugins/ScoutingCollectionMonitor.cc",
+            "DQM/HLTEvF/test/BuildFile.xml",
+            "DQM/HLTEvF/test/testScoutingCollectionMonitor.cc"
+        ],
+        "created_at": 1778828532,
+        "number": 50944,
+        "state": "open",
+        "updated_at": 1778828559
     }
 }
