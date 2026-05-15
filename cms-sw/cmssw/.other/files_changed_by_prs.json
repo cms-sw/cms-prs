@@ -2169,28 +2169,6 @@
         "state": "open",
         "updated_at": 1777370530
     },
-    "50820": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "FWCore/Modules/plugins/TimeStudyModules.cc",
-            "PerfTools/AllocMonitor/README.md",
-            "PerfTools/AllocMonitor/plugins/AllocProfilerCommon.cc",
-            "PerfTools/AllocMonitor/plugins/AllocProfilerCommon.h",
-            "PerfTools/AllocMonitor/plugins/IntrusiveAllocProfiler.cc",
-            "PerfTools/AllocMonitor/plugins/ModuleAllocProfiler.cc",
-            "PerfTools/AllocMonitor/scripts/edmAllocProfilerFoldStacks.py",
-            "PerfTools/AllocMonitor/scripts/edmIntrusiveAllocProfilerFoldStacks.py",
-            "PerfTools/AllocMonitor/test/BuildFile.xml",
-            "PerfTools/AllocMonitor/test/moduleAllocProfiler_cfg.py",
-            "PerfTools/AllocMonitor/test/runModuleAllocProfiler.sh",
-            "PerfTools/AllocMonitor/test/test_AllocProfilerCommon.cc",
-            "PerfTools/AllocMonitor/test/verifyIntrusiveAllocProfiler.py"
-        ],
-        "created_at": 1777322453,
-        "number": 50820,
-        "state": "open",
-        "updated_at": 1778608409
-    },
     "50827": {
         "base_branch": "master",
         "changed_files_names": [
