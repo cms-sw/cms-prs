@@ -3234,5 +3234,19 @@
         "number": 50954,
         "state": "open",
         "updated_at": 1778869535
+    },
+    "50955": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "GeneratorInterface/SherpaInterface/data/MakeSherpaLibs.sh",
+            "GeneratorInterface/SherpaInterface/data/PrepareSherpaLibs.sh",
+            "GeneratorInterface/SherpaInterface/data/README.md",
+            "GeneratorInterface/SherpaInterface/data/convert_sherpack.sh",
+            "GeneratorInterface/SherpaInterface/src/SherpackFetcher.cc"
+        ],
+        "created_at": 1778877063,
+        "number": 50955,
+        "state": "open",
+        "updated_at": 1778877086
     }
 }
