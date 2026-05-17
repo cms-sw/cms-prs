@@ -3206,5 +3206,22 @@
         "number": 50957,
         "state": "open",
         "updated_at": 1779002037
+    },
+    "50958": {
+        "base_branch": "CMSSW_16_0_X",
+        "changed_files_names": [
+            "DQM/HLTEvF/python/ScoutingDiMuonVertexMonitor_cfi.py",
+            "DQM/Integration/python/clients/ngt_dqm_sourceclient-live_cfg.py",
+            "DQM/Integration/python/clients/scouting_dqm_sourceclient-live_cfg.py",
+            "DQMOffline/HLTScouting/python/HLTScoutingDqmOffline_cff.py",
+            "HLTriggerOffline/Scouting/plugins/ScoutingDiMuonVertexMonitor.cc",
+            "HLTriggerOffline/Scouting/plugins/ScoutingTrackMonitor.cc",
+            "HLTriggerOffline/Scouting/python/HLTScoutingDiMuonVertexMonitor_cfi.py",
+            "HLTriggerOffline/Scouting/test/testHLTScoutingDQMAnalyzers.cc"
+        ],
+        "created_at": 1779002014,
+        "number": 50958,
+        "state": "open",
+        "updated_at": 1779002061
     }
 }
