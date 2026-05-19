@@ -3988,5 +3988,21 @@
         "number": 50975,
         "state": "open",
         "updated_at": 1779175557
+    },
+    "50976": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HLTrigger/NGTScouting/python/HLTNanoProducer_cff.py",
+            "HLTrigger/NGTScouting/python/hltTracks_cfi.py",
+            "PhysicsTools/NanoAOD/interface/OneToManyWithQualityFlatTableProducer.h",
+            "SimTracker/TrackAssociation/plugins/BuildFile.xml",
+            "SimTracker/TrackAssociation/plugins/TrackingParticleTrackAssociationFlatTableProducers.cc",
+            "SimTracker/TrackAssociation/python/trackingParticleRecoTrackAssociationTables_cff.py",
+            "SimTracker/TrackAssociation/test/dumpTPRecoTrackAssociation.py"
+        ],
+        "created_at": 1779178970,
+        "number": 50976,
+        "state": "open",
+        "updated_at": 1779179003
     }
 }
