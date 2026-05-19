@@ -3956,5 +3956,27 @@
         "number": 50973,
         "state": "open",
         "updated_at": 1779172249
+    },
+    "50974": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/EventContent/python/EventContent_cff.py",
+            "DQM/HGCAL/plugins/BuildFile.xml",
+            "DQM/HGCAL/plugins/HGCALGPUvsCPUComparisonHists.cc",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHGCALGPUvsCPUComparison_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHgcalLayerClustersFromSoAProducer_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHgcalSoALayerClustersProducer_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHgcalSoARecHitsLayerClustersProducer_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHgcalSoARecHitsProducer_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltMergeLayerClusters_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/paths/DQM_HGCALHeterogeneousValidation_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTDQMHGCALReconstruction_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTTICLLocalRecoSequence_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33_cff.py"
+        ],
+        "created_at": 1779174057,
+        "number": 50974,
+        "state": "open",
+        "updated_at": 1779174091
     }
 }
