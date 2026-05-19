@@ -3013,40 +3013,6 @@
         "state": "open",
         "updated_at": 1779105481
     },
-    "50962": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "HLTrigger/Configuration/python/HLT_FULL_cff.py",
-            "HLTrigger/Configuration/python/HLT_GRun_cff.py",
-            "HLTrigger/Configuration/python/HLT_HIon_cff.py",
-            "HLTrigger/Configuration/python/HLT_PIon_cff.py",
-            "HLTrigger/Configuration/python/HLT_PRef_cff.py",
-            "HLTrigger/Configuration/python/HLT_Special_cff.py",
-            "HLTrigger/Configuration/python/HLTrigger_Datasets_GRun_cff.py",
-            "HLTrigger/Configuration/python/HLTrigger_Datasets_HIon_cff.py",
-            "HLTrigger/Configuration/python/HLTrigger_Datasets_PIon_cff.py",
-            "HLTrigger/Configuration/python/HLTrigger_Datasets_PRef_cff.py",
-            "HLTrigger/Configuration/python/HLTrigger_Datasets_Special_cff.py",
-            "HLTrigger/Configuration/scripts/utils/hltPathOwners.json",
-            "HLTrigger/Configuration/scripts/utils/readme.md",
-            "HLTrigger/Configuration/tables/HIon.txt",
-            "HLTrigger/Configuration/tables/makeOnlineHIon",
-            "HLTrigger/Configuration/tables/makeOnlineSpecial",
-            "HLTrigger/Configuration/tables/makeSubTables",
-            "HLTrigger/Configuration/tables/online_hion.txt",
-            "HLTrigger/Configuration/test/OnLine_HLT_FULL.py",
-            "HLTrigger/Configuration/test/OnLine_HLT_GRun.py",
-            "HLTrigger/Configuration/test/OnLine_HLT_HIon.py",
-            "HLTrigger/Configuration/test/OnLine_HLT_PIon.py",
-            "HLTrigger/Configuration/test/OnLine_HLT_PRef.py",
-            "HLTrigger/Configuration/test/OnLine_HLT_Special.py",
-            "HLTrigger/Configuration/test/getHLT.sh"
-        ],
-        "created_at": 1779110082,
-        "number": 50962,
-        "state": "open",
-        "updated_at": 1779110103
-    },
     "50963": {
         "base_branch": "CMSSW_16_1_X",
         "changed_files_names": [
