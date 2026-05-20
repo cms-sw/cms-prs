@@ -4214,7 +4214,10 @@
         "base_branch": "master",
         "changed_files_names": [
             "Configuration/ProcessModifiers/python/nano_l1_hlt_cff.py",
+            "Configuration/PyReleaseValidation/README.md",
+            "Configuration/PyReleaseValidation/python/relval_Run4.py",
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "Configuration/PyReleaseValidation/scripts/runTheMatrix.py",
             "DPGAnalysis/Phase2L1TNanoAOD/python/l1tPh2Nano_cff.py",
             "HLTrigger/NGTScouting/python/HLTNanoProducer_cff.py",
             "PhysicsTools/NanoAOD/plugins/TrackingAssocValueMapsProducer.cc"
@@ -4222,6 +4225,6 @@
         "created_at": 1779276753,
         "number": 51004,
         "state": "open",
-        "updated_at": 1779276777
+        "updated_at": 1779278827
     }
 }
