@@ -2738,43 +2738,6 @@
         "state": "open",
         "updated_at": 1778651836
     },
-    "50941": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "Configuration/EventContent/python/EventContent_cff.py",
-            "L1TriggerScouting/NanoAOD/plugins/BuildFile.xml",
-            "L1TriggerScouting/NanoAOD/plugins/L1ScoutingCaloTowerPhysicalValueMapProducer.cc",
-            "L1TriggerScouting/Utilities/plugins/L1ScoutingCaloTowerPhysicalValueMapProducer.cc",
-            "L1TriggerScouting/NanoAOD/plugins/L1ScoutingEtSumOrbitFlatTableProducer.cc",
-            "L1TriggerScouting/Utilities/plugins/L1ScoutingEtSumOrbitFlatTableProducer.cc",
-            "L1TriggerScouting/NanoAOD/plugins/L1ScoutingPhysicalValueMapProducer.cc",
-            "L1TriggerScouting/Utilities/plugins/L1ScoutingPhysicalValueMapProducer.cc",
-            "L1TriggerScouting/NanoAOD/plugins/OrbitNanoAODOutputModule.cc",
-            "L1TriggerScouting/Utilities/plugins/OrbitNanoAODOutputModule.cc",
-            "L1TriggerScouting/NanoAOD/plugins/OrbitTableOutputBranches.cc",
-            "L1TriggerScouting/Utilities/plugins/OrbitTableOutputBranches.cc",
-            "L1TriggerScouting/NanoAOD/plugins/OrbitTableOutputBranches.h",
-            "L1TriggerScouting/Utilities/plugins/OrbitTableOutputBranches.h",
-            "L1TriggerScouting/NanoAOD/plugins/SelectedBxTableOutputBranches.cc",
-            "L1TriggerScouting/Utilities/plugins/SelectedBxTableOutputBranches.cc",
-            "L1TriggerScouting/NanoAOD/plugins/SelectedBxTableOutputBranches.h",
-            "L1TriggerScouting/Utilities/plugins/SelectedBxTableOutputBranches.h",
-            "L1TriggerScouting/NanoAOD/plugins/SimpleOrbitFlatTableProducer.cc",
-            "L1TriggerScouting/Utilities/plugins/SimpleOrbitFlatTableProducer.cc",
-            "L1TriggerScouting/NanoAOD/python/L1SCOUTNanoAODEDMEventContent_cff.py",
-            "PhysicsTools/NanoAOD/python/L1SCOUTNanoAODEDMEventContent_cff.py",
-            "L1TriggerScouting/NanoAOD/python/custom_l1scoutingrun3_cff.py",
-            "PhysicsTools/NanoAOD/python/custom_l1scoutingrun3_cff.py",
-            "L1TriggerScouting/NanoAOD/python/l1scoutingrun3_cff.py",
-            "PhysicsTools/NanoAOD/python/l1scoutingrun3_cff.py",
-            "L1TriggerScouting/Utilities/plugins/BuildFile.xml",
-            "PhysicsTools/NanoAOD/python/autoNANO.py"
-        ],
-        "created_at": 1778764945,
-        "number": 50941,
-        "state": "open",
-        "updated_at": 1779168697
-    },
     "50944": {
         "base_branch": "CMSSW_16_1_X",
         "changed_files_names": [
