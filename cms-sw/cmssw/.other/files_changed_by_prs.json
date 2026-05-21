@@ -1139,6 +1139,7 @@
             "CondFormats/DataRecord/src/HcalInterpolatedPulseMapRcd.cc",
             "CondFormats/DataRecord/src/HcalPulseDelaysRcd.cc",
             "CondFormats/HcalObjects/interface/AllObjects.h",
+            "CondFormats/HcalObjects/interface/HcalFloats.h",
             "CondFormats/HcalObjects/interface/HcalInterpolatedPulseMap.h",
             "CondFormats/HcalObjects/interface/HcalPulseDelay.h",
             "CondFormats/HcalObjects/interface/HcalPulseDelays.h",
@@ -1178,7 +1179,7 @@
         "created_at": 1764931442,
         "number": 49556,
         "state": "open",
-        "updated_at": 1778247910
+        "updated_at": 1779377953
     },
     "49580": {
         "base_branch": "master",
