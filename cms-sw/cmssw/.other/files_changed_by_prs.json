@@ -3960,5 +3960,19 @@
         "number": 51005,
         "state": "open",
         "updated_at": 1779285514
+    },
+    "51006": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/Generator/python/DisplacedParticleGun_cfi.py",
+            "Configuration/PyReleaseValidation/python/relval_steps.py",
+            "Configuration/PyReleaseValidation/python/relval_upgrade.py",
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "IOMC/ParticleGuns/src/DisplacedParticleGunProducer.cc"
+        ],
+        "created_at": 1779314751,
+        "number": 51006,
+        "state": "open",
+        "updated_at": 1779314773
     }
 }
