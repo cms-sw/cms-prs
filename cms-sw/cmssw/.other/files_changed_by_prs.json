@@ -1694,6 +1694,7 @@
             "RecoHGCal/TICL/plugins/PatternRecognitionPluginFactory.cc",
             "RecoHGCal/TICL/plugins/PatternRecognitionPluginFactory.h",
             "RecoHGCal/TICL/plugins/PatternRecognitionbyCLUE3D.cc",
+            "RecoHGCal/TICL/plugins/PatternRecognitionbyCLUE3D.h",
             "RecoHGCal/TICL/plugins/PatternRecognitionbyFastJet.cc",
             "RecoHGCal/TICL/plugins/SimTrackstersProducer.cc",
             "RecoHGCal/TICL/plugins/TICLDumper.cc",
@@ -1721,7 +1722,6 @@
             "SimCalorimetry/HGCalAssociatorProducers/python/HitToTracksterAssociation_cfi.py",
             "SimCalorimetry/HGCalAssociatorProducers/python/LCToSimTSAssociation_cfi.py",
             "SimCalorimetry/HGCalAssociatorProducers/python/LCToTSAssociator_cfi.py",
-            "SimCalorimetry/HGCalAssociatorProducers/python/TSToSCAssociation_cfi.py",
             "SimCalorimetry/HGCalAssociatorProducers/python/TSToSimTSAssociationByHits_cfi.py",
             "SimCalorimetry/HGCalAssociatorProducers/python/TSToSimTSAssociation_cfi.py",
             "Validation/Configuration/python/barrelSimValid_cff.py",
@@ -1736,7 +1736,7 @@
         "created_at": 1774468211,
         "number": 50551,
         "state": "open",
-        "updated_at": 1778652994
+        "updated_at": 1779348039
     },
     "50565": {
         "base_branch": "master",
