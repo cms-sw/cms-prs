@@ -3964,5 +3964,27 @@
         "number": 51006,
         "state": "open",
         "updated_at": 1779314773
+    },
+    "51008": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "L1Trigger/DemonstratorTools/test/gtt/createFirmwareInputFiles_cfg.py",
+            "L1Trigger/L1TTrackMatch/BuildFile.xml",
+            "L1Trigger/L1TTrackMatch/plugins/L1TrackVertexAssociationProducer.cc",
+            "L1Trigger/L1TTrackMatch/python/l1tTrackVertexAssociationProducer_cfi.py",
+            "L1Trigger/VertexFinder/BuildFile.xml",
+            "L1Trigger/VertexFinder/interface/AlgoSettings.h",
+            "L1Trigger/VertexFinder/interface/VertexFinder.h",
+            "L1Trigger/VertexFinder/interface/VertexProducer.h",
+            "L1Trigger/VertexFinder/plugins/BuildFile.xml",
+            "L1Trigger/VertexFinder/plugins/VertexProducer.cc",
+            "L1Trigger/VertexFinder/python/l1tVertexProducer_cfi.py",
+            "L1Trigger/VertexFinder/src/AlgoSettings.cc",
+            "L1Trigger/VertexFinder/src/VertexFinder.cc"
+        ],
+        "created_at": 1779353383,
+        "number": 51008,
+        "state": "open",
+        "updated_at": 1779353408
     }
 }
