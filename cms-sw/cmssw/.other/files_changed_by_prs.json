@@ -2498,7 +2498,6 @@
             "DataFormats/EcalRecHit/BuildFile.xml",
             "DataFormats/EgammaCandidates/BuildFile.xml",
             "DataFormats/EgammaReco/BuildFile.xml",
-            "DataFormats/EgammaTrackReco/BuildFile.xml",
             "DataFormats/FEDRawData/BuildFile.xml",
             "DataFormats/FTLDigi/BuildFile.xml",
             "DataFormats/FTLRecHit/BuildFile.xml",
@@ -2547,6 +2546,7 @@
             "DataFormats/ParticleFlowReco/BuildFile.xml",
             "DataFormats/PatCandidates/BuildFile.xml",
             "DataFormats/Phase2TrackerDigi/BuildFile.xml",
+            "DataFormats/Portable/BuildFile.xml",
             "DataFormats/PortableTestObjects/BuildFile.xml",
             "DataFormats/ProtonReco/BuildFile.xml",
             "DataFormats/Provenance/BuildFile.xml",
@@ -2567,7 +2567,6 @@
             "DataFormats/SiStripDetId/BuildFile.xml",
             "DataFormats/SiStripDigi/BuildFile.xml",
             "DataFormats/SiStripDigiSoA/BuildFile.xml",
-            "DataFormats/SoATemplate/BuildFile.xml",
             "DataFormats/StdDictionaries/BuildFile.xml",
             "DataFormats/Streamer/BuildFile.xml",
             "DataFormats/TCDS/BuildFile.xml",
@@ -2668,7 +2667,7 @@
         "created_at": 1778505978,
         "number": 50916,
         "state": "open",
-        "updated_at": 1779705623
+        "updated_at": 1779706382
     },
     "50918": {
         "base_branch": "master",
