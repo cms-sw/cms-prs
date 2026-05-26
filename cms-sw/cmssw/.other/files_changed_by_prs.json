@@ -3714,23 +3714,6 @@
         "state": "open",
         "updated_at": 1779357645
     },
-    "51001": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "EventFilter/CSCTFRawToDigi/plugins/CSCTFAnalyzer.cc",
-            "EventFilter/GctRawToDigi/plugins/L1GctInternJetProducer.cc",
-            "EventFilter/L1TRawToDigi/plugins/implementations_stage1/RCTEmRegionPacker.cc",
-            "L1Trigger/CSCTrackFinder/plugins/CSCTFanalyzer.cc",
-            "L1Trigger/L1ExtraFromDigis/src/L1ExtraParticlesProd.cc",
-            "L1Trigger/L1TCalorimeter/plugins/L1TStage2Layer1Producer.cc",
-            "L1Trigger/L1TCommon/plugins/L1TMuonLegacyConverter.cc",
-            "L1Trigger/L1THGCal/src/backend/HGCalMulticlusteringImpl.cc"
-        ],
-        "created_at": 1779264712,
-        "number": 51001,
-        "state": "open",
-        "updated_at": 1779357697
-    },
     "51004": {
         "base_branch": "master",
         "changed_files_names": [
