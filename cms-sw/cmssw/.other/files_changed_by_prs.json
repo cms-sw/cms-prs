@@ -3904,12 +3904,6 @@
     "51029": {
         "base_branch": "master",
         "changed_files_names": [
-            "FWCore/Utilities/interface/ThreadHandoff.h",
-            "SimG4Core/Application/interface/ThreadHandoff.h",
-            "FWCore/Utilities/src/ThreadHandoff.cc",
-            "SimG4Core/Application/src/ThreadHandoff.cc",
-            "FWCore/Utilities/test/test_catch2_ThreadHandoff.cc",
-            "SimG4Core/Application/test/test_catch2_ThreadHandoff.cc",
             "GeneratorInterface/EvtGenInterface/interface/myEvtRandomEngine.h",
             "GeneratorInterface/EvtGenInterface/plugins/EvtGen/EvtGenInterface.cc",
             "GeneratorInterface/EvtGenInterface/plugins/EvtGen/EvtGenInterface.h",
@@ -3917,13 +3911,12 @@
             "GeneratorInterface/ExternalDecays/BuildFile.xml",
             "GeneratorInterface/ExternalDecays/interface/ConcurrentExternalDecayDriver.h",
             "GeneratorInterface/ExternalDecays/interface/EvtGenThreadOwner.h",
-            "GeneratorInterface/ExternalDecays/src/ConcurrentExternalDecayDriver.cc",
-            "SimG4Core/Application/plugins/OscarMTProducer.cc"
+            "GeneratorInterface/ExternalDecays/src/ConcurrentExternalDecayDriver.cc"
         ],
         "created_at": 1779717596,
         "number": 51029,
         "state": "open",
-        "updated_at": 1779812724
+        "updated_at": 1779814966
     },
     "51030": {
         "base_branch": "master",
