@@ -3872,6 +3872,7 @@
             "HLTrigger/NGTScouting/python/hltSimTracksters_cfi.py",
             "HLTrigger/NGTScouting/python/hltTICLCandidates_cfi.py",
             "HLTrigger/NGTScouting/python/hltTracksters_cfi.py",
+            "RecoHGCal/Configuration/python/RecoHGCal_EventContent_cff.py",
             "RecoHGCal/TICL/plugins/SimTICLCandidateProducer.cc",
             "RecoHGCal/TICL/plugins/SimTrackstersProducer.cc",
             "RecoHGCal/TICL/plugins/TICLDumper.cc",
@@ -3905,6 +3906,7 @@
             "SimDataFormats/Associations/interface/LayerClusterToSimTracksterAssociator.h",
             "SimDataFormats/Associations/interface/LayerClusterToSimTracksterAssociatorBaseImpl.h",
             "SimDataFormats/Associations/src/LayerClusterToSimTracksterAssociatorBaseImpl.cc",
+            "SimGeneral/CaloAnalysis/plugins/PreMixingCaloParticleWorker.cc",
             "Validation/Configuration/python/barrelSimValid_cff.py",
             "Validation/Configuration/python/hgcalSimValid_cff.py",
             "Validation/Configuration/python/hltBarrelSimValid_cff.py",
@@ -3923,7 +3925,7 @@
         "created_at": 1779868660,
         "number": 51047,
         "state": "open",
-        "updated_at": 1779868705
+        "updated_at": 1779907414
     },
     "51052": {
         "base_branch": "master",
