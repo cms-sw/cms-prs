@@ -4031,5 +4031,22 @@
         "number": 51053,
         "state": "open",
         "updated_at": 1779889097
+    },
+    "51054": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CalibCalorimetry/EBPhase2TPGTools/python/ecalEBPhase2TPParamProducer_cfi.py",
+            "DataFormats/EcalDigi/interface/EcalEBPhase2TriggerPrimitiveDigi.h",
+            "DataFormats/EcalDigi/interface/EcalEBPhase2TriggerPrimitiveSample.h",
+            "DataFormats/EcalDigi/src/EcalEBPhase2TriggerPrimitiveSample.cc",
+            "SimCalorimetry/EcalEBTrigPrimAlgos/src/EcalEBPhase2TPFormatter.cc",
+            "SimCalorimetry/EcalEBTrigPrimAlgos/src/EcalEBPhase2TimeReconstructor.cc",
+            "SimCalorimetry/EcalEBTrigPrimProducers/test/testPhase2_17_x_y.py",
+            "SimCalorimetry/EcalEBTrigPrimProducers/test/testPhase2_15_0_0.py"
+        ],
+        "created_at": 1779890472,
+        "number": 51054,
+        "state": "open",
+        "updated_at": 1779890502
     }
 }
