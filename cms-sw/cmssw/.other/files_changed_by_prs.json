@@ -3934,6 +3934,7 @@
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleFlowTmpBarrel_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltPfTICL_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2L3MuonsNoID_cfi.py",
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py",
             "RecoHGCal/TICL/plugins/PFTICLProducer.cc",
             "RecoHGCal/TICL/python/iterativeTICL_cff.py",
             "RecoMuon/MuonIdentification/interface/MuonCaloCompatibility.h",
@@ -3947,7 +3948,7 @@
         "created_at": 1779888708,
         "number": 51053,
         "state": "open",
-        "updated_at": 1779959574
+        "updated_at": 1779979814
     },
     "51054": {
         "base_branch": "master",
