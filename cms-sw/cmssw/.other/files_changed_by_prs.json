@@ -4812,5 +4812,18 @@
         "number": 51076,
         "state": "open",
         "updated_at": 1779955384
+    },
+    "51077": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DPGAnalysis/MuonTools/interface/MuLocalRecoBaseProducer.h",
+            "DPGAnalysis/MuonTools/plugins/MuDTSegmentExtTableProducer.cc",
+            "PhysicsTools/NanoAOD/plugins/ElectronVertexTableProducer.cc",
+            "PhysicsTools/NanoAOD/plugins/MuonVertexTableProducer.cc"
+        ],
+        "created_at": 1779955359,
+        "number": 51077,
+        "state": "open",
+        "updated_at": 1779955383
     }
 }
