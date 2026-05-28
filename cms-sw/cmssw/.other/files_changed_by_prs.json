@@ -3894,21 +3894,25 @@
             "Validation/Configuration/python/hgcalSimValid_cff.py",
             "Validation/Configuration/python/hltBarrelSimValid_cff.py",
             "Validation/Configuration/python/hltHGCalSimValid_cff.py",
+            "Validation/HGCalValidation/interface/BarrelVHistoProducerAlgo.h",
+            "Validation/HGCalValidation/interface/BarrelValidator.h",
             "Validation/HGCalValidation/interface/HGCalValidator.h",
             "Validation/HGCalValidation/interface/HGVHistoProducerAlgo.h",
+            "Validation/HGCalValidation/plugins/BarrelValidator.cc",
             "Validation/HGCalValidation/plugins/HGCalValidator.cc",
             "Validation/HGCalValidation/python/HGCalValidator_cff.py",
             "Validation/HGCalValidation/python/HLTBarrelValidator_cff.py",
             "Validation/HGCalValidation/python/HLTHGCalValidator_cff.py",
             "Validation/HGCalValidation/python/ticlSuperclusterValidation_cff.py",
             "Validation/HGCalValidation/scripts/makeHGCalValidationPlots.py",
+            "Validation/HGCalValidation/src/BarrelVHistoProducerAlgo.cc",
             "Validation/HGCalValidation/src/HGVHistoProducerAlgo.cc",
             "Validation/HGCalValidation/src/TICLCandidateValidator.cc"
         ],
         "created_at": 1779868660,
         "number": 51047,
         "state": "open",
-        "updated_at": 1779907414
+        "updated_at": 1779978750
     },
     "51052": {
         "base_branch": "master",
