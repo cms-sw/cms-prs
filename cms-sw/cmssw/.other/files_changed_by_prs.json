@@ -5054,5 +5054,38 @@
         "number": 51083,
         "state": "open",
         "updated_at": 1779969882
+    },
+    "51084": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/ProcessModifiers/python/trackTorchClassifier_cff.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrackCutClassifier_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrackFeatureExtractor_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrackSelectionHighPurity_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrackTorchClassifierOutput_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrackTorchClassifier_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTInitialStepHPSelectionSequence_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTInitialStepSequence_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTInitialStepTorchClassifierHPSelectionSequence_cfi.py",
+            "RecoTracker/FinalTrackSelectors/BuildFile.xml",
+            "RecoTracker/FinalTrackSelectors/interface/TrackTorchClassifierFeaturesSoA.h",
+            "RecoTracker/FinalTrackSelectors/interface/alpaka/TrackFeaturesDeviceCollection.h",
+            "RecoTracker/FinalTrackSelectors/interface/alpaka/TrackScoresDeviceCollection.h",
+            "RecoTracker/FinalTrackSelectors/plugins/BuildFile.xml",
+            "RecoTracker/FinalTrackSelectors/plugins/TrackTorchClassifierFromSoA.cc",
+            "RecoTracker/FinalTrackSelectors/plugins/alpaka/TrackFeatureExtractor.cc",
+            "RecoTracker/FinalTrackSelectors/plugins/alpaka/TrackTorchClassifierAlpaka.cc",
+            "RecoTracker/FinalTrackSelectors/src/alpaka/classes_cuda.h",
+            "RecoTracker/FinalTrackSelectors/src/alpaka/classes_cuda_def.xml",
+            "RecoTracker/FinalTrackSelectors/src/alpaka/classes_rocm.h",
+            "RecoTracker/FinalTrackSelectors/src/alpaka/classes_rocm_def.xml",
+            "RecoTracker/FinalTrackSelectors/src/alpaka/dummy.cc",
+            "RecoTracker/FinalTrackSelectors/src/classes.h",
+            "RecoTracker/FinalTrackSelectors/src/classes_def.xml"
+        ],
+        "created_at": 1779979447,
+        "number": 51084,
+        "state": "open",
+        "updated_at": 1779979471
     }
 }
