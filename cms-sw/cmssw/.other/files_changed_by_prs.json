@@ -5088,5 +5088,30 @@
         "number": 51084,
         "state": "open",
         "updated_at": 1779979471
+    },
+    "51085": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/CommonTopologies/interface/SimplePixelTopology.h",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2PixelTracksSoA_cfi.py",
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py",
+            "RecoTracker/Configuration/python/customizePixelTracksForTriplets.py",
+            "RecoTracker/PixelSeeding/interface/CAGeometrySoA.h",
+            "RecoTracker/PixelSeeding/interface/CAPairDevice.h",
+            "RecoTracker/PixelSeeding/interface/CAPairHost.h",
+            "RecoTracker/PixelSeeding/interface/CAPairSoA.h",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CACell.h",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAFishbone.h",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtuplet.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGenerator.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernels.dev.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernelsImpl.h",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAPixelDoubletsAlgos.h",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAStructures.h"
+        ],
+        "created_at": 1779981186,
+        "number": 51085,
+        "state": "open",
+        "updated_at": 1779981248
     }
 }
