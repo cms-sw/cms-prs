@@ -3921,18 +3921,13 @@
         "updated_at": 1779885266
     },
     "51053": {
-        "base_branch": "CMSSW_16_1_X",
+        "base_branch": "master",
         "changed_files_names": [
             "DataFormats/MuonReco/interface/MuonSelectors.h",
             "DataFormats/MuonReco/src/MuonSelectors.cc",
-            "HLTrigger/Configuration/python/HLT_2026v13_cff.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleFlowTmpBarrel_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltPfTICL_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2L3MuonsNoID_cfi.py",
-            "HLTrigger/Configuration/python/HLT_FULL_cff.py",
-            "HLTrigger/Configuration/python/HLT_GRun_cff.py",
-            "HLTrigger/Configuration/python/HLT_PRef_cff.py",
-            "HLTrigger/Configuration/python/HLT_Special_cff.py",
             "RecoHGCal/TICL/plugins/PFTICLProducer.cc",
             "RecoHGCal/TICL/python/iterativeTICL_cff.py",
             "RecoMuon/MuonIdentification/interface/MuonCaloCompatibility.h",
@@ -3940,14 +3935,13 @@
             "RecoMuon/MuonIdentification/src/MuonCaloCompatibility.cc",
             "RecoParticleFlow/Configuration/python/RecoParticleFlow_cff.py",
             "RecoParticleFlow/PFProducer/interface/PFMuonAlgo.h",
-            "RecoParticleFlow/PFProducer/plugins/PFProducer.cc",
             "RecoParticleFlow/PFProducer/python/pfMuon_cfi.py",
             "RecoParticleFlow/PFProducer/src/PFMuonAlgo.cc"
         ],
         "created_at": 1779888708,
         "number": 51053,
         "state": "open",
-        "updated_at": 1779889097
+        "updated_at": 1779959574
     },
     "51054": {
         "base_branch": "master",
