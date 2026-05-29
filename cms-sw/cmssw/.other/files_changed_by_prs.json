@@ -5198,5 +5198,23 @@
         "number": 51093,
         "state": "open",
         "updated_at": 1780059001
+    },
+    "51094": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DPGAnalysis/HcalNanoAOD/python/hcalRecHitTable_cff.py",
+            "DataFormats/METReco/interface/HcalPhase1FlagLabels.h",
+            "RecoLocalCalo/HcalRecAlgos/interface/HBHERun3Flags.h",
+            "RecoLocalCalo/HcalRecAlgos/plugins/HcalRecAlgoESProducer.cc",
+            "RecoLocalCalo/HcalRecAlgos/python/hcalRecAlgoESProd_cfi.py",
+            "RecoLocalCalo/HcalRecAlgos/src/HBHERun3Flags.cc",
+            "RecoLocalCalo/HcalRecAlgos/src/HcalSeverityLevelComputer.cc",
+            "RecoLocalCalo/HcalRecProducers/python/HBHEPhase1Reconstructor_cfi.py",
+            "RecoLocalCalo/HcalRecProducers/src/HBHEPhase1Reconstructor.cc"
+        ],
+        "created_at": 1780066258,
+        "number": 51094,
+        "state": "open",
+        "updated_at": 1780066282
     }
 }
