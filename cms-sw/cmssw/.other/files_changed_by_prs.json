@@ -4061,30 +4061,6 @@
         "state": "open",
         "updated_at": 1779955277
     },
-    "51069": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "FastSimulation/Muons/plugins/FastTSGFromPropagation.cc",
-            "FastSimulation/SimplifiedGeometryPropagator/plugins/FastTrackDeDxProducer.cc",
-            "FastSimulation/SimplifiedGeometryPropagator/plugins/TrackerSimHitProducer.cc",
-            "FastSimulation/Tracking/BuildFile.xml",
-            "FastSimulation/Tracking/interface/TrajectorySeedHitCandidate.h",
-            "FastSimulation/Tracking/test/testGeneralTracks.cc",
-            "FastSimulation/TrackingRecHitProducer/BuildFile.xml",
-            "FastSimulation/TrackingRecHitProducer/interface/PixelTemplateSmearerBase.h",
-            "FastSimulation/TrackingRecHitProducer/plugins/BuildFile.xml",
-            "FastSimulation/TrackingRecHitProducer/plugins/FastTrackerRecHitMatcher.cc",
-            "FastSimulation/TrackingRecHitProducer/plugins/PixelTemplateSmearerPlugin.cc",
-            "FastSimulation/TrackingRecHitProducer/src/PixelTemplateSmearerBase.cc",
-            "FastSimulation/TrajectoryManager/BuildFile.xml",
-            "FastSimulation/TrajectoryManager/interface/TrajectoryManager.h",
-            "FastSimulation/TrajectoryManager/src/TrajectoryManager.cc"
-        ],
-        "created_at": 1779955271,
-        "number": 51069,
-        "state": "open",
-        "updated_at": 1779955295
-    },
     "51072": {
         "base_branch": "master",
         "changed_files_names": [
