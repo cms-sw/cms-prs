@@ -4131,7 +4131,7 @@
             "Validation/Configuration/python/autoValidation.py",
             "Validation/Configuration/python/globalValidation_cff.py",
             "Validation/Configuration/python/postValidation_cff.py",
-            "Validation/RecoTau/interface/TauValidation.h",
+            "Validation/RecoTau/plugins/TauValidation.cc",
             "Validation/RecoTau/python/RecoTauPostProcessor_cff.py",
             "Validation/RecoTau/python/RecoTauValidation_cff.py",
             "Validation/RecoTau/python/hltTauPostProcessor_cff.py",
@@ -4140,13 +4140,12 @@
             "Validation/RecoTau/scripts/makeComparisonPlots.py",
             "Validation/RecoTau/scripts/makeTauValidationPlots.py",
             "Validation/RecoTau/scripts/run_tau_comparison_plots.sh",
-            "Validation/RecoTau/scripts/run_tau_validation_plots.sh",
-            "Validation/RecoTau/src/TauValidation.cc"
+            "Validation/RecoTau/scripts/run_tau_validation_plots.sh"
         ],
         "created_at": 1780051485,
         "number": 51092,
         "state": "open",
-        "updated_at": 1780051503
+        "updated_at": 1780316275
     },
     "51093": {
         "base_branch": "master",
