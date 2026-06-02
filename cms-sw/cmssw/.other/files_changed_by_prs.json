@@ -4137,12 +4137,14 @@
             "HLTriggerOffline/Scouting/python/RecoTrackFromScoutingMonitor_cff.py",
             "HLTriggerOffline/Scouting/python/RecoTrackFromScoutingMonitor_cfi.py",
             "HLTriggerOffline/Scouting/test/ScoutingTrackNtuplizer_cfg.py",
-            "HLTriggerOffline/Scouting/test/test.sh"
+            "HLTriggerOffline/Scouting/test/test.sh",
+            "PhysicsTools/PatFromScouting/plugins/Run3ScoutingTrackToRecoTrackProducer.cc",
+            "PhysicsTools/PatFromScouting/plugins/Run3ScoutingVertexToRecoVertexProducer.cc"
         ],
         "created_at": 1780290842,
         "number": 51101,
         "state": "open",
-        "updated_at": 1780334016
+        "updated_at": 1780398416
     },
     "51102": {
         "base_branch": "CMSSW_16_1_X",
