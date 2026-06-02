@@ -4040,7 +4040,7 @@
             "Validation/Configuration/python/autoValidation.py",
             "Validation/Configuration/python/globalValidation_cff.py",
             "Validation/Configuration/python/postValidation_cff.py",
-            "Validation/RecoTau/plugins/TauValidation.cc",
+            "Validation/RecoTau/plugins/TauValidator.cc",
             "Validation/RecoTau/python/RecoTauPostProcessor_cff.py",
             "Validation/RecoTau/python/RecoTauValidation_cff.py",
             "Validation/RecoTau/python/hltTauPostProcessor_cff.py",
@@ -4054,7 +4054,7 @@
         "created_at": 1780051485,
         "number": 51092,
         "state": "open",
-        "updated_at": 1780316275
+        "updated_at": 1780382721
     },
     "51093": {
         "base_branch": "master",
