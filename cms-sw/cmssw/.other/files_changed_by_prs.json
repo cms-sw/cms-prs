@@ -4103,6 +4103,8 @@
             "FWCore/TestModules/plugins/BuildFile.xml",
             "FWCore/TestModules/plugins/RunLumiEventAnalyzer.cc",
             "FWCore/Framework/test/stubs/RunLumiEventAnalyzer.cc",
+            "FWCore/Utilities/interface/Exception.h",
+            "FWCore/Utilities/test/test_catch2_Exception.cc",
             "FWIO/RNTupleTempInput/test/testReducedProcessHistory_cfg.py",
             "FWIO/RNTupleTempTests/test/testGetByWithEmptyRun_cfg.py",
             "FWIO/RNTupleTempTests/test/testLooperEventNavigation1_cfg.py",
@@ -4152,7 +4154,7 @@
         "created_at": 1780425166,
         "number": 51118,
         "state": "open",
-        "updated_at": 1780425191
+        "updated_at": 1780496811
     },
     "51122": {
         "base_branch": "master",
