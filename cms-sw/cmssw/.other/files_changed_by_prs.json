@@ -2169,12 +2169,14 @@
             "SimCalorimetry/HGCalAssociatorProducers/interface/DetIdRecHitMap.h",
             "SimCalorimetry/HGCalAssociatorProducers/plugins/SimHitToRecHitMapProducer.cc",
             "SimCalorimetry/HGCalAssociatorProducers/src/classes.h",
-            "SimCalorimetry/HGCalAssociatorProducers/src/classes_def.xml"
+            "SimCalorimetry/HGCalAssociatorProducers/src/classes_def.xml",
+            "Validation/Configuration/python/globalValidation_cff.py",
+            "Validation/Configuration/python/truthPrevalidation_cff.py"
         ],
         "created_at": 1778480862,
         "number": 50913,
         "state": "open",
-        "updated_at": 1778859743
+        "updated_at": 1780578009
     },
     "50916": {
         "base_branch": "master",
