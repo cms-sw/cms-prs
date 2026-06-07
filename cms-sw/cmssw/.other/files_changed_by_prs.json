@@ -3260,5 +3260,18 @@
         "number": 51134,
         "state": "open",
         "updated_at": 1780746497
+    },
+    "51136": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoEcal/EgammaClusterAlgos/interface/SCEnergyCorrectorSemiParm.h",
+            "RecoEcal/EgammaClusterAlgos/src/SCEnergyCorrectorSemiParm.cc",
+            "RecoEgamma/EgammaTools/plugins/EGRegressionModifierV3.cc",
+            "RecoEgamma/EgammaTools/python/regressionModifier_cfi.py"
+        ],
+        "created_at": 1780852102,
+        "number": 51136,
+        "state": "open",
+        "updated_at": 1780852130
     }
 }
