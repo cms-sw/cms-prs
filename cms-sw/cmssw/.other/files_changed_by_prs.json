@@ -2574,11 +2574,6 @@
     "51042": {
         "base_branch": "master",
         "changed_files_names": [
-            "DataFormats/HGCalReco/interface/MtdSoA.h",
-            "DataFormats/TrackSoA/interface/PixelTrackSoATab.h",
-            "DataFormats/TrackSoA/src/classes.h",
-            "DataFormats/TrackSoA/src/classes_def.xml",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2PixelTrackSoATableProducer_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2PixelTrackTorchHighPuritySelector_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2PixelTracksCAExtension_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2PixelTracks_cfi.py",
@@ -2590,12 +2585,6 @@
             "HLTrigger/Configuration/python/HLT_75e33_cff.py",
             "HLTrigger/Configuration/python/HLT_75e33_timing_cff.py",
             "HLTrigger/Configuration/python/HLT_NGTScouting_cff.py",
-            "HLTrigger/NGTScouting/plugins/HLTPixelTrackSoATableProducer.cc",
-            "HLTrigger/NGTScouting/plugins/HLTTracksRecHitsTableProducer.cc",
-            "HLTrigger/NGTScouting/python/hltTracks_cfi.py",
-            "PhysicsTools/NanoAOD/plugins/SimpleFlatTableProducerPlugins.cc",
-            "PhysicsTools/NanoAOD/plugins/TrackingAssocValueMapsProducer.cc",
-            "RecoTracker/FinalTrackSelectors/BuildFile.xml",
             "RecoTracker/FinalTrackSelectors/interface/PixelTrackFeaturesSoA.h",
             "RecoTracker/FinalTrackSelectors/plugins/BuildFile.xml",
             "RecoTracker/FinalTrackSelectors/plugins/alpaka/PixelTrackFeaturesDeviceCollection.h",
@@ -2608,7 +2597,7 @@
         "created_at": 1779821467,
         "number": 51042,
         "state": "open",
-        "updated_at": 1780677165
+        "updated_at": 1780855277
     },
     "51047": {
         "base_branch": "master",
