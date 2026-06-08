@@ -2892,24 +2892,6 @@
         "state": "open",
         "updated_at": 1780676796
     },
-    "51094": {
-        "base_branch": "CMSSW_17_0_X",
-        "changed_files_names": [
-            "DPGAnalysis/HcalNanoAOD/python/hcalRecHitTable_cff.py",
-            "DataFormats/METReco/interface/HcalPhase1FlagLabels.h",
-            "RecoLocalCalo/HcalRecAlgos/interface/HBHERun3Flags.h",
-            "RecoLocalCalo/HcalRecAlgos/plugins/HcalRecAlgoESProducer.cc",
-            "RecoLocalCalo/HcalRecAlgos/python/hcalRecAlgoESProd_cfi.py",
-            "RecoLocalCalo/HcalRecAlgos/src/HBHERun3Flags.cc",
-            "RecoLocalCalo/HcalRecAlgos/src/HcalSeverityLevelComputer.cc",
-            "RecoLocalCalo/HcalRecProducers/python/HBHEPhase1Reconstructor_cfi.py",
-            "RecoLocalCalo/HcalRecProducers/src/HBHEPhase1Reconstructor.cc"
-        ],
-        "created_at": 1780066258,
-        "number": 51094,
-        "state": "open",
-        "updated_at": 1780799218
-    },
     "51095": {
         "base_branch": "master",
         "changed_files_names": [
