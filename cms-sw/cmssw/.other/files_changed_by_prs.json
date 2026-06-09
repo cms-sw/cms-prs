@@ -3663,5 +3663,19 @@
         "number": 51170,
         "state": "open",
         "updated_at": 1781018924
+    },
+    "51172": {
+        "base_branch": "CMSSW_10_6_X",
+        "changed_files_names": [
+            "DataFormats/CSCDigi/src/classes_def.xml",
+            "DataFormats/GEMDigi/src/classes_def.xml",
+            "DataFormats/Provenance/src/classes_def.xml",
+            "DataFormats/RPCDigi/src/classes_def.xml",
+            "SimDataFormats/DigiSimLinks/src/classes_def.xml"
+        ],
+        "created_at": 1781026363,
+        "number": 51172,
+        "state": "open",
+        "updated_at": 1781026389
     }
 }
