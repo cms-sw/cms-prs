@@ -3527,5 +3527,33 @@
         "number": 51151,
         "state": "open",
         "updated_at": 1780983073
+    },
+    "51152": {
+        "base_branch": "CMSSW_17_0_X",
+        "changed_files_names": [
+            "Configuration/EventContent/python/EventContent_cff.py",
+            "HLTriggerOffline/Common/python/HLTValidationHarvest_cff.py",
+            "HLTriggerOffline/Common/python/HLTValidation_cff.py",
+            "HLTriggerOffline/Tau/python/Validation/HLTTauPostValidation_cfi.py",
+            "HLTriggerOffline/Tau/python/Validation/HLTTauValidation_cff.py",
+            "HLTriggerOffline/Tau/python/Validation/HLTTauValidation_cfi.py",
+            "Validation/Configuration/python/autoValidation.py",
+            "Validation/Configuration/python/globalValidation_cff.py",
+            "Validation/Configuration/python/postValidation_cff.py",
+            "Validation/RecoTau/plugins/TauValidator.cc",
+            "Validation/RecoTau/python/RecoTauPostProcessor_cff.py",
+            "Validation/RecoTau/python/RecoTauValidation_cff.py",
+            "Validation/RecoTau/python/hltTauPostProcessor_cff.py",
+            "Validation/RecoTau/python/hltTauValidation_cff.py",
+            "Validation/RecoTau/scripts/dqm_plotting.py",
+            "Validation/RecoTau/scripts/makeComparisonPlots.py",
+            "Validation/RecoTau/scripts/makeTauValidationPlots.py",
+            "Validation/RecoTau/scripts/run_tau_comparison_plots.sh",
+            "Validation/RecoTau/scripts/run_tau_validation_plots.sh"
+        ],
+        "created_at": 1780984382,
+        "number": 51152,
+        "state": "open",
+        "updated_at": 1780984405
     }
 }
