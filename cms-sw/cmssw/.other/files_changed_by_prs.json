@@ -1704,33 +1704,6 @@
         "state": "open",
         "updated_at": 1780677782
     },
-    "50843": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "FWCore/Concurrency/interface/SerialTaskQueue.h",
-            "FWCore/Framework/interface/EventProcessor.h",
-            "FWCore/Framework/interface/SourceCoordinator.h",
-            "FWCore/Framework/interface/SourceStatus.h",
-            "FWCore/Framework/src/EventProcessor.cc",
-            "FWCore/Framework/src/LuminosityBlockProcessingStatus.cc",
-            "FWCore/Framework/src/LuminosityBlockProcessingStatus.h",
-            "FWCore/Framework/src/RunProcessingStatus.cc",
-            "FWCore/Framework/src/RunProcessingStatus.h",
-            "FWCore/Framework/src/SourceCoordinator.cc",
-            "FWCore/Framework/src/TransitionProcessors.icc",
-            "FWCore/Framework/test/BuildFile.xml",
-            "FWCore/Framework/test/MockEventProcessor.cc",
-            "FWCore/Framework/test/MockEventProcessor.h",
-            "FWCore/Framework/test/sourcecoordinator_t.catch2.cc",
-            "FWCore/Framework/test/transition_test.sh",
-            "FWCore/Framework/test/transition_test_cfg.py",
-            "FWCore/Services/plugins/CheckTransitions.cc"
-        ],
-        "created_at": 1777578047,
-        "number": 50843,
-        "state": "open",
-        "updated_at": 1780671065
-    },
     "50874": {
         "base_branch": "CMSSW_16_1_X",
         "changed_files_names": [
