@@ -3300,5 +3300,23 @@
         "number": 51188,
         "state": "open",
         "updated_at": 1781103696
+    },
+    "51192": {
+        "base_branch": "CMSSW_17_0_X",
+        "changed_files_names": [
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusterECLCC.h",
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusterizer.dev.cc",
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthConstructLinks.h",
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthECLCCEpilogue.h",
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthECLCCEpilogueMultiBlock.h",
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthECLCCFinalizeEpilogue.h",
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthECLCCPrologue.h",
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthECLCCPrologueMultiBlock.h",
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthShowerShape.h"
+        ],
+        "created_at": 1781114611,
+        "number": 51192,
+        "state": "open",
+        "updated_at": 1781114636
     }
 }
