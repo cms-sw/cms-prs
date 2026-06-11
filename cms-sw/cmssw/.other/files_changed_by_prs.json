@@ -3106,13 +3106,6 @@
         "changed_files_names": [
             "CondTools/Geometry/plugins/PHGCalParametersDBBuilder.cc",
             "CondTools/Geometry/python/HGCalParametersWriter_cff.py",
-            "Configuration/Eras/python/Era_Run3_2025_FtoG_cff.py",
-            "Configuration/Eras/python/Era_Run3_2025_UPC_OXY_cff.py",
-            "Configuration/Eras/python/Era_Run3_2025_UPC_cff.py",
-            "Configuration/Eras/python/Era_Run3_2025_cff.py",
-            "Configuration/Eras/python/Era_Run3_2026_UPC_cff.py",
-            "Configuration/Eras/python/Era_Run3_pp_on_PbPb_2025_cff.py",
-            "Configuration/Eras/python/Era_Run3_pp_on_PbPb_2026_cff.py",
             "Configuration/Eras/python/Modifier_run3_CSC_2025_AtoE_cff.py",
             "Configuration/Eras/python/Modifier_run3_CSC_2025_FtoG_cff.py",
             "Configuration/ProcessModifiers/python/fastSimPU_cff.py",
@@ -3121,9 +3114,6 @@
             "Configuration/ProcessModifiers/python/rpdReco_cff.py",
             "Configuration/ProcessModifiers/python/simTrackstersFromPU_cff.py",
             "Configuration/ProcessModifiers/python/ticl_dev.py",
-            "Configuration/ProcessModifiers/python/ticl_superclustering_mustache_pf_cff.py",
-            "Configuration/ProcessModifiers/python/ticl_superclustering_mustache_ticl_cff.py",
-            "Configuration/ProcessModifiers/python/ticlv5_TrackLinkingGNN_cff.py",
             "Geometry/CaloEventSetup/python/HGCalTopologyColdBox_cfi.py",
             "Geometry/CaloTopology/src/HGCalTopology.cc",
             "Geometry/HGCalCommonData/data/coldBox/caloBase.xml",
@@ -3188,7 +3178,7 @@
         "created_at": 1781148469,
         "number": 51195,
         "state": "open",
-        "updated_at": 1781153816
+        "updated_at": 1781171604
     },
     "51196": {
         "base_branch": "CMSSW_17_0_X",
