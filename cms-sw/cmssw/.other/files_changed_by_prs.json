@@ -3237,5 +3237,23 @@
         "number": 51193,
         "state": "open",
         "updated_at": 1781118623
+    },
+    "51194": {
+        "base_branch": "CMSSW_20_0_X",
+        "changed_files_names": [
+            "Geometry/CaloEventSetup/python/HGCalTopologyColdBox_cfi.py",
+            "Geometry/CaloTopology/src/HGCalTopology.cc",
+            "Geometry/HGCalCommonData/python/hgcalColdBoxNumberingInitialization_cfi.py",
+            "Geometry/HGCalCommonData/python/hgcalColdBoxParametersInitialization_cfi.py",
+            "Geometry/HGCalCommonData/python/testHGCalV19nO_zmReco_cff.py",
+            "Geometry/HGCalCommonData/python/testHGCalV19nO_zmXML_cfi.py",
+            "Geometry/HGCalGeometry/python/hgcalColdBoxGeometryESProducer_cfi.py",
+            "Geometry/HGCalGeometry/src/HGCalGeometryLoader.cc",
+            "SimG4CMS/Calo/test/python/runHGCalColdbox_cfg.py"
+        ],
+        "created_at": 1781148276,
+        "number": 51194,
+        "state": "open",
+        "updated_at": 1781148304
     }
 }
