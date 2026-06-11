@@ -3117,6 +3117,8 @@
     "51195": {
         "base_branch": "CMSSW_16_1_X",
         "changed_files_names": [
+            "CondTools/Geometry/plugins/PHGCalParametersDBBuilder.cc",
+            "CondTools/Geometry/python/HGCalParametersWriter_cff.py",
             "Configuration/Eras/python/Era_Run3_2025_FtoG_cff.py",
             "Configuration/Eras/python/Era_Run3_2025_UPC_OXY_cff.py",
             "Configuration/Eras/python/Era_Run3_2025_UPC_cff.py",
@@ -3199,7 +3201,7 @@
         "created_at": 1781148469,
         "number": 51195,
         "state": "open",
-        "updated_at": 1781148494
+        "updated_at": 1781153816
     },
     "51196": {
         "base_branch": "CMSSW_17_0_X",
