@@ -3135,6 +3135,14 @@
             "Geometry/HGCalCommonData/data/coldBox/hgcsensv19n.xml",
             "Geometry/HGCalCommonData/data/coldBox/zm/caloBase.xml",
             "Geometry/HGCalCommonData/data/coldBox/zm/hgcal.xml",
+            "Geometry/HGCalCommonData/data/hgcalCons/v17/hgcalCons.xml",
+            "Geometry/HGCalCommonData/data/hgcalCons/v17n/hgcalCons.xml",
+            "Geometry/HGCalCommonData/data/hgcalCons/v17ng/hgcalCons.xml",
+            "Geometry/HGCalCommonData/data/hgcalCons/v18n/hgcalCons.xml",
+            "Geometry/HGCalCommonData/data/hgcalCons/v18ng/hgcalCons.xml",
+            "Geometry/HGCalCommonData/data/hgcalCons/v19/hgcalCons.xml",
+            "Geometry/HGCalCommonData/data/hgcalCons/v19n/hgcalCons.xml",
+            "Geometry/HGCalCommonData/data/hgcalCons/v19ng/hgcalCons.xml",
             "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h",
             "Geometry/HGCalCommonData/interface/HGCalGeomParameters.h",
             "Geometry/HGCalCommonData/interface/HGCalParameters.h",
@@ -3187,7 +3195,7 @@
         "created_at": 1781148469,
         "number": 51195,
         "state": "open",
-        "updated_at": 1781178286
+        "updated_at": 1781190392
     },
     "51196": {
         "base_branch": "CMSSW_17_0_X",
