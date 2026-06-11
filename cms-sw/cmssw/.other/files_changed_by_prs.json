@@ -2521,27 +2521,6 @@
         "state": "open",
         "updated_at": 1780681061
     },
-    "51129": {
-        "base_branch": "CMSSW_17_0_X",
-        "changed_files_names": [
-            "DQM/HLTEvF/python/ScoutingTrackingMonitor_cff.py",
-            "DQM/Integration/python/clients/ngt_dqm_sourceclient-live_cfg.py",
-            "DQM/TrackingMonitor/src/TrackAnalyzer.cc",
-            "DQMOffline/HLTScouting/python/HLTScoutingDqmOffline_cff.py",
-            "HLTriggerOffline/Scouting/plugins/ScoutingTrackMonitor.cc",
-            "HLTriggerOffline/Scouting/plugins/ScoutingTrackNtuplizer.cc",
-            "HLTriggerOffline/Scouting/python/RecoTrackFromScoutingMonitor_cff.py",
-            "HLTriggerOffline/Scouting/python/RecoTrackFromScoutingMonitor_cfi.py",
-            "HLTriggerOffline/Scouting/test/ScoutingTrackNtuplizer_cfg.py",
-            "HLTriggerOffline/Scouting/test/test.sh",
-            "PhysicsTools/PatFromScouting/plugins/Run3ScoutingTrackToRecoTrackProducer.cc",
-            "PhysicsTools/PatFromScouting/plugins/Run3ScoutingVertexToRecoVertexProducer.cc"
-        ],
-        "created_at": 1780675808,
-        "number": 51129,
-        "state": "open",
-        "updated_at": 1780720776
-    },
     "51131": {
         "base_branch": "CMSSW_17_0_X",
         "changed_files_names": [
