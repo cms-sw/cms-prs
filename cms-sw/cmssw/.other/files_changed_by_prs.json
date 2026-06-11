@@ -3214,5 +3214,43 @@
         "number": 51199,
         "state": "open",
         "updated_at": 1781172088
+    },
+    "51200": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/EgammaReco/BuildFile.xml",
+            "DataFormats/EgammaReco/interface/ElectronSeedHostCollection.h",
+            "DataFormats/EgammaReco/interface/ElectronSeedSoA.h",
+            "DataFormats/EgammaReco/interface/SuperClusterHostCollection.h",
+            "DataFormats/EgammaReco/interface/SuperClusterSoA.h",
+            "DataFormats/EgammaReco/interface/alpaka/ElectronSeedDeviceCollection.h",
+            "DataFormats/EgammaReco/interface/alpaka/Phys3DVector.h",
+            "DataFormats/EgammaReco/interface/alpaka/SuperClusterDeviceCollection.h",
+            "DataFormats/EgammaReco/src/alpaka/classes_cuda.h",
+            "DataFormats/EgammaReco/src/alpaka/classes_cuda_def.xml",
+            "DataFormats/EgammaReco/src/alpaka/classes_rocm.h",
+            "DataFormats/EgammaReco/src/alpaka/classes_rocm_def.xml",
+            "DataFormats/EgammaReco/src/classes.cc",
+            "DataFormats/EgammaReco/src/classes.h",
+            "DataFormats/EgammaReco/src/classes_def.xml",
+            "RecoEgamma/Configuration/python/hltEgammaPixelSeedingPortable.py",
+            "RecoEgamma/EgammaElectronAlgos/BuildFile.xml",
+            "RecoEgamma/EgammaElectronAlgos/interface/EleRelPointPairPortable.h",
+            "RecoEgamma/EgammaElectronAlgos/interface/Plane.h",
+            "RecoEgamma/EgammaElectronAlgos/interface/ftsFromVertexToPointPortable.h",
+            "RecoEgamma/EgammaElectronAlgos/interface/helixArbitraryPlaneCrossing.h",
+            "RecoEgamma/EgammaElectronAlgos/interface/helixArbitraryPlaneCrossing2Order.h",
+            "RecoEgamma/EgammaElectronAlgos/interface/helixBarrelPlaneCrossingByCircle.h",
+            "RecoEgamma/EgammaElectronAlgos/interface/helixForwardPlaneCrossing.h",
+            "RecoEgamma/EgammaElectronProducers/plugins/BuildFile.xml",
+            "RecoEgamma/EgammaElectronProducers/plugins/ElectronSeedConverter.cc",
+            "RecoEgamma/EgammaElectronProducers/plugins/alpaka/ElectronNHitSeedAlpakaProducer.cc",
+            "RecoEgamma/EgammaElectronProducers/plugins/alpaka/PixelMatchingAlgo.dev.cc",
+            "RecoEgamma/EgammaElectronProducers/plugins/alpaka/PixelMatchingAlgo.h"
+        ],
+        "created_at": 1781176424,
+        "number": 51200,
+        "state": "open",
+        "updated_at": 1781176449
     }
 }
