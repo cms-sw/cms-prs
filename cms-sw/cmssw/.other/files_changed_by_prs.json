@@ -1964,7 +1964,9 @@
             "PhysicsTools/TruthInfo/interface/TruthLogicalGraphPostProcessor.h",
             "PhysicsTools/TruthInfo/plugins/BuildFile.xml",
             "PhysicsTools/TruthInfo/plugins/LogicalGraphHitIndexProducer.cc",
+            "PhysicsTools/TruthInfo/plugins/PFRecHitFlatTableProducer.cc",
             "PhysicsTools/TruthInfo/plugins/RecHitFlatTableProducer.cc",
+            "PhysicsTools/TruthInfo/plugins/TrackerSimHitFlatTableProducer.cc",
             "PhysicsTools/TruthInfo/plugins/TruthGraphDumper.cc",
             "PhysicsTools/TruthInfo/plugins/TruthGraphProducer.cc",
             "PhysicsTools/TruthInfo/plugins/TruthLogicalGraphDumper.cc",
@@ -1990,7 +1992,7 @@
         "created_at": 1778480862,
         "number": 50913,
         "state": "open",
-        "updated_at": 1780677551
+        "updated_at": 1781321463
     },
     "50918": {
         "base_branch": "master",
