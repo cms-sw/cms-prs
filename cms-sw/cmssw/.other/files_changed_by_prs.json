@@ -1441,8 +1441,11 @@
             "FWCore/Framework/interface/limited/implementors.h",
             "FWCore/Framework/interface/stream/implementors.h",
             "FWCore/Integration/plugins/BuildFile.xml",
+            "FWCore/Integration/plugins/TransformAsyncIntLimitedProducer.cc",
+            "FWCore/Integration/plugins/TransformAsyncIntLimitedUntypedProducer.cc",
             "FWCore/Integration/plugins/TransformAsyncIntStreamUntypedProducer.cc",
             "FWCore/Integration/plugins/TransformAsyncIntUntypedProducer.cc",
+            "FWCore/Integration/plugins/TransformIntLimitedProducer.cc",
             "FWCore/Integration/test/BuildFile.xml",
             "FWCore/Integration/test/transformTest_cfg.py",
             "HeterogeneousCore/AlpakaCore/interface/alpaka/ProducerBase.h",
@@ -1470,7 +1473,7 @@
         "created_at": 1774313086,
         "number": 50503,
         "state": "open",
-        "updated_at": 1781128888
+        "updated_at": 1781451306
     },
     "50565": {
         "base_branch": "master",
