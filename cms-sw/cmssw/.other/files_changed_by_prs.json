@@ -2820,6 +2820,10 @@
             "SimCalorimetry/HGCalAssociatorProducers/src/classes.h",
             "SimCalorimetry/HGCalAssociatorProducers/src/classes_def.xml",
             "SimG4Core/Application/python/g4SimHits_cfi.py",
+            "SimG4Core/Application/src/Phase2TrackingAction.cc",
+            "SimG4Core/Application/src/TrackingAction.cc",
+            "SimG4Core/Notification/interface/SimTrackManager.h",
+            "SimG4Core/Notification/src/SimTrackManager.cc",
             "Validation/Configuration/python/globalValidation_cff.py",
             "Validation/Configuration/python/postValidation_cff.py",
             "Validation/Configuration/python/truthPrevalidation_cff.py"
@@ -2827,7 +2831,7 @@
         "created_at": 1781378930,
         "number": 51213,
         "state": "open",
-        "updated_at": 1781610645
+        "updated_at": 1781637719
     },
     "51215": {
         "base_branch": "master",
