@@ -3147,5 +3147,16 @@
         "number": 51232,
         "state": "open",
         "updated_at": 1781629009
+    },
+    "51233": {
+        "base_branch": "CMSSW_17_0_X",
+        "changed_files_names": [
+            "L1Trigger/Configuration/python/customiseSettings.py",
+            "L1Trigger/L1TCalorimeter/python/caloParamsHI_2026_v0_2_cfi.py"
+        ],
+        "created_at": 1781637594,
+        "number": 51233,
+        "state": "open",
+        "updated_at": 1781637619
     }
 }
