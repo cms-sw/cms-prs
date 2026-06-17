@@ -2537,6 +2537,9 @@
             "Configuration/ProcessModifiers/python/rpdReco_cff.py",
             "Configuration/ProcessModifiers/python/simTrackstersFromPU_cff.py",
             "Configuration/ProcessModifiers/python/ticl_dev.py",
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometryRun4D114.xml",
+            "Geometry/CMSCommonData/python/cmsExtendedGeometryRun4D114XML_cfi.py",
+            "Geometry/CaloEventSetup/plugins/HGCalTopologyBuilder.cc",
             "Geometry/CaloEventSetup/python/HGCalTopologyColdBox_cfi.py",
             "Geometry/CaloTopology/src/HGCalTopology.cc",
             "Geometry/HGCalCommonData/data/coldBox/caloBase.xml",
@@ -2602,6 +2605,7 @@
             "Geometry/HGCalGeometry/test/python/testHGCalSize_cfg.py",
             "Geometry/HGCalGeometry/test/python/testHGCalWaferCell_cfg.py",
             "Geometry/HGCalGeometry/test/python/testHGCalWaferInFileTest_cfg.py",
+            "Geometry/HGCalMapping/test/testMappingModuleIndexer_cfg.py",
             "Geometry/MuonCommonData/data/ge0/TDR_Dev/v6/ge0.xml",
             "SimG4CMS/Calo/plugins/HGCalHitCheck.cc",
             "SimG4CMS/Calo/src/CaloSD.cc",
@@ -2611,7 +2615,7 @@
         "created_at": 1781148469,
         "number": 51195,
         "state": "open",
-        "updated_at": 1781238871
+        "updated_at": 1781669406
     },
     "51196": {
         "base_branch": "CMSSW_17_0_X",
