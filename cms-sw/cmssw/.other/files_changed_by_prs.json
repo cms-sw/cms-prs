@@ -3089,5 +3089,29 @@
         "number": 51241,
         "state": "open",
         "updated_at": 1781682202
+    },
+    "51242": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "HLTrigger/NGTScouting/plugins/BuildFile.xml",
+            "HLTrigger/NGTScouting/plugins/TICLCandidateExtraTableProducer.cc",
+            "HLTrigger/NGTScouting/python/hltTICLCandidates_cfi.py",
+            "HLTrigger/NGTScouting/test/readNano.py",
+            "PhysicsTools/NanoAOD/python/autoNANO.py",
+            "RecoHGCal/Configuration/BuildFile.xml",
+            "RecoHGCal/Configuration/test/testHGCalNanoAOD_cfg.py",
+            "RecoHGCal/NanoAOD/BuildFile.xml",
+            "RecoHGCal/NanoAOD/python/HGCalNanoAOD_cff.py",
+            "RecoHGCal/NanoAOD/python/hgcalLayerClusters_cfi.py",
+            "RecoHGCal/NanoAOD/python/hgcalTICLCandidates_cfi.py",
+            "RecoHGCal/NanoAOD/python/hgcalTICLSuperClusters_cfi.py",
+            "RecoHGCal/NanoAOD/python/hgcalTracksters_cfi.py",
+            "RecoHGCal/NanoAOD/test/readNanoOffline.py"
+        ],
+        "created_at": 1781690690,
+        "number": 51242,
+        "state": "open",
+        "updated_at": 1781690715
     }
 }
