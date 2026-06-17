@@ -2701,6 +2701,7 @@
             "PhysicsTools/TruthInfo/python/mixedTruthGraphCustomize.py",
             "PhysicsTools/TruthInfo/python/recHitTable_cff.py",
             "PhysicsTools/TruthInfo/python/truthGraphDQMHarvester_cff.py",
+            "PhysicsTools/TruthInfo/python/truthGraphSelections.py",
             "PhysicsTools/TruthInfo/python/truthGraphValidation_cff.py",
             "PhysicsTools/TruthInfo/scripts/makeTruthGraphValidationPlots.py",
             "PhysicsTools/TruthInfo/src/Branch.cc",
@@ -2723,11 +2724,13 @@
             "PhysicsTools/TruthInfo/test/checkTruthGraphTopology_cfg.py",
             "PhysicsTools/TruthInfo/test/dumpTruthGraphsFromGENSIMRECO_cfg.py",
             "PhysicsTools/TruthInfo/test/harvestBranchDQM_cfg.py",
+            "PhysicsTools/TruthInfo/test/makeBranchValidationPlots.sh",
             "PhysicsTools/TruthInfo/test/makeTruthGallery.sh",
             "PhysicsTools/TruthInfo/test/produceBranchAssociations_cfg.py",
             "PhysicsTools/TruthInfo/test/produceBranchTrackingAssociations_cfg.py",
             "PhysicsTools/TruthInfo/test/runTruthRelvals.sh",
             "PhysicsTools/TruthInfo/test/truthGraphConnectivity.py",
+            "PhysicsTools/TruthInfo/test/truthGraphSelections_t.py",
             "PhysicsTools/TruthInfo/test/validateBranchDQM_cfg.py",
             "PhysicsTools/TruthInfo/test/validateBranchRecoDQM_cfg.py",
             "PhysicsTools/TruthInfo/test/validateBranchReplacement_cfg.py",
@@ -2749,7 +2752,7 @@
         "created_at": 1781378930,
         "number": 51213,
         "state": "open",
-        "updated_at": 1781637719
+        "updated_at": 1781718866
     },
     "51215": {
         "base_branch": "master",
