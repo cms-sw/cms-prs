@@ -3180,5 +3180,19 @@
         "number": 51234,
         "state": "open",
         "updated_at": 1781670628
+    },
+    "51235": {
+        "base_branch": "CMSSW_17_0_X",
+        "changed_files_names": [
+            "FWStorage/Catalog/test/InputFileCatalog_t.cpp",
+            "FWStorage/Catalog/test/TestScitagConfig.h",
+            "FWStorage/Services/plugins/ScitagConfig.cc",
+            "FWStorage/Services/test/test_catch2_ScitagConfig.cc",
+            "FWStorage/Services/test/test_sitelocalconfig_catalog_cfg.py"
+        ],
+        "created_at": 1781670619,
+        "number": 51235,
+        "state": "open",
+        "updated_at": 1781670641
     }
 }
