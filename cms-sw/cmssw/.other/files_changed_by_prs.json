@@ -2955,6 +2955,13 @@
         "changed_files_names": [
             "Configuration/PyReleaseValidation/README.md",
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "DPGAnalysis/HGCalNanoAOD/BuildFile.xml",
+            "DPGAnalysis/HGCalNanoAOD/python/HGCalNanoAOD_cff.py",
+            "DPGAnalysis/HGCalNanoAOD/python/hgcalLayerClusters_cfi.py",
+            "DPGAnalysis/HGCalNanoAOD/python/hgcalTICLCandidates_cfi.py",
+            "DPGAnalysis/HGCalNanoAOD/python/hgcalTICLSuperClusters_cfi.py",
+            "DPGAnalysis/HGCalNanoAOD/python/hgcalTracksters_cfi.py",
+            "DPGAnalysis/HGCalNanoAOD/test/readNanoOffline.py",
             "HLTrigger/NGTScouting/plugins/BuildFile.xml",
             "HLTrigger/NGTScouting/plugins/TICLCandidateExtraTableProducer.cc",
             "HLTrigger/NGTScouting/python/hltTICLCandidates_cfi.py",
@@ -2962,18 +2969,16 @@
             "PhysicsTools/NanoAOD/python/autoNANO.py",
             "RecoHGCal/Configuration/BuildFile.xml",
             "RecoHGCal/Configuration/test/testHGCalNanoAOD_cfg.py",
-            "RecoHGCal/NanoAOD/BuildFile.xml",
-            "RecoHGCal/NanoAOD/python/HGCalNanoAOD_cff.py",
-            "RecoHGCal/NanoAOD/python/hgcalLayerClusters_cfi.py",
-            "RecoHGCal/NanoAOD/python/hgcalTICLCandidates_cfi.py",
-            "RecoHGCal/NanoAOD/python/hgcalTICLSuperClusters_cfi.py",
-            "RecoHGCal/NanoAOD/python/hgcalTracksters_cfi.py",
-            "RecoHGCal/NanoAOD/test/readNanoOffline.py"
+            "RecoHGCal/TICL/interface/TICLUtils.h",
+            "RecoHGCal/TICL/plugins/GNNInterpretationAlgo.cc",
+            "RecoHGCal/TICL/plugins/GeneralInterpretationAlgo.cc",
+            "RecoHGCal/TICL/plugins/LinkingAlgoByDirectionGeometric.cc",
+            "RecoHGCal/TICL/plugins/TracksterLinkingbySkeletons.cc"
         ],
         "created_at": 1781690690,
         "number": 51242,
         "state": "open",
-        "updated_at": 1781700008
+        "updated_at": 1781768991
     },
     "51244": {
         "base_branch": "CMSSW_16_0_X",
