@@ -2962,13 +2962,13 @@
             "DPGAnalysis/HGCalNanoAOD/python/hgcalTICLSuperClusters_cfi.py",
             "DPGAnalysis/HGCalNanoAOD/python/hgcalTracksters_cfi.py",
             "DPGAnalysis/HGCalNanoAOD/test/readNanoOffline.py",
+            "DPGAnalysis/HGCalNanoAOD/test/testHGCalNanoAOD_cfg.py",
             "HLTrigger/NGTScouting/plugins/BuildFile.xml",
             "HLTrigger/NGTScouting/plugins/TICLCandidateExtraTableProducer.cc",
             "HLTrigger/NGTScouting/python/hltTICLCandidates_cfi.py",
             "HLTrigger/NGTScouting/test/readNano.py",
             "PhysicsTools/NanoAOD/python/autoNANO.py",
             "RecoHGCal/Configuration/BuildFile.xml",
-            "RecoHGCal/Configuration/test/testHGCalNanoAOD_cfg.py",
             "RecoHGCal/TICL/interface/TICLUtils.h",
             "RecoHGCal/TICL/plugins/GNNInterpretationAlgo.cc",
             "RecoHGCal/TICL/plugins/GeneralInterpretationAlgo.cc",
@@ -2978,7 +2978,7 @@
         "created_at": 1781690690,
         "number": 51242,
         "state": "open",
-        "updated_at": 1781768991
+        "updated_at": 1781769246
     },
     "51244": {
         "base_branch": "CMSSW_16_0_X",
