@@ -2782,7 +2782,6 @@
         "changed_files_names": [
             "Configuration/PyReleaseValidation/README.md",
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
-            "DPGAnalysis/HGCalNanoAOD/BuildFile.xml",
             "DPGAnalysis/HGCalNanoAOD/plugins/BuildFile.xml",
             "DPGAnalysis/HGCalNanoAOD/plugins/LayerClustersExtraTableProducer.cc",
             "HLTrigger/NGTScouting/plugins/LayerClustersExtraTableProducer.cc",
@@ -2811,7 +2810,6 @@
             "HLTrigger/NGTScouting/python/hltTICLCandidates_cfi.py",
             "HLTrigger/NGTScouting/test/readNano.py",
             "PhysicsTools/NanoAOD/python/autoNANO.py",
-            "RecoHGCal/Configuration/BuildFile.xml",
             "RecoHGCal/TICL/interface/TICLUtils.h",
             "RecoHGCal/TICL/plugins/GNNInterpretationAlgo.cc",
             "RecoHGCal/TICL/plugins/GeneralInterpretationAlgo.cc",
@@ -2822,7 +2820,7 @@
         "created_at": 1781690690,
         "number": 51242,
         "state": "open",
-        "updated_at": 1781777533
+        "updated_at": 1781864010
     },
     "51254": {
         "base_branch": "master",
