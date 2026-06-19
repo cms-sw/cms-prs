@@ -2699,12 +2699,14 @@
             "CalibPPS/ESProducers/plugins/CTPPSRPAlignmentCorrectionsDataESSourceXML.cc",
             "CalibPPS/ESProducers/plugins/PPSAssociationCutsESSource.cc",
             "CalibPPS/ESProducers/plugins/TotemDAQMappingESSourceXML.cc",
-            "CalibPPS/ESProducers/src/CTPPSRPAlignmentCorrectionsDataESSourceXMLCommon.cc"
+            "CalibPPS/ESProducers/src/CTPPSRPAlignmentCorrectionsDataESSourceXMLCommon.cc",
+            "CalibPPS/ESProducers/test/BuildFile.xml",
+            "CalibPPS/ESProducers/test/alignment_xml_io_test.cc"
         ],
         "created_at": 1781545503,
         "number": 51220,
         "state": "open",
-        "updated_at": 1781808663
+        "updated_at": 1781866970
     },
     "51233": {
         "base_branch": "CMSSW_17_0_X",
