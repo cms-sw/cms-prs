@@ -3031,5 +3031,35 @@
         "number": 51270,
         "state": "open",
         "updated_at": 1781879532
+    },
+    "51271": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HeterogeneousCore/AlpakaInterface/interface/CachingAllocator.h",
+            "HeterogeneousCore/AlpakaInterface/interface/CachingAllocatorMonitor.h",
+            "PerfTools/Perfetto/BuildFile.xml",
+            "PerfTools/Perfetto/README.md",
+            "PerfTools/Perfetto/doc/perfetto-as-external.md",
+            "PerfTools/Perfetto/interface/CMSSWPerfettoCategories.h",
+            "PerfTools/Perfetto/interface/CMSSWPerfettoLanes.h",
+            "PerfTools/Perfetto/interface/CMSSWPerfettoModuleContext.h",
+            "PerfTools/Perfetto/interface/CMSSWPerfettoTrace.h",
+            "PerfTools/Perfetto/interface/PerfettoAllocatorMonitor.h",
+            "PerfTools/Perfetto/plugins/BuildFile.xml",
+            "PerfTools/Perfetto/plugins/PerfettoCuptiProfiler.h",
+            "PerfTools/Perfetto/plugins/PerfettoPowerSampler.h",
+            "PerfTools/Perfetto/plugins/PerfettoTraceService.cc",
+            "PerfTools/Perfetto/python/customisePerfetto.py",
+            "PerfTools/Perfetto/scripts/perfettoKernelResources.py",
+            "PerfTools/Perfetto/src/CMSSWPerfettoCategories.cc",
+            "PerfTools/Perfetto/src/CMSSWPerfettoModuleContext.cc",
+            "PerfTools/Perfetto/test/BuildFile.xml",
+            "PerfTools/Perfetto/test/alpaka/testPerfettoAllocator.dev.cc",
+            "PerfTools/Perfetto/test/testPerfettoTrace.cpp"
+        ],
+        "created_at": 1781955184,
+        "number": 51271,
+        "state": "open",
+        "updated_at": 1781955204
     }
 }
