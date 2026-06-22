@@ -3032,5 +3032,40 @@
         "number": 51277,
         "state": "open",
         "updated_at": 1782129053
+    },
+    "51279": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondCore/MTDPlugins/BuildFile.xml",
+            "CondCore/MTDPlugins/src/plugin.cc",
+            "CondFormats/DataRecord/interface/BTLReadoutMapRcd.h",
+            "CondFormats/DataRecord/src/BTLReadoutMapRcd.cc",
+            "CondFormats/MTDObjects/BuildFile.xml",
+            "CondFormats/MTDObjects/interface/BTLElectronicsId.h",
+            "CondFormats/MTDObjects/interface/BTLReadoutMap.h",
+            "CondFormats/MTDObjects/src/BTLElectronicsId.cc",
+            "CondFormats/MTDObjects/src/BTLReadouMap.cc",
+            "CondFormats/MTDObjects/src/T_EventSetup_BTLReadoutMap.cc",
+            "CondFormats/MTDObjects/src/classes.h",
+            "CondFormats/MTDObjects/src/classes_def.xml",
+            "CondFormats/MTDObjects/src/headers.h",
+            "EventFilter/MTDRawToDigi/BuildFile.xml",
+            "EventFilter/MTDRawToDigi/interface/BTLElectronicsMapping.h",
+            "EventFilter/MTDRawToDigi/interface/BTLElectronicsSpecs.h",
+            "EventFilter/MTDRawToDigi/plugins/BTLReadoutMapESProducer.cc",
+            "EventFilter/MTDRawToDigi/plugins/BTLReadoutMapESProducer.h",
+            "EventFilter/MTDRawToDigi/plugins/BuildFile.xml",
+            "EventFilter/MTDRawToDigi/src/BTLElectronicsMapping.cc",
+            "EventFilter/MTDRawToDigi/test/BuildFile.xml",
+            "EventFilter/MTDRawToDigi/test/TestBTLReadoutMap.cc",
+            "EventFilter/MTDRawToDigi/test/testBTLReadoutMap_cfg.py",
+            "Geometry/MTDCommonData/interface/BTLElectronicsMapping.h",
+            "Geometry/MTDCommonData/src/BTLElectronicsMapping.cc",
+            "Geometry/MTDCommonData/test/DD4hep_TestMTDIdealGeometry.cc"
+        ],
+        "created_at": 1782137778,
+        "number": 51279,
+        "state": "open",
+        "updated_at": 1782137807
     }
 }
