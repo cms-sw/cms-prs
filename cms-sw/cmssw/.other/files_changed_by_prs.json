@@ -2970,10 +2970,6 @@
             "L1Trigger/L1CaloTrigger/plugins/Phase2L1CaloToCorrelatorTM18.cc",
             "L1Trigger/L1CaloTrigger/plugins/Phase2L1TCaloBarrelToCorrelator.cc",
             "L1Trigger/L1CaloTrigger/python/l1tPhase2CaloToCorrelatorTM18_cfi.py",
-            "L1Trigger/Phase2L1ParticleFlow/data/egamma/TkElePtRegr_EB_sigVsBkg_v0_conifer.json",
-            "L1Trigger/Phase2L1ParticleFlow/data/egamma/compositeID_EB_v1.1.json",
-            "L1Trigger/Phase2L1ParticleFlow/data/emcorr_barrel.root",
-            "L1Trigger/Phase2L1ParticleFlow/data/hadcorr_barrel.root",
             "L1Trigger/Phase2L1ParticleFlow/interface/L1TCorrelatorLayer1PatternFileWriter.h",
             "L1Trigger/Phase2L1ParticleFlow/interface/L1TSC82ProngJetID.h",
             "L1Trigger/Phase2L1ParticleFlow/interface/NNVtxAssoc.h",
@@ -3021,7 +3017,7 @@
         "created_at": 1781879503,
         "number": 51270,
         "state": "open",
-        "updated_at": 1781879532
+        "updated_at": 1782111484
     },
     "51271": {
         "base_branch": "master",
