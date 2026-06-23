@@ -2563,7 +2563,7 @@
             "PhysicsTools/TruthInfo/test/validateBranchTrackingDQM_cfg.py",
             "SimCalorimetry/HGCalAssociatorProducers/BuildFile.xml",
             "SimCalorimetry/HGCalAssociatorProducers/interface/DetIdRecHitMap.h",
-            "SimCalorimetry/HGCalAssociatorProducers/plugins/SimHitToRecHitMapProducer.cc",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/DetIdToRecHitMapProducer.cc",
             "SimCalorimetry/HGCalAssociatorProducers/src/classes.h",
             "SimCalorimetry/HGCalAssociatorProducers/src/classes_def.xml",
             "SimDataFormats/TruthInfo/BuildFile.xml",
@@ -2588,7 +2588,7 @@
         "created_at": 1781378930,
         "number": 51213,
         "state": "open",
-        "updated_at": 1782017027
+        "updated_at": 1782180878
     },
     "51233": {
         "base_branch": "CMSSW_17_0_X",
