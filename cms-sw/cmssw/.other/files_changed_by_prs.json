@@ -2796,12 +2796,13 @@
         "base_branch": "CMSSW_17_0_X",
         "changed_files_names": [
             "L1Trigger/Phase2L1ParticleFlow/interface/L1TSC4NGJetID.h",
+            "L1Trigger/Phase2L1ParticleFlow/plugins/L1TSC4NGJetProducer.cc",
             "L1Trigger/Phase2L1ParticleFlow/src/L1TSC4NGJet.cc"
         ],
         "created_at": 1781866993,
         "number": 51267,
         "state": "open",
-        "updated_at": 1781867015
+        "updated_at": 1782188367
     },
     "51268": {
         "base_branch": "master",
