@@ -2228,12 +2228,15 @@
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
             "DQM/TrackingMonitorSource/python/TrackingSourceConfig_Tier0_cff.py",
             "RecoTracker/IterativeTracking/python/HighPtTripletStep_cff.py",
-            "RecoTracker/LST/python/lstProducerTask_cff.py"
+            "RecoTracker/IterativeTracking/python/iterativeTkConfig.py",
+            "RecoTracker/LST/python/lstProducerTask_cff.py",
+            "Validation/RecoTrack/python/TrackValidation_cff.py",
+            "Validation/RecoTrack/python/plotting/trackingPlots.py"
         ],
         "created_at": 1780910352,
         "number": 51140,
         "state": "open",
-        "updated_at": 1781545976
+        "updated_at": 1782277663
     },
     "51148": {
         "base_branch": "master",
