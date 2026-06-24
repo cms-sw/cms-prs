@@ -3273,15 +3273,8 @@
     "51307": {
         "base_branch": "master",
         "changed_files_names": [
-            "Alignment/OfflineValidation/bin/JetHtPlotConfiguration.cc",
             "Alignment/OfflineValidation/bin/Zmumumerge.cc",
-            "Alignment/OfflineValidation/interface/TkAlStyle.h",
-            "Alignment/OfflineValidation/macros/CMS_lumi.h",
             "Alignment/OfflineValidation/macros/DiMuonMassProfiles.C",
-            "Alignment/OfflineValidation/macros/FitPVResolution.C",
-            "Alignment/OfflineValidation/macros/loopAndPlot.C",
-            "Alignment/OfflineValidation/macros/makeArrowPlots.C",
-            "Alignment/OfflineValidation/macros/trackSplitPlot.h",
             "Alignment/OfflineValidation/python/TkAlAllInOneTool/DMR_cfg.py",
             "Alignment/OfflineValidation/python/TkAlAllInOneTool/DiMuonV_cfg.py",
             "Alignment/OfflineValidation/python/TkAlAllInOneTool/GenericV_cfg.py",
@@ -3292,7 +3285,6 @@
             "Alignment/OfflineValidation/python/TkAlAllInOneTool/Zmumu_cfg.py",
             "Alignment/OfflineValidation/python/TkAlAllInOneTool/defaultInputFiles_cff.py",
             "Alignment/OfflineValidation/src/CompareAlignments.cc",
-            "Alignment/OfflineValidation/src/PlotAlignmentValidation.cc",
             "Alignment/OfflineValidation/test/BuildFile.xml",
             "Alignment/OfflineValidation/test/DiElectronVertexValidation_cfg.py",
             "Alignment/OfflineValidation/test/DiMuonVertexValidation_cfg.py",
@@ -3313,6 +3305,6 @@
         "created_at": 1782294609,
         "number": 51307,
         "state": "open",
-        "updated_at": 1782294637
+        "updated_at": 1782309971
     }
 }
