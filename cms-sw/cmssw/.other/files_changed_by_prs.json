@@ -3372,12 +3372,14 @@
     "51322": {
         "base_branch": "CMSSW_17_0_X",
         "changed_files_names": [
+            "HLTrigger/Tools/README.md",
             "HLTrigger/Tools/python/streamerToRaw.py",
-            "HLTrigger/Tools/scripts/convertToRaw"
+            "HLTrigger/Tools/scripts/convertToRaw",
+            "HLTrigger/Tools/test/testConvertToRaw.sh"
         ],
         "created_at": 1782395067,
         "number": 51322,
         "state": "open",
-        "updated_at": 1782395093
+        "updated_at": 1782412118
     }
 }
