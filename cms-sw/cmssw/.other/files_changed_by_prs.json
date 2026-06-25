@@ -3074,6 +3074,7 @@
             "L1Trigger/Phase2L1ParticleFlow/interface/egamma/l2tkeleregression_ref.h",
             "L1Trigger/Phase2L1ParticleFlow/interface/egamma/pftkegsorter_barrel_ref.h",
             "L1Trigger/Phase2L1ParticleFlow/interface/egamma/pftkegsorter_ref.h",
+            "L1Trigger/Phase2L1ParticleFlow/interface/jetmet/L1PFHtEmulator.h",
             "L1Trigger/Phase2L1ParticleFlow/interface/l1-converters/gcteminput_ref.h",
             "L1Trigger/Phase2L1ParticleFlow/interface/l1-converters/gcthadinput_ref.h",
             "L1Trigger/Phase2L1ParticleFlow/interface/puppi/linpuppi_ref.h",
@@ -3112,7 +3113,7 @@
         "created_at": 1782212820,
         "number": 51293,
         "state": "open",
-        "updated_at": 1782212843
+        "updated_at": 1782371277
     },
     "51294": {
         "base_branch": "CMSSW_17_0_X",
