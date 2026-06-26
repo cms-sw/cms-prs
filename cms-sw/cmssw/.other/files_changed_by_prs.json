@@ -3399,5 +3399,19 @@
         "number": 51327,
         "state": "open",
         "updated_at": 1782444560
+    },
+    "51329": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoLocalCalo/HGCalRecAlgos/interface/RecHitTools.h",
+            "RecoLocalCalo/HGCalRecAlgos/src/RecHitTools.cc",
+            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalCLUEAlgo.cc",
+            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalCLUEAlgo.h",
+            "RecoLocalCalo/HGCalRecProducers/python/hgcalLayerClusters_cff.py"
+        ],
+        "created_at": 1782452093,
+        "number": 51329,
+        "state": "open",
+        "updated_at": 1782452115
     }
 }
