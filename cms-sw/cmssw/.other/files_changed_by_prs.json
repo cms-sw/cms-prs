@@ -3441,5 +3441,18 @@
         "number": 51331,
         "state": "open",
         "updated_at": 1782474705
+    },
+    "51332": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Framework/src/EventProcessor.cc",
+            "FWCore/Framework/test/stubs/DummyLooper.cc",
+            "FWCore/Integration/test/eventSetupTest.sh",
+            "FWCore/Integration/test/testConcurrentIOVsLegacy_cfg.py"
+        ],
+        "created_at": 1782477176,
+        "number": 51332,
+        "state": "open",
+        "updated_at": 1782477203
     }
 }
