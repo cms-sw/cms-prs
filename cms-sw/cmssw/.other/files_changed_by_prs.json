@@ -3324,5 +3324,19 @@
         "number": 51341,
         "state": "open",
         "updated_at": 1782619679
+    },
+    "51342": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoHGCal/TICL/plugins/GNNInterpretationAlgo.cc",
+            "RecoHGCal/TICL/plugins/LinkingAlgoByDirectionGeometric.cc",
+            "RecoHGCal/TICL/plugins/TracksterInferenceByDNN.cc",
+            "RecoHGCal/TICL/plugins/TracksterLinkingbySkeletons.cc",
+            "RecoHGCal/TICL/plugins/TrackstersProducer.cc"
+        ],
+        "created_at": 1782619738,
+        "number": 51342,
+        "state": "open",
+        "updated_at": 1782619763
     }
 }
