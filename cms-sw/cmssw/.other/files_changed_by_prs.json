@@ -4206,5 +4206,17 @@
         "number": 51365,
         "state": "open",
         "updated_at": 1782737744
+    },
+    "51366": {
+        "base_branch": "CMSSW_15_1_X",
+        "changed_files_names": [
+            "Configuration/EventContent/python/EventContent_cff.py",
+            "Configuration/ProcessModifiers/python/phase2_l1scout_cff.py",
+            "L1Trigger/Configuration/python/L1Trigger_EventContent_cff.py"
+        ],
+        "created_at": 1782737858,
+        "number": 51366,
+        "state": "open",
+        "updated_at": 1782737880
     }
 }
