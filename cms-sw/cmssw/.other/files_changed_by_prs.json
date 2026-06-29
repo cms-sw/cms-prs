@@ -1941,6 +1941,7 @@
             "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtuplet.cc",
             "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGenerator.cc",
             "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernels.dev.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernels.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernelsImpl.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/CAPixelDoubletsAlgos.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/CAStructures.h"
@@ -1948,7 +1949,7 @@
         "created_at": 1779981186,
         "number": 51085,
         "state": "open",
-        "updated_at": 1781599346
+        "updated_at": 1782742187
     },
     "51104": {
         "base_branch": "master",
