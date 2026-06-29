@@ -3313,5 +3313,25 @@
         "number": 51351,
         "state": "open",
         "updated_at": 1782663478
+    },
+    "51352": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Alignment/OfflineValidation/interface/OfflineValidationUtils.h",
+            "Alignment/OfflineValidation/plugins/DMRChecker.cc",
+            "Alignment/OfflineValidation/plugins/GeneralPurposeTrackAnalyzer.cc",
+            "Alignment/OfflineValidation/plugins/ShortenedTrackValidation.cc",
+            "Alignment/OfflineValidation/python/TkAlAllInOneTool/Zmumu_cfg.py",
+            "Alignment/OfflineValidation/test/BuildFile.xml",
+            "Alignment/OfflineValidation/test/eopElecTreeWriter_cfg.py",
+            "Alignment/OfflineValidation/test/testG4Refitter_cfg.py",
+            "Alignment/OfflineValidation/test/testShortenedTrackValidation_cfg.py",
+            "Alignment/OfflineValidation/test/testingScripts/test_unitEoP.sh",
+            "Alignment/OfflineValidation/test/testingScripts/test_unitMiscellanea.sh"
+        ],
+        "created_at": 1782711253,
+        "number": 51352,
+        "state": "open",
+        "updated_at": 1782711283
     }
 }
