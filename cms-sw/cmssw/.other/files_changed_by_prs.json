@@ -2661,23 +2661,6 @@
         "state": "open",
         "updated_at": 1782473775
     },
-    "51280": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "FWCore/Concurrency/interface/SpinLock.h",
-            "FWCore/Concurrency/test/test_catch2_spinlock.cc",
-            "FWCore/Framework/src/EventProcessor.cc",
-            "FWCore/Framework/src/LuminosityBlockProcessingStatus.cc",
-            "FWCore/Framework/src/LuminosityBlockProcessingStatus.h",
-            "FWCore/Framework/test/BuildFile.xml",
-            "FWCore/Framework/test/stubs/ConcurrentLumiAnalyzer.cc",
-            "FWCore/Framework/test/test_2_concurrent_lumis_with_blocked_event_cfg.py"
-        ],
-        "created_at": 1782149668,
-        "number": 51280,
-        "state": "open",
-        "updated_at": 1782397519
-    },
     "51281": {
         "base_branch": "master",
         "changed_files_names": [
