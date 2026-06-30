@@ -3160,6 +3160,7 @@
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
             "RecoLocalCalo/EcalRecProducers/python/ecalUncalibRecHitPhase2_cff.py",
             "SimCalorimetry/Configuration/python/SimCalorimetry_EventContent_cff.py",
+            "SimCalorimetry/EcalEBTrigPrimProducers/python/ecalEBTriggerPrimitivePhase2Digis_cfi.py",
             "SimCalorimetry/EcalSimAlgos/interface/EcalSignalGeneratorPh2.h",
             "SimCalorimetry/EcalSimAlgos/src/EcalSignalGeneratorPh2.cc",
             "SimCalorimetry/EcalSimProducers/interface/EcalDigiProducer_Ph2.h",
@@ -3172,7 +3173,7 @@
         "created_at": 1782720610,
         "number": 51358,
         "state": "open",
-        "updated_at": 1782720634
+        "updated_at": 1782804787
     },
     "51359": {
         "base_branch": "master",
