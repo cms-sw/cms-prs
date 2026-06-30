@@ -1722,6 +1722,9 @@
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2PixelTracksCutClassifier_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2PixelTracks_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2PixelVertices_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPixelTracksSoACompareGPUvsCPU_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPixelTracksSoAMonitorCPU_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPixelTracksSoAMonitorGPU_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/paths/DST_HeterogeneousReco_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPhase2PixelTracksAndVerticesSequence_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPhase2PixelVertexingSequence_cfi.py",
@@ -1742,7 +1745,7 @@
         "created_at": 1779821467,
         "number": 51042,
         "state": "open",
-        "updated_at": 1782318406
+        "updated_at": 1782833068
     },
     "51047": {
         "base_branch": "master",
