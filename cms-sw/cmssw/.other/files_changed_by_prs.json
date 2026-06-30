@@ -1595,14 +1595,16 @@
     "50888": {
         "base_branch": "master",
         "changed_files_names": [
+            "DataFormats/SoATemplate/interface/SoABlocks.h",
             "DataFormats/SoATemplate/interface/SoACommon.h",
             "DataFormats/SoATemplate/interface/SoALayout.h",
-            "DataFormats/SoATemplate/src/SoACommon.cc"
+            "DataFormats/SoATemplate/src/SoACommon.cc",
+            "RecoLocalCalo/HGCalRecAlgos/test/alpaka/HGCalRecHitESProducersTest.cc"
         ],
         "created_at": 1778005367,
         "number": 50888,
         "state": "open",
-        "updated_at": 1781086853
+        "updated_at": 1782804187
     },
     "50896": {
         "base_branch": "master",
