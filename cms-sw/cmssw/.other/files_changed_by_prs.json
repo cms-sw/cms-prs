@@ -3700,5 +3700,21 @@
         "number": 51413,
         "state": "open",
         "updated_at": 1783258078
+    },
+    "51414": {
+        "base_branch": "CMSSW_17_0_X",
+        "changed_files_names": [
+            "GeneratorInterface/SherpaInterface/data/MakeSherpaLibs.sh",
+            "GeneratorInterface/SherpaInterface/data/PrepareSherpaLibs.sh",
+            "GeneratorInterface/SherpaInterface/data/README.md",
+            "GeneratorInterface/SherpaInterface/data/convert_sherpack.sh",
+            "GeneratorInterface/SherpaInterface/interface/SherpackFetcher.h",
+            "GeneratorInterface/SherpaInterface/src/SherpaHepMC3Hadronizer.cc",
+            "GeneratorInterface/SherpaInterface/src/SherpackFetcher.cc"
+        ],
+        "created_at": 1783276024,
+        "number": 51414,
+        "state": "open",
+        "updated_at": 1783276051
     }
 }
