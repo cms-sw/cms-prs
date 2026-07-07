@@ -1640,8 +1640,8 @@
     "51047": {
         "base_branch": "master",
         "changed_files_names": [
+            "DPGAnalysis/HGCalNanoAOD/plugins/SimTracksterTableProducer.cc",
             "DataFormats/HGCalReco/interface/Trackster.h",
-            "HLTrigger/NGTScouting/plugins/SimTracksterTableProducer.cc",
             "HLTrigger/NGTScouting/python/hltSimTracksters_cfi.py",
             "HLTrigger/NGTScouting/python/hltTICLCandidates_cfi.py",
             "HLTrigger/NGTScouting/python/hltTracksters_cfi.py",
@@ -1653,6 +1653,7 @@
             "RecoHGCal/TICL/python/SimTracksters_cff.py",
             "RecoHGCal/TICL/python/iterativeTICL_cff.py",
             "RecoHGCal/TICL/python/ticlDumper_cff.py",
+            "RecoTICL/Configuration/python/ticlEventContent_cff.py",
             "SimCalorimetry/HGCalAssociatorProducers/plugins/AllTracksterToSimTracksterAssociatorsByHitsProducer.cc",
             "SimCalorimetry/HGCalAssociatorProducers/plugins/HitToSimClusterCaloParticleAssociatorProducer.cc",
             "SimCalorimetry/HGCalAssociatorProducers/plugins/HitToSimClusterCaloParticleAssociatorProducer.h",
@@ -1702,7 +1703,7 @@
         "created_at": 1779868660,
         "number": 51047,
         "state": "open",
-        "updated_at": 1781241117
+        "updated_at": 1783410262
     },
     "51057": {
         "base_branch": "master",
