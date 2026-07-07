@@ -3337,5 +3337,20 @@
         "number": 51436,
         "state": "open",
         "updated_at": 1783437129
+    },
+    "51437": {
+        "base_branch": "CMSSW_20_0_X",
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/relval_nano.py",
+            "HLTrigger/NGTScouting/plugins/BuildFile.xml",
+            "HLTrigger/NGTScouting/plugins/TrigObjP4FlatTableProducer.cc",
+            "HLTrigger/NGTScouting/python/HLTNanoProducer_cff.py",
+            "HLTrigger/NGTScouting/python/hltTriggerObjects_cff.py",
+            "HLTrigger/NGTScouting/test/testProduceNanoHLT.sh"
+        ],
+        "created_at": 1783438798,
+        "number": 51437,
+        "state": "open",
+        "updated_at": 1783438830
     }
 }
