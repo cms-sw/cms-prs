@@ -3262,12 +3262,14 @@
     "51424": {
         "base_branch": "master",
         "changed_files_names": [
-            "HLTrigger/Configuration/python/HLT_75e33_cff.py"
+            "HLTrigger/Configuration/python/HLT_75e33/paths/DST_NGTScouting_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33_cff.py",
+            "HLTrigger/Configuration/python/HLT_NGTScouting_cff.py"
         ],
         "created_at": 1783321774,
         "number": 51424,
         "state": "open",
-        "updated_at": 1783321801
+        "updated_at": 1783421568
     },
     "51425": {
         "base_branch": "master",
