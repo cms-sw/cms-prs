@@ -3321,5 +3321,19 @@
         "number": 51428,
         "state": "open",
         "updated_at": 1783358977
+    },
+    "51431": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "GeneratorInterface/Pythia8Interface/interface/Py8HMC3GunBase.h",
+            "GeneratorInterface/Pythia8Interface/plugins/HMC3Py8EGun.cc",
+            "GeneratorInterface/Pythia8Interface/src/Py8HMC3GunBase.cc",
+            "GeneratorInterface/Pythia8Interface/test/Py8hmc3EGun_EvtGen_cfg.py",
+            "GeneratorInterface/Pythia8Interface/test/pythia8hmc3ex11_cfg.py"
+        ],
+        "created_at": 1783404792,
+        "number": 51431,
+        "state": "open",
+        "updated_at": 1783404818
     }
 }
