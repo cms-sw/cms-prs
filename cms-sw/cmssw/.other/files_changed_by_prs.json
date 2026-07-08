@@ -1782,16 +1782,15 @@
     "51084": {
         "base_branch": "master",
         "changed_files_names": [
-            "Configuration/Eras/python/Era_Phase2_cff.py",
-            "Configuration/ProcessModifiers/python/trackTorchClassifier_cff.py",
+            "Configuration/ProcessModifiers/python/trackCutClassifier_cff.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrackCutClassifier_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrackFeatureExtractor_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrackSelectionHighPurity_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrackTorchClassifierOutput_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrackTorchClassifier_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTInitialStepCutClassifierHPSelectionSequence_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTInitialStepHPSelectionSequence_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTInitialStepSequence_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTInitialStepTorchClassifierHPSelectionSequence_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/services/PyTorchService_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33_cff.py",
             "HLTrigger/Configuration/python/HLT_75e33_timing_cff.py",
@@ -1813,7 +1812,7 @@
         "created_at": 1779979447,
         "number": 51084,
         "state": "open",
-        "updated_at": 1781010942
+        "updated_at": 1783533439
     },
     "51085": {
         "base_branch": "master",
