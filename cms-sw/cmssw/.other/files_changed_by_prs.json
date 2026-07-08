@@ -1294,6 +1294,7 @@
             "HeterogeneousCore/MPICore/test/BuildFile.xml",
             "HeterogeneousCore/MPICore/test/controller_soa_device_cfg.py",
             "HeterogeneousCore/MPICore/test/follower_soa_device_cfg.py",
+            "HeterogeneousCore/MPIServices/src/MPIService.cc",
             "HeterogeneousCore/TrivialSerialisation/interface/Reader.h",
             "HeterogeneousCore/TrivialSerialisation/interface/alpaka/Serialiser.h",
             "HeterogeneousCore/TrivialSerialisation/interface/alpaka/SerialiserBase.h",
@@ -1308,7 +1309,7 @@
         "created_at": 1774313086,
         "number": 50503,
         "state": "open",
-        "updated_at": 1781499655
+        "updated_at": 1783507478
     },
     "50565": {
         "base_branch": "master",
