@@ -3224,6 +3224,7 @@
             "L1Trigger/L1TGEM/interface/ME0StubAlgoPartition.h",
             "L1Trigger/L1TGEM/interface/ME0StubAlgoPatUnit.h",
             "L1Trigger/L1TGEM/interface/ME0StubAlgoPatUnitMux.h",
+            "L1Trigger/L1TGEM/interface/ME0StubAlgoPeaking.h",
             "L1Trigger/L1TGEM/interface/ME0StubAlgoSubfunction.h",
             "L1Trigger/L1TGEM/interface/ME0StubBuilder.h",
             "L1Trigger/L1TGEM/plugins/ME0StubBuilder.h",
@@ -3239,6 +3240,7 @@
             "L1Trigger/L1TGEM/src/ME0StubAlgoPartition.cc",
             "L1Trigger/L1TGEM/src/ME0StubAlgoPatUnit.cc",
             "L1Trigger/L1TGEM/src/ME0StubAlgoPatUnitMux.cc",
+            "L1Trigger/L1TGEM/src/ME0StubAlgoPeaking.cc",
             "L1Trigger/L1TGEM/src/ME0StubAlgoSubfunction.cc",
             "L1Trigger/L1TGEM/src/ME0StubBuilder.cc",
             "L1Trigger/L1TGEM/src/ME0StubBuilderV2.cc",
@@ -3248,7 +3250,7 @@
         "created_at": 1783344560,
         "number": 51426,
         "state": "open",
-        "updated_at": 1783346758
+        "updated_at": 1783476381
     },
     "51428": {
         "base_branch": "master",
