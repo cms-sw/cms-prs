@@ -3302,5 +3302,42 @@
         "number": 51457,
         "state": "open",
         "updated_at": 1783571091
+    },
+    "51458": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/Portable/test/BuildFile.xml",
+            "DataFormats/Portable/test/alpaka/test_soamultiview.dev.cc",
+            "DataFormats/SoATemplate/interface/SoAMultiView.h",
+            "DataFormats/SoATemplate/test/BuildFile.xml",
+            "DataFormats/SoATemplate/test/SoAMultiView_t.cu",
+            "DataFormats/SoATemplate/test/SoAMultiView_t.hip.cc",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2PixelRecHitsExtendedSoA_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2PixelTracksSoA_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/paths/DST_HeterogeneousReco_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPhase2PixelTracksAndVerticesSequence_cfi.py",
+            "HeterogeneousCore/AlpakaInterface/interface/HistoContainer.h",
+            "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/SiPixelRecHitExtendedAlpaka.cc",
+            "RecoLocalTracker/SiPixelRecHits/python/SiPixelRecHits_cfi.py",
+            "RecoTracker/PixelSeeding/plugins/alpaka/BrokenLineFit.dev.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CACell.h",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAFishbone.h",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtuplet.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGenerator.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGenerator.h",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernels.dev.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernels.h",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernelsImpl.h",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAPixelDoublets.h",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAPixelDoubletsAlgos.h",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAStructures.h",
+            "RecoTracker/PixelSeeding/plugins/alpaka/HelixFit.h",
+            "RecoTracker/PixelSeeding/plugins/alpaka/RiemannFit.dev.cc",
+            "RecoTracker/PixelTrackFitting/python/PixelTracks_cff.py"
+        ],
+        "created_at": 1783585323,
+        "number": 51458,
+        "state": "open",
+        "updated_at": 1783585352
     }
 }
