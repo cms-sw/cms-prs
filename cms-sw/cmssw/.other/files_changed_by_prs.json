@@ -3179,5 +3179,17 @@
         "number": 51459,
         "state": "open",
         "updated_at": 1783590571
+    },
+    "51460": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondFormats/HcalObjects/interface/HcalMahiConditionsSoA.h",
+            "RecoLocalCalo/HcalRecProducers/plugins/alpaka/HcalMahiConditionsESProducer.cc",
+            "RecoLocalCalo/HcalRecProducers/plugins/alpaka/Mahi.dev.cc"
+        ],
+        "created_at": 1783600528,
+        "number": 51460,
+        "state": "open",
+        "updated_at": 1783600554
     }
 }
