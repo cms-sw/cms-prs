@@ -2895,21 +2895,13 @@
     "51416": {
         "base_branch": "CMSSW_14_1_X",
         "changed_files_names": [
-            "PhysicsTools/NanoAOD/python/custom_jme_cff.py",
-            "PhysicsTools/NanoAOD/python/jetsAK4_Puppi_cff.py",
-            "PhysicsTools/PatAlgos/python/recoLayer0/bTagging_cff.py",
-            "PhysicsTools/PatAlgos/python/slimming/applyDeepBtagging_cff.py",
-            "PhysicsTools/PatAlgos/python/tools/jetTools.py",
-            "RecoBTag/Configuration/python/RecoBTag_cff.py",
             "RecoBTag/FeatureTools/plugins/UnifiedParticleTransformerAK4TagInfoProducer.cc",
-            "RecoBTag/ONNXRuntime/plugins/UnifiedParticleTransformerAK4ONNXJetTagsProducer.cc",
-            "RecoBTag/ONNXRuntime/python/pfUnifiedParticleTransformerAK4V1DiscriminatorsJetTags_cfi.py",
-            "RecoBTag/ONNXRuntime/python/pfUnifiedParticleTransformerAK4V1_cff.py"
+            "RecoBTag/ONNXRuntime/plugins/UnifiedParticleTransformerAK4ONNXJetTagsProducer.cc"
         ],
         "created_at": 1783285356,
         "number": 51416,
         "state": "open",
-        "updated_at": 1783285382
+        "updated_at": 1783609141
     },
     "51418": {
         "base_branch": "CMSSW_16_1_X",
