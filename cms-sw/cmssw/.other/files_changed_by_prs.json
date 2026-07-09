@@ -997,7 +997,9 @@
         "base_branch": "master",
         "changed_files_names": [
             "FWCore/Services/interface/ProfilerService.h",
+            "FWCore/Services/interface/ProfilerServiceBase.h",
             "HeterogeneousCore/CUDAServices/plugins/BuildFile.xml",
+            "HeterogeneousCore/CUDAServices/plugins/CUDAService.cc",
             "HeterogeneousCore/CUDAServices/plugins/NVProfilerService.cc",
             "HeterogeneousCore/ROCmServices/plugins/BuildFile.xml",
             "HeterogeneousCore/ROCmServices/plugins/ROCmProfilerService.cc"
@@ -1005,7 +1007,7 @@
         "created_at": 1765282889,
         "number": 49580,
         "state": "open",
-        "updated_at": 1780982811
+        "updated_at": 1783598537
     },
     "49632": {
         "base_branch": "master",
