@@ -2387,12 +2387,18 @@
         "changed_files_names": [
             "CondCore/Utilities/scripts/conddb",
             "CondCore/Utilities/test/conddb_query_tests/parser_query_logging.py",
-            "CondCore/Utilities/test/test_query_logging.sh"
+            "CondCore/Utilities/test/test_query_logging.sh",
+            "CondTools/RunInfo/interface/LHCInfoPerFillPopConSourceHandler.h",
+            "CondTools/RunInfo/payload_size_tests_info.txt",
+            "CondTools/RunInfo/plugins/LHCInfoPerFillWriter.cc",
+            "CondTools/RunInfo/python/LHCInfoPerFillPopConAnalyzer_cfg.py",
+            "CondTools/RunInfo/src/LHCInfoPerFillPopConSourceHandler.cc",
+            "CondTools/RunInfo/test/LHCInfoPerFillWriter_cfg.py"
         ],
         "created_at": 1782205061,
         "number": 51292,
         "state": "open",
-        "updated_at": 1783661892
+        "updated_at": 1783662950
     },
     "51293": {
         "base_branch": "CMSSW_17_0_X",
