@@ -2385,12 +2385,14 @@
     "51292": {
         "base_branch": "master",
         "changed_files_names": [
-            "CondCore/Utilities/scripts/conddb"
+            "CondCore/Utilities/scripts/conddb",
+            "CondCore/Utilities/test/conddb_query_tests/parser_query_logging.py",
+            "CondCore/Utilities/test/test_query_logging.sh"
         ],
         "created_at": 1782205061,
         "number": 51292,
         "state": "open",
-        "updated_at": 1782214618
+        "updated_at": 1783661892
     },
     "51293": {
         "base_branch": "CMSSW_17_0_X",
