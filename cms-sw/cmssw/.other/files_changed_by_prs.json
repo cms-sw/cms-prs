@@ -2917,28 +2917,6 @@
         "state": "open",
         "updated_at": 1783476381
     },
-    "51436": {
-        "base_branch": "CMSSW_20_0_X",
-        "changed_files_names": [
-            "Configuration/PyReleaseValidation/README.md",
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
-            "RecoLocalCalo/EcalRecProducers/python/ecalUncalibRecHitPhase2_cff.py",
-            "SimCalorimetry/Configuration/python/SimCalorimetry_EventContent_cff.py",
-            "SimCalorimetry/EcalEBTrigPrimProducers/python/ecalEBTriggerPrimitivePhase2Digis_cfi.py",
-            "SimCalorimetry/EcalSimAlgos/interface/EcalSignalGeneratorPh2.h",
-            "SimCalorimetry/EcalSimAlgos/src/EcalSignalGeneratorPh2.cc",
-            "SimCalorimetry/EcalSimProducers/interface/EcalDigiProducer_Ph2.h",
-            "SimCalorimetry/EcalSimProducers/plugins/PreMixingEcalPh2Worker.cc",
-            "SimCalorimetry/EcalSimProducers/python/ecalDigiParameters_Ph2_cff.py",
-            "SimCalorimetry/EcalSimProducers/python/ecalSimParameterMap_cff.py",
-            "SimCalorimetry/EcalSimProducers/src/EcalDigiProducer_Ph2.cc",
-            "SimGeneral/PreMixingModule/python/mixOne_premix_on_sim_cfi.py"
-        ],
-        "created_at": 1783437062,
-        "number": 51436,
-        "state": "open",
-        "updated_at": 1783437129
-    },
     "51444": {
         "base_branch": "CMSSW_15_0_X",
         "changed_files_names": [
