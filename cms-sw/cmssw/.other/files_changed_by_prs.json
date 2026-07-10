@@ -1794,24 +1794,8 @@
         "base_branch": "master",
         "changed_files_names": [
             "DataFormats/L1DTTrackFinder/BuildFile.xml",
-            "DataFormats/L1DTTrackFinder/interface/L1Phase2MuDTExtPhDigi.h",
-            "DataFormats/L1DTTrackFinder/interface/L1Phase2MuDTExtPhiThetaPair.h",
-            "DataFormats/L1DTTrackFinder/interface/L1Phase2MuDTExtPhiThetaPairContainer.h",
-            "DataFormats/L1DTTrackFinder/interface/L1Phase2MuDTExtThDigi.h",
-            "DataFormats/L1DTTrackFinder/src/L1Phase2MuDTExtPhiThetaPair.cc",
-            "DataFormats/L1DTTrackFinder/src/L1Phase2MuDTExtPhiThetaPairContainer.cc",
-            "DataFormats/L1DTTrackFinder/src/classes.h",
-            "DataFormats/L1DTTrackFinder/src/classes_def.xml",
             "DataFormats/L1TMuonPhase2/interface/KMTFTrack.h",
             "DataFormats/L1TMuonPhase2/src/classes_def.xml",
-            "L1Trigger/Configuration/python/L1Trigger_EventContent_cff.py",
-            "L1Trigger/Configuration/python/SimL1Emulator_cff.py",
-            "L1Trigger/DTTriggerPhase2/plugins/DTTrigPhase2PairsProd.cc",
-            "L1Trigger/DTTriggerPhase2/plugins/DTTrigPhase2Prod.cc",
-            "L1Trigger/DTTriggerPhase2/python/dtTriggerPhase2PrimitiveDigis_cfi.py",
-            "L1Trigger/DTTriggerPhase2/python/dtTriggerPhase2PrimitivePairDigis_cfi.py",
-            "L1Trigger/DTTriggerPhase2/src/MPThetaMatching.cc",
-            "L1Trigger/Phase2L1GMT/interface/Isolation.h",
             "L1Trigger/Phase2L1GMT/interface/KMTFCore.h",
             "L1Trigger/Phase2L1GMT/interface/KMTFLUTs.h",
             "L1Trigger/Phase2L1GMT/interface/L1TPhase2GMTBarrelStubProcessor.h",
@@ -1826,7 +1810,7 @@
         "created_at": 1780343049,
         "number": 51111,
         "state": "open",
-        "updated_at": 1783692087
+        "updated_at": 1783692571
     },
     "51148": {
         "base_branch": "master",
