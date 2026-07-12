@@ -3078,5 +3078,24 @@
         "number": 51469,
         "state": "open",
         "updated_at": 1783867438
+    },
+    "51470": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "PhysicsTools/TruthInfo/interface/LogicalGraphHitIndexBuilder.h",
+            "PhysicsTools/TruthInfo/plugins/BuildFile.xml",
+            "PhysicsTools/TruthInfo/plugins/LogicalGraphHitIndexProducer.cc",
+            "PhysicsTools/TruthInfo/plugins/TruthGraphAccumulator.cc",
+            "PhysicsTools/TruthInfo/plugins/TruthLogicalGraphProducer.cc",
+            "PhysicsTools/TruthInfo/python/customiseDropIncompleteValidators.py",
+            "PhysicsTools/TruthInfo/python/customiseTruthMixedReco.py",
+            "PhysicsTools/TruthInfo/python/mixedTruthGraphCustomize.py",
+            "PhysicsTools/TruthInfo/src/LogicalGraphHitIndexBuilder.cc",
+            "PhysicsTools/TruthInfo/test/LogicalGraphHitIndexBuilder_t.cpp"
+        ],
+        "created_at": 1783869747,
+        "number": 51470,
+        "state": "open",
+        "updated_at": 1783869775
     }
 }
