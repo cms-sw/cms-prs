@@ -1813,6 +1813,7 @@
         "changed_files_names": [
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusterECLCC.h",
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusterizer.dev.cc",
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusterizerHelper.h",
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthConstructLinks.h",
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthECLCCEpilogue.h",
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthECLCCEpilogueMultiBlock.h",
@@ -1824,7 +1825,7 @@
         "created_at": 1781114611,
         "number": 51192,
         "state": "open",
-        "updated_at": 1781266444
+        "updated_at": 1783964082
     },
     "51195": {
         "base_branch": "CMSSW_16_1_X",
