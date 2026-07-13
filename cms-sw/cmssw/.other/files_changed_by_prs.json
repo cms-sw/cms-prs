@@ -2426,6 +2426,7 @@
             "DQM/SiTrackerPhase2/plugins/Phase2OTMonitorTTStub.cc",
             "DQM/SiTrackerPhase2/plugins/Phase2OTMonitorTTTrack.cc",
             "DQM/SiTrackerPhase2/plugins/Phase2TrackerMonitorDigi.cc",
+            "DQM/SiTrackerPhase2/python/Phase2CRackMonitorTTStub_cff.py",
             "DQM/SiTrackerPhase2/python/Phase2TrackerMonitorDigi_cff.py",
             "DQM/SiTrackerPhase2/python/Phase2TrackerMonitorDigi_cfi.py",
             "DQM/SiTrackerPhase2/src/TrackerPhase2DQMUtil.cc",
@@ -2434,12 +2435,13 @@
             "Validation/SiTrackerPhase2V/plugins/Phase2ITValidateRecHit.cc",
             "Validation/SiTrackerPhase2V/plugins/Phase2ITValidateTrackingRecHit.cc",
             "Validation/SiTrackerPhase2V/plugins/Phase2TrackerValidateDigi.cc",
+            "Validation/SiTrackerPhase2V/python/Phase2TrackerValidateDigi_cff.py",
             "Validation/SiTrackerPhase2V/src/Phase2ITValidateRecHitBase.cc"
         ],
         "created_at": 1782914409,
         "number": 51387,
         "state": "open",
-        "updated_at": 1782914445
+        "updated_at": 1783947520
     },
     "51395": {
         "base_branch": "master",
