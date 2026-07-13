@@ -987,18 +987,18 @@
         "base_branch": "master",
         "changed_files_names": [
             "HeterogeneousCore/CUDAServices/plugins/BuildFile.xml",
-            "HeterogeneousCore/CUDAServices/plugins/CUDAService.cc",
             "HeterogeneousCore/CUDAServices/plugins/NVProfilerService.cc",
             "HeterogeneousCore/ROCmServices/BuildFile.xml",
             "HeterogeneousCore/ROCmServices/plugins/BuildFile.xml",
             "HeterogeneousCore/ROCmServices/plugins/ROCmProfilerService.cc",
+            "PerfTools/ProfilerService/BuildFile.xml",
             "PerfTools/ProfilerService/interface/ProfilerService.h",
             "PerfTools/ProfilerService/interface/ProfilerServiceBase.h"
         ],
         "created_at": 1765282889,
         "number": 49580,
         "state": "open",
-        "updated_at": 1783605097
+        "updated_at": 1783947293
     },
     "49632": {
         "base_branch": "master",
