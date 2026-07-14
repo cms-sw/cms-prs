@@ -2868,5 +2868,22 @@
         "number": 51481,
         "state": "open",
         "updated_at": 1784034966
+    },
+    "51482": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "L1TriggerScouting/NanoAOD/plugins/OrbitNanoAODOutputModule.cc",
+            "L1TriggerScouting/NanoAOD/plugins/OrbitTableOutputBranches.h",
+            "PhysicsTools/NanoAOD/BuildFile.xml",
+            "PhysicsTools/NanoAOD/interface/DisTauTagScaling.h",
+            "PhysicsTools/NanoAOD/interface/NanoAODOutputModuleBase.h",
+            "PhysicsTools/NanoAOD/plugins/BuildFile.xml",
+            "PhysicsTools/NanoAOD/plugins/NanoAODOutputModule.cc",
+            "PhysicsTools/NanoAOD/src/NanoAODOutputModuleBase.cc"
+        ],
+        "created_at": 1784038632,
+        "number": 51482,
+        "state": "open",
+        "updated_at": 1784038658
     }
 }
