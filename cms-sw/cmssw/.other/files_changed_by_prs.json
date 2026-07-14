@@ -2944,5 +2944,25 @@
         "number": 51486,
         "state": "open",
         "updated_at": 1784052098
+    },
+    "51487": {
+        "base_branch": "CMSSW_20_0_X",
+        "changed_files_names": [
+            "PhysicsTools/TruthInfo/interface/LogicalGraphHitIndexBuilder.h",
+            "PhysicsTools/TruthInfo/plugins/BuildFile.xml",
+            "PhysicsTools/TruthInfo/plugins/LogicalGraphHitIndexProducer.cc",
+            "PhysicsTools/TruthInfo/plugins/TruthGraphAccumulator.cc",
+            "PhysicsTools/TruthInfo/plugins/TruthLogicalGraphProducer.cc",
+            "PhysicsTools/TruthInfo/python/customiseDropIncompleteValidators.py",
+            "PhysicsTools/TruthInfo/python/customiseTruthMixedReco.py",
+            "PhysicsTools/TruthInfo/python/mixedTruthGraphCustomize.py",
+            "PhysicsTools/TruthInfo/src/LogicalGraphHitIndexBuilder.cc",
+            "PhysicsTools/TruthInfo/test/BranchHitAssociator_t.cpp",
+            "PhysicsTools/TruthInfo/test/LogicalGraphHitIndexBuilder_t.cpp"
+        ],
+        "created_at": 1784053417,
+        "number": 51487,
+        "state": "open",
+        "updated_at": 1784053442
     }
 }
