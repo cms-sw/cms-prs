@@ -3001,5 +3001,16 @@
         "number": 51490,
         "state": "open",
         "updated_at": 1784060596
+    },
+    "51491": {
+        "base_branch": "CMSSW_17_0_X",
+        "changed_files_names": [
+            "HeterogeneousCore/MPICore/python/configuration_splitter/module_dependency_analyzer.py",
+            "HeterogeneousCore/MPICore/python/configuration_splitter/split_remote.py"
+        ],
+        "created_at": 1784084861,
+        "number": 51491,
+        "state": "open",
+        "updated_at": 1784084927
     }
 }
