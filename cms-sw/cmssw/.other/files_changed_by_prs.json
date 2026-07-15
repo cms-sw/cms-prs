@@ -2992,5 +2992,22 @@
         "number": 51492,
         "state": "open",
         "updated_at": 1784085228
+    },
+    "51493": {
+        "base_branch": "CMSSW_17_0_X",
+        "changed_files_names": [
+            "HeterogeneousCore/CUDAServices/plugins/BuildFile.xml",
+            "HeterogeneousCore/CUDAServices/plugins/CUDAService.cc",
+            "HeterogeneousCore/CUDAServices/plugins/CuptiKernelLoggerService.cc",
+            "HeterogeneousCore/CUDAUtilities/bin/cudaComputeCapabilities.cpp",
+            "HeterogeneousCore/CUDAUtilities/python/kernelStackBudget.py",
+            "HeterogeneousCore/CUDAUtilities/scripts/cudaKernelStackBudget",
+            "HeterogeneousCore/CUDAUtilities/test/BuildFile.xml",
+            "HeterogeneousCore/CUDAUtilities/test/testKernelStackBudget.py"
+        ],
+        "created_at": 1784100087,
+        "number": 51493,
+        "state": "open",
+        "updated_at": 1784100116
     }
 }
