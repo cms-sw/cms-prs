@@ -3039,5 +3039,17 @@
         "number": 51498,
         "state": "open",
         "updated_at": 1784111260
+    },
+    "51499": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "GeneratorInterface/RivetInterface/src/HiggsTemplateCrossSections.cc",
+            "PhysicsTools/NanoAOD/python/particlelevel_cff.py",
+            "SimDataFormats/HTXS/interface/HiggsTemplateCrossSections.h"
+        ],
+        "created_at": 1784116918,
+        "number": 51499,
+        "state": "open",
+        "updated_at": 1784116948
     }
 }
