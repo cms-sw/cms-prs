@@ -2965,6 +2965,8 @@
     "51490": {
         "base_branch": "CMSSW_17_0_X",
         "changed_files_names": [
+            "DataFormats/PortableTestObjects/test/BuildFile.xml",
+            "DataFormats/PortableTestObjects/test/run_edmTypeInfo.sh",
             "FWCore/Reflection/scripts/edmTypeInfo",
             "FWCore/Reflection/test/BuildFile.xml",
             "FWCore/Reflection/test/run_edmTypeInfo.sh"
@@ -2972,7 +2974,7 @@
         "created_at": 1784060572,
         "number": 51490,
         "state": "open",
-        "updated_at": 1784060596
+        "updated_at": 1784185379
     },
     "51491": {
         "base_branch": "CMSSW_17_0_X",
