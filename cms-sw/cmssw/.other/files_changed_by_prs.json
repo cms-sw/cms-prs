@@ -1401,6 +1401,8 @@
     "50842": {
         "base_branch": "master",
         "changed_files_names": [
+            "DataFormats/PortableTestObjects/test/BuildFile.xml",
+            "DataFormats/PortableTestObjects/test/run_edmTypeInfo.sh",
             "FWCore/Reflection/scripts/edmTypeInfo",
             "FWCore/Reflection/test/BuildFile.xml",
             "FWCore/Reflection/test/run_edmTypeInfo.sh"
@@ -1408,7 +1410,7 @@
         "created_at": 1777563322,
         "number": 50842,
         "state": "open",
-        "updated_at": 1784060320
+        "updated_at": 1784185313
     },
     "50896": {
         "base_branch": "master",
