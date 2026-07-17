@@ -2608,13 +2608,15 @@
         "base_branch": "master",
         "changed_files_names": [
             "CondFormats/HcalObjects/interface/HcalMahiConditionsSoA.h",
+            "RecoLocalCalo/HcalRecProducers/plugins/alpaka/HBHERecHitProducerPortable.cc",
             "RecoLocalCalo/HcalRecProducers/plugins/alpaka/HcalMahiConditionsESProducer.cc",
-            "RecoLocalCalo/HcalRecProducers/plugins/alpaka/Mahi.dev.cc"
+            "RecoLocalCalo/HcalRecProducers/plugins/alpaka/Mahi.dev.cc",
+            "RecoLocalCalo/HcalRecProducers/plugins/alpaka/Mahi.h"
         ],
         "created_at": 1783600528,
         "number": 51460,
         "state": "open",
-        "updated_at": 1783620026
+        "updated_at": 1784292353
     },
     "51465": {
         "base_branch": "master",
