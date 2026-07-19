@@ -3496,5 +3496,40 @@
         "number": 51525,
         "state": "open",
         "updated_at": 1784381054
+    },
+    "51526": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondCore/RunInfoPlugins/interface/RunInfoPayloadInspectoHelper.h",
+            "Configuration/StandardSequences/python/MagneticField_38T_cff.py",
+            "MagneticField/Engine/python/volumeBasedMagneticField_160812_cfi.py",
+            "MagneticField/Engine/python/volumeBasedMagneticField_dd4hep_160812_cfi.py",
+            "MagneticField/Engine/python/volumeBasedMagneticField_dd4hep_170812_cfi.py",
+            "MagneticField/Engine/test/testMagneticField_cfg.py",
+            "MagneticField/GeomBuilder/plugins/VolumeBasedMagneticFieldESProducerFromDB.cc",
+            "MagneticField/GeomBuilder/plugins/dd4hep/DD4hep_VolumeBasedMagneticFieldESProducerFromDB.cc",
+            "MagneticField/GeomBuilder/python/MFDD4hepGeometry_160812_cff.py",
+            "MagneticField/GeomBuilder/python/MFDDDGeometry_160812_cff.py",
+            "MagneticField/GeomBuilder/python/cmsMFGeometryXML_160812_cfi.py",
+            "MagneticField/GeomBuilder/src/DD4hep_MagGeoBuilder.cc",
+            "MagneticField/GeomBuilder/src/InterpolatorBuilder.cc",
+            "MagneticField/GeomBuilder/src/InterpolatorBuilder.h",
+            "MagneticField/GeomBuilder/src/MagGeoBuilderFromDDD.cc",
+            "MagneticField/GeomBuilder/src/MagGeoBuilderFromDDD.h",
+            "MagneticField/GeomBuilder/src/volumeHandle.cc",
+            "MagneticField/GeomBuilder/src/volumeHandle.h",
+            "MagneticField/GeomBuilder/test/Visualization/displayMFGeom_cfg.py",
+            "MagneticField/GeomBuilder/test/python/dumpMFGeometry.py",
+            "MagneticField/GeomBuilder/test/stubs/MagGeometryAnalyzer.cc",
+            "MagneticField/Interpolation/test/BinaryTablesGeneration/convertTables.py",
+            "MagneticField/Interpolation/test/BinaryTablesGeneration/validateField_TOSCATables.py",
+            "MagneticField/ParametrizedEngine/plugins/AutoParametrizedMagneticFieldProducer.cc",
+            "MagneticField/VolumeBasedEngine/interface/MagGeometry.h",
+            "MagneticField/VolumeBasedEngine/src/MagGeometry.cc"
+        ],
+        "created_at": 1784460136,
+        "number": 51526,
+        "state": "open",
+        "updated_at": 1784460162
     }
 }
