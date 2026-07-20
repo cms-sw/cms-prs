@@ -3329,10 +3329,15 @@
             "Alignment/OfflineValidation/test/testG4Refitter_cfg.py",
             "Alignment/OfflineValidation/test/testPrimaryVertexRelatedValidations_cfg.py",
             "Alignment/OfflineValidation/test/test_all_Phase2_cfg.py",
+            "DataFormats/L1TCorrelator/src/classes_def.xml",
+            "DataFormats/L1TMuonPhase2/src/classes_def.xml",
+            "DataFormats/L1TParticleFlow/src/classes_def.xml",
             "DataFormats/L1TrackTrigger/interface/TTCluster.h",
             "DataFormats/L1TrackTrigger/interface/TTStub.h",
+            "DataFormats/L1TrackTrigger/interface/TTTrack.h",
             "DataFormats/L1TrackTrigger/src/TTCluster.cc",
             "DataFormats/L1TrackTrigger/src/classes_def.xml",
+            "DataFormats/L1Trigger/src/classes_def.xml",
             "SimDataFormats/Associations/interface/TTClusterAssociationMap.h",
             "SimDataFormats/Associations/interface/TTStubAssociationMap.h",
             "SimDataFormats/Associations/interface/TTTrackAssociationMap.h",
@@ -3342,7 +3347,7 @@
         "created_at": 1784225766,
         "number": 51514,
         "state": "open",
-        "updated_at": 1784311613
+        "updated_at": 1784571949
     },
     "51516": {
         "base_branch": "CMSSW_17_0_X",
