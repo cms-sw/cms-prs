@@ -3490,5 +3490,21 @@
         "number": 51528,
         "state": "open",
         "updated_at": 1784541014
+    },
+    "51529": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToCPAssociatorByEnergyScoreProducer.cc",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToCPAssociatorByEnergyScoreProducer.h",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToSCAssociatorByEnergyScoreProducer.cc",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToSCAssociatorByEnergyScoreProducer.h",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToSimTSAssociatorByEnergyScoreProducer.cc",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/TSToSimTSAssociatorByEnergyScoreProducer.cc",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/TSToSimTSHitLCAssociatorByEnergyScoreProducer.cc"
+        ],
+        "created_at": 1784546813,
+        "number": 51529,
+        "state": "open",
+        "updated_at": 1784546881
     }
 }
