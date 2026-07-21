@@ -3524,5 +3524,27 @@
         "number": 51533,
         "state": "open",
         "updated_at": 1784623420
+    },
+    "51534": {
+        "base_branch": "CMSSW_20_0_X",
+        "changed_files_names": [
+            "DQM/EcalMonitorTasks/interface/ClusterTask.h",
+            "DQM/EcalMonitorTasks/interface/EnergyTask.h",
+            "DQM/EcalMonitorTasks/interface/TimingTask.h",
+            "DQM/EcalMonitorTasks/python/ClusterTask_cfi.py",
+            "DQM/EcalMonitorTasks/python/CollectionTags_cfi.py",
+            "DQM/EcalMonitorTasks/python/EcalMonitorTaskEcalOnly_cfi.py",
+            "DQM/EcalMonitorTasks/python/EcalMonitorTask_cff.py",
+            "DQM/EcalMonitorTasks/python/EnergyTask_cfi.py",
+            "DQM/EcalMonitorTasks/python/TimingTask_cfi.py",
+            "DQM/EcalMonitorTasks/src/ClusterTask.cc",
+            "DQM/EcalMonitorTasks/src/EnergyTask.cc",
+            "DQM/EcalMonitorTasks/src/TimingTask.cc",
+            "SimCalorimetry/Configuration/python/SimCalorimetry_EventContent_cff.py"
+        ],
+        "created_at": 1784623482,
+        "number": 51534,
+        "state": "open",
+        "updated_at": 1784623509
     }
 }
