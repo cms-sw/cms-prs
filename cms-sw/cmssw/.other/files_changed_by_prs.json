@@ -1897,28 +1897,6 @@
         "state": "open",
         "updated_at": 1781771406
     },
-    "51241": {
-        "base_branch": "CMSSW_20_0_X",
-        "changed_files_names": [
-            "Configuration/Geometry/README.md",
-            "Configuration/Geometry/python/GeometryDD4hepExtendedRun4D126Reco_cff.py",
-            "Configuration/Geometry/python/GeometryDD4hepExtendedRun4D126_cff.py",
-            "Configuration/Geometry/python/GeometryExtendedRun4D126Reco_cff.py",
-            "Configuration/Geometry/python/GeometryExtendedRun4D126_cff.py",
-            "Configuration/Geometry/python/dictRun4Geometry.py",
-            "Configuration/PyReleaseValidation/python/relval_Run4.py",
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
-            "Configuration/StandardSequences/python/GeometryConf.py",
-            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometryRun4D126.xml",
-            "Geometry/CMSCommonData/python/cmsExtendedGeometryRun4D126XML_cfi.py",
-            "Geometry/GEMGeometryBuilder/src/GEMGeometryBuilder.cc",
-            "Geometry/MuonCommonData/data/ge0/TDR_Dev/v6/ge0.xml"
-        ],
-        "created_at": 1781682174,
-        "number": 51241,
-        "state": "open",
-        "updated_at": 1781851372
-    },
     "51267": {
         "base_branch": "CMSSW_17_0_X",
         "changed_files_names": [
