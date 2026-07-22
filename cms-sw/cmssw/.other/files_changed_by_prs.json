@@ -3426,12 +3426,18 @@
     "51540": {
         "base_branch": "master",
         "changed_files_names": [
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHGCalRecHitL1Seeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHGCalRecHit_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHgcalLayerClustersHSiL1Seeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHgcalLayerClustersHSi_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/psets/hgcal_reco_constants_cfi.py",
             "SimCalorimetry/HGCalSimProducers/interface/HGCFEElectronics.h",
-            "SimCalorimetry/HGCalSimProducers/python/hgcROCParameters_cfi.py"
+            "SimCalorimetry/HGCalSimProducers/python/hgcROCParameters_cfi.py",
+            "SimCalorimetry/HGCalSimProducers/python/hgcalDigitizer_cfi.py"
         ],
         "created_at": 1784673954,
         "number": 51540,
         "state": "open",
-        "updated_at": 1784673980
+        "updated_at": 1784679521
     }
 }
