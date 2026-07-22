@@ -3913,5 +3913,22 @@
         "number": 51542,
         "state": "open",
         "updated_at": 1784741206
+    },
+    "51544": {
+        "base_branch": "CMSSW_20_0_X",
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHGCalRecHitL1Seeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHGCalRecHit_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHgcalLayerClustersHSiL1Seeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHgcalLayerClustersHSi_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/psets/hgcal_reco_constants_cfi.py",
+            "SimCalorimetry/HGCalSimProducers/interface/HGCFEElectronics.h",
+            "SimCalorimetry/HGCalSimProducers/python/hgcROCParameters_cfi.py",
+            "SimCalorimetry/HGCalSimProducers/python/hgcalDigitizer_cfi.py"
+        ],
+        "created_at": 1784742374,
+        "number": 51544,
+        "state": "open",
+        "updated_at": 1784742398
     }
 }
