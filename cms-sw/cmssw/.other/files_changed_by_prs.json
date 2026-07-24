@@ -3410,5 +3410,26 @@
         "number": 51553,
         "state": "open",
         "updated_at": 1784883607
+    },
+    "51554": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/Portable/interface/PortableCollectionCommon.h",
+            "DataFormats/Portable/interface/PortableDeviceCollection.h",
+            "DataFormats/Portable/interface/PortableHostCollection.h",
+            "DataFormats/Portable/test/BuildFile.xml",
+            "DataFormats/Portable/test/alpaka/test_catch2_heterogeneousDeepCopy_SoABlocks.dev.cc",
+            "DataFormats/Portable/test/alpaka/test_catch2_nestedSoABlocks.dev.cc",
+            "DataFormats/SoATemplate/interface/SoABlocks.h",
+            "DataFormats/SoATemplate/interface/SoACommon.h",
+            "DataFormats/SoATemplate/interface/SoALayout.h",
+            "DataFormats/SoATemplate/test/BuildFile.xml",
+            "DataFormats/SoATemplate/test/SoABlocks_t.cc",
+            "DataFormats/SoATemplate/test/SoAGenericNestedBlocksView_t.cc"
+        ],
+        "created_at": 1784890869,
+        "number": 51554,
+        "state": "open",
+        "updated_at": 1784890891
     }
 }
