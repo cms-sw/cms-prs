@@ -3540,5 +3540,40 @@
         "number": 51561,
         "state": "open",
         "updated_at": 1784985357
+    },
+    "51562": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/Eras/python/Era_Phase2C17I13M9_cff.py",
+            "Configuration/Eras/python/Era_Phase2C22I13M9_FastSim_cff.py",
+            "Configuration/Eras/python/Era_Phase2C22I13M9_cff.py",
+            "Configuration/Eras/python/Util_fastSimPhase2_cff.py",
+            "Configuration/EventContent/python/EventContent_cff.py",
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "Configuration/StandardSequences/python/Digi_cff.py",
+            "PhysicsTools/TruthInfo/interface/BranchHitAssociator.h",
+            "PhysicsTools/TruthInfo/plugins/BranchHGCalValidator.cc",
+            "PhysicsTools/TruthInfo/plugins/BranchRecoValidator.cc",
+            "PhysicsTools/TruthInfo/plugins/BranchTruthReplacementValidator.cc",
+            "PhysicsTools/TruthInfo/plugins/LogicalGraphHitIndexProducer.cc",
+            "PhysicsTools/TruthInfo/plugins/TruthBranchCaloAssociationProducer.cc",
+            "PhysicsTools/TruthInfo/plugins/TruthGraphAccumulator.cc",
+            "PhysicsTools/TruthInfo/plugins/TruthLogicalGraphDumper.cc",
+            "PhysicsTools/TruthInfo/python/customiseTruthMixedReco.py",
+            "PhysicsTools/TruthInfo/python/mixedTruthGraphCustomize.py",
+            "PhysicsTools/TruthInfo/python/truthEventContent_cff.py",
+            "PhysicsTools/TruthInfo/python/truthGraphMixedDigi_cff.py",
+            "PhysicsTools/TruthInfo/python/truthGraphValidation_cff.py",
+            "PhysicsTools/TruthInfo/test/BranchHitAssociator_t.cpp",
+            "PhysicsTools/TruthInfo/test/LogicalGraphHitIndexBuilder_t.cpp",
+            "SimDataFormats/TruthInfo/interface/LogicalGraphHitIndex.h",
+            "SimG4Core/Application/python/g4SimHits_cfi.py",
+            "SimGeneral/MixingModule/python/digitizers_cfi.py",
+            "Validation/Configuration/python/globalValidation_cff.py"
+        ],
+        "created_at": 1784991202,
+        "number": 51562,
+        "state": "open",
+        "updated_at": 1784991235
     }
 }
