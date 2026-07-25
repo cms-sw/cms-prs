@@ -3530,11 +3530,12 @@
         "base_branch": "master",
         "changed_files_names": [
             "HeterogeneousCore/CUDAUtilities/bin/BuildFile.xml",
-            "HeterogeneousCore/CUDAUtilities/bin/cudaComputeCapabilities.cpp"
+            "HeterogeneousCore/CUDAUtilities/bin/cudaComputeCapabilities.cpp",
+            "HeterogeneousCore/ROCmUtilities/bin/rocmComputeCapabilities.cpp"
         ],
         "created_at": 1784954045,
         "number": 51559,
         "state": "open",
-        "updated_at": 1784954076
+        "updated_at": 1784960048
     }
 }
