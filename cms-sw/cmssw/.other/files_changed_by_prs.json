@@ -3562,12 +3562,13 @@
             "SimDataFormats/TruthInfo/interface/LogicalGraphHitIndex.h",
             "SimG4Core/Application/python/g4SimHits_cfi.py",
             "SimGeneral/MixingModule/python/digitizers_cfi.py",
-            "Validation/Configuration/python/globalValidation_cff.py"
+            "Validation/Configuration/python/globalValidation_cff.py",
+            "Validation/Configuration/python/postValidation_cff.py"
         ],
         "created_at": 1784991202,
         "number": 51562,
         "state": "open",
-        "updated_at": 1785047614
+        "updated_at": 1785074467
     },
     "51563": {
         "base_branch": "master",
