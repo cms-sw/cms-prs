@@ -460,6 +460,10 @@
     "45216": {
         "base_branch": "master",
         "changed_files_names": [
+            "FWCore/Integration/plugins/ProducerWithPSetDesc.cc",
+            "FWCore/Integration/test/unit_test_outputs/testProducerWithPsetDesc_briefdoc.txt",
+            "FWCore/Integration/test/unit_test_outputs/testProducerWithPsetDesc_cfi.py",
+            "FWCore/Integration/test/unit_test_outputs/testProducerWithPsetDesc_doc.txt",
             "FWCore/ParameterSet/interface/Entry.h",
             "FWCore/ParameterSet/interface/ParameterDescription.h",
             "FWCore/ParameterSet/interface/ParameterDescriptionNode.h",
@@ -473,13 +477,14 @@
             "FWCore/ParameterSet/src/ParameterDescriptionNode.cc",
             "FWCore/ParameterSet/src/ParameterSet.cc",
             "FWCore/ParameterSet/src/types.cc",
+            "FWCore/ParameterSet/test/test_catch2_ps.cc",
             "FWCore/ParameterSet/test/test_catch_ParameterSetDescription.cc",
             "FWCore/PythonParameterSet/src/PyBind11Module.h"
         ],
         "created_at": 1718275191,
         "number": 45216,
         "state": "open",
-        "updated_at": 1783257796
+        "updated_at": 1785051572
     },
     "45612": {
         "base_branch": "master",
