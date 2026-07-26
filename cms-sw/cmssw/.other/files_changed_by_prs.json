@@ -3622,6 +3622,7 @@
             "HLTrigger/Configuration/python/HLT_75e33_cff.py",
             "HLTrigger/Configuration/python/HLT_75e33_timing_cff.py",
             "HLTrigger/Configuration/python/HLT_NGTScouting_cff.py",
+            "HLTriggerOffline/Common/python/HLTValidation_cff.py",
             "PhysicsTools/TruthInfo/plugins/RecHitFlatTableProducer.cc",
             "PhysicsTools/TruthInfo/test/dumpTruthGraphsFromGENSIMRECO_cfg.py",
             "RecoEgamma/EgammaHLTProducers/plugins/EgammaHLTHGCalIDVarProducer.cc",
@@ -3691,6 +3692,7 @@
             "RecoHGCal/TICL/plugins/alpaka/TICLGeomLayersESProducer.cc",
             "RecoHGCal/TICL/plugins/alpaka/TICLGeomLookupESProducer.cc",
             "RecoHGCal/TICL/python/CLUE3DBarrel_cff.py",
+            "RecoHGCal/TICL/python/HLTSimTracksters_cff.py",
             "RecoHGCal/TICL/python/TICLGeom_cff.py",
             "RecoHGCal/TICL/test/BuildFile.xml",
             "RecoHGCal/TICL/test/TICLGeomAnalyzer.cc",
@@ -3743,6 +3745,8 @@
             "SimCalorimetry/HGCalAssociatorProducers/plugins/TSToSimTSHitLCAssociatorByEnergyScoreImpl.cc",
             "SimCalorimetry/HGCalAssociatorProducers/plugins/TSToSimTSHitLCAssociatorByEnergyScoreImpl.h",
             "SimCalorimetry/HGCalAssociatorProducers/plugins/TSToSimTSHitLCAssociatorByEnergyScoreProducer.cc",
+            "SimCalorimetry/HGCalAssociatorProducers/python/hltLCToCPAssociation_cfi.py",
+            "SimCalorimetry/HGCalAssociatorProducers/python/hltLCToSCAssociation_cfi.py",
             "Validation/HGCalValidation/BuildFile.xml",
             "Validation/HGCalValidation/interface/BarrelVHistoProducerAlgo.h",
             "Validation/HGCalValidation/interface/BarrelValidator.h",
@@ -3758,6 +3762,8 @@
             "Validation/HGCalValidation/plugins/TICLTrackstersEdgesValidation.cc",
             "Validation/HGCalValidation/plugins/TracksterAssociationMaskProducer.cc",
             "Validation/HGCalValidation/plugins/TracksterSuperclusteringValidCandidateMaskProducer.cc",
+            "Validation/HGCalValidation/python/HLTBarrelValidator_cff.py",
+            "Validation/HGCalValidation/python/HLTHGCalValidator_cff.py",
             "Validation/HGCalValidation/src/BarrelVHistoProducerAlgo.cc",
             "Validation/HGCalValidation/src/HGVHistoProducerAlgo.cc",
             "Validation/HGCalValidation/test/BuildFile.xml",
@@ -3770,7 +3776,7 @@
         "created_at": 1784992229,
         "number": 51563,
         "state": "open",
-        "updated_at": 1785054521
+        "updated_at": 1785073506
     },
     "51564": {
         "base_branch": "master",
