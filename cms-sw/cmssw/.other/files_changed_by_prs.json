@@ -2271,12 +2271,14 @@
             "RecoLocalCalo/HGCalRecProducers/plugins/HGCalLayerClusterProducer.cc",
             "RecoLocalCalo/HGCalRecProducers/plugins/alpaka/HGCalSoALayerClustersProducer.cc",
             "RecoLocalCalo/HGCalRecProducers/plugins/alpaka/HGCalSoARecHitsLayerClustersProducer.cc",
-            "RecoLocalCalo/HGCalRecProducers/plugins/alpaka/HGCalSoARecHitsProducer.cc"
+            "RecoLocalCalo/HGCalRecProducers/plugins/alpaka/HGCalSoARecHitsProducer.cc",
+            "RecoTICL/Configuration/python/hlt_presets.py",
+            "RecoTICL/Configuration/python/presets.py"
         ],
         "created_at": 1783258026,
         "number": 51413,
         "state": "open",
-        "updated_at": 1785052961
+        "updated_at": 1785079240
     },
     "51414": {
         "base_branch": "CMSSW_17_0_X",
