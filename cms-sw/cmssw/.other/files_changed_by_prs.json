@@ -2185,6 +2185,10 @@
     "51413": {
         "base_branch": "master",
         "changed_files_names": [
+            "FWCore/Integration/plugins/ProducerWithPSetDesc.cc",
+            "FWCore/Integration/test/unit_test_outputs/testProducerWithPsetDesc_briefdoc.txt",
+            "FWCore/Integration/test/unit_test_outputs/testProducerWithPsetDesc_cfi.py",
+            "FWCore/Integration/test/unit_test_outputs/testProducerWithPsetDesc_doc.txt",
             "FWCore/ParameterSet/interface/Entry.h",
             "FWCore/ParameterSet/interface/ParameterDescription.h",
             "FWCore/ParameterSet/interface/ParameterDescriptionNode.h",
@@ -2198,6 +2202,7 @@
             "FWCore/ParameterSet/src/ParameterDescriptionNode.cc",
             "FWCore/ParameterSet/src/ParameterSet.cc",
             "FWCore/ParameterSet/src/types.cc",
+            "FWCore/ParameterSet/test/test_catch2_ps.cc",
             "FWCore/ParameterSet/test/test_catch_ParameterSetDescription.cc",
             "FWCore/PythonParameterSet/src/PyBind11Module.h",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltHgcalLayerClustersEEL1Seeded_cfi.py",
@@ -2271,7 +2276,7 @@
         "created_at": 1783258026,
         "number": 51413,
         "state": "open",
-        "updated_at": 1783770043
+        "updated_at": 1785052558
     },
     "51414": {
         "base_branch": "CMSSW_17_0_X",
