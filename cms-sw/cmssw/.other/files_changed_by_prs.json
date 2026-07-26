@@ -3582,6 +3582,8 @@
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltBarrelLayerClustersEBL1Seeded_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltBarrelLayerClustersEB_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltBarrelLayerClustersHB_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaHGCALIDVarsL1Seeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaHGCALIDVarsUnseeded_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltFilteredLayerClustersCLUE3DBarrel_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltFilteredLayerClustersCLUE3DHighL1Seeded_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltFilteredLayerClustersCLUE3DHigh_cfi.py",
@@ -3611,6 +3613,7 @@
             "HLTrigger/Configuration/python/HLT_NGTScouting_cff.py",
             "PhysicsTools/TruthInfo/plugins/RecHitFlatTableProducer.cc",
             "PhysicsTools/TruthInfo/test/dumpTruthGraphsFromGENSIMRECO_cfg.py",
+            "RecoEgamma/EgammaHLTProducers/plugins/EgammaHLTHGCalIDVarProducer.cc",
             "RecoEgamma/EgammaTools/BuildFile.xml",
             "RecoEgamma/EgammaTools/interface/EgammaPCAHelper.h",
             "RecoEgamma/EgammaTools/interface/HGCalEgammaIDHelper.h",
@@ -3708,6 +3711,8 @@
             "RecoParticleFlow/PFClusterProducer/plugins/BarrelLayerClusterProducer.cc",
             "RecoParticleFlow/PFClusterProducer/plugins/BuildFile.xml",
             "RecoParticleFlow/PFClusterProducer/plugins/SimMappers/RealisticSimClusterMapper.cc",
+            "RecoTICL/Configuration/python/assembler.py",
+            "RecoTICL/Configuration/python/target.py",
             "RecoTauTag/RecoTau/BuildFile.xml",
             "RecoTauTag/RecoTau/interface/PositionAtECalEntranceComputer.h",
             "RecoTauTag/RecoTau/src/PositionAtECalEntranceComputer.cc",
@@ -3754,7 +3759,7 @@
         "created_at": 1784992229,
         "number": 51563,
         "state": "open",
-        "updated_at": 1785035478
+        "updated_at": 1785044483
     },
     "51564": {
         "base_branch": "master",
