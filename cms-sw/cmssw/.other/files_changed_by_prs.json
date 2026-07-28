@@ -2158,11 +2158,15 @@
             "FWCore/ParameterSet/python/Config.py",
             "FWCore/ParameterSet/python/DummyCfis.py",
             "FWCore/ParameterSet/python/Types.py",
+            "FWCore/ParameterSet/scripts/edmPythonConfigToCppValidation",
             "FWCore/ParameterSet/src/Entry.cc",
+            "FWCore/ParameterSet/src/FillDescriptionFromPSet.cc",
             "FWCore/ParameterSet/src/ParameterDescription.cc",
+            "FWCore/ParameterSet/src/ParameterDescriptionBase.cc",
             "FWCore/ParameterSet/src/ParameterDescriptionNode.cc",
             "FWCore/ParameterSet/src/ParameterSet.cc",
             "FWCore/ParameterSet/src/types.cc",
+            "FWCore/ParameterSet/test/test_catch2_allParameterTypes.cc",
             "FWCore/ParameterSet/test/test_catch2_ps.cc",
             "FWCore/ParameterSet/test/test_catch_ParameterSetDescription.cc",
             "FWCore/PythonParameterSet/src/PyBind11Module.h",
@@ -2239,7 +2243,7 @@
         "created_at": 1783258026,
         "number": 51413,
         "state": "open",
-        "updated_at": 1785079240
+        "updated_at": 1785203952
     },
     "51414": {
         "base_branch": "CMSSW_17_0_X",
