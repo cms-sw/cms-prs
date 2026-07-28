@@ -472,8 +472,11 @@
             "FWCore/ParameterSet/python/Config.py",
             "FWCore/ParameterSet/python/DummyCfis.py",
             "FWCore/ParameterSet/python/Types.py",
+            "FWCore/ParameterSet/scripts/edmPythonConfigToCppValidation",
             "FWCore/ParameterSet/src/Entry.cc",
+            "FWCore/ParameterSet/src/FillDescriptionFromPSet.cc",
             "FWCore/ParameterSet/src/ParameterDescription.cc",
+            "FWCore/ParameterSet/src/ParameterDescriptionBase.cc",
             "FWCore/ParameterSet/src/ParameterDescriptionNode.cc",
             "FWCore/ParameterSet/src/ParameterSet.cc",
             "FWCore/ParameterSet/src/types.cc",
@@ -484,7 +487,7 @@
         "created_at": 1718275191,
         "number": 45216,
         "state": "open",
-        "updated_at": 1785054444
+        "updated_at": 1785201360
     },
     "45612": {
         "base_branch": "master",
