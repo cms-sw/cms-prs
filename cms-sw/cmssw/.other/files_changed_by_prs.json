@@ -3936,5 +3936,29 @@
         "number": 51586,
         "state": "open",
         "updated_at": 1785307292
+    },
+    "51587": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/CaloRecHit/BuildFile.xml",
+            "DataFormats/CaloRecHit/interface/CaloClusterHostCollection.h",
+            "DataFormats/CaloRecHit/interface/CaloClusterSoA.h",
+            "DataFormats/CaloRecHit/interface/alpaka/CaloClusterDeviceCollection.h",
+            "DataFormats/CaloRecHit/src/alpaka/classes_cuda.h",
+            "DataFormats/CaloRecHit/src/alpaka/classes_cuda_def.xml",
+            "DataFormats/CaloRecHit/src/alpaka/classes_rocm.h",
+            "DataFormats/CaloRecHit/src/alpaka/classes_rocm_def.xml",
+            "DataFormats/CaloRecHit/src/classes.h",
+            "DataFormats/CaloRecHit/src/classes_def.xml",
+            "RecoLocalCalo/HGCalRecProducers/plugins/BuildFile.xml",
+            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalLayerClustersFromSoAProducer.cc",
+            "RecoLocalCalo/HGCalRecProducers/plugins/alpaka/HGCalLayerClustersSoAAlgoWrapper.dev.cc",
+            "RecoLocalCalo/HGCalRecProducers/plugins/alpaka/HGCalLayerClustersSoAAlgoWrapper.h",
+            "RecoLocalCalo/HGCalRecProducers/plugins/alpaka/HGCalSoALayerClustersProducer.cc"
+        ],
+        "created_at": 1785309171,
+        "number": 51587,
+        "state": "open",
+        "updated_at": 1785309199
     }
 }
