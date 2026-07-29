@@ -1378,6 +1378,7 @@
             "RecoVertex/PrimaryVertexProducer/plugins/SoAToRecoVertexProducer.cc",
             "RecoVertex/PrimaryVertexProducer/plugins/alpaka/DAInBlocksClusterizerAlgo.dev.cc",
             "RecoVertex/PrimaryVertexProducer/plugins/alpaka/DAInBlocksClusterizerAlgo.h",
+            "RecoVertex/PrimaryVertexProducer/plugins/alpaka/DAInBlocksClusterizerAlgoKernels.h",
             "RecoVertex/PrimaryVertexProducer/plugins/alpaka/DAInBlocksClusterizerArbitrator.dev.cc",
             "RecoVertex/PrimaryVertexProducer/plugins/alpaka/DAInBlocksClusterizerReSplitTracks.dev.cc",
             "RecoVertex/PrimaryVertexProducer/plugins/alpaka/DAInBlocksClusterizerRejectOutliers.dev.cc",
@@ -1391,7 +1392,7 @@
         "created_at": 1776685391,
         "number": 50766,
         "state": "open",
-        "updated_at": 1782997657
+        "updated_at": 1785330245
     },
     "50837": {
         "base_branch": "master",
