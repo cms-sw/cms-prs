@@ -3918,5 +3918,23 @@
         "number": 51585,
         "state": "open",
         "updated_at": 1785306508
+    },
+    "51586": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/StandardSequences/python/ReconstructionCosmics_cff.py",
+            "RecoLocalTracker/Configuration/python/RecoLocalTracker_Cosmics_cff.py",
+            "RecoTracker/Configuration/python/RecoTrackerP5_cff.py",
+            "RecoTracker/SpecialSeedGenerators/interface/CartesianSeedingGrid.h",
+            "RecoTracker/SpecialSeedGenerators/interface/CosmicGridTripletSeeder.h",
+            "RecoTracker/SpecialSeedGenerators/python/CosmicGridTripletSeeder_cff.py",
+            "RecoTracker/SpecialSeedGenerators/src/CartesianSeedingGrid.cc",
+            "RecoTracker/SpecialSeedGenerators/src/CosmicGridTripletSeeder.cc",
+            "RecoTracker/SpecialSeedGenerators/src/SealModules.cc"
+        ],
+        "created_at": 1785307264,
+        "number": 51586,
+        "state": "open",
+        "updated_at": 1785307292
     }
 }
