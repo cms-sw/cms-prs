@@ -3967,5 +3967,18 @@
         "number": 51596,
         "state": "open",
         "updated_at": 1785329598
+    },
+    "51597": {
+        "base_branch": "CMSSW_20_0_X",
+        "changed_files_names": [
+            "Configuration/HLT/python/addOnTestsHLT.py",
+            "HLTrigger/Configuration/test/BuildFile.xml",
+            "HLTrigger/Configuration/test/testAccessToEDMInputsOfHLTTests_filelist.txt",
+            "Utilities/ReleaseScripts/scripts/addOnTests.py"
+        ],
+        "created_at": 1785347148,
+        "number": 51597,
+        "state": "open",
+        "updated_at": 1785347177
     }
 }
