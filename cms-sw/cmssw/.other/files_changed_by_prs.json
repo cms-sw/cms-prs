@@ -3854,15 +3854,16 @@
     "51583": {
         "base_branch": "master",
         "changed_files_names": [
-            "HLTrigger/Configuration/python/heterogeneousClosure.py",
-            "HLTrigger/Configuration/scripts/hltDumpHeterogeneous",
+            "HLTrigger/Configuration/python/moduleClosure.py",
+            "HLTrigger/Configuration/scripts/hltDumpTaggedModules",
             "HLTrigger/Configuration/test/BuildFile.xml",
-            "HLTrigger/Configuration/test/testHeterogeneousClosure.py"
+            "HLTrigger/Configuration/test/testHeterogeneousMenu.py",
+            "HLTrigger/Configuration/test/testModuleClosure.py"
         ],
         "created_at": 1785303318,
         "number": 51583,
         "state": "open",
-        "updated_at": 1785303340
+        "updated_at": 1785335561
     },
     "51584": {
         "base_branch": "master",
