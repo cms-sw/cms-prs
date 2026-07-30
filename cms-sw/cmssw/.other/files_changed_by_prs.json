@@ -3172,8 +3172,11 @@
             "PhysicsTools/TruthInfo/interface/BranchHitAssociator.h",
             "PhysicsTools/TruthInfo/interface/GenGraphBuild.h",
             "PhysicsTools/TruthInfo/interface/LogicalGraphHitIndexBuilder.h",
+            "PhysicsTools/TruthInfo/interface/SubgraphHitView.h",
             "PhysicsTools/TruthInfo/plugins/BranchHGCalValidator.cc",
             "PhysicsTools/TruthInfo/plugins/BranchRecoValidator.cc",
+            "PhysicsTools/TruthInfo/plugins/BranchTrackerReplacementValidator.cc",
+            "PhysicsTools/TruthInfo/plugins/BranchTrackingValidator.cc",
             "PhysicsTools/TruthInfo/plugins/BranchTruthReplacementValidator.cc",
             "PhysicsTools/TruthInfo/plugins/LogicalGraphHitIndexProducer.cc",
             "PhysicsTools/TruthInfo/plugins/TruthBranchCaloAssociationProducer.cc",
@@ -3188,6 +3191,7 @@
             "PhysicsTools/TruthInfo/src/BranchHitAssociator.cc",
             "PhysicsTools/TruthInfo/src/GenGraphBuild.cc",
             "PhysicsTools/TruthInfo/src/LogicalGraphHitIndexBuilder.cc",
+            "PhysicsTools/TruthInfo/src/SubgraphHitView.cc",
             "PhysicsTools/TruthInfo/test/BranchHitAssociator_t.cpp",
             "PhysicsTools/TruthInfo/test/BuildFile.xml",
             "PhysicsTools/TruthInfo/test/GenGraphBuild_t.cpp",
@@ -3202,7 +3206,7 @@
         "created_at": 1784991202,
         "number": 51562,
         "state": "open",
-        "updated_at": 1785378216
+        "updated_at": 1785379899
     },
     "51563": {
         "base_branch": "master",
