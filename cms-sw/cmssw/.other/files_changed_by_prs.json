@@ -1707,6 +1707,7 @@
         "base_branch": "master",
         "changed_files_names": [
             "Configuration/ProcessModifiers/python/egammaPixelSeedingPortable_cff.py",
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
             "DataFormats/EgammaReco/BuildFile.xml",
             "DataFormats/EgammaReco/interface/ElectronSeedHostCollection.h",
             "DataFormats/EgammaReco/interface/ElectronSeedSoA.h",
@@ -1743,7 +1744,7 @@
         "created_at": 1781176424,
         "number": 51200,
         "state": "open",
-        "updated_at": 1785409876
+        "updated_at": 1785441040
     },
     "51205": {
         "base_branch": "master",
