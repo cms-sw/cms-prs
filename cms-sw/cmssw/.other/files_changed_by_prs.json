@@ -2311,8 +2311,8 @@
         "base_branch": "master",
         "changed_files_names": [
             "DataFormats/Portable/test/BuildFile.xml",
-            "DataFormats/Portable/test/alpaka/test_soamultiview.dev.cc",
-            "DataFormats/SoATemplate/interface/SoAMultiView.h",
+            "DataFormats/Portable/test/alpaka/test_catch2_SoAConstMultiView.dev.cc",
+            "DataFormats/SoATemplate/interface/SoAConstMultiView.h",
             "DataFormats/SoATemplate/test/BuildFile.xml",
             "DataFormats/SoATemplate/test/SoAMultiView_t.cu",
             "DataFormats/SoATemplate/test/SoAMultiView_t.hip.cc",
@@ -2342,7 +2342,7 @@
         "created_at": 1783585323,
         "number": 51458,
         "state": "open",
-        "updated_at": 1784654378
+        "updated_at": 1785398782
     },
     "51460": {
         "base_branch": "master",
