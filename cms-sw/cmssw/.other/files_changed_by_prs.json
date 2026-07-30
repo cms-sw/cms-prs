@@ -3913,18 +3913,7 @@
             "Configuration/Geometry/python/GeometryExtendedRun4D126Reco_cff.py",
             "Configuration/Geometry/python/GeometryExtendedRun4D126_cff.py",
             "Configuration/Geometry/python/dictRun4Geometry.py",
-            "Configuration/PyReleaseValidation/python/relval_2017.py",
             "Configuration/PyReleaseValidation/python/relval_Run4.py",
-            "Configuration/PyReleaseValidation/python/relval_ged.py",
-            "Configuration/PyReleaseValidation/python/relval_gpu.py",
-            "Configuration/PyReleaseValidation/python/relval_highstats.py",
-            "Configuration/PyReleaseValidation/python/relval_identity.py",
-            "Configuration/PyReleaseValidation/python/relval_nano.py",
-            "Configuration/PyReleaseValidation/python/relval_pileup.py",
-            "Configuration/PyReleaseValidation/python/relval_premix.py",
-            "Configuration/PyReleaseValidation/python/relval_production.py",
-            "Configuration/PyReleaseValidation/python/relval_standard.py",
-            "Configuration/PyReleaseValidation/python/relval_steps.py",
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
             "Configuration/StandardSequences/python/GeometryConf.py",
             "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometryRun4D126.xml",
@@ -3935,7 +3924,7 @@
         "created_at": 1785311890,
         "number": 51590,
         "state": "open",
-        "updated_at": 1785311915
+        "updated_at": 1785401742
     },
     "51591": {
         "base_branch": "CMSSW_20_0_X",
