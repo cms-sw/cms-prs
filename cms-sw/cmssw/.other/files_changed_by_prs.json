@@ -1706,6 +1706,7 @@
     "51200": {
         "base_branch": "master",
         "changed_files_names": [
+            "Configuration/ProcessModifiers/python/egammaPixelSeedingPortable_cff.py",
             "DataFormats/EgammaReco/BuildFile.xml",
             "DataFormats/EgammaReco/interface/ElectronSeedHostCollection.h",
             "DataFormats/EgammaReco/interface/ElectronSeedSoA.h",
@@ -1720,6 +1721,9 @@
             "DataFormats/EgammaReco/src/classes.cc",
             "DataFormats/EgammaReco/src/classes.h",
             "DataFormats/EgammaReco/src/classes_def.xml",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaElectronPixelSeedsL1Seeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaElectronPixelSeedsPortable_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTElePixelMatchL1SeededSequence_cfi.py",
             "RecoEgamma/Configuration/python/hltEgammaPixelSeedingPortable.py",
             "RecoEgamma/EgammaElectronAlgos/BuildFile.xml",
             "RecoEgamma/EgammaElectronAlgos/interface/EleRelPointPairPortable.h",
@@ -1739,7 +1743,7 @@
         "created_at": 1781176424,
         "number": 51200,
         "state": "open",
-        "updated_at": 1785394178
+        "updated_at": 1785409876
     },
     "51205": {
         "base_branch": "master",
