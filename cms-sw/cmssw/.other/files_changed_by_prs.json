@@ -3828,12 +3828,14 @@
     "51584": {
         "base_branch": "master",
         "changed_files_names": [
-            "SimCalorimetry/HGCalSimProducers/plugins/HGCDigitizerBase.cc"
+            "SimCalorimetry/HGCalSimProducers/interface/HGCDigitizerBase.h",
+            "SimCalorimetry/HGCalSimProducers/plugins/HGCDigitizerBase.cc",
+            "SimCalorimetry/HGCalSimProducers/python/hgcalDigitizer_cfi.py"
         ],
         "created_at": 1785305772,
         "number": 51584,
         "state": "open",
-        "updated_at": 1785305801
+        "updated_at": 1785397656
     },
     "51585": {
         "base_branch": "CMSSW_20_0_X",
