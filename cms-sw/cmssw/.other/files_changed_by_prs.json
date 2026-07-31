@@ -3178,6 +3178,7 @@
             "PhysicsTools/TruthInfo/plugins/TruthGraphAccumulator.cc",
             "PhysicsTools/TruthInfo/plugins/TruthGraphProducer.cc",
             "PhysicsTools/TruthInfo/plugins/TruthLogicalGraphDumper.cc",
+            "PhysicsTools/TruthInfo/plugins/TruthLogicalGraphProducer.cc",
             "PhysicsTools/TruthInfo/python/customiseTruthMixedReco.py",
             "PhysicsTools/TruthInfo/python/mixedTruthGraphCustomize.py",
             "PhysicsTools/TruthInfo/python/truthEventContent_cff.py",
@@ -3201,7 +3202,7 @@
         "created_at": 1784991202,
         "number": 51562,
         "state": "open",
-        "updated_at": 1785379899
+        "updated_at": 1785467043
     },
     "51563": {
         "base_branch": "master",
