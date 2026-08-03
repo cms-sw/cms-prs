@@ -3525,7 +3525,6 @@
         "base_branch": "CMSSW_17_0_X",
         "changed_files_names": [
             "Configuration/ProcessModifiers/python/hiEGReg_cff.py",
-            "Configuration/PyReleaseValidation/python/relval_steps.py",
             "PhysicsTools/PatAlgos/python/slimming/miniAODFromMiniAOD_HIN_tools.py",
             "RecoEcal/Configuration/python/RecoEcal_cff.py",
             "RecoEcal/EgammaClusterProducers/python/particleFlowSuperClusterECAL_cfi.py",
@@ -3534,7 +3533,7 @@
         "created_at": 1785248899,
         "number": 51576,
         "state": "open",
-        "updated_at": 1785248928
+        "updated_at": 1785749993
     },
     "51577": {
         "base_branch": "master",
