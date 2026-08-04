@@ -3845,5 +3845,22 @@
         "number": 51625,
         "state": "open",
         "updated_at": 1785866825
+    },
+    "51626": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Framework/src/EventSetupProvider.cc",
+            "FWCore/MessageService/plugins/MessageLogger.cc",
+            "FWCore/ServiceRegistry/README.md",
+            "FWCore/ServiceRegistry/interface/ActivityRegistry.h",
+            "FWCore/ServiceRegistry/src/ActivityRegistry.cc",
+            "FWCore/Services/plugins/StallMonitor.cc",
+            "FWCore/Services/src/JobReportService.cc",
+            "FWCore/Services/test/servicesJobReport_t.cpp"
+        ],
+        "created_at": 1785866980,
+        "number": 51626,
+        "state": "open",
+        "updated_at": 1785867004
     }
 }
