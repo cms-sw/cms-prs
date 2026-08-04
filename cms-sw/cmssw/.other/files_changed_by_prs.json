@@ -3813,5 +3813,37 @@
         "number": 51622,
         "state": "open",
         "updated_at": 1785846905
+    },
+    "51625": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondCore/CondHDF5ESSource/plugins/HDF5ProductResolver.cc",
+            "FWCore/Framework/interface/CallbackBase.h",
+            "FWCore/Framework/interface/CallbackExternalWork.h",
+            "FWCore/Framework/interface/ComponentConstructionSentry.h",
+            "FWCore/Framework/interface/ComponentMaker.h",
+            "FWCore/Framework/interface/ModuleRegistry.h",
+            "FWCore/Framework/src/ComponentConstructionSentry.cc",
+            "FWCore/Framework/src/DelayedReader.cc",
+            "FWCore/Framework/src/ESSourceProductResolverBase.cc",
+            "FWCore/Framework/src/EventProcessor.cc",
+            "FWCore/Framework/src/EventSetupsController.cc",
+            "FWCore/Framework/src/ModuleMaker.cc",
+            "FWCore/Framework/src/ModuleRegistry.cc",
+            "FWCore/Framework/src/OutputModuleCommunicatorT.cc",
+            "FWCore/Framework/src/Path.cc",
+            "FWCore/Framework/src/ProductResolvers.cc",
+            "FWCore/Framework/src/Schedule.cc",
+            "FWCore/Framework/src/SourceCoordinator.cc",
+            "FWCore/Framework/src/TransformerBase.cc",
+            "FWCore/Utilities/interface/SignalSentry.h",
+            "FWCore/Utilities/test/test_catch2_signal.cc",
+            "FWIO/RNTupleTempInput/src/RootFile.cc",
+            "IOPool/Input/src/RootFile.cc"
+        ],
+        "created_at": 1785866801,
+        "number": 51625,
+        "state": "open",
+        "updated_at": 1785866825
     }
 }
