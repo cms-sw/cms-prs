@@ -1466,37 +1466,6 @@
         "state": "open",
         "updated_at": 1781849735
     },
-    "51042": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "Configuration/EventContent/python/EventContent_cff.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2PixelTrackTorchHighPuritySelector_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2PixelTracksCAExtension_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2PixelTracksCutClassifier_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2PixelTracks_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2PixelVertices_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPixelTracksSoACompareGPUvsCPU_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPixelTracksSoAMonitorCPU_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPixelTracksSoAMonitorGPU_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/paths/DST_HeterogeneousReco_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPhase2PixelTracksAndVerticesSequence_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPhase2PixelVertexingSequence_cfi.py",
-            "HLTrigger/Configuration/python/HLT_NGTScouting_cff.py",
-            "HLTrigger/NGTScouting/python/hltTracks_cfi.py",
-            "RecoTracker/FinalTrackSelectors/interface/PixelTrackFeaturesSoA.h",
-            "RecoTracker/FinalTrackSelectors/plugins/BuildFile.xml",
-            "RecoTracker/FinalTrackSelectors/plugins/alpaka/PixelTrackFeaturesDeviceCollection.h",
-            "RecoTracker/FinalTrackSelectors/plugins/alpaka/PixelTrackTorchHighPuritySelector.cc",
-            "RecoTracker/FinalTrackSelectors/plugins/alpaka/PixelTrackTorchHighPuritySelectorKernels.dev.cc",
-            "RecoTracker/FinalTrackSelectors/plugins/alpaka/PixelTrackTorchHighPuritySelectorKernels.h",
-            "Validation/RecoTrack/python/associators_cff.py",
-            "Validation/RecoVertex/python/HLTmultiPVvalidator_cff.py"
-        ],
-        "created_at": 1779821467,
-        "number": 51042,
-        "state": "open",
-        "updated_at": 1785763778
-    },
     "51047": {
         "base_branch": "master",
         "changed_files_names": [
