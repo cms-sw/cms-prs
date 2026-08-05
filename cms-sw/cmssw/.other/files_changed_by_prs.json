@@ -3735,6 +3735,8 @@
     "51626": {
         "base_branch": "master",
         "changed_files_names": [
+            "EventFilter/Utilities/interface/FastMonitoringService.h",
+            "EventFilter/Utilities/src/FastMonitoringService.cc",
             "FWCore/Framework/src/EventSetupProvider.cc",
             "FWCore/MessageService/plugins/MessageLogger.cc",
             "FWCore/ServiceRegistry/README.md",
@@ -3742,12 +3744,14 @@
             "FWCore/ServiceRegistry/src/ActivityRegistry.cc",
             "FWCore/Services/plugins/StallMonitor.cc",
             "FWCore/Services/src/JobReportService.cc",
-            "FWCore/Services/test/servicesJobReport_t.cpp"
+            "FWCore/Services/test/servicesJobReport_t.cpp",
+            "PerfTools/AllocMonitor/plugins/ModuleAllocMonitor.cc",
+            "PerfTools/AllocMonitor/plugins/PhaseAllocMonitor.cc"
         ],
         "created_at": 1785866980,
         "number": 51626,
         "state": "open",
-        "updated_at": 1785867004
+        "updated_at": 1785937665
     },
     "51628": {
         "base_branch": "CMSSW_14_0_X",
