@@ -3467,6 +3467,9 @@
             "FWCore/Framework/src/Schedule.cc",
             "FWCore/Framework/src/SourceCoordinator.cc",
             "FWCore/Framework/src/TransformerBase.cc",
+            "FWCore/Framework/test/run_module_delete_tests.sh",
+            "FWCore/Framework/test/test_module_delete_wantSummary_cfg.py",
+            "FWCore/ServiceRegistry/interface/ActivityRegistry.h",
             "FWCore/Utilities/interface/SignalSentry.h",
             "FWCore/Utilities/test/test_catch2_signal.cc",
             "FWIO/RNTupleTempInput/src/RootFile.cc",
@@ -3475,7 +3478,7 @@
         "created_at": 1785866801,
         "number": 51625,
         "state": "open",
-        "updated_at": 1785866825
+        "updated_at": 1785956488
     },
     "51626": {
         "base_branch": "master",
