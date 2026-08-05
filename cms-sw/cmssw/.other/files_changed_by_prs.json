@@ -3329,6 +3329,7 @@
         "base_branch": "master",
         "changed_files_names": [
             "DQMServices/Core/interface/DQMBookingHelpers.h",
+            "DQMServices/Core/src/DQMBookingHelpers.cc",
             "DataFormats/Candidate/src/classes_def.xml",
             "DataFormats/VertexReco/src/classes_def.xml",
             "HLTriggerOffline/Common/python/HLTValidationHarvest_cff.py",
@@ -3405,7 +3406,7 @@
         "created_at": 1785250036,
         "number": 51577,
         "state": "open",
-        "updated_at": 1785325358
+        "updated_at": 1785913572
     },
     "51586": {
         "base_branch": "master",
