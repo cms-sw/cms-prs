@@ -3842,5 +3842,17 @@
         "number": 51628,
         "state": "open",
         "updated_at": 1785924307
+    },
+    "51629": {
+        "base_branch": "CMSSW_13_0_X",
+        "changed_files_names": [
+            "GeneratorInterface/GenFilters/plugins/HTXSFilter.cc",
+            "GeneratorInterface/GenFilters/plugins/HTXSStage1p2Filter.cc",
+            "GeneratorInterface/GenFilters/plugins/HTXSStage1p2Filter.h"
+        ],
+        "created_at": 1785924519,
+        "number": 51629,
+        "state": "open",
+        "updated_at": 1785924547
     }
 }
