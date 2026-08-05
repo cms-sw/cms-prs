@@ -3690,26 +3690,6 @@
         "state": "open",
         "updated_at": 1785807821
     },
-    "51621": {
-        "base_branch": "CMSSW_20_1_TF_X",
-        "changed_files_names": [
-            "PhysicsTools/TensorFlow/src/TensorFlow.cc",
-            "PhysicsTools/TensorFlow/test/testGraphLoading.cc",
-            "PhysicsTools/TensorFlow/test/testGraphLoadingCUDA.cc",
-            "PhysicsTools/TensorFlow/test/testHelloWorld.cc",
-            "PhysicsTools/TensorFlow/test/testHelloWorldCUDA.cc",
-            "PhysicsTools/TensorFlow/test/testMetaGraphLoading.cc",
-            "PhysicsTools/TensorFlow/test/testMetaGraphLoadingCUDA.cc",
-            "PhysicsTools/TensorFlow/test/testVisibleDevices.cc",
-            "PhysicsTools/TensorFlow/test/testVisibleDevicesCUDA.cc",
-            "RecoTauTag/RecoTau/plugins/DeepTauId.cc",
-            "RecoTracker/PixelTrackFitting/interface/alpaka/RiemannFit.h"
-        ],
-        "created_at": 1785830111,
-        "number": 51621,
-        "state": "open",
-        "updated_at": 1785830135
-    },
     "51622": {
         "base_branch": "master",
         "changed_files_names": [
