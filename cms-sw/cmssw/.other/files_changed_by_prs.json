@@ -3564,12 +3564,13 @@
             "Configuration/PyReleaseValidation/python/relval_Run4.py",
             "Configuration/PyReleaseValidation/python/relval_steps.py",
             "Configuration/PyReleaseValidation/scripts/runTheMatrix.py",
-            "Configuration/StandardSequences/python/DD4hep_GeometrySimPhase2_cff.py"
+            "Configuration/StandardSequences/python/DD4hep_GeometrySimPhase2_cff.py",
+            "DetectorDescription/DDCMS/src/DDFilteredView.cc"
         ],
         "created_at": 1785938148,
         "number": 51633,
         "state": "open",
-        "updated_at": 1785938169
+        "updated_at": 1786045692
     },
     "51635": {
         "base_branch": "master",
