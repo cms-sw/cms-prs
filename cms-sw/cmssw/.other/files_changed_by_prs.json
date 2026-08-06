@@ -3600,5 +3600,18 @@
         "number": 51635,
         "state": "open",
         "updated_at": 1785948467
+    },
+    "51636": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/ProcessModifiers/python/ecal_addspikes_cff.py",
+            "Configuration/PyReleaseValidation/README.md",
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "SimCalorimetry/EcalSimProducers/python/apdSimParameters_cff.py"
+        ],
+        "created_at": 1786020987,
+        "number": 51636,
+        "state": "open",
+        "updated_at": 1786021017
     }
 }
