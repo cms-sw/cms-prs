@@ -3629,5 +3629,39 @@
         "number": 51641,
         "state": "open",
         "updated_at": 1786042416
+    },
+    "51642": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Integration/plugins/ProducerWithPSetDesc.cc",
+            "FWCore/Integration/test/unit_test_outputs/testProducerWithPsetDesc_briefdoc.txt",
+            "FWCore/Integration/test/unit_test_outputs/testProducerWithPsetDesc_cfi.py",
+            "FWCore/Integration/test/unit_test_outputs/testProducerWithPsetDesc_doc.txt",
+            "FWCore/ParameterSet/src/Entry.cc",
+            "FWCore/ParameterSet/src/ParameterDescription.cc",
+            "FWCore/ParameterSet/test/test_catch_ParameterSetDescription.cc",
+            "FWIO/RNTupleTempInput/test/BuildFile.xml",
+            "FWIO/RNTupleTempInput/test/run_TestEdmProvDump.sh",
+            "FWIO/RNTupleTempInput/test/testEdmProvDumpMerge_cfg.py",
+            "FWIO/RNTupleTempInput/test/testEdmProvDumpPSet_cfg.py",
+            "FWIO/RNTupleTempInput/test/testEdmProvDumpSplit_cfg.py",
+            "FWIO/RNTupleTempInput/test/testEdmProvDump_cfg.py",
+            "FWIO/RNTupleTempInput/test/unit_test_outputs/provdump_complex_final.log",
+            "FWIO/RNTupleTempInput/test/unit_test_outputs/provdump_complex_intermediate.log",
+            "FWIO/RNTupleTempInput/test/unit_test_outputs/provdump_complex_merge.log",
+            "FWIO/RNTupleTempInput/test/unit_test_outputs/provdump_complex_split.log",
+            "FWIO/RNTupleTempInput/test/unit_test_outputs/provdump_pset.log",
+            "FWIO/RNTupleTempInput/test/unit_test_outputs/provdump_simple_default.log",
+            "FWIO/RNTupleTempInput/test/unit_test_outputs/provdump_simple_excludeESModules.log",
+            "FWIO/RNTupleTempInput/test/unit_test_outputs/provdump_simple_showAllModules.log",
+            "FWIO/RNTupleTempInput/test/unit_test_outputs/provdump_simple_showTopLevelPSets.log",
+            "IOPool/Common/test/run_TestEdmProvDump.sh",
+            "IOPool/Common/test/testEdmProvDumpPSet_cfg.py",
+            "IOPool/Common/test/unit_test_outputs/provdump_pset.log"
+        ],
+        "created_at": 1786043065,
+        "number": 51642,
+        "state": "open",
+        "updated_at": 1786043090
     }
 }
