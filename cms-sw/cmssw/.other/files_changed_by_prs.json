@@ -3756,5 +3756,36 @@
         "number": 51648,
         "state": "open",
         "updated_at": 1786102965
+    },
+    "51649": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "PhysicsTools/NanoAOD/interface/AssociationMapFlatTableProducer.h",
+            "PhysicsTools/TruthInfo/plugins/TruthBranchCaloAssociationProducer.cc",
+            "PhysicsTools/TruthInfo/plugins/TruthBranchTrackingAssociationProducer.cc",
+            "RecoHGCal/TICL/plugins/TICLDumper.cc",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/AllHitToTracksterAssociatorsProducer.cc",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/AllLayerClusterToTracksterAssociatorsProducer.cc",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/AllTracksterToSimTracksterAssociatorsByHitsProducer.cc",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/AllTracksterToSimTracksterAssociatorsByLCsProducer.cc",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/HitToLayerClusterAssociatorProducer.cc",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/HitToSimClusterCaloParticleAssociatorProducer.cc",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/HitToTracksterAssociatorProducer.cc",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/LCToTSAssociatorProducer.cc",
+            "SimCalorimetry/HGCalAssociatorProducers/plugins/SimClusterToCaloParticleAssociatorProducer.cc",
+            "SimDataFormats/Associations/interface/TICLAssociationMap.h",
+            "SimDataFormats/Associations/src/classes_def.xml",
+            "Validation/HGCalValidation/interface/BarrelVHistoProducerAlgo.h",
+            "Validation/HGCalValidation/interface/BarrelValidator.h",
+            "Validation/HGCalValidation/interface/HGCalValidator.h",
+            "Validation/HGCalValidation/interface/HGVHistoProducerAlgo.h",
+            "Validation/HGCalValidation/interface/TICLCandidateValidator.h",
+            "Validation/HGCalValidation/plugins/TracksterAssociationMaskProducer.cc",
+            "Validation/HGCalValidation/plugins/TracksterSuperclusteringValidCandidateMaskProducer.cc"
+        ],
+        "created_at": 1786103415,
+        "number": 51649,
+        "state": "open",
+        "updated_at": 1786103447
     }
 }
