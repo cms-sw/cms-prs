@@ -3740,12 +3740,15 @@
     "51647": {
         "base_branch": "master",
         "changed_files_names": [
+            "PhysicsTools/TruthInfo/plugins/LogicalGraphHitIndexProducer.cc",
+            "PhysicsTools/TruthInfo/src/LogicalGraphHitIndexBuilder.cc",
+            "PhysicsTools/TruthInfo/test/LogicalGraphHitIndexBuilder_t.cpp",
             "Validation/Configuration/python/globalValidation_cff.py"
         ],
         "created_at": 1786101470,
         "number": 51647,
         "state": "open",
-        "updated_at": 1786101493
+        "updated_at": 1786112274
     },
     "51648": {
         "base_branch": "master",
