@@ -3827,5 +3827,20 @@
         "number": 51660,
         "state": "open",
         "updated_at": 1786362919
+    },
+    "51661": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Framework/interface/GlobalSchedule.h",
+            "FWCore/Framework/interface/Schedule.h",
+            "FWCore/Framework/interface/maker/ModuleHolder.h",
+            "FWCore/Framework/src/EventProcessor.cc",
+            "FWCore/Framework/src/GlobalSchedule.cc",
+            "FWCore/Framework/src/Schedule.cc"
+        ],
+        "created_at": 1786363099,
+        "number": 51661,
+        "state": "open",
+        "updated_at": 1786363144
     }
 }
