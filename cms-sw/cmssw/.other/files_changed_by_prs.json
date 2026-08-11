@@ -3759,5 +3759,20 @@
         "number": 51675,
         "state": "open",
         "updated_at": 1786456402
+    },
+    "51676": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/Generator/python/TenTau_E15to500_Eta3p1_pythia8_cfi.py",
+            "Configuration/Generator/python/TenTau_E_15_500_Eta3p1_pythia8_cfi.py",
+            "Configuration/Generator/python/TenTau_E_15_500_pythia8_cfi.py",
+            "Configuration/Generator/python/TenTau_Pt10to500_Eta3p1_pythia8_cfi.py",
+            "Configuration/Generator/python/TenTau_Pt10to500_Eta4p1_pythia8_cfi.py",
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py"
+        ],
+        "created_at": 1786460142,
+        "number": 51676,
+        "state": "open",
+        "updated_at": 1786460165
     }
 }
