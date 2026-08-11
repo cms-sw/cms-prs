@@ -3681,5 +3681,32 @@
         "number": 51665,
         "state": "open",
         "updated_at": 1786375652
+    },
+    "51669": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltDoubleTkMuon157L1TkMuonFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEGL1SeedsForDoubleEleIsolatedFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEGL1SeedsForDoubleEleNonIsolatedFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEGL1SeedsForDoublePhotonIsolatedFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEGL1SeedsForSingleEleIsolatedFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEGL1SeedsForSingleEleNonIsolatedFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEGL1SeedsForSinglePhotonIsolatedFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltL1SeedsForDoublePuppiJetBtagFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltL1SeedsForPuppiHTFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltL1SeedsForPuppiJetFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltL1SeedsForPuppiMETFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPuppiTauTkIsoEle45_22L1TkFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPuppiTauTkMuon4218L1TkFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltSingleTkMuon22L1TkMuonFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/paths/HLT_Ele30_WPTight_L1Seeded_LooseDeepTauPFTauHPS30_eta2p1_CrossL1_cfi.py",
+            "HLTrigger/HLTfilters/plugins/HLTP2GTDoubleObjectFilter.cc",
+            "HLTrigger/HLTfilters/plugins/HLTP2GTSingleObjectFilter.cc",
+            "HLTrigger/HLTfilters/plugins/HLTP2GTUtilities.h"
+        ],
+        "created_at": 1786440747,
+        "number": 51669,
+        "state": "open",
+        "updated_at": 1786440776
     }
 }
