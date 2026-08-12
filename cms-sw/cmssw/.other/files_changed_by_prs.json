@@ -3479,22 +3479,6 @@
         "state": "open",
         "updated_at": 1786380996
     },
-    "51662": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltBunchSpacingProducer_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEcalMultiFitUncalibRecHit_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEcalUncalibRecHitL1Seeded_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTDoFullUnpackingEgammaEcalL1SeededSequence_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTDoFullUnpackingEgammaEcalSequence_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTLocalrecoSequence_cfi.py",
-            "RecoLocalCalo/EcalRecProducers/plugins/EcalUncalibRecHitWorkerMultiFit.cc"
-        ],
-        "created_at": 1786367964,
-        "number": 51662,
-        "state": "open",
-        "updated_at": 1786378221
-    },
     "51665": {
         "base_branch": "CMSSW_17_0_X",
         "changed_files_names": [
