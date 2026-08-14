@@ -3630,5 +3630,17 @@
         "number": 51706,
         "state": "open",
         "updated_at": 1786701474
+    },
+    "51707": {
+        "base_branch": "CMSSW_20_0_X",
+        "changed_files_names": [
+            "Validation/RecoJets/plugins/JetTester.cc",
+            "Validation/RecoJets/plugins/JetTester.h",
+            "Validation/RecoJets/python/hltJetValidation_cff.py"
+        ],
+        "created_at": 1786705669,
+        "number": 51707,
+        "state": "open",
+        "updated_at": 1786705693
     }
 }
