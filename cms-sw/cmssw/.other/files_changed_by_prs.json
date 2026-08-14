@@ -3640,5 +3640,18 @@
         "number": 51709,
         "state": "open",
         "updated_at": 1786711422
+    },
+    "51710": {
+        "base_branch": "CMSSW_17_0_X",
+        "changed_files_names": [
+            "Configuration/Eras/python/Modifier_run2_nanoAOD_from_m2m_106Xv2_cff.py",
+            "Configuration/PyReleaseValidation/python/relval_nano.py",
+            "PhysicsTools/NanoAOD/python/lowPtElectrons_cff.py",
+            "PhysicsTools/NanoAOD/python/nano_eras_cff.py"
+        ],
+        "created_at": 1786718476,
+        "number": 51710,
+        "state": "open",
+        "updated_at": 1786718502
     }
 }
