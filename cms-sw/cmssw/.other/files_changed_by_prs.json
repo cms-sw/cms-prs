@@ -3587,5 +3587,29 @@
         "number": 51704,
         "state": "open",
         "updated_at": 1786691087
+    },
+    "51705": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/BTauReco/interface/hltParticleTransformerAK4Features.h",
+            "DataFormats/BTauReco/interface/hltParticleTransformerAK4TagInfo.h",
+            "DataFormats/BTauReco/src/classes.h",
+            "DataFormats/BTauReco/src/classes_def.xml",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltDoublePFJets30ParTTauhTagMediumWPL2DoubleTau_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPFJetForBtagSelector_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPFJetForBtag_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleTransformerAK4TagInfos_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleTransformerDiscriminatorsJetTags_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleTransformerONNXJetTags_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/paths/HLT_DoubleMediumPFPuppiParTTauh30_eta2p1_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTJetFlavourTagParticleTransformerSequencePF_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33_cff.py",
+            "RecoBTag/FeatureTools/plugins/hltParticleTransformerAK4TagInfoProducer.cc",
+            "RecoBTag/ONNXRuntime/plugins/hltParticleTransformerAK4ONNXJetTagsProducer.cc"
+        ],
+        "created_at": 1786695765,
+        "number": 51705,
+        "state": "open",
+        "updated_at": 1786695789
     }
 }
