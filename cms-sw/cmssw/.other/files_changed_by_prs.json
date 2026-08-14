@@ -3545,5 +3545,25 @@
         "number": 51702,
         "state": "open",
         "updated_at": 1786687501
+    },
+    "51703": {
+        "base_branch": "CMSSW_20_0_X",
+        "changed_files_names": [
+            "Geometry/CaloTopology/data/D120NE.txt",
+            "Geometry/CaloTopology/data/D120NH.txt",
+            "Geometry/CaloTopology/interface/HGCalNeighbourFinder.h",
+            "Geometry/CaloTopology/src/HGCalNeighbourFinder.cc",
+            "Geometry/CaloTopology/test/HGCalNeighbourCheck.cc",
+            "Geometry/CaloTopology/test/HGCalNeighbourTester.cc",
+            "Geometry/CaloTopology/test/testHGCalNeighbourCheck_cfg.py",
+            "Geometry/CaloTopology/test/testHGCalNeighbourTester_cfg.py",
+            "Geometry/CaloTopology/test/testHGCalNeighbour_cfg.py",
+            "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h",
+            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc"
+        ],
+        "created_at": 1786690708,
+        "number": 51703,
+        "state": "open",
+        "updated_at": 1786690738
     }
 }
