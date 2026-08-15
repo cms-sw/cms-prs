@@ -3636,5 +3636,28 @@
         "number": 51712,
         "state": "open",
         "updated_at": 1786724840
+    },
+    "51713": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQMServices/Core/interface/ROOTFilePB.pb.h",
+            "DQMServices/Core/src/ROOTFilePB.pb.cc",
+            "PhysicsTools/TensorFlow/src/TensorFlow.cc",
+            "PhysicsTools/TensorFlow/test/testGraphLoading.cc",
+            "PhysicsTools/TensorFlow/test/testGraphLoadingCUDA.cc",
+            "PhysicsTools/TensorFlow/test/testHelloWorld.cc",
+            "PhysicsTools/TensorFlow/test/testHelloWorldCUDA.cc",
+            "PhysicsTools/TensorFlow/test/testMetaGraphLoading.cc",
+            "PhysicsTools/TensorFlow/test/testMetaGraphLoadingCUDA.cc",
+            "PhysicsTools/TensorFlow/test/testVisibleDevices.cc",
+            "PhysicsTools/TensorFlow/test/testVisibleDevicesCUDA.cc",
+            "PhysicsTools/TensorFlowAOT/test/BuildFile.xml",
+            "RecoTauTag/RecoTau/plugins/DeepTauId.cc",
+            "RecoTracker/PixelTrackFitting/interface/alpaka/RiemannFit.h"
+        ],
+        "created_at": 1786768796,
+        "number": 51713,
+        "state": "open",
+        "updated_at": 1786768820
     }
 }
