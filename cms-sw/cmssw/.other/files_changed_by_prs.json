@@ -3537,5 +3537,22 @@
         "number": 51723,
         "state": "open",
         "updated_at": 1787053861
+    },
+    "51724": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Services/BuildFile.xml",
+            "FWCore/Services/plugins/JobReportService.cc",
+            "FWCore/Services/src/JobReportService.cc",
+            "FWCore/Services/plugins/JobReportService.h",
+            "FWCore/Services/src/JobReportService.h",
+            "FWCore/Services/plugins/Module.cc",
+            "FWCore/Services/test/BuildFile.xml",
+            "FWCore/Services/test/servicesJobReport_t.cpp"
+        ],
+        "created_at": 1787055662,
+        "number": 51724,
+        "state": "open",
+        "updated_at": 1787055689
     }
 }
