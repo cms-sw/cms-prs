@@ -3500,5 +3500,27 @@
         "number": 51731,
         "state": "open",
         "updated_at": 1787102704
+    },
+    "51733": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQMOffline/Trigger/interface/MuonDQMVariables.h",
+            "DQMOffline/Trigger/interface/TrackDQMVariables.h",
+            "DQMOffline/Trigger/plugins/MuonGenericDQMSource.cc",
+            "DQMOffline/Trigger/plugins/TrackGenericDQMSource.cc",
+            "DQMServices/Components/interface/DQMVariable.h",
+            "DQMServices/Components/interface/DQMVectorVariable.h",
+            "DQMServices/Components/interface/GenericObjectDQMSource.h",
+            "HLTriggerOffline/Scouting/interface/Run3ScoutingElectronDQMVariables.h",
+            "HLTriggerOffline/Scouting/interface/Run3ScoutingPhotonDQMVariables.h",
+            "HLTriggerOffline/Scouting/interface/Run3ScoutingTrackDQMVariables.h",
+            "HLTriggerOffline/Scouting/plugins/Run3ScoutingElectronGenericDQMSource.cc",
+            "HLTriggerOffline/Scouting/plugins/Run3ScoutingPhotonGenericDQMSource.cc",
+            "HLTriggerOffline/Scouting/plugins/Run3ScoutingTrackGenericDQMSource.cc"
+        ],
+        "created_at": 1787117708,
+        "number": 51733,
+        "state": "open",
+        "updated_at": 1787117737
     }
 }
