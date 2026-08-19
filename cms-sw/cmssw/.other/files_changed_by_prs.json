@@ -3582,5 +3582,26 @@
         "number": 51737,
         "state": "open",
         "updated_at": 1787150225
+    },
+    "51738": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/L1TrackTrigger/interface/TTCluster.h",
+            "DataFormats/L1TrackTrigger/src/TTCluster.cc",
+            "L1Trigger/TrackTrigger/interface/TTClusterAlgorithmNew_official.h",
+            "L1Trigger/TrackTrigger/plugins/TTClusterBuilder.cc",
+            "L1Trigger/TrackTrigger/plugins/TTClusterBuilder.h",
+            "L1Trigger/TrackTrigger/plugins/TTClusterBuilderNew.cc",
+            "L1Trigger/TrackTrigger/plugins/TTStubBuilder.cc",
+            "L1Trigger/TrackTrigger/python/TTCluster_cfi.py",
+            "L1Trigger/TrackTrigger/python/TrackTrigger_cff.py",
+            "L1Trigger/TrackTrigger/src/TTClusterAlgorithmNew_official.cc",
+            "SimTracker/TrackTriggerAssociation/plugins/TTClusterAssociator.cc",
+            "SimTracker/TrackTriggerAssociation/plugins/TTClusterAssociator.h"
+        ],
+        "created_at": 1787150394,
+        "number": 51738,
+        "state": "open",
+        "updated_at": 1787150428
     }
 }
