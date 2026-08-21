@@ -3602,6 +3602,7 @@
             "FWCore/Integration/plugins/TestMergeResults.cc",
             "FWCore/Framework/test/stubs/TestMergeResults.cc",
             "FWCore/Integration/plugins/TestMergeResultsOutputModule.cc",
+            "FWIO/RNTupleTempInput/test/testReducedProcessHistory_cfg.py",
             "FWIO/RNTupleTempTests/test/testLooperEventNavigation1_cfg.py",
             "FWIO/RNTupleTempTests/test/testLooperEventNavigation_cfg.py",
             "FWIO/RNTupleTempTests/test/testRunMergeCOPY101_cfg.py",
@@ -3638,9 +3639,15 @@
             "FWIO/RNTupleTempTests/test/testRunMergeTEST1_cfg.py",
             "FWIO/RNTupleTempTests/test/testRunMergeTEST2_cfg.py",
             "FWIO/RNTupleTempTests/test/testRunMergeTEST3_cfg.py",
+            "FWIO/RNTupleTempTests/test/testRunMergeTEST4_cfg.py",
             "FWIO/RNTupleTempTests/test/testRunMergeTEST5_cfg.py",
+            "FWIO/RNTupleTempTests/test/testRunMergeTEST6_cfg.py",
             "FWIO/RNTupleTempTests/test/testRunMergeTESTFAIL_cfg.py",
             "FWIO/RNTupleTempTests/test/testRunMergeTEST_cfg.py",
+            "IOPool/Input/test/testReducedProcessHistory_cfg.py",
+            "IOPool/Input/test/test_reduced_ProcessHistory_cfg.py",
+            "IOPool/Input/test/test_reduced_ProcessHistory_dup_cfg.py",
+            "IOPool/Input/test/test_reduced_ProcessHistory_end_cfg.py",
             "IOPool/Tests/test/BuildFile.xml",
             "IOPool/Tests/test/createFileForMerge_cfg.py",
             "IOPool/Tests/test/simpleMergeTest.sh",
@@ -3681,13 +3688,15 @@
             "IOPool/Tests/test/testRunMergeTEST1_cfg.py",
             "IOPool/Tests/test/testRunMergeTEST2_cfg.py",
             "IOPool/Tests/test/testRunMergeTEST3_cfg.py",
+            "IOPool/Tests/test/testRunMergeTEST4_cfg.py",
             "IOPool/Tests/test/testRunMergeTEST5_cfg.py",
+            "IOPool/Tests/test/testRunMergeTEST6_cfg.py",
             "IOPool/Tests/test/testRunMergeTESTFAIL_cfg.py",
             "IOPool/Tests/test/testRunMergeTEST_cfg.py"
         ],
         "created_at": 1787322473,
         "number": 51746,
         "state": "open",
-        "updated_at": 1787322490
+        "updated_at": 1787333728
     }
 }
