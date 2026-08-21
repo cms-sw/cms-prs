@@ -3580,5 +3580,18 @@
         "number": 51744,
         "state": "open",
         "updated_at": 1787310893
+    },
+    "51745": {
+        "base_branch": "CMSSW_17_0_X",
+        "changed_files_names": [
+            "RecoTracker/Configuration/python/customizeBPixShapeCSFRegions.py",
+            "RecoTracker/PixelLowPtUtilities/interface/ClusterShapeHitFilter.h",
+            "RecoTracker/PixelLowPtUtilities/plugins/ClusterShapeHitFilterESProducer.cc",
+            "RecoTracker/PixelLowPtUtilities/src/ClusterShapeHitFilter.cc"
+        ],
+        "created_at": 1787311498,
+        "number": 51745,
+        "state": "open",
+        "updated_at": 1787311526
     }
 }
