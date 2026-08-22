@@ -2684,25 +2684,6 @@
         "state": "open",
         "updated_at": 1786626559
     },
-    "51593": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DataFormats/MuonReco/interface/Muon.h",
-            "DataFormats/MuonReco/interface/MuonChamberMatch.h",
-            "DataFormats/MuonReco/interface/MuonSegmentMatch.h",
-            "DataFormats/MuonReco/src/Muon.cc",
-            "DataFormats/MuonReco/src/classes_def.xml",
-            "RecoMuon/MuonIdentification/interface/MuonArbitrationMethods.h",
-            "RecoMuon/MuonIdentification/plugins/MuonIdProducer.cc",
-            "RecoMuon/MuonIdentification/plugins/MuonIdProducer.h",
-            "RecoMuon/MuonIdentification/plugins/MuonRefProducer.cc",
-            "RecoMuon/MuonIdentification/python/muons1stStep_cfi.py"
-        ],
-        "created_at": 1785319826,
-        "number": 51593,
-        "state": "open",
-        "updated_at": 1785783632
-    },
     "51596": {
         "base_branch": "CMSSW_20_0_X",
         "changed_files_names": [
