@@ -3683,5 +3683,27 @@
         "number": 51754,
         "state": "open",
         "updated_at": 1787645666
+    },
+    "51755": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/README.md",
+            "Configuration/PyReleaseValidation/python/relval_Run4.py",
+            "Configuration/PyReleaseValidation/python/relval_nano.py",
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "Configuration/PyReleaseValidation/scripts/runTheMatrix.py",
+            "HLTrigger/NGTScouting/plugins/HLTTauExtraTableProducer.cc",
+            "HLTrigger/NGTScouting/plugins/HLTTauTableProducer.cc",
+            "HLTrigger/NGTScouting/python/HLTNanoProducer_cff.py",
+            "HLTrigger/NGTScouting/python/hltNanoDQM_cff.py",
+            "HLTrigger/NGTScouting/python/hltTaus_cfi.py",
+            "HLTrigger/NGTScouting/python/hltTriggerObjects_cff.py",
+            "HLTrigger/NGTScouting/test/BuildFile.xml",
+            "HLTrigger/NGTScouting/test/testNanohltDQM.sh"
+        ],
+        "created_at": 1787647429,
+        "number": 51755,
+        "state": "open",
+        "updated_at": 1787647457
     }
 }
