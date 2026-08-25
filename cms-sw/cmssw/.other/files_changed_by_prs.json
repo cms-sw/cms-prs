@@ -3662,5 +3662,16 @@
         "number": 51750,
         "state": "open",
         "updated_at": 1787591828
+    },
+    "51753": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelDigisClustersFromSoAAlpaka.cc",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/ClusterChargeCut.h"
+        ],
+        "created_at": 1787624230,
+        "number": 51753,
+        "state": "open",
+        "updated_at": 1787624255
     }
 }
