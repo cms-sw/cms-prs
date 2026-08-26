@@ -3300,13 +3300,14 @@
     "51740": {
         "base_branch": "master",
         "changed_files_names": [
-            "HeterogeneousCore/CUDACore/python/ProcessAcceleratorCUDA.py",
-            "HeterogeneousCore/ROCmCore/python/ProcessAcceleratorROCm.py"
+            "Configuration/StandardSequences/python/Accelerators_cff.py",
+            "HeterogeneousCore/MPIServices/python/ProcessAcceleratorMPI.py",
+            "HeterogeneousCore/MPIServices/python/ProcessAcceleratorMPI_cfi.py"
         ],
         "created_at": 1787198372,
         "number": 51740,
         "state": "open",
-        "updated_at": 1787198398
+        "updated_at": 1787742009
     },
     "51742": {
         "base_branch": "CMSSW_20_0_X",
