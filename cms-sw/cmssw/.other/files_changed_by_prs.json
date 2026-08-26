@@ -2316,12 +2316,14 @@
         "base_branch": "CMSSW_17_0_X",
         "changed_files_names": [
             "Configuration/Applications/python/cmsDriverOptions.py",
+            "Configuration/PyReleaseValidation/python/relval_2017.py",
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
             "FastSimulation/HighLevelTrigger/python/customizeFastSimHLT.py"
         ],
         "created_at": 1784230998,
         "number": 51516,
         "state": "open",
-        "updated_at": 1785512627
+        "updated_at": 1787734747
     },
     "51535": {
         "base_branch": "master",
