@@ -3018,13 +3018,15 @@
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTJetFlavourTagParticleTransformerSequencePF_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33_cff.py",
             "HLTrigger/Configuration/python/HLT_75e33_timing_cff.py",
+            "HLTrigger/NGTScouting/python/hltTriggerObjects_cff.py",
             "RecoBTag/FeatureTools/plugins/HLTParticleTransformerAK4TagInfoProducer.cc",
-            "RecoBTag/ONNXRuntime/plugins/HLTParticleTransformerAK4ONNXJetTagsProducer.cc"
+            "RecoBTag/ONNXRuntime/plugins/HLTParticleTransformerAK4ONNXJetTagsProducer.cc",
+            "Validation/HLTrigger/python/HLTGenValidation_cff.py"
         ],
         "created_at": 1786695765,
         "number": 51705,
         "state": "open",
-        "updated_at": 1786986901
+        "updated_at": 1787727177
     },
     "51710": {
         "base_branch": "CMSSW_17_0_X",
