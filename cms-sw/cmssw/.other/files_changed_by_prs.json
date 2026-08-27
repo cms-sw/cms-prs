@@ -3426,5 +3426,27 @@
         "number": 51771,
         "state": "open",
         "updated_at": 1787839573
+    },
+    "51772": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/EcalDigi/src/classes_def.xml",
+            "DataFormats/EcalRecHit/src/classes_def.xml",
+            "DataFormats/HGCalDigi/src/classes_def.xml",
+            "DataFormats/HGCalReco/src/classes_def.xml",
+            "DataFormats/HcalDigi/src/classes_def.xml",
+            "DataFormats/HcalRecHit/src/classes_def.xml",
+            "DataFormats/ParticleFlowReco/src/classes_serial_def.xml",
+            "DataFormats/Portable/interface/PortableHostCollectionReadRules.h",
+            "DataFormats/PortableTestObjects/src/classes_def.xml",
+            "DataFormats/SiPixelClusterSoA/src/classes_def.xml",
+            "DataFormats/SiPixelDigiSoA/src/classes_def.xml",
+            "DataFormats/TrackSoA/src/classes_def.xml",
+            "DataFormats/VertexSoA/src/classes_def.xml"
+        ],
+        "created_at": 1787844308,
+        "number": 51772,
+        "state": "open",
+        "updated_at": 1787844336
     }
 }
