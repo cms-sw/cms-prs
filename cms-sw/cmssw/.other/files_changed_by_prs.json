@@ -3237,5 +3237,17 @@
         "number": 51779,
         "state": "open",
         "updated_at": 1787916051
+    },
+    "51780": {
+        "base_branch": "CMSSW_17_0_X",
+        "changed_files_names": [
+            "RecoEgamma/EgammaElectronProducers/python/ecalDrivenElectronSeeds_cff.py",
+            "RecoEgamma/EgammaElectronProducers/python/gedGsfElectrons_cfi.py",
+            "RecoEgamma/EgammaElectronProducers/python/gsfElectrons_cfi.py"
+        ],
+        "created_at": 1787922021,
+        "number": 51780,
+        "state": "open",
+        "updated_at": 1787922094
     }
 }
