@@ -3091,6 +3091,7 @@
     "51771": {
         "base_branch": "master",
         "changed_files_names": [
+            "DQMServices/Core/src/DQMStore.cc",
             "FWCore/Framework/interface/EventProcessor.h",
             "FWCore/Framework/interface/OutputModuleCommunicator.h",
             "FWCore/Framework/interface/OutputModuleCommunicatorT.h",
@@ -3149,7 +3150,7 @@
         "created_at": 1787839543,
         "number": 51771,
         "state": "open",
-        "updated_at": 1787910712
+        "updated_at": 1788177383
     },
     "51773": {
         "base_branch": "CMSSW_17_0_X",
