@@ -3046,5 +3046,34 @@
         "number": 51795,
         "state": "open",
         "updated_at": 1788275217
+    },
+    "51798": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "PhysicsTools/NanoAOD/plugins/NanoAODOutputModule.cc",
+            "PhysicsTools/NanoAOD/plugins/rntuple/EventStringOutputFields.cc",
+            "PhysicsTools/NanoAOD/plugins/rntuple/EventStringOutputFields.h",
+            "PhysicsTools/NanoAOD/plugins/rntuple/FlatTableColumnDispatch.h",
+            "PhysicsTools/NanoAOD/plugins/rntuple/NanoAODRNTupleOutputModule.cc",
+            "PhysicsTools/NanoAOD/plugins/rntuple/NanoAODRNTuples.cc",
+            "PhysicsTools/NanoAOD/plugins/rntuple/NanoAODRNTuples.h",
+            "PhysicsTools/NanoAOD/plugins/rntuple/RNTupleCollection.cc",
+            "PhysicsTools/NanoAOD/plugins/rntuple/RNTupleCollection.h",
+            "PhysicsTools/NanoAOD/plugins/rntuple/RNTupleFieldPtr.h",
+            "PhysicsTools/NanoAOD/plugins/rntuple/RNTupleProjections.cc",
+            "PhysicsTools/NanoAOD/plugins/rntuple/RNTupleProjections.h",
+            "PhysicsTools/NanoAOD/plugins/rntuple/SummaryTableOutputFields.cc",
+            "PhysicsTools/NanoAOD/plugins/rntuple/SummaryTableOutputFields.h",
+            "PhysicsTools/NanoAOD/plugins/rntuple/TableOutputFields.cc",
+            "PhysicsTools/NanoAOD/plugins/rntuple/TableOutputFields.h",
+            "PhysicsTools/NanoAOD/plugins/rntuple/TriggerOutputFields.cc",
+            "PhysicsTools/NanoAOD/plugins/rntuple/TriggerOutputFields.h",
+            "PhysicsTools/NanoAOD/test/BuildFile.xml",
+            "PhysicsTools/NanoAOD/test/test_catch2_NanoAODRNTupleFields.cc"
+        ],
+        "created_at": 1788281751,
+        "number": 51798,
+        "state": "open",
+        "updated_at": 1788281791
     }
 }
