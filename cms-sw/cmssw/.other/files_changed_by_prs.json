@@ -3024,13 +3024,17 @@
             "FWIO/RNTupleTempTests/test/unit_test_outputs/testGetBy2.log",
             "IOPool/Tests/test/unit_test_outputs/testGetBy1.log",
             "IOPool/Tests/test/unit_test_outputs/testGetBy2.log",
+            "PerfTools/AllocMonitor/test/unittest_output/acquireTransform_EDModules.log",
+            "PerfTools/AllocMonitor/test/unittest_output/acquireTransform_Transitions.log",
             "PerfTools/AllocMonitor/test/unittest_output/allEDModules.log",
-            "PerfTools/AllocMonitor/test/unittest_output/allTransitions.log"
+            "PerfTools/AllocMonitor/test/unittest_output/allTransitions.log",
+            "PerfTools/AllocMonitor/test/unittest_output/skipEvents_EDModules.log",
+            "PerfTools/AllocMonitor/test/unittest_output/skipEvents_Transitions.log"
         ],
         "created_at": 1787839543,
         "number": 51771,
         "state": "open",
-        "updated_at": 1788193625
+        "updated_at": 1788259310
     },
     "51773": {
         "base_branch": "CMSSW_17_0_X",
