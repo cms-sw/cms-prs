@@ -2866,6 +2866,7 @@
         "base_branch": "master",
         "changed_files_names": [
             "HeterogeneousCore/MPICore/interface/MPIChannel.h",
+            "HeterogeneousCore/MPICore/interface/MutableOnceFlag.h",
             "HeterogeneousCore/MPICore/interface/messages.h",
             "HeterogeneousCore/MPICore/plugins/MPIController.cc",
             "HeterogeneousCore/MPICore/plugins/MPIReceiver.cc",
@@ -2880,6 +2881,7 @@
             "HeterogeneousCore/MPICore/test/controller_multi_rr_cfg.py",
             "HeterogeneousCore/MPICore/test/controller_rr_cfg.py",
             "HeterogeneousCore/MPICore/test/controller_soa_cfg.py",
+            "HeterogeneousCore/MPICore/test/controller_soa_device_cfg.py",
             "HeterogeneousCore/MPICore/test/controller_too_many_streams_cfg.py",
             "HeterogeneousCore/MPICore/test/follower_cfg.py",
             "HeterogeneousCore/MPICore/test/follower_complex_cfg.py",
@@ -2887,6 +2889,7 @@
             "HeterogeneousCore/MPICore/test/follower_multi1_cfg.py",
             "HeterogeneousCore/MPICore/test/follower_multi2_cfg.py",
             "HeterogeneousCore/MPICore/test/follower_soa_cfg.py",
+            "HeterogeneousCore/MPICore/test/follower_soa_device_cfg.py",
             "HeterogeneousCore/MPICore/test/follower_too_many_streams_cfg.py",
             "HeterogeneousCore/MPIServices/BuildFile.xml",
             "HeterogeneousCore/MPIServices/README.md",
@@ -2900,7 +2903,7 @@
         "created_at": 1787837236,
         "number": 51770,
         "state": "open",
-        "updated_at": 1788189779
+        "updated_at": 1788274650
     },
     "51771": {
         "base_branch": "master",
