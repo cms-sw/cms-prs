@@ -3075,5 +3075,23 @@
         "number": 51798,
         "state": "open",
         "updated_at": 1788281791
+    },
+    "51799": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "GeneratorInterface/Sherpa3Interface/BuildFile.xml",
+            "GeneratorInterface/Sherpa3Interface/data/WZ_polarisation_nLO.yml",
+            "GeneratorInterface/Sherpa3Interface/data/mkSherpa3Gridpack.sh",
+            "GeneratorInterface/Sherpa3Interface/data/mkSherpa3cff.sh",
+            "GeneratorInterface/Sherpa3Interface/doc/html/index.html",
+            "GeneratorInterface/Sherpa3Interface/doc/html/overview.html",
+            "GeneratorInterface/Sherpa3Interface/interface/Sherpa3Utils.h",
+            "GeneratorInterface/Sherpa3Interface/src/Sherpa3Hadronizer.cc",
+            "GeneratorInterface/Sherpa3Interface/src/Sherpa3Utils.cc"
+        ],
+        "created_at": 1788295368,
+        "number": 51799,
+        "state": "open",
+        "updated_at": 1788295397
     }
 }
