@@ -3414,5 +3414,18 @@
         "number": 51811,
         "state": "open",
         "updated_at": 1788373297
+    },
+    "51812": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/MessageService/plugins/MessageLogger.cc",
+            "FWCore/MessageService/plugins/MessageServicePSetValidation.cc",
+            "FWCore/MessageService/src/ThreadSafeLogMessageLoggerScribe.cc",
+            "FWCore/ParameterSet/python/MessageLogger.py"
+        ],
+        "created_at": 1788375774,
+        "number": 51812,
+        "state": "open",
+        "updated_at": 1788375800
     }
 }
