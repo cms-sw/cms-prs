@@ -2842,10 +2842,13 @@
             "HeterogeneousCore/MPICore/interface/MPIChannel.h",
             "HeterogeneousCore/MPICore/interface/MutableOnceFlag.h",
             "HeterogeneousCore/MPICore/interface/messages.h",
+            "HeterogeneousCore/MPICore/plugins/BuildFile.xml",
             "HeterogeneousCore/MPICore/plugins/MPIController.cc",
             "HeterogeneousCore/MPICore/plugins/MPIReceiver.cc",
             "HeterogeneousCore/MPICore/plugins/MPISender.cc",
             "HeterogeneousCore/MPICore/plugins/MPISource.cc",
+            "HeterogeneousCore/MPICore/plugins/alpaka/MPIReceiverPortable.cc",
+            "HeterogeneousCore/MPICore/plugins/alpaka/MPISenderPortable.cc",
             "HeterogeneousCore/MPICore/python/configuration_splitter/editor_functions.py",
             "HeterogeneousCore/MPICore/src/MPIChannel.cc",
             "HeterogeneousCore/MPICore/test/BuildFile.xml",
@@ -2881,7 +2884,7 @@
         "created_at": 1787837236,
         "number": 51770,
         "state": "open",
-        "updated_at": 1788348554
+        "updated_at": 1788351153
     },
     "51771": {
         "base_branch": "master",
