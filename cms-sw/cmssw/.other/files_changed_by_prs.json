@@ -3113,5 +3113,17 @@
         "number": 51801,
         "state": "open",
         "updated_at": 1788327432
+    },
+    "51803": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "DPGAnalysis/Phase2L1TNanoAOD/python/l1tPh2Nano_cff.py",
+            "DPGAnalysis/Phase2L1TNanoAOD/python/l1tPh2Nanotables_cff.py"
+        ],
+        "created_at": 1788331716,
+        "number": 51803,
+        "state": "open",
+        "updated_at": 1788331742
     }
 }
