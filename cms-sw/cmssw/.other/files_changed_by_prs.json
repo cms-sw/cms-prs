@@ -3179,5 +3179,19 @@
         "number": 51805,
         "state": "open",
         "updated_at": 1788333390
+    },
+    "51807": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HeterogeneousCore/MPICore/interface/MPIChannel.h",
+            "HeterogeneousCore/MPICore/interface/messages.h",
+            "HeterogeneousCore/MPICore/plugins/MPIController.cc",
+            "HeterogeneousCore/MPICore/plugins/MPISource.cc",
+            "HeterogeneousCore/MPICore/src/MPIChannel.cc"
+        ],
+        "created_at": 1788349335,
+        "number": 51807,
+        "state": "open",
+        "updated_at": 1788349365
     }
 }
