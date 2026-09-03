@@ -3236,12 +3236,14 @@
             "FWCore/MessageService/plugins/MessageLogger.cc",
             "FWCore/MessageService/plugins/MessageServicePSetValidation.cc",
             "FWCore/MessageService/src/ThreadSafeLogMessageLoggerScribe.cc",
-            "FWCore/ParameterSet/python/MessageLogger.py"
+            "FWCore/ParameterSet/python/Config.py",
+            "FWCore/ParameterSet/python/MessageLogger.py",
+            "FWCore/ParameterSet/test/unit_test_outputs/dump.py"
         ],
         "created_at": 1788375774,
         "number": 51812,
         "state": "open",
-        "updated_at": 1788376035
+        "updated_at": 1788434907
     },
     "51813": {
         "base_branch": "CMSSW_17_0_X",
