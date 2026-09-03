@@ -2946,42 +2946,6 @@
         "state": "open",
         "updated_at": 1788295486
     },
-    "51800": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "Geometry/HGCalGeometry/data/D120NE0.txt",
-            "Geometry/CaloTopology/data/D120E.txt",
-            "Geometry/HGCalGeometry/data/D120NE1.txt",
-            "Geometry/CaloTopology/data/D120NE.txt",
-            "Geometry/HGCalGeometry/data/D120NH0.txt",
-            "Geometry/CaloTopology/data/D120H.txt",
-            "Geometry/HGCalGeometry/data/D120NH1.txt",
-            "Geometry/CaloTopology/data/D120NH.txt",
-            "Geometry/HGCalGeometry/interface/HGCalNeighbourFinder.h",
-            "Geometry/CaloTopology/interface/HGCalNeighbourFinder.h",
-            "Geometry/HGCalGeometry/src/HGCalNeighbourFinder.cc",
-            "Geometry/CaloTopology/src/HGCalNeighbourFinder.cc",
-            "Geometry/HGCalGeometry/test/BuildFile.xml",
-            "Geometry/HGCalGeometry/test/HGCalNeighbourCheck.cc",
-            "Geometry/CaloTopology/test/HGCalNeighbourCheck.cc",
-            "Geometry/HGCalGeometry/test/HGCalNeighbourTester.cc",
-            "Geometry/CaloTopology/test/HGCalNeighbourTester.cc",
-            "Geometry/HGCalGeometry/test/HGCalNeighbourVerify.cc",
-            "Geometry/CaloTopology/test/HGCalNeighbourVerify.cc",
-            "Geometry/HGCalGeometry/test/python/testHGCalNeighbourCheck_cfg.py",
-            "Geometry/CaloTopology/test/testHGCalNeighbourCheck_cfg.py",
-            "Geometry/HGCalGeometry/test/python/testHGCalNeighbourTester_cfg.py",
-            "Geometry/CaloTopology/test/testHGCalNeighbourTester_cfg.py",
-            "Geometry/HGCalGeometry/test/python/testHGCalNeighbourVerify_cfg.py",
-            "Geometry/CaloTopology/test/testHGCalNeighbourVerify_cfg.py",
-            "Geometry/HGCalGeometry/test/python/testHGCalNeighbour_cfg.py",
-            "Geometry/CaloTopology/test/testHGCalNeighbour_cfg.py"
-        ],
-        "created_at": 1788310973,
-        "number": 51800,
-        "state": "open",
-        "updated_at": 1788347856
-    },
     "51803": {
         "base_branch": "master",
         "changed_files_names": [
