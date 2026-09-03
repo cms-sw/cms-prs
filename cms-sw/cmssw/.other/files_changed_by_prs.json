@@ -3274,5 +3274,24 @@
         "number": 51815,
         "state": "open",
         "updated_at": 1788417745
+    },
+    "51816": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/ProcessModifiers/python/phase2_hlt_vertexTrimming_cff.py",
+            "Configuration/PyReleaseValidation/python/relval_Run4.py",
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "Configuration/PyReleaseValidation/scripts/runTheMatrix.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHighPtTripletStepHitDoublets_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHighPtTripletStepTrackingRegionFromTrimmedVertices_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepSeeds_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2TrimmedPixelVertices_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTHighPtTripletStepSeedingSequence_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPhase2PixelTracksAndVerticesSequence_cfi.py"
+        ],
+        "created_at": 1788419680,
+        "number": 51816,
+        "state": "open",
+        "updated_at": 1788419706
     }
 }
