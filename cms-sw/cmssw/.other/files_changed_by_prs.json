@@ -3369,5 +3369,16 @@
         "number": 51823,
         "state": "open",
         "updated_at": 1788442047
+    },
+    "51824": {
+        "base_branch": "CMSSW_16_0_X",
+        "changed_files_names": [
+            "RecoLocalTracker/SiPixelClusterizer/plugins/SiPixelDigisClustersFromSoAAlpaka.cc",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/ClusterChargeCut.h"
+        ],
+        "created_at": 1788442014,
+        "number": 51824,
+        "state": "open",
+        "updated_at": 1788442050
     }
 }
