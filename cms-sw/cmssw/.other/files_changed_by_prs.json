@@ -3307,5 +3307,25 @@
         "number": 51818,
         "state": "open",
         "updated_at": 1788421849
+    },
+    "51819": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "PhysicsTools/PyTorchAlpaka/BuildFile.xml",
+            "PhysicsTools/PyTorchAlpaka/README.md",
+            "PhysicsTools/PyTorchAlpaka/interface/GetDevice.h",
+            "PhysicsTools/PyTorchAlpaka/interface/Policy.h",
+            "PhysicsTools/PyTorchAlpaka/interface/QueueGuard.h",
+            "PhysicsTools/PyTorchAlpaka/interface/alpaka/AlpakaModel.h",
+            "PhysicsTools/PyTorchAlpaka/test/BuildFile.xml",
+            "PhysicsTools/PyTorchAlpaka/test/alpaka/testSoADataTypes.dev.cc",
+            "PhysicsTools/PyTorchAlpakaTest/plugins/BuildFile.xml",
+            "PhysicsTools/PyTorchAlpakaTest/test/runPyTorchAlpakaTest.py",
+            "RecoTracker/FinalTrackSelectors/plugins/BuildFile.xml"
+        ],
+        "created_at": 1788423546,
+        "number": 51819,
+        "state": "open",
+        "updated_at": 1788423571
     }
 }
