@@ -3271,5 +3271,18 @@
         "number": 51813,
         "state": "open",
         "updated_at": 1788413357
+    },
+    "51815": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/HGCalDigi/interface/HGCalFEDPacketInfoSoA.h",
+            "EventFilter/HGCalRawToDigi/plugins/BuildFile.xml",
+            "Geometry/HGCalMapping/plugins/alpaka/HGCalDenseIndexInfoESProducer.cc",
+            "RecoLocalCalo/HGCalRecAlgos/plugins/alpaka/HGCalRecHitCalibrationAlgorithms.dev.cc"
+        ],
+        "created_at": 1788417717,
+        "number": 51815,
+        "state": "open",
+        "updated_at": 1788417745
     }
 }
