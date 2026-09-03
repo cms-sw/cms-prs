@@ -2376,23 +2376,6 @@
         "state": "open",
         "updated_at": 1786756922
     },
-    "51604": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "FastSimulation/Configuration/python/Reconstruction_BefMix_cff.py",
-            "FastSimulation/SimplifiedGeometryPropagator/python/TrackerMaterial_cfi.py",
-            "FastSimulation/Tracking/python/FastTrackerRecHitCombiner_cfi.py",
-            "FastSimulation/Tracking/python/TrackCandidateProducer_cfi.py",
-            "FastSimulation/Tracking/python/TrajectorySeedProducer_cfi.py",
-            "FastSimulation/Tracking/python/iterativeTk_cff.py",
-            "FastSimulation/TrackingRecHitProducer/python/TrackingRecHitProducer_cfi.py",
-            "RecoTracker/IterativeTracking/python/InitialStep_cff.py"
-        ],
-        "created_at": 1785467368,
-        "number": 51604,
-        "state": "open",
-        "updated_at": 1788350254
-    },
     "51628": {
         "base_branch": "CMSSW_14_0_X",
         "changed_files_names": [
