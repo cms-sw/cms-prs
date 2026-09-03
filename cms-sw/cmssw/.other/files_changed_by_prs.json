@@ -3414,5 +3414,20 @@
         "number": 51827,
         "state": "open",
         "updated_at": 1788443249
+    },
+    "51828": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HeterogeneousCore/MPICore/plugins/alpaka/MPIReceiverPortable.cc",
+            "HeterogeneousCore/MPICore/plugins/alpaka/MPISenderPortable.cc",
+            "HeterogeneousCore/MPICore/test/controller_soa_device_cfg.py",
+            "HeterogeneousCore/MPICore/test/follower_soa_device_cfg.py",
+            "HeterogeneousCore/TrivialSerialisation/plugins/alpaka/GenericClonerPortable.cc",
+            "HeterogeneousCore/TrivialSerialisation/test/testGenericClonerPortable_cfg.py"
+        ],
+        "created_at": 1788454453,
+        "number": 51828,
+        "state": "open",
+        "updated_at": 1788454483
     }
 }
