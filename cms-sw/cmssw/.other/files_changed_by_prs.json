@@ -1432,6 +1432,7 @@
             "DataFormats/EgammaReco/src/classes_def.xml",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaElectronPixelSeedsL1Seeded_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaElectronPixelSeedsPortable_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/paths/DST_HeterogeneousReco_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTElePixelMatchL1SeededSequence_cfi.py",
             "RecoEgamma/EgammaElectronAlgos/BuildFile.xml",
             "RecoEgamma/EgammaElectronAlgos/interface/EleRelPointPairPortable.h",
@@ -1451,7 +1452,7 @@
         "created_at": 1781176424,
         "number": 51200,
         "state": "open",
-        "updated_at": 1787745942
+        "updated_at": 1788768051
     },
     "51205": {
         "base_branch": "master",
