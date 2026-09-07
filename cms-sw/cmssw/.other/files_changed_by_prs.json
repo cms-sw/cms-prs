@@ -1436,9 +1436,9 @@
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTElePixelMatchL1SeededSequence_cfi.py",
             "RecoEgamma/EgammaElectronAlgos/BuildFile.xml",
             "RecoEgamma/EgammaElectronAlgos/interface/EleRelPointPairPortable.h",
+            "RecoEgamma/EgammaElectronAlgos/interface/FreeTrajectoryState.h",
             "RecoEgamma/EgammaElectronAlgos/interface/Phys3DVector.h",
             "RecoEgamma/EgammaElectronAlgos/interface/Plane.h",
-            "RecoEgamma/EgammaElectronAlgos/interface/ftsFromVertexToPointPortable.h",
             "RecoEgamma/EgammaElectronAlgos/interface/helixArbitraryPlaneCrossing.h",
             "RecoEgamma/EgammaElectronAlgos/interface/helixArbitraryPlaneCrossing2Order.h",
             "RecoEgamma/EgammaElectronAlgos/interface/helixBarrelPlaneCrossingByCircle.h",
@@ -1452,7 +1452,7 @@
         "created_at": 1781176424,
         "number": 51200,
         "state": "open",
-        "updated_at": 1788768051
+        "updated_at": 1788782071
     },
     "51205": {
         "base_branch": "master",
