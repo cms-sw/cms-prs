@@ -3471,5 +3471,18 @@
         "number": 51840,
         "state": "open",
         "updated_at": 1788830713
+    },
+    "51841": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DPGAnalysis/HGCalNanoAOD/plugins/TrackMuonInfoProducer.cc",
+            "DPGAnalysis/HGCalNanoAOD/plugins/TrackMuonTableProducer.cc",
+            "DPGAnalysis/HGCalNanoAOD/python/hgcalGeneralTracks_cfi.py",
+            "RecoHGCal/TICL/plugins/TICLCandidateProducer.cc"
+        ],
+        "created_at": 1788879792,
+        "number": 51841,
+        "state": "open",
+        "updated_at": 1788879820
     }
 }
