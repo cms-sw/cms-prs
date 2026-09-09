@@ -3472,5 +3472,21 @@
         "number": 51841,
         "state": "open",
         "updated_at": 1788879820
+    },
+    "51842": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "IOMC/Input/BuildFile.xml",
+            "IOMC/Input/interface/HepMC3FileReader.h",
+            "IOMC/Input/interface/MCFileSource3.h",
+            "IOMC/Input/src/HepMC3FileReader.cc",
+            "IOMC/Input/src/MCFileSource3.cc",
+            "IOMC/Input/src/SealModule.cc",
+            "IOMC/Input/test/testReader3_cfg.py"
+        ],
+        "created_at": 1788916151,
+        "number": 51842,
+        "state": "open",
+        "updated_at": 1788916181
     }
 }
