@@ -2962,37 +2962,6 @@
         "state": "open",
         "updated_at": 1788352940
     },
-    "51809": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "FWCore/Framework/interface/GlobalSchedule.h",
-            "FWCore/Framework/interface/OccurrenceTraits.h",
-            "FWCore/Framework/interface/Schedule.h",
-            "FWCore/Framework/interface/StreamSchedule.h",
-            "FWCore/Framework/interface/TransitionInfoTypes.h",
-            "FWCore/Framework/interface/TransitionPhaseTypes.h",
-            "FWCore/Framework/interface/WorkerManager.h",
-            "FWCore/Framework/interface/WorkerRegistry.h",
-            "FWCore/Framework/interface/maker/ModuleAttributes.h",
-            "FWCore/Framework/interface/maker/ModuleHolder.h",
-            "FWCore/Framework/interface/maker/Worker.h",
-            "FWCore/Framework/src/EventProcessor.cc",
-            "FWCore/Framework/src/GlobalSchedule.cc",
-            "FWCore/Framework/src/Schedule.cc",
-            "FWCore/Framework/src/StreamSchedule.cc",
-            "FWCore/Framework/src/WorkerManager.cc",
-            "FWCore/Framework/src/WorkerRegistry.cc",
-            "FWCore/Framework/src/WorkerT.cc",
-            "FWCore/Framework/test/edproducer_productregistry_callback.cc",
-            "FWCore/Framework/test/maker2_t.catch2.cc",
-            "Mixing/Base/src/SecondaryEventProvider.cc",
-            "Mixing/Base/src/SecondaryEventProvider.h"
-        ],
-        "created_at": 1788366388,
-        "number": 51809,
-        "state": "open",
-        "updated_at": 1788868817
-    },
     "51810": {
         "base_branch": "master",
         "changed_files_names": [
