@@ -3361,5 +3361,22 @@
         "number": 51853,
         "state": "open",
         "updated_at": 1789035364
+    },
+    "51854": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondCore/HcalPlugins/interface/HcalObjRepresent.h",
+            "CondCore/HcalPlugins/plugins/HcalChannelQuality_PayloadInspector.cc",
+            "CondCore/HcalPlugins/plugins/HcalGains_PayloadInspector.cc",
+            "CondCore/HcalPlugins/plugins/HcalPedestalWidths_PayloadInspector.cc",
+            "CondCore/HcalPlugins/plugins/HcalPedestals_PayloadInspector.cc",
+            "CondCore/HcalPlugins/plugins/HcalRespCorrs_PayloadInspector.cc",
+            "CondCore/HcalPlugins/test/BuildFile.xml",
+            "CondCore/HcalPlugins/test/testHcalPayloadInspector.cpp"
+        ],
+        "created_at": 1789040567,
+        "number": 51854,
+        "state": "open",
+        "updated_at": 1789040614
     }
 }
