@@ -3578,5 +3578,26 @@
         "number": 51865,
         "state": "open",
         "updated_at": 1789144670
+    },
+    "51866": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoTracker/LSTCore/interface/Common.h",
+            "RecoTracker/LSTCore/interface/TripletsSoA.h",
+            "RecoTracker/LSTCore/interface/alpaka/Common.h",
+            "RecoTracker/LSTCore/src/alpaka/Kernels.h",
+            "RecoTracker/LSTCore/src/alpaka/LSTEvent.dev.cc",
+            "RecoTracker/LSTCore/src/alpaka/NeuralNetwork.h",
+            "RecoTracker/LSTCore/src/alpaka/PixelTriplet.h",
+            "RecoTracker/LSTCore/src/alpaka/Quadruplet.h",
+            "RecoTracker/LSTCore/src/alpaka/Quintuplet.h",
+            "RecoTracker/LSTCore/src/alpaka/Segment.h",
+            "RecoTracker/LSTCore/src/alpaka/TrackCandidate.h",
+            "RecoTracker/LSTCore/src/alpaka/Triplet.h"
+        ],
+        "created_at": 1789147794,
+        "number": 51866,
+        "state": "open",
+        "updated_at": 1789147827
     }
 }
