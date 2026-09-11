@@ -3562,12 +3562,14 @@
             "PerfTools/VtuneFilter/interface/VtuneFilterService.h",
             "PerfTools/VtuneFilter/src/VtuneAnnontateService.cc",
             "PerfTools/VtuneFilter/src/VtuneFilterService.cc",
-            "PerfTools/VtuneFilter/test/test-config.py"
+            "PerfTools/VtuneFilter/test/test-config.py",
+            "PhysicsTools/TensorFlow/BuildFile.xml",
+            "PhysicsTools/TensorFlow/src/TensorFlow.cc"
         ],
         "created_at": 1789132955,
         "number": 51864,
         "state": "open",
-        "updated_at": 1789132980
+        "updated_at": 1789149214
     },
     "51865": {
         "base_branch": "master",
