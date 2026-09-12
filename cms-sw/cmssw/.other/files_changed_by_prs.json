@@ -3525,5 +3525,18 @@
         "number": 51868,
         "state": "open",
         "updated_at": 1789171293
+    },
+    "51869": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Validation/HGCalValidation/test/test_makeHGCalValidationPlots.sh",
+            "Validation/RecoTrack/python/plotting/html.py",
+            "Validation/RecoTrack/python/plotting/trackingPlots.py",
+            "Validation/RecoTrack/scripts/makeTrackValidationPlots.py"
+        ],
+        "created_at": 1789210098,
+        "number": 51869,
+        "state": "open",
+        "updated_at": 1789210139
     }
 }
