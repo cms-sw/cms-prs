@@ -3510,12 +3510,13 @@
         "base_branch": "CMSSW_16_0_X",
         "changed_files_names": [
             "DQMOffline/HLTScouting/python/HLTScoutingDqmOffline_cff.py",
-            "HLTriggerOffline/Scouting/python/RecoTrackFromScoutingMonitor_cff.py"
+            "HLTriggerOffline/Scouting/python/RecoTrackFromScoutingMonitor_cff.py",
+            "HLTriggerOffline/Scouting/python/RecoTrackFromScoutingMonitor_cfi.py"
         ],
         "created_at": 1789374818,
         "number": 51880,
         "state": "open",
-        "updated_at": 1789374840
+        "updated_at": 1789397548
     },
     "51881": {
         "base_branch": "master",
