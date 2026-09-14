@@ -3458,5 +3458,22 @@
         "number": 51885,
         "state": "open",
         "updated_at": 1789394957
+    },
+    "51886": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/MessageService/plugins/MessageLogger.cc",
+            "FWCore/ServiceRegistry/interface/ActivityRegistry.h",
+            "FWCore/ServiceRegistry/interface/GlobalContext.h",
+            "FWCore/ServiceRegistry/src/ActivityRegistry.cc",
+            "FWCore/ServiceRegistry/src/GlobalContext.cc",
+            "FWCore/Services/plugins/StallMonitor.cc",
+            "FWCore/Services/plugins/tracer_setupFile.cc",
+            "PerfTools/AllocMonitor/plugins/moduleAlloc_setupFile.cc"
+        ],
+        "created_at": 1789412383,
+        "number": 51886,
+        "state": "open",
+        "updated_at": 1789412408
     }
 }
