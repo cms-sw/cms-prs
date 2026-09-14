@@ -2963,9 +2963,12 @@
             "PhysicsTools/TruthInfo/plugins/BranchRecoValidator.cc",
             "PhysicsTools/TruthInfo/plugins/BuildFile.xml",
             "PhysicsTools/TruthInfo/plugins/LogicalGraphHitIndexProducer.cc",
+            "PhysicsTools/TruthInfo/plugins/TruthGraphAccumulator.cc",
             "PhysicsTools/TruthInfo/plugins/TruthGraphProducer.cc",
             "PhysicsTools/TruthInfo/plugins/TruthLogicalGraphDumper.cc",
+            "PhysicsTools/TruthInfo/plugins/TruthLogicalGraphProducer.cc",
             "PhysicsTools/TruthInfo/python/mixedTruthGraphCustomize.py",
+            "PhysicsTools/TruthInfo/python/truthGraphMixedDigi_cff.py",
             "PhysicsTools/TruthInfo/src/Branch.cc",
             "PhysicsTools/TruthInfo/src/BranchHitAssociator.cc",
             "PhysicsTools/TruthInfo/src/BranchSelector.cc",
@@ -3015,6 +3018,8 @@
             "PhysicsTools/TruthInfo/scripts/makeTruthGraphValidationPlots.py",
             "Validation/TruthInfo/scripts/makeTruthValidationPlots.py",
             "Validation/TruthInfo/src/TruthBranchHistoProducerAlgo.cc",
+            "Validation/TruthInfo/test/BuildFile.xml",
+            "Validation/TruthInfo/test/TrackAssociationComparison.cc",
             "Validation/TruthInfo/test/harvestBranchDQM_cfg.py",
             "PhysicsTools/TruthInfo/test/harvestBranchDQM_cfg.py",
             "Validation/TruthInfo/test/makeBranchValidationPlots.sh",
@@ -3033,7 +3038,7 @@
         "created_at": 1788518022,
         "number": 51829,
         "state": "open",
-        "updated_at": 1789376530
+        "updated_at": 1789404219
     },
     "51831": {
         "base_branch": "master",
