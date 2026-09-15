@@ -2939,7 +2939,9 @@
             "PhysicsTools/TruthInfo/interface/Branch.h",
             "PhysicsTools/TruthInfo/interface/BranchHitAssociator.h",
             "PhysicsTools/TruthInfo/interface/BranchSelector.h",
+            "PhysicsTools/TruthInfo/interface/LogicalGraphHitIndexBuilder.h",
             "PhysicsTools/TruthInfo/interface/RecoHitAdapters.h",
+            "PhysicsTools/TruthInfo/interface/TrackerCells.h",
             "PhysicsTools/TruthInfo/interface/TruthLevels.h",
             "PhysicsTools/TruthInfo/plugins/BranchRecoValidator.cc",
             "PhysicsTools/TruthInfo/plugins/BuildFile.xml",
@@ -2953,6 +2955,7 @@
             "PhysicsTools/TruthInfo/src/Branch.cc",
             "PhysicsTools/TruthInfo/src/BranchHitAssociator.cc",
             "PhysicsTools/TruthInfo/src/BranchSelector.cc",
+            "PhysicsTools/TruthInfo/src/LogicalGraphHitIndexBuilder.cc",
             "PhysicsTools/TruthInfo/test/AssignableTarget_t.cpp",
             "PhysicsTools/TruthInfo/test/BranchHitAssociator_t.cpp",
             "PhysicsTools/TruthInfo/test/BranchSelector_t.cpp",
@@ -3021,7 +3024,7 @@
         "created_at": 1788518022,
         "number": 51829,
         "state": "open",
-        "updated_at": 1789412861
+        "updated_at": 1789444134
     },
     "51832": {
         "base_branch": "master",
