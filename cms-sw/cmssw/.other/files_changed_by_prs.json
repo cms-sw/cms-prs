@@ -2306,6 +2306,8 @@
             "DataFormats/CaloRecHit/src/alpaka/classes_rocm_def.xml",
             "DataFormats/CaloRecHit/src/classes.h",
             "DataFormats/CaloRecHit/src/classes_def.xml",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHGCalRecHitL1Seeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHGCalRecHit_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltHgCalLayerClustersFromSoAProducerHSciL1Seeded_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltHgCalLayerClustersFromSoAProducerHSci_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltHgCalLayerClustersFromSoAProducerHSiL1Seeded_cfi.py",
@@ -2335,6 +2337,7 @@
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltHgcalSoARecHitsProducerL1Seeded_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltMergeLayerClustersL1Seeded_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltMergeLayerClusters_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/psets/hgcal_reco_constants_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTHgcalLayerClustersL1SeededSequence_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTHgcalLayerClustersSequence_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTHgcalTiclPFClusteringForEgammaL1SeededSequence_cfi.py",
@@ -2351,6 +2354,7 @@
             "RecoLocalCalo/HGCalRecProducers/plugins/HGCalImagingAlgo.cc",
             "RecoLocalCalo/HGCalRecProducers/plugins/HGCalLayerClusterProducer.cc",
             "RecoLocalCalo/HGCalRecProducers/plugins/HGCalLayerClustersFromSoAProducer.cc",
+            "RecoLocalCalo/HGCalRecProducers/plugins/HGCalRecHitWorkerSimple.cc",
             "RecoLocalCalo/HGCalRecProducers/plugins/SealModules.cc",
             "RecoLocalCalo/HGCalRecProducers/plugins/alpaka/ConstantsForClusters.h",
             "RecoLocalCalo/HGCalRecProducers/plugins/alpaka/HGCalCLUEsteringAlgoWrapper.dev.cc",
@@ -2368,7 +2372,7 @@
         "created_at": 1785309171,
         "number": 51587,
         "state": "open",
-        "updated_at": 1788863830
+        "updated_at": 1789461950
     },
     "51600": {
         "base_branch": "master",
