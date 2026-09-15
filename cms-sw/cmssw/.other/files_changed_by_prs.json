@@ -2763,12 +2763,15 @@
             "HeterogeneousCore/MPICore/interface/messages.h",
             "HeterogeneousCore/MPICore/plugins/MPIController.cc",
             "HeterogeneousCore/MPICore/plugins/MPISource.cc",
-            "HeterogeneousCore/MPICore/src/MPIChannel.cc"
+            "HeterogeneousCore/MPICore/src/MPIChannel.cc",
+            "HeterogeneousCore/MPICore/test/BuildFile.xml",
+            "HeterogeneousCore/MPICore/test/controller_concurrent_run_lumi_cfg.py",
+            "HeterogeneousCore/MPICore/test/follower_concurrent_run_lumi_cfg.py"
         ],
         "created_at": 1788349335,
         "number": 51807,
         "state": "open",
-        "updated_at": 1788350204
+        "updated_at": 1789475867
     },
     "51808": {
         "base_branch": "master",
