@@ -3502,5 +3502,20 @@
         "number": 51888,
         "state": "open",
         "updated_at": 1789417022
+    },
+    "51892": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Services/plugins/BuildFile.xml",
+            "FWCore/Services/plugins/DumpDependencyGraph.cc",
+            "FWCore/Services/test/BuildFile.xml",
+            "FWCore/Services/test/test_dumpDependencyGraph.sh",
+            "FWCore/Services/test/test_dumpDependencyGraph_cfg.py",
+            "FWCore/Services/test/test_dumpDependencyGraph_check.py"
+        ],
+        "created_at": 1789465231,
+        "number": 51892,
+        "state": "open",
+        "updated_at": 1789465261
     }
 }
