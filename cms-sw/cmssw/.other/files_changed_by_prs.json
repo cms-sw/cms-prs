@@ -3159,12 +3159,15 @@
             "PerfTools/VtuneFilter/plugins/VtuneFilterService.cc",
             "PerfTools/VtuneFilter/python/VtuneAnnotateService.py",
             "PerfTools/VtuneFilter/python/VtuneFilterService.py",
-            "PerfTools/VtuneFilter/test/test-config.py"
+            "PerfTools/VtuneFilter/src/VtuneAnnotateService.cc",
+            "PerfTools/VtuneFilter/src/VtuneFilterService.cc",
+            "PerfTools/VtuneFilter/test/BuildFile.xml",
+            "PerfTools/VtuneFilter/test/testVtuneServices.cc"
         ],
         "created_at": 1789132955,
         "number": 51864,
         "state": "open",
-        "updated_at": 1789498718
+        "updated_at": 1789501550
     },
     "51866": {
         "base_branch": "master",
