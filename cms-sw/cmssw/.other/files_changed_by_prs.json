@@ -2982,7 +2982,10 @@
             "PhysicsTools/TruthInfo/test/validateBranchRecoDQM_cfg.py",
             "PhysicsTools/TruthInfo/test/validateBranchReplacement_cfg.py",
             "SimCalorimetry/HGCalAssociatorProducers/plugins/DetIdToRecHitMapProducer.cc",
+            "SimDataFormats/TruthInfo/BuildFile.xml",
             "SimDataFormats/TruthInfo/interface/LogicalGraphHitIndex.h",
+            "SimDataFormats/TruthInfo/interface/Particle.h",
+            "SimDataFormats/TruthInfo/src/Graph.cc",
             "SimGeneral/TruthGraphAssociatorProducers/BuildFile.xml",
             "SimGeneral/TruthGraphAssociatorProducers/README.md",
             "SimGeneral/TruthGraphAssociatorProducers/plugins/AllRecoToTruthBranchAssociatorsProducer.cc",
@@ -3023,7 +3026,7 @@
         "created_at": 1788518022,
         "number": 51829,
         "state": "open",
-        "updated_at": 1789461029
+        "updated_at": 1789476204
     },
     "51832": {
         "base_branch": "master",
