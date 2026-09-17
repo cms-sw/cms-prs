@@ -3244,5 +3244,37 @@
         "number": 51907,
         "state": "open",
         "updated_at": 1789649465
+    },
+    "51908": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Framework/interface/GlobalSchedule.h",
+            "FWCore/Framework/interface/OccurrenceTraits.h",
+            "FWCore/Framework/interface/StreamSchedule.h",
+            "FWCore/Framework/interface/UnscheduledCallProducer.h",
+            "FWCore/Framework/interface/WorkerInPath.h",
+            "FWCore/Framework/interface/WorkerManager.h",
+            "FWCore/Framework/interface/WorkerManager_global.h",
+            "FWCore/Framework/interface/WorkerManager_stream.h",
+            "FWCore/Framework/interface/maker/Worker.h",
+            "FWCore/Framework/src/Path.cc",
+            "FWCore/Framework/src/ProductResolvers.cc",
+            "FWCore/Framework/src/StreamSchedule.cc",
+            "FWCore/Framework/src/WorkerManager.cc",
+            "FWCore/Framework/src/WorkerRegistry.cc",
+            "FWCore/Framework/test/global_filter_catch2.cc",
+            "FWCore/Framework/test/global_outputmodule_catch2.cc",
+            "FWCore/Framework/test/global_producer_catch2.cc",
+            "FWCore/Framework/test/limited_filter_catch2.cc",
+            "FWCore/Framework/test/limited_outputmodule_catch2.cc",
+            "FWCore/Framework/test/limited_producer_catch2.cc",
+            "FWCore/Framework/test/one_outputmodule_catch2.cc",
+            "FWCore/Framework/test/stream_filter_catch2.cc",
+            "FWCore/Framework/test/stream_producer_catch2.cc"
+        ],
+        "created_at": 1789651479,
+        "number": 51908,
+        "state": "open",
+        "updated_at": 1789651511
     }
 }
