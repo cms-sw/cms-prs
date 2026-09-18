@@ -3260,5 +3260,32 @@
         "number": 51910,
         "state": "open",
         "updated_at": 1789713348
+    },
+    "51911": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoTracker/PixelSeeding/plugins/alpaka/BrokenLineFit.h",
+            "RecoTracker/PixelSeeding/plugins/alpaka/BrokenLineFit.dev.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/BrokenLineFit_HIonPhase1.dev.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/BrokenLineFit_Phase1.dev.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/BrokenLineFit_Phase2.dev.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/BrokenLineFit_Phase2OT.dev.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernels.dev.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernelsImpl.h",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernels_HIonPhase1.dev.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernels_Phase1.dev.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernels_Phase2.dev.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernels_Phase2OT.dev.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/RiemannFit.h",
+            "RecoTracker/PixelSeeding/plugins/alpaka/RiemannFit.dev.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/RiemannFit_HIonPhase1.dev.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/RiemannFit_Phase1.dev.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/RiemannFit_Phase2.dev.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/RiemannFit_Phase2OT.dev.cc"
+        ],
+        "created_at": 1789715729,
+        "number": 51911,
+        "state": "open",
+        "updated_at": 1789715762
     }
 }
