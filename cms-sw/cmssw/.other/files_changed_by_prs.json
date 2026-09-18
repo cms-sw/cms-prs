@@ -2692,6 +2692,7 @@
             "PhysicsTools/TruthInfo/plugins/TruthGraphTopologyChecker.cc",
             "PhysicsTools/TruthInfo/plugins/TruthLogicalGraphDumper.cc",
             "PhysicsTools/TruthInfo/plugins/TruthLogicalGraphProducer.cc",
+            "PhysicsTools/TruthInfo/python/customiseTruthPreset.py",
             "PhysicsTools/TruthInfo/python/graphTools.py",
             "PhysicsTools/TruthInfo/python/mixedTruthGraphCustomize.py",
             "PhysicsTools/TruthInfo/python/truthGraphMixedDigi_cff.py",
@@ -2715,6 +2716,7 @@
             "PhysicsTools/TruthInfo/test/README_tools.md",
             "PhysicsTools/TruthInfo/test/TruthGraphPresetExamples.cc",
             "PhysicsTools/TruthInfo/test/TruthLogicalGraphPostProcessor_t.cpp",
+            "PhysicsTools/TruthInfo/test/customiseTruthPreset_t.py",
             "PhysicsTools/TruthInfo/test/dumpTruthGraphsFromGENSIMRECO_cfg.py",
             "PhysicsTools/TruthInfo/test/graphTools_t.py",
             "PhysicsTools/TruthInfo/test/presetExamples.py",
@@ -2774,7 +2776,7 @@
         "created_at": 1788518022,
         "number": 51829,
         "state": "open",
-        "updated_at": 1789670402
+        "updated_at": 1789704690
     },
     "51832": {
         "base_branch": "master",
