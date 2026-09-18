@@ -3177,12 +3177,14 @@
             "FWCore/Framework/test/limited_producer_catch2.cc",
             "FWCore/Framework/test/one_outputmodule_catch2.cc",
             "FWCore/Framework/test/stream_filter_catch2.cc",
-            "FWCore/Framework/test/stream_producer_catch2.cc"
+            "FWCore/Framework/test/stream_producer_catch2.cc",
+            "Mixing/Base/src/SecondaryEventProvider.cc",
+            "Mixing/Base/src/SecondaryEventProvider.h"
         ],
         "created_at": 1789651479,
         "number": 51908,
         "state": "open",
-        "updated_at": 1789651511
+        "updated_at": 1789737826
     },
     "51910": {
         "base_branch": "master",
