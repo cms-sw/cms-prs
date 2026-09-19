@@ -3216,6 +3216,7 @@
             "Configuration/ProcessModifiers/python/phase2CAStubs_cff.py",
             "Configuration/ProcessModifiers/python/phase2CATrueStubs_cff.py",
             "Configuration/PyReleaseValidation/README.md",
+            "Configuration/PyReleaseValidation/python/relval_Run4.py",
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
             "Configuration/PyReleaseValidation/scripts/README.md",
             "Configuration/PyReleaseValidation/scripts/runTheMatrix.py",
@@ -3233,7 +3234,6 @@
             "DataFormats/TrackingRecHitSoA/interface/StubsSoA.h",
             "DataFormats/TrackingRecHitSoA/interface/alpaka/OTRecHitsSoACollection.h",
             "DataFormats/TrackingRecHitSoA/interface/alpaka/StubsSoACollection.h",
-            "DataFormats/TrackingRecHitSoA/interface/alpaka/TrackingRecHitsSoACollection.h",
             "DataFormats/TrackingRecHitSoA/src/alpaka/classes_cuda.h",
             "DataFormats/TrackingRecHitSoA/src/alpaka/classes_cuda_def.xml",
             "DataFormats/TrackingRecHitSoA/src/alpaka/classes_rocm.h",
@@ -3285,7 +3285,10 @@
             "RecoLocalTracker/SiPixelRecHits/src/alpaka/ES_PixelCPEFastParams.cc",
             "RecoTracker/FinalTrackSelectors/interface/PixelTrackFeaturesSoA.h",
             "RecoTracker/FinalTrackSelectors/plugins/BuildFile.xml",
+            "RecoTracker/FinalTrackSelectors/plugins/alpaka/PixelTrackFeaturesDeviceCollection.h",
             "RecoTracker/FinalTrackSelectors/plugins/alpaka/PixelTrackForestHighPuritySelector.cc",
+            "RecoTracker/FinalTrackSelectors/plugins/alpaka/PixelTrackForestHighPuritySelectorKernels.dev.cc",
+            "RecoTracker/FinalTrackSelectors/plugins/alpaka/PixelTrackForestHighPuritySelectorKernels.h",
             "RecoTracker/FinalTrackSelectors/plugins/alpaka/PixelTrackTorchHighPuritySelector.cc",
             "RecoTracker/FinalTrackSelectors/plugins/alpaka/PixelTrackTorchHighPuritySelectorKernels.dev.cc",
             "RecoTracker/FinalTrackSelectors/plugins/alpaka/PixelTrackTorchHighPuritySelectorKernels.h",
@@ -3460,7 +3463,7 @@
         "created_at": 1789749970,
         "number": 51915,
         "state": "open",
-        "updated_at": 1789809215
+        "updated_at": 1789843653
     },
     "51916": {
         "base_branch": "master",
