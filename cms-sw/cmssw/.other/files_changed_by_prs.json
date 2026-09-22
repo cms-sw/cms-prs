@@ -3043,6 +3043,7 @@
             "HLTrigger/Configuration/python/HLT_75e33/eventsetup/hltESPBLMaterialMap_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/eventsetup/hltESPPixelCPEFastParamsPhase2OTStubs_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/eventsetup/hltESPPixelCPEFastParams_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/eventsetup/hltESPStackedModuleGeometry_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepSeeds_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltOTStubProducer_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2PixelTrackTorchHighPuritySelector_cfi.py",
@@ -3263,7 +3264,7 @@
         "created_at": 1789749970,
         "number": 51915,
         "state": "open",
-        "updated_at": 1790012597
+        "updated_at": 1790106718
     },
     "51916": {
         "base_branch": "master",
