@@ -3961,5 +3961,19 @@
         "number": 51948,
         "state": "open",
         "updated_at": 1790153950
+    },
+    "51949": {
+        "base_branch": "CMSSW_16_1_X",
+        "changed_files_names": [
+            "PhysicsTools/NanoAOD/plugins/ProcessRefinedJets.cc",
+            "PhysicsTools/NanoAOD/python/jetsAK4_Puppi_cff.py",
+            "PhysicsTools/NanoAOD/test/BuildFile.xml",
+            "PhysicsTools/NanoAOD/test/test_catch2_ProcessRefinedJets.cc",
+            "PhysicsTools/NanoAOD/test/test_fastsim_refiner_eras.py"
+        ],
+        "created_at": 1790153940,
+        "number": 51949,
+        "state": "open",
+        "updated_at": 1790153964
     }
 }
