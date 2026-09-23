@@ -4004,5 +4004,21 @@
         "number": 51953,
         "state": "open",
         "updated_at": 1790166367
+    },
+    "51954": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/SoATemplate/interface/SoABlocks.h",
+            "DataFormats/SoATemplate/interface/SoACommon.h",
+            "DataFormats/SoATemplate/interface/SoALayout.h",
+            "DataFormats/SoATemplate/test/SoACustomizedMethods_t.cc",
+            "DataFormats/SoATemplate/test/SoACustomizedMethods_t.cu",
+            "DataFormats/SoATemplate/test/SoACustomizedMethods_t.hip.cc",
+            "DataFormats/SoATemplate/test/SoADefinition_CustomizedMethods.h"
+        ],
+        "created_at": 1790168992,
+        "number": 51954,
+        "state": "open",
+        "updated_at": 1790169016
     }
 }
