@@ -3989,5 +3989,20 @@
         "number": 51950,
         "state": "open",
         "updated_at": 1790153986
+    },
+    "51953": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h",
+            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc",
+            "Geometry/HGCalGeometry/src/HGCalNeighbourFinder.cc",
+            "Geometry/HGCalGeometry/test/HGCalNeighbourCheck.cc",
+            "Geometry/HGCalGeometry/test/HGCalNeighbourTester.cc",
+            "Geometry/HGCalGeometry/test/HGCalNeighbourVerify.cc"
+        ],
+        "created_at": 1790166341,
+        "number": 51953,
+        "state": "open",
+        "updated_at": 1790166367
     }
 }
