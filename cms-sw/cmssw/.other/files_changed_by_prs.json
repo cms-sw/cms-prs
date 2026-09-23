@@ -1309,7 +1309,6 @@
             "DataFormats/TrackingRecHitSoA/interface/TrackingRecHitsMaskingHost.h",
             "DataFormats/TrackingRecHitSoA/interface/TrackingRecHitsMaskingSoA.h",
             "DataFormats/TrackingRecHitSoA/interface/alpaka/TrackingRecHitsMaskingSoACollection.h",
-            "DataFormats/TrackingRecHitSoA/interface/alpaka/TrackingRecHitsSoACollection.h",
             "DataFormats/TrackingRecHitSoA/plugins/alpaka/TrivialSerialisation.cc",
             "DataFormats/TrackingRecHitSoA/src/alpaka/classes_cuda.h",
             "DataFormats/TrackingRecHitSoA/src/alpaka/classes_cuda_def.xml",
@@ -1319,12 +1318,6 @@
             "DataFormats/TrackingRecHitSoA/src/classes.h",
             "DataFormats/TrackingRecHitSoA/src/classes_def.xml",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2PixelTracksSoA_cfi.py",
-            "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelRecHitKernel.h",
-            "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelRecHitKernels.dev.cc",
-            "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelRecHitMaskingKernel.h",
-            "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelRecHitMaskingKernels.dev.cc",
-            "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelRecHits.h",
-            "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/SiPixelRecHitExtendedAlpaka.cc",
             "RecoLocalTracker/SiPixelRecHits/python/SiPixelRecHits_cfi.py",
             "RecoTracker/FinalTrackSelectors/interface/TrackMergerCounterDevice.h",
             "RecoTracker/FinalTrackSelectors/interface/TrackMergerCounterHost.h",
@@ -1349,7 +1342,6 @@
             "RecoTracker/PixelSeeding/plugins/alpaka/CAPixelDoubletsAlgos.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/CAStructures.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/HelixFit.h",
-            "RecoTracker/PixelSeeding/plugins/alpaka/RiemannFit.dev.cc",
             "RecoTracker/PixelSeeding/src/classes_def.xml",
             "RecoTracker/PixelTrackFitting/plugins/PixelTrackProducerFromSoAAlpaka.cc",
             "RecoTracker/PixelTrackFitting/python/PixelTracks_cff.py",
@@ -1359,7 +1351,7 @@
         "created_at": 1781873187,
         "number": 51268,
         "state": "open",
-        "updated_at": 1789987382
+        "updated_at": 1790149689
     },
     "51270": {
         "base_branch": "master",
