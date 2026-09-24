@@ -4166,5 +4166,18 @@
         "number": 51967,
         "state": "open",
         "updated_at": 1790238118
+    },
+    "51968": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "PhysicsTools/ONNXRuntime/interface/ONNXRuntime.h",
+            "PhysicsTools/ONNXRuntime/src/ONNXRuntime.cc",
+            "PhysicsTools/ONNXRuntime/test/BuildFile.xml",
+            "PhysicsTools/ONNXRuntime/test/testONNXRuntimeROCm.cc"
+        ],
+        "created_at": 1790263005,
+        "number": 51968,
+        "state": "open",
+        "updated_at": 1790263033
     }
 }
