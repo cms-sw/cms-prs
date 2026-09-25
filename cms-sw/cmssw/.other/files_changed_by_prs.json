@@ -4191,5 +4191,42 @@
         "number": 51978,
         "state": "open",
         "updated_at": 1790339394
+    },
+    "51979": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "DQM/PFTasks/plugins/PFHcalGPUComparisonTask.cc",
+            "DQMOffline/Configuration/python/DQMOffline_SecondStep_cff.py",
+            "DQMOffline/Configuration/python/DQMOffline_cff.py",
+            "DQMOffline/Configuration/python/autoDQM.py",
+            "DQMOffline/ParticleFlow/plugins/BuildFile.xml",
+            "DQMOffline/ParticleFlow/plugins/OffsetAnalyzerDQM.cc",
+            "Validation/RecoParticleFlow/plugins/OffsetAnalyzerDQM.cc",
+            "DQMOffline/ParticleFlow/plugins/OffsetDQMPostProcessor.cc",
+            "Validation/RecoParticleFlow/plugins/OffsetDQMPostProcessor.cc",
+            "DQMOffline/ParticleFlow/plugins/PFAnalyzer.cc",
+            "DQMOffline/ParticleFlow/plugins/PFAnalyzer.h",
+            "DQMOffline/ParticleFlow/python/DQMForPF_HLT_cff.py",
+            "DQMOffline/ParticleFlow/python/DQMForPF_MiniAOD_cff.py",
+            "DQMOffline/ParticleFlow/python/offsetAnalyzerDQM_cff.py",
+            "Validation/RecoParticleFlow/python/offsetAnalyzerDQM_cff.py",
+            "DQMOffline/ParticleFlow/python/particleFlowDQM_cff.py",
+            "Validation/RecoParticleFlow/python/particleFlowDQM_cff.py",
+            "DQMOffline/Trigger/python/HeterogeneousMonitoringClient_cff.py",
+            "DQMOffline/Trigger/python/HeterogeneousMonitoring_cff.py",
+            "HLTriggerOffline/Common/python/HLTValidationHarvest_cff.py",
+            "HLTriggerOffline/Common/python/HLTValidation_cff.py",
+            "Validation/RecoParticleFlow/plugins/PFCaloGPUComparisonTask.cc",
+            "Validation/RecoParticleFlow/plugins/PFCandidateAnalyzerDQM.cc",
+            "Validation/RecoParticleFlow/python/DQMForPF_MiniAOD_cff.py",
+            "Validation/RecoParticleFlow/python/PFClusterValidation_cff.py",
+            "Validation/RecoParticleFlow/python/defaults_cfi.py",
+            "Validation/RecoParticleFlow/python/pfCaloGPUComparisonTask_cfi.py"
+        ],
+        "created_at": 1790349190,
+        "number": 51979,
+        "state": "open",
+        "updated_at": 1790349211
     }
 }
