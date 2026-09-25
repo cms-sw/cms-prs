@@ -4104,5 +4104,22 @@
         "number": 51969,
         "state": "open",
         "updated_at": 1790313813
+    },
+    "51971": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/Geometry/README.md",
+            "Configuration/Geometry/python/dict2021Geometry.py",
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026.xml",
+            "Geometry/CMSCommonData/data/extend/v5/cmsextent.xml",
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026XML_cfi.py",
+            "Geometry/ForwardCommonData/data/zdc/2025/v3/zdc.xml",
+            "Geometry/ForwardCommonData/data/zdclumi/2025/v1/zdclumi.xml",
+            "Geometry/ForwardCommonData/data/zdcmaterials/2021/v2/zdcmaterials.xml"
+        ],
+        "created_at": 1790320600,
+        "number": 51971,
+        "state": "open",
+        "updated_at": 1790320626
     }
 }
