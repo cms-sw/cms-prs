@@ -4212,5 +4212,22 @@
         "number": 51980,
         "state": "open",
         "updated_at": 1790355729
+    },
+    "51982": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/ProcessModifiers/python/trackCutClassifier_cff.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrackCutClassifier_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrackSelectionHighPurity_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepTrackTorchClassifierOutput_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTInitialStepCutClassifierHPSelectionSequence_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTInitialStepHPSelectionSequence_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTInitialStepSequence_cfi.py",
+            "RecoTracker/FinalTrackSelectors/plugins/TrackTorchClassifierFromSoA.cc"
+        ],
+        "created_at": 1790362476,
+        "number": 51982,
+        "state": "open",
+        "updated_at": 1790362501
     }
 }
