@@ -4193,5 +4193,17 @@
         "number": 51983,
         "state": "open",
         "updated_at": 1790390397
+    },
+    "51984": {
+        "base_branch": "CMSSW_17_0_X",
+        "changed_files_names": [
+            "RecoTracker/ConversionSeedGenerators/plugins/BuildFile.xml",
+            "RecoTracker/ConversionSeedGenerators/plugins/PhotonConversionTrajectorySeedProducerFromSingleLeg.cc",
+            "RecoTracker/ConversionSeedGenerators/python/ConversionStep_cff.py"
+        ],
+        "created_at": 1790405479,
+        "number": 51984,
+        "state": "open",
+        "updated_at": 1790405505
     }
 }
