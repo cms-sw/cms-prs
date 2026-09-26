@@ -1094,23 +1094,6 @@
         "state": "open",
         "updated_at": 1780982870
     },
-    "50908": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DataFormats/L1Trigger/interface/TkJetWord.h",
-            "DataFormats/L1Trigger/src/TkJetWord.cc",
-            "L1Trigger/DemonstratorTools/src/codecs_tkjets.cc",
-            "L1Trigger/DemonstratorTools/test/gtt/FirmwareGeometryFile.vh",
-            "L1Trigger/DemonstratorTools/test/gtt/createFirmwareInputFiles_cfg.py",
-            "L1Trigger/L1TTrackMatch/plugins/L1TrackJetClustering.h",
-            "L1Trigger/L1TTrackMatch/plugins/L1TrackJetEmulatorProducer.cc",
-            "L1Trigger/L1TTrackMatch/python/l1tTrackJetsEmulation_cfi.py"
-        ],
-        "created_at": 1778249608,
-        "number": 50908,
-        "state": "open",
-        "updated_at": 1780982883
-    },
     "51029": {
         "base_branch": "CMSSW_17_0_X",
         "changed_files_names": [
