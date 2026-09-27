@@ -2954,6 +2954,7 @@
             "Configuration/ProcessModifiers/python/phase2CATrueStubs_cff.py",
             "Configuration/PyReleaseValidation/README.md",
             "Configuration/PyReleaseValidation/python/relval_Run4.py",
+            "Configuration/PyReleaseValidation/python/relval_gpu.py",
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
             "Configuration/PyReleaseValidation/scripts/README.md",
             "Configuration/PyReleaseValidation/scripts/runTheMatrix.py",
@@ -3012,6 +3013,8 @@
             "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelRecHitKernel.h",
             "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelRecHitKernels.dev.cc",
             "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/SiPixelRecHitAlpaka.cc",
+            "RecoLocalTracker/SiPixelRecHits/python/PixelCPEESProducers_cff.py",
+            "RecoLocalTracker/SiPixelRecHits/python/SiPixelRecHits_cfi.py",
             "RecoLocalTracker/SiPixelRecHits/src/ES_PixelCPEFastParams.cc",
             "RecoLocalTracker/SiPixelRecHits/src/PixelCPEFastParams.cc",
             "RecoLocalTracker/SiPixelRecHits/src/PixelCPEFastParamsHost.cc",
@@ -3156,6 +3159,7 @@
             "RecoTracker/PixelTrackFitting/plugins/alpaka/BLBFieldMapESProducerAlpaka.cc",
             "RecoTracker/PixelTrackFitting/plugins/alpaka/BLMaterialMapESProducerAlpaka.cc",
             "RecoTracker/PixelTrackFitting/plugins/storeTracks.h",
+            "RecoTracker/PixelTrackFitting/python/PixelTracks_cff.py",
             "RecoTracker/PixelTrackFitting/src/BLMaterialMapFile.cc",
             "RecoTracker/PixelTrackFitting/src/BLMaterialMapFingerprint.cc",
             "RecoTracker/PixelTrackFitting/src/ES_BLBFieldMap.cc",
@@ -3201,7 +3205,7 @@
         "created_at": 1789749970,
         "number": 51915,
         "state": "open",
-        "updated_at": 1790106718
+        "updated_at": 1790505769
     },
     "51918": {
         "base_branch": "master",
