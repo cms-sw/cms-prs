@@ -2472,10 +2472,12 @@
             "PhysicsTools/TruthInfo/test/runTruthRelvals.sh",
             "PhysicsTools/TruthInfo/test/testTruthHistoryGuard.sh",
             "PhysicsTools/TruthInfo/test/truthGraphMixedDigi_t.py",
+            "PhysicsTools/TruthInfo/test/truthGraphSelections_t.py",
             "PhysicsTools/TruthInfo/test/validateBranchRecoDQM_cfg.py",
             "PhysicsTools/TruthInfo/test/validateBranchReplacement_cfg.py",
             "SimCalorimetry/HGCalAssociatorProducers/plugins/DetIdToRecHitMapProducer.cc",
             "SimDataFormats/TruthInfo/BuildFile.xml",
+            "SimDataFormats/TruthInfo/interface/Checkpoint.h",
             "SimDataFormats/TruthInfo/interface/Graph.h",
             "SimDataFormats/TruthInfo/interface/InteractionId.h",
             "SimDataFormats/TruthInfo/interface/LogicalGraphHitIndex.h",
@@ -2487,6 +2489,7 @@
             "SimDataFormats/TruthInfo/src/Particle.cc",
             "SimDataFormats/TruthInfo/src/Vertex.cc",
             "SimDataFormats/TruthInfo/src/classes_def.xml",
+            "SimGeneral/MixingModule/python/digitizers_cfi.py",
             "SimGeneral/TruthGraphAssociatorProducers/BuildFile.xml",
             "SimGeneral/TruthGraphAssociatorProducers/README.md",
             "SimGeneral/TruthGraphAssociatorProducers/plugins/AllRecoToTruthBranchAssociatorsProducer.cc",
@@ -2528,7 +2531,7 @@
         "created_at": 1788518022,
         "number": 51829,
         "state": "open",
-        "updated_at": 1790615885
+        "updated_at": 1790620654
     },
     "51832": {
         "base_branch": "master",
