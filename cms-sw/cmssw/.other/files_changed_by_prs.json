@@ -3997,6 +3997,7 @@
         "changed_files_names": [
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
             "DQM/PFTasks/plugins/PFHcalGPUComparisonTask.cc",
+            "DQMOffline/Configuration/python/DQMOfflineFS_cff.py",
             "DQMOffline/Configuration/python/DQMOffline_SecondStep_cff.py",
             "DQMOffline/Configuration/python/DQMOffline_cff.py",
             "DQMOffline/Configuration/python/autoDQM.py",
@@ -4008,11 +4009,17 @@
             "DQMOffline/ParticleFlow/plugins/PFAnalyzer.cc",
             "DQMOffline/ParticleFlow/plugins/PFAnalyzer.h",
             "DQMOffline/ParticleFlow/python/DQMForPF_HLT_cff.py",
-            "DQMOffline/ParticleFlow/python/DQMForPF_MiniAOD_cff.py",
+            "DQMOffline/ParticleFlow/python/DQMForPF_Heterogeneous_cff.py",
+            "DQMOffline/ParticleFlow/python/DQMForPF_cff.py",
             "DQMOffline/ParticleFlow/python/offsetAnalyzerDQM_cff.py",
             "Validation/RecoParticleFlow/python/offsetAnalyzerDQM_cff.py",
             "DQMOffline/ParticleFlow/python/particleFlowDQM_cff.py",
             "Validation/RecoParticleFlow/python/particleFlowDQM_cff.py",
+            "DQMOffline/ParticleFlow/python/runBasic_cff.py",
+            "DQMOffline/ParticleFlow/python/runBasic_cfg.py",
+            "DQMOffline/ParticleFlow/python/runBasic_step2_cfg.py",
+            "DQMOffline/ParticleFlow/python/runMini_cff.py",
+            "DQMOffline/ParticleFlow/python/runMini_cfg.py",
             "DQMOffline/Trigger/python/HeterogeneousMonitoringClient_cff.py",
             "DQMOffline/Trigger/python/HeterogeneousMonitoring_cff.py",
             "HLTriggerOffline/Common/python/HLTValidationHarvest_cff.py",
@@ -4027,7 +4034,7 @@
         "created_at": 1790349190,
         "number": 51979,
         "state": "open",
-        "updated_at": 1790349211
+        "updated_at": 1790600834
     },
     "51982": {
         "base_branch": "master",
