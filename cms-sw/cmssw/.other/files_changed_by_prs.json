@@ -4233,16 +4233,12 @@
         "changed_files_names": [
             "Configuration/AlCa/python/autoCond.py",
             "RecoEgamma/EgammaElectronProducers/python/lowPtGsfElectrons_cfi.py",
-            "RecoEgamma/EgammaTools/python/regressionModifier_cfi.py",
-            "RecoTracker/DeDx/plugins/DeDxHitInfoProducer.cc",
-            "RecoTracker/DeDx/python/dedxEstimators_cff.py",
-            "RecoTracker/TkSeedGenerator/python/trackerClusterCheck_cfi.py",
-            "RecoVertex/PrimaryVertexProducer/python/OfflinePrimaryVertices_cfi.py"
+            "RecoEgamma/EgammaTools/python/regressionModifier_cfi.py"
         ],
         "created_at": 1790611168,
         "number": 52005,
         "state": "open",
-        "updated_at": 1790611384
+        "updated_at": 1790649765
     },
     "52006": {
         "base_branch": "master",
