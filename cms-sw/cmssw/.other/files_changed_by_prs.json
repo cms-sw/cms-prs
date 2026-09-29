@@ -4250,5 +4250,25 @@
         "number": 52008,
         "state": "open",
         "updated_at": 1790664266
+    },
+    "52010": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/ProcessModifiers/python/MLPFSonicTriton_cff.py",
+            "Configuration/ProcessModifiers/python/allSonicTriton_cff.py",
+            "Configuration/PyReleaseValidation/README.md",
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "RecoParticleFlow/Configuration/python/RecoParticleFlow_cff.py",
+            "RecoParticleFlow/PFProducer/BuildFile.xml",
+            "RecoParticleFlow/PFProducer/interface/MLPFModel.h",
+            "RecoParticleFlow/PFProducer/plugins/BuildFile.xml",
+            "RecoParticleFlow/PFProducer/plugins/MLPFProducer.cc",
+            "RecoParticleFlow/PFProducer/plugins/MLPFSONICProducer.cc",
+            "RecoParticleFlow/PFProducer/src/MLPFModel.cc"
+        ],
+        "created_at": 1790677617,
+        "number": 52010,
+        "state": "open",
+        "updated_at": 1790677649
     }
 }
