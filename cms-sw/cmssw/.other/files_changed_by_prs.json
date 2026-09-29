@@ -4268,7 +4268,9 @@
             "DataFormats/PortableTestObjects/src/classes.h",
             "DataFormats/PortableTestObjects/src/classes_def.xml",
             "PhysicsTools/PyTorchAlpaka/README.md",
+            "PhysicsTools/PyTorchAlpaka/interface/BatchedTensorCollection.h",
             "PhysicsTools/PyTorchAlpaka/interface/TensorCollection.h",
+            "PhysicsTools/PyTorchAlpaka/interface/alpaka/AlpakaModel.h",
             "PhysicsTools/PyTorchAlpaka/test/alpaka/testSoADataTypes.dev.cc",
             "PhysicsTools/PyTorchAlpaka/test/alpaka/testSoAToTorch.dev.cc",
             "PhysicsTools/PyTorchAlpakaTest/plugins/InspectionSink.cc",
@@ -4291,7 +4293,7 @@
         "created_at": 1790678619,
         "number": 52012,
         "state": "open",
-        "updated_at": 1790678648
+        "updated_at": 1790695589
     },
     "52013": {
         "base_branch": "master",
