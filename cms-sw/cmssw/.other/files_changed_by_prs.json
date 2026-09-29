@@ -4419,5 +4419,20 @@
         "number": 52019,
         "state": "open",
         "updated_at": 1790684769
+    },
+    "52020": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HeterogeneousCore/MPICore/TUNING.md",
+            "HeterogeneousCore/MPICore/plugins/alpaka/MPIReceiverPortable.cc",
+            "HeterogeneousCore/MPICore/plugins/alpaka/MPISenderPortable.cc",
+            "HeterogeneousCore/MPICore/test/controller_soa_device_cfg.py",
+            "HeterogeneousCore/MPICore/test/follower_soa_cfg.py",
+            "HeterogeneousCore/MPICore/test/follower_soa_device_cfg.py"
+        ],
+        "created_at": 1790687773,
+        "number": 52020,
+        "state": "open",
+        "updated_at": 1790687798
     }
 }
