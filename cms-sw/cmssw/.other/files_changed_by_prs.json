@@ -4270,5 +4270,40 @@
         "number": 52010,
         "state": "open",
         "updated_at": 1790677649
+    },
+    "52011": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoTracker/LSTCore/interface/Common.h",
+            "RecoTracker/LSTCore/interface/QuadrupletsSoA.h",
+            "RecoTracker/LSTCore/interface/QuintupletsSoA.h",
+            "RecoTracker/LSTCore/interface/alpaka/Common.h",
+            "RecoTracker/LSTCore/src/alpaka/Kernels.h",
+            "RecoTracker/LSTCore/src/alpaka/LSTEvent.dev.cc",
+            "RecoTracker/LSTCore/src/alpaka/NeuralNetwork.h",
+            "RecoTracker/LSTCore/src/alpaka/Quadruplet.h",
+            "RecoTracker/LSTCore/src/alpaka/Quintuplet.h",
+            "RecoTracker/LSTCore/src/alpaka/T4NeuralNetworkWeights.h",
+            "RecoTracker/LSTCore/src/alpaka/T5NeuralNetworkWeights.h",
+            "RecoTracker/LSTCore/src/alpaka/TrackCandidate.h",
+            "RecoTracker/LSTCore/src/alpaka/Triplet.h",
+            "RecoTracker/LSTCore/standalone/analysis/DNN/T4_DNN_WP_tables.md",
+            "RecoTracker/LSTCore/standalone/analysis/DNN/T5_DNN_WP_tables.md",
+            "RecoTracker/LSTCore/standalone/analysis/DNN/install_T4_WP.py",
+            "RecoTracker/LSTCore/standalone/analysis/DNN/install_T5_WP.py",
+            "RecoTracker/LSTCore/standalone/analysis/DNN/parity_T4_DNN.py",
+            "RecoTracker/LSTCore/standalone/analysis/DNN/parity_T5_DNN.py",
+            "RecoTracker/LSTCore/standalone/analysis/DNN/train_T4_DNN.ipynb",
+            "RecoTracker/LSTCore/standalone/analysis/DNN/train_T4_DNN.py",
+            "RecoTracker/LSTCore/standalone/analysis/DNN/train_T5_DNN.ipynb",
+            "RecoTracker/LSTCore/standalone/analysis/DNN/train_T5_DNN.py",
+            "RecoTracker/LSTCore/standalone/analysis/DNN/wp_T4_DNN.py",
+            "RecoTracker/LSTCore/standalone/analysis/DNN/wp_T5_DNN.py",
+            "RecoTracker/LSTCore/standalone/code/core/write_lst_ntuple.cc"
+        ],
+        "created_at": 1790677974,
+        "number": 52011,
+        "state": "open",
+        "updated_at": 1790678007
     }
 }
