@@ -4227,5 +4227,27 @@
         "number": 52007,
         "state": "open",
         "updated_at": 1790658574
+    },
+    "52008": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/EventContent/python/EventContent_cff.py",
+            "HLTriggerOffline/Common/python/HLTValidationHarvest_cff.py",
+            "HLTriggerOffline/Common/python/HLTValidation_cff.py",
+            "RecoHGCal/TICL/plugins/GeneralInterpretationAlgo.cc",
+            "RecoHGCal/TICL/python/HLTSimTracksters_cff.py",
+            "Validation/Configuration/python/hgcalSimValid_cff.py",
+            "Validation/Configuration/python/hltHGCalSimValid_cff.py",
+            "Validation/Configuration/python/postValidation_cff.py",
+            "Validation/RecoTau/plugins/BuildFile.xml",
+            "Validation/RecoTau/plugins/ticlTauValidator.cc",
+            "Validation/RecoTau/python/ticlTauPostValidation_cfi.py",
+            "Validation/RecoTau/python/ticlTauValidation_cfi.py",
+            "Validation/RecoTau/scripts/makeTiclTauValidationPlots.py"
+        ],
+        "created_at": 1790664242,
+        "number": 52008,
+        "state": "open",
+        "updated_at": 1790664266
     }
 }
