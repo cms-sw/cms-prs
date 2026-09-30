@@ -4125,9 +4125,12 @@
             "PhysicsTools/ONNXRuntime/interface/Backend.h",
             "PhysicsTools/ONNXRuntime/interface/ONNXInterface.h",
             "PhysicsTools/ONNXRuntime/interface/ONNXRuntime.h",
+            "PhysicsTools/ONNXRuntime/interface/SessionCache.h",
             "PhysicsTools/ONNXRuntime/plugins/BuildFile.xml",
             "PhysicsTools/ONNXRuntime/plugins/ONNXService.cc",
+            "PhysicsTools/ONNXRuntime/src/ONNXInterface.cc",
             "PhysicsTools/ONNXRuntime/src/ONNXRuntime.cc",
+            "PhysicsTools/ONNXRuntime/src/SessionCache.cc",
             "PhysicsTools/ONNXRuntime/test/BuildFile.xml",
             "PhysicsTools/ONNXRuntime/test/testONNXRuntime.cc",
             "PhysicsTools/ONNXRuntime/test/testONNXRuntime.h",
@@ -4146,7 +4149,7 @@
         "created_at": 1790622031,
         "number": 52006,
         "state": "open",
-        "updated_at": 1790622064
+        "updated_at": 1790754357
     },
     "52008": {
         "base_branch": "master",
