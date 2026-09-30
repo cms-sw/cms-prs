@@ -4112,6 +4112,7 @@
         "base_branch": "master",
         "changed_files_names": [
             "DQM/EcalMonitorClient/src/MLClient.cc",
+            "DQM/HcalTasks/plugins/OnlineDQMDigiAD_cmssw.cc",
             "DQM/Integration/python/clients/ecal_dqm_sourceclient-live_cfg.py",
             "DQM/Integration/python/clients/hcal_dqm_sourceclient-live_cfg.py",
             "HLTrigger/Configuration/python/HLT_75e33/services/ONNXService_cfi.py",
@@ -4137,10 +4138,12 @@
             "PhysicsTools/ONNXRuntime/test/testONNXRuntime.h",
             "PhysicsTools/ONNXRuntime/test/testONNXRuntimeCUDA.cc",
             "PhysicsTools/ONNXRuntime/test/testONNXRuntimeROCm.cc",
+            "PhysicsTools/PatAlgos/interface/BaseMVAValueMapProducer.h",
             "PhysicsTools/PatAlgos/python/slimming/miniAODFromMiniAOD_tools.py",
             "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py",
             "RecoBTag/Configuration/python/RecoBTag_cff.py",
             "RecoEgamma/EgammaElectronProducers/python/gedGsfElectronSequence_cff.py",
+            "RecoHGCal/TICL/interface/TICLONNXGlobalCache.h",
             "RecoHGCal/TICL/python/iterativeTICL_cff.py",
             "RecoParticleFlow/Configuration/python/RecoParticleFlow_cff.py",
             "RecoParticleFlow/PFProducer/plugins/MLPFProducer.cc",
@@ -4150,7 +4153,7 @@
         "created_at": 1790622031,
         "number": 52006,
         "state": "open",
-        "updated_at": 1790755368
+        "updated_at": 1790763497
     },
     "52008": {
         "base_branch": "master",
