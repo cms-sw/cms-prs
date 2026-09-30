@@ -4467,5 +4467,17 @@
         "number": 52026,
         "state": "open",
         "updated_at": 1790739086
+    },
+    "52027": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/Geometry/python/dict2021Geometry.py",
+            "Geometry/CMSCommonData/data/dd4hep/cmsExtendedGeometry2026.xml",
+            "Geometry/CMSCommonData/python/cmsExtendedGeometry2026XML_cfi.py"
+        ],
+        "created_at": 1790746153,
+        "number": 52027,
+        "state": "open",
+        "updated_at": 1790746175
     }
 }
