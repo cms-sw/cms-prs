@@ -4525,5 +4525,24 @@
         "number": 52033,
         "state": "open",
         "updated_at": 1790772309
+    },
+    "52034": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaElectronPixelSeedsL1Seeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaElectronPixelSeedsUnseeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaUnfittedElectronPixelSeedsL1Seeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaUnfittedElectronPixelSeedsUnseeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltElePixelSeedsDoubletsL1Seeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltElePixelSeedsDoubletsUnseeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltElePixelSeedsTripletsL1Seeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltElePixelSeedsTripletsUnseeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTElePixelMatchL1SeededSequence_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTElePixelMatchUnseededSequence_cfi.py"
+        ],
+        "created_at": 1790772637,
+        "number": 52034,
+        "state": "open",
+        "updated_at": 1790772664
     }
 }
