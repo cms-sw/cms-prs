@@ -4566,32 +4566,5 @@
         "number": 52036,
         "state": "open",
         "updated_at": 1790776767
-    },
-    "52037": {
-        "base_branch": "CMSSW_15_0_X",
-        "changed_files_names": [
-            "DataFormats/L1TCalorimeterPhase2/interface/GCT_output.h",
-            "L1Trigger/L1CaloTrigger/interface/GCTSumToGT_cpp.h",
-            "L1Trigger/L1CaloTrigger/interface/GCTSumToGT_h.h",
-            "L1Trigger/L1CaloTrigger/interface/GCTSum_cpp.h",
-            "L1Trigger/L1CaloTrigger/interface/GCTSum_h.h",
-            "L1Trigger/L1CaloTrigger/interface/MHH_cpp.h",
-            "L1Trigger/L1CaloTrigger/interface/MHH_h.h",
-            "L1Trigger/L1CaloTrigger/interface/bitonicSort32_GCT_cpp.h",
-            "L1Trigger/L1CaloTrigger/interface/bitonicSort32_GCT_h.h",
-            "L1Trigger/L1CaloTrigger/interface/bitonicSort32_MHH_cpp.h",
-            "L1Trigger/L1CaloTrigger/interface/bitonicSort32_MHH_h.h",
-            "L1Trigger/L1CaloTrigger/plugins/Phase2L1CaloJetEmulator.cc",
-            "L1Trigger/L1CaloTrigger/plugins/Phase2L1GCTSumEmulator.cc",
-            "L1Trigger/L1CaloTrigger/plugins/Phase2L1MHHEmulator.cc",
-            "L1Trigger/L1CaloTrigger/python/l1tPhase2L1GCTSumEmulator_cfi.py",
-            "L1Trigger/L1CaloTrigger/python/l1tPhase2L1MHHEmulator_cfi.py",
-            "L1Trigger/L1CaloTrigger/test/BuildFile.xml",
-            "L1Trigger/L1CaloTrigger/test/testPhase2L1GCTSumFirmware.cpp"
-        ],
-        "created_at": 1790783044,
-        "number": 52037,
-        "state": "open",
-        "updated_at": 1790783073
     }
 }
