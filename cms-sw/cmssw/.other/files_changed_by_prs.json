@@ -4515,5 +4515,31 @@
         "number": 52039,
         "state": "open",
         "updated_at": 1790788055
+    },
+    "52040": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Services/plugins/LibraryMemoryReport.cc",
+            "FWCore/Services/plugins/ProcSmaps.cc",
+            "FWCore/Services/plugins/ProcSmaps.h",
+            "FWCore/Services/plugins/SimpleMemoryCheck.cc",
+            "FWCore/Services/python/LibraryMemoryReport_cfi.py",
+            "PerfTools/VTune/BuildFile.xml",
+            "PerfTools/VTune/interface/VtuneAnnotateService.h",
+            "PerfTools/VTune/interface/VtuneFilterService.h",
+            "PerfTools/VTune/plugins/BuildFile.xml",
+            "PerfTools/VTune/plugins/VtuneAnnotateService.cc",
+            "PerfTools/VTune/plugins/VtuneFilterService.cc",
+            "PerfTools/VTune/python/VtuneAnnotateService.py",
+            "PerfTools/VTune/python/VtuneFilterService.py",
+            "PerfTools/VTune/src/VtuneAnnotateService.cc",
+            "PerfTools/VTune/src/VtuneFilterService.cc",
+            "PerfTools/VTune/test/BuildFile.xml",
+            "PerfTools/VTune/test/testVtuneServices.cc"
+        ],
+        "created_at": 1790797060,
+        "number": 52040,
+        "state": "open",
+        "updated_at": 1790797086
     }
 }
