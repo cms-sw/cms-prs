@@ -3657,6 +3657,7 @@
     "51947": {
         "base_branch": "CMSSW_15_1_X",
         "changed_files_names": [
+            "PhysicsTools/NanoAOD/plugins/BuildFile.xml",
             "PhysicsTools/NanoAOD/plugins/ProcessRefinedJets.cc",
             "PhysicsTools/NanoAOD/python/jetsAK4_Puppi_cff.py",
             "PhysicsTools/NanoAOD/test/BuildFile.xml",
@@ -3666,7 +3667,7 @@
         "created_at": 1790153895,
         "number": 51947,
         "state": "open",
-        "updated_at": 1790324109
+        "updated_at": 1790844279
     },
     "51948": {
         "base_branch": "CMSSW_16_0_X",
