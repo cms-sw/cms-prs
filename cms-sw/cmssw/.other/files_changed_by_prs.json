@@ -4814,5 +4814,17 @@
         "number": 52068,
         "state": "open",
         "updated_at": 1790940257
+    },
+    "52069": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DPGAnalysis/HcalTools/plugins/CMTRawAnalyzer.cc",
+            "DQMServices/Core/interface/DQMStore.h",
+            "Validation/TrackingMCTruth/plugins/SimDoubletsAnalyzer.h"
+        ],
+        "created_at": 1790940298,
+        "number": 52069,
+        "state": "open",
+        "updated_at": 1790940323
     }
 }
