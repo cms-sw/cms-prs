@@ -4770,5 +4770,18 @@
         "number": 52064,
         "state": "open",
         "updated_at": 1790939678
+    },
+    "52065": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "L1Trigger/CSCTriggerPrimitives/src/CSCPatternBank.cc",
+            "L1Trigger/GlobalTrigger/interface/L1GtAlgorithmEvaluation.h",
+            "L1Trigger/RPCTrigger/src/RPCConst.cc",
+            "SimCalorimetry/EcalTrigPrimAlgos/interface/EcalFenixBypassLin.h"
+        ],
+        "created_at": 1790939840,
+        "number": 52065,
+        "state": "open",
+        "updated_at": 1790939867
     }
 }
