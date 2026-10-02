@@ -4539,29 +4539,6 @@
         "state": "open",
         "updated_at": 1790866891
     },
-    "52058": {
-        "base_branch": "CMSSW_17_0_X",
-        "changed_files_names": [
-            "DPGAnalysis/Phase2L1TNanoAOD/python/l1tPh2Nanotables_cff.py",
-            "DataFormats/L1Trigger/interface/TkTripletWord.h",
-            "DataFormats/L1Trigger/src/TkTripletWord.cc",
-            "L1Trigger/DemonstratorTools/interface/GTTInterface.h",
-            "L1Trigger/DemonstratorTools/interface/codecs/tktriplets.h",
-            "L1Trigger/DemonstratorTools/plugins/GTTFileWriter.cc",
-            "L1Trigger/DemonstratorTools/python/l1tGTTFileWriter_cfi.py",
-            "L1Trigger/DemonstratorTools/src/codecs_tktriplets.cc",
-            "L1Trigger/DemonstratorTools/test/gtt/createFirmwareInputFiles_cfg.py",
-            "L1Trigger/L1TTrackMatch/interface/TkTripletEmuAlgo.h",
-            "L1Trigger/L1TTrackMatch/plugins/BuildFile.xml",
-            "L1Trigger/L1TTrackMatch/plugins/L1TrackTripletEmulatorProducer.cc",
-            "L1Trigger/L1TTrackMatch/python/l1tTrackTripletEmulation_cfi.py",
-            "L1Trigger/L1TTrackMatch/src/TkTripletEmuAlgo.cc"
-        ],
-        "created_at": 1790877610,
-        "number": 52058,
-        "state": "open",
-        "updated_at": 1790877644
-    },
     "52059": {
         "base_branch": "master",
         "changed_files_names": [
