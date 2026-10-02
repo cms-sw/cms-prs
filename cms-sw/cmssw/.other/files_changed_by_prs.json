@@ -4365,12 +4365,13 @@
             "FWCore/Services/plugins/ProcSmaps.cc",
             "FWCore/Services/plugins/ProcSmaps.h",
             "FWCore/Services/plugins/SimpleMemoryCheck.cc",
-            "FWCore/Services/python/LibraryMemoryReport_cfi.py"
+            "FWCore/Services/python/LibraryMemoryReport_cfi.py",
+            "Validation/Performance/python/LibraryMemoryReport.py"
         ],
         "created_at": 1790797060,
         "number": 52040,
         "state": "open",
-        "updated_at": 1790797725
+        "updated_at": 1790959770
     },
     "52041": {
         "base_branch": "master",
