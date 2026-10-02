@@ -547,16 +547,19 @@
     "47605": {
         "base_branch": "master",
         "changed_files_names": [
+            "DataFormats/SoATemplate/interface/SoABlocks.h",
             "DataFormats/SoATemplate/interface/SoACommon.h",
+            "DataFormats/SoATemplate/interface/SoAConstMultiView.h",
             "DataFormats/SoATemplate/interface/SoALayout.h",
             "HeterogeneousCore/AlpakaCore/README.md",
-            "HeterogeneousCore/AlpakaInterface/interface/atomicInc.h",
-            "HeterogeneousCore/AlpakaInterface/interface/atomicIncSaturate.h"
+            "HeterogeneousCore/AlpakaInterface/interface/atomicIncSaturate.h",
+            "HeterogeneousCore/AlpakaInterface/test/BuildFile.xml",
+            "HeterogeneousCore/AlpakaInterface/test/alpaka/testAtomicIncSaturate.dev.cc"
         ],
         "created_at": 1742166289,
         "number": 47605,
         "state": "open",
-        "updated_at": 1780982775
+        "updated_at": 1790949173
     },
     "48319": {
         "base_branch": "master",
