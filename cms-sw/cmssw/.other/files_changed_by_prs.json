@@ -3777,6 +3777,8 @@
         "base_branch": "master",
         "changed_files_names": [
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "DataFormats/ParticleFlowReco/interface/PFBlock.h",
+            "DataFormats/ParticleFlowReco/src/PFBlock.cc",
             "RecoParticleFlow/Configuration/python/RecoParticleFlow_cff.py",
             "RecoParticleFlow/PFProducer/BuildFile.xml",
             "RecoParticleFlow/PFProducer/interface/MLPFModel.h",
@@ -3805,7 +3807,7 @@
         "created_at": 1790219431,
         "number": 51959,
         "state": "open",
-        "updated_at": 1790849124
+        "updated_at": 1790998876
     },
     "51968": {
         "base_branch": "master",
