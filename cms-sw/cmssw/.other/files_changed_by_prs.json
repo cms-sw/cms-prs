@@ -4634,35 +4634,6 @@
         "state": "open",
         "updated_at": 1790936658
     },
-    "52062": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "Alignment/CommonAlignment/interface/AlignableObjectId.h",
-            "Alignment/CommonAlignment/src/AlignableCompositeBuilder.cc",
-            "Alignment/CommonAlignment/src/AlignableModifier.cc",
-            "Alignment/CommonAlignment/src/AlignableObjectId.cc",
-            "Alignment/CommonAlignmentAlgorithm/src/AlignmentParameterStore.cc",
-            "Alignment/CommonAlignmentParametrization/src/BowedSurfaceAlignmentParameters.cc",
-            "Alignment/CommonAlignmentParametrization/src/ParametersToParametersDerivatives.cc",
-            "Alignment/CommonAlignmentParametrization/src/TwoBowedSurfacesAlignmentParameters.cc",
-            "Alignment/MillePedeAlignmentAlgorithm/plugins/MillePedeAlignmentAlgorithm.cc",
-            "Alignment/MillePedeAlignmentAlgorithm/plugins/MillePedeDQMModule.cc",
-            "Alignment/MillePedeAlignmentAlgorithm/plugins/ZMuMuMassConstraintParameterFinder.cc",
-            "Alignment/MillePedeAlignmentAlgorithm/src/MillePedeFileReader.cc",
-            "Alignment/TrackerAlignment/src/AlignableTracker.cc",
-            "Alignment/TrackerAlignment/src/AlignableTrackerBuilder.cc",
-            "Alignment/TrackerAlignment/src/TrackerAlignableIndexer.cc",
-            "Alignment/TrackerAlignment/src/TrackerAlignmentLevelBuilder.cc",
-            "Alignment/TrackerAlignment/src/TrackerNameSpace.cc",
-            "Alignment/TrackerAlignment/test/TrackerGeometryAnalyzer.cc",
-            "CalibTracker/SiPixelTools/plugins/SiPixelFedFillerWordEventNumber.cc",
-            "CondFormats/RecoMuonObjects/test/ProduceAgingObject.cc"
-        ],
-        "created_at": 1790939234,
-        "number": 52062,
-        "state": "open",
-        "updated_at": 1790939258
-    },
     "52064": {
         "base_branch": "master",
         "changed_files_names": [
