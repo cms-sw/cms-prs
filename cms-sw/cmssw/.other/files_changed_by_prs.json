@@ -4725,6 +4725,8 @@
             "FWCore/Framework/interface/maker/TransitionWorker.h",
             "FWCore/Framework/interface/maker/TransitionWorker_Common.h",
             "FWCore/Framework/interface/maker/TransitionWorker_Event.h",
+            "FWCore/Framework/interface/maker/TransitionWorker_ProcessBlock.h",
+            "FWCore/Framework/interface/maker/TransitionWorker_Stream.h",
             "FWCore/Framework/interface/maker/Worker.h",
             "FWCore/Framework/interface/maker/WorkerT.h",
             "FWCore/Framework/interface/one/EDAnalyzerBase.h",
@@ -4767,7 +4769,7 @@
         "created_at": 1790950934,
         "number": 52072,
         "state": "open",
-        "updated_at": 1790966577
+        "updated_at": 1791031679
     },
     "52073": {
         "base_branch": "master",
