@@ -4779,5 +4779,18 @@
         "number": 52078,
         "state": "open",
         "updated_at": 1791119007
+    },
+    "52079": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalGeometry/test/HGCalNeighbourCheck.cc",
+            "Geometry/HGCalGeometry/test/HGCalNeighbourVerify.cc",
+            "Geometry/HGCalGeometry/test/python/testHGCalNeighbourCheck_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalNeighbourTester_cfg.py"
+        ],
+        "created_at": 1791119332,
+        "number": 52079,
+        "state": "open",
+        "updated_at": 1791119356
     }
 }
