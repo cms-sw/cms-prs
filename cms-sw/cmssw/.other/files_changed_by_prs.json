@@ -4218,36 +4218,6 @@
         "state": "open",
         "updated_at": 1790924911
     },
-    "52060": {
-        "base_branch": "CMSSW_17_0_X",
-        "changed_files_names": [
-            "CondCore/SiPixelPlugins/plugins/plugin.cc",
-            "CondCore/Utilities/plugins/Module_2XML.cc",
-            "CondCore/Utilities/src/CondDBFetch.cc",
-            "CondCore/Utilities/src/CondDBImport.cc",
-            "CondCore/Utilities/src/CondFormats.h",
-            "CondFormats/DataRecord/interface/SiPixelClusterShapeLimitsRcd.h",
-            "CondFormats/DataRecord/src/SiPixelClusterShapeLimitsRcd.cc",
-            "CondFormats/SiPixelObjects/interface/SiPixelClusterShapeLimits.h",
-            "CondFormats/SiPixelObjects/src/SiPixelClusterShapeLimits.cc",
-            "CondFormats/SiPixelObjects/src/T_EventSetup_SiPixelClusterShapeLimits.cc",
-            "CondFormats/SiPixelObjects/src/classes.h",
-            "CondFormats/SiPixelObjects/src/classes_def.xml",
-            "CondFormats/SiPixelObjects/src/headers.h",
-            "CondFormats/SiPixelObjects/test/BuildFile.xml",
-            "CondFormats/SiPixelObjects/test/testSerializationSiPixelObjects.cpp",
-            "CondFormats/SiPixelObjects/test/testSiPixelClusterShapeLimits.cpp",
-            "CondTools/SiPixel/plugins/SiPixelClusterShapeLimitsReader.cc",
-            "CondTools/SiPixel/plugins/SiPixelClusterShapeLimitsWriter.cc",
-            "CondTools/SiPixel/test/SiPixelClusterShapeLimitsReader_cfg.py",
-            "CondTools/SiPixel/test/SiPixelClusterShapeLimitsWriter_cfg.py",
-            "CondTools/SiPixel/test/createTestDBObjects.sh"
-        ],
-        "created_at": 1790921551,
-        "number": 52060,
-        "state": "open",
-        "updated_at": 1791194663
-    },
     "52061": {
         "base_branch": "master",
         "changed_files_names": [
