@@ -2203,6 +2203,7 @@
             "DQM/SiTrackerPhase2/python/Phase2TrackerMonitorDigi_cfi.py",
             "DQM/SiTrackerPhase2/src/TrackerPhase2DQMUtil.cc",
             "DQM/SiTrackerPhase2/test/README.md",
+            "DQMOffline/Trigger/python/SiTrackerPhase2_OfflineMonitoring_cff.py",
             "Validation/SiTrackerPhase2V/interface/Phase2ITValidateRecHitBase.h",
             "Validation/SiTrackerPhase2V/interface/Phase2OTValidateRecHitBase.h",
             "Validation/SiTrackerPhase2V/plugins/Phase2ITRecHitHarvester.cc",
@@ -2221,7 +2222,7 @@
         "created_at": 1787149710,
         "number": 51736,
         "state": "open",
-        "updated_at": 1790842255
+        "updated_at": 1791190924
     },
     "51738": {
         "base_branch": "master",
