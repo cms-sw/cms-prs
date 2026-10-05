@@ -4646,5 +4646,21 @@
         "number": 52087,
         "state": "open",
         "updated_at": 1791203973
+    },
+    "52088": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/ForwardCommonData/data/cmsFbcm/2021/v1/cmsFbcm.xml",
+            "Geometry/ForwardCommonData/data/fbcm/2021/v1/fbcm.xml",
+            "Geometry/ForwardCommonData/python/cmsExtendedGeometry2021XML_cfi.py",
+            "Geometry/ForwardCommonData/python/cmsExtendedGeometry2025XML_cfi.py",
+            "Geometry/ForwardCommonData/test/g4OverlapCheckRun3_cfg.py",
+            "Geometry/ForwardSimData/data/FbcmSpecs/2021/v1/FbcmsSpecs.xml",
+            "Geometry/ForwardSimData/data/fbcmsens.xml"
+        ],
+        "created_at": 1791205643,
+        "number": 52088,
+        "state": "open",
+        "updated_at": 1791205750
     }
 }
