@@ -4437,5 +4437,20 @@
         "number": 52091,
         "state": "open",
         "updated_at": 1791225940
+    },
+    "52098": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleTransformerONNXJetTags_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/paths/DST_NGTScouting_cfi.py",
+            "HLTrigger/Configuration/python/HLTrigger_EventContent_cff.py",
+            "HLTrigger/NGTScouting/python/hltJets_cfi.py",
+            "HLTrigger/NGTScouting/python/hltNanoDQM_cff.py",
+            "RecoBTag/ONNXRuntime/plugins/HLTParticleTransformerAK4ONNXJetTagsProducer.cc"
+        ],
+        "created_at": 1791287617,
+        "number": 52098,
+        "state": "open",
+        "updated_at": 1791287679
     }
 }
