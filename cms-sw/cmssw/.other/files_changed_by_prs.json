@@ -1253,6 +1253,7 @@
             "RecoTracker/FinalTrackSelectors/plugins/alpaka/TrackSoAMergerKernels.h",
             "RecoTracker/FinalTrackSelectors/plugins/alpaka/TrackSoAMergerKernelsImpl.h",
             "RecoTracker/IterativeTracking/python/InitialStep_cff.py",
+            "RecoTracker/PixelSeeding/interface/CAGeometrySoA.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/CACell.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtuplet.cc",
             "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGenerator.cc",
@@ -1275,7 +1276,7 @@
         "created_at": 1781873187,
         "number": 51268,
         "state": "open",
-        "updated_at": 1790834062
+        "updated_at": 1791287259
     },
     "51270": {
         "base_branch": "master",
