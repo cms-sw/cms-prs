@@ -4302,5 +4302,42 @@
         "number": 52112,
         "state": "open",
         "updated_at": 1791389910
+    },
+    "52115": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/HLT_75e33/services/PyTorchAlpakaService_cff.py",
+            "HLTrigger/Configuration/python/HLT_75e33_cff.py",
+            "HLTrigger/Configuration/python/HLT_75e33_timing_cff.py",
+            "HLTrigger/Configuration/python/HLT_NGTScouting_cff.py",
+            "HeterogeneousCore/AlpakaInterface/interface/FixedQueueRegistry.h",
+            "HeterogeneousCore/AlpakaServices/src/alpaka/AlpakaService.cc",
+            "PhysicsTools/PyTorchAlpaka/BuildFile.xml",
+            "PhysicsTools/PyTorchAlpaka/README.md",
+            "PhysicsTools/PyTorchAlpaka/interface/alpaka/PyTorchAllocatorBridge.h",
+            "PhysicsTools/PyTorchAlpaka/interface/alpaka/PyTorchAlpakaService.h",
+            "PhysicsTools/PyTorchAlpaka/interface/alpaka/PyTorchEDProducer.h",
+            "PhysicsTools/PyTorchAlpaka/plugins/BuildFile.xml",
+            "PhysicsTools/PyTorchAlpaka/plugins/alpaka/PyTorchAlpakaService.cc",
+            "PhysicsTools/PyTorchAlpaka/python/ProcessAcceleratorPyTorchAlpaka.py",
+            "PhysicsTools/PyTorchAlpaka/python/ProcessAcceleratorPyTorchAlpaka_cfi.py",
+            "PhysicsTools/PyTorchAlpaka/python/PyTorchAlpakaServiceCudaAsync_cfi.py",
+            "PhysicsTools/PyTorchAlpaka/python/PyTorchAlpakaServiceROCmAsync_cfi.py",
+            "PhysicsTools/PyTorchAlpakaTest/plugins/alpaka/MaskedNet.cc",
+            "PhysicsTools/PyTorchAlpakaTest/plugins/alpaka/MultiHeadNet.cc",
+            "PhysicsTools/PyTorchAlpakaTest/plugins/alpaka/SimpleNet.cc",
+            "PhysicsTools/PyTorchAlpakaTest/plugins/alpaka/SimpleNetMiniBatch.cc",
+            "PhysicsTools/PyTorchAlpakaTest/plugins/alpaka/TinyResNet.cc",
+            "PhysicsTools/PyTorchAlpakaTest/plugins/alpaka/TinyResNetMiniBatch.cc",
+            "PhysicsTools/PyTorchAlpakaTest/python/options_cff.py",
+            "PhysicsTools/PyTorchAlpakaTest/test/BuildFile.xml",
+            "PhysicsTools/PyTorchAlpakaTest/test/runPyTorchAlpakaTest.py",
+            "RecoTracker/FinalTrackSelectors/plugins/alpaka/PixelTrackTorchHighPuritySelector.cc",
+            "RecoTracker/FinalTrackSelectors/plugins/alpaka/TrackTorchClassifierAlpaka.cc"
+        ],
+        "created_at": 1791407029,
+        "number": 52115,
+        "state": "open",
+        "updated_at": 1791407056
     }
 }
