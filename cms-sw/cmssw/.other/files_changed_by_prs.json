@@ -4292,5 +4292,27 @@
         "number": 52108,
         "state": "open",
         "updated_at": 1791373919
+    },
+    "52109": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoLocalCalo/HGCalRecAlgos/BuildFile.xml",
+            "RecoLocalCalo/HGCalRecAlgos/README_CMCalibration.md",
+            "RecoLocalCalo/HGCalRecAlgos/interface/HGCALSoACMML.h",
+            "RecoLocalCalo/HGCalRecAlgos/interface/HGCALSoACMMLDeviceCollection.h",
+            "RecoLocalCalo/HGCalRecAlgos/interface/HGCalCMCorrectionSoA.h",
+            "RecoLocalCalo/HGCalRecAlgos/interface/alpaka/HGCalCMCalibrationAlgorithms.h",
+            "RecoLocalCalo/HGCalRecAlgos/interface/alpaka/HGCalCMCorrectionDeviceCollection.h",
+            "RecoLocalCalo/HGCalRecAlgos/interface/alpaka/HGCalRecHitCalibrationAlgorithms.h",
+            "RecoLocalCalo/HGCalRecAlgos/plugins/BuildFile.xml",
+            "RecoLocalCalo/HGCalRecAlgos/plugins/alpaka/HGCalCMCalibrationAlgorithms.dev.cc",
+            "RecoLocalCalo/HGCalRecAlgos/plugins/alpaka/HGCalCMCalibrationProducer.cc",
+            "RecoLocalCalo/HGCalRecAlgos/plugins/alpaka/HGCalRecHitCalibrationAlgorithms.dev.cc",
+            "RecoLocalCalo/HGCalRecAlgos/plugins/alpaka/HGCalRecHitProducers.cc"
+        ],
+        "created_at": 1791375268,
+        "number": 52109,
+        "state": "open",
+        "updated_at": 1791375296
     }
 }
