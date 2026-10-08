@@ -4274,6 +4274,7 @@
             "PhysicsTools/PyTorchAlpaka/python/ProcessAcceleratorPyTorchAlpaka_cfi.py",
             "PhysicsTools/PyTorchAlpaka/python/PyTorchAlpakaServiceCudaAsync_cfi.py",
             "PhysicsTools/PyTorchAlpaka/python/PyTorchAlpakaServiceROCmAsync_cfi.py",
+            "PhysicsTools/PyTorchAlpaka/src/alpaka/PyTorchAllocatorBridge.cc",
             "PhysicsTools/PyTorchAlpakaTest/plugins/alpaka/MaskedNet.cc",
             "PhysicsTools/PyTorchAlpakaTest/plugins/alpaka/MultiHeadNet.cc",
             "PhysicsTools/PyTorchAlpakaTest/plugins/alpaka/SimpleNet.cc",
@@ -4289,7 +4290,7 @@
         "created_at": 1791407029,
         "number": 52115,
         "state": "open",
-        "updated_at": 1791407056
+        "updated_at": 1791458794
     },
     "52116": {
         "base_branch": "master",
