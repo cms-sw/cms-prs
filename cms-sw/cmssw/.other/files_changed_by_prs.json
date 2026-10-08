@@ -2630,6 +2630,7 @@
             "DataFormats/TICL/interface/detail/FillAssociator.h",
             "DataFormats/TrackingRecHitSoA/interface/TrackingRecHitsDevice.h",
             "DataFormats/TrackingRecHitSoA/interface/TrackingRecHitsHost.h",
+            "HeterogeneousCore/AlpakaCore/README.md",
             "HeterogeneousCore/AlpakaCore/interface/CopyToDeviceCache.h",
             "HeterogeneousCore/AlpakaCore/interface/MoveToDeviceCache.h",
             "HeterogeneousCore/AlpakaInterface/interface/AllocatorPolicy.h",
@@ -2646,7 +2647,6 @@
             "HeterogeneousTest/AlpakaKernel/plugins/alpaka/AlpakaTestKernelAdditionModule.cc",
             "HeterogeneousTest/AlpakaWrapper/plugins/alpaka/AlpakaTestWrapperAdditionModule.cc",
             "PhysicsTools/PyTorchAlpaka/interface/GetDevice.h",
-            "PhysicsTools/PyTorchAlpaka/interface/QueueGuard.h",
             "PhysicsTools/PyTorchAlpaka/interface/TensorCollection.h",
             "PhysicsTools/PyTorchAlpaka/interface/TensorHandle.h",
             "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthShowerShape.h"
@@ -2654,7 +2654,7 @@
         "created_at": 1789566942,
         "number": 51903,
         "state": "open",
-        "updated_at": 1790086768
+        "updated_at": 1791451830
     },
     "51919": {
         "base_branch": "master",
