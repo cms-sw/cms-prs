@@ -4484,5 +4484,42 @@
         "number": 52125,
         "state": "open",
         "updated_at": 1791460275
+    },
+    "52126": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/relval_standard.py",
+            "Configuration/PyReleaseValidation/python/relval_steps.py",
+            "DQM/HGCAL/BuildFile.xml",
+            "DQM/HGCAL/interface/HGCalChannelWorker.h",
+            "DQM/HGCAL/interface/HGCalDQMCommon.h",
+            "DQM/HGCAL/interface/HGCalDQMGeometry.h",
+            "DQM/HGCAL/interface/HGCalDQMWorkerBase.h",
+            "DQM/HGCAL/interface/HGCalFedWorker.h",
+            "DQM/HGCAL/interface/HGCalLSWorker.h",
+            "DQM/HGCAL/interface/HGCalQualityWorker.h",
+            "DQM/HGCAL/interface/HGCalTriggerWorker.h",
+            "DQM/HGCAL/plugins/BuildFile.xml",
+            "DQM/HGCAL/plugins/HGCalDQMHarvester.cc",
+            "DQM/HGCAL/plugins/HGCalDigiDQM.cc",
+            "DQM/HGCAL/plugins/HGCalFastStreamDQM.cc",
+            "DQM/HGCAL/plugins/HGCalLayerClusterDQM.cc",
+            "DQM/HGCAL/plugins/HGCalRecHitDQM.cc",
+            "DQM/HGCAL/python/hgcalDQM_cff.py",
+            "DQM/HGCAL/src/HGCalChannelWorker.cc",
+            "DQM/HGCAL/src/HGCalDQMCommon.cc",
+            "DQM/HGCAL/src/HGCalDQMGeometry.cc",
+            "DQM/HGCAL/src/HGCalFedWorker.cc",
+            "DQM/HGCAL/src/HGCalLSWorker.cc",
+            "DQM/HGCAL/src/HGCalQualityWorker.cc",
+            "DQM/HGCAL/src/HGCalTriggerWorker.cc",
+            "DQM/HGCAL/test/BuildFile.xml",
+            "DQM/HGCAL/test/testHGCalDQMClients_cfg.py",
+            "RecoLocalCalo/Configuration/python/hgcalTestBeamLocalReco_cff.py"
+        ],
+        "created_at": 1791460512,
+        "number": 52126,
+        "state": "open",
+        "updated_at": 1791460541
     }
 }
