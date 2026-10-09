@@ -3970,5 +3970,26 @@
         "number": 52129,
         "state": "open",
         "updated_at": 1791531681
+    },
+    "52130": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondCore/SiPhase2TrackerPlugins/BuildFile.xml",
+            "CondCore/SiPhase2TrackerPlugins/src/plugin.cc",
+            "CondFormats/DataRecord/interface/SiPhase2InnerTrackerCondDataRecords.h",
+            "CondFormats/DataRecord/interface/SiPhase2OuterTrackerCondDataRecords.h",
+            "CondFormats/DataRecord/src/SiPhase2InnerTrackerCondDataRecords.cc",
+            "CondFormats/DataRecord/src/SiPhase2OuterTrackerCondDataRecords.cc",
+            "CondTools/SiPhase2Tracker/plugins/BuildFile.xml",
+            "CondTools/SiPhase2Tracker/plugins/SiPhase2BadComponentsByHandBuilder.cc",
+            "CondTools/SiPhase2Tracker/plugins/SiPhase2BadComponentsByHandReader.cc",
+            "CondTools/SiPhase2Tracker/test/SiPhase2BadComponentsByHandBuilder_cfg.py",
+            "CondTools/SiPhase2Tracker/test/SiPhase2BadComponentsByHandReader_cfg.py",
+            "CondTools/SiPhase2Tracker/test/test_CondToolsSiPhase2Tracker.sh"
+        ],
+        "created_at": 1791536827,
+        "number": 52130,
+        "state": "open",
+        "updated_at": 1791536852
     }
 }
