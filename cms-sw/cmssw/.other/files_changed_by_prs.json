@@ -2562,22 +2562,18 @@
         "base_branch": "master",
         "changed_files_names": [
             "PerfTools/VTune/BuildFile.xml",
-            "PerfTools/VTune/interface/VTuneAnnotateService.h",
-            "PerfTools/VTune/interface/VTuneFilterService.h",
             "PerfTools/VTune/plugins/BuildFile.xml",
             "PerfTools/VTune/plugins/VTuneAnnotateService.cc",
             "PerfTools/VTune/plugins/VTuneFilterService.cc",
             "PerfTools/VTune/python/VTuneAnnotateService.py",
             "PerfTools/VTune/python/VTuneFilterService.py",
-            "PerfTools/VTune/src/VTuneAnnotateService.cc",
-            "PerfTools/VTune/src/VTuneFilterService.cc",
             "PerfTools/VTune/test/BuildFile.xml",
             "PerfTools/VTune/test/testVTuneServices.cc"
         ],
         "created_at": 1789132955,
         "number": 51864,
         "state": "open",
-        "updated_at": 1791551525
+        "updated_at": 1791572561
     },
     "51867": {
         "base_branch": "master",
