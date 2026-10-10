@@ -530,9 +530,19 @@
             "SimMuon/RPCDigitizer/src/RPCDigitizerPhase2.h",
             "SimMuon/RPCDigitizer/src/RPCSim.cc",
             "SimMuon/RPCDigitizer/src/RPCSim.h",
+            "SimMuon/RPCDigitizer/src/RPCSimAsymmetricCls.cc",
+            "SimMuon/RPCDigitizer/src/RPCSimAverage.cc",
+            "SimMuon/RPCDigitizer/src/RPCSimAverageNoise.cc",
+            "SimMuon/RPCDigitizer/src/RPCSimAverageNoiseEff.cc",
+            "SimMuon/RPCDigitizer/src/RPCSimAverageNoiseEffCls.cc",
             "SimMuon/RPCDigitizer/src/RPCSimModelTiming.cc",
+            "SimMuon/RPCDigitizer/src/RPCSimModelTimingBase.cc",
+            "SimMuon/RPCDigitizer/src/RPCSimModelTimingBase.h",
             "SimMuon/RPCDigitizer/src/RPCSimModelTimingPhase2.cc",
             "SimMuon/RPCDigitizer/src/RPCSimModelTimingPhase2.h",
+            "SimMuon/RPCDigitizer/src/RPCSimParam.cc",
+            "SimMuon/RPCDigitizer/src/RPCSimSimple.cc",
+            "SimMuon/RPCDigitizer/src/RPCSimTriv.cc",
             "SimMuon/RPCDigitizer/src/RPCSynchronizer.cc",
             "SimMuon/RPCDigitizer/src/RPCSynchronizer.h",
             "SimMuon/RPCDigitizer/src/RPCandIRPCDigiProducer.cc",
@@ -542,7 +552,7 @@
         "created_at": 1740485223,
         "number": 47447,
         "state": "open",
-        "updated_at": 1788549348
+        "updated_at": 1791639799
     },
     "48319": {
         "base_branch": "master",
