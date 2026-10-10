@@ -4085,12 +4085,15 @@
             "FWCore/Framework/test/stubs/TestStreamFilters.cc",
             "FWCore/Framework/test/stubs/TestStreamProducers.cc",
             "FWCore/TestProcessor/src/TestProcessor.cc",
-            "IgTools/IgProf/plugins/IgProfService.cc"
+            "IgTools/IgProf/plugins/IgProfService.cc",
+            "Mixing/Base/src/PileUp.cc",
+            "Mixing/Base/src/SecondaryEventProvider.cc",
+            "PerfTools/JeProf/plugins/JeProfService.cc"
         ],
         "created_at": 1791545688,
         "number": 52133,
         "state": "open",
-        "updated_at": 1791562429
+        "updated_at": 1791630977
     },
     "52134": {
         "base_branch": "master",
