@@ -2238,6 +2238,7 @@
             "PhysicsTools/TruthInfo/python/graphTools.py",
             "PhysicsTools/TruthInfo/python/mixedTruthGraphCustomize.py",
             "PhysicsTools/TruthInfo/python/truthEventContent_cff.py",
+            "PhysicsTools/TruthInfo/python/truthGraphDQMHarvester_cff.py",
             "PhysicsTools/TruthInfo/python/truthGraphMixedDigi_cff.py",
             "PhysicsTools/TruthInfo/python/truthGraphSelections.py",
             "PhysicsTools/TruthInfo/python/truthGraphValidation_cff.py",
@@ -2313,7 +2314,6 @@
             "Validation/TruthInfo/plugins/TruthGraphSummaryValidator.cc",
             "Validation/TruthInfo/python/truthBranchValidation_cff.py",
             "Validation/TruthInfo/python/truthGraphDQMHarvester_cff.py",
-            "PhysicsTools/TruthInfo/python/truthGraphDQMHarvester_cff.py",
             "Validation/TruthInfo/python/truthGraphValidation_cff.py",
             "Validation/TruthInfo/scripts/makeTruthGraphValidationPlots.py",
             "PhysicsTools/TruthInfo/scripts/makeTruthGraphValidationPlots.py",
@@ -2331,7 +2331,7 @@
         "created_at": 1788518022,
         "number": 51829,
         "state": "open",
-        "updated_at": 1790842251
+        "updated_at": 1791632653
     },
     "51832": {
         "base_branch": "master",
