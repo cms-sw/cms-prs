@@ -4134,5 +4134,25 @@
         "number": 52137,
         "state": "open",
         "updated_at": 1791573989
+    },
+    "52138": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoTICL/Inference/interface/TracksterInferenceAlgoFactory.h",
+            "RecoTICL/Inference/plugins/BuildFile.xml",
+            "RecoTICL/Inference/src/TracksterInferenceByCNN.cc",
+            "RecoTICL/Inference/plugins/TracksterInferenceByCNN.cc",
+            "RecoTICL/Inference/src/TracksterInferenceByDNN.cc",
+            "RecoTICL/Inference/plugins/TracksterInferenceByDNN.cc",
+            "RecoTICL/Inference/src/TracksterInferenceByPFN.cc",
+            "RecoTICL/Inference/plugins/TracksterInferenceByPFN.cc",
+            "RecoTICL/Interpretation/plugins/TICLCandidateProducer.cc",
+            "RecoTICL/Linking/plugins/TracksterLinksProducer.cc",
+            "RecoTICL/PatternRecognition/plugins/TrackstersProducer.cc"
+        ],
+        "created_at": 1791613870,
+        "number": 52138,
+        "state": "open",
+        "updated_at": 1791613971
     }
 }
