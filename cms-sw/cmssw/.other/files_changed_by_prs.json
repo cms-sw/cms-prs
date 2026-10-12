@@ -4356,5 +4356,32 @@
         "number": 52157,
         "state": "open",
         "updated_at": 1791793027
+    },
+    "52158": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Framework/interface/CallbackBase.h",
+            "FWCore/Framework/interface/CallbackExternalWork.h",
+            "FWCore/Framework/interface/ESProductResolverTemplate.h",
+            "FWCore/Framework/interface/GlobalSchedule.h",
+            "FWCore/Framework/interface/StreamSchedule.h",
+            "FWCore/Framework/interface/maker/TransitionWorker_Common.h",
+            "FWCore/Framework/interface/maker/TransitionWorker_Event.h",
+            "FWCore/Framework/interface/maker/WorkerT.h",
+            "FWCore/Framework/src/EventProcessor.cc",
+            "FWCore/Framework/src/GlobalSchedule.cc",
+            "FWCore/Framework/src/Path.cc",
+            "FWCore/Framework/src/ProductResolvers.cc",
+            "FWCore/Framework/src/SourceCoordinator.cc",
+            "FWCore/Framework/src/StreamSchedule.cc",
+            "FWCore/Framework/src/TransitionWorker_Event.cc",
+            "FWCore/Framework/src/WorkerT.cc",
+            "FWCore/ServiceRegistry/interface/ServiceRegistry.h",
+            "FWCore/ServiceRegistry/src/ServiceRegistry.cc"
+        ],
+        "created_at": 1791793759,
+        "number": 52158,
+        "state": "open",
+        "updated_at": 1791793788
     }
 }
