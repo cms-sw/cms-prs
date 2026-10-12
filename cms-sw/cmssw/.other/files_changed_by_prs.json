@@ -4263,5 +4263,17 @@
         "number": 52164,
         "state": "open",
         "updated_at": 1791813744
+    },
+    "52165": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/Common/interface/RefCoreStreamer.h",
+            "DataFormats/Common/src/RefCoreStreamer.cc",
+            "DataFormats/Common/test/test_catch2_RefCoreStreamerGuard.cpp"
+        ],
+        "created_at": 1791824654,
+        "number": 52165,
+        "state": "open",
+        "updated_at": 1791824682
     }
 }
