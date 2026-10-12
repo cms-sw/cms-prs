@@ -3645,12 +3645,14 @@
             "SimG4Core/CustomPhysics/test/checkQuirkSim.py",
             "SimG4Core/CustomPhysics/test/makeQuirkPairHepMC.py",
             "SimG4Core/CustomPhysics/test/quirk_pairgun_cfg.py",
-            "SimG4Core/CustomPhysics/test/runQuirkUnitTest.sh"
+            "SimG4Core/CustomPhysics/test/runQuirkUnitTest.sh",
+            "SimG4Core/Notification/interface/MCTruthUtil.h",
+            "SimG4Core/Notification/src/MCTruthUtil.cc"
         ],
         "created_at": 1791422586,
         "number": 52116,
         "state": "open",
-        "updated_at": 1791490885
+        "updated_at": 1791830149
     },
     "52118": {
         "base_branch": "CMSSW_20_0_X",
