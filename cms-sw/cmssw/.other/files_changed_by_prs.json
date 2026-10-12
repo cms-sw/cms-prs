@@ -4231,5 +4231,19 @@
         "number": 52159,
         "state": "open",
         "updated_at": 1791799132
+    },
+    "52161": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalGeometry/data/detIds.txt",
+            "Geometry/HGCalGeometry/interface/HGCalGeometry.h",
+            "Geometry/HGCalGeometry/src/HGCalGeometry.cc",
+            "Geometry/HGCalGeometry/test/HGCalAreaTester.cc",
+            "Geometry/HGCalGeometry/test/python/testHGCalArea_cfg.py"
+        ],
+        "created_at": 1791810089,
+        "number": 52161,
+        "state": "open",
+        "updated_at": 1791810119
     }
 }
