@@ -4278,5 +4278,20 @@
         "number": 52166,
         "state": "open",
         "updated_at": 1791829563
+    },
+    "52167": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Validation/EcalClusters/src/EgammaBasicClusters.cc",
+            "Validation/EcalDigis/plugins/EcalDigisValidationPh2.cc",
+            "Validation/EcalHits/src/EcalBarrelSimHitsValidation.cc",
+            "Validation/EcalRecHits/src/EcalBarrelRecHitsValidation.cc",
+            "Validation/EcalRecHits/src/EcalRecHitsValidation.cc",
+            "Validation/EcalTriggerPrimitives/plugins/EcalTPsValidationPh2.cc"
+        ],
+        "created_at": 1791834696,
+        "number": 52167,
+        "state": "open",
+        "updated_at": 1791834719
     }
 }
