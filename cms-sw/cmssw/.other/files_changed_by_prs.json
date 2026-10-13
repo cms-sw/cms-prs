@@ -4299,5 +4299,19 @@
         "number": 52171,
         "state": "open",
         "updated_at": 1791871407
+    },
+    "52172": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CalibCalorimetry/HcalAlgos/interface/HcalDbHardcode.h",
+            "CalibCalorimetry/HcalAlgos/src/HcalDbHardcode.cc",
+            "CalibCalorimetry/HcalPlugins/python/Hcal_Conditions_forGlobalTag_cff.py",
+            "CalibCalorimetry/HcalPlugins/src/HcalHardcodeCalibrations.cc",
+            "CalibCalorimetry/HcalPlugins/src/HcalHardcodeCalibrations.h"
+        ],
+        "created_at": 1791871968,
+        "number": 52172,
+        "state": "open",
+        "updated_at": 1791871996
     }
 }
