@@ -4318,5 +4318,32 @@
         "number": 52177,
         "state": "open",
         "updated_at": 1791890472
+    },
+    "52178": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/Eras/python/Util_fastSimPhase2_cff.py",
+            "FastSimulation/Configuration/python/DigiAliases_cff.py",
+            "FastSimulation/SimplifiedGeometryPropagator/BuildFile.xml",
+            "FastSimulation/SimplifiedGeometryPropagator/interface/Geometry.h",
+            "FastSimulation/SimplifiedGeometryPropagator/interface/SimplifiedGeometry.h",
+            "FastSimulation/SimplifiedGeometryPropagator/interface/SimplifiedGeometryFactory.h",
+            "FastSimulation/SimplifiedGeometryPropagator/plugins/FastSimProducer.cc",
+            "FastSimulation/SimplifiedGeometryPropagator/plugins/MTDSimHitProducer.cc",
+            "FastSimulation/SimplifiedGeometryPropagator/python/MTDMaterial_cfi.py",
+            "FastSimulation/SimplifiedGeometryPropagator/python/fastSimProducer_cff.py",
+            "FastSimulation/SimplifiedGeometryPropagator/src/Geometry.cc",
+            "FastSimulation/SimplifiedGeometryPropagator/src/SimplifiedGeometryFactory.cc",
+            "FastSimulation/Tracking/plugins/RecoTrackAccumulator.cc",
+            "FastSimulation/Tracking/plugins/RecoTrackAccumulator.h",
+            "FastSimulation/Tracking/python/recoTrackAccumulator_cfi.py",
+            "SimFastTiming/FastTimingCommon/python/mtdDigitizer_cfi.py",
+            "SimGeneral/MixingModule/python/digitizers_cfi.py",
+            "SimGeneral/MixingModule/python/mixObjects_cfi.py"
+        ],
+        "created_at": 1791899035,
+        "number": 52178,
+        "state": "open",
+        "updated_at": 1791899068
     }
 }
