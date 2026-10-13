@@ -3917,6 +3917,8 @@
         "base_branch": "master",
         "changed_files_names": [
             "DataFormats/Portable/interface/PortableCollectionCommon.h",
+            "DataFormats/Portable/interface/PortableDeviceCollection.h",
+            "DataFormats/Portable/interface/PortableHostCollection.h",
             "DataFormats/Portable/test/alpaka/test_catch2_heterogeneousDeepCopy_SoABlocks.dev.cc",
             "DataFormats/Portable/test/test_catch2_deepCopyOnHost.cc",
             "DataFormats/SoATemplate/interface/SoABlocks.h",
@@ -3926,7 +3928,7 @@
         "created_at": 1791793002,
         "number": 52157,
         "state": "open",
-        "updated_at": 1791808284
+        "updated_at": 1791888009
     },
     "52158": {
         "base_branch": "master",
