@@ -3632,38 +3632,6 @@
         "state": "open",
         "updated_at": 1791835849
     },
-    "52144": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DQMServices/StreamerIO/test/DQMStreamerOutputRepackerTest.cc",
-            "EventFilter/Utilities/plugins/FRDOutputModule.cc",
-            "EventFilter/Utilities/plugins/FRDOutputModule.h",
-            "EventFilter/Utilities/plugins/GlobalEvFOutputModule.cc",
-            "EventFilter/Utilities/plugins/RawEventFileWriterForBU.cc",
-            "EventFilter/Utilities/plugins/RawEventFileWriterForBU.h",
-            "EventFilter/Utilities/plugins/RawEventOutputModuleForBU.h",
-            "FWCore/Utilities/BuildFile.xml",
-            "FWCore/Utilities/interface/Adler32Calculator.h",
-            "FWCore/Utilities/src/Adler32Calculator.cc",
-            "FWIO/RNTupleTempInput/bin/EdmRNTupleTempFileUtil.cpp",
-            "HLTrigger/JSONMonitoring/plugins/HLTriggerJSONMonitoring.cc",
-            "HLTrigger/JSONMonitoring/plugins/L1TriggerJSONMonitoring.cc",
-            "IOPool/Common/bin/EdmFileUtil.cpp",
-            "IOPool/Streamer/bin/CalcAdler32.cpp",
-            "IOPool/Streamer/bin/DiagStreamerFile.cpp",
-            "IOPool/Streamer/interface/StreamerFileIO.h",
-            "IOPool/Streamer/src/StreamSerializer.cc",
-            "IOPool/Streamer/src/StreamerFileIO.cc",
-            "IOPool/Streamer/src/StreamerFileWriter.h",
-            "IOPool/Streamer/src/StreamerInputSource.cc",
-            "IOPool/Streamer/test/EventMessageTest.cpp",
-            "IOPool/Streamer/test/WriteStreamerFile.cpp"
-        ],
-        "created_at": 1791711815,
-        "number": 52144,
-        "state": "open",
-        "updated_at": 1791826137
-    },
     "52146": {
         "base_branch": "master",
         "changed_files_names": [
