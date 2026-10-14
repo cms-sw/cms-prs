@@ -3197,6 +3197,13 @@
             "DataFormats/SoATemplate/test/SoAMultiView_t.cu",
             "DataFormats/SoATemplate/test/SoAMultiView_t.hip.cc",
             "DataFormats/SoATemplate/test/SoAUnitTests.cc",
+            "DataFormats/TrackingRecHitSoA/interface/TrackingRecHitsDevice.h",
+            "DataFormats/TrackingRecHitSoA/interface/TrackingRecHitsHost.h",
+            "DataFormats/TrackingRecHitSoA/interface/TrackingRecHitsSoA.h",
+            "DataFormats/TrackingRecHitSoA/src/classes_def.xml",
+            "DataFormats/TrackingRecHitSoA/test/alpaka/Hits_test.cc",
+            "DataFormats/TrackingRecHitSoA/test/alpaka/Hits_test.dev.cc",
+            "DataFormats/TrackingRecHitSoA/test/alpaka/Hits_test.h",
             "HeterogeneousCore/TestModules/interface/SchemaEvolutionHostCollection.h",
             "HeterogeneousCore/TestModules/interface/SchemaEvolutionSoA.h",
             "HeterogeneousCore/TestModules/plugins/BuildFile.xml",
@@ -3217,12 +3224,15 @@
             "HeterogeneousCore/TestModules/test/SchemaEvolutionAoSWriter.py",
             "HeterogeneousCore/TestModules/test/SchemaEvolutionAoSZeroReader.py",
             "HeterogeneousCore/TestModules/test/TestSchemaEvolution.sh",
+            "RecoLocalTracker/Phase2TrackerRecHits/plugins/alpaka/Phase2OTRecHitsSoAConverter.cc",
+            "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelRecHitKernels.dev.cc",
+            "RecoLocalTracker/SiPixelRecHits/plugins/alpaka/PixelRecHits.h",
             "RecoParticleFlow/PFRecHitProducer/plugins/alpaka/CaloRecHitSoAProducer.cc"
         ],
         "created_at": 1791200826,
         "number": 52085,
         "state": "open",
-        "updated_at": 1791292569
+        "updated_at": 1791973585
     },
     "52091": {
         "base_branch": "CMSSW_17_0_X",
