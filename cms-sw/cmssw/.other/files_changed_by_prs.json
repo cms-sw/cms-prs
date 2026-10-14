@@ -4141,8 +4141,9 @@
             "Configuration/ProcessModifiers/python/ticl_superclustering_mustache_pf_cff.py",
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
             "RecoEcal/EgammaClusterProducers/python/particleFlowSuperClusteringSequence_cff.py",
+            "RecoTICL/Configuration/python/assembler.py",
+            "RecoTICL/Configuration/python/catalog.py",
             "RecoTICL/Configuration/python/iterativeTICL_cff.py",
-            "RecoTICL/Configuration/python/presets.py",
             "RecoTICL/Configuration/python/target.py",
             "RecoTICL/Configuration/python/ticlEventContent_cff.py",
             "RecoTICL/Superclustering/python/superclustering_cff.py",
@@ -4153,7 +4154,7 @@
         "created_at": 1791885627,
         "number": 52175,
         "state": "open",
-        "updated_at": 1791956771
+        "updated_at": 1791967899
     },
     "52176": {
         "base_branch": "CMSSW_16_0_X",
