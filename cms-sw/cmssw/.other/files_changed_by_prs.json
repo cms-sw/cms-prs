@@ -3136,7 +3136,6 @@
     "52083": {
         "base_branch": "master",
         "changed_files_names": [
-            "L1Trigger/L1THGCal/interface/HGCalTriggerGeoTesterBase.h",
             "L1Trigger/L1THGCal/interface/HGCalTriggerGeometryBase.h",
             "L1Trigger/L1THGCal/plugins/geometries/HGCalTriggerGeometryV16Imp1.cc",
             "L1Trigger/L1THGCal/plugins/geometries/HGCalTriggerGeometryV19Imp1.cc",
@@ -3144,11 +3143,12 @@
             "L1Trigger/L1THGCal/plugins/geometries/HGCalTriggerGeometryV9Imp3.cc",
             "L1Trigger/L1THGCal/python/customTriggerGeometry.py",
             "L1Trigger/L1THGCal/python/hgcalTriggerPrimitives_cff.py",
-            "L1Trigger/L1THGCal/src/HGCalTriggerGeoTesterBase.cc",
             "L1Trigger/L1THGCal/src/HGCalTriggerTools.cc",
             "L1Trigger/L1THGCal/test/BuildFile.xml",
             "L1Trigger/L1THGCal/test/geometry/HGCalTriggerGeoTesterBackendStage1.cc",
             "L1Trigger/L1THGCal/test/geometry/HGCalTriggerGeoTesterBackendStage2.cc",
+            "L1Trigger/L1THGCal/test/geometry/HGCalTriggerGeoTesterBase.cc",
+            "L1Trigger/L1THGCal/test/geometry/HGCalTriggerGeoTesterBase.h",
             "L1Trigger/L1THGCal/test/geometry/HGCalTriggerGeoTesterCells.cc",
             "L1Trigger/L1THGCal/test/geometry/HGCalTriggerGeoTesterManager.cc",
             "L1Trigger/L1THGCal/test/geometry/HGCalTriggerGeoTesterModules.cc",
@@ -3175,7 +3175,7 @@
         "created_at": 1791195931,
         "number": 52083,
         "state": "open",
-        "updated_at": 1791795853
+        "updated_at": 1791969904
     },
     "52085": {
         "base_branch": "master",
