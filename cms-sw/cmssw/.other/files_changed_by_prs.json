@@ -2718,6 +2718,8 @@
         "base_branch": "master",
         "changed_files_names": [
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "DQM/PFTasks/BuildFile.xml",
+            "DQM/PFTasks/plugins/BuildFile.xml",
             "DQM/PFTasks/plugins/PFHcalGPUComparisonTask.cc",
             "DQMOffline/Configuration/python/DQMOfflineFS_cff.py",
             "DQMOffline/Configuration/python/DQMOffline_SecondStep_cff.py",
@@ -2730,6 +2732,7 @@
             "Validation/RecoParticleFlow/plugins/OffsetDQMPostProcessor.cc",
             "DQMOffline/ParticleFlow/plugins/PFAnalyzer.cc",
             "DQMOffline/ParticleFlow/plugins/PFAnalyzer.h",
+            "DQMOffline/ParticleFlow/plugins/PFHcalGPUComparisonTask.cc",
             "DQMOffline/ParticleFlow/python/DQMForPF_HLT_cff.py",
             "DQMOffline/ParticleFlow/python/DQMForPF_Heterogeneous_cff.py",
             "DQMOffline/ParticleFlow/python/DQMForPF_cff.py",
@@ -2757,7 +2760,7 @@
         "created_at": 1790349190,
         "number": 51979,
         "state": "open",
-        "updated_at": 1792003175
+        "updated_at": 1792053219
     },
     "52000": {
         "base_branch": "master",
