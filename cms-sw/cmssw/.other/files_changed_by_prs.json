@@ -4235,5 +4235,20 @@
         "number": 52211,
         "state": "open",
         "updated_at": 1792141715
+    },
+    "52212": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FastSimulation/CaloGeometryTools/BuildFile.xml",
+            "FastSimulation/CaloGeometryTools/interface/HGCalFastGeometry.h",
+            "FastSimulation/CaloGeometryTools/src/HGCalFastGeometry.cc",
+            "FastSimulation/CaloGeometryTools/test/BuildFile.xml",
+            "FastSimulation/CaloGeometryTools/test/HGCalFastGeometryTester.cc",
+            "FastSimulation/CaloGeometryTools/test/hgcalFastGeometryTester_cfg.py"
+        ],
+        "created_at": 1792148889,
+        "number": 52212,
+        "state": "open",
+        "updated_at": 1792148916
     }
 }
