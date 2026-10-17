@@ -2900,7 +2900,6 @@
             "PhysicsTools/NanoAOD/python/jetsAK4_CHS_cff.py",
             "PhysicsTools/NanoAOD/python/muons_cff.py",
             "PhysicsTools/NanoAOD/python/run3scouting_cff.py",
-            "PhysicsTools/ONNXRuntime/BuildFile.xml",
             "PhysicsTools/ONNXRuntime/interface/Backend.h",
             "PhysicsTools/ONNXRuntime/interface/ONNXInterface.h",
             "PhysicsTools/ONNXRuntime/interface/ONNXRuntime.h",
@@ -2910,11 +2909,8 @@
             "PhysicsTools/ONNXRuntime/src/ONNXInterface.cc",
             "PhysicsTools/ONNXRuntime/src/ONNXRuntime.cc",
             "PhysicsTools/ONNXRuntime/src/SessionCache.cc",
-            "PhysicsTools/ONNXRuntime/test/BuildFile.xml",
             "PhysicsTools/ONNXRuntime/test/testONNXRuntime.cc",
             "PhysicsTools/ONNXRuntime/test/testONNXRuntime.h",
-            "PhysicsTools/ONNXRuntime/test/testONNXRuntimeCUDA.cc",
-            "PhysicsTools/ONNXRuntime/test/testONNXRuntimeROCm.cc",
             "PhysicsTools/PatAlgos/interface/BaseMVAValueMapProducer.h",
             "PhysicsTools/PatAlgos/python/slimming/miniAODFromMiniAOD_tools.py",
             "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py",
@@ -2931,7 +2927,7 @@
         "created_at": 1790766804,
         "number": 52032,
         "state": "open",
-        "updated_at": 1790818751
+        "updated_at": 1792249158
     },
     "52034": {
         "base_branch": "master",
