@@ -2628,7 +2628,6 @@
             "PhysicsTools/NanoAOD/python/jetsAK4_CHS_cff.py",
             "PhysicsTools/NanoAOD/python/muons_cff.py",
             "PhysicsTools/NanoAOD/python/run3scouting_cff.py",
-            "PhysicsTools/ONNXRuntime/BuildFile.xml",
             "PhysicsTools/ONNXRuntime/interface/Backend.h",
             "PhysicsTools/ONNXRuntime/interface/ONNXInterface.h",
             "PhysicsTools/ONNXRuntime/interface/ONNXRuntime.h",
@@ -2638,11 +2637,8 @@
             "PhysicsTools/ONNXRuntime/src/ONNXInterface.cc",
             "PhysicsTools/ONNXRuntime/src/ONNXRuntime.cc",
             "PhysicsTools/ONNXRuntime/src/SessionCache.cc",
-            "PhysicsTools/ONNXRuntime/test/BuildFile.xml",
             "PhysicsTools/ONNXRuntime/test/testONNXRuntime.cc",
             "PhysicsTools/ONNXRuntime/test/testONNXRuntime.h",
-            "PhysicsTools/ONNXRuntime/test/testONNXRuntimeCUDA.cc",
-            "PhysicsTools/ONNXRuntime/test/testONNXRuntimeROCm.cc",
             "PhysicsTools/ONNXRuntimeAlpaka/BuildFile.xml",
             "PhysicsTools/ONNXRuntimeAlpaka/README.md",
             "PhysicsTools/ONNXRuntimeAlpaka/interface/GetMemoryInfo.h",
@@ -2682,17 +2678,17 @@
             "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py",
             "RecoBTag/Configuration/python/RecoBTag_cff.py",
             "RecoEgamma/EgammaElectronProducers/python/gedGsfElectronSequence_cff.py",
-            "RecoHGCal/TICL/interface/TICLONNXGlobalCache.h",
-            "RecoHGCal/TICL/python/iterativeTICL_cff.py",
             "RecoParticleFlow/Configuration/python/RecoParticleFlow_cff.py",
             "RecoParticleFlow/PFProducer/plugins/MLPFProducer.cc",
             "RecoTICL/Configuration/python/assembler.py",
-            "RecoTICL/Configuration/python/exporter.py"
+            "RecoTICL/Configuration/python/exporter.py",
+            "RecoTICL/Configuration/python/iterativeTICL_cff.py",
+            "RecoTICL/Inference/interface/TICLONNXGlobalCache.h"
         ],
         "created_at": 1790191616,
         "number": 51958,
         "state": "open",
-        "updated_at": 1791696903
+        "updated_at": 1792247444
     },
     "51977": {
         "base_branch": "master",
