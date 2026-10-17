@@ -4105,6 +4105,8 @@
             "CondFormats/HGCalObjects/interface/alpaka/HGCalAgeingCondsDevice.h",
             "CondFormats/HGCalObjects/src/HGCalAgeingCondsHost.cc",
             "CondFormats/HGCalObjects/src/alpaka/HGCalAgeingCondsDevice.cc",
+            "Geometry/HGCalMapping/plugins/HGCalMappingESProducer.cc",
+            "Geometry/HGCalMapping/plugins/HGCalMappingTriggerESProducer.cc",
             "Geometry/HGCalMapping/plugins/alpaka/HGCalDenseIndexInfoESProducer.cc",
             "Geometry/HGCalMapping/plugins/alpaka/HGCalMappingCellESProducer.cc",
             "SimCalorimetry/HGCalSimAlgos/interface/HGCalSciNoiseMap.h",
@@ -4129,7 +4131,7 @@
         "created_at": 1792219433,
         "number": 52219,
         "state": "open",
-        "updated_at": 1792219676
+        "updated_at": 1792239823
     },
     "52220": {
         "base_branch": "CMSSW_17_0_X",
