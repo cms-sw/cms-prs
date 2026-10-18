@@ -4243,5 +4243,18 @@
         "number": 52227,
         "state": "open",
         "updated_at": 1792322251
+    },
+    "52228": {
+        "base_branch": "CMSSW_17_0_X",
+        "changed_files_names": [
+            "PhysicsTools/PatAlgos/python/slimming/MicroEventContent_cff.py",
+            "PhysicsTools/PatAlgos/python/slimming/slimming_cff.py",
+            "RecoVertex/AdaptiveVertexFinder/python/inclusiveCandidateVertexFinder_cfi.py",
+            "RecoVertex/AdaptiveVertexFinder/python/inclusiveVertexing_cff.py"
+        ],
+        "created_at": 1792348781,
+        "number": 52228,
+        "state": "open",
+        "updated_at": 1792348809
     }
 }
