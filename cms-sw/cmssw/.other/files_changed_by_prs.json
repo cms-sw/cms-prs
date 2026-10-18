@@ -4212,5 +4212,22 @@
         "number": 52225,
         "state": "open",
         "updated_at": 1792315488
+    },
+    "52226": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/TICL/interface/detail/FillAssociator.h",
+            "HeterogeneousCore/AlpakaInterface/interface/OneToManyAssoc.h",
+            "HeterogeneousCore/AlpakaInterface/interface/prefixScan.h",
+            "HeterogeneousCore/AlpakaInterface/src/prefixScan.cc",
+            "HeterogeneousCore/AlpakaInterface/test/alpaka/testPrefixScan.dev.cc",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToClusterKernel.dev.cc",
+            "RecoLocalTracker/SiStripClusterizer/plugins/alpaka/SiStripRawToClusterAlgo.dev.cc",
+            "RecoTracker/FinalTrackSelectors/plugins/alpaka/PixelTrackTorchHighPuritySelectorKernels.dev.cc"
+        ],
+        "created_at": 1792317434,
+        "number": 52226,
+        "state": "open",
+        "updated_at": 1792317464
     }
 }
