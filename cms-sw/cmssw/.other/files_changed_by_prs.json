@@ -4517,5 +4517,22 @@
         "number": 52238,
         "state": "open",
         "updated_at": 1792403118
+    },
+    "52239": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/interface/HGCalDDDConstants.h",
+            "Geometry/HGCalCommonData/src/HGCalDDDConstants.cc",
+            "Geometry/HGCalCommonData/test/BuildFile.xml",
+            "Geometry/HGCalCommonData/test/HGCalCellSizeHexTester.cc",
+            "Geometry/HGCalCommonData/test/python/testHGCalCellSizeHex_cfg.py",
+            "RecoEgamma/EgammaTools/src/HGCalShowerShapeHelper.cc",
+            "RecoEgamma/EgammaTools/test/BuildFile.xml",
+            "RecoEgamma/EgammaTools/test/testHGCalShowerShapeHelper.cc"
+        ],
+        "created_at": 1792414170,
+        "number": 52239,
+        "state": "open",
+        "updated_at": 1792414234
     }
 }
