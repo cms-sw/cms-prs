@@ -4328,5 +4328,17 @@
         "number": 52236,
         "state": "open",
         "updated_at": 1792401048
+    },
+    "52237": {
+        "base_branch": "CMSSW_15_1_X",
+        "changed_files_names": [
+            "Configuration/Generator/python/DYToLL01234Jets_5FS_TuneCH3_13TeV_madgraphMLM_herwig7_cff.py",
+            "Configuration/Generator/python/DYToLL012Jets_5FS_TuneCH3_13TeV_amcatnloFxFx_herwig7_cff.py",
+            "Configuration/Generator/python/Herwig7Settings/Herwig7MGMergingSettings_cfi.py"
+        ],
+        "created_at": 1792403078,
+        "number": 52237,
+        "state": "open",
+        "updated_at": 1792403106
     }
 }
