@@ -499,6 +499,7 @@
         "changed_files_names": [
             "Configuration/Eras/python/Modifier_phase2_rpc_devel_cff.py",
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "Configuration/StandardSequences/python/DigiDM_cff.py",
             "DataFormats/RPCDigi/interface/IRPCDigi.h",
             "DataFormats/RPCDigi/interface/IRPCDigiCollection.h",
             "DataFormats/RPCDigi/interface/IRPCDigiTime.h",
@@ -514,6 +515,7 @@
             "IOMC/RandomEngine/python/IOMC_cff.py",
             "SimMuon/Configuration/python/SimMuon_EventContent_cff.py",
             "SimMuon/Configuration/python/SimMuon_cff.py",
+            "SimMuon/Configuration/python/customizeMuonDigi.py",
             "SimMuon/RPCDigitizer/python/muonRPCDigis_cfi.py",
             "SimMuon/RPCDigitizer/src/IRPCDigiProducer.cc",
             "SimMuon/RPCDigitizer/src/IRPCDigiProducer.h",
@@ -552,7 +554,7 @@
         "created_at": 1740485223,
         "number": 47447,
         "state": "open",
-        "updated_at": 1792496136
+        "updated_at": 1792508879
     },
     "48319": {
         "base_branch": "master",
