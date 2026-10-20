@@ -4512,5 +4512,19 @@
         "number": 52250,
         "state": "open",
         "updated_at": 1792517422
+    },
+    "52251": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DPGAnalysis/HcalTools/plugins/CMTRawAnalyzer.cc",
+            "DQM/HcalCommon/interface/ElectronicsQuantity.h",
+            "DQMServices/Core/src/ROOTFilePB.pb.cc",
+            "Validation/HGCalValidation/plugins/HGCalTriggerValidator.cc",
+            "Validation/RecoParticleFlow/plugins/PFCaloGPUComparisonTask.cc"
+        ],
+        "created_at": 1792517426,
+        "number": 52251,
+        "state": "open",
+        "updated_at": 1792517450
     }
 }
