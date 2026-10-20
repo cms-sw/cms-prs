@@ -4351,5 +4351,16 @@
         "number": 52244,
         "state": "open",
         "updated_at": 1792499986
+    },
+    "52245": {
+        "base_branch": "CMSSW_17_0_X",
+        "changed_files_names": [
+            "RecoTracker/DeDx/plugins/DeDxHitInfoProducer.cc",
+            "RecoTracker/DeDx/python/dedxEstimators_cff.py"
+        ],
+        "created_at": 1792503753,
+        "number": 52245,
+        "state": "open",
+        "updated_at": 1792503798
     }
 }
