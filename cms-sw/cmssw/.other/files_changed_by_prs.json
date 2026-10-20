@@ -4495,5 +4495,22 @@
         "number": 52249,
         "state": "open",
         "updated_at": 1792517416
+    },
+    "52250": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/L1GlobalCaloTrigger/interface/L1GctInternHtMiss.h",
+            "DataFormats/L1Trigger/interface/TkJetWord.h",
+            "DataFormats/L1Trigger/interface/TkTripletWord.h",
+            "DataFormats/L1Trigger/interface/VertexWord.h",
+            "L1Trigger/CSCTriggerPrimitives/src/CSCPatternBank.cc",
+            "L1Trigger/DTTriggerPhase2/interface/ShowerBuilder.h",
+            "L1Trigger/L1CaloTrigger/plugins/Phase1L1TJetSumsProducer.cc",
+            "L1Trigger/RPCTrigger/src/RPCConst.cc"
+        ],
+        "created_at": 1792517398,
+        "number": 52250,
+        "state": "open",
+        "updated_at": 1792517422
     }
 }
