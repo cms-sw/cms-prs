@@ -3713,6 +3713,7 @@
             "CommonTools/RecoAlgos/interface/RecoTrackSelectorBase.h",
             "Configuration/EventContent/python/EventContent_cff.py",
             "Geometry/CommonTopologies/interface/SimplePixelTopology.h",
+            "HLTrigger/Configuration/python/HLT_75e33/eventsetup/hltESPPixelCPEFastParams_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltAk4CaloJetsForTrk_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltDeepInclusiveVertexFinderPF_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltGeneralTracks_cfi.py",
@@ -3734,6 +3735,8 @@
             "HLTrigger/Configuration/python/customizeHLTforCMSSW.py",
             "HLTrigger/NGTScouting/python/hltTracks_cfi.py",
             "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/ClusterChargeCut.h",
+            "RecoLocalTracker/SiPixelRecHits/interface/pixelCPEforDevice.h",
+            "RecoLocalTracker/SiPixelRecHits/src/PixelCPEFastParamsHost.cc",
             "RecoTracker/Configuration/python/customizePixelTracksForTriplets.py",
             "RecoTracker/FinalTrackSelectors/interface/PixelTrackFeaturesSoA.h",
             "RecoTracker/FinalTrackSelectors/plugins/BuildFile.xml",
@@ -3762,7 +3765,7 @@
         "created_at": 1791794391,
         "number": 52159,
         "state": "open",
-        "updated_at": 1791821114
+        "updated_at": 1792508202
     },
     "52166": {
         "base_branch": "master",
