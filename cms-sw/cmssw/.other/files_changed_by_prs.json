@@ -4362,5 +4362,21 @@
         "number": 52245,
         "state": "open",
         "updated_at": 1792503798
+    },
+    "52246": {
+        "base_branch": "CMSSW_17_0_X",
+        "changed_files_names": [
+            "RecoLocalCalo/HcalRecAlgos/interface/MahiFit.h",
+            "RecoLocalCalo/HcalRecAlgos/interface/PulseShapeFitOOTPileupCorrection.h",
+            "RecoLocalCalo/HcalRecAlgos/interface/SimpleHBHEPhase1Algo.h",
+            "RecoLocalCalo/HcalRecAlgos/python/hcalPulseShapesESProd_cfi.py",
+            "RecoLocalCalo/HcalRecAlgos/src/MahiFit.cc",
+            "RecoLocalCalo/HcalRecAlgos/src/PulseShapeFitOOTPileupCorrection.cc",
+            "RecoLocalCalo/HcalRecAlgos/src/SimpleHBHEPhase1Algo.cc"
+        ],
+        "created_at": 1792504633,
+        "number": 52246,
+        "state": "open",
+        "updated_at": 1792504659
     }
 }
