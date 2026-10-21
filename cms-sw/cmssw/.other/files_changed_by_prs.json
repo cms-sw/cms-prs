@@ -4267,6 +4267,7 @@
         "changed_files_names": [
             "DQM/HLTEvF/plugins/ScoutingCollectionMonitor.cc",
             "DQM/HLTEvF/python/ScoutingCollectionMonitor_cfi.py",
+            "DQMOffline/Configuration/python/DQMOffline_cff.py",
             "DQMOffline/HLTScouting/python/HLTScoutingDqmOffline_cff.py",
             "DQMOffline/JetMET/python/jetAnalyzer_cfi.py",
             "DQMOffline/JetMET/python/jetMETDQMOfflineSource_cff.py",
@@ -4276,7 +4277,7 @@
         "created_at": 1792397076,
         "number": 52235,
         "state": "open",
-        "updated_at": 1792565798
+        "updated_at": 1792594488
     },
     "52239": {
         "base_branch": "master",
