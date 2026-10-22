@@ -3349,12 +3349,17 @@
             "SimG4CMS/Muon/src/MuonSensitiveDetector.cc",
             "SimG4CMS/Tracker/interface/TkAccumulatingSensitiveDetector.h",
             "SimG4CMS/Tracker/src/TkAccumulatingSensitiveDetector.cc",
+            "SimG4Core/Application/interface/Phase2StackingAction.h",
             "SimG4Core/Application/interface/Phase2TrackingAction.h",
+            "SimG4Core/Application/interface/RunManagerMT.h",
+            "SimG4Core/Application/interface/RunManagerMTWorker.h",
+            "SimG4Core/Application/interface/StackingAction.h",
             "SimG4Core/Application/interface/TrackingAction.h",
             "SimG4Core/Application/python/g4SimHits_cfi.py",
             "SimG4Core/Application/src/Phase2StackingAction.cc",
             "SimG4Core/Application/src/Phase2TrackingAction.cc",
             "SimG4Core/Application/src/RunManagerMT.cc",
+            "SimG4Core/Application/src/RunManagerMTWorker.cc",
             "SimG4Core/Application/src/StackingAction.cc",
             "SimG4Core/Application/src/TrackingAction.cc",
             "SimG4Core/CustomPhysics/interface/CMSQuirkPhysics.h",
@@ -3388,7 +3393,7 @@
         "created_at": 1791422586,
         "number": 52116,
         "state": "open",
-        "updated_at": 1792491896
+        "updated_at": 1792632919
     },
     "52123": {
         "base_branch": "master",
