@@ -3805,6 +3805,8 @@
             "DataFormats/TrackingRecHitSoA/interface/VectorHitsSoA.h",
             "DataFormats/TrackingRecHitSoA/interface/alpaka/OTRecHitsSoACollection.h",
             "DataFormats/TrackingRecHitSoA/interface/alpaka/VectorHitsSoACollection.h",
+            "DataFormats/TrackingRecHitSoA/plugins/TrivialSerialisation.cc",
+            "DataFormats/TrackingRecHitSoA/plugins/alpaka/TrivialSerialisation.cc",
             "DataFormats/TrackingRecHitSoA/src/alpaka/classes_cuda.h",
             "DataFormats/TrackingRecHitSoA/src/alpaka/classes_cuda_def.xml",
             "DataFormats/TrackingRecHitSoA/src/alpaka/classes_rocm.h",
@@ -3950,7 +3952,7 @@
         "created_at": 1791871390,
         "number": 52171,
         "state": "open",
-        "updated_at": 1792480894
+        "updated_at": 1792742040
     },
     "52176": {
         "base_branch": "CMSSW_16_0_X",
