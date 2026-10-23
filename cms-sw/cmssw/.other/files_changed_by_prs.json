@@ -4308,5 +4308,20 @@
         "number": 52276,
         "state": "open",
         "updated_at": 1792764508
+    },
+    "52278": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/Applications/python/ConfigBuilder.py",
+            "Configuration/Applications/python/Options.py",
+            "Configuration/Applications/python/cmsDriverOptions.py",
+            "Configuration/Applications/test/ConfigBuilderTest.py",
+            "Configuration/PyReleaseValidation/python/WorkFlowRunner.py",
+            "Configuration/PyReleaseValidation/python/relval_Run4.py"
+        ],
+        "created_at": 1792786375,
+        "number": 52278,
+        "state": "open",
+        "updated_at": 1792786402
     }
 }
