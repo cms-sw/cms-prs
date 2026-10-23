@@ -3141,6 +3141,7 @@
             "Geometry/HGCalMapping/plugins/alpaka/HGCalDenseIndexTriggerInfoESProducer.cc",
             "Geometry/HGCalMapping/plugins/alpaka/HGCalMappingTriggerModuleESProducer.cc",
             "Geometry/HGCalMapping/python/hgcalmapping_cff.py",
+            "Geometry/HGCalMapping/test/HGCalMappingESSourceTester.cc",
             "Geometry/HGCalMapping/test/HGCalMappingTriggerESSourceTester.cc",
             "Geometry/HGCalMapping/test/testMappingModuleIndexerTrigger_cfg.py",
             "Geometry/HcalTestBeamData/test/python/testHcalTBParameterDD4hep_cfg.py",
@@ -3285,7 +3286,7 @@
         "created_at": 1791375268,
         "number": 52109,
         "state": "open",
-        "updated_at": 1792478555
+        "updated_at": 1792748537
     },
     "52115": {
         "base_branch": "master",
