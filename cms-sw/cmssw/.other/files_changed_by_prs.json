@@ -3410,9 +3410,13 @@
             "FWCore/ServiceRegistry/src/ServiceRegistry.cc",
             "FWCore/ServiceRegistry/src/ServiceToken.cc",
             "FWCore/ServiceRegistry/src/ServicesManager.cc",
+            "FWCore/ServiceRegistry/test/BuildFile.xml",
             "FWCore/ServiceRegistry/test/serviceregistry_t.catch2.cpp",
             "FWCore/ServiceRegistry/test/servicesmanager_order.cpp",
             "FWCore/ServiceRegistry/test/servicesmanager_t.catch2.cc",
+            "FWCore/ServiceRegistry/test/stubs/Modules.cc",
+            "FWCore/ServiceRegistry/test/stubs/TokenHolderService.cc",
+            "FWCore/ServiceRegistry/test/stubs/TokenHolderService.h",
             "FWCore/TestProcessor/interface/TestProcessor.h",
             "FWCore/TestProcessor/interface/TestSourceProcessor.h",
             "FWCore/TestProcessor/src/TestProcessor.cc",
@@ -3444,7 +3448,7 @@
         "created_at": 1791793759,
         "number": 52158,
         "state": "open",
-        "updated_at": 1792744932
+        "updated_at": 1792756447
     },
     "52159": {
         "base_branch": "CMSSW_17_0_X",
