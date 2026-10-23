@@ -4455,5 +4455,19 @@
         "number": 52271,
         "state": "open",
         "updated_at": 1792736913
+    },
+    "52272": {
+        "base_branch": "CMSSW_17_0_X",
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPFJetForBtag_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/paths/HLT_DoubleMediumPFPuppiParTTauh30_eta2p1_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTJetFlavourTagParticleTransformerSequencePF_cfi.py",
+            "HLTrigger/Configuration/test/BuildFile.xml",
+            "HLTrigger/Configuration/test/test_NGTScoutingL1GTAccept.sh"
+        ],
+        "created_at": 1792739132,
+        "number": 52272,
+        "state": "open",
+        "updated_at": 1792739168
     }
 }
