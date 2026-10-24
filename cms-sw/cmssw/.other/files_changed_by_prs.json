@@ -3601,6 +3601,7 @@
             "DataFormats/TrackingRecHitSoA/src/classes_def.xml",
             "Geometry/CommonTopologies/interface/SimplePixelTopology.h",
             "HLTrigger/Configuration/python/HLT_75e33/eventsetup/hltESPStackedModuleGeometry_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltCAOTRecHitsSoA_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltInitialStepSeeds_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2OTVectorHitsSoA_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2PixelTrackTorchHighPuritySelector_cfi.py",
@@ -3608,9 +3609,7 @@
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2PixelTracksSoA_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2PixelTracksWithVectorHits_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2PixelTracks_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPixelSeedingOTRecHitsSoA_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/paths/DST_HeterogeneousReco_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTOtLocalRecoSequence_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPhase2PixelTracksAndVerticesSequence_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33_cff.py",
             "HLTrigger/Configuration/python/HLT_75e33_timing_cff.py",
@@ -3658,6 +3657,7 @@
             "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernels.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernelsImpl.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernels_Phase2OTVectorHits.dev.cc",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAOTRecHitsSoAConverter.cc",
             "RecoTracker/PixelSeeding/plugins/alpaka/CAPixelDoublets.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/CAPixelDoubletsAlgos.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/CASizingDumpMacro.h",
@@ -3676,7 +3676,6 @@
             "RecoTracker/PixelSeeding/plugins/alpaka/Phase2OTVectorHitsFormationKernels.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/Phase2OTVectorHitsFormationKernelsWrapper.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/Phase2OTVectorHitsSoAProducer.cc",
-            "RecoTracker/PixelSeeding/plugins/alpaka/PixelSeedingOTRecHitsSoAConverter.cc",
             "RecoTracker/PixelSeeding/plugins/alpaka/RiemannFit.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/RiemannFit_Phase2OTVectorHits.dev.cc",
             "RecoTracker/PixelSeeding/plugins/alpaka/StackedModuleGeometryESProducer.cc",
@@ -3737,7 +3736,7 @@
         "created_at": 1791871390,
         "number": 52171,
         "state": "open",
-        "updated_at": 1792742040
+        "updated_at": 1792858771
     },
     "52176": {
         "base_branch": "CMSSW_16_0_X",
