@@ -3500,9 +3500,11 @@
             "RecoTracker/LST/plugins/LSTOutputConverter.cc",
             "RecoTracker/LST/plugins/alpaka/LSTInputProducer.cc",
             "RecoTracker/LST/plugins/alpaka/LSTProducer.cc",
+            "RecoTracker/LSTCore/BuildFile.xml",
             "RecoTracker/LSTCore/interface/HitsSoA.h",
             "RecoTracker/LSTCore/interface/LSTInputSoA.h",
             "RecoTracker/LSTCore/interface/LSTOTHits.h",
+            "RecoTracker/LSTCore/interface/LSTPixelSeedRefs.h",
             "RecoTracker/LSTCore/interface/LSTPrepareInput.h",
             "RecoTracker/LSTCore/interface/MiniDoubletsHostCollection.h",
             "RecoTracker/LSTCore/interface/MiniDoubletsSoA.h",
@@ -3546,7 +3548,7 @@
         "created_at": 1791829546,
         "number": 52166,
         "state": "open",
-        "updated_at": 1792487613
+        "updated_at": 1793025217
     },
     "52171": {
         "base_branch": "master",
