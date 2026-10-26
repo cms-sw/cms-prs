@@ -4371,5 +4371,23 @@
         "number": 52288,
         "state": "open",
         "updated_at": 1793007655
+    },
+    "52289": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQM/Integration/python/clients/hlt_dqm_sourceclient-live_cfg.py",
+            "HLTrigger/Configuration/python/HLT_75e33/eventsetup/ClusterShapeHitFilterESProducer_cfi.py",
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py",
+            "RecoTracker/PixelLowPtUtilities/interface/ClusterShapeHitFilter.h",
+            "RecoTracker/PixelLowPtUtilities/plugins/ClusterShapeHitFilterESProducer.cc",
+            "RecoTracker/PixelLowPtUtilities/python/ClusterShapeHitFilterESProducer_cfi.py",
+            "RecoTracker/PixelLowPtUtilities/src/ClusterShapeHitFilter.cc",
+            "RecoTracker/PixelLowPtUtilities/test/ClusterShapeHitFilter_t.cpp",
+            "RecoTracker/Record/interface/CkfComponentsRecord.h"
+        ],
+        "created_at": 1793008592,
+        "number": 52289,
+        "state": "open",
+        "updated_at": 1793008618
     }
 }
