@@ -1234,6 +1234,8 @@
         "base_branch": "master",
         "changed_files_names": [
             "Configuration/ProcessModifiers/python/caTwoIterations_cff.py",
+            "Configuration/PyReleaseValidation/README.md",
+            "Configuration/PyReleaseValidation/python/relval_gpu.py",
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
             "DataFormats/TrackSoA/interface/TrackDefinitions.h",
             "DataFormats/TrackSoA/interface/TracksSoA.h",
@@ -1259,7 +1261,6 @@
             "RecoTracker/FinalTrackSelectors/plugins/alpaka/TrackSoAMergerKernels.dev.cc",
             "RecoTracker/FinalTrackSelectors/plugins/alpaka/TrackSoAMergerKernels.h",
             "RecoTracker/FinalTrackSelectors/plugins/alpaka/TrackSoAMergerKernelsImpl.h",
-            "RecoTracker/IterativeTracking/python/InitialStep_cff.py",
             "RecoTracker/PixelSeeding/interface/CAGeometrySoA.h",
             "RecoTracker/PixelSeeding/interface/CAPairSoA.h",
             "RecoTracker/PixelSeeding/plugins/alpaka/CACell.h",
@@ -1284,7 +1285,7 @@
         "created_at": 1781873187,
         "number": 51268,
         "state": "open",
-        "updated_at": 1792488854
+        "updated_at": 1793085656
     },
     "51271": {
         "base_branch": "master",
