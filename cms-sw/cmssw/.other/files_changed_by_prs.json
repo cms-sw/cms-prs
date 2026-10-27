@@ -1796,11 +1796,6 @@
             "DataFormats/CaloRecHit/src/classes.h",
             "DataFormats/CaloRecHit/src/classes_def.xml",
             "DataFormats/HGCalReco/interface/HGCalSoARecHitsExtra.h",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHgCalLayerClustersFromSoAProducerHSciL1Seeded_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHgCalLayerClustersFromSoAProducerHSci_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHgCalLayerClustersFromSoAProducerHSiL1Seeded_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHgCalLayerClustersFromSoAProducerHSi_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHgCalLayerClustersFromSoAProducerL1Seeded_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltHgcalLayerClustersEEL1Seeded_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltHgcalLayerClustersEE_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltHgcalLayerClustersFromSoAProducer_cfi.py",
@@ -1836,6 +1831,8 @@
             "RecoLocalCalo/Configuration/python/hgcalLocalReco_cff.py",
             "RecoLocalCalo/HGCalRecProducers/interface/HGCalSoAClustersExtra.h",
             "RecoLocalCalo/HGCalRecProducers/interface/alpaka/HGCalSoAClustersExtraDeviceCollection.h",
+            "RecoTICL/Configuration/python/catalog.py",
+            "RecoTICL/Configuration/python/customiseTICLForMuonCassettesTest_cff.py",
             "RecoTICL/LayerClustering/interface/DumpClustersDetails.h",
             "RecoTICL/LayerClustering/interface/HGCalImagingAlgo.h",
             "RecoTICL/LayerClustering/plugins/BuildFile.xml",
@@ -1845,6 +1842,7 @@
             "RecoTICL/LayerClustering/plugins/HGCalLayerClusterAlgoPlugins.cc",
             "RecoTICL/LayerClustering/plugins/HGCalLayerClusterProducer.cc",
             "RecoTICL/LayerClustering/plugins/HGCalLayerClustersFromSoAProducer.cc",
+            "RecoTICL/LayerClustering/plugins/HGCalMergedLayerClustersFromSoAProducer.cc",
             "RecoTICL/LayerClustering/plugins/alpaka/ConstantsForClusters.h",
             "RecoTICL/LayerClustering/plugins/alpaka/HGCalCLUEsteringAlgoWrapper.dev.cc",
             "RecoTICL/LayerClustering/plugins/alpaka/HGCalCLUEsteringAlgoWrapper.h",
@@ -1861,7 +1859,7 @@
         "created_at": 1785309171,
         "number": 51587,
         "state": "open",
-        "updated_at": 1793004507
+        "updated_at": 1793105411
     },
     "51600": {
         "base_branch": "master",
