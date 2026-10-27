@@ -4345,30 +4345,6 @@
         "state": "open",
         "updated_at": 1793117251
     },
-    "52298": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "Validation/Geometry/interface/MaterialBudgetHcalHistos.h",
-            "Validation/Geometry/src/MaterialBudgetHcalHistos.cc",
-            "Validation/Geometry/test/runMaterialBudgetVolumeBigDD4hepXML_cfg.py",
-            "Validation/Geometry/test/runMaterialBudgetVolumeBigDDDXML_cfg.py",
-            "Validation/Geometry/test/runMaterialBudgetVolumeDB_cfg.py",
-            "Validation/Geometry/test/runP_Calo_cfg.py",
-            "Validation/Geometry/test/runP_Castor_Debug_cfg.py",
-            "Validation/Geometry/test/runP_Castor_cfg.py",
-            "Validation/Geometry/test/runP_HCALP2_cfg.py",
-            "Validation/Geometry/test/runP_HCALP2dd4hep_cfg.py",
-            "Validation/Geometry/test/runP_HCALP_cfg.py",
-            "Validation/Geometry/test/runP_HCAL_Debug_cfg.py",
-            "Validation/Geometry/test/runP_HCAL_Debug_dd4hep_cfg.py",
-            "Validation/Geometry/test/runP_HCAL_cfg.py",
-            "Validation/Geometry/test/runP_HCAL_dd4hep_cfg.py"
-        ],
-        "created_at": 1793093148,
-        "number": 52298,
-        "state": "open",
-        "updated_at": 1793093178
-    },
     "52299": {
         "base_branch": "CMSSW_17_0_X",
         "changed_files_names": [
