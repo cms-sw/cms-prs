@@ -4388,5 +4388,22 @@
         "number": 52299,
         "state": "open",
         "updated_at": 1793094182
+    },
+    "52300": {
+        "base_branch": "CMSSW_20_0_X",
+        "changed_files_names": [
+            "DQM/Integration/python/clients/hlt_dqm_sourceclient-live_cfg.py",
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py",
+            "RecoTracker/PixelLowPtUtilities/interface/ClusterShapeHitFilter.h",
+            "RecoTracker/PixelLowPtUtilities/plugins/ClusterShapeHitFilterESProducer.cc",
+            "RecoTracker/PixelLowPtUtilities/python/ClusterShapeHitFilterESProducer_cfi.py",
+            "RecoTracker/PixelLowPtUtilities/src/ClusterShapeHitFilter.cc",
+            "RecoTracker/PixelLowPtUtilities/test/ClusterShapeHitFilter_t.cpp",
+            "RecoTracker/Record/interface/CkfComponentsRecord.h"
+        ],
+        "created_at": 1793094223,
+        "number": 52300,
+        "state": "open",
+        "updated_at": 1793094250
     }
 }
