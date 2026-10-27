@@ -4386,5 +4386,18 @@
         "number": 52299,
         "state": "open",
         "updated_at": 1793094182
+    },
+    "52301": {
+        "base_branch": "CMSSW_17_0_X",
+        "changed_files_names": [
+            "Configuration/AlCa/python/autoCond.py",
+            "Configuration/EventContent/python/EventContent_cff.py",
+            "HLTrigger/Configuration/python/HLTrigger_EventContent_cff.py",
+            "HLTrigger/Configuration/test/getEventContent.py"
+        ],
+        "created_at": 1793111705,
+        "number": 52301,
+        "state": "open",
+        "updated_at": 1793111736
     }
 }
