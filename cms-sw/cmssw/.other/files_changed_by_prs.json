@@ -4328,5 +4328,16 @@
         "number": 52314,
         "state": "open",
         "updated_at": 1793197969
+    },
+    "52315": {
+        "base_branch": "CMSSW_13_0_X",
+        "changed_files_names": [
+            "Utilities/XrdAdaptor/plugins/XrdStorageMaker.cc",
+            "Utilities/XrdAdaptor/src/XrdRequestManager.cc"
+        ],
+        "created_at": 1793198036,
+        "number": 52315,
+        "state": "open",
+        "updated_at": 1793198065
     }
 }
