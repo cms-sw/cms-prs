@@ -4106,5 +4106,21 @@
         "number": 52303,
         "state": "open",
         "updated_at": 1793133230
+    },
+    "52305": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalGeometry/src/HGCalGeometry.cc",
+            "Geometry/HGCalGeometry/src/HGCalTBGeometry.cc",
+            "Geometry/HGCalGeometry/test/CaloCellGeometryTester.cc",
+            "Geometry/HGCalGeometry/test/HGCalGeometryTester.cc",
+            "Geometry/HGCalGeometry/test/HGCalTestNeighbor.cc",
+            "Geometry/HGCalGeometry/test/HGCalTestRecHitTool.cc",
+            "Geometry/HGCalGeometry/test/HGCalValidTest.cc"
+        ],
+        "created_at": 1793184729,
+        "number": 52305,
+        "state": "open",
+        "updated_at": 1793184759
     }
 }
