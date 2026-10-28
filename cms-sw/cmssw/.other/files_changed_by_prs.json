@@ -4402,5 +4402,21 @@
         "number": 52321,
         "state": "open",
         "updated_at": 1793204308
+    },
+    "52322": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoLocalTracker/SiPhase2Clusterizer/plugins/BuildFile.xml",
+            "RecoLocalTracker/SiPhase2Clusterizer/plugins/Phase2TrackerClusterMerger.cc",
+            "RecoLocalTracker/SiPhase2Clusterizer/plugins/Phase2TrackerClusterMergerAlgorithm.h",
+            "RecoLocalTracker/SiPhase2Clusterizer/plugins/Phase2TrackerClusterizer.cc",
+            "RecoLocalTracker/SiPhase2Clusterizer/plugins/Phase2TrackerClusterizerSequentialAlgorithm.h",
+            "RecoLocalTracker/SiPhase2Clusterizer/python/phase2TrackerClusterMerger_cfi.py",
+            "RecoLocalTracker/SiPhase2Clusterizer/test/BuildFile.xml"
+        ],
+        "created_at": 1793204373,
+        "number": 52322,
+        "state": "open",
+        "updated_at": 1793204411
     }
 }
