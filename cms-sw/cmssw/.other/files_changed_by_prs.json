@@ -4487,5 +4487,21 @@
         "number": 52329,
         "state": "open",
         "updated_at": 1793265638
+    },
+    "52331": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoTracker/Configuration/python/RecoTrackerP5_cff.py",
+            "RecoTracker/SingleTrackPattern/interface/CosmicTrackFinder.h",
+            "RecoTracker/SingleTrackPattern/interface/CosmicTrajectoryBuilder.h",
+            "RecoTracker/SingleTrackPattern/python/CosmicCandidateFinder_cfi.py",
+            "RecoTracker/SingleTrackPattern/python/CosmicTrackFinder_cfi.py",
+            "RecoTracker/SingleTrackPattern/src/CosmicTrackFinder.cc",
+            "RecoTracker/SingleTrackPattern/src/CosmicTrajectoryBuilder.cc"
+        ],
+        "created_at": 1793276006,
+        "number": 52331,
+        "state": "open",
+        "updated_at": 1793276038
     }
 }
