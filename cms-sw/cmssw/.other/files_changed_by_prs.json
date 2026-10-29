@@ -3040,16 +3040,16 @@
             "CondFormats/DataRecord/src/SiPhase2InnerTrackerCondDataRecords.cc",
             "CondFormats/DataRecord/src/SiPhase2OuterTrackerCondDataRecords.cc",
             "CondTools/SiPhase2Tracker/plugins/BuildFile.xml",
-            "CondTools/SiPhase2Tracker/plugins/SiPhase2BadComponentsByHandBuilder.cc",
-            "CondTools/SiPhase2Tracker/plugins/SiPhase2BadComponentsByHandReader.cc",
-            "CondTools/SiPhase2Tracker/test/SiPhase2BadComponentsByHandBuilder_cfg.py",
-            "CondTools/SiPhase2Tracker/test/SiPhase2BadComponentsByHandReader_cfg.py",
+            "CondTools/SiPhase2Tracker/plugins/SiPhase2BadSensorsByHandBuilder.cc",
+            "CondTools/SiPhase2Tracker/plugins/SiPhase2BadSensorsByHandReader.cc",
+            "CondTools/SiPhase2Tracker/test/SiPhase2BadSensorsByHandBuilder_cfg.py",
+            "CondTools/SiPhase2Tracker/test/SiPhase2BadSensorsByHandReader_cfg.py",
             "CondTools/SiPhase2Tracker/test/test_CondToolsSiPhase2Tracker.sh"
         ],
         "created_at": 1791536827,
         "number": 52130,
         "state": "open",
-        "updated_at": 1793112999
+        "updated_at": 1793265447
     },
     "52146": {
         "base_branch": "master",
