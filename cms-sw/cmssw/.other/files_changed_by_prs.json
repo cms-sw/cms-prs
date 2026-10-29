@@ -2511,10 +2511,13 @@
             "PhysicsTools/ONNXRuntime/src/ONNXInterface.cc",
             "PhysicsTools/ONNXRuntime/src/ONNXRuntime.cc",
             "PhysicsTools/ONNXRuntime/src/SessionCache.cc",
+            "PhysicsTools/ONNXRuntime/test/BuildFile.xml",
             "PhysicsTools/ONNXRuntime/test/testONNXRuntime.cc",
             "PhysicsTools/ONNXRuntime/test/testONNXRuntime.h",
+            "PhysicsTools/ONNXRuntime/test/testONNXRuntimeCPU.cc",
+            "PhysicsTools/ONNXRuntime/test/testONNXRuntimeCUDA.cc",
+            "PhysicsTools/ONNXRuntime/test/testONNXRuntimeROCm.cc",
             "PhysicsTools/PatAlgos/interface/BaseMVAValueMapProducer.h",
-            "PhysicsTools/PatAlgos/plugins/PATElectronProducer.cc",
             "PhysicsTools/PatAlgos/python/slimming/miniAODFromMiniAOD_tools.py",
             "PhysicsTools/PatAlgos/python/slimming/miniAOD_tools.py",
             "RecoBTag/Configuration/python/RecoBTag_cff.py",
@@ -2529,7 +2532,7 @@
         "created_at": 1790622031,
         "number": 52006,
         "state": "open",
-        "updated_at": 1793102144
+        "updated_at": 1793292743
     },
     "52008": {
         "base_branch": "master",
