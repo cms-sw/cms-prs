@@ -4516,5 +4516,24 @@
         "number": 52341,
         "state": "open",
         "updated_at": 1793357235
+    },
+    "52342": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "PhysicsTools/TruthInfo/plugins/LogicalGraphHitIndexProducer.cc",
+            "PhysicsTools/TruthInfo/plugins/TruthGraphDumper.cc",
+            "PhysicsTools/TruthInfo/plugins/TruthGraphProducer.cc",
+            "PhysicsTools/TruthInfo/plugins/TruthGraphTopologyChecker.cc",
+            "PhysicsTools/TruthInfo/plugins/TruthLogicalGraphDumper.cc",
+            "PhysicsTools/TruthInfo/plugins/TruthLogicalGraphProducer.cc",
+            "SimDataFormats/TruthInfo/interface/TruthGraph.h",
+            "SimDataFormats/TruthInfo/src/classes_def.xml",
+            "Validation/TruthInfo/plugins/BranchHGCalValidator.cc",
+            "Validation/TruthInfo/plugins/BranchTrackingValidator.cc"
+        ],
+        "created_at": 1793364775,
+        "number": 52342,
+        "state": "open",
+        "updated_at": 1793364803
     }
 }
