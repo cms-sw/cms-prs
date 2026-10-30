@@ -4590,12 +4590,14 @@
             "PhysicsTools/TruthInfo/interface/Branch.h",
             "PhysicsTools/TruthInfo/interface/TruthLevels.h",
             "PhysicsTools/TruthInfo/test/LevelFlags_t.cpp",
-            "SimGeneral/TruthGraphAssociatorProducers/plugins/TruthBranchTargetsProducer.cc"
+            "SimGeneral/TruthGraphAssociatorProducers/plugins/TruthBranchTargetsProducer.cc",
+            "Validation/TruthInfo/plugins/TruthBranchRecoValidator.cc",
+            "Validation/TruthInfo/scripts/makeTruthValidationPlots.py"
         ],
         "created_at": 1793366411,
         "number": 52345,
         "state": "open",
-        "updated_at": 1793373367
+        "updated_at": 1793378086
     },
     "52346": {
         "base_branch": "master",
