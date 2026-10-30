@@ -4463,5 +4463,24 @@
         "number": 52337,
         "state": "open",
         "updated_at": 1793343648
+    },
+    "52338": {
+        "base_branch": "CMSSW_17_1_X",
+        "changed_files_names": [
+            "DataFormats/EcalDigi/src/classes_def.xml",
+            "DataFormats/EgammaReco/src/classes_def.xml",
+            "DataFormats/GeometryVector/src/classes_def.xml",
+            "DataFormats/HGCalReco/src/classes_def.xml",
+            "DataFormats/L1TMuon/src/classes_def.xml",
+            "DataFormats/L1TMuonPhase2/src/classes_def.xml",
+            "DataFormats/L1TParticleFlow/src/classes_def.xml",
+            "DataFormats/L1Trigger/src/classes_def.xml",
+            "DataFormats/StdDictionaries/src/classes_def_vector.xml",
+            "SimDataFormats/CaloAnalysis/src/classes_def.xml"
+        ],
+        "created_at": 1793350788,
+        "number": 52338,
+        "state": "open",
+        "updated_at": 1793350850
     }
 }
