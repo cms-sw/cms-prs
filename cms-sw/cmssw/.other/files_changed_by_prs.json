@@ -4547,8 +4547,12 @@
     "52343": {
         "base_branch": "master",
         "changed_files_names": [
+            "PhysicsTools/TruthInfo/interface/Branch.h",
             "PhysicsTools/TruthInfo/python/graphTools.py",
+            "PhysicsTools/TruthInfo/src/Branch.cc",
+            "PhysicsTools/TruthInfo/test/Branch_t.cpp",
             "PhysicsTools/TruthInfo/test/Interactions_t.cpp",
+            "PhysicsTools/TruthInfo/test/graphTools_t.py",
             "SimDataFormats/TruthInfo/interface/InteractionId.h",
             "SimDataFormats/TruthInfo/interface/Particle.h",
             "SimDataFormats/TruthInfo/interface/ParticleData.h",
@@ -4560,7 +4564,7 @@
         "created_at": 1793364920,
         "number": 52343,
         "state": "open",
-        "updated_at": 1793371519
+        "updated_at": 1793378081
     },
     "52344": {
         "base_branch": "master",
