@@ -4625,5 +4625,31 @@
         "number": 52349,
         "state": "open",
         "updated_at": 1793369258
+    },
+    "52350": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "PhysicsTools/TruthInfo/plugins/BuildFile.xml",
+            "PhysicsTools/TruthInfo/plugins/TruthGraphMetadataProducer.cc",
+            "PhysicsTools/TruthInfo/plugins/TruthGraphProducer.cc",
+            "PhysicsTools/TruthInfo/python/customiseTruthGenOnly.py",
+            "PhysicsTools/TruthInfo/python/customiseTruthMetadata.py",
+            "PhysicsTools/TruthInfo/python/customiseTruthPreset.py",
+            "PhysicsTools/TruthInfo/src/TruthLogicalGraphPostProcessor.cc",
+            "PhysicsTools/TruthInfo/test/BuildFile.xml",
+            "PhysicsTools/TruthInfo/test/customiseTruthMetadata_t.py",
+            "PhysicsTools/TruthInfo/test/customiseTruthPreset_t.py",
+            "PhysicsTools/TruthInfo/test/genOnlyGraphMeta_cfg.py",
+            "PhysicsTools/TruthInfo/test/genOnlyGraph_cfg.py",
+            "PhysicsTools/TruthInfo/test/genOnlyGraph_t.py",
+            "PhysicsTools/TruthInfo/test/testGenOnlyGraph.sh",
+            "SimDataFormats/TruthInfo/interface/GraphMetadata.h",
+            "SimDataFormats/TruthInfo/src/classes.h",
+            "SimDataFormats/TruthInfo/src/classes_def.xml"
+        ],
+        "created_at": 1793369494,
+        "number": 52350,
+        "state": "open",
+        "updated_at": 1793369519
     }
 }
