@@ -4661,5 +4661,38 @@
         "number": 52351,
         "state": "open",
         "updated_at": 1793369866
+    },
+    "52352": {
+        "base_branch": "CMSSW_17_0_X",
+        "changed_files_names": [
+            "L1Trigger/Configuration/python/Phase2GTMenus/README.md",
+            "L1Trigger/Configuration/python/Phase2GTMenus/SeedDefinitions/step1_2024/l1tGTMenuObjects_cff.py",
+            "L1Trigger/Configuration/python/Phase2GTMenus/SeedDefinitions/step1_2024/l1tGTMenu_BTagSeeds_cff.py",
+            "L1Trigger/Configuration/python/Phase2GTMenus/SeedDefinitions/step1_2024/l1tGTMenu_step2Seeds_cff.py",
+            "L1Trigger/Configuration/python/Phase2GTMenus/SeedDefinitions/step1_2024/l1tGTObject_constants.py",
+            "L1Trigger/Configuration/python/Phase2GTMenus/SeedDefinitions/step1_2024/l1tGTObject_scalings.py",
+            "L1Trigger/Configuration/python/Phase2GTMenus/SeedDefinitions/v0p0_2026/l1tGTMenuObjects_cff.py",
+            "L1Trigger/Configuration/python/Phase2GTMenus/SeedDefinitions/v0p0_2026/l1tGTMenu_cff.py",
+            "L1Trigger/Configuration/python/Phase2GTMenus/SeedDefinitions/v0p0_2026/l1tGTMenu_crossLepSeeds_cff.py",
+            "L1Trigger/Configuration/python/Phase2GTMenus/SeedDefinitions/v0p0_2026/l1tGTMenu_displacedSeeds_cff.py",
+            "L1Trigger/Configuration/python/Phase2GTMenus/SeedDefinitions/v0p0_2026/l1tGTMenu_extendedSeeds_cff.py",
+            "L1Trigger/Configuration/python/Phase2GTMenus/SeedDefinitions/v0p0_2026/l1tGTMenu_hadr_crossLepSeeds_cff.py",
+            "L1Trigger/Configuration/python/Phase2GTMenus/SeedDefinitions/v0p0_2026/l1tGTMenu_hadr_metSeeds_cff.py",
+            "L1Trigger/Configuration/python/Phase2GTMenus/SeedDefinitions/v0p0_2026/l1tGTMenu_lepSeeds_cff.py",
+            "L1Trigger/Configuration/python/Phase2GTMenus/SeedDefinitions/v0p0_2026/l1tGTMenu_step2Seeds_cff.py",
+            "L1Trigger/Configuration/python/Phase2GTMenus/SeedDefinitions/v0p0_2026/l1tGTMenu_vbfSeeds_cff.py",
+            "L1Trigger/Configuration/python/Phase2GTMenus/SeedDefinitions/v0p0_2026/l1tGTObject_constants.py",
+            "L1Trigger/Configuration/python/Phase2GTMenus/SeedDefinitions/v0p0_2026/l1tGTObject_ids.py",
+            "L1Trigger/Configuration/python/Phase2GTMenus/SeedDefinitions/v0p0_2026/l1tGTObject_scalings.py",
+            "L1Trigger/Configuration/python/Phase2GTMenus/step1and2_2026.py",
+            "L1Trigger/Configuration/python/Phase2GTMenus/step1p5_2026.py",
+            "L1Trigger/Configuration/python/Phase2GTMenus/v0p0_2026.py",
+            "L1Trigger/Phase2L1GT/plugins/L1GTProducer.cc",
+            "L1Trigger/Phase2L1GT/python/l1tGTProducer_cff.py"
+        ],
+        "created_at": 1793370542,
+        "number": 52352,
+        "state": "open",
+        "updated_at": 1793370566
     }
 }
