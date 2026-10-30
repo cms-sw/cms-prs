@@ -2768,11 +2768,19 @@
     "52085": {
         "base_branch": "master",
         "changed_files_names": [
+            "DataFormats/Portable/BuildFile.xml",
+            "DataFormats/Portable/interface/PortableCollection.h",
             "DataFormats/Portable/interface/PortableCollectionCommon.h",
             "DataFormats/Portable/interface/PortableDeviceCollection.h",
+            "DataFormats/Portable/interface/PortableDeviceObject.h",
             "DataFormats/Portable/interface/PortableHostCollection.h",
+            "DataFormats/Portable/interface/PortableHostObject.h",
+            "DataFormats/Portable/interface/PortableObject.h",
+            "DataFormats/Portable/interface/alpaka/Transpose.h",
+            "DataFormats/Portable/src/PortableCollectionCommon.cc",
             "DataFormats/Portable/test/BuildFile.xml",
             "DataFormats/Portable/test/alpaka/test_catch2_AoS.dev.cc",
+            "DataFormats/Portable/test/test_catch2_checkInput.cc",
             "DataFormats/SoATemplate/interface/SoABlocks.h",
             "DataFormats/SoATemplate/interface/SoACommon.h",
             "DataFormats/SoATemplate/interface/SoALayout.h",
@@ -2820,7 +2828,7 @@
         "created_at": 1791200826,
         "number": 52085,
         "state": "open",
-        "updated_at": 1793116410
+        "updated_at": 1793369381
     },
     "52091": {
         "base_branch": "CMSSW_17_0_X",
