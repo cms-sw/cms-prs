@@ -4694,5 +4694,23 @@
         "number": 52352,
         "state": "open",
         "updated_at": 1793370566
+    },
+    "52353": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/HGCalReco/interface/TICLCandidate.h",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPfTICL_cfi.py",
+            "RecoTICL/Configuration/python/catalog.py",
+            "RecoTICL/Configuration/python/hlt_presets.py",
+            "RecoTICL/Configuration/python/iterativeTICL_cff.py",
+            "RecoTICL/Configuration/python/presets.py",
+            "RecoTICL/Configuration/test/test_reproduce_hlt.py",
+            "RecoTICL/ParticleFlow/plugins/PFTICLProducer.cc",
+            "SimCalorimetry/TICLSimProducers/plugins/SimTrackstersProducer.cc"
+        ],
+        "created_at": 1793370856,
+        "number": 52353,
+        "state": "open",
+        "updated_at": 1793370883
     }
 }
