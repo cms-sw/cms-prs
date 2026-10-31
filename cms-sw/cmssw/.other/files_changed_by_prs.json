@@ -4488,21 +4488,12 @@
     "52340": {
         "base_branch": "CMSSW_17_1_X",
         "changed_files_names": [
-            "Configuration/EventContent/python/EventContent_cff.py",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPFJetForBtag_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/paths/HLT_DoubleMediumPFPuppiParTTauh30_eta2p1_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTJetFlavourTagParticleTransformerSequencePF_cfi.py",
-            "HLTrigger/Configuration/python/HLTrigger_EventContent_cff.py",
-            "HLTrigger/Configuration/test/BuildFile.xml",
-            "HLTrigger/Configuration/test/getEventContent.py",
-            "HLTrigger/Configuration/test/test_NGTScoutingL1GTAccept.sh",
-            "L1Trigger/L1CaloTrigger/interface/Phase2L1CaloEGammaUtils.h",
             "PhysicsTools/NanoAOD/python/custom_muon_cff.py"
         ],
         "created_at": 1793353730,
         "number": 52340,
         "state": "open",
-        "updated_at": 1793353968
+        "updated_at": 1793464908
     },
     "52341": {
         "base_branch": "master",
