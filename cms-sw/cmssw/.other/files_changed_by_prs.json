@@ -4194,5 +4194,17 @@
         "number": 52359,
         "state": "open",
         "updated_at": 1793458573
+    },
+    "52361": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondCore/EcalPlugins/plugins/EcalLaserAPDPNRatios_PayloadInspector.cc",
+            "CondCore/EcalPlugins/test/BuildFile.xml",
+            "CondCore/EcalPlugins/test/testEcalLaserAPDPNRatiosPayloadInspector.cpp"
+        ],
+        "created_at": 1793614013,
+        "number": 52361,
+        "state": "open",
+        "updated_at": 1793614047
     }
 }
