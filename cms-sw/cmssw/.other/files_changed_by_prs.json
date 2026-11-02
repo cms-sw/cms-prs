@@ -4211,5 +4211,18 @@
         "number": 52361,
         "state": "open",
         "updated_at": 1793614047
+    },
+    "52362": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "PhysicsTools/NanoAOD/plugins/BuildFile.xml",
+            "PhysicsTools/NanoAOD/plugins/PFTracksExtTableProducer.cc",
+            "PhysicsTools/NanoAOD/plugins/pfTracksProducer.cc",
+            "PhysicsTools/NanoAOD/python/custom_muon_cff.py"
+        ],
+        "created_at": 1793619290,
+        "number": 52362,
+        "state": "open",
+        "updated_at": 1793619314
     }
 }
