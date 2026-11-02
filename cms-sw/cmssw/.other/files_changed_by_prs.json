@@ -4224,5 +4224,21 @@
         "number": 52362,
         "state": "open",
         "updated_at": 1793619314
+    },
+    "52363": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/PixelClustering.h",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelMorphingConfig.h",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelMorphingRegions.h",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelPhase2DigiToCluster.cc",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToCluster.cc",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToClusterKernel.dev.cc",
+            "RecoLocalTracker/SiPixelClusterizer/plugins/alpaka/SiPixelRawToClusterKernel.h"
+        ],
+        "created_at": 1793621474,
+        "number": 52363,
+        "state": "open",
+        "updated_at": 1793621498
     }
 }
