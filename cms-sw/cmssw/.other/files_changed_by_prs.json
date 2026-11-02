@@ -4062,6 +4062,7 @@
             "L1Trigger/Configuration/python/Phase2GTMenus/README.md",
             "L1Trigger/Configuration/python/Phase2GTMenus/SeedDefinitions/step1_2024/l1tGTMenuObjects_cff.py",
             "L1Trigger/Configuration/python/Phase2GTMenus/SeedDefinitions/step1_2024/l1tGTMenu_BTagSeeds_cff.py",
+            "L1Trigger/Configuration/python/Phase2GTMenus/SeedDefinitions/step1_2024/l1tGTMenu_hadr_crossLepSeeds_cff.py",
             "L1Trigger/Configuration/python/Phase2GTMenus/SeedDefinitions/step1_2024/l1tGTMenu_step2Seeds_cff.py",
             "L1Trigger/Configuration/python/Phase2GTMenus/SeedDefinitions/step1_2024/l1tGTObject_constants.py",
             "L1Trigger/Configuration/python/Phase2GTMenus/SeedDefinitions/step1_2024/l1tGTObject_scalings.py",
@@ -4087,7 +4088,7 @@
         "created_at": 1793370542,
         "number": 52352,
         "state": "open",
-        "updated_at": 1793561641
+        "updated_at": 1793645536
     },
     "52353": {
         "base_branch": "master",
