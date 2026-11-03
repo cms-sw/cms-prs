@@ -2795,6 +2795,7 @@
             "DataFormats/TrackerRecHit2D/interface/MTDTrackingRecHit.h",
             "DataFormats/TrackerRecHit2D/interface/OmniClusterRef.h",
             "DataFormats/TrackerRecHit2D/interface/TrackerSingleRecHit.h",
+            "DataFormats/TrackerRecHit2D/src/classes_def.xml",
             "RecoLocalFastTime/Configuration/python/RecoLocalFastTime_EventContent_cff.py",
             "RecoLocalFastTime/Configuration/python/RecoLocalFastTime_cff.py",
             "RecoLocalFastTime/FTLClusterizer/interface/MTDCPEBase.h",
@@ -2851,7 +2852,7 @@
         "created_at": 1791456795,
         "number": 52123,
         "state": "open",
-        "updated_at": 1793366959
+        "updated_at": 1793709863
     },
     "52130": {
         "base_branch": "master",
