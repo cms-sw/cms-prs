@@ -4443,5 +4443,21 @@
         "number": 52387,
         "state": "open",
         "updated_at": 1793715856
+    },
+    "52388": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondTools/Geometry/test/writehelpers/createExtended2022DD4hepPayloads.sh",
+            "CondTools/Geometry/test/writehelpers/createExtended2022Payloads.sh",
+            "CondTools/Geometry/test/writehelpers/geometryExtended2022DD4hep_writer.py",
+            "CondTools/Geometry/test/writehelpers/geometryExtended2022DD4hep_xmlwriter.py",
+            "CondTools/Geometry/test/writehelpers/geometryExtended2022_writer.py",
+            "CondTools/Geometry/test/writehelpers/geometryExtended2022_xmlwriter.py",
+            "CondTools/Geometry/test/writehelpers/splitExtended2022Database.sh"
+        ],
+        "created_at": 1793715868,
+        "number": 52388,
+        "state": "open",
+        "updated_at": 1793715913
     }
 }
