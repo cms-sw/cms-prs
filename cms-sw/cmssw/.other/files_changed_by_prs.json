@@ -4126,6 +4126,7 @@
             "FWCore/Services/test/test_catch2_SiteLocalConfigService.cc",
             "FWCore/Services/test/test_sitelocalconfig_override_cfg.py",
             "FWCore/Sources/interface/FromFiles.h",
+            "FWCore/Sources/interface/ProducerSourceFromFiles.h",
             "GeneratorInterface/AlpgenInterface/plugins/AlpgenSource.cc",
             "GeneratorInterface/LHEInterface/plugins/LH5Source.cc",
             "GeneratorInterface/LHEInterface/plugins/LHESource.cc",
@@ -4165,7 +4166,7 @@
         "created_at": 1793645828,
         "number": 52369,
         "state": "open",
-        "updated_at": 1793692433
+        "updated_at": 1793717458
     },
     "52372": {
         "base_branch": "master",
