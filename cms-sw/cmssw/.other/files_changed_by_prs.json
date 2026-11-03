@@ -4308,5 +4308,23 @@
         "number": 52379,
         "state": "open",
         "updated_at": 1793705794
+    },
+    "52380": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "PhysicsTools/TruthInfo/python/customiseTruthPreset.py",
+            "PhysicsTools/TruthInfo/python/truthGraphSelections.py",
+            "PhysicsTools/TruthInfo/test/customiseTruthPreset_t.py",
+            "PhysicsTools/TruthInfo/test/truthGraphSelections_t.py",
+            "SimGeneral/TruthGraphAssociatorProducers/python/customiseTruthGraphAssociators.py",
+            "SimGeneral/TruthGraphAssociatorProducers/python/truthGraphAssociators_cff.py",
+            "Validation/TruthInfo/plugins/TruthBranchRecoValidator.cc",
+            "Validation/TruthInfo/python/truthBranchValidation_cff.py",
+            "Validation/TruthInfo/scripts/makeTruthValidationPlots.py"
+        ],
+        "created_at": 1793705838,
+        "number": 52380,
+        "state": "open",
+        "updated_at": 1793705862
     }
 }
