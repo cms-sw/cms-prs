@@ -2543,6 +2543,7 @@
         "base_branch": "master",
         "changed_files_names": [
             "FWCore/Services/plugins/LibraryMemoryReport.cc",
+            "FWCore/Services/plugins/ProcInfoFetcher.cc",
             "FWCore/Services/plugins/ProcSmaps.cc",
             "FWCore/Services/plugins/ProcSmaps.h",
             "FWCore/Services/plugins/SimpleMemoryCheck.cc",
@@ -2551,7 +2552,7 @@
         "created_at": 1790797060,
         "number": 52040,
         "state": "open",
-        "updated_at": 1793641987
+        "updated_at": 1793724967
     },
     "52041": {
         "base_branch": "master",
