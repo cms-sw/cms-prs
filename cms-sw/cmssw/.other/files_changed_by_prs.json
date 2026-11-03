@@ -2238,6 +2238,7 @@
         "changed_files_names": [
             "Configuration/ProcessModifiers/python/vertexSlotGNN_cff.py",
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "DataFormats/VertexSoA/BuildFile.xml",
             "DataFormats/VertexSoA/README.md",
             "DataFormats/VertexSoA/interface/VertexGNNHostCollection.h",
             "DataFormats/VertexSoA/interface/VertexGNNSoA.h",
@@ -2279,7 +2280,7 @@
         "created_at": 1789117602,
         "number": 51862,
         "state": "open",
-        "updated_at": 1793713632
+        "updated_at": 1793717405
     },
     "51864": {
         "base_branch": "master",
