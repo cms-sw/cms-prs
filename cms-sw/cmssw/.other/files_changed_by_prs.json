@@ -4306,5 +4306,21 @@
         "number": 52388,
         "state": "open",
         "updated_at": 1793715913
+    },
+    "52389": {
+        "base_branch": "CMSSW_17_1_X",
+        "changed_files_names": [
+            "CondTools/Geometry/test/writehelpers/createExtended2022DD4hepPayloads.sh",
+            "CondTools/Geometry/test/writehelpers/createExtended2022Payloads.sh",
+            "CondTools/Geometry/test/writehelpers/geometryExtended2022DD4hep_writer.py",
+            "CondTools/Geometry/test/writehelpers/geometryExtended2022DD4hep_xmlwriter.py",
+            "CondTools/Geometry/test/writehelpers/geometryExtended2022_writer.py",
+            "CondTools/Geometry/test/writehelpers/geometryExtended2022_xmlwriter.py",
+            "CondTools/Geometry/test/writehelpers/splitExtended2022Database.sh"
+        ],
+        "created_at": 1793774544,
+        "number": 52389,
+        "state": "open",
+        "updated_at": 1793774571
     }
 }
