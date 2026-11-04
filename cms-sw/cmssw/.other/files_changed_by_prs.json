@@ -4238,12 +4238,13 @@
             "Validation/RecoMET/plugins/METTesterPostProcessorHarvesting.h",
             "Validation/RecoMET/python/METValidation_cfi.py",
             "Validation/RecoMET/python/hltMETValidation_cff.py",
-            "Validation/RecoMET/scripts/makeHLTMETValidationPlots.py"
+            "Validation/RecoMET/scripts/makeHLTMETValidationPlots.py",
+            "Validation/RecoMET/test/test_makeHLTMETValidationPlots.sh"
         ],
         "created_at": 1793714671,
         "number": 52386,
         "state": "open",
-        "updated_at": 1793714706
+        "updated_at": 1793781317
     },
     "52387": {
         "base_branch": "master",
