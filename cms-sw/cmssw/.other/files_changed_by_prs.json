@@ -3210,12 +3210,16 @@
             "IOPool/Streamer/test/NewStreamOutPadding_cfg.py",
             "IOPool/Streamer/test/NewStreamOut_cfg.py",
             "IOPool/Streamer/test/RunLZ4.sh",
-            "IOPool/Streamer/test/RunSimple_NewStreamer.sh"
+            "IOPool/Streamer/test/RunLZMA.sh",
+            "IOPool/Streamer/test/RunSimple_NewStreamer.sh",
+            "IOPool/Streamer/test/RunUNCOMPRESSED.sh",
+            "IOPool/Streamer/test/RunZLIB.sh",
+            "IOPool/Streamer/test/RunZSTD.sh"
         ],
         "created_at": 1792181431,
         "number": 52217,
         "state": "open",
-        "updated_at": 1793733218
+        "updated_at": 1793909708
     },
     "52224": {
         "base_branch": "CMSSW_17_1_X",
