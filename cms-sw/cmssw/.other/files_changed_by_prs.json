@@ -4195,5 +4195,22 @@
         "number": 52399,
         "state": "open",
         "updated_at": 1793882101
+    },
+    "52400": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "SimCalorimetry/EcalSimAlgos/interface/EcalLiteDTUCoder.h",
+            "SimCalorimetry/EcalSimAlgos/src/EcalLiteDTUCoder.cc",
+            "SimCalorimetry/EcalSimProducers/interface/EcalDigiProducer_Ph2.h",
+            "SimCalorimetry/EcalSimProducers/python/ecalDigiParameters_Ph2_cff.py",
+            "SimCalorimetry/EcalSimProducers/src/EcalDigiProducer_Ph2.cc",
+            "Validation/EcalDigis/plugins/EcalDigisValidationPh2.cc",
+            "Validation/EcalDigis/python/ecalDigisValidationSequence_cff.py"
+        ],
+        "created_at": 1793883624,
+        "number": 52400,
+        "state": "open",
+        "updated_at": 1793883658
     }
 }
