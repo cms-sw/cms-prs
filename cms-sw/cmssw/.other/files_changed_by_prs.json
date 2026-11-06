@@ -2546,21 +2546,6 @@
         "state": "open",
         "updated_at": 1793908073
     },
-    "52091": {
-        "base_branch": "CMSSW_17_1_X",
-        "changed_files_names": [
-            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
-            "RecoLocalTracker/SiPixelRecHits/plugins/BuildFile.xml",
-            "RecoLocalTracker/SiPixelRecHits/plugins/PixelCPENNReco.cc",
-            "RecoLocalTracker/SiPixelRecHits/plugins/PixelCPENNReco.h",
-            "RecoLocalTracker/SiPixelRecHits/plugins/PixelCPENNRecoESProducer.cc",
-            "RecoLocalTracker/SiPixelRecHits/python/customizePixelCPENN.py"
-        ],
-        "created_at": 1791225908,
-        "number": 52091,
-        "state": "open",
-        "updated_at": 1793863363
-    },
     "52115": {
         "base_branch": "master",
         "changed_files_names": [
