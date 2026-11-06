@@ -4127,5 +4127,26 @@
         "number": 52417,
         "state": "open",
         "updated_at": 1793988637
+    },
+    "52418": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "PhysicsTools/TruthInfo/interface/Branch.h",
+            "PhysicsTools/TruthInfo/interface/TruthLevels.h",
+            "PhysicsTools/TruthInfo/plugins/TruthLogicalGraphDumper.cc",
+            "PhysicsTools/TruthInfo/plugins/TruthLogicalGraphProducer.cc",
+            "PhysicsTools/TruthInfo/python/graphTools.py",
+            "PhysicsTools/TruthInfo/src/Branch.cc",
+            "PhysicsTools/TruthInfo/src/TruthLogicalGraphPostProcessor.cc",
+            "PhysicsTools/TruthInfo/test/Branch_t.cpp",
+            "PhysicsTools/TruthInfo/test/LevelFlags_t.cpp",
+            "PhysicsTools/TruthInfo/test/TruthLogicalGraphPostProcessor_t.cpp",
+            "SimDataFormats/TruthInfo/interface/ParticleData.h",
+            "SimDataFormats/TruthInfo/src/classes_def.xml"
+        ],
+        "created_at": 1793988794,
+        "number": 52418,
+        "state": "open",
+        "updated_at": 1793988815
     }
 }
