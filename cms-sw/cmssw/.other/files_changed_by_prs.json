@@ -4406,12 +4406,13 @@
         "base_branch": "master",
         "changed_files_names": [
             "Configuration/HLT/python/addOnTestsHLT.py",
-            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py"
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py",
+            "HLTrigger/Configuration/scripts/hltPhase2UpgradeIntegrationTests"
         ],
         "created_at": 1794056236,
         "number": 52428,
         "state": "open",
-        "updated_at": 1794056276
+        "updated_at": 1794078680
     },
     "52429": {
         "base_branch": "CMSSW_16_1_X",
