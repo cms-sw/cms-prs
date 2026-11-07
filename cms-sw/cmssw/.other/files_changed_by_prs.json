@@ -4423,5 +4423,16 @@
         "number": 52429,
         "state": "open",
         "updated_at": 1794058215
+    },
+    "52430": {
+        "base_branch": "CMSSW_16_0_X",
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/HLTrigger_EventContent_cff.py",
+            "HLTrigger/Configuration/test/getEventContent.py"
+        ],
+        "created_at": 1794058190,
+        "number": 52430,
+        "state": "open",
+        "updated_at": 1794058232
     }
 }
