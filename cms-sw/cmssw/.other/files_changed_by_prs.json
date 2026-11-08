@@ -4845,5 +4845,22 @@
         "number": 52449,
         "state": "open",
         "updated_at": 1794163446
+    },
+    "52451": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "PhysicsTools/TruthInfo/plugins/BuildFile.xml",
+            "PhysicsTools/TruthInfo/plugins/TruthBranchNanoTableProducers.cc",
+            "PhysicsTools/TruthInfo/python/truthNanoTables_cff.py",
+            "SimGeneral/TruthGraphAssociatorProducers/plugins/AllRecoToTruthBranchAssociatorsProducer.cc",
+            "SimGeneral/TruthGraphAssociatorProducers/python/customiseTruthGraphAssociators.py",
+            "SimGeneral/TruthGraphAssociatorProducers/python/truthCaloBoundaryAssociators_cff.py",
+            "SimGeneral/TruthGraphAssociatorProducers/python/truthGraphAssociationLabels_cff.py",
+            "SimGeneral/TruthGraphAssociatorProducers/python/truthGraphAssociators_cff.py"
+        ],
+        "created_at": 1794168670,
+        "number": 52451,
+        "state": "open",
+        "updated_at": 1794168698
     }
 }
