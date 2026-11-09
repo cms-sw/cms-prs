@@ -2149,6 +2149,7 @@
         "changed_files_names": [
             "PhysicsTools/ONNXRuntimeAlpaka/BuildFile.xml",
             "PhysicsTools/ONNXRuntimeAlpaka/README.md",
+            "PhysicsTools/ONNXRuntimeAlpaka/interface/Exception.h",
             "PhysicsTools/ONNXRuntimeAlpaka/interface/GetMemoryInfo.h",
             "PhysicsTools/ONNXRuntimeAlpaka/interface/PackDescriptor.h",
             "PhysicsTools/ONNXRuntimeAlpaka/interface/SessionOptions.h",
@@ -2156,10 +2157,12 @@
             "PhysicsTools/ONNXRuntimeAlpaka/interface/TensorHandle.h",
             "PhysicsTools/ONNXRuntimeAlpaka/interface/alpaka/AlpakaSession.h",
             "PhysicsTools/ONNXRuntimeAlpaka/interface/alpaka/PackKernels.h",
+            "PhysicsTools/ONNXRuntimeAlpaka/src/Exception.cc",
             "PhysicsTools/ONNXRuntimeAlpaka/src/alpaka/PackKernels.dev.cc",
             "PhysicsTools/ONNXRuntimeAlpakaTest/README.md",
             "PhysicsTools/ONNXRuntimeAlpakaTest/data/MaskedNet.onnx",
             "PhysicsTools/ONNXRuntimeAlpakaTest/data/MultiHeadNet.onnx",
+            "PhysicsTools/ONNXRuntimeAlpakaTest/data/ScaledNet.onnx",
             "PhysicsTools/ONNXRuntimeAlpakaTest/data/SimpleNet.onnx",
             "PhysicsTools/ONNXRuntimeAlpakaTest/data/SimpleNetFeatureMajor.onnx",
             "PhysicsTools/ONNXRuntimeAlpakaTest/data/TinyResNet.onnx",
@@ -2170,6 +2173,7 @@
             "PhysicsTools/ONNXRuntimeAlpakaTest/plugins/alpaka/DataSource.cc",
             "PhysicsTools/ONNXRuntimeAlpakaTest/plugins/alpaka/MaskedNet.cc",
             "PhysicsTools/ONNXRuntimeAlpakaTest/plugins/alpaka/MultiHeadNet.cc",
+            "PhysicsTools/ONNXRuntimeAlpakaTest/plugins/alpaka/ScaledNet.cc",
             "PhysicsTools/ONNXRuntimeAlpakaTest/plugins/alpaka/SimpleNet.cc",
             "PhysicsTools/ONNXRuntimeAlpakaTest/plugins/alpaka/SimpleNetMiniBatch.cc",
             "PhysicsTools/ONNXRuntimeAlpakaTest/plugins/alpaka/TinyResNet.cc",
@@ -2177,6 +2181,7 @@
             "PhysicsTools/ONNXRuntimeAlpakaTest/test/BuildFile.xml",
             "PhysicsTools/ONNXRuntimeAlpakaTest/test/MaskedNet.py",
             "PhysicsTools/ONNXRuntimeAlpakaTest/test/MultiHeadNet.py",
+            "PhysicsTools/ONNXRuntimeAlpakaTest/test/ScaledNet.py",
             "PhysicsTools/ONNXRuntimeAlpakaTest/test/SimpleNet.py",
             "PhysicsTools/ONNXRuntimeAlpakaTest/test/TinyResNet.py",
             "PhysicsTools/ONNXRuntimeAlpakaTest/test/onnx_utils.py",
@@ -2185,7 +2190,7 @@
         "created_at": 1790191616,
         "number": 51958,
         "state": "open",
-        "updated_at": 1793645799
+        "updated_at": 1794243189
     },
     "51977": {
         "base_branch": "master",
