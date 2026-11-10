@@ -4840,5 +4840,25 @@
         "number": 52473,
         "state": "open",
         "updated_at": 1794318462
+    },
+    "52475": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "PhysicsTools/TruthInfo/plugins/TruthGraphProducer.cc",
+            "PhysicsTools/TruthInfo/plugins/TruthLogicalGraphProducer.cc",
+            "PhysicsTools/TruthInfo/src/BranchHitAssociator.cc",
+            "PhysicsTools/TruthInfo/src/TruthLogicalGraphPostProcessor.cc",
+            "PhysicsTools/TruthInfo/test/BranchHitAssociator_t.cpp",
+            "SimDataFormats/TruthInfo/interface/TruthGraph.h",
+            "SimDataFormats/TruthInfo/src/TruthGraph.cc",
+            "SimGeneral/TruthGraphAssociatorProducers/plugins/AllRecoToTruthBranchAssociatorsProducer.cc",
+            "Validation/TruthInfo/interface/TruthBranchHistoProducerAlgo.h",
+            "Validation/TruthInfo/plugins/BranchTrackingValidator.cc",
+            "Validation/TruthInfo/plugins/TruthBranchRecoValidator.cc"
+        ],
+        "created_at": 1794325845,
+        "number": 52475,
+        "state": "open",
+        "updated_at": 1794325881
     }
 }
