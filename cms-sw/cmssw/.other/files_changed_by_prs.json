@@ -4800,5 +4800,20 @@
         "number": 52470,
         "state": "open",
         "updated_at": 1794304706
+    },
+    "52471": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CondFormats/HGCalObjects/interface/HGCalMappingModuleIndexer.h",
+            "CondFormats/HGCalObjects/interface/HGCalMappingParameterSoA.h",
+            "CondFormats/HGCalObjects/src/HGCalMappingModuleIndexer.cc",
+            "Geometry/HGCalMapping/plugins/HGCalMappingESProducer.cc",
+            "Geometry/HGCalMapping/plugins/alpaka/HGCalMappingModuleESProducer.cc",
+            "Geometry/HGCalMapping/test/HGCalMappingESSourceTester.cc"
+        ],
+        "created_at": 1794306064,
+        "number": 52471,
+        "state": "open",
+        "updated_at": 1794306105
     }
 }
