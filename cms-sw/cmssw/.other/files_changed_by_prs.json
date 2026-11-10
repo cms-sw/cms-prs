@@ -5165,5 +5165,22 @@
         "number": 52461,
         "state": "open",
         "updated_at": 1794241585
+    },
+    "52462": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Validation/HLTrigger/plugins/BuildFile.xml",
+            "Validation/HLTrigger/python/hltvalcust.py",
+            "Validation/HLTrigger/test/runPhaseIIValSource_cfg.py",
+            "Validation/HLTrigger/test/runValClient_cfg.py",
+            "Validation/RecoTau/plugins/BuildFile.xml",
+            "Validation/RecoTau/plugins/TauTriggerValidator.cc",
+            "Validation/RecoTau/python/hltTauTriggerPostProcessor_cff.py",
+            "Validation/RecoTau/python/hltTauTriggerValidation_cff.py"
+        ],
+        "created_at": 1794280044,
+        "number": 52462,
+        "state": "open",
+        "updated_at": 1794280073
     }
 }
