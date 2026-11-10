@@ -4860,5 +4860,20 @@
         "number": 52475,
         "state": "open",
         "updated_at": 1794325881
+    },
+    "52476": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "PhysicsTools/TruthInfo/interface/BranchHitAssociator.h",
+            "PhysicsTools/TruthInfo/src/BranchHitAssociator.cc",
+            "PhysicsTools/TruthInfo/test/BranchHitAssociator_t.cpp",
+            "Validation/TruthInfo/plugins/TruthBranchRecoValidator.cc",
+            "Validation/TruthInfo/python/customiseTruthBranchRequireHits.py",
+            "Validation/TruthInfo/test/customiseTruthBranchRequireHits_t.py"
+        ],
+        "created_at": 1794326105,
+        "number": 52476,
+        "state": "open",
+        "updated_at": 1794326144
     }
 }
