@@ -4749,12 +4749,14 @@
             "RecoLocalFastTime/FTLRecProducers/plugins/alpaka/ETLBaseRecHitSoAProducerAlgo.dev.cc",
             "RecoLocalFastTime/FTLRecProducers/plugins/alpaka/ETLRecHitSoAProducerAlgo.dev.cc",
             "RecoLocalFastTime/FTLRecProducers/test/BTLRecoSoADump.cc",
-            "RecoLocalFastTime/FTLRecProducers/test/ETLRecoSoADump.cc"
+            "RecoLocalFastTime/FTLRecProducers/test/ETLRecoSoADump.cc",
+            "Validation/MtdValidation/plugins/BtlLocalRecoSoAValidation.cc",
+            "Validation/MtdValidation/plugins/EtlLocalRecoSoAValidation.cc"
         ],
         "created_at": 1794300448,
         "number": 52465,
         "state": "open",
-        "updated_at": 1794300476
+        "updated_at": 1794311241
     },
     "52466": {
         "base_branch": "master",
