@@ -3404,11 +3404,15 @@
         "base_branch": "master",
         "changed_files_names": [
             "CondFormats/HGCalObjects/interface/HGCalMappingParameterSoA.h",
+            "Configuration/PyReleaseValidation/python/relval_standard.py",
+            "Configuration/PyReleaseValidation/python/relval_steps.py",
+            "DQM/HGCAL/plugins/HGCalRecHitDQM.cc",
             "DataFormats/HGCalReco/interface/HGCalRecoVariations.h",
             "DataFormats/HGCalReco/interface/HGCalSoAClusters.h",
             "DataFormats/HGCalReco/interface/HGCalSoARecHits.h",
             "Geometry/HGCalMapping/plugins/alpaka/HGCalDenseIndexInfoESProducer.cc",
             "Geometry/HGCalMapping/test/HGCalMappingESSourceTester.cc",
+            "RecoLocalCalo/Configuration/python/hgcalTestBeamLocalReco_cff.py",
             "RecoLocalCalo/HGCalRecAlgos/README_CMCalibration.md",
             "RecoLocalCalo/HGCalRecAlgos/interface/HGCalCMCorrectionSoA.h",
             "RecoLocalCalo/HGCalRecAlgos/interface/HGCalCMMLParamHost.h",
@@ -3433,7 +3437,7 @@
         "created_at": 1793701047,
         "number": 52377,
         "state": "open",
-        "updated_at": 1794229143
+        "updated_at": 1794304477
     },
     "52379": {
         "base_branch": "CMSSW_17_1_X",
