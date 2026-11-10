@@ -4772,5 +4772,33 @@
         "number": 52468,
         "state": "open",
         "updated_at": 1794300728
+    },
+    "52470": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "L1Trigger/Configuration/python/Phase2GTMenus/README.md",
+            "L1Trigger/Configuration/python/Phase2GTMenus/SeedDefinitions/step1_2024/l1tGTMenuObjects_cff.py",
+            "L1Trigger/Configuration/python/Phase2GTMenus/SeedDefinitions/step1_2024/l1tGTMenu_BTagSeeds_cff.py",
+            "L1Trigger/Configuration/python/Phase2GTMenus/SeedDefinitions/step1_2024/l1tGTMenu_crossLepSeeds_cff.py",
+            "L1Trigger/Configuration/python/Phase2GTMenus/SeedDefinitions/step1_2024/l1tGTMenu_hadr_crossLepSeeds_cff.py",
+            "L1Trigger/Configuration/python/Phase2GTMenus/SeedDefinitions/step1_2024/l1tGTMenu_hadr_metSeeds_cff.py",
+            "L1Trigger/Configuration/python/Phase2GTMenus/SeedDefinitions/step1_2024/l1tGTMenu_lepSeeds_cff.py",
+            "L1Trigger/Configuration/python/Phase2GTMenus/SeedDefinitions/step1_2024/l1tGTObject_constants.py",
+            "L1Trigger/Phase2L1GT/README.md",
+            "L1Trigger/Phase2L1GT/interface/L1GTOfflineThreshold.h",
+            "L1Trigger/Phase2L1GT/plugins/L1GTAlgoBlockProducer.cc",
+            "L1Trigger/Phase2L1GT/plugins/L1GTObjectConfig.h",
+            "L1Trigger/Phase2L1GT/plugins/L1GTSingleCollectionCut.h",
+            "L1Trigger/Phase2L1GT/python/l1tGTMenuTools.py",
+            "L1Trigger/Phase2L1GT/scripts/dumpL1TGTMenu.py",
+            "L1Trigger/Phase2L1GT/src/L1GTScales.cc",
+            "L1Trigger/Phase2L1GT/test/BuildFile.xml",
+            "L1Trigger/Phase2L1GT/test/compareGTMenuDumps.py",
+            "L1Trigger/Phase2L1GT/test/testL1TGTMenuTools.py"
+        ],
+        "created_at": 1794304681,
+        "number": 52470,
+        "state": "open",
+        "updated_at": 1794304706
     }
 }
