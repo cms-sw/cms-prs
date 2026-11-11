@@ -5103,5 +5103,20 @@
         "number": 52492,
         "state": "open",
         "updated_at": 1794408750
+    },
+    "52493": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQM/HGCAL/plugins/HGCalDigiDQM.cc",
+            "DataFormats/HGCalDigi/interface/HGCalDigiSoA.h",
+            "EventFilter/HGCalRawToDigi/src/HGCalUnpacker.cc",
+            "RecoLocalCalo/HGCalRecAlgos/interface/alpaka/HGCalRecHitCalibrationAlgorithms.h",
+            "RecoLocalCalo/HGCalRecAlgos/plugins/alpaka/HGCalRecHitCalibrationAlgorithms.dev.cc",
+            "RecoLocalCalo/HGCalRecAlgos/plugins/alpaka/HGCalRecHitProducers.cc"
+        ],
+        "created_at": 1794408937,
+        "number": 52493,
+        "state": "open",
+        "updated_at": 1794408968
     }
 }
