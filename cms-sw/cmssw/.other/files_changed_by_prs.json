@@ -2148,6 +2148,9 @@
     "51958": {
         "base_branch": "master",
         "changed_files_names": [
+            "HLTrigger/Configuration/python/HLT_75e33/services/ONNXService_cfi.py",
+            "HLTrigger/Configuration/python/customizeHLTforCMSSW.py",
+            "PhysicsTools/ONNXRuntime/plugins/ONNXService.cc",
             "PhysicsTools/ONNXRuntimeAlpaka/BuildFile.xml",
             "PhysicsTools/ONNXRuntimeAlpaka/README.md",
             "PhysicsTools/ONNXRuntimeAlpaka/interface/Exception.h",
@@ -2160,15 +2163,13 @@
             "PhysicsTools/ONNXRuntimeAlpaka/interface/alpaka/PackKernels.h",
             "PhysicsTools/ONNXRuntimeAlpaka/src/Exception.cc",
             "PhysicsTools/ONNXRuntimeAlpaka/src/alpaka/PackKernels.dev.cc",
+            "PhysicsTools/ONNXRuntimeAlpaka/test/BuildFile.xml",
+            "PhysicsTools/ONNXRuntimeAlpaka/test/alpaka/testTensorCollection.cc",
+            "PhysicsTools/ONNXRuntimeAlpaka/test/testRunner.cc",
             "PhysicsTools/ONNXRuntimeAlpakaTest/README.md",
-            "PhysicsTools/ONNXRuntimeAlpakaTest/data/MaskedNet.onnx",
-            "PhysicsTools/ONNXRuntimeAlpakaTest/data/MultiHeadNet.onnx",
-            "PhysicsTools/ONNXRuntimeAlpakaTest/data/ScaledNet.onnx",
-            "PhysicsTools/ONNXRuntimeAlpakaTest/data/SimpleNet.onnx",
-            "PhysicsTools/ONNXRuntimeAlpakaTest/data/SimpleNetFeatureMajor.onnx",
-            "PhysicsTools/ONNXRuntimeAlpakaTest/data/TinyResNet.onnx",
             "PhysicsTools/ONNXRuntimeAlpakaTest/plugins/BuildFile.xml",
             "PhysicsTools/ONNXRuntimeAlpakaTest/plugins/InspectionSink.cc",
+            "PhysicsTools/ONNXRuntimeAlpakaTest/plugins/ReferenceAnalyzer.cc",
             "PhysicsTools/ONNXRuntimeAlpakaTest/plugins/alpaka/CommonKernels.dev.cc",
             "PhysicsTools/ONNXRuntimeAlpakaTest/plugins/alpaka/CommonKernels.h",
             "PhysicsTools/ONNXRuntimeAlpakaTest/plugins/alpaka/DataSource.cc",
@@ -2191,7 +2192,7 @@
         "created_at": 1790191616,
         "number": 51958,
         "state": "open",
-        "updated_at": 1794243189
+        "updated_at": 1794402963
     },
     "51977": {
         "base_branch": "master",
