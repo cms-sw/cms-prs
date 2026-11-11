@@ -1970,13 +1970,14 @@
             "Configuration/Generator/python/DYto2TautoETauh_BinMLL50_TuneCP5_14TeV_madgraphMLM_pythia8_cfi.py",
             "Configuration/Generator/python/DYto2TautoMuTauh_BinMLL50_TuneCP5_14TeV_madgraphMLM_pythia8_cfi.py",
             "Configuration/PyReleaseValidation/python/relval_steps.py",
+            "Configuration/PyReleaseValidation/python/relval_upgrade.py",
             "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
             "GeneratorInterface/LHEInterface/data/run_generic_tarball_cvmfs.sh"
         ],
         "created_at": 1787530420,
         "number": 51748,
         "state": "open",
-        "updated_at": 1793587818
+        "updated_at": 1794357874
     },
     "51798": {
         "base_branch": "master",
