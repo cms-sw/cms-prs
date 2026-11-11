@@ -2378,12 +2378,17 @@
     "52041": {
         "base_branch": "master",
         "changed_files_names": [
-            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusterizer.dev.cc"
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusterSoAProducer.cc",
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusterizer.dev.cc",
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusterizer.h",
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthClusterizerLaunchParams.h",
+            "RecoParticleFlow/PFClusterProducer/plugins/alpaka/PFMultiDepthConstructLinks.h",
+            "RecoParticleFlow/PFClusterProducer/test/alpaka/ConstructLinksTest.dev.cc"
         ],
         "created_at": 1790821208,
         "number": 52041,
         "state": "open",
-        "updated_at": 1793890456
+        "updated_at": 1794365699
     },
     "52075": {
         "base_branch": "CMSSW_15_0_X",
