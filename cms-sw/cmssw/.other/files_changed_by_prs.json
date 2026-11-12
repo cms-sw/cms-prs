@@ -2004,7 +2004,7 @@
         "created_at": 1788281751,
         "number": 51798,
         "state": "open",
-        "updated_at": 1793906437
+        "updated_at": 1794500118
     },
     "51799": {
         "base_branch": "master",
@@ -2359,7 +2359,7 @@
         "created_at": 1790797060,
         "number": 52040,
         "state": "open",
-        "updated_at": 1794431624
+        "updated_at": 1794502502
     },
     "52041": {
         "base_branch": "master",
@@ -2612,7 +2612,7 @@
         "created_at": 1791456795,
         "number": 52123,
         "state": "open",
-        "updated_at": 1794477059
+        "updated_at": 1794503362
     },
     "52146": {
         "base_branch": "master",
@@ -2779,7 +2779,7 @@
         "created_at": 1792148889,
         "number": 52212,
         "state": "open",
-        "updated_at": 1794490729
+        "updated_at": 1794498537
     },
     "52224": {
         "base_branch": "CMSSW_17_1_X",
@@ -3048,7 +3048,7 @@
         "created_at": 1793008592,
         "number": 52289,
         "state": "open",
-        "updated_at": 1794486910
+        "updated_at": 1794498282
     },
     "52290": {
         "base_branch": "CMSSW_17_0_X",
@@ -3653,7 +3653,7 @@
         "created_at": 1793994431,
         "number": 52419,
         "state": "open",
-        "updated_at": 1794486809
+        "updated_at": 1794497011
     },
     "52425": {
         "base_branch": "master",
@@ -3925,7 +3925,7 @@
         "created_at": 1794234953,
         "number": 52458,
         "state": "open",
-        "updated_at": 1794486943
+        "updated_at": 1794497314
     },
     "52459": {
         "base_branch": "master",
@@ -4309,7 +4309,7 @@
         "created_at": 1794280044,
         "number": 52462,
         "state": "open",
-        "updated_at": 1794486935
+        "updated_at": 1794497552
     },
     "52463": {
         "base_branch": "master",
@@ -4328,7 +4328,7 @@
         "created_at": 1794293963,
         "number": 52463,
         "state": "open",
-        "updated_at": 1794486834
+        "updated_at": 1794498132
     },
     "52464": {
         "base_branch": "master",
@@ -4370,7 +4370,7 @@
         "created_at": 1794300448,
         "number": 52465,
         "state": "open",
-        "updated_at": 1794486938
+        "updated_at": 1794497008
     },
     "52466": {
         "base_branch": "master",
@@ -4710,6 +4710,18 @@
         "state": "open",
         "updated_at": 1794413866
     },
+    "52492": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAFishbone.h",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernels.h",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernelsImpl.h"
+        ],
+        "created_at": 1794408720,
+        "number": 52492,
+        "state": "open",
+        "updated_at": 1794419673
+    },
     "52493": {
         "base_branch": "master",
         "changed_files_names": [
@@ -4792,6 +4804,6 @@
         "created_at": 1794502633,
         "number": 52499,
         "state": "open",
-        "updated_at": 1794502661
+        "updated_at": 1794502782
     }
 }
