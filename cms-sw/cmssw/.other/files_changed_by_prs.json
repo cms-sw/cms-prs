@@ -1192,8 +1192,8 @@
             "DataFormats/EgammaReco/src/classes.h",
             "DataFormats/EgammaReco/src/classes_soa.cc",
             "DataFormats/EgammaReco/src/classes_soa.h",
-            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaElectronPixelSeedsL1Seeded_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaElectronPixelSeedsPortable_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaUnfittedElectronPixelSeedsL1Seeded_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/paths/DST_HeterogeneousReco_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTElePixelMatchL1SeededSequence_cfi.py",
             "RecoEgamma/EgammaElectronAlgos/BuildFile.xml",
@@ -1212,7 +1212,7 @@
         "created_at": 1781176424,
         "number": 51200,
         "state": "open",
-        "updated_at": 1794490291
+        "updated_at": 1794493413
     },
     "51205": {
         "base_branch": "master",
