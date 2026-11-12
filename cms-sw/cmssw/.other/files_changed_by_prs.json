@@ -1185,9 +1185,13 @@
             "DataFormats/EgammaReco/src/alpaka/classes_cuda_def.xml",
             "DataFormats/EgammaReco/src/alpaka/classes_rocm.h",
             "DataFormats/EgammaReco/src/alpaka/classes_rocm_def.xml",
-            "DataFormats/EgammaReco/src/classes.cc",
-            "DataFormats/EgammaReco/src/classes.h",
+            "DataFormats/EgammaReco/src/classes_def_others.xml",
             "DataFormats/EgammaReco/src/classes_def.xml",
+            "DataFormats/EgammaReco/src/classes_def_soa.xml",
+            "DataFormats/EgammaReco/src/classes_others.h",
+            "DataFormats/EgammaReco/src/classes.h",
+            "DataFormats/EgammaReco/src/classes_soa.cc",
+            "DataFormats/EgammaReco/src/classes_soa.h",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaElectronPixelSeedsL1Seeded_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltEgammaElectronPixelSeedsPortable_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/paths/DST_HeterogeneousReco_cfi.py",
@@ -1208,7 +1212,7 @@
         "created_at": 1781176424,
         "number": 51200,
         "state": "open",
-        "updated_at": 1794405353
+        "updated_at": 1794490291
     },
     "51205": {
         "base_branch": "master",
