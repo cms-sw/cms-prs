@@ -4731,5 +4731,27 @@
         "number": 52501,
         "state": "open",
         "updated_at": 1794559852
+    },
+    "52502": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "PhysicsTools/TruthInfo/python/truthEventContent_cff.py",
+            "SimGeneral/TruthGraphAssociatorProducers/README.md",
+            "SimGeneral/TruthGraphAssociatorProducers/plugins/AllRecoToTruthBranchAssociatorsProducer.cc",
+            "SimGeneral/TruthGraphAssociatorProducers/plugins/BuildFile.xml",
+            "SimGeneral/TruthGraphAssociatorProducers/python/customiseTruthGraphAssociators.py",
+            "SimGeneral/TruthGraphAssociatorProducers/python/truthGraphAssociationLabels_cff.py",
+            "SimGeneral/TruthGraphAssociatorProducers/python/truthGraphAssociators_cff.py",
+            "Validation/TruthInfo/README.md",
+            "Validation/TruthInfo/plugins/BuildFile.xml",
+            "Validation/TruthInfo/plugins/TruthBranchRecoValidator.cc",
+            "Validation/TruthInfo/python/customiseTruthBranchRequireHits.py",
+            "Validation/TruthInfo/python/truthBranchValidation_cff.py",
+            "Validation/TruthInfo/scripts/makeTruthValidationPlots.py"
+        ],
+        "created_at": 1794567413,
+        "number": 52502,
+        "state": "open",
+        "updated_at": 1794567437
     }
 }
