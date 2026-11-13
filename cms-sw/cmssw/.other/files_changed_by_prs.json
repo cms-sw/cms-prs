@@ -4695,5 +4695,39 @@
         "number": 52500,
         "state": "open",
         "updated_at": 1794512024
+    },
+    "52501": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/HLT/python/autoHLT.py",
+            "Configuration/PyReleaseValidation/README.md",
+            "Configuration/PyReleaseValidation/python/relval_Run4.py",
+            "Configuration/PyReleaseValidation/python/relval_nano.py",
+            "Configuration/PyReleaseValidation/python/upgradeWorkflowComponents.py",
+            "Configuration/PyReleaseValidation/scripts/runTheMatrix.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltDisplacedmumuFilterDoubleMu43Jpsi_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltDisplacedmumuFilterDoubleMu43LowMass_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltDisplacedmumuFilterDoubleMu4Bs_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltDisplacedmumuVtxProducerDoubleMu43Jpsi_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltDisplacedmumuVtxProducerDoubleMu43LowMass_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltDisplacedmumuVtxProducerDoubleMu4Bs_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltDoubleMu43JPsiL3Filtered_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltDoubleMu43LowMassL3Filtered_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltDoubleMu4BsL3Filtered_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltDoubleTkMuonLowMassL1TkMuonFilter_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltL3fL1DoubleTkMuonLowMassPreFiltered3_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/paths/HLT_DoubleMu4_3_Bs_FromL1TkMuon_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/paths/HLT_DoubleMu4_3_Jpsi_FromL1TkMuon_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/paths/HLT_DoubleMu4_3_LowMass_FromL1TkMuon_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTDoubleMuonLowMassFromL1TkMuonSequence_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/test/Phase2_HLT_validation_cfg.py",
+            "HLTrigger/Configuration/python/HLT_75e33_dev_cff.py",
+            "HLTrigger/NGTScouting/python/hltNanoDQM_cff.py",
+            "HLTrigger/NGTScouting/python/hltTriggerObjects_cff.py"
+        ],
+        "created_at": 1794559827,
+        "number": 52501,
+        "state": "open",
+        "updated_at": 1794559852
     }
 }
