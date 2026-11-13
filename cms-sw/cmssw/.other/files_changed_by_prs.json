@@ -4810,5 +4810,22 @@
         "number": 52507,
         "state": "open",
         "updated_at": 1794584953
+    },
+    "52509": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "PhysicsTools/NanoAOD/python/nanoDQM_cff.py",
+            "PhysicsTools/NanoAOD/python/nanoDQM_cfi.py",
+            "PhysicsTools/NanoAOD/python/nano_cff.py",
+            "PhysicsTools/NanoAOD/python/photons_cff.py",
+            "RecoEgamma/PhotonIdentification/plugins/BuildFile.xml",
+            "RecoEgamma/PhotonIdentification/plugins/transformer/PhotonTransformerIDProducer.cc",
+            "RecoEgamma/PhotonIdentification/test/BuildFile.xml",
+            "RecoEgamma/PhotonIdentification/test/testPhotonTransformerIDModel.cc"
+        ],
+        "created_at": 1794585507,
+        "number": 52509,
+        "state": "open",
+        "updated_at": 1794585533
     }
 }
