@@ -1787,8 +1787,12 @@
             "DataFormats/CaloRecHit/src/alpaka/classes_rocm.h",
             "DataFormats/CaloRecHit/src/alpaka/classes_rocm_def.xml",
             "DataFormats/CaloRecHit/src/classes.cc",
-            "DataFormats/CaloRecHit/src/classes.h",
+            "DataFormats/CaloRecHit/src/classes_def_others.xml",
             "DataFormats/CaloRecHit/src/classes_def.xml",
+            "DataFormats/CaloRecHit/src/classes_def_soa.xml",
+            "DataFormats/CaloRecHit/src/classes_others.h",
+            "DataFormats/CaloRecHit/src/classes.h",
+            "DataFormats/CaloRecHit/src/classes_soa.h",
             "DataFormats/HGCalReco/interface/HGCalSoARecHitsExtra.h",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltHgCalLayerClustersFromSoAProducer_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltHgcalLayerClustersEEL1Seeded_cfi.py",
@@ -1854,7 +1858,7 @@
         "created_at": 1785309171,
         "number": 51587,
         "state": "open",
-        "updated_at": 1794564162
+        "updated_at": 1794576506
     },
     "51600": {
         "base_branch": "master",
