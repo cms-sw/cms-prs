@@ -4778,5 +4778,20 @@
         "number": 52504,
         "state": "open",
         "updated_at": 1794580774
+    },
+    "52505": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Configuration/Generator/python/Herwig7Settings/Herwig7PSWeightsSettings_cfi.py",
+            "GeneratorInterface/Herwig7Interface/BuildFile.xml",
+            "GeneratorInterface/Herwig7Interface/interface/Herwig7Weights.h",
+            "GeneratorInterface/Herwig7Interface/plugins/Herwig7Hadronizer.cc",
+            "GeneratorInterface/Herwig7Interface/plugins/Herwig7HepMC3Hadronizer.cc",
+            "GeneratorInterface/Herwig7Interface/src/Herwig7Weights.cc"
+        ],
+        "created_at": 1794582542,
+        "number": 52505,
+        "state": "open",
+        "updated_at": 1794582565
     }
 }
