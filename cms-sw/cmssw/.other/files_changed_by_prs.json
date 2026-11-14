@@ -4308,31 +4308,6 @@
         "state": "open",
         "updated_at": 1794467483
     },
-    "52465": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "DataFormats/FTLRecHitSoA/interface/BTLBaseRecHitSoA.h",
-            "DataFormats/FTLRecHitSoA/interface/BTLRecHitSoA.h",
-            "DataFormats/FTLRecHitSoA/interface/ETLBaseRecHitSoA.h",
-            "DataFormats/FTLRecHitSoA/interface/ETLRecHitSoA.h",
-            "DataFormats/FTLRecHitSoA/src/BTLBaseRecHitSoA.cc",
-            "DataFormats/FTLRecHitSoA/src/BTLRecHitSoA.cc",
-            "DataFormats/FTLRecHitSoA/src/ETLBaseRecHitSoA.cc",
-            "DataFormats/FTLRecHitSoA/src/ETLRecHitSoA.cc",
-            "RecoLocalFastTime/FTLRecProducers/plugins/alpaka/BTLBaseRecHitSoAProducerAlgo.dev.cc",
-            "RecoLocalFastTime/FTLRecProducers/plugins/alpaka/BTLRecHitSoAProducerAlgo.dev.cc",
-            "RecoLocalFastTime/FTLRecProducers/plugins/alpaka/ETLBaseRecHitSoAProducerAlgo.dev.cc",
-            "RecoLocalFastTime/FTLRecProducers/plugins/alpaka/ETLRecHitSoAProducerAlgo.dev.cc",
-            "RecoLocalFastTime/FTLRecProducers/test/BTLRecoSoADump.cc",
-            "RecoLocalFastTime/FTLRecProducers/test/ETLRecoSoADump.cc",
-            "Validation/MtdValidation/plugins/BtlLocalRecoSoAValidation.cc",
-            "Validation/MtdValidation/plugins/EtlLocalRecoSoAValidation.cc"
-        ],
-        "created_at": 1794300448,
-        "number": 52465,
-        "state": "open",
-        "updated_at": 1794563843
-    },
     "52466": {
         "base_branch": "master",
         "changed_files_names": [
