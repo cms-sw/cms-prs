@@ -4906,5 +4906,23 @@
         "number": 52512,
         "state": "open",
         "updated_at": 1794606341
+    },
+    "52513": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoTracker/LSTCore/interface/QuadrupletsSoA.h",
+            "RecoTracker/LSTCore/src/alpaka/Kernels.h",
+            "RecoTracker/LSTCore/src/alpaka/LSTEvent.dev.cc",
+            "RecoTracker/LSTCore/src/alpaka/LSTEvent.h",
+            "RecoTracker/LSTCore/src/alpaka/MiniDoublet.h",
+            "RecoTracker/LSTCore/src/alpaka/Quadruplet.h",
+            "RecoTracker/LSTCore/src/alpaka/Quintuplet.h",
+            "RecoTracker/LSTCore/src/alpaka/Segment.h",
+            "RecoTracker/LSTCore/src/alpaka/Triplet.h"
+        ],
+        "created_at": 1794613423,
+        "number": 52513,
+        "state": "open",
+        "updated_at": 1794613449
     }
 }
