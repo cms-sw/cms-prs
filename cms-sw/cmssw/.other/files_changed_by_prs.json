@@ -4853,5 +4853,23 @@
         "number": 52516,
         "state": "open",
         "updated_at": 1794671671
+    },
+    "52517": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HLTrigger/Egamma/plugins/HLTEgammaL1TMatchFilterRegional.cc",
+            "HLTrigger/Egamma/plugins/HLTEgammaL1TMatchFilterRegional.h",
+            "HLTrigger/HLTcore/interface/getL1TCandidates.h",
+            "HLTrigger/JetMET/plugins/HLTL1TMatchedJetsVBFFilter.h",
+            "RecoTauTag/HLTProducers/interface/L1TJetsMatching.h",
+            "RecoTauTag/HLTProducers/src/CaloTowerFromL1TSeededCreatorForTauHLT.cc",
+            "RecoTauTag/HLTProducers/src/L1THLTTauMatching.cc",
+            "RecoTauTag/HLTProducers/src/PFTauL1TJetsMatching.cc",
+            "RecoTauTag/HLTProducers/src/TauTagFilter.cc"
+        ],
+        "created_at": 1794672267,
+        "number": 52517,
+        "state": "open",
+        "updated_at": 1794672290
     }
 }
