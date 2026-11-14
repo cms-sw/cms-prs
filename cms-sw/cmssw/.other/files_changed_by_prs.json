@@ -4975,5 +4975,17 @@
         "number": 52518,
         "state": "open",
         "updated_at": 1794675275
+    },
+    "52519": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoMuon/TrackerSeedGenerator/interface/SeedMvaEstimator.h",
+            "RecoMuon/TrackerSeedGenerator/plugins/MuonHLTSeedMVAClassifier.cc",
+            "RecoMuon/TrackerSeedGenerator/src/SeedMvaEstimator.cc"
+        ],
+        "created_at": 1794675653,
+        "number": 52519,
+        "state": "open",
+        "updated_at": 1794675677
     }
 }
