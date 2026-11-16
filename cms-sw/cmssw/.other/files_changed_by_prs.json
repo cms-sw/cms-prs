@@ -4828,5 +4828,28 @@
         "number": 52534,
         "state": "open",
         "updated_at": 1794857965
+    },
+    "52535": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "GeneratorInterface/Pythia8Interface/interface/EtaDecayer.h",
+            "GeneratorInterface/Pythia8Interface/interface/EtaDecayerModels.h",
+            "GeneratorInterface/Pythia8Interface/interface/EtaDecayerSamplers.h",
+            "GeneratorInterface/Pythia8Interface/plugins/Pythia8Hadronizer.cc",
+            "GeneratorInterface/Pythia8Interface/plugins/Pythia8HepMC3Hadronizer.cc",
+            "GeneratorInterface/Pythia8Interface/src/EtaDecayer.cc",
+            "GeneratorInterface/Pythia8Interface/src/Py8GunBase.cc",
+            "GeneratorInterface/Pythia8Interface/src/Py8HMC3GunBase.cc",
+            "GeneratorInterface/Pythia8Interface/src/Py8HMC3InterfaceBase.cc",
+            "GeneratorInterface/Pythia8Interface/src/Py8InterfaceBase.cc",
+            "GeneratorInterface/Pythia8Interface/test/BuildFile.xml",
+            "GeneratorInterface/Pythia8Interface/test/etaDecayer_cfg.py",
+            "GeneratorInterface/Pythia8Interface/test/testEtaDecayer.cc",
+            "GeneratorInterface/Pythia8Interface/test/test_EtaDecayer.sh"
+        ],
+        "created_at": 1794864084,
+        "number": 52535,
+        "state": "open",
+        "updated_at": 1794864113
     }
 }
