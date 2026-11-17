@@ -5141,5 +5141,19 @@
         "number": 52546,
         "state": "open",
         "updated_at": 1794932016
+    },
+    "52548": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoTracker/LSTCore/interface/alpaka/Common.h",
+            "RecoTracker/LSTCore/src/alpaka/Kernels.h",
+            "RecoTracker/LSTCore/src/alpaka/LSTEvent.dev.cc",
+            "RecoTracker/LSTCore/src/alpaka/PixelQuintuplet.h",
+            "RecoTracker/LSTCore/src/alpaka/TrackCandidate.h"
+        ],
+        "created_at": 1794940595,
+        "number": 52548,
+        "state": "open",
+        "updated_at": 1794940624
     }
 }
