@@ -5061,5 +5061,21 @@
         "number": 52563,
         "state": "open",
         "updated_at": 1795027515
+    },
+    "52564": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/HGCalReco/interface/InterpretationHypotheses.h",
+            "DataFormats/HGCalReco/interface/TICLCandidate.h",
+            "DataFormats/HGCalReco/src/classes.h",
+            "DataFormats/HGCalReco/src/classes_def.xml",
+            "DataFormats/HGCalReco/test/BuildFile.xml",
+            "DataFormats/HGCalReco/test/InterpretationHypotheses_t.cpp",
+            "DataFormats/HGCalReco/test/TICLCandidate_t.cpp"
+        ],
+        "created_at": 1795028290,
+        "number": 52564,
+        "state": "open",
+        "updated_at": 1795028340
     }
 }
