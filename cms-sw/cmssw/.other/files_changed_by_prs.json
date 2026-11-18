@@ -5037,5 +5037,36 @@
         "number": 52561,
         "state": "open",
         "updated_at": 1795015456
+    },
+    "52562": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "PhysicsTools/TruthInfo/interface/RecoHitAdapters.h",
+            "PhysicsTools/TruthInfo/test/BuildFile.xml",
+            "PhysicsTools/TruthInfo/test/RecoHitAdapters_t.cpp",
+            "SimGeneral/TruthGraphAssociatorProducers/README.md",
+            "SimGeneral/TruthGraphAssociatorProducers/plugins/AllRecoToTruthBranchAssociatorsProducer.cc",
+            "SimGeneral/TruthGraphAssociatorProducers/python/customiseTruthGraphAssociators.py",
+            "SimGeneral/TruthGraphAssociatorProducers/python/truthGraphAssociationLabels_cff.py",
+            "SimGeneral/TruthGraphAssociatorProducers/python/truthGraphAssociators_cff.py",
+            "Validation/TruthInfo/README.md",
+            "Validation/TruthInfo/interface/CandidateTruthMatching.h",
+            "Validation/TruthInfo/interface/TruthBranchHistoProducerAlgo.h",
+            "Validation/TruthInfo/plugins/BuildFile.xml",
+            "Validation/TruthInfo/plugins/TruthBranchCandidateValidator.cc",
+            "Validation/TruthInfo/plugins/TruthBranchRecoValidator.cc",
+            "Validation/TruthInfo/python/customiseTruthBranchRequireHits.py",
+            "Validation/TruthInfo/python/truthBranchValidation_cff.py",
+            "Validation/TruthInfo/scripts/makeTruthValidationPlots.py",
+            "Validation/TruthInfo/src/CandidateTruthMatching.cc",
+            "Validation/TruthInfo/src/TruthBranchHistoProducerAlgo.cc",
+            "Validation/TruthInfo/test/BuildFile.xml",
+            "Validation/TruthInfo/test/CandidateTruthMatching_t.cpp",
+            "Validation/TruthInfo/test/customiseTruthBranchRequireHits_t.py"
+        ],
+        "created_at": 1795015618,
+        "number": 52562,
+        "state": "open",
+        "updated_at": 1795015674
     }
 }
