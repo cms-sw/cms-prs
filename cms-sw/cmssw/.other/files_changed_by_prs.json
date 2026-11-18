@@ -4950,5 +4950,32 @@
         "number": 52557,
         "state": "open",
         "updated_at": 1795007439
+    },
+    "52559": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoTICL/Configuration/python/catalog.py",
+            "RecoTICL/Linking/BuildFile.xml",
+            "RecoTICL/Linking/interface/CornettoFeatures.h",
+            "RecoTICL/Linking/interface/CornettoGeometry.h",
+            "RecoTICL/Linking/interface/CornettoGrouping.h",
+            "RecoTICL/Linking/interface/CornettoLinking.h",
+            "RecoTICL/Linking/plugins/TracksterLinkingPlugins.cc",
+            "RecoTICL/Linking/plugins/TracksterLinkingbyCornetto.cc",
+            "RecoTICL/Linking/plugins/TracksterLinkingbyCornetto.h",
+            "RecoTICL/Linking/src/CornettoFeatures.cc",
+            "RecoTICL/Linking/src/CornettoGrouping.cc",
+            "RecoTICL/Linking/src/CornettoLinking.cc",
+            "RecoTICL/Linking/test/BuildFile.xml",
+            "RecoTICL/Linking/test/CornettoConfiguration_t.cpp",
+            "RecoTICL/Linking/test/CornettoFeatures_t.cpp",
+            "RecoTICL/Linking/test/CornettoGeometry_t.cpp",
+            "RecoTICL/Linking/test/CornettoGrouping_t.cpp",
+            "RecoTICL/Linking/test/CornettoLinking_t.cpp"
+        ],
+        "created_at": 1795013445,
+        "number": 52559,
+        "state": "open",
+        "updated_at": 1795013494
     }
 }
