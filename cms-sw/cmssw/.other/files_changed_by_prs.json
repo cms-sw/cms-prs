@@ -4257,33 +4257,6 @@
         "state": "open",
         "updated_at": 1794840700
     },
-    "52521": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "CalibMuon/DTCalibration/plugins/BuildFile.xml",
-            "CalibMuon/DTCalibration/plugins/DTTTrigResidualCorrection.cc",
-            "DQMOffline/EGamma/plugins/PhotonOfflineClient.h",
-            "EgammaAnalysis/ElectronTools/interface/PFIsolationEstimator.h",
-            "EgammaAnalysis/ElectronTools/src/EnergyScaleCorrection_class.cc",
-            "EgammaAnalysis/ElectronTools/src/PFIsolationEstimator.cc",
-            "L1Trigger/L1TMuonOverlapPhase1/BuildFile.xml",
-            "L1Trigger/L1TMuonOverlapPhase2/BuildFile.xml",
-            "RecoLocalCalo/EcalDeadChannelRecoveryAlgos/BuildFile.xml",
-            "RecoMET/METPUSubtraction/plugins/BuildFile.xml",
-            "RecoParticleFlow/PFTracking/interface/ConvBremPFTrackFinder.h",
-            "RecoParticleFlow/PFTracking/plugins/PFElecTkProducer.cc",
-            "RecoParticleFlow/PFTracking/src/ConvBremPFTrackFinder.cc",
-            "RecoTauTag/RecoTau/BuildFile.xml",
-            "RecoTauTag/RecoTau/interface/AntiElectronIDMVA6.h",
-            "RecoTracker/FinalTrackSelectors/BuildFile.xml",
-            "RecoTracker/FinalTrackSelectors/plugins/BuildFile.xml",
-            "RecoTracker/FinalTrackSelectors/plugins/DuplicateListMerger.cc"
-        ],
-        "created_at": 1794750424,
-        "number": 52521,
-        "state": "open",
-        "updated_at": 1794821994
-    },
     "52522": {
         "base_branch": "master",
         "changed_files_names": [
