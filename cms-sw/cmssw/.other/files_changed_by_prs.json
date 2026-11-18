@@ -4977,5 +4977,23 @@
         "number": 52559,
         "state": "open",
         "updated_at": 1795013494
+    },
+    "52560": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoTICL/Inference/interface/TracksterInferenceByShowerShape.h",
+            "RecoTICL/Inference/interface/TracksterLayerClusterProfile.h",
+            "RecoTICL/Inference/plugins/TracksterInferenceAlgoPlugins.cc",
+            "RecoTICL/Inference/src/TracksterInferenceByShowerShape.cc",
+            "RecoTICL/Inference/src/TracksterLayerClusterProfile.cc",
+            "RecoTICL/Inference/test/BuildFile.xml",
+            "RecoTICL/Inference/test/testTracksterInferenceByShowerShape.cc",
+            "RecoTICL/Inference/test/testTracksterShowerShapeFeatures.cc",
+            "RecoTICL/PatternRecognition/plugins/TrackstersProducer.cc"
+        ],
+        "created_at": 1795014383,
+        "number": 52560,
+        "state": "open",
+        "updated_at": 1795014456
     }
 }
