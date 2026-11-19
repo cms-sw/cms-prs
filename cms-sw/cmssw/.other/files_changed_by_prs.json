@@ -5137,5 +5137,24 @@
         "number": 52571,
         "state": "open",
         "updated_at": 1795094065
+    },
+    "52572": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalGeometry/interface/HGCalGeometry.h",
+            "Geometry/HGCalGeometry/src/HGCalGeometry.cc",
+            "RecoLocalCalo/HGCalRecAlgos/interface/HGCalUncalibRecHitRecWeightsAlgo.h",
+            "RecoLocalCalo/HGCalRecProducers/plugins/BuildFile.xml",
+            "RecoLocalCalo/HGCalRecProducers/python/HGCalUncalibRecHit_cfi.py",
+            "SimCalorimetry/HGCalSimAlgos/interface/HGCalSciNoiseMap.h",
+            "SimCalorimetry/HGCalSimAlgos/src/HGCalSciNoiseMap.cc",
+            "SimCalorimetry/HGCalSimProducers/plugins/HGCHEbackDigitizer.cc",
+            "SimCalorimetry/HGCalSimProducers/python/hgcalDigitizer_cfi.py",
+            "SimCalorimetry/HGCalSimProducers/src/HGCFEElectronics.cc"
+        ],
+        "created_at": 1795096064,
+        "number": 52572,
+        "state": "open",
+        "updated_at": 1795096115
     }
 }
