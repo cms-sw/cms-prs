@@ -2892,13 +2892,16 @@
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltDt1DRecHits_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltGemRecHits_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltMuonGEMDigis_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/paths/HLT_Dimuon0_Upsilon_FromL1TkMuon_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/paths/HLT_Mu37_Mu27_FromL1TkMuon_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/paths/HLT_Mu50_FromL1TkMuon_cfi.py"
+            "HLTrigger/Configuration/python/HLT_75e33/paths/HLT_Mu50_FromL1TkMuon_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/paths/HLT_Mu9_Barrel_IP6_FromL1TkMuon_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTDoubleMuonLowMassFromL1TkMuonSequence_cfi.py"
         ],
         "created_at": 1792921800,
         "number": 52285,
         "state": "open",
-        "updated_at": 1795017099
+        "updated_at": 1795072333
     },
     "52288": {
         "base_branch": "master",
