@@ -4571,10 +4571,7 @@
         "base_branch": "master",
         "changed_files_names": [
             "HLTrigger/Configuration/python/HLT_75e33/eventsetup/hltTiclGeomESProducer_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/eventsetup/hltTiclGeomLayersESProducer_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/eventsetup/hltTiclGeomLookupESProducer_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/eventsetup/hltTiclGeomWithBarrelESProducer_cfi.py",
-            "HLTrigger/Configuration/python/HLT_75e33/eventsetup/hltTiclGeomWithBarrelLookupESProducer_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltBarrelLayerClustersEBL1Seeded_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltBarrelLayerClustersEB_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltBarrelLayerClustersHB_cfi.py",
@@ -4635,7 +4632,7 @@
         "created_at": 1794921849,
         "number": 52541,
         "state": "open",
-        "updated_at": 1794922039
+        "updated_at": 1795088645
     },
     "52542": {
         "base_branch": "CMSSW_17_1_X",
