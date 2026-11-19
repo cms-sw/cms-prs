@@ -5112,5 +5112,18 @@
         "number": 52577,
         "state": "open",
         "updated_at": 1795112415
+    },
+    "52578": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DataFormats/Common/interface/DetSet2RangeMap.h",
+            "DataFormats/Common/interface/DetSetNew.h",
+            "DataFormats/Common/interface/DetSetVectorNew.h",
+            "DataFormats/Common/test/test_catch2_DetSetNew.cpp"
+        ],
+        "created_at": 1795120125,
+        "number": 52578,
+        "state": "open",
+        "updated_at": 1795120169
     }
 }
