@@ -5758,5 +5758,25 @@
         "number": 52595,
         "state": "open",
         "updated_at": 1795183496
+    },
+    "52596": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DetectorDescription/Core/src/DDLogicalPart.cc",
+            "DetectorDescription/Core/src/DDValue.cc",
+            "DetectorDescription/Parser/src/DDLDivision.cc",
+            "Geometry/CaloTopology/src/CaloTowerConstituentsMap.cc",
+            "Geometry/CommonTopologies/src/GlobalTrackingGeometry.cc",
+            "Geometry/ForwardGeometry/plugins/ZdcTopologyEP.cc",
+            "Geometry/HcalEventSetup/src/HcalTopologyIdealEP.cc",
+            "Geometry/HcalTowerAlgo/src/HcalGeometry.cc",
+            "Geometry/MuonCommonData/plugins/DDGEMAngular.cc",
+            "GeometryReaders/XMLIdealGeometryESSource/src/XMLIdealGeometryESSource.cc",
+            "GeometryReaders/XMLIdealGeometryESSource/src/XMLIdealMagneticFieldGeometryESProducer.cc"
+        ],
+        "created_at": 1795183472,
+        "number": 52596,
+        "state": "open",
+        "updated_at": 1795183503
     }
 }
