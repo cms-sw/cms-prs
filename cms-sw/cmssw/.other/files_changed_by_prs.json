@@ -5170,5 +5170,38 @@
         "number": 52582,
         "state": "open",
         "updated_at": 1795165354
+    },
+    "52583": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltBarrelLayerClustersEBMuonSeeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEcalBarrelDigisMuonSeeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEcalRecHitMuonSeeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltEcalUncalibRecHitMuonSeeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHGCalRecHitMuonSeeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHGCalUncalibRecHitMuonSeeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHgcalDigisMuonSeeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHgcalLayerClustersEEMuonSeeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHgcalLayerClustersHSciMuonSeeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHgcalLayerClustersHSiMuonSeeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltL3crIsoL1TkSingleMu22L3f24QL3pfecalIsoFiltered0p41_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltL3crIsoL1TkSingleMu22L3f24QL3pfhgcalIsoFiltered4p70_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltMergeLayerClustersMuonSeeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleFlowClusterECALMuonSeeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleFlowClusterECALUncorrectedMuonSeeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltParticleFlowRecHitECALMuonSeeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2L3MuonsEcalIsodR0p3dRVeto0p000MuonSeeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2L3MuonsHgcalLCIsodR0p2dRVetoEM0p00dRVetoHad0p02minEEM0p00minEHad0p00MuonSeeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/paths/HLT_IsoMu20_eta2p1_LooseDeepTauPFTauHPS27_eta2p1_CrossL1_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/paths/HLT_IsoMu24_FromL1TkMuon_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTEcalPFClusteringMuonSeededSequence_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTTICLLocalRecoMuonSeededSequence_cfi.py",
+            "RecoEgamma/EgammaHLTProducers/plugins/BuildFile.xml",
+            "RecoEgamma/EgammaHLTProducers/plugins/HLTCaloObjInRegionsProducer.cc"
+        ],
+        "created_at": 1795166837,
+        "number": 52583,
+        "state": "open",
+        "updated_at": 1795166863
     }
 }
