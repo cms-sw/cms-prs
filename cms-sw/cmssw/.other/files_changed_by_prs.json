@@ -2013,6 +2013,7 @@
     "51807": {
         "base_branch": "master",
         "changed_files_names": [
+            "HeterogeneousCore/MPICore/README.md",
             "HeterogeneousCore/MPICore/interface/MPIChannel.h",
             "HeterogeneousCore/MPICore/interface/messages.h",
             "HeterogeneousCore/MPICore/plugins/MPIController.cc",
@@ -2020,12 +2021,13 @@
             "HeterogeneousCore/MPICore/src/MPIChannel.cc",
             "HeterogeneousCore/MPICore/test/BuildFile.xml",
             "HeterogeneousCore/MPICore/test/controller_concurrent_run_lumi_cfg.py",
-            "HeterogeneousCore/MPICore/test/follower_concurrent_run_lumi_cfg.py"
+            "HeterogeneousCore/MPICore/test/follower_concurrent_run_lumi_cfg.py",
+            "HeterogeneousCore/MPICore/test/testMPIConcurrentRunLumi.sh"
         ],
         "created_at": 1788349335,
         "number": 51807,
         "state": "open",
-        "updated_at": 1789738242
+        "updated_at": 1795195243
     },
     "51828": {
         "base_branch": "master",
