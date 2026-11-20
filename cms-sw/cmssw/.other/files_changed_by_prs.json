@@ -5137,5 +5137,18 @@
         "number": 52579,
         "state": "open",
         "updated_at": 1795153882
+    },
+    "52580": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalCommonData/src/HGCalGeomParameters.cc",
+            "Geometry/HGCalGeometry/src/HGCalGeometry.cc",
+            "Geometry/HGCalGeometry/test/HGCalAreaTester.cc",
+            "Geometry/HGCalGeometry/test/python/testHGCalArea_cfg.py"
+        ],
+        "created_at": 1795154942,
+        "number": 52580,
+        "state": "open",
+        "updated_at": 1795154967
     }
 }
