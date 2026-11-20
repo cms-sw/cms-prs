@@ -5002,15 +5002,15 @@
     "52570": {
         "base_branch": "master",
         "changed_files_names": [
-            "DataFormats/HGCRecHit/BuildFile.xml",
-            "DataFormats/HGCRecHit/interface/HGCRecHitCollections.h",
             "DataFormats/HGCRecHit/plugins/BuildFile.xml",
-            "DataFormats/HGCRecHit/plugins/TrivialSerialisation.cc"
+            "DataFormats/HGCRecHit/plugins/TrivialSerialisation.cc",
+            "DataFormats/TrivialSerialisation/README.md",
+            "DataFormats/TrivialSerialisation/interface/MemoryCopyTraits.h"
         ],
         "created_at": 1795091268,
         "number": 52570,
         "state": "open",
-        "updated_at": 1795091303
+        "updated_at": 1795183705
     },
     "52571": {
         "base_branch": "master",
