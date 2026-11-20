@@ -5116,15 +5116,16 @@
     "52578": {
         "base_branch": "master",
         "changed_files_names": [
-            "DataFormats/Common/interface/DetSet2RangeMap.h",
             "DataFormats/Common/interface/DetSetNew.h",
             "DataFormats/Common/interface/DetSetVectorNew.h",
-            "DataFormats/Common/test/test_catch2_DetSetNew.cpp"
+            "DataFormats/Common/test/test_catch2_DetSetNew.cpp",
+            "DataFormats/Common/test/test_catch2_DetSetNewTS.cpp",
+            "DataFormats/Common/test/test_catch2_exDSTV.cpp"
         ],
         "created_at": 1795120125,
         "number": 52578,
         "state": "open",
-        "updated_at": 1795120169
+        "updated_at": 1795182880
     },
     "52579": {
         "base_branch": "master",
