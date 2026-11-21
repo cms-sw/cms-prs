@@ -6036,5 +6036,19 @@
         "number": 52614,
         "state": "open",
         "updated_at": 1795252417
+    },
+    "52615": {
+        "base_branch": "CMSSW_17_1_X",
+        "changed_files_names": [
+            "PhysicsTools/PatAlgos/python/producersLayer1/patCandidates_cff.py",
+            "PhysicsTools/PatAlgos/python/selectionLayer1/selectedPatCandidates_cff.py",
+            "PhysicsTools/PatAlgos/python/slimming/slimmedMuons_cfi.py",
+            "PhysicsTools/PatAlgos/python/slimming/slimmedTrackExtras_cff.py",
+            "PhysicsTools/PatAlgos/python/slimming/slimming_cff.py"
+        ],
+        "created_at": 1795277906,
+        "number": 52615,
+        "state": "open",
+        "updated_at": 1795277906
     }
 }
