@@ -3143,6 +3143,7 @@
             "Validation/RecoMET/python/METRelValForDQM_cff.py",
             "Validation/RecoMET/python/METValidation_cfi.py",
             "Validation/RecoMET/python/hltMETValidation_cff.py",
+            "Validation/RecoMET/python/mhtScanUtils.py",
             "Validation/RecoMET/scripts/makeHLTMETValidationPlots.py",
             "Validation/RecoMET/scripts/makeMETValidationPlots.py",
             "Validation/RecoMET/test/BuildFile.xml",
@@ -3153,7 +3154,7 @@
         "created_at": 1793714671,
         "number": 52386,
         "state": "open",
-        "updated_at": 1795364282
+        "updated_at": 1795367485
     },
     "52405": {
         "base_branch": "CMSSW_17_0_X",
