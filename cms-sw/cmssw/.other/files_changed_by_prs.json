@@ -3144,14 +3144,16 @@
             "Validation/RecoMET/python/METValidation_cfi.py",
             "Validation/RecoMET/python/hltMETValidation_cff.py",
             "Validation/RecoMET/scripts/makeHLTMETValidationPlots.py",
+            "Validation/RecoMET/scripts/makeMETValidationPlots.py",
             "Validation/RecoMET/test/BuildFile.xml",
             "Validation/RecoMET/test/testSliceBinRanges.cc",
+            "Validation/RecoMET/test/test_makeMETValidationPlots.sh",
             "Validation/RecoMET/test/test_makeHLTMETValidationPlots.sh"
         ],
         "created_at": 1793714671,
         "number": 52386,
         "state": "open",
-        "updated_at": 1795363847
+        "updated_at": 1795364282
     },
     "52405": {
         "base_branch": "CMSSW_17_0_X",
