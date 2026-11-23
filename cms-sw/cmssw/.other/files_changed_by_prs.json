@@ -5203,5 +5203,30 @@
         "number": 52625,
         "state": "open",
         "updated_at": 1795370419
+    },
+    "52626": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Framework/interface/EDConsumerBase.h",
+            "FWCore/Framework/interface/maker/ModuleTransitionWorker.h",
+            "FWCore/Framework/interface/maker/TransitionWorkerBase.h",
+            "FWCore/Framework/interface/stream/EDAnalyzerAdaptorBase.h",
+            "FWCore/Framework/interface/stream/ProducingModuleAdaptorBase.h",
+            "FWCore/Framework/src/EDConsumerBase.cc",
+            "FWCore/Framework/src/EventProcessor.cc",
+            "FWCore/Framework/src/ModuleHolderT.cc",
+            "FWCore/Framework/src/stream/EDAnalyzerAdaptorBase.cc",
+            "FWCore/Framework/src/stream/ProducingModuleAdaptorBase.cc",
+            "FWCore/Framework/test/Event_t.cpp",
+            "FWCore/Framework/test/checkForModuleDependencyCorrectness_t.catch2.cc",
+            "FWCore/Framework/test/edconsumerbase_t.catch2.cc",
+            "FWCore/ServiceRegistry/interface/ModuleConsumesInfo.h",
+            "FWCore/ServiceRegistry/src/ModuleConsumesInfo.cc",
+            "FWCore/Services/plugins/Tracer.cc"
+        ],
+        "created_at": 1795392383,
+        "number": 52626,
+        "state": "open",
+        "updated_at": 1795392414
     }
 }
