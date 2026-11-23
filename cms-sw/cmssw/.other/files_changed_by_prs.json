@@ -4512,26 +4512,6 @@
         "state": "open",
         "updated_at": 1795183705
     },
-    "52571": {
-        "base_branch": "master",
-        "changed_files_names": [
-            "CondFormats/MTDObjects/interface/BTLElectronicsId.h",
-            "CondFormats/MTDObjects/interface/BTLElectronicsIndexing.h",
-            "CondFormats/MTDObjects/interface/BTLElectronicsSpecs.h",
-            "EventFilter/MTDRawToDigi/interface/BTLElectronicsSpecs.h",
-            "CondFormats/MTDObjects/interface/BTLReadoutMap.h",
-            "CondFormats/MTDObjects/src/BTLElectronicsId.cc",
-            "CondFormats/MTDObjects/src/BTLReadoutMap.cc",
-            "EventFilter/MTDRawToDigi/interface/BTLElectronicsMapping.h",
-            "EventFilter/MTDRawToDigi/plugins/BTLReadoutMapESProducer.cc",
-            "EventFilter/MTDRawToDigi/src/BTLElectronicsMapping.cc",
-            "EventFilter/MTDRawToDigi/test/TestBTLReadoutMap.cc"
-        ],
-        "created_at": 1795094038,
-        "number": 52571,
-        "state": "open",
-        "updated_at": 1795094065
-    },
     "52572": {
         "base_branch": "master",
         "changed_files_names": [
