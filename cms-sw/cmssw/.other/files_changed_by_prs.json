@@ -4807,5 +4807,18 @@
         "number": 52632,
         "state": "open",
         "updated_at": 1795465299
+    },
+    "52633": {
+        "base_branch": "CMSSW_15_0_X",
+        "changed_files_names": [
+            "Configuration/Eras/python/Era_Run3_2025_NEON_cff.py",
+            "Configuration/Eras/python/Era_Run3_2025_OXY_cff.py",
+            "Configuration/Eras/python/Era_Run3_2025_UPC_OXY_cff.py",
+            "RecoLocalTracker/SiPixelRecHits/python/PixelCPEGeneric_cfi.py"
+        ],
+        "created_at": 1795466305,
+        "number": 52633,
+        "state": "open",
+        "updated_at": 1795466353
     }
 }
