@@ -5090,5 +5090,26 @@
         "number": 52640,
         "state": "open",
         "updated_at": 1795489028
+    },
+    "52641": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2PixelTrackForestHighPuritySelector_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltPhase2PixelTrackTorchHighPuritySelector_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/sequences/HLTPhase2PixelTracksAndVerticesSequence_cfi.py",
+            "RecoTracker/PixelSeeding/test/models/README.md",
+            "RecoTracker/PixelSeeding/test/models/make_base_config.sh",
+            "RecoTracker/PixelSeeding/test/models/nano_loader.py",
+            "RecoTracker/PixelSeeding/test/models/retrain_common.sh",
+            "RecoTracker/PixelSeeding/test/models/retrain_prompt.sh",
+            "RecoTracker/PixelSeeding/test/models/trackNano_config.py",
+            "RecoTracker/PixelSeeding/test/models/train_merged_forest.py",
+            "RecoTracker/PixelSeeding/test/models/train_torch_hp_dnn.py",
+            "RecoTracker/PixelTrackFitting/python/PixelTracks_cff.py"
+        ],
+        "created_at": 1795523051,
+        "number": 52641,
+        "state": "open",
+        "updated_at": 1795523079
     }
 }
