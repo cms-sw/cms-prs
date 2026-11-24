@@ -4984,5 +4984,17 @@
         "number": 52652,
         "state": "open",
         "updated_at": 1795539434
+    },
+    "52653": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoTracker/LSTCore/interface/alpaka/Common.h",
+            "RecoTracker/LSTCore/src/alpaka/LST.cc",
+            "RecoTracker/LSTCore/src/alpaka/LSTEvent.dev.cc"
+        ],
+        "created_at": 1795539877,
+        "number": 52653,
+        "state": "open",
+        "updated_at": 1795539908
     }
 }
