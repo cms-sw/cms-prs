@@ -5078,5 +5078,17 @@
         "number": 52638,
         "state": "open",
         "updated_at": 1795486766
+    },
+    "52639": {
+        "base_branch": "CMSSW_17_0_X",
+        "changed_files_names": [
+            "Configuration/Eras/python/Era_Run3_pp_on_PbPb_2023_cff.py",
+            "Configuration/Eras/python/Era_Run3_pp_on_PbPb_2024_cff.py",
+            "Configuration/PyReleaseValidation/python/relval_steps.py"
+        ],
+        "created_at": 1795486963,
+        "number": 52639,
+        "state": "open",
+        "updated_at": 1795486989
     }
 }
