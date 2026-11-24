@@ -1910,6 +1910,7 @@
         "base_branch": "master",
         "changed_files_names": [
             "DataFormats/L1TrackTrigger/interface/TTCluster.h",
+            "DataFormats/L1TrackTrigger/interface/TTStub.h",
             "DataFormats/L1TrackTrigger/src/TTCluster.cc",
             "L1Trigger/TrackTrigger/interface/TTClusterAlgorithmNew_official.h",
             "L1Trigger/TrackTrigger/plugins/TTClusterBuilder.cc",
@@ -1926,7 +1927,7 @@
         "created_at": 1787150394,
         "number": 51738,
         "state": "open",
-        "updated_at": 1794952394
+        "updated_at": 1795532928
     },
     "51748": {
         "base_branch": "master",
