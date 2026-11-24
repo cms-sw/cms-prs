@@ -5154,5 +5154,37 @@
         "number": 52643,
         "state": "open",
         "updated_at": 1795524756
+    },
+    "52644": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/HGCalGeometry/test/python/hgcGeomAnalyzer_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalCellDumpDD4hep_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalCellDumpDDD_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalCornerCheck_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalCorner_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalGeomCheck_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalGeomLocatorHSi_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalGeomLocatorSc_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalGeomLocator_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalGeometryCheck_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalGeometryMouseBite_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalGeometryNewCorners_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalGeometryRotCheck_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalGeometryRotTest_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalGeometry_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalRecHitTool_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalSize_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalWaferCell_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalWaferInFileCheck_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalWaferInFileTest_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalWaferInfo_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalWaferSimWt_cfg.py",
+            "Geometry/HGCalGeometry/test/python/testHGCalWaferTypeTester_cfg.py"
+        ],
+        "created_at": 1795526104,
+        "number": 52644,
+        "state": "open",
+        "updated_at": 1795526137
     }
 }
