@@ -4996,5 +4996,18 @@
         "number": 52661,
         "state": "open",
         "updated_at": 1795626685
+    },
+    "52662": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "CalibCalorimetry/HcalPlugins/src/HcalDbProducer.cc",
+            "CalibFormats/HcalObjects/interface/HcalDbRecord.h",
+            "CalibFormats/HcalObjects/interface/HcalDbService.h",
+            "CalibFormats/HcalObjects/src/HcalDbService.cc"
+        ],
+        "created_at": 1795640086,
+        "number": 52662,
+        "state": "open",
+        "updated_at": 1795640108
     }
 }
