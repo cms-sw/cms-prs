@@ -4872,5 +4872,17 @@
         "number": 52654,
         "state": "open",
         "updated_at": 1795582391
+    },
+    "52655": {
+        "base_branch": "CMSSW_17_1_X",
+        "changed_files_names": [
+            "PhysicsTools/PatAlgos/python/slimming/slimmedMuons_cfi.py",
+            "PhysicsTools/PatAlgos/python/slimming/slimmedTrackExtras_cff.py",
+            "PhysicsTools/PatAlgos/python/slimming/slimming_cff.py"
+        ],
+        "created_at": 1795586574,
+        "number": 52655,
+        "state": "open",
+        "updated_at": 1795586599
     }
 }
