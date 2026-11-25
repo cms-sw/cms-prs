@@ -4949,5 +4949,41 @@
         "number": 52659,
         "state": "open",
         "updated_at": 1795613499
+    },
+    "52660": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "FWCore/Utilities/interface/Philox.h",
+            "FWCore/Utilities/test/test_catch2_Philox.cc",
+            "HeterogeneousCore/AlpakaInterface/interface/random.h",
+            "HeterogeneousCore/AlpakaInterface/test/BuildFile.xml",
+            "HeterogeneousCore/AlpakaInterface/test/alpaka/testPhilox.dev.cc",
+            "IOMC/RandomEngine/interface/PhiloxEngine.h",
+            "IOMC/RandomEngine/plugins/RandomNumberGeneratorService.cc",
+            "IOMC/RandomEngine/plugins/RandomNumberGeneratorService.h",
+            "IOMC/RandomEngine/python/IOMC_cff.py",
+            "IOMC/RandomEngine/src/PhiloxEngine.cc",
+            "IOMC/RandomEngine/src/cloneEngine.cc",
+            "IOMC/RandomEngine/test/BuildFile.xml",
+            "IOMC/RandomEngine/test/TestEventSeededRandom.cc",
+            "IOMC/RandomEngine/test/reseedCost.cc",
+            "IOMC/RandomEngine/test/testEventSeeded_cfg.py",
+            "IOMC/RandomEngine/test/testRandomService.sh",
+            "IOMC/RandomEngine/test/test_catch2_PhiloxEngine.cc",
+            "IOMC/RandomEngine/test/unit_test_outputs/testEventSeeded.txt",
+            "SimCalorimetry/HGCalSimProducers/interface/HGCDigitizerBase.h",
+            "SimCalorimetry/HGCalSimProducers/plugins/BuildFile.xml",
+            "SimCalorimetry/HGCalSimProducers/plugins/HGCDigitizerBase.cc",
+            "SimCalorimetry/HGCalSimProducers/python/hgcalDigitizer_cfi.py",
+            "SimCalorimetry/HGCalSimProducers/test/BuildFile.xml",
+            "SimCalorimetry/HGCalSimProducers/test/HGCalDigiDigest.cc",
+            "SimCalorimetry/HGCalSimProducers/test/hgcalDigiDigest_cfg.py",
+            "SimCalorimetry/HGCalSimProducers/test/hgcalNoiseTable_cfg.py",
+            "SimCalorimetry/HGCalSimProducers/test/testHGCalNoiseTable.sh"
+        ],
+        "created_at": 1795614683,
+        "number": 52660,
+        "state": "open",
+        "updated_at": 1795614706
     }
 }
