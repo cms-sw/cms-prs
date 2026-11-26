@@ -4954,5 +4954,24 @@
         "number": 52670,
         "state": "open",
         "updated_at": 1795698864
+    },
+    "52671": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQMOffline/Trigger/python/DQMOffline_Trigger_cff.py",
+            "DQMOffline/Trigger/python/V0Monitoring_cff.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltGeneralV0Candidates_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/paths/DST_NGTScouting_cfi.py",
+            "HLTrigger/Configuration/python/HLTrigger_EventContent_cff.py",
+            "HLTrigger/NGTScouting/plugins/BuildFile.xml",
+            "HLTrigger/NGTScouting/plugins/HLTV0TableProducer.cc",
+            "HLTrigger/NGTScouting/python/HLTNanoProducer_cff.py",
+            "HLTrigger/NGTScouting/python/hltNanoDQM_cff.py",
+            "HLTrigger/NGTScouting/python/hltV0s_cfi.py"
+        ],
+        "created_at": 1795701662,
+        "number": 52671,
+        "state": "open",
+        "updated_at": 1795701697
     }
 }
