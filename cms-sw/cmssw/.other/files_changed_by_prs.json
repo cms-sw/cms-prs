@@ -2033,7 +2033,6 @@
             "DQMOffline/ParticleFlow/python/offsetAnalyzerDQM_cff.py",
             "Validation/RecoParticleFlow/python/offsetAnalyzerDQM_cff.py",
             "DQMOffline/ParticleFlow/python/particleFlowDQM_cff.py",
-            "Validation/RecoParticleFlow/python/particleFlowDQM_cff.py",
             "DQMOffline/ParticleFlow/python/runBasic_cff.py",
             "DQMOffline/ParticleFlow/python/runBasic_cfg.py",
             "DQMOffline/ParticleFlow/python/runBasic_step2_cfg.py",
@@ -2045,16 +2044,18 @@
             "HLTriggerOffline/Common/python/HLTValidation_cff.py",
             "Validation/RecoParticleFlow/plugins/PFCaloGPUComparisonTask.cc",
             "Validation/RecoParticleFlow/plugins/PFCandidateAnalyzerDQM.cc",
+            "Validation/RecoParticleFlow/plugins/PFJetAnalyzerDQM.cc",
             "Validation/RecoParticleFlow/python/DQMForPF_MiniAOD_cff.py",
             "Validation/RecoParticleFlow/python/PFClusterValidation_cff.py",
             "Validation/RecoParticleFlow/python/defaults_cfi.py",
+            "Validation/RecoParticleFlow/python/particleFlowDQM_cff.py",
             "Validation/RecoParticleFlow/python/pfCaloGPUComparisonTask_cfi.py",
             "Validation/RecoParticleFlow/test/compare.py"
         ],
         "created_at": 1790349190,
         "number": 51979,
         "state": "open",
-        "updated_at": 1795712208
+        "updated_at": 1795721779
     },
     "52008": {
         "base_branch": "master",
