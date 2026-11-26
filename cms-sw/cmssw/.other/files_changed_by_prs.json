@@ -4995,5 +4995,21 @@
         "number": 52673,
         "state": "open",
         "updated_at": 1795704680
+    },
+    "52674": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "DQM/SiTrackerPhase2/interface/TrackerPhase2DQMUtil.h",
+            "DQM/SiTrackerPhase2/plugins/Phase2OTMonitorTTCluster.cc",
+            "DQM/SiTrackerPhase2/plugins/Phase2OTMonitorTTStub.cc",
+            "DQM/SiTrackerPhase2/plugins/Phase2TrackerMonitorDigi.cc",
+            "DQM/SiTrackerPhase2/src/TrackerPhase2DQMUtil.cc",
+            "Validation/SiTrackerPhase2V/plugins/Phase2ITRecHitHarvester.cc",
+            "Validation/SiTrackerPhase2V/plugins/Phase2TrackerValidateDigi.cc"
+        ],
+        "created_at": 1795708486,
+        "number": 52674,
+        "state": "open",
+        "updated_at": 1795708509
     }
 }
