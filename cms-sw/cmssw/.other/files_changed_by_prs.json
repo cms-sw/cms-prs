@@ -4983,5 +4983,17 @@
         "number": 52672,
         "state": "open",
         "updated_at": 1795702089
+    },
+    "52673": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "RecoTracker/PixelSeeding/plugins/alpaka/CACell.h",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAHitNtupletGeneratorKernelsImpl.h",
+            "RecoTracker/PixelSeeding/plugins/alpaka/CAPixelDoubletsAlgos.h"
+        ],
+        "created_at": 1795704650,
+        "number": 52673,
+        "state": "open",
+        "updated_at": 1795704680
     }
 }
