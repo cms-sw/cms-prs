@@ -4134,8 +4134,8 @@
     "52572": {
         "base_branch": "master",
         "changed_files_names": [
-            "Geometry/HGCalGeometry/interface/HGCalGeometry.h",
-            "Geometry/HGCalGeometry/src/HGCalGeometry.cc",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHGCalRecHitL1Seeded_cfi.py",
+            "HLTrigger/Configuration/python/HLT_75e33/modules/hltHGCalRecHit_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltHGCalUncalibRecHitL1Seeded_cfi.py",
             "HLTrigger/Configuration/python/HLT_75e33/modules/hltHGCalUncalibRecHit_cfi.py",
             "RecoLocalCalo/HGCalRecAlgos/interface/HGCalUncalibRecHitRecWeightsAlgo.h",
@@ -4150,7 +4150,7 @@
         "created_at": 1795096064,
         "number": 52572,
         "state": "open",
-        "updated_at": 1795649440
+        "updated_at": 1795779856
     },
     "52573": {
         "base_branch": "master",
