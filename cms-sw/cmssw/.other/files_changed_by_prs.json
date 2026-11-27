@@ -2887,6 +2887,7 @@
             "DataFormats/HGCalDigi/src/classes_def.xml",
             "DataFormats/HGCalDigi/test/BuildFile.xml",
             "DataFormats/HGCalDigi/test/HGCROCSampleTest.cc",
+            "EventFilter/HGCalRawToDigi/plugins/HGCalRawToDigi.cc",
             "EventFilter/HGCalRawToDigi/src/HGCalUnpacker.cc",
             "RecoLocalCalo/HGCalRecAlgos/interface/alpaka/HGCalRecHitCalibrationAlgorithms.h",
             "SimCalorimetry/HGCalSimAlgos/interface/alpaka/HGCROCChannelFramer.h",
@@ -2906,7 +2907,7 @@
         "created_at": 1793953860,
         "number": 52406,
         "state": "open",
-        "updated_at": 1794844843
+        "updated_at": 1795770754
     },
     "52410": {
         "base_branch": "CMSSW_17_1_X",
