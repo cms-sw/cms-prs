@@ -5032,5 +5032,18 @@
         "number": 52676,
         "state": "open",
         "updated_at": 1795765973
+    },
+    "52677": {
+        "base_branch": "master",
+        "changed_files_names": [
+            "Geometry/ForwardCommonData/test/g4OverlapCheckRun3_cfg.py",
+            "Geometry/ForwardCommonData/test/g4OverlapCheckRun4_cfg.py",
+            "Geometry/HcalCommonData/test/python/runHcalParametersFromDD4hepAnalyzer_cfg.py",
+            "Geometry/HcalCommonData/test/python/runHcalParametersFromDDDAnalyzer_cfg.py"
+        ],
+        "created_at": 1795843800,
+        "number": 52677,
+        "state": "open",
+        "updated_at": 1795843828
     }
 }
