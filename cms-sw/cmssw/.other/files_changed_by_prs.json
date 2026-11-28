@@ -4958,6 +4958,7 @@
             "HLTrigger/Configuration/python/HLTrigger_EventContent_cff.py",
             "HLTrigger/NGTScouting/plugins/BuildFile.xml",
             "HLTrigger/NGTScouting/plugins/HLTV0TableProducer.cc",
+            "HLTrigger/NGTScouting/plugins/HLTV0TruthTableProducer.cc",
             "HLTrigger/NGTScouting/python/HLTNanoProducer_cff.py",
             "HLTrigger/NGTScouting/python/hltNanoDQM_cff.py",
             "HLTrigger/NGTScouting/python/hltV0s_cfi.py"
@@ -4965,7 +4966,7 @@
         "created_at": 1795701662,
         "number": 52671,
         "state": "open",
-        "updated_at": 1795701697
+        "updated_at": 1795850475
     },
     "52672": {
         "base_branch": "master",
